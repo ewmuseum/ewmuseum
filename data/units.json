@@ -124500,6 +124500,47 @@
       ]
     },
     {
+      "id": "the-machynes-of-wrestling-pwa-2011",
+      "type": "unit",
+      "name": "The Machynes of Wrestling",
+      "tenures": [
+        {
+          "promotion": "pwa-2011",
+          "first_seen": "2011-06-20",
+          "last_seen": "2011-07-02",
+          "grade": "primary-source",
+          "role": "tag team: PWA Tag Team Champions from 2 July 2011",
+          "source": "promotions/pwa-2011/rp/victor-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+          "note": "Shaw Xtreme names himself and Icon The Machynes of Wrestling in a promo of 20 June and challenges Victor and CM Monster; the pair win the Tag Team Championships in the 2 July ladder match against them."
+        }
+      ],
+      "caption": "Icon and Shaw Xtreme, who called themselves The Machynes of Wrestling on 20 June 2011 and won the PWA Tag Team Championships in a ladder match against Victor and CM Monster on 2 July.",
+      "caption_asof": {
+        "written": "2026-10-11",
+        "author": "ai",
+        "evidence": {
+          "tenures": 1,
+          "reigns": 0,
+          "appearances": 1,
+          "rps": 0,
+          "awards": 0,
+          "relationships": 0
+        }
+      },
+      "identity": [],
+      "unit_kind": "tag-team",
+      "members": [
+        {
+          "name": "Icon",
+          "character_id": "icon-pwa-2011"
+        },
+        {
+          "name": "Shaw Xtreme",
+          "character_id": "shaw-xtreme-pwa-2011"
+        }
+      ]
+    },
+    {
       "id": "the-mafia-bwf",
       "type": "unit",
       "name": "The MAFIA",

@@ -89,7 +89,7 @@ def main():
             if len(drows) != 1: probs.append(f"{tag}: served, with {len(drows)} documents.json row(s) (exactly one expected)"); continue
             ids = set()
             for s in drows[0].get("sources") or []:
-                if isinstance(s, dict): ids |= {str(s.get(k)) for k in ("msg_id", "url", "identifier") if s.get(k)}
+                if isinstance(s, dict): ids |= {str(s.get(k)) for k in ("msg_id", "url", "identifier", "captured_at") if s.get(k)}  # hook c290: a Wayback-only source matches by its capture date
             if r["msg_id"] not in ids and not any(r["msg_id"] in x for x in ids):
                 probs.append(f"{tag}: its documents.json row carries no source {r['msg_id']} (is this still the document the wave read?)"); continue
             todo.append((r, live, keep))

@@ -388,7 +388,7 @@
       ],
       "tagline": "The Future of E-Wrestling",
       "tier": 3,
-      "tier_source": "200 shows structured, full show-by-show crawl (the registry: 200 GIWF rows; see this row's own caption_asof) — one of the fleet-era deep dives (docs/'s depth-tier ladder).",
+      "tier_source": "200 shows structured, full show-by-show crawl (the registry: 200 GIWF rows; see this row's own caption_asof) — one of the fleet-era deep dives (docs/PROCESS.md's depth-tier ladder).",
       "visibility": "gated",
       "years": "1999–2001",
       "type": "federation",
@@ -2724,7 +2724,7 @@
       "tagline": "The UWF: Wrestling in a Universal Sort of Way",
       "tagline_source": "The fed's own rolling front page, served at promotions/uwf/archive/ (lot 0060) — a primary-source receipt for a previously-empty field, applied at the coordinator's discretion on the enrichment lane's recommendation, 2026-08-25.",
       "tier": 3,
-      "tier_source": "190 shows structured and 759 roleplays served, full show-by-show crawl (see this row's own caption_asof) — the collection's own deepest single record ('s depth-tier ladder).",
+      "tier_source": "249 shows structured and 765 roleplays served among 1,061 served documents, full show-by-show crawl (docs/PROCESS.md's depth-tier ladder).",
       "visibility": "gated",
       "years": "2001–2007",
       "type": "federation",
@@ -71477,13 +71477,12 @@
           "related": [],
           "sources": [
             {
-              "kind": "unknown",
-              "page": "/promotions/ptwf/archive/rival-operator-exchange.html"
+              "kind": "unknown"
             }
           ],
           "grade": "primary-source",
           "recorded": "2026-09-13",
-          "summary": "The age-11 self-disclosure, made during a public dispute with a rival operator, is the ordinary biographical class and does not escalate."
+          "summary": "The operator's public dispute with a rival operator on rec.sport.pro-wrestling.fantasy, April 1997."
         },
         {
           "kind": "document-collected",
@@ -150427,7 +150426,7 @@
           ],
           "grade": "primary-source",
           "recorded": "2026-09-20",
-          "summary": "A held wing named new-2000 already serves this same fed's mid-2000-to-2001 broadcasts as a distinct entity."
+          "summary": "The held wing new-2000 serves this same fed's broadcasts of July 2000 to 2002, whose first shows replay this fed's 1996-99 history as their own."
         },
         {
           "kind": "identity-guard",
@@ -150505,6 +150504,14 @@
           "note": "Checked against the held wing new-networkextreme-1995 (\"NEW\", full name \"Network Extreme Wrestling\", 1995): different full name, different operator, non-overlapping single-season run.",
           "with": [
             "new-networkextreme-1995"
+          ]
+        },
+        {
+          "assertion": "presumed-same",
+          "grade": "primary-source",
+          "note": "One company with new-2000, held apart only until the two records are merged. Its own Update #1 of 18 June 2000 bills the five-camp 'Resurrection' card that new-2000's Saturday Night Shockwaves of 1 July 2000 stages, and new-2000's broadcasts replay this fed's 1996 to 1999 history, its champions and its Clearwater office as N.E.W.'s own past, count Brawl on the Bayou on to IV, and decide its vacant Heavyweight Championship: the same name, shows and home with only a belt reset.",
+          "with": [
+            "new-2000"
           ]
         }
       ],
@@ -244627,7 +244634,7 @@
       "id": "new-2000",
       "name": "N.E.W. (E-Fed Universe, 2000–2002)",
       "full_name": "National Extreme Wrestling",
-      "qualifier": "not the 1996-98 N.E.W.",
+      "qualifier": "E-Fed Universe, 2000–2002",
       "band": null,
       "visibility": "gated",
       "page": "/promotions/new-2000/",
@@ -245030,13 +245037,36 @@
           "grade": "primary-source",
           "recorded": "2026-09-22",
           "summary": "Shootfire Pro Wrestling's 23 July 2002 broadcast narrates Corey Irons pinning Vik Ventressa in its world title tournament."
+        },
+        {
+          "kind": "title-lineage",
+          "date": {
+            "date": "2000-09",
+            "precision": "month"
+          },
+          "span": null,
+          "subject": "new-2000",
+          "related": [
+            "new-extreme-1996"
+          ],
+          "sources": [
+            {
+              "kind": "newsgroup",
+              "newsgroup": "rec.sport.pro-wrestling.fantasy",
+              "msg_id": "8tYPFrnVJ4IJ",
+              "url": "https://groups.google.com/g/rec.sport.pro-wrestling.fantasy/c/yqY5Bh1sekU/m/8tYPFrnVJ4IJ"
+            }
+          ],
+          "grade": "primary-source",
+          "recorded": "2026-10-11",
+          "summary": "Brawl on the Bayou IV decides 'the vacant N.E.W. Heavyweight Championship' of the 1996 fed: a belt reset under its own name, shows and home."
         }
       ],
       "identity": [
         {
-          "assertion": "distinct",
+          "assertion": "presumed-same",
           "grade": "primary-source",
-          "note": "Shares the N.E.W. letters with the held new-extreme-1996 (National Extreme Wrestling, Clearwater Beach FL, closed circa 1999); no wrestler, title or show name recurs across the two records despite both being read in full.",
+          "note": "One company, National Extreme Wrestling, back after a hiatus, held apart from new-extreme-1996 only until the two records are merged. Its Saturday Night Shockwaves of 1 and 8 July 2000 (/promotions/new-2000/archive/new-saturday-night-shockwaves-2000-07-08.html) open on 'images of N.E.W.'s glorious past': its first pay-per-view, Hell for the Holidays of December 1996, the first-ever N.E.W. Heavyweight Champion, a former champion defending the N.E.W. World Title, and its former CEO's empty office at N.E.W. Towers in Clearwater, Florida. The Update #1 of 18 June 2000 (/promotions/new-extreme-1996/archive/update-1-2000-06-18.html) announces the five-camp 'Resurrection' card the 1 July show stages, with 'the first N.E.W. sanctioned match in almost FIFTEEN MONTHS'. The 8 July show bills Brawl on the Bayou IV as 'N.E.W. returns to Pay Per View for the first time in over 2 years', and that card, 'the fourth ever Brawl on the Bayou', decides 'the vacant N.E.W. Heavyweight Championship' (/promotions/new-2000/archive/new-brawl-on-the-bayou-iv.html). The same name, shows and home with only a belt reset and one new title, the Rising Star Championship, is the same company by the title test.",
           "with": [
             "new-extreme-1996"
           ]
@@ -387929,6 +387959,158 @@
       ],
       "tier": 1,
       "tier_source": "Tier 1, 11 October 2026: two profiles from Primetime Central's news engine are served whole, and each profiled wrestler is entered as a character; the fed's cards and bulletins stay on the monthly news pages of the Primetime Central wing, and no show, title or reign is structured here."
+    },
+    {
+      "id": "pwa-2011",
+      "name": "PWA (Action, 2011–2013)",
+      "full_name": "Pro Wrestling Action",
+      "band": null,
+      "qualifier": "Spanish-language board, 2011–2013",
+      "visibility": "gated",
+      "page": "/promotions/pwa-2011/",
+      "depth": "partially recovered",
+      "medium": "forum",
+      "medium_detail": "its own board: cards, results and storylines",
+      "language": "es",
+      "years": "2011–2013",
+      "type": "federation",
+      "form": "text",
+      "caption": "A Spanish-language wrestling forum reopened on 5 June 2011, whose general manager wrote each show out move by move from stadiums such as Madison Square Garden and the Citrus Bowl while players answered every card with in-character promos; it held a farewell thread in March 2013 and posted its last supershow on 10 April 2013.",
+      "caption_en": "A Spanish-language forum federation in which a general manager narrated each show from a stadium card and players answered with in-character promos, from its reopening in June 2011 to a last supershow in April 2013, with a return announced in December 2014.",
+      "caption_en_author": "ai",
+      "caption_asof": {
+        "written": "2026-10-11",
+        "author": "ai",
+        "evidence": {
+          "wrestlers": 20,
+          "shows": 2,
+          "rps": 15,
+          "awards": 0
+        }
+      },
+      "founded": {
+        "date": "2010",
+        "precision": "circa",
+        "source": "The general manager's history post of 11 December 2011 (thread 302, \"Un poco sobre los inicios de Pro Wrestling Action\") says the company began in December 2010 inside another company, which he took over and renamed; the board's roster threads restart on 5 June 2011."
+      },
+      "closed": {
+        "date": "2013-04-10",
+        "precision": "exact",
+        "source": "The general manager's post of 10 April 2013, \"Ultimo Supershow de PWA desde una cancha de futbol\", which calls it the last show; the roster's farewell-show thread of 14 March 2013 precedes it, and a return announced on 6 December 2014 produced no later show."
+      },
+      "sources": [
+        {
+          "kind": "live-site",
+          "identifier": "prowrestlingactionyr.foroactivo.com, the promotion's own board",
+          "window": "7 June to 2 July 2011 in the pages served here; the board's run is 2011 to 2013",
+          "accession": "0305"
+        }
+      ],
+      "authorship": "open-fed",
+      "authorship_grade": "primary-source",
+      "authorship_source": "The first card asks the players for promos that count as points while the general manager writes the results (/promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html, /promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html).",
+      "house_style": "Shows written out move by move as a broadcast from a named arena, with entrances, commentary and angles; each card ends with wrestling questions and a deadline, and players answer the cards with in-character promos in the same thread.",
+      "house_style_grade": "primary-source",
+      "house_style_source": "The results of 18 June and 2 July 2011 (/promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html, /promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html) and the cards that close on questions and a deadline (/promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html, /promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html).",
+      "provenance_notes": [
+        {
+          "kind": "founding",
+          "date": {
+            "date": "2010",
+            "precision": "year"
+          },
+          "span": null,
+          "subject": "pwa-2011",
+          "related": [],
+          "sources": [
+            {
+              "kind": "forum",
+              "url": "https://prowrestlingactionyr.foroactivo.com/t302-un-poco-sobre-los-inicios-de-pro-wrestling-action",
+              "accession": "0305"
+            }
+          ],
+          "grade": "primary-source",
+          "recorded": "2026-10-11",
+          "summary": "The general manager's history post of December 2011 says the company began in December 2010 inside another company, which he took over and rebuilt as PWA."
+        },
+        {
+          "kind": "other",
+          "date": {
+            "date": "2011-06-05",
+            "precision": "exact"
+          },
+          "span": null,
+          "subject": "pwa-2011",
+          "related": [],
+          "sources": [
+            {
+              "kind": "forum",
+              "url": "https://prowrestlingactionyr.foroactivo.com/t1-he-llegado-nuevamente-a-pwa",
+              "accession": "0305"
+            }
+          ],
+          "grade": "primary-source",
+          "recorded": "2026-10-11",
+          "summary": "The roster returns to the reopened board on 5 June 2011, and the first card follows on 7 June."
+        },
+        {
+          "kind": "closure",
+          "date": {
+            "date": "2013-04-10",
+            "precision": "exact"
+          },
+          "span": null,
+          "subject": "pwa-2011",
+          "related": [],
+          "sources": [
+            {
+              "kind": "forum",
+              "url": "https://prowrestlingactionyr.foroactivo.com/t1050-ultimo-supershow-de-pwa-desde-una-cancha-de-futbol",
+              "accession": "0305"
+            }
+          ],
+          "grade": "primary-source",
+          "recorded": "2026-10-11",
+          "summary": "The general manager posts the last supershow on 10 April 2013, a month after the roster's farewell-show thread."
+        },
+        {
+          "kind": "document-served",
+          "date": null,
+          "span": null,
+          "subject": "pwa-2011",
+          "related": [],
+          "sources": [
+            {
+              "kind": "forum",
+              "accession": "0305"
+            }
+          ],
+          "grade": "primary-source",
+          "recorded": "2026-10-11",
+          "summary": "Served: 19 documents of 7 June to 2 July 2011, in Spanish: two cards, two results posts and 15 promos."
+        }
+      ],
+      "identity": [
+        {
+          "assertion": "distinct",
+          "grade": "presumed",
+          "with": [
+            "pwa-1992",
+            "pwa-pacific-2001",
+            "pwa-perfect-1996",
+            "pwa-phantasy-1997",
+            "pwa-pioneer",
+            "pwa-power-2000",
+            "pwa-premier-2000",
+            "pwa-primetime",
+            "pwa-psychopathic-2000",
+            "pwa-secondgen-2000"
+          ],
+          "note": "Shares only the PWA acronym with each of these 10 held wings; no host, roster, era or document links this Spanish-language board to any of them."
+        }
+      ],
+      "tier": 2,
+      "tier_source": "Tier 2, 11 October 2026: the 19 long documents of June and July 2011 are served whole; 2 shows with 9 matches and their winners are entered, 19 characters and one tag team are minted from them, 15 promos are attached to their characters and 8 relationships are drawn from what the pages state. The board's titles, reigns and later years are not entered yet."
     }
   ]
 }

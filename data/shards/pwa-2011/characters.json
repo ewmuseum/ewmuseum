@@ -1,0 +1,751 @@
+[
+ {
+  "id": "criki-pwa-2011",
+  "type": "character",
+  "name": "Criki",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: PWA World Heavyweight Champion from 18 June 2011",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/rp/criki-promo-cartelera-07-06-11-2011-06-09.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/criki-promo-segunda-cartelera-2011-06-21.html; promotions/pwa-2011/rp/lightning-hero-promo-segunda-cartelera-2011-06-21.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Wins the nine-man elimination match of 18 June 2011 for the PWA World Championship, eliminating Evil Hart and Rated HBK before pinning Master; offers Master a Steel Cage Match on 21 June and Pedigrees Rated HBK after the 2 July contender match."
+   }
+  ],
+  "caption": "The wrestler who won the nine-man elimination match for the PWA World Championship on 18 June 2011 after turning on Rated HBK with a Pedigree, and who styled himself the king of the company in his promos.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 4,
+    "awards": 0,
+    "relationships": 2
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "criki-ywa-2010"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this one. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "cm-monster-pwa-2011",
+  "type": "character",
+  "name": "CM Monster",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: former PWA Tag Team Champion with Victor; lost the ladder match for the titles on 2 July 2011",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/rp/cm-monster-promo-cartelera-07-06-11-2011-06-08.html; promotions/pwa-2011/rp/victor-promo-cartelera-07-06-11-2011-06-17.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/cm-monster-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/rp/victor-promo-segunda-cartelera-23-06-11-2011-06-23.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Wins the 18 June exhibition fatal four way and is submitted by Master in the nine-man match; mocks Victor in a promo on 20 June, teams with him again on 23 June and, with Victor, loses the 2 July ladder match for the tag belts to Icon and Shaw Xtreme."
+   }
+  ],
+  "caption": "A wrestler who won an exhibition fatal four way on 18 June 2011, mocked his tag partner Victor in a promo two days later and, with him, lost the ladder match for the PWA Tag Team Championships on 2 July.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 8,
+    "awards": 0,
+    "relationships": 2
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "victor-pwa-2011",
+  "type": "character",
+  "name": "Victor",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: former PWA Tag Team Champion with CM Monster; lost the ladder match for the titles on 2 July 2011",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/rp/victor-promo-cartelera-07-06-11-2011-06-17.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/rp/victor-promo-resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/victor-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/rp/victor-promo-segunda-cartelera-23-06-11-2011-06-23.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Eliminated by Shaw Xtreme in the 18 June exhibition and by Evil Hart in the nine-man match; says on 17 June that he and CM Monster are together again, answers Shaw's challenge on 20 June and loses the 2 July ladder match for the tag belts with Monster."
+   }
+  ],
+  "caption": "The former tag champion who, with CM Monster, lost the ladder match for the PWA Tag Team Championships to Icon and Shaw Xtreme on 2 July 2011, and who hit Shaw Xtreme with a chair in a promo of 23 June.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 8,
+    "awards": 0,
+    "relationships": 2
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "icon-pwa-2011",
+  "type": "character",
+  "name": "Icon",
+  "aka": [
+   "The Icon",
+   "Straight Icon"
+  ],
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: PWA Tag Team Champion with Shaw Xtreme from 2 July 2011",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/rp/lightning-hero-promo-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/victor-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Interferes for Shaw Xtreme in the 18 June exhibition until the General Manager orders him out, is submitted by CM Monster in the nine-man match, and on 2 July climbs the ladder to unhook the tag belts."
+   }
+  ],
+  "caption": "The wrestler who, with Shaw Xtreme, won the PWA Tag Team Championships in a ladder match on 2 July 2011 by climbing the ladder to unhook the belts.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 7,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "icon-rspwf",
+     "icon-rwa-rugged",
+     "kenneth-williams-swift-mma",
+     "the-icon-rspwf",
+     "tommy-richards-pfw-professional-fantasy-1997",
+     "tyler-the-icon-lee-rspwf"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this one. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "shaw-xtreme-pwa-2011",
+  "type": "character",
+  "name": "Shaw Xtreme",
+  "aka": [
+   "Shaw Extreme"
+  ],
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: PWA Tag Team Champion with Icon from 2 July 2011",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/victor-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/rp/victor-promo-segunda-cartelera-23-06-11-2011-06-23.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "A novice who pins Daniel Bryan and Victor in the 18 June exhibition before losing to CM Monster; names himself and Icon The Machynes of Wrestling on 20 June, is chaired by Victor on 23 June and wins the tag belts with Icon on 2 July."
+   }
+  ],
+  "caption": "The newcomer who eliminated Daniel Bryan and Victor in the exhibition fatal four way on 18 June 2011 and, with Icon, won the PWA Tag Team Championships two weeks later.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 4,
+    "awards": 0,
+    "relationships": 2
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "the-lightning-hero-pwa-2011",
+  "type": "character",
+  "name": "The Lightning Hero",
+  "aka": [
+   "Lightning Hero",
+   "Master"
+  ],
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-06-21",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/rp/lightning-hero-promo-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/criki-promo-segunda-cartelera-2011-06-21.html; promotions/pwa-2011/rp/lightning-hero-promo-segunda-cartelera-2011-06-21.html",
+    "note": "Debuts with a promo calling the roster jobbers; billed as Master in the nine-man match, he submits CM Monster and is pinned last by Criki's super Pedigree; trades promos with Criki on 21 June and spits in his face. His promo and the results call him Hero and Master."
+   }
+  ],
+  "caption": "A self-styled wrestling machine who debuted with a promo against the roster on 7 June 2011, reached the end of the nine-man match for the PWA World Championship as Master and traded promos with the champion Criki.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 4,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "master-gmwe",
+     "master-wewf"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this one. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "rated-hbk-pwa-2011",
+  "type": "character",
+  "name": "Rated HBK",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: number one contender to the PWA World Heavyweight Championship from 2 July 2011",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/rp/rated-hbk-promo-cartelera-07-06-11-2011-06-14.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Returns from retirement in a promo of 14 June; Criki betrays and pins him in the nine-man match on 18 June; on 2 July he beats God of Dark with an RKO for the contendership, is Pedigreed by Criki afterwards and interferes in the ladder match."
+   }
+  ],
+  "caption": "The returning veteran who, after Criki turned on him in the nine-man match of 18 June 2011, beat God of Dark on 2 July to become the number one contender for the world title.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "god-of-dark-pwa-2011",
+  "type": "character",
+  "name": "God of Dark",
+  "aka": [
+   "Goda"
+  ],
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/rp/god-of-dark-promo-cartelera-07-06-11-2011-06-11.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Says in a promo of 11 June that he was the only PWA champion before the closing; is eliminated second in the nine-man match by CM Monster's GTS and loses to Rated HBK's RKO on 2 July."
+   }
+  ],
+  "caption": "A former champion who returned in June 2011 promising to take the title back, was eliminated second in the nine-man match of 18 June and lost to Rated HBK on 2 July.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 3,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "evil-hart-pwa-2011",
+  "type": "character",
+  "name": "Evil Hart",
+  "aka": [
+   "Big Evil",
+   "Evil"
+  ],
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: challenger for the Intercontinental Championship from 2 July 2011",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/makaveli-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Eliminates Victor and is pinned by Criki in the nine-man match on 18 June; on 2 July he beats Makaveli and Euraiden in a no disqualification match and so becomes Panchito's challenger for the Intercontinental title."
+   }
+  ],
+  "caption": "The wrestler who eliminated Victor in the nine-man match of 18 June 2011 and beat Makaveli and Euraiden on 2 July to earn a match against Panchito for the Intercontinental Championship.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 3,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "big-evil-ywa-2010",
+     "evil-giwf",
+     "evil-rspwf"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this one. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "frank-pwa-2011",
+  "type": "character",
+  "name": "Frank",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html",
+    "note": "Takes the microphone before the nine-man match of 18 June to say it is void because he was champion when PWA closed; Criki hits him with a Pedigree, he gives up and is the first man eliminated."
+   }
+  ],
+  "caption": "The wrestler who claimed the PWA World Championship from the microphone before the nine-man match of 18 June 2011 and was the first man eliminated.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 4,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "frank-uwf"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this one. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "underkane-pwa-2011",
+  "type": "character",
+  "name": "Underkane",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-18",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: PWA TV Champion from 18 June 2011",
+    "source": "promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Makes his debut on 18 June by pinning Candres with an Angle Slam for the TV Championship and retains it on 2 July by making Daniel Bryan give up to an ankle lock."
+   }
+  ],
+  "caption": "The newcomer who won the PWA TV Championship in his first match on 18 June 2011 and kept it two weeks later with an ankle lock on Daniel Bryan.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "candres-pwa-2011",
+  "type": "character",
+  "name": "Candres",
+  "aka": [
+   "Candres Nigmare"
+  ],
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Billed against Panchito for the TV Championship on the first card; loses it to Underkane on 18 June, bleeding from the nose; billed for a triple threat on 2 July that he does not attend, which the General Manager explains with a joke."
+   }
+  ],
+  "caption": "The wrestler who lost the TV Championship to Underkane in the first match of 18 June 2011 and did not appear for his match of 2 July.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "panchito-pwa-2011",
+  "type": "character",
+  "name": "Panchito",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: PWA Intercontinental Champion from 18 June 2011",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/panchito-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/rp/makaveli-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "A newcomer billed against Candres, moved to the Intercontinental match when Euraiden was reported absent; pins Makaveli with an Attitude Adjustment after a chain shot, challenges Mizanin with a rap on 20 June and submits him with an STFU on 2 July."
+   }
+  ],
+  "caption": "The newcomer who won the PWA Intercontinental Championship from Makaveli in his first match on 18 June 2011 and beat Awesome Mizanin with an STFU two weeks later.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 3,
+    "awards": 0,
+    "relationships": 2
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "makaveli-pwa-2011",
+  "type": "character",
+  "name": "Makaveli",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/makaveli-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Loses the Intercontinental title match to Panchito after powerslamming the referee on 18 June, turns heel in a promo on 20 June calling Panchito trash, and gives up to Evil Hart's Figure Four on 2 July."
+   }
+  ],
+  "caption": "The wrestler who lost the Intercontinental Championship match to the newcomer Panchito on 18 June 2011, turned on the crowd in a promo two days later and lost to Evil Hart on 2 July.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "makaveli-ewa-email"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this one. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "awesome-mizanin-pwa-2011",
+  "type": "character",
+  "name": "Awesome Mizanin",
+  "aka": [
+   "Mizanin"
+  ],
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-18",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler",
+    "source": "promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/rp/panchito-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Attacks Panchito after his Intercontinental title win on 18 June and says the title will soon be his; billed against Panchito on the second card, he loses to him by STFU on 2 July."
+   }
+  ],
+  "caption": "The wrestler who attacked the new Intercontinental Champion Panchito on 18 June 2011 and gave up to him in a non-title match two weeks later.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "daniel-bryan-pwa-2011",
+  "type": "character",
+  "name": "Daniel Bryan",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segunda-cartelera-de-pwa-2011-06-19.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Eliminated first, by Shaw Xtreme, in the 18 June exhibition fatal four way; challenges Underkane for the TV Championship on 2 July and gives up to his ankle lock."
+   }
+  ],
+  "caption": "The wrestler who challenged Underkane for the TV Championship on 2 July 2011 and gave up to his ankle lock.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "euraiden-pwa-2011",
+  "type": "character",
+  "name": "Euraiden",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-07",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler",
+    "source": "promotions/pwa-2011/archive/pwa-cartelera-07-06-11-2011-06-07.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Billed for the Intercontinental triple threat on the first card and reported absent on 18 June; on 2 July he wrestles in the no disqualification contender match, hits Makaveli with a lamp and is knocked out by Evil Hart's Canadian Destroyer before Evil Hart wins."
+   }
+  ],
+  "caption": "A wrestler reported absent on 18 June 2011 who appeared on 2 July in the Intercontinental contender match and lost to Evil Hart.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": []
+ },
+ {
+  "id": "enigma-pwa-2011",
+  "type": "character",
+  "name": "Enigma",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-11",
+    "last_seen": "2011-06-11",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: a masked newcomer",
+    "source": "promotions/pwa-2011/rp/enigma-promo-cartelera-07-06-11-2011-06-11.html",
+    "note": "A masked wrestler who keeps his name secret; in a promo posted by a guest under the first card on 11 June 2011 he says he is well known on the independent scene, names Panchito and Underkane as his rivals for a title and says he will be PWA's next champion."
+   }
+  ],
+  "caption": "A masked newcomer who kept his name secret in a promo of 11 June 2011 and promised to become PWA's next champion.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "enigma",
+     "enigma-1998-rspwf",
+     "enigma-1999-rspwf",
+     "enigma-4ww",
+     "enigma-ccw",
+     "enigma-ewwf-alliance-1999",
+     "enigma-faw",
+     "enigma-faw-2001",
+     "enigma-fwa-pbm-1989",
+     "enigma-gawa-1999",
+     "enigma-gw",
+     "enigma-ihwf",
+     "enigma-low",
+     "enigma-pcw",
+     "enigma-pww-worldwide",
+     "enigma-rspwf",
+     "enigma-wwa",
+     "euwc-enigma"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this one. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "layla-pwa-2011",
+  "type": "character",
+  "name": "Layla",
+  "tenures": [
+   {
+    "promotion": "pwa-2011",
+    "first_seen": "2011-06-08",
+    "last_seen": "2011-07-02",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "role": "manager and ring announcer of CM Monster",
+    "source": "promotions/pwa-2011/rp/cm-monster-promo-cartelera-07-06-11-2011-06-08.html; promotions/pwa-2011/archive/resultados-de-pwa-2011-06-18.html; promotions/pwa-2011/rp/cm-monster-promo-segunda-cartelera-2011-06-20.html; promotions/pwa-2011/rp/victor-promo-segunda-cartelera-23-06-11-2011-06-23.html; promotions/pwa-2011/archive/segundo-show-de-pwa-2011-07-02.html",
+    "note": "Introduces CM Monster in his promos and at ringside, announces him as the winner of the 18 June exhibition, is kissed by CM Monster and by Shaw Xtreme in promos, hits Shaw with a microphone on 23 June and is at ringside for the 2 July ladder match."
+   }
+  ],
+  "caption": "The ring announcer and manager who introduces CM Monster and accompanies him to the ring through the June and July 2011 shows.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 3,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "layla-pwr-fed-2008",
+     "layla-xwf-uwow"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this one. Kept distinct under the no-merge default."
+   }
+  ]
+ }
+]
