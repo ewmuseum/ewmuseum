@@ -2503,9 +2503,13 @@ years maybe that should be a collection priority, because we can collect the
 dead without IA").** Liveness is checked directly against the row's own
 address (one polite request per host through the fusebox; never via the
 Wayback Machine). `last_activity` (int, year) is the newest year the page
-itself mentions. A page that names the promotion with activity in the last
-six years is `verified-alive`; one whose newest activity is older is a
-DORMANT site — the promotion is dead though the host is up — and reads
+itself mentions. THE LIVENESS LINE is one year both ways (CURATION v137;
+the Janitor, 2026-10-12: "all three should move to one year"; it read six
+months both ways from 2026-09-25, desk D70, which superseded this gavel's
+six years for the alive finding): a page that names the promotion with the
+fed's own dated activity within the last year is `verified-alive`; one
+whose newest activity is older is a DORMANT site — the promotion is dead
+though the host is up — and reads
 `verified-dead` with `site_online: true`, which routes it to the direct-
 collection queue (the URL walk's `direct-collect-queue.tsv`, oldest activity
 first) rather than the Archive's timemap queues. A `verified-alive` row leaves

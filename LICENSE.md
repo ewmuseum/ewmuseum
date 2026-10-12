@@ -1,7 +1,8 @@
 # THE E-WRESTLING MUSEUM — Terms of Use
 
-DRAFT — awaiting the Janitor's editing pass before Phase 3. Plain
-language on purpose; this is a statement of the museum's position, not
+> Written by AI, 2026.
+
+Plain language on purpose; this is a statement of the museum's position, not
 legal boilerplate.
 
 This repository and the site it renders hold two kinds of material, and

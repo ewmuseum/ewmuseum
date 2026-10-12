@@ -1,6 +1,6 @@
 # Contributing to THE E-WRESTLING MUSEUM
 
-> DRAFT — awaiting the Janitor's editing pass before the open.
+> Written by AI, 2026.
 
 The museum grows one collection at a time, and every collection arrives
 the same way: through a contributor, bringing what their own vantage was

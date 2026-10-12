@@ -58,6 +58,11 @@ const ALLOWED_DIRS = new Set([
   // The Essays pages (the Janitor's D142 and D169, 2026-10-01; CURATION.md v129; hook c108): essays/<id>.html, a served
   // essay, rendered by scripts/cross-reference.mjs from its data/essays.json row. Served.
   "essays",
+  // The sitemap children (hook c305, 2026-10-12): sitemaps/sitemap-N.xml, written by scripts/stamp-public.mjs. The
+  // sitemaps protocol caps one file at 50,000 URLs and the museum serves 119,243 pages, so /sitemap.xml is a
+  // <sitemapindex> over these. A REVIEWED new top-level category, not drift. Served (Search Console and every crawler
+  // fetch them from the index), so .assetsignore does NOT list it.
+  "sitemaps",
   // Assets served to the browser.
   "js",
   // Tooling / infrastructure — not served content, but legitimate repo

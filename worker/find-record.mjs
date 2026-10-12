@@ -1,27 +1,35 @@
 /**
  * THE E-WRESTLING MUSEUM — the exact-name record lookup (D448, the Janitor, 2026-10-08: "the cheaper exact-name lookup instead").
  *
- * GET /api/find-record?q=<name>[&kind=character|title|wing][&wing=<wing id>][&n=<1..20>]
+ * GET /api/find-record?q=<name>[&kind=character|title|wing|memorial][&wing=<wing id>][&n=<1..20>]
  *
- * Finds a character, a title or a wing by its name, with no AI index and no per-chain sync cost: a deterministic lookup over a
- * compact name index, data/find-record-index.json, which scripts/build-find-record-index.mjs regenerates in every gate from the
- * registry (so it cannot go stale) and r2-sync uploads with the site. The Worker reads that object from the bucket, parses it
+ * Finds a character, a title, a wing or a memorial by its name, with no AI index and no per-chain sync cost: a deterministic
+ * lookup over a compact name index, data/find-record-index.json, which scripts/build-find-record-index.mjs regenerates in every
+ * gate from the registry (so it cannot go stale) and r2-sync uploads with the site. The Worker reads that object from the bucket,
+ * parses it
  * once per isolate and checks it again every FIND_INDEX_TTL_MS.
  *
  * Imported by worker/index.mjs (the route) and by scripts/build-find-record-index.mjs (the generator's self-check). No other I/O
  * than the bucket binding passed in `env`. The pure half (normalizeName, buildIndex, lookup) runs under plain Node.
  *
- * WHAT IT RETURNS: records of three kinds only, each a page that is served: /characters/<id>.html (a character or a unit's own
- * page), /titles/<id>.html (a title; four wing-held titles have the wing's page as theirs), /promotions/<id>/index.html (a wing).
+ * WHAT IT RETURNS: records of four kinds only, each a page that is served: /characters/<id>.html (a character or a unit's own
+ * page), /titles/<id>.html (a title; four wing-held titles have the wing's page as theirs), /promotions/<id>/index.html (a wing),
+ * /memorials/<id>.html (a memorial) and /in-memoriam.html (In Memoriam itself). A memorial page may only ever be a memorial row's
+ * page, and a character, title or wing row may only ever carry its own shape (pageOkForKind, below).
  * Matching, in this order: (1) "id": the query IS the record's id; (2) "exact": the query equals the record's name or one of its
  * aka names, after folding case, accents, apostrophes and punctuation (and a leading "The", and a trailing "(1999-2001)"-style
  * qualifier); (3) "words": every word of the query is a whole word of one of its names (so q=world&wing=pcw&kind=title lists the
  * PCW titles with "World" in the name). Nothing fuzzy, nothing semantic.
  *
- * CARE (binding, D448): the memorial pages (/memorials/*) and /in-memoriam are never records here. The generator refuses to write
- * them into the index, and this module refuses to answer with any page outside the three shapes above, whatever the index says.
- * The 51 character pages that carry "In memoriam / Linked to <name>" are ordinary character pages and are returned as such;
- * nothing in a result says anything about a memorial. Units listings (/units/a-z/*) and the a-z indexes are not records.
+ * THE MEMORIAL REGISTER IS IN (D566, the Janitor, 2026-10-12, verbatim: "First option"; GAVELS 2026-10-12: the record lookup
+ * "INCLUDES the memorial pages and In Memoriam (the D448 'Care' exclusion was the coordinator's proposal, never separately
+ * ruled)"). So a memorial is a record of its own kind: one row per data/memorials.json row, page /memorials/<id>.html, plus one
+ * row for In Memoriam itself. Memorial subjects are NAMED BY LAW (CURATION #privacy v74 and the memorial register, v65; GAVELS
+ * 2026-09-24 D2), and these rows carry the register's own names only — its `name` and any `aka`. The 51 character pages that
+ * carry "In memoriam / Linked to <name>" stay ORDINARY character pages: nothing about the memorial link is stored on them, and a
+ * name that is both a memorial subject's and a character's returns BOTH records (the memorial first on a tie, so a capped answer
+ * can never push it off). Units listings (/units/a-z/*) and the a-z indexes are still not records, and this module still refuses
+ * any page outside the four shapes above, whatever the index says, and any page that is not of its own row's kind.
  */
 
 export const FIND_PATH = "/api/find-record";
@@ -30,9 +38,9 @@ export const FIND_MAX_QUERY = 120;         // characters; a longer query is refu
 export const FIND_DEFAULT_RESULTS = 10;
 export const FIND_MAX_RESULTS = 20;        // the most one answer may hold, whatever ?n= says
 export const FIND_INDEX_TTL_MS = 5 * 60 * 1000;   // how long a parsed index is trusted before the bucket is asked again (a HEAD)
-export const FIND_KINDS = { character: "c", title: "t", wing: "w" };
-const KIND_NAME = { c: "character", t: "title", w: "wing" };
-const KIND_ORDER = { w: 0, t: 1, c: 2 };    // on a tie: the wing, then its titles, then people
+export const FIND_KINDS = { character: "c", title: "t", wing: "w", memorial: "m" };
+const KIND_NAME = { c: "character", t: "title", w: "wing", m: "memorial" };
+const KIND_ORDER = { m: 0, w: 1, t: 2, c: 3 };    // on a tie: the memorial register (D566; never pushed off a capped answer), the wing, its titles, then people
 
 const FIND_STOP = new Set(["the", "a", "an", "and", "of", "in", "on", "to", "for"]);
 const FOLD = { "ø": "o", "đ": "d", "ł": "l", "æ": "ae", "œ": "oe", "ß": "ss", "ð": "d", "þ": "th", "ı": "i" };
@@ -68,19 +76,32 @@ export function pageOf(r) {
   if (ex && typeof ex === "object" && typeof ex.p === "string" && ex.p) return ex.p;
   if (r[0] === "c") return "/characters/" + r[1] + ".html";
   if (r[0] === "t") return "/titles/" + r[1] + ".html";
+  if (r[0] === "m") return "/memorials/" + r[1] + ".html";
   return "/promotions/" + r[1] + "/index.html";
 }
 
-/** The only page shapes a record may have. A memorial, In Memoriam, a units listing or an a-z index can never pass. Pure. */
+/** The only page shapes a CHARACTER, TITLE or WING row may have. A memorial, In Memoriam, a units listing or an a-z index can never pass. Pure. */
 export function isRecordPage(page) {
   if (typeof page !== "string" || page.includes("..") || page.includes("//") || page.includes("?") || page.includes("#")) return false;
   if (/^\/(characters|titles)\/(?!a-z\/)[^/]+\.html$/.test(page)) return true;
   return /^\/promotions\/[^/]+\/(index\.html)?$/.test(page);
 }
 
+/** The only page shapes a MEMORIAL row may have (D566): one memorial's own page, or In Memoriam itself. Nothing else. Pure. */
+export function isMemorialPage(page) {
+  if (typeof page !== "string" || page.includes("..") || page.includes("//") || page.includes("?") || page.includes("#")) return false;
+  if (page === "/in-memoriam.html") return true;
+  return /^\/memorials\/(?!a-z\/)[^/]+\.html$/.test(page);
+}
+
+/** The page shapes a row of THIS kind may have: the memorial shapes for "m", the three record shapes for every other kind. Pure. */
+export function pageOkForKind(kind, page) {
+  return kind === "m" ? isMemorialPage(page) : isRecordPage(page);
+}
+
 /**
  * The stored file -> the lookup structure. The file (written by the generator):
- *   { _schema_version: 1, wings: [wing id, ...], rows: [ [kind "c|t|w", id, display name, [wing indexes], extras?], ... ] }
+ *   { _schema_version: 1, wings: [wing id, ...], rows: [ [kind "c|t|w|m", id, display name, [wing indexes], extras?], ... ] }
  * where extras is { a: [aka names], s: sub-kind (a unit's kind), p: page when it is not the default }. Pure; throws on a bad shape.
  *
  * MEMORY (a Worker isolate holds 128 MB): the rows stay the parsed arrays, with no object made per row, and the names are one flat
@@ -92,7 +113,7 @@ export function buildIndex(doc) {
   const rows = [];
   for (const r of doc.rows) {
     if (!Array.isArray(r) || r.length < 4 || !KIND_NAME[r[0]] || typeof r[1] !== "string" || typeof r[2] !== "string" || !Array.isArray(r[3])) continue;
-    if (!isRecordPage(pageOf(r))) continue;   // belt and braces: a memorial, units or other non-record page never enters
+    if (!pageOkForKind(r[0], pageOf(r))) continue;   // belt and braces: a memorial page in a character row, a units listing or any other page of the wrong kind never enters
     rows.push(r);
   }
   const norms = [];   // " folded name " (padded, so a whole-word test is includes(" word "))
@@ -263,7 +284,7 @@ export async function findRecordApi(request, env, url, deps) {
   if (q.length > FIND_MAX_QUERY) return jsonResponse(p, 400, { results: [], error: "query too long", max: FIND_MAX_QUERY });
   const kindRaw = String(url.searchParams.get("kind") ?? "").trim().toLowerCase();
   if (kindRaw && !Object.prototype.hasOwnProperty.call(FIND_KINDS, kindRaw)) {
-    return jsonResponse(p, 400, { results: [], error: "kind must be character, title or wing" });
+    return jsonResponse(p, 400, { results: [], error: "kind must be character, title, wing or memorial" });
   }
   const wingRaw = String(url.searchParams.get("wing") ?? "").trim();
   if (wingRaw.length > 120) return jsonResponse(p, 400, { results: [], error: "wing too long" });

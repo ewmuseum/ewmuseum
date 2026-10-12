@@ -893,6 +893,11 @@ async function openDoor(request, env, url) {
     if (!env.MUSEUM_BUCKET) return serve(request, env); // the missing-binding 500
     return searchApi(request, env, url);
   }
+  // THE RECORD LOOKUP behind the open door (the Janitor, D565; hook c302): the same route as the gated branch, its own limiter.
+  if (url.pathname === FIND_PATH) {
+    if (!env.MUSEUM_BUCKET) return serve(request, env); // the missing-binding 500
+    return findRecordApi(request, env, url, { jsonResponse, searchClientKey, retryAfter: SEARCH_RETRY_AFTER_S });
+  }
   return serve(request, env);
 }
 

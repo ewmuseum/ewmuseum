@@ -338,8 +338,13 @@ const allowRes = allowScoped.map((a) => ({ re: wordRe(a.term), prefixes: a.scope
 // "..", is judged as before. Never narrower for a global deny: the strict every-term rule in allowedHit is unchanged, so a term
 // in a sitemap URL whose page no allow covers still fails.
 const SITEMAP = "sitemap.xml";
+// hook c305 (2026-10-12): /sitemap.xml is a <sitemapindex> now and the <loc> lines live in sitemaps/sitemap-N.xml, so
+// hook c97's page-scoped reading has to recognise those children as sitemaps too -- otherwise a character id that spells
+// a withheld surname reddens the gate from a child file that no allow row can cover (gate 297, exactly). Only this name
+// shape, only in that one directory.
+const isSitemap = (p) => p === SITEMAP || /^sitemaps\/sitemap-[0-9]+\.xml$/.test(p);
 const sitemapPage = (path, text) => {
-  if (path !== SITEMAP) return null;
+  if (!isSitemap(path)) return null;
   const locs = text.match(/<loc>[^<]*<\/loc>/g);
   if (!locs || locs.length !== 1) return null;
   let p = locs[0].slice(5, -6).trim().replace(/^[a-z][a-z0-9+.-]*:\/\/[^/]*/i, "").split(/[?#]/)[0];
@@ -693,7 +698,7 @@ if (denyTerms.length) {
     // to the page's own repo path, found in byPrefix by one lookup) is tested on the line that lists that page, unless a
     // same-term allow covers the page or sitemap.xml. A row whose own scope already covers sitemap.xml is judged on the whole
     // file below, as before. One FAIL per row per file; the page path is never printed (a slug can spell a term).
-    if (f === SITEMAP) {
+    if (isSitemap(f)) {
       let stext; try { stext = readFileSync(f, "utf8"); } catch { stext = null; }
       const done = new Set();
       const slines = stext === null ? [] : stext.split("\n");

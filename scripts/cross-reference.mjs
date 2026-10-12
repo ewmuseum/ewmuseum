@@ -3783,6 +3783,71 @@ function xReusable(rel, hash, text, figureAllowed) {
   for (const n of xDelta) if (text.includes(n)) return null;
   return prev;
 }
+// hook c308: the attestor map is read HERE, above section 2's prose walk, because
+// aiFlag() below is called by the in-memoriam placard generator, which has to run
+// before the walk (see its own note). aiFlag() itself did not move.
+const attestorsById = new Map(
+  (existsSync(resolve(DATA, "attestors.json"))
+    ? JSON.parse(readFileSync(resolve(DATA, "attestors.json"), "utf8")).attestors ?? []
+    : []).map((a) => [a.handle, a]));
+
+// ---------------------------------------------------------------------------
+// IN MEMORIAM'S PLACARDS, GENERATED (hook c308, 2026-10-12). The Janitor, in
+// chat: "in-memoriam.html is not keeping up with the actual memorial text --
+// which means Mike Sanzone's says 'Handler of Diamond Rose in Empire Pro
+// Wrestling' even though once you click there it says Elevate Pro Wrestling."
+// The hall's captions were hand-written summaries of the very `note` the
+// memorial page renders, so every note the Janitor rewrote drifted from its
+// own placard (and three rows' year labels drifted from `years` too). Fixed
+// once, standing: the marked region of in-memoriam.html is rebuilt here from
+// data/memorials.json on every build -- one placard per row, in the page's own
+// order (sortKeyStr by name, exactly the order flatMemorials uses in 3d), the
+// label from `years`, the caption from memorialNoteHtml(), the memorial page's
+// OWN renderer, carrying the same authorship mark aiFlag(note_author) gives
+// it there. Everything outside the markers stays hand-written.
+// WHY HERE, before the walk: the placards' entity links are the prose walk's
+// own work and always were, so the region must be on disk before the walk
+// reads the page. Rewriting it after the walk would strip, every run, the
+// anchors that same run had just baked in.
+// A row with NO note keeps whatever the region already holds for it, verbatim
+// (steelmoose, steven-w-pagano): their captions are hand-written and stay so,
+// and hook c187's rule holds -- never an authorship mark beside a sentence
+// that does not exist. A page with no markers is left entirely alone.
+// ---------------------------------------------------------------------------
+const MEM_PLACARDS_START = '  <!-- memorial-placards:start -->';
+const MEM_PLACARDS_END = '  <!-- memorial-placards:end -->';
+function memorialPlacardLabel(m) {
+  // the page's own label shape: the name (uppercased in the markup, as every
+  // placard-label on this page is), its own memorial page, then `years`.
+  return `<h3 class="placard-label"><a href="/memorials/${esc(m.id)}.html">${esc(String(m.name ?? "").toUpperCase())}</a> &middot; ${esc(m.years)}</h3>`;
+}
+function rebuildInMemoriamPlacards() {
+  const page = resolve(ROOT, "in-memoriam.html");
+  if (!existsSync(page)) return;
+  const html = readFileSync(page, "utf8");
+  const a = html.indexOf(MEM_PLACARDS_START), b = html.indexOf(MEM_PLACARDS_END);
+  if (a < 0 || b < 0 || b < a) { console.log("in-memoriam.html: no memorial-placards region -- placards left as they are"); return; }
+  // what the region holds now, per memorial id: what a note-less row keeps.
+  const held = new Map();
+  for (const block of html.slice(a, b).split('<div class="placard">').slice(1)) {
+    const id = block.match(/<a href="\/memorials\/([a-z0-9-]+)\.html"/);
+    const caption = [...block.matchAll(/<p class="muted small">[\s\S]*?<\/p>/g)].map((x) => x[0]);
+    if (id && caption.length) held.set(id[1], caption);
+  }
+  const rows = (existsSync(resolve(DATA, "memorials.json")) ? loadArray("memorials") : [])
+    .slice().sort((x, y) => sortKeyStr(x.name) < sortKeyStr(y.name) ? -1 : 1);
+  const placards = rows.map((m) => {
+    const note = memorialNoteHtml(m, "muted small");
+    const caption = note ? [note] : (held.get(m.id) ?? []);
+    return ["  <div class=\"placard\">", memorialPlacardLabel(m), ...caption].map((l, i) => i ? `    ${l}` : l).concat("  </div>").join("\n");
+  });
+  const next = html.slice(0, a + MEM_PLACARDS_START.length) + "\n\n" + placards.join("\n\n") + "\n\n" + html.slice(b);
+  if (next === html) return;
+  writeFileSync(page, next);
+  console.log(`in-memoriam.html: ${placards.length} placards regenerated from data/memorials.json`);
+}
+rebuildInMemoriamPlacards();
+
 for (const file of walk(ROOT)) {
   const rel = relative(ROOT, file).replace(/\\/g, "/");
   if (rel === "curation.html") continue; // constitution text, leave untouched
@@ -4192,10 +4257,6 @@ function writeIndexV2(path, key, rows, { where }) {
 // "ai" renders the AI badge; a registered attestor handle renders that
 // attestor's credit; bare "human" (the pre-registry form) renders nothing,
 // pending a handle. One convention for the Janitor and stranger alike.
-const attestorsById = new Map(
-  (existsSync(resolve(DATA, "attestors.json"))
-    ? JSON.parse(readFileSync(resolve(DATA, "attestors.json"), "utf8")).attestors ?? []
-    : []).map((a) => [a.handle, a]));
 function aiFlag(author) {
   if (author === "human") return "";
   const att = attestorsById.get(author);
@@ -9732,15 +9793,15 @@ function renderMemorialLinksOutSection(m) {
 //     servedText()'s own empty-result rule would silence it, so it is escaped and served exactly as written;
 //   * the authorship flag rides the first paragraph, the museum's own words, never a sign-off quoted after them.
 // A note with no blank line renders byte for byte as it did before.
-function memorialNoteHtml(m) {
+function memorialNoteHtml(m, cls = "lede") {   // hook c308: `cls` is "muted small" on in-memoriam.html's own placards -- same prose, same mark, ONE renderer
   const parts = typeof m.note === "string" ? m.note.split(/\n[ \t]*\n/).map((p) => p.trim()).filter(Boolean) : [];
   // hook c187 (the Janitor's D466; finding C02): NEVER AN AUTHORSHIP MARK WITHOUT THE SENTENCE IT LABELS. A memorial with no
   // note rendered an empty placard holding the pill alone (/memorials/steelmoose.html), which said "AI" about prose that does
   // not exist, on the museum's most tone-sensitive page type. No note, no paragraph -- and no placard (generateMemorialPage).
   if (!parts.length) return "";
-  if (parts.length < 2) return `<p class="lede">${esc(servedText(m.note))}${aiFlag(m.note_author)}</p>`;
+  if (parts.length < 2) return `<p class="${cls}">${esc(servedText(m.note))}${aiFlag(m.note_author)}</p>`;
   const paras = parts.map((p) => esc(/[A-Za-z0-9]/.test(p) ? servedText(p) : p)).filter(Boolean);
-  return paras.map((p, i) => `<p class="lede">${p}${i === 0 ? aiFlag(m.note_author) : ""}</p>`).join("\n    ");
+  return paras.map((p, i) => `<p class="${cls}">${p}${i === 0 ? aiFlag(m.note_author) : ""}</p>`).join("\n    ");
 }
 
 function generateMemorialPage(m, prevM, nextM) {

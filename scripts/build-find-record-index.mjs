@@ -9,25 +9,36 @@
  *
  * RUN IN EVERY GATE (scripts/gate.sh `gate_step find-record:index`, after `stats`, before `privacy` and `check`; and in
  * `npm run refresh`), so the index is rebuilt from the registry each time a chain builds and cannot go stale. It reads the
- * registry files the pages are rendered from, characters.json, units.json, titles.json, promotions.json (and memorials.json,
- * only to refuse), and writes one file under data/, which is already a served, allowlisted top-level directory; r2-sync uploads it
+ * registry files the pages are rendered from, characters.json, units.json, titles.json, promotions.json and memorials.json (whose
+ * rows are records of their own since D566), and writes one file under data/, which is already a served, allowlisted top-level
+ * directory; r2-sync uploads it
  * with the rest of the site and worker/find-record.mjs reads it from the bucket.
  *
  * WHAT GOES IN: one row per record that has a served page in THIS tree: a character or a unit (characters/<id>.html), a title (its
- * own `page`), a wing (promotions/<id>/index.html). A row whose page file is missing is left out (withdrawn, not yet rendered).
- * Each row: [kind c|t|w, id, display name, [indexes into wings[]], extras?] where extras = { a: [aka names], s: unit kind,
+ * own `page`), a wing (promotions/<id>/index.html), a memorial (memorials/<id>.html) and In Memoriam itself (in-memoriam.html).
+ * A row whose page file is missing is left out (withdrawn, not yet rendered).
+ * Each row: [kind c|t|w|m, id, display name, [indexes into wings[]], extras?] where extras = { a: [aka names], s: unit kind,
  * p: page when it is not the default }. A character's wings are the promotions of its tenures; a title's wing is its promotion;
- * a wing's list is itself.
+ * a wing's list is itself; a memorial's list is empty, and In Memoriam's row is the one row whose page comes from `p`.
  *
  * THE PRIVACY FILTER (hook c136, after the coordinator's privacy-lookup run on the first cut): every string is scanned as the gate would scan this
  * file (scripts/find-record-privacy-filter.py: the ledger's deny rows and the four takedown libraries; counts only are logged). A name, aka or
  * id that hits is dropped, the record with it when its id or display name is the string; no ALLOW is ever needed. `--check` fails if the
  * file on disk would still hit.
  *
- * WHAT STAYS OUT (CARE, binding, D448): memorial pages (memorials/*) and In Memoriam are never rows; no row's page may be outside
- * /characters/<id>.html, /titles/<id>.html or /promotions/<id>/ (the self-check below fails the build otherwise); a record whose id
- * is a memorial's id is dropped; the units listings (units/a-z) and the a-z indexes are not records. The 51 characters whose pages
- * carry "In memoriam / Linked to <name>" are ordinary character rows, and nothing about the memorial link is stored.
+ * THE MEMORIAL REGISTER IS IN (D566, the Janitor, 2026-10-12, verbatim: "First option"; GAVELS 2026-10-12: the record lookup
+ * "INCLUDES the memorial pages and In Memoriam (the D448 'Care' exclusion was the coordinator's proposal, never separately
+ * ruled)"). So memorials.json yields one "m" row per memorial — the register's own `name` and any `aka`, page
+ * /memorials/<id>.html — plus the one In Memoriam row, and the D448 drop of a record whose id is a memorial's id is GONE: such a
+ * name is TWO rows, of two kinds, with two pages, and a lookup returns both. Memorial subjects are named by law (CURATION
+ * #privacy v74 and the memorial register, v65; GAVELS 2026-09-24 D2), which is why these names need no new exemption here: the
+ * privacy filter below already scans them under the gate's own register exemption, and what it drops it reports.
+ *
+ * WHAT STILL STAYS OUT: the units listings (units/a-z) and the a-z indexes are not records; no row's page may be outside
+ * /characters/<id>.html, /titles/<id>.html, /promotions/<id>/, /memorials/<id>.html or /in-memoriam.html, and only an "m" row may
+ * carry one of the last two (pageOkForKind; the self-check below fails the build otherwise); the register's `characters` field is
+ * a list of entity IDS, not display names, so it is never a row's aka — those 51 characters stay ORDINARY character rows and
+ * nothing about the memorial link is stored on them.
  *
  * The file is deterministic (rows sorted by kind then id, no timestamp), one row per line so a diff reads, and carries
  * _schema_version (registry-validate wants it on every data/*.json). It names no path of the machine (the PATH-SCRUB check) and
@@ -37,7 +48,7 @@ import { readFileSync, writeFileSync, existsSync, renameSync } from "node:fs";
 import { spawnSync } from "node:child_process";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import { buildIndex, lookup, allRows, isRecordPage } from "../worker/find-record.mjs";
+import { buildIndex, lookup, allRows, isMemorialPage, pageOkForKind, FIND_MAX_RESULTS } from "../worker/find-record.mjs";
 
 const args = process.argv.slice(2);
 const CHECK = args.includes("--check");
@@ -46,6 +57,8 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = ri !== -1 && args[ri + 1] ? resolve(args[ri + 1]) : resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA = resolve(ROOT, "data");
 const OUT = resolve(DATA, "find-record-index.json");
+// In Memoriam itself is a record (D566): the one memorial-kind row that is not a memorials.json row.
+const IN_MEMORIAM_ID = "in-memoriam", IN_MEMORIAM_NAME = "In Memoriam", IN_MEMORIAM_PAGE = "/in-memoriam.html";
 
 function load(name, key) {
   const p = resolve(DATA, name);
@@ -62,8 +75,7 @@ function build() {
   const titles = load("titles.json", "titles");
   const promotions = load("promotions.json", "promotions");
   const memorials = load("memorials.json", "memorials");
-  const memorialIds = new Set(memorials.map((m) => String(m.id).toLowerCase()));
-  const stats = { characters: 0, units: 0, titles: 0, wings: 0, noPage: 0, memorialId: 0, noName: 0 };
+  const stats = { characters: 0, units: 0, titles: 0, wings: 0, memorials: 0, noPage: 0, noName: 0 };
 
   raw = [];
   const akaOf = (r) => (Array.isArray(r.aka) ? r.aka.filter((a) => typeof a === "string" && a.trim()).map((a) => a.trim()) : []);
@@ -72,7 +84,7 @@ function build() {
     const id = String(r.id || "");
     const name = String(r.name || "").trim();
     if (!id || !name) { stats.noName++; return; }
-    if (memorialIds.has(id.toLowerCase())) { stats.memorialId++; return; }
+    // D566: the D448 drop of a record whose id is a memorial's id is gone — a memorial is its own kind now, with its own page
     if (!existsSync(resolve(ROOT, page.replace(/^\//, "").replace(/\/$/, "/index.html")))) { stats.noPage++; return; }
     raw.push({ kind, id, name, wings: [...new Set(wings)].sort(), akas: [...new Set(akaOf(r))], sub, page });
   };
@@ -102,14 +114,36 @@ function build() {
     stats.wings += raw.length - before;
   }
 
-  const order = { w: 0, t: 1, c: 2 };
+  // THE MEMORIAL REGISTER (D566): one row per data/memorials.json row — the register's own names only (`name` and any `aka`;
+  // `characters` holds entity ids, never display names, so it is never an aka here) — and one row for In Memoriam itself.
+  for (const m of memorials) {
+    const before = raw.length;
+    consider("m", { id: m.id, name: m.name, aka: akaOf(m) }, [], `/memorials/${m.id}.html`, "");
+    stats.memorials += raw.length - before;
+  }
+  {
+    const before = raw.length;
+    consider("m", { id: IN_MEMORIAM_ID, name: IN_MEMORIAM_NAME }, [], IN_MEMORIAM_PAGE, "");
+    stats.memorials += raw.length - before;
+  }
+
+  // One kind may never hold one id twice. (A memorial id that is ALSO a character id is two rows of two kinds with two pages —
+  // that is what D566 asks for — but the same kind twice over one id would be a defect, and would make the file ambiguous.)
+  const seenKindId = new Set();
+  for (const r of raw) {
+    const k = r.kind + ":" + r.id.toLowerCase();
+    if (seenKindId.has(k)) throw new Error(`find-record index: two "${r.kind}" rows share one id (${r.id})`);
+    seenKindId.add(k);
+  }
+
+  const order = { w: 0, t: 1, c: 2, m: 3 };
   raw.sort((a, b) => order[a.kind] - order[b.kind] || (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
 
   // THE PRIVACY FILTER (the coordinator's finding on the first cut: 37 gate-enforced deny rows with no covering allow, and a
   // takedown residual, in names the pages carry under scoped allows that do not reach this new path). Fix it here, never with an
   // ALLOW: any name, aka or id the gate's ledger scan or a takedown library would flag is dropped; a record whose id or display name
   // is flagged is dropped whole; an aka alone is dropped and the record kept by its other names. Counts only are ever logged.
-  const priv = { passes: 0, droppedRecords: 0, droppedAkas: 0, blankedWings: 0, ledgerRows: 0, lib: {} };
+  const priv = { passes: 0, droppedRecords: 0, droppedAkas: 0, droppedMemorials: 0, blankedWings: 0, ledgerRows: 0, lib: {} };
   const blank = new Set();
   let text;
   for (let pass = 1; pass <= 4; pass++) {
@@ -135,11 +169,15 @@ function build() {
       if (whole || !bad.length) dropRec.add(rec);
       else { rec.akas = rec.akas.filter((_, k) => !bad.includes(k)); priv.droppedAkas += bad.length; }
     }
-    if (dropRec.size) { priv.droppedRecords += dropRec.size; raw = raw.filter((r) => !dropRec.has(r)); }
+    if (dropRec.size) {
+      priv.droppedRecords += dropRec.size;
+      for (const r of dropRec) if (r.kind === "m") priv.droppedMemorials++;   // reported, never exempted: the register's own exemption is the gate's, and no more
+      raw = raw.filter((r) => !dropRec.has(r));
+    }
     priv.blankedWings = blank.size;
   }
   stats.privacy = priv;
-  return { text, stats, rows: raw.length, memorials };
+  return { text, stats, rows: raw.length, memorials, expectMemorialRows: stats.memorials - priv.droppedMemorials };
 }
 
 // The file's fixed layout: line 1 "{", 2 _schema_version, 3 _about, 4 _rows, 5 wings, 6 "rows": [, then one row per line.
@@ -154,7 +192,8 @@ function render(raw, blank) {
     const ex = {};
     if (r.akas.length) ex.a = r.akas;
     if (r.sub) ex.s = r.sub;
-    const dflt = r.kind === "c" ? `/characters/${r.id}.html` : r.kind === "t" ? `/titles/${r.id}.html` : `/promotions/${r.id}/index.html`;
+    const dflt = r.kind === "c" ? `/characters/${r.id}.html` : r.kind === "t" ? `/titles/${r.id}.html`
+      : r.kind === "m" ? `/memorials/${r.id}.html` : `/promotions/${r.id}/index.html`;
     const page = r.kind === "w" ? `/promotions/${r.id}/index.html` : r.page;
     if (page !== dflt) ex.p = page;
     const row = [r.kind, r.id, r.name, r.wings.map((w) => idx.get(w))];
@@ -178,21 +217,30 @@ function privacyScan(text) {
   return j;
 }
 
-function selfCheck(text, memorials) {
+function selfCheck(text, memorials, expectMemorialRows) {
   // 1. the file parses and loads through the Worker's own loader
   const doc = JSON.parse(text);
   const idx = buildIndex(doc);
   if (idx.count !== doc.rows.length) throw new Error(`self-check: ${doc.rows.length - idx.count} row(s) failed the Worker's page-shape test`);
-  // 2. no row's page is outside the three record shapes; none names a memorial, In Memoriam or a units listing
+  // 2. every row's page is one of ITS OWN kind's shapes: a memorial page or In Memoriam only ever under kind "m" (D566), a
+  //    character, title or wing page never a memorial's, and no row at all is a units listing or an a-z index.
+  let memRows = 0;
   for (const r of allRows(idx)) {
-    if (!isRecordPage(r.pagePath) || /^\/(memorials|units)\/|^\/in-memoriam/.test(r.pagePath)) throw new Error(`self-check: a row has a page that is not a record: ${r.pagePath}`);
+    if (!pageOkForKind(r.kind, r.pagePath)) throw new Error(`self-check: a "${r.kind}" row has a page that is not a record of that kind: ${r.pagePath}`);
+    if (/^\/units\/|\/a-z\//.test(r.pagePath)) throw new Error(`self-check: a row has a listing page: ${r.pagePath}`);
+    if (isMemorialPage(r.pagePath)) memRows++;
   }
-  // 3. a memorial subject's own name never yields a memorial page (nor anything outside the three shapes)
+  // 3. the memorial register answers for itself (D566): as many memorial rows as the register has pages, less what the privacy
+  //    filter dropped; In Memoriam findable by its own name and id; every surviving memorial findable by its own name and id.
+  if (memRows !== expectMemorialRows) throw new Error(`self-check: ${memRows} memorial row(s), expected ${expectMemorialRows}`);
+  const pages = (q) => lookup(idx, { q, n: FIND_MAX_RESULTS }).results.map((h) => h.row.pagePath);
+  for (const [what, q] of [["name", IN_MEMORIAM_NAME], ["id", IN_MEMORIAM_ID]]) {
+    if (!pages(q).includes(IN_MEMORIAM_PAGE)) throw new Error(`self-check: In Memoriam is not findable by its own ${what}`);
+  }
   for (const m of memorials) {
-    for (const nm of [m.name, m.id]) {
-      for (const hit of lookup(idx, { q: nm, n: 20 }).results) {
-        if (/^\/(memorials\/|in-memoriam|units\/)/.test(hit.row.pagePath)) throw new Error(`self-check: a lookup of a memorial subject returned ${hit.row.pagePath}`);
-      }
+    if (!idx.rows.some((r) => r[0] === "m" && r[1] === String(m.id))) continue;   // no page file yet, or dropped by the privacy filter
+    for (const [what, q] of [["name", m.name], ["id", m.id]]) {
+      if (!pages(q).includes(`/memorials/${m.id}.html`)) throw new Error(`self-check: the memorial ${m.id} is not findable by its own ${what}`);
     }
   }
   // 4. no machine path in any string (the PATH-SCRUB check would fail the gate)
@@ -202,15 +250,16 @@ function selfCheck(text, memorials) {
   return idx.count;
 }
 
-const { text, stats, rows, memorials } = build();
-selfCheck(text, memorials);
+const { text, stats, rows, memorials, expectMemorialRows } = build();
+selfCheck(text, memorials, expectMemorialRows);
 const have = existsSync(OUT) ? readFileSync(OUT, "utf8") : null;
 const same = have === text;
 const pv = stats.privacy;
-const summary = `${rows} rows (${stats.characters} characters, ${stats.units} units, ${stats.titles} titles, ${stats.wings} wings, before the privacy filter; ` +
-  `left out: ${stats.noPage} with no page file, ${stats.memorialId} with a memorial's id, ${stats.noName} unnamed), ` +
+const summary = `${rows} rows (${stats.characters} characters, ${stats.units} units, ${stats.titles} titles, ${stats.wings} wings, ` +
+  `${stats.memorials} memorial register rows, before the privacy filter; ` +
+  `left out: ${stats.noPage} with no page file, ${stats.noName} unnamed), ` +
   `privacy filter: ${pv.hitLines} line(s) flagged by ${pv.ledgerRows} ledger row(s) and ${Object.values(pv.lib).reduce((a, b) => a + b, 0)} takedown-library line(s), ` +
-  `${pv.droppedRecords} record(s) and ${pv.droppedAkas} aka string(s) dropped, ${pv.blankedWings} wing id(s) blanked, ${pv.passes} pass(es), final scan clean; ` +
+  `${pv.droppedRecords} record(s) (${pv.droppedMemorials} of them memorial rows) and ${pv.droppedAkas} aka string(s) dropped, ${pv.blankedWings} wing id(s) blanked, ${pv.passes} pass(es), final scan clean; ` +
   `${Buffer.byteLength(text)} bytes`;
 if (CHECK) {
   // the file ON DISK must be what would be written, and must itself scan clean (the self-check: any hit fails)

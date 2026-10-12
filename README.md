@@ -1,7 +1,6 @@
 # THE E-WRESTLING MUSEUM
 
-> **DRAFT public-grade revamp (2026-08-22)** — awaiting the Janitor's
-> editing pass before the open.
+> Written by AI, 2026.
 
 Canonical repository: **github.com/ewmuseum/ewmuseum** — mirrors listed
 in docs/OPERATIONS.md. The site the repo renders: **ewmuseum.org**.

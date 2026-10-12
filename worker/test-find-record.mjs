@@ -6,11 +6,12 @@
  *
  * A small fixture index and a fake bucket drive the real route (findRecordApi) and the pure half (normalizeName, buildIndex,
  * lookup). Covers: the folds (case, accents, apostrophes, "&", "The", a "(year)" qualifier), id / exact / words tiers, the kind
- * and wing filters, the 20-result cap, the care rules (a memorial or units page never enters the index and never answers), the
- * served-now check, the limiter, the 400s, and the stale-index refresh.
+ * and wing filters, the 20-result cap, the memorial register (D566: a memorial and In Memoriam are records of their own kind; a
+ * memorial page is refused in any other kind's row, and a units listing or an a-z index in any row), the served-now check, the
+ * limiter, the 400s, and the stale-index refresh.
  */
 import {
-  normalizeName, nameForms, buildIndex, lookup, allRows, resolveWing, isRecordPage, findRecordApi, _resetFindCache,
+  normalizeName, nameForms, buildIndex, lookup, allRows, resolveWing, isRecordPage, isMemorialPage, pageOkForKind, findRecordApi, _resetFindCache,
   FIND_INDEX_KEY, FIND_MAX_RESULTS,
 } from "./find-record.mjs";
 
@@ -26,6 +27,14 @@ eq(nameForms("The Ultimate internet Wrestling Federation (1999–2001)"), ["the 
 ok(isRecordPage("/characters/x.html") && isRecordPage("/titles/x.html") && isRecordPage("/promotions/pcw/") && isRecordPage("/promotions/pcw/index.html"), "record pages pass");
 ok(!isRecordPage("/memorials/ed-wilson.html") && !isRecordPage("/in-memoriam.html") && !isRecordPage("/units/a-z/a.html") && !isRecordPage("/characters/a-z/o.html") &&
    !isRecordPage("/promotions/pcw/archive/x.html") && !isRecordPage("/characters/../memorials/x.html") && !isRecordPage("/titles/x.html?a=1"), "other pages never pass");
+// the memorial shapes (D566): a memorial's own page and In Memoriam itself, and only ever under kind "m"
+ok(isMemorialPage("/memorials/ed-wilson.html") && isMemorialPage("/in-memoriam.html"), "the memorial pages pass as memorial pages");
+ok(!isMemorialPage("/memorials/a-z/a.html") && !isMemorialPage("/memorials/ed-wilson.html?a=1") && !isMemorialPage("/characters/x.html") &&
+   !isMemorialPage("/in-memoriam.html/x") && !isMemorialPage("/memorials/../x.html"), "nothing else is a memorial page");
+ok(pageOkForKind("m", "/memorials/ed-wilson.html") && pageOkForKind("m", "/in-memoriam.html") && pageOkForKind("c", "/characters/x.html") &&
+   pageOkForKind("t", "/titles/x.html") && pageOkForKind("w", "/promotions/pcw/"), "each kind's own shapes pass");
+ok(!pageOkForKind("c", "/memorials/ed-wilson.html") && !pageOkForKind("c", "/in-memoriam.html") && !pageOkForKind("t", "/memorials/x.html") &&
+   !pageOkForKind("m", "/characters/x.html") && !pageOkForKind("m", "/promotions/pcw/"), "no kind may carry another kind's page");
 
 const DOC = {
   _schema_version: 1,
@@ -43,16 +52,26 @@ const DOC = {
     ["c", "chris-williams-uwf", "Chris Williams", [2]],
     ["c", "the-hit-squad-pcw", "The Hit Squad", [0], { s: "tag-team" }],
     ["c", "aerith-heartilly", "Aerith Heartilly", []],     // a character whose page carries "In memoriam / Linked to ..." : ordinary
-    ["c", "ed-wilson", "Ed Wilson", [0], { p: "/memorials/ed-wilson.html" }],          // a memorial page smuggled in: dropped at load
+    ["c", "ed-wilson-pcw", "Ed Wilson", [0]],              // a character sharing a memorial subject's name: D566 returns both
+    ["c", "ed-wilson", "Ed Wilson", [0], { p: "/memorials/ed-wilson.html" }],          // a memorial page in a CHARACTER row: dropped at load
     ["c", "units-a", "Units A", [0], { p: "/units/a-z/a.html" }],                        // a units listing: dropped at load
-    ["c", "in-memoriam", "In Memoriam", [0], { p: "/in-memoriam.html" }],               // dropped at load
+    ["c", "in-memoriam", "In Memoriam", [0], { p: "/in-memoriam.html" }],               // In Memoriam in a character row: dropped at load
     ["c", "mystery", "???", []],
+    // THE MEMORIAL REGISTER (D566): kind "m", one row per data/memorials.json row, plus In Memoriam itself
+    ["m", "ed-wilson", "Ed Wilson", []],
+    ["m", "chris-williams", "Chris Williams", []],
+    ["m", "daniel-quirk", "Daniel Quirk", [], { a: ["Dan Quirk"] }],
+    ["m", "in-memoriam", "In Memoriam", [], { p: "/in-memoriam.html" }],
+    ["m", "smuggled", "Smuggled", [], { p: "/characters/smuggled.html" }],   // a character page in a MEMORIAL row: dropped at load
   ],
 };
 for (let i = 0; i < 40; i++) DOC.rows.push(["c", "john-smith-" + i, "John Smith " + i, [0]]);
 const idx = buildIndex(DOC);
-eq(idx.count, 13 + 40 - 0, "rows kept (memorial, units, in-memoriam pages dropped)");
-ok(!allRows(idx).some((r) => /memorial|memoriam|units/.test(r.pagePath)), "no memorial/units page in the index");
+eq(idx.count, 18 + 40, "rows kept (a memorial page in a character row, a character page in a memorial row, a units listing and In Memoriam under the wrong kind: all dropped)");
+ok(!allRows(idx).some((r) => /^\/units\/|\/a-z\//.test(r.pagePath)), "no units listing and no a-z index in the index");
+ok(allRows(idx).every((r) => (r.kind === "m") === /^\/(memorials\/|in-memoriam)/.test(r.pagePath)), "a memorial page is in the index only under kind m, and an m row has only a memorial page");
+eq(allRows(idx).filter((r) => r.kind === "m").map((r) => r.pagePath).sort(),
+   ["/in-memoriam.html", "/memorials/chris-williams.html", "/memorials/daniel-quirk.html", "/memorials/ed-wilson.html"], "the memorial rows and their pages");
 const names = (q) => lookup(idx, q).results.map((h) => h.row.id + ":" + h.match);
 eq(names({ q: "robosaurus" }), ["robosaurus-pcw:exact"], "a character by name");
 eq(names({ q: "ROBOSAURUS" }), ["robosaurus-pcw:exact"], "case folded");
@@ -66,7 +85,11 @@ eq(names({ q: "UWF 2001 07", kind: "wing" }), ["uwf:exact"], "wing by its full w
 eq(names({ q: "world", kind: "title", wing: "pcw" }), ["pcw-world-tag:words", "pcw-world:words"], "words, kind and wing; fewest extra words (over name and aka) first");
 eq(names({ q: "world", kind: "title" }), ["pcw-world-tag:words", "uwf-world:words", "pcw-world:words"], "world across wings");
 eq(names({ q: "world tag titles" }), ["pcw-world-tag:exact"], "title by its aka");
-eq(names({ q: "chris williams" }).sort(), ["chris-williams-pcw:exact", "chris-williams-uwf:exact"], "an ambiguous name lists both");
+eq(names({ q: "chris williams" }), ["chris-williams:exact", "chris-williams-pcw:exact", "chris-williams-uwf:exact"], "a name that is a memorial subject's and two characters' lists all three, the memorial first (D566)");
+eq(names({ q: "chris williams", kind: "memorial" }), ["chris-williams:exact"], "kind=memorial");
+eq(names({ q: "chris williams", kind: "character" }), ["chris-williams-pcw:exact", "chris-williams-uwf:exact"], "kind=character leaves the memorial out");
+eq(names({ q: "Dan Quirk" }), ["daniel-quirk:exact"], "a memorial by the register's own aka");
+eq(names({ q: "daniel-quirk" }), ["daniel-quirk:id"], "a memorial by its id");
 eq(names({ q: "chris williams", wing: "uwf" }), ["chris-williams-uwf:exact"], "ambiguous name narrowed by wing");
 eq(names({ q: "chris williams", kind: "title" }), [], "kind that does not fit");
 eq(names({ q: "hit squad" }), ["the-hit-squad-pcw:exact"], "leading The");
@@ -77,8 +100,11 @@ eq(lookup(idx, { q: "j" }).total, 0, "one letter finds nothing");
 eq(lookup(idx, { q: "???" }).total, 0, "no letters finds nothing");
 eq(lookup(idx, { q: "the" }).total, 0, "a query of only a common word finds nothing");
 eq(names({ q: "the hit" }), ["the-hit-squad-pcw:words"], "a common word beside another still must match");
-eq(names({ q: "ed wilson" }), [], "a memorial subject's name finds no memorial page");
-eq(names({ q: "in memoriam" }), [], "In Memoriam is not a record");
+eq(names({ q: "ed wilson" }), ["ed-wilson:exact", "ed-wilson-pcw:exact"], "a memorial subject's name finds the memorial AND the character of that name (D566)");
+eq(names({ q: "ed-wilson" }), ["ed-wilson:id", "ed-wilson-pcw:exact"], "the memorial's id is an id match, the character of that name follows");
+eq(names({ q: "in memoriam" }), ["in-memoriam:exact"], "In Memoriam is a record of its own (D566)");
+eq(names({ q: "in-memoriam" }), ["in-memoriam:id"], "In Memoriam by its id");
+eq(names({ q: "in memoriam", kind: "memorial" }), ["in-memoriam:exact"], "In Memoriam under kind=memorial");
 eq(names({ q: "aerith heartilly" }), ["aerith-heartilly:exact"], "a memorial-linked character is an ordinary character");
 eq(resolveWing(idx, "PCW"), "pcw", "wing by id, any case");
 eq(resolveWing(idx, "Pro Championship Wrestling"), "pcw", "wing by name");
@@ -86,7 +112,8 @@ eq(resolveWing(idx, "nope"), null, "unknown wing");
 
 // --- the route, over a fake bucket ----------------------------------------
 const served = new Set(["characters/robosaurus-pcw.html", "characters/chris-williams-pcw.html", "characters/chris-williams-uwf.html", "titles/pcw-world.html",
-  "titles/pcw-world-tag.html", "promotions/pcw/index.html", "characters/dragon-obrien-uwf.html"]);
+  "titles/pcw-world-tag.html", "promotions/pcw/index.html", "characters/dragon-obrien-uwf.html",
+  "memorials/ed-wilson.html", "memorials/daniel-quirk.html", "in-memoriam.html", "characters/ed-wilson-pcw.html"]);
 let docText = JSON.stringify(DOC), etag = "e1", gets = 0, heads = 0;
 const bucket = {
   async head(key) { heads++; if (key === FIND_INDEX_KEY) return { etag }; return served.has(key) ? { key } : null; },
@@ -117,9 +144,16 @@ eq(r.body.total, 3, "route: total is the index's count, not the served count");
 r = await call("q=hit+squad");
 eq(r.body.results, [], "route: unserved page dropped");
 r = await call("q=ed+wilson");
-eq([r.status, r.body.results], [200, []], "route: a memorial subject's name answers nothing");
+eq([r.status, r.body.results.map((x) => [x.kind, x.page])], [200, [["memorial", "/memorials/ed-wilson.html"], ["character", "/characters/ed-wilson-pcw.html"]]],
+   "route: a memorial subject's name answers with the memorial and the character of that name (D566)");
+r = await call("q=in+memoriam");
+eq([r.status, r.body.results.map((x) => [x.kind, x.page])], [200, [["memorial", "/in-memoriam.html"]]], "route: In Memoriam");
+r = await call("q=ed+wilson&kind=memorial");
+eq(r.body.results.map((x) => x.id), ["ed-wilson"], "route: kind=memorial");
+r = await call("q=chris+williams&kind=memorial");
+eq([r.status, r.body.results], [200, []], "route: a memorial whose page is not in the bucket is dropped by the served-now check");
 r = await call("q=x&kind=bad");
-eq(r.status, 400, "route: bad kind");
+eq([r.status, r.body.error], [400, "kind must be character, title, wing or memorial"], "route: bad kind, and the message names all four");
 r = await call("q=" + "a".repeat(121));
 eq(r.status, 400, "route: query too long");
 r = await call("q=a");
@@ -141,9 +175,13 @@ _resetFindCache(); r = await call("q=new+person"); eq(r.body.results.map((x) => 
 // a broken index: 502, no words from the error
 docText = "{not json"; etag = "e3"; _resetFindCache();
 r = await call("q=robosaurus"); eq([r.status, r.body.error], [502, "unavailable"], "route: a broken index is a 502 'unavailable'");
-// an index with a memorial page smuggled in still never answers with it
-docText = JSON.stringify({ _schema_version: 1, wings: [], rows: [["c", "ed-wilson", "Ed Wilson", [], { p: "/memorials/ed-wilson.html" }]] }); etag = "e4"; _resetFindCache(); served.add("memorials/ed-wilson.html");
-r = await call("q=ed+wilson"); eq(r.body.results, [], "route: a memorial page in the file is refused at load");
+// a row whose page is not of its own kind is still refused at load, BOTH ways (D566: only an "m" row may carry a memorial page)
+docText = JSON.stringify({ _schema_version: 1, wings: [], rows: [["c", "ed-wilson", "Ed Wilson", [], { p: "/memorials/ed-wilson.html" }],
+  ["m", "smuggled", "Smuggled", [], { p: "/characters/smuggled.html" }], ["c", "units-a", "Units A", [], { p: "/units/a-z/a.html" }]] });
+etag = "e4"; _resetFindCache(); served.add("memorials/ed-wilson.html"); served.add("characters/smuggled.html");
+r = await call("q=ed+wilson"); eq(r.body.results, [], "route: a memorial page in a character row is refused at load");
+r = await call("q=smuggled"); eq(r.body.results, [], "route: a character page in a memorial row is refused at load");
+r = await call("q=units+a"); eq(r.body.results, [], "route: a units listing is refused at load");
 
 console.log(fails ? `test-find-record: ${fails} FAILED, ${passes} passed` : `test-find-record: all ${passes} checks passed`);
 process.exit(fails ? 1 : 0);

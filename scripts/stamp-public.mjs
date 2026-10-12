@@ -8,9 +8,16 @@
  * so the whole open/gated state is ONE flag flip away, never a hand-edit
  * across files:
  *
- *   - sitemap.xml — every served page (404.html excluded), generated from
- *     the same page walk validate.mjs uses. Generated in BOTH states (it
- *     is inert behind the gate); robots.txt only advertises it when public.
+ *   - sitemap.xml + sitemaps/sitemap-N.xml — every served page (404.html
+ *     excluded), generated from the same page walk validate.mjs uses. Hook
+ *     c305 (launch day, Search Console: "couldn't fetch"): the sitemaps
+ *     protocol caps ONE sitemap file at 50,000 URLs and 50 MB, and this
+ *     museum serves 119,243 pages, so /sitemap.xml is a <sitemapindex> over
+ *     children of at most 45,000 URLs each. Every <loc> is the CANONICAL
+ *     extensionless URL the Worker answers with 200 (worker/index.mjs
+ *     resolvePath: "/x.html" -> 308 "/x", "/x/index.html" -> 308 "/x/"),
+ *     never a URL that redirects. Generated in BOTH states (it is inert
+ *     behind the gate); robots.txt only advertises it when public.
  *   - robots.txt — gated: Disallow all (the gate 403s crawlers anyway;
  *     this just says so politely). Public: search crawlers welcome,
  *     sitemap advertised, and the settled crawler policy applied — bulk/AI
@@ -32,9 +39,9 @@
  * crawlers it refuses, and keeps /api/ out.
  *
  * Run: folded into `npm run stats`. Idempotent. `--robots-only` stamps
- * robots.txt and _headers and leaves sitemap.xml alone (hook c115's install).
+ * robots.txt and _headers and leaves sitemap.xml and sitemaps/ alone (c115).
  */
-import { readFileSync, writeFileSync, readdirSync, statSync } from "node:fs";
+import { readFileSync, writeFileSync, readdirSync, statSync, mkdirSync, rmSync } from "node:fs";
 import { resolve, dirname, relative } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -44,6 +51,15 @@ const PUBLIC = cfg.public === true;
 const INDEXABLE = PUBLIC || cfg.indexable === true; // D429 (hook c115): robots.txt + the _headers robots block
 const ROBOTS_ONLY = process.argv.includes("--robots-only");
 const ORIGIN = "https://ewmuseum.org";
+// THE SITEMAP INDEX (hook c305, 2026-10-12). 45,000 leaves headroom under the protocol's 50,000-URL cap for the pages
+// the next waves add between gates. The children live in their own top-level directory: scripts/deploy-allowlist.mjs
+// allows "sitemaps", .assetsignore deliberately does NOT list it, so scripts/r2-sync.mjs uploads them and the Worker
+// serves them as application/xml. Both documents are written here and nowhere else.
+const CHUNK = 45000;
+const SITEMAP_DIR = "sitemaps";
+const SM_NS = "http://www.sitemaps.org/schemas/sitemap/0.9";
+const xmlDoc = (tag, lines) =>
+  `<?xml version="1.0" encoding="UTF-8"?>\n<${tag} xmlns="${SM_NS}">\n${lines.map((l) => l + "\n").join("")}</${tag}>\n`;
 
 // Same walk-exclusions as validate.mjs's reachability check.
 const SKIP = new Set([".git", ".claude", "bot", "node_modules", "functions", "scripts", "js", "docs", "templates", "data"]);
@@ -58,15 +74,35 @@ if (!ROBOTS_ONLY) (function collect(dir) { // --robots-only: no page walk, sitem
 })(ROOT);
 pages.sort();
 
+// CANONICAL URL FORM (hook c305) — exactly worker/index.mjs resolvePath()'s canonicalization, so no <loc> is a 308:
+// "/index.html" and "/x/index.html" lose the index and keep the trailing slash (the Worker serves foo/index.html at
+// "/foo/"); every other "/x.html" loses the extension (the Worker serves foo.html at "/foo", .html-before-directory, so
+// "/rps" and "/rps/" stay the two different pages they are). A "-index.html" leaf is an ordinary page, not a directory
+// index: it only loses ".html", because endsWith("/index.html") is false for it.
 const urls = pages
   .filter((p) => p !== "404.html")
   .map((p) => {
     let path = "/" + p.replace(/\\/g, "/");
     if (path.endsWith("/index.html")) path = path.slice(0, -"index.html".length);
-    return `  <url><loc>${ORIGIN}${path.replace(/&/g, "&amp;")}</loc></url>`;
+    else if (path.endsWith(".html")) path = path.slice(0, -".html".length);
+    return `${ORIGIN}${path.replace(/&/g, "&amp;")}`;
   });
-if (!ROBOTS_ONLY) writeFileSync(resolve(ROOT, "sitemap.xml"),
-  `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>\n`);
+const chunks = [];
+for (let i = 0; i < urls.length; i += CHUNK) chunks.push(urls.slice(i, i + CHUNK));
+if (!chunks.length) chunks.push([]); // a <sitemapindex> with no child is invalid; an empty child <urlset> is not
+if (!ROBOTS_ONLY) {
+  const dir = resolve(ROOT, SITEMAP_DIR);
+  mkdirSync(dir, { recursive: true });
+  chunks.forEach((chunk, i) => writeFileSync(resolve(dir, `sitemap-${i + 1}.xml`),
+    xmlDoc("urlset", chunk.map((u) => `  <url><loc>${u}</loc></url>`))));
+  // Stale children from a larger earlier run: this ONE directory, this ONE name shape, nothing else ever removed.
+  for (const name of readdirSync(dir)) {
+    const m = /^sitemap-([0-9]+)\.xml$/.exec(name);
+    if (m && Number(m[1]) > chunks.length) rmSync(resolve(dir, name));
+  }
+  writeFileSync(resolve(ROOT, "sitemap.xml"), xmlDoc("sitemapindex",
+    chunks.map((_c, i) => `  <sitemap><loc>${ORIGIN}/${SITEMAP_DIR}/sitemap-${i + 1}.xml</loc></sitemap>`)));
+}
 
 const robots = INDEXABLE
   ? `# THE E-WRESTLING MUSEUM — crawler policy
@@ -135,4 +171,4 @@ if (!re.test(raw)) throw new Error('_headers: no "# robots:start/end" marker pai
 const out = raw.replace(re, (_w, a, _b, c) => `${a}${block}\n${c}`);
 if (out !== raw) writeFileSync(headersPath, out);
 
-console.log(`stamp-public: ${PUBLIC ? "PUBLIC" : INDEXABLE ? "gated pages, indexable" : "gated"} — sitemap.xml ${ROBOTS_ONLY ? "left as it is" : urls.length + " urls"}, robots.txt ${INDEXABLE ? "open" : "closed"}, X-Robots-Tag ${INDEXABLE ? "nocache" : "noindex"}.`);
+console.log(`stamp-public: ${PUBLIC ? "PUBLIC" : INDEXABLE ? "gated pages, indexable" : "gated"} — sitemap.xml ${ROBOTS_ONLY ? "left as it is" : urls.length + " urls in " + chunks.length + " file(s)"}, robots.txt ${INDEXABLE ? "open" : "closed"}, X-Robots-Tag ${INDEXABLE ? "nocache" : "noindex"}.`);

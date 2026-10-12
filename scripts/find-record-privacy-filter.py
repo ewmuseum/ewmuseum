@@ -22,6 +22,15 @@ WHAT COUNTS AS A HIT (the same two things the coordinator checks with privacy-lo
      No ALLOW is honoured: no allow covers this file, and the point is that the index never needs one.
   2. THE TAKEDOWN LIBRARIES (von Doom, mack, matw, ayj; imported, never read or printed) through privacy-lookup.py's own loader and scanner:
      a line counts when any library reports a residual, a fused form or a full-name hit on it.
+MEMORIAL ROWS (D566, the Janitor, 2026-10-12, verbatim "First option"): the index now carries the memorial register's own rows
+(kind "m", one per data/memorials.json row, plus In Memoriam). They are scanned line by line exactly like every other row, under
+exactly the SAME exemption the gate gives memorial pages -- rule 1's "MINUS the memorial register's own names", which is
+privacy-check.mjs's MEMORIAL-EXEMPTION-01 read the same way here: the register's `name`, any `aka`, and the forename+surname short
+form of a three-or-more-part name, unless the deny row is a ruled namesake (class real-name-collision, or MEMORIAL-COLLISION in
+its note). Memorial subjects are NAMED BY LAW (CURATION #privacy v74 and the memorial register, v65; GAVELS 2026-09-24 D2), so the
+register's own names need no new exemption and none is added -- not for memorial rows and not for any other row: a takedown
+library still removes what it removes, and the build reports how many memorial rows it dropped.
+
 It fails CLOSED: a missing ledger, an unreadable library or a library that fails to import ends with exit 2 and a message that names the
 kind of failure only. (The gate's privacy step fails closed on a missing ledger the same way.)
 """
