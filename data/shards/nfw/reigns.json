@@ -1,0 +1,1620 @@
+[
+ {
+  "id": "nfw-elite-r001",
+  "title": "nfw-elite",
+  "label": "Steve Knox",
+  "holder": [
+   {
+    "id": "steve-knox"
+   }
+  ],
+  "won": {
+   "date": "2008",
+   "precision": "year",
+   "source": "NFW's own served show text for that card, read start to finish"
+  },
+  "lost": {
+   "date": "2008-10-19",
+   "precision": "exact"
+  },
+  "how": "Won before the belt ever appeared on an NFW card: by his own account he beat one promotion's World Champion, then another's Universal Champion, then Andy Murray at a third promotion's Colossus event for the title. He is already carrying it at Crash TV 46 on 23 August 2008, which is the first NFW document to show it.",
+  "event": "nfw-nfw-crash-tv-46-2008-08-23",
+  "note": "The won date is honest to a year: NFW's own record never stages the win, and the earliest document that shows him holding the belt is Crash TV 46.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-elite-r002",
+  "title": "nfw-elite",
+  "label": "Wyatt Connors",
+  "holder": [
+   {
+    "name": "Wyatt Connors",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "NFW's own served show text for that card, read start to finish"
+  },
+  "lost": {
+   "date": "2010",
+   "precision": "year"
+  },
+  "how": "Beat Steve Knox for the title with Lord Coyner Pollard interfering at ringside with a concealed ivory ring — reported on the Supercrash II broadcast as a recapped segment rather than staged live.",
+  "event": "nfw-nfw-supercrash-ii-dawn-of-a-revolution-2008-10-19",
+  "end_how": "vacated",
+  "note": "SOURCES DISAGREE about what happened next. By 10 July 2010 the fed is describing the Elite Championship as vacated and crediting the vacancy back to Steve Knox rather than to this champion, with no title change recorded in between; it then ran an interfed tournament to fill it whose only surviving round is the first. Both readings are recorded; the belt was revived on paper in January 2012 solely to be merged into the Triple Crown Championship."
+ },
+ {
+  "id": "nfw-mid-atlantic-r001",
+  "title": "nfw-mid-atlantic",
+  "label": "Alex Wylde",
+  "holder": [
+   {
+    "id": "alex-wylde"
+   }
+  ],
+  "won": {
+   "date": "2001-06-01",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Banned 4 Life, Lowell, MA. Defeated Armando Montezuma in the finals of a 16-man tournament.",
+  "days": 180,
+  "lost": {
+   "date": "2001-11-28",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-banned-4-life-2001-06-01",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-mid-atlantic-r002",
+  "title": "nfw-mid-atlantic",
+  "label": "Pat Black",
+  "holder": [
+   {
+    "id": "pat-black"
+   }
+  ],
+  "won": {
+   "date": "2001-11-28",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Impact 2, Lowell, MA. Commissioner Michael Manson fired Black and discontinued the title on March 17, 2002 at Impact 2.",
+  "days": 109,
+  "event": "nfw-nfw-impact-tv-2-2001-11-28",
+  "end_how": "retired",
+  "lost": {
+   "date": "2002-03-17",
+   "precision": "exact",
+   "source": "NFW's own served card, Impact TV 3 ('The Death of a Title': Commissioner Mike Manson released Pat Black and burned the belt; 'the Mid-Atlantic title ... is NO MORE'); the fed's own championship record agrees on the date"
+  }
+ },
+ {
+  "id": "nfw-national-r001",
+  "title": "nfw-national",
+  "label": "Teresa Quaranta",
+  "holder": [
+   {
+    "id": "teresa-quaranta"
+   }
+  ],
+  "won": {
+   "date": "2008-02-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash I: Coronation, Portland, OR. Defeated Rook Black in the finals of a double-elimination tournament.",
+  "days": 190,
+  "lost": {
+   "date": "2008-08-23",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-supercrash-i-coronation-2008-02-15",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-national-r002",
+  "title": "nfw-national",
+  "label": "Steve Knox",
+  "holder": [
+   {
+    "id": "steve-knox"
+   }
+  ],
+  "won": {
+   "date": "2008-08-23",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 46, Daytona Beach, FL.",
+  "days": 57,
+  "lost": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-crash-tv-46-2008-08-23",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-national-r003",
+  "title": "nfw-national",
+  "label": "Rook Black",
+  "holder": [
+   {
+    "id": "rook-black"
+   }
+  ],
+  "won": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash II: Dawn of a Revolution, Memphis, TN.",
+  "days": 923,
+  "lost": {
+   "date": "2011-04-30",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-supercrash-ii-dawn-of-a-revolution-2008-10-19",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-national-r004",
+  "title": "nfw-national",
+  "label": "Thirteen",
+  "holder": [
+   {
+    "id": "thirteen-nfw"
+   }
+  ],
+  "won": {
+   "date": "2011-04-30",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash III: Remember The Alamo, San Antonio, TX. Thirteen was revealed to be High Flyer aka Jack Harmen.",
+  "days": 0,
+  "lost": {
+   "date": "2011-04-30",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-supercrash-iii-remember-the-alamo-2011-04-30",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-national-r005",
+  "title": "nfw-national",
+  "label": "Doc Curiosity",
+  "holder": [
+   {
+    "id": "doctor-curiosity"
+   }
+  ],
+  "won": {
+   "date": "2011-04-30",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash III: Remember The Alamo, San Antonio, TX.",
+  "days": 0,
+  "lost": {
+   "date": "2011-04-30",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-supercrash-iii-remember-the-alamo-2011-04-30",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-national-r006",
+  "title": "nfw-national",
+  "label": "Rook Black (2)",
+  "holder": [
+   {
+    "id": "rook-black"
+   }
+  ],
+  "won": {
+   "date": "2011-04-30",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash III: Remember The Alamo, San Antonio, TX. Title became Triple Crown Championship (Merged with Pure & Elite Championship) after Rook Black defeated Deacon & Stalker at Reloaded 11 (04/20/12)",
+  "event": "nfw-nfw-supercrash-iii-remember-the-alamo-2011-04-30",
+  "end_how": "retired",
+  "days": 356,
+  "lost": {
+   "date": "2012-04-20",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html): the title became the Triple Crown Championship, merged with the Pure and Elite Championships, at Reloaded 11"
+  }
+ },
+ {
+  "id": "nfw-pure-r001",
+  "title": "nfw-pure",
+  "label": "Sean Stevens",
+  "holder": [
+   {
+    "id": "xxx-sean-stevens-cswa"
+   }
+  ],
+  "won": {
+   "date": "2010-04-27",
+   "precision": "exact",
+   "source": "NFW's own served show text for that card, read start to finish"
+  },
+  "lost": {
+   "date": "2011-04-01",
+   "precision": "exact"
+  },
+  "how": "Crowned the belt's first champion by Bloodhunt, who unveiled it at NFW's 2010 opening night in Philadelphia after losing to him, declared him drug free and demanded Olympic-style testing of any challenger.",
+  "event": "nfw-nfw-brawl-27-2010-opening-night-in-philadelphia-2010-04-27",
+  "end_how": "stripped",
+  "note": "SOURCES DISAGREE — The fed's own title record ends this reign on 26 February 2011, the night President Eddie Mayfield suspended Sean Stevens and the championship at Reloaded 07; the served cards end it on 1 April 2011, when the belt was reassigned at Brawl 37. Suspended along with the championship by President Eddie Mayfield at Reloaded 07 on 26 February 2011 for insubordination, with the title threatened with vacancy; the belt was reassigned by decree five weeks later. The fed's own championship record carries no lineage for this title at all."
+ },
+ {
+  "id": "nfw-pure-r002",
+  "title": "nfw-pure",
+  "label": "Bobby Jack Windham",
+  "holder": [
+   {
+    "id": "bobby-jack-windham-nlw-next-level-2009"
+   }
+  ],
+  "won": {
+   "date": "2011-04-01",
+   "precision": "exact",
+   "source": "NFW's own served show text for that card, read start to finish"
+  },
+  "lost": {
+   "date": "2011-10-30",
+   "precision": "exact"
+  },
+  "how": "Named champion, not beaten for it: Troy Windham demanded it as one of the terms of agreeing to the Supercrash III match — \"I want BOBBY JACK WINDHAM named as the new PURE CHAMPION. There is no PURER Windham, therefore is no PURER wrestler or man in NFW.\"",
+  "event": "nfw-nfw-brawl-37-to-the-alamo-2011-04-01",
+  "note": "SOURCES DISAGREE — The fed's own title record first credits Bobby Jack Windham with the belt at Supercrash III on 30 April 2011, where commentary calls him 'the newly appointed PURE CHAMPION'; Brawl 37 of 1 April 2011 stages the demand that named him champion. Awarded by decree rather than won in a contest, the fed's own staging.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-pure-r003",
+  "title": "nfw-pure",
+  "label": "Legion",
+  "holder": [
+   {
+    "id": "legion-nfw"
+   }
+  ],
+  "won": {
+   "date": "2011-10-30",
+   "precision": "exact",
+   "source": "NFW's own served show text for that card, read start to finish"
+  },
+  "lost": {
+   "date": "2012-01-09",
+   "precision": "exact"
+  },
+  "how": "Fell onto and covered the separately-unconscious champion in the Pentecostal Four Corners match at Reloaded X, both men having been laid out by Stalker.",
+  "event": "nfw-nfw-reloaded-x-2011-10-30",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-pure-r004",
+  "title": "nfw-pure",
+  "label": "Stalker",
+  "holder": [
+   {
+    "id": "stalker-nfw"
+   }
+  ],
+  "won": {
+   "date": "2012-01-09",
+   "precision": "exact",
+   "source": "NFW's own served show text for that card, read start to finish"
+  },
+  "lost": {
+   "date": "2012-04-20",
+   "precision": "exact"
+  },
+  "how": "Pinned Legion in a chain match at Supercrash IV after Legion's own valet twice pulled the referee out to break up his covers and then left with the new champion.",
+  "event": "nfw-nfw-supercrash-iv-apocalypse-now-2012-01-09",
+  "end_how": "retired",
+  "note": "The reign ends with the belt rather than with a loss: the Pure Championship was merged into the Triple Crown Championship at Reloaded 11 on 20 April 2012."
+ },
+ {
+  "id": "nfw-television-r001",
+  "title": "nfw-television",
+  "label": "Tempesta Del Fuerte",
+  "holder": [
+   {
+    "id": "tempesta-del-fuerte"
+   }
+  ],
+  "won": {
+   "date": "2002-07-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Impact 4, Lowell, MA. Defeated Chris McMillan in the finals of a one-night, 16-man tournament.",
+  "days": 61,
+  "lost": {
+   "date": "2002-08-15",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-impact-tv-4-2002-07-15",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-television-r002",
+  "title": "nfw-television",
+  "label": "Steel Viper",
+  "holder": [
+   {
+    "id": "steel-viper"
+   }
+  ],
+  "won": {
+   "date": "2002-08-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Futureshock, Lowell, MA. Title was discontinued at the conclusion of the night and was not reinstated until May 16, 2007.",
+  "days": 0,
+  "lost": {
+   "date": "2002-08-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html): 0 days held; the title was discontinued at the end of Futureshock and not reinstated until 16 May 2007"
+  },
+  "event": "nfw-futureshock-2002-08-15",
+  "end_how": "retired"
+ },
+ {
+  "id": "nfw-television-r003",
+  "title": "nfw-television",
+  "label": "Shawn Jessica Hart & Joe The Plumber",
+  "holder": [
+   {
+    "id": "shawn-hart"
+   },
+   {
+    "id": "joe-the-plumber"
+   }
+  ],
+  "won": {
+   "date": "2007-05-16",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Wrestlebowl II, Dallas, TX. Both men ruled co-champions after simultaneously winning a battle royal to determine the new champion. Hart disappeared the next night and Joe was declared sole champion.",
+  "days": 0,
+  "lost": {
+   "date": "2007-05-16",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-wrestlebowl-ii-night-2-2007-05-16",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-television-r004",
+  "title": "nfw-television",
+  "label": "Joe The Plumber",
+  "holder": [
+   {
+    "id": "joe-the-plumber"
+   }
+  ],
+  "won": {
+   "date": "2007-05-16",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Wrestlebowl II, Dallas, TX. Relinquished the title on October 19, 2008 upon winning the NFW World Heavyweight Championship.",
+  "days": 522,
+  "lost": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html): relinquished the title on winning the World Heavyweight Championship at Supercrash II"
+  },
+  "event": "nfw-wrestlebowl-ii-night-2-2007-05-16",
+  "end_how": "vacated"
+ },
+ {
+  "id": "nfw-television-r005",
+  "title": "nfw-television",
+  "label": "Impulse",
+  "holder": [
+   {
+    "id": "impulse-nfw"
+   }
+  ],
+  "won": {
+   "date": "2009-03-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 47, Chicago, IL. Won a Sears Tower match to capture the vacant title.",
+  "days": 412,
+  "lost": {
+   "date": "2010-05-01",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-crash-tv-47-2009-03-15",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-television-r006",
+  "title": "nfw-television",
+  "label": "Castor Strife",
+  "holder": [
+   {
+    "id": "castor-strife"
+   }
+  ],
+  "won": {
+   "date": "2010-05-01",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Reloaded 1, Auburn Hills, MI. Forced to relinquish the title on April 1, 2011 in order to compete in the NFW World Heavyweight Title Tournament",
+  "days": 335,
+  "lost": {
+   "date": "2011-04-01",
+   "precision": "exact",
+   "source": "NFW's own served card, Brawl 37 (Troy Windham's terms: 'I want him STRIPPED of his TELEVISION CHAMPIONSHIP'); the fed's own championship record: forced to relinquish it to enter the World title tournament"
+  },
+  "event": "nfw-nfw-reloaded-01-2010-05-01",
+  "end_how": "stripped"
+ },
+ {
+  "id": "nfw-television-r007",
+  "title": "nfw-television",
+  "label": "Jack Bryant",
+  "holder": [
+   {
+    "id": "jack-bryant"
+   }
+  ],
+  "won": {
+   "date": "2011-04-30",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash III: Remember The Alamo, San Antonio, TX. Won a 5-man ladder match to capture the vacant title.",
+  "days": 44,
+  "lost": {
+   "date": "2011-06-13",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-supercrash-iii-remember-the-alamo-2011-04-30",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-television-r008",
+  "title": "nfw-television",
+  "label": "J.J. Deville",
+  "holder": [
+   {
+    "id": "jj-deville"
+   }
+  ],
+  "won": {
+   "date": "2011-06-13",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Reloaded 8, North Charleston, SC.",
+  "days": 139,
+  "lost": {
+   "date": "2011-10-31",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-reloaded-08-2011-06-13",
+  "note": "The fed's own record dates this win to Reloaded 8 in North Charleston, 13 June 2011, and its own Reloaded 8 results document stages the title change there; the sources-disagree note that sat here belonged to the following reign and has been returned to it.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-television-r009",
+  "title": "nfw-television",
+  "label": "Jack Bryant (2)",
+  "holder": [
+   {
+    "id": "jack-bryant"
+   }
+  ],
+  "won": {
+   "date": "2011-10-31",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Reloaded X, Norfolk, VA.",
+  "days": 349,
+  "lost": {
+   "date": "2012-10-14",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-reloaded-x-2011-10-30",
+  "note": "SOURCES DISAGREE by a day: the fed's own championship record dates this win 31 October 2011, and its own Reloaded X results document is headed 30 October 2011. Both readings are recorded; the reign follows the record, the event link follows the served show.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-television-r010",
+  "title": "nfw-television",
+  "label": "Dorchester Stratton",
+  "holder": [
+   {
+    "id": "dorchester-stratton"
+   }
+  ],
+  "won": {
+   "date": "2012-10-14",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Brawl 57, George, Washington. Match 2 in a Best of 5 Series",
+  "days": 76,
+  "lost": {
+   "date": "2012-12-29",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-brawl-57-the-gorge-2012-10-14",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-television-r011",
+  "title": "nfw-television",
+  "label": "Jack Bryant (3)",
+  "holder": [
+   {
+    "id": "jack-bryant"
+   }
+  ],
+  "won": {
+   "date": "2012-12-29",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Reloaded 14, Perth, Austraila. Match 4 in a Best of 5 Series",
+  "days": 56,
+  "lost": {
+   "date": "2013-02-23",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-reloaded-14-2012-12-29",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-television-r012",
+  "title": "nfw-television",
+  "label": "Dorchester Stratton (2)",
+  "holder": [
+   {
+    "id": "dorchester-stratton"
+   }
+  ],
+  "won": {
+   "date": "2013-02-23",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Reloaded 15, Amsterdam. Match 5 in a Best of 5 Series",
+  "event": "nfw-nfw-reloaded-15-2013-02-23",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-triple-crown-r001",
+  "title": "nfw-triple-crown",
+  "label": "Rook Black",
+  "holder": [
+   {
+    "id": "rook-black"
+   }
+  ],
+  "won": {
+   "date": "2012-04-20",
+   "precision": "exact",
+   "source": "NFW's own served show text for that card, read start to finish"
+  },
+  "how": "Pinned Deacon with a double-knee facebreaker onto a steel chair in a sudden-death three-way that also carried the reigning Pure Champion, becoming the first holder of the belt President Eddie Mayfield had ordered made out of the Pure, National and Elite Championships.",
+  "event": "nfw-nfw-reloaded-11-2012-04-20",
+  "end_how": "lost-in-match",
+  "note": null,
+  "days": 457,
+  "lost": {
+   "date": "2013-07-21",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 16"
+  }
+ },
+ {
+  "id": "nfw-ultratitle-r001",
+  "title": "nfw-ultratitle",
+  "label": "Michael Manson",
+  "holder": [
+   {
+    "id": "michael-manson"
+   }
+  ],
+  "won": {
+   "date": "2005-01-31",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Wrestlebowl I, North Charleston, SC. Beat Shane Southern in the final.",
+  "lost": {
+   "date": "2007-05-16",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-wrestlebowl-i-2005-01-31",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-ultratitle-r002",
+  "title": "nfw-ultratitle",
+  "label": "Nova",
+  "holder": [
+   {
+    "id": "nova-team"
+   }
+  ],
+  "won": {
+   "date": "2007-05-16",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Wrestlebowl II, Dallas, TX. Beat Yori Yakamo, Jr. in the final.",
+  "event": "nfw-wrestlebowl-ii-night-2-2007-05-16",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-world-heavyweight-r001",
+  "title": "nfw-world-heavyweight",
+  "label": "Bloodhunt",
+  "holder": [
+   {
+    "id": "bloodhunt"
+   }
+  ],
+  "won": {
+   "date": "2000-10-26",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 3, Baltimore, MD. Defeated Ricky Zane in a singles match after both men won a 30-man Random Rumble.",
+  "days": 218,
+  "lost": {
+   "date": "2001-06-01",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "note": "SOURCES DISAGREE by two days: the fed's own championship record dates this win 26 October 2000, and its own Crash TV 3 results document is headed 28 October 2000. Both readings are recorded; the reign follows the record, the event link follows the served show.",
+  "end_how": "lost-in-match",
+  "event": "nfw-nfw-crash-tv-3-2000-10-28"
+ },
+ {
+  "id": "nfw-world-heavyweight-r002",
+  "title": "nfw-world-heavyweight",
+  "label": "Ricky Zane",
+  "holder": [
+   {
+    "id": "ricky-zane"
+   }
+  ],
+  "won": {
+   "date": "2001-06-01",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Banned 4 Life, Lowell, MA. Zanegate!",
+  "days": 153,
+  "lost": {
+   "date": "2001-11-01",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-banned-4-life-2001-06-01",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-heavyweight-r003",
+  "title": "nfw-world-heavyweight",
+  "label": "Rick Ryconik",
+  "holder": [
+   {
+    "id": "rick-ryconik"
+   }
+  ],
+  "won": {
+   "date": "2001-11-01",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 7, Lowell, MA. Ryconik was immediately challenged and defeated by Armando Montezuma. However, Michael Manson held up the belt due to the questionable legitimacy of Montezuma's pin.",
+  "days": 0,
+  "lost": {
+   "date": "2001-11-01",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html): 0 days held; Commissioner Michael Manson held the belt up the same night over the questionable legitimacy of Armando Montezuma's pin"
+  },
+  "event": "nfw-nfw-crash-tv-7-2001-11-01",
+  "end_how": "vacated"
+ },
+ {
+  "id": "nfw-world-heavyweight-r004",
+  "title": "nfw-world-heavyweight",
+  "label": "Shane Southern",
+  "holder": [
+   {
+    "id": "shane-southern-cswa"
+   }
+  ],
+  "won": {
+   "date": "2001-12-25",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 8, Lowell, MA. Defeated Rick Ryconik, Bloodhunt, and Armando Montezuma in a fourway bout to capture the vacant title.",
+  "days": 233,
+  "lost": {
+   "date": "2002-08-15",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-crash-tv-8-2001-12-25",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-heavyweight-r005",
+  "title": "nfw-world-heavyweight",
+  "label": "Bloodhunt (2)",
+  "holder": [
+   {
+    "id": "bloodhunt"
+   }
+  ],
+  "won": {
+   "date": "2002-08-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Futureshock, Lowell, MA. Title was defunct from August 15, 2003 until April 1, 2004 when NFW East Commissioner Michael Manson reinstated it.",
+  "days": 31,
+  "lost": {
+   "date": "2004-05-01",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-futureshock-2002-08-15",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-heavyweight-r006",
+  "title": "nfw-world-heavyweight",
+  "label": "Michael Manson",
+  "holder": [
+   {
+    "id": "michael-manson"
+   }
+  ],
+  "won": {
+   "date": "2004-05-01",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 21, Lowell, MA.",
+  "days": 399,
+  "lost": {
+   "date": "2005-06-04",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-crash-tv-21-2004-05-01",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-heavyweight-r007",
+  "title": "nfw-world-heavyweight",
+  "label": "Doc Silver",
+  "holder": [
+   {
+    "id": "doc-silver"
+   }
+  ],
+  "won": {
+   "date": "2005-06-04",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 27, Tokyo, Japan.",
+  "days": 318,
+  "lost": {
+   "date": "2006-04-18",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-crash-tv-27-2005-06-04",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-heavyweight-r008",
+  "title": "nfw-world-heavyweight",
+  "label": "Felix Red",
+  "holder": [
+   {
+    "id": "felix-red"
+   }
+  ],
+  "won": {
+   "date": "2006-04-18",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 35, Tokyo, Japan.",
+  "days": 391,
+  "lost": {
+   "date": "2007-05-14",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-crash-tv-35-2006-04-18",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-heavyweight-r009",
+  "title": "nfw-world-heavyweight",
+  "label": "Kin Hiroshi",
+  "holder": [
+   {
+    "id": "kin-hiroshi"
+   }
+  ],
+  "won": {
+   "date": "2007-05-14",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Wrestlebowl II, Dallas, TX. Forfeited the title when he left the arena during a threeway dance with Dan Ryan and Felix Red at Crash 43 on December 29, 2007. The bout would end inconclusively.",
+  "days": 229,
+  "lost": {
+   "date": "2007-12-29",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html): forfeited when he left the arena during the three-way at Crash 43"
+  },
+  "event": "nfw-wrestlebowl-ii-night-1-2007-05-14",
+  "end_how": "forfeited"
+ },
+ {
+  "id": "nfw-world-heavyweight-r010",
+  "title": "nfw-world-heavyweight",
+  "label": "Dan Ryan",
+  "holder": [
+   {
+    "id": "dan-ryan-nfw"
+   }
+  ],
+  "won": {
+   "date": "2008-02-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash I: Coronation, Portland, OR. Defeated Felix Red to capture the vacant title.",
+  "days": 65,
+  "lost": {
+   "date": "2008-04-20",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-supercrash-i-coronation-2008-02-15",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-heavyweight-r011",
+  "title": "nfw-world-heavyweight",
+  "label": "Nova",
+  "holder": [
+   {
+    "id": "nova-team"
+   }
+  ],
+  "won": {
+   "date": "2008-04-20",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Wrestlestock II: Double or Nothing, Indio, CA.",
+  "days": 182,
+  "lost": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-wrestlestock-ii-double-or-nothing-2008-04-20",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-heavyweight-r012",
+  "title": "nfw-world-heavyweight",
+  "label": "Joe The Plumber",
+  "holder": [
+   {
+    "id": "joe-the-plumber"
+   }
+  ],
+  "won": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash II: Dawn of a Revolution, Memphis, TN. Joe vacated the title on February 26, 2011 when President Eddie Mayfield suspended him for failing to submit to mandatory drug testing and medical examination.",
+  "days": 860,
+  "lost": {
+   "date": "2011-02-26",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html): vacated when President Eddie Mayfield suspended him for refusing mandatory drug testing and a medical examination"
+  },
+  "event": "nfw-nfw-supercrash-ii-dawn-of-a-revolution-2008-10-19",
+  "end_how": "vacated"
+ },
+ {
+  "id": "nfw-world-heavyweight-r013",
+  "title": "nfw-world-heavyweight",
+  "label": "Castor Strife",
+  "holder": [
+   {
+    "id": "castor-strife"
+   }
+  ],
+  "won": {
+   "date": "2011-07-29",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Reloaded 9, Raleigh, NC. Defeated Impulse in the finals of a four-man tournament to capture the vacant title.",
+  "days": 519,
+  "lost": {
+   "date": "2012-12-29",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-reloaded-09-2011-07-29",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-heavyweight-r014",
+  "title": "nfw-world-heavyweight",
+  "label": "Impulse",
+  "holder": [
+   {
+    "id": "impulse-nfw"
+   }
+  ],
+  "won": {
+   "date": "2012-12-29",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Reloaded 14, Perth, Australia. Defeated Castor Strife in The Cutting Room Floor scaffold match, sending him crashing 30 feet through tables and glass to capture the title.",
+  "event": "nfw-nfw-reloaded-14-2012-12-29",
+  "end_how": "lost-in-match",
+  "days": 259,
+  "lost": {
+   "date": "2013-09-14",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 18 (the 60-minute Triathlon match)"
+  }
+ },
+ {
+  "id": "nfw-world-tag-team-r001",
+  "title": "nfw-world-tag-team",
+  "label": "The Showstoppers",
+  "holder": [
+   {
+    "id": "the-showstoppers"
+   }
+  ],
+  "won": {
+   "date": "2000-12-25",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 5, Baltimore, MD. Defeated The Oblivion Express and Hellmachine in a three-way dance.",
+  "days": 158,
+  "lost": {
+   "date": "2001-06-01",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-crash-tv-5-2000-12-25",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-tag-team-r002",
+  "title": "nfw-world-tag-team",
+  "label": "Hellmachine",
+  "holder": [
+   {
+    "id": "hellmachine"
+   }
+  ],
+  "won": {
+   "date": "2001-06-01",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Banned 4 Life, Lowell, MA.",
+  "days": 440,
+  "lost": {
+   "date": "2002-08-15",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-banned-4-life-2001-06-01",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-tag-team-r003",
+  "title": "nfw-world-tag-team",
+  "label": "The Original Showstoppers",
+  "holder": [
+   {
+    "id": "the-original-showstoppers"
+   }
+  ],
+  "won": {
+   "date": "2002-08-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Futureshock, Lowell, MA. Defeated Storm in the final match of a 6-team playoff to capture the titles. Titles were discontinued at the conclusion of the night and were not reinstated until February 15, 2008.",
+  "days": 0,
+  "lost": {
+   "date": "2008-02-15",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-futureshock-2002-08-15",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-tag-team-r004",
+  "title": "nfw-world-tag-team",
+  "label": "The HWC",
+  "holder": [
+   {
+    "id": "the-hollywood-wrecking-crew"
+   }
+  ],
+  "won": {
+   "date": "2008-02-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash I: Coronation, Portland, OR. Defeated The Dream Team in the finals of a tournament to capture the renamed Everette Memorial Titles.",
+  "days": 247,
+  "lost": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-supercrash-i-coronation-2008-02-15",
+  "note": "SOURCES DISAGREE about whether the belts were live in the weeks before this. The fed's own championship record says the tag titles were discontinued at Futureshock on 15 August 2002 and were not reinstated until this night. Its own Crash TV 43 document of 29 December 2007 bills the Hollywood Wrecking Crew's win over the Original Showstoppers as a tournament semifinal with the champions defending, and calls the Original Showstoppers the reigning champions on that date. Both readings are recorded; the reign record follows the fed's own championship history.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-tag-team-r005",
+  "title": "nfw-world-tag-team",
+  "label": "New Day Rising",
+  "holder": [
+   {
+    "id": "new-day-rising"
+   }
+  ],
+  "won": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Supercrash II: Dawn of a Revolution, Memphis, TN.",
+  "days": 147,
+  "lost": {
+   "date": "2009-03-15",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-supercrash-ii-dawn-of-a-revolution-2008-10-19",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-tag-team-r006",
+  "title": "nfw-world-tag-team",
+  "label": "The HWC (2)",
+  "holder": [
+   {
+    "id": "the-hollywood-wrecking-crew"
+   }
+  ],
+  "won": {
+   "date": "2009-03-15",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Crash 47, Chicago, IL.",
+  "days": 820,
+  "lost": {
+   "date": "2011-06-13",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-crash-tv-47-2009-03-15",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-tag-team-r007",
+  "title": "nfw-world-tag-team",
+  "label": "The DRS",
+  "holder": [
+   {
+    "id": "the-dirty-rotten-scoundrels"
+   }
+  ],
+  "won": {
+   "date": "2011-06-13",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Reloaded 8, North Charleston, SC.",
+  "days": 300,
+  "lost": {
+   "date": "2012-04-08",
+   "precision": "exact",
+   "source": "the next reign's own won date on the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "event": "nfw-nfw-reloaded-08-2011-06-13",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-tag-team-r008",
+  "title": "nfw-world-tag-team",
+  "label": "Malik Anderson & Bandit",
+  "holder": [
+   {
+    "id": "anderson-bandit"
+   }
+  ],
+  "won": {
+   "date": "2012-04-08",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Brawl 50, Philadelphia, PA. Vacated at Reloaded 12 before Avery Cup Tournament",
+  "days": 69,
+  "lost": {
+   "date": "2012-06-16",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html): vacated at Reloaded 12, before the Avery Cup tournament"
+  },
+  "event": "nfw-nfw-brawl-50-philadelphia-2012-04-08",
+  "end_how": "vacated"
+ },
+ {
+  "id": "nfw-world-tag-team-r009",
+  "title": "nfw-world-tag-team",
+  "label": "Superfly Express",
+  "holder": [
+   {
+    "id": "the-superfly-express"
+   }
+  ],
+  "won": {
+   "date": "2012-07-22",
+   "precision": "exact",
+   "source": "the fed's own championship record (promotions/nfw/archive/a-guide-to-nfw-championship-history.html)"
+  },
+  "how": "Won at Brawl 54, Hershey, PA. Defeated Jack Bryant & Malik Anderson in finals of Avery Cup",
+  "event": "nfw-nfw-brawl-54-hershey-2012-07-22",
+  "end_how": "lost-in-match",
+  "days": 364,
+  "lost": {
+   "date": "2013-07-21",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 16"
+  }
+ },
+ {
+  "id": "nfw-eastern-conference-r001",
+  "title": "nfw-eastern-conference",
+  "label": "Yori Yakamo Jr.",
+  "holder": [
+   {
+    "id": "yori-yakamo-junior"
+   }
+  ],
+  "won": {
+   "date": "2007-03-15",
+   "precision": "exact",
+   "source": "NFW's own served card, the Ultratitle Playoffs Eastern Conference Championship"
+  },
+  "how": "no-sold a second Kooter Cruise chokeslam, bodyslammed Cruise onto Felix Red, then hit the Yori=Awesome (a sit-down tombstone piledriver) on Red for the pin, crowned NFW Eastern Conference Champion by the ring announcer on the spot",
+  "event": "nfw-ultratitle-playoffs-eastern-conference-championship-2007-03-15",
+  "end_how": "still-champion-at-record-end",
+  "note": "The fed's own text does not state whether this title existed before this show or who, if anyone, held it previously; no later document held here shows it defended again."
+ },
+ {
+  "id": "nfw-western-conference-r001",
+  "title": "nfw-western-conference",
+  "label": "Nova",
+  "holder": [
+   {
+    "id": "nova-team"
+   }
+  ],
+  "won": {
+   "date": "2007-03-15",
+   "precision": "exact",
+   "source": "NFW's own served card, the Ultratitle Playoffs Western Conference Championship"
+  },
+  "how": "won the decisive third fall of a barbed-wire cage match against Eli Flair after the first fall ended in a double count-out through a ringside table",
+  "event": "nfw-ultratitle-playoffs-western-conference-championship-2007-03-15",
+  "end_how": "still-champion-at-record-end",
+  "note": "Billed as the first-ever NFW Western Conference Champion; no later document held here shows the title defended again."
+ },
+ {
+  "id": "nfw-uwa-world-r001",
+  "title": "nfw-uwa-world",
+  "label": "Troy Windham",
+  "holder": [
+   {
+    "id": "troy-windham"
+   }
+  ],
+  "won": {
+   "date": "2005-01-31",
+   "precision": "exact",
+   "source": "NFW's own served card, Wrestlebowl I"
+  },
+  "how": "presented the belt by Avery Prosser on behalf of the \"resurrected UWA\" — a political gift, not the result of a contest",
+  "event": "nfw-wrestlebowl-i-2005-01-31",
+  "end_how": "vacated",
+  "note": "SOURCES DISAGREE — The fed's own title record has no reign for Troy Windham: it carries the belt from the UWA's own Random Rumble 2.0 of 24 February 1997 to the Season 2 preseason card of 30 May 2005, where it records the title held up after his match with Tom Adler broke down into a riot. Disputed the same night: during the ensuing ambush brawl Craig Miles took the belt from the fallen Windham and gave it to Tom Adler, who claimed it as rightfully his and challenged Windham for it. NFW's own text calls the title \"held up/vacant\" for the rest of the season that followed; no document gives an exact vacating date, so none is recorded here."
+ },
+ {
+  "id": "nfw-uwa-world-r002",
+  "title": "nfw-uwa-world",
+  "label": "Tom Adler",
+  "holder": [
+   {
+    "id": "tom-adler"
+   }
+  ],
+  "won": {
+   "date": "2005-11-18",
+   "precision": "exact",
+   "source": "NFW's own served card, Midnight Madness 5"
+  },
+  "how": "won the vacant title from Troy Windham by disqualification after Windham sprayed him in the face with an unspecified liquid, following interference from Zoltan and August De La Rossi",
+  "event": "nfw-nfw-midnight-madness-5-2005-11-18",
+  "lost": {
+   "date": "2005-11-18",
+   "precision": "exact"
+  },
+  "end_how": "lost-in-match",
+  "note": "Held the title only minutes: Adler surrendered it the same night, in the match immediately following his own win, per the row below."
+ },
+ {
+  "id": "nfw-uwa-world-r003",
+  "title": "nfw-uwa-world",
+  "label": "Eddie Mayfield",
+  "holder": [
+   {
+    "id": "eddie-mayfield"
+   }
+  ],
+  "won": {
+   "date": "2005-11-18",
+   "precision": "exact",
+   "source": "NFW's own served card, Midnight Madness 5"
+  },
+  "how": "Tom Adler picked up a microphone and said \"I Quit\" moments after winning the title, without further physical contest, immediately surrendering it to Mayfield",
+  "event": "nfw-nfw-midnight-madness-5-2005-11-18",
+  "end_how": "still-champion-at-record-end",
+  "note": "Defended twice more in the surviving record without the title changing hands again: a no-contest against Eli Flair at UWA Pirate TV, 24 December 2005 (both men crashed through a table; Anne Mystic rang the bell and ruled it a no-contest, Mayfield retaining), and a no-decision against Tom Adler at Wrestlestock I, 20 April 2006 (Craig Miles interfered and the referee called for the bell amid the chaos). No later document held here shows the belt again."
+ },
+ {
+  "id": "nfw-uwa-womens-world-r001",
+  "title": "nfw-uwa-womens-world",
+  "label": "Lucky Seven",
+  "holder": [
+   {
+    "id": "lucky-seven"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "NFW's own served card, Brawl 62 (Berlin)"
+  },
+  "how": "already the reigning UWA Women's World Champion entering an NFW-billed unification bout at Brawl 62, where she also wins Pan-Euro's Women's Championship from Dani \"Alpha\" Engel and carries both belts as one from that night forward",
+  "event": "nfw-nfw-brawl-62-berlin-2013-01-12",
+  "end_how": "still-champion-at-record-end",
+  "note": "No document held here stages how or when Lucky Seven won the UWA belt itself — only that she already held it on 12 January 2013, her own NFW in-ring debut. A separate NFW news article says the belt was renamed after she won an \"inaugural SLICE-USA Grand Prix\"; no document names or dates that event further, so it is recorded here rather than staged as its own row."
+ },
+ {
+  "id": "nfw-triple-crown-r002",
+  "title": "nfw-triple-crown",
+  "label": "Leyenda de Ocho",
+  "holder": [
+   {
+    "id": "leyenda-de-ocho"
+   }
+  ],
+  "won": {
+   "date": "2013-07-21",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 16"
+  },
+  "event": "nfw-nfw-reloaded-16-2013-07-21",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-world-tag-team-r010",
+  "title": "nfw-world-tag-team",
+  "label": "The Hellfire Club",
+  "holder": [
+   {
+    "id": "the-hellfire-club"
+   }
+  ],
+  "won": {
+   "date": "2013-07-21",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 16"
+  },
+  "days": 28,
+  "lost": {
+   "date": "2013-08-18",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 17"
+  },
+  "event": "nfw-nfw-reloaded-16-2013-07-21",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-tag-team-r011",
+  "title": "nfw-world-tag-team",
+  "label": "The Graverobbers",
+  "holder": [
+   {
+    "id": "the-graverobbers"
+   }
+  ],
+  "won": {
+   "date": "2013-08-18",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 17"
+  },
+  "days": 314,
+  "lost": {
+   "date": "2014-06-28",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 21"
+  },
+  "event": "nfw-nfw-reloaded-17-2013-08-18",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "nfw-world-tag-team-r012",
+  "title": "nfw-world-tag-team",
+  "label": "The Chromatic Dragons",
+  "holder": [
+   {
+    "id": "the-chromatic-dragons"
+   }
+  ],
+  "won": {
+   "date": "2014-06-28",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 21"
+  },
+  "event": "nfw-nfw-reloaded-21-2014-06-28",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-world-heavyweight-r015",
+  "title": "nfw-world-heavyweight",
+  "label": "Jack Harmen",
+  "holder": [
+   {
+    "id": "jack-harmen"
+   }
+  ],
+  "won": {
+   "date": "2013-09-14",
+   "precision": "exact",
+   "source": "NFW's own served card, Reloaded 18"
+  },
+  "event": "nfw-nfw-reloaded-18-2013-09-14",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-grand-prix-r001",
+  "title": "nfw-grand-prix",
+  "label": "Doctor Curiosity",
+  "holder": [
+   {
+    "id": "doctor-curiosity"
+   }
+  ],
+  "won": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "The fed's own show text for NFW Supercrash II: Dawn of a Revolution (19 Oct 2008), with the runner-up billing restated at NFW Crash TV 47 (15 Mar 2009). The fed’s own words: “Doc Curiosity pinned a dazed Impulse following a jawbreaker/chairshot distraction from the imposter to become the first-ever NFW Grand Prix winner.”"
+  },
+  "lost": null,
+  "how": "Grand Prix 500, a three-way elimination bout at Supercrash II",
+  "event": "nfw-nfw-supercrash-ii-dawn-of-a-revolution-2008-10-19",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-grand-prix-r002",
+  "title": "nfw-grand-prix",
+  "label": "Legion",
+  "holder": [
+   {
+    "id": "legion-nfw"
+   }
+  ],
+  "won": {
+   "date": "2011-08-21",
+   "precision": "exact",
+   "source": "The fed's own show text for NFW Brawl 43: Monaco GPX Final (21 Aug 2011). The fed’s own words: “YOUR 2011 GRAND PRIX CHAMPION -- LEGION.”"
+  },
+  "lost": null,
+  "event": "nfw-nfw-brawl-43-monaco-gpx-final-2011-08-21",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-grand-prix-r003",
+  "title": "nfw-grand-prix",
+  "label": "Jack Harmen",
+  "holder": [
+   {
+    "id": "jack-harmen"
+   }
+  ],
+  "won": {
+   "date": "2013-02-23",
+   "precision": "exact",
+   "source": "The fed's own show text for NFW Reloaded 15 (23 Feb 2013). The fed’s own words: “Jack Harmen wins the 2013 Grand Prix! Jack Harmen has just earned a shot at the NFW World Heavyweight Championship!”"
+  },
+  "lost": null,
+  "event": "nfw-nfw-reloaded-15-2013-02-23",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-great-american-smokeout-bunkhouse-championship-r001",
+  "title": "nfw-great-american-smokeout-bunkhouse-championship",
+  "label": "Captain Justice",
+  "holder": [
+   {
+    "id": "captain-justice"
+   }
+  ],
+  "won": {
+   "date": "2009-08-29",
+   "precision": "exact",
+   "source": "The fed's own show text for NFW Crash TV 50 (29 Aug 2009). The fed’s own words: “THE GREAT AMERICAN SMOKEOUT BUNKHOUSE CHAMPION IS CAPTAIN JUSTICE!”"
+  },
+  "lost": null,
+  "how": "Won a Bunkhouse Stampede eliminator with a final-three War Games segment",
+  "event": "nfw-nfw-crash-tv-50-2009-08-29",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-conference-regular-season-championship-r001",
+  "title": "nfw-conference-regular-season-championship",
+  "label": "Michael Manson",
+  "holder": [
+   {
+    "id": "michael-manson"
+   }
+  ],
+  "won": {
+   "date": "2004",
+   "precision": "year",
+   "source": "The fed's own show text for NFW Crash TV 25 (1 Sep 2004). The fed’s own words: “in the ring is the NFW EAST Regular Season Champion”"
+  },
+  "lost": null,
+  "how": "NFW East Conference, Season 1",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-conference-regular-season-championship-r002",
+  "title": "nfw-conference-regular-season-championship",
+  "label": "Jonathan Marx",
+  "holder": [
+   {
+    "id": "jonathan-marx-glcw-2002"
+   }
+  ],
+  "won": {
+   "date": "2004-09-01",
+   "precision": "exact",
+   "source": "The fed's own show text for NFW Crash TV 25 (1 Sep 2004). The fed’s own words: “Jonathan Marx actually CLINCHED the #1 seed with the victory -- therefore becoming the REGULAR SEASON champion of the North Conference!” Restated two years later: The fed's own show text for NFW Crash TV 37 (10 Aug 2006). The fed’s own words: “He is the NFW Season One Northern Conference Champion, the Season One Point Total Leader”"
+  },
+  "lost": null,
+  "how": "NFW North Conference, Season 1",
+  "event": "nfw-nfw-crash-tv-25-2004-09-01",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-conference-regular-season-championship-r003",
+  "title": "nfw-conference-regular-season-championship",
+  "label": "Joey Melton",
+  "holder": [
+   {
+    "id": "joey-melton"
+   }
+  ],
+  "won": {
+   "date": "2004-09-01",
+   "precision": "exact",
+   "source": "The fed's own show text for NFW Crash TV 25 (1 Sep 2004). The fed’s own words: “at the age of FORTY -- JOEY MELTON has won the South Conference Regular Season Championship!”"
+  },
+  "lost": null,
+  "how": "NFW South Conference, Season 1",
+  "event": "nfw-nfw-crash-tv-25-2004-09-01",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-conference-regular-season-championship-r004",
+  "title": "nfw-conference-regular-season-championship",
+  "label": "Felix Red",
+  "holder": [
+   {
+    "id": "felix-red"
+   }
+  ],
+  "won": {
+   "date": "2007",
+   "precision": "year",
+   "source": "The fed's own show text for the NFW Ultratitle Playoffs Eastern Conference Championship show (15 Mar 2007). The fed’s own words: “the NFW Eastern Conference Regular Season Champion, the point total leader for all of NFW Season 2”"
+  },
+  "lost": null,
+  "how": "NFW East Conference, Season 2",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nfw-hulk-a-thon-r001",
+  "title": "nfw-hulk-a-thon",
+  "label": "Yori Yakamo Junior",
+  "holder": [
+   {
+    "id": "yori-yakamo-junior"
+   }
+  ],
+  "won": {
+   "date": "2006-03-18",
+   "precision": "exact",
+   "source": "The fed's own show text for NFW Crash TV 35 (18 Apr 2006), and restated at NFW Crash TV 36 (20 Jun 2006). The fed’s own words: “the newly crowned HULK-A-THON WINNER”; the win itself is on the fed's own Midnight Madness 8 (18 Mar 2006), served at promotions/nfw/archive/nfw-midnight-madness-8-2006-03-18.html: \"THHHHHHE WINNER OF HULK-A-THONNNNNNNNNN! THE LIGHT OF YORIOLOGY! YORRRRRRRRRRRRRRIIIIIIIIII! YAKAMO JUNIORRRRRRRRRRRR!\", the ring announcer's call"
+  },
+  "lost": null,
+  "event": "nfw-nfw-midnight-madness-8-2006-03-18",
+  "end_how": "still-champion-at-record-end"
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "id": "suicide-xchw",
+  "type": "character",
+  "name": "SUlClDE",
+  "caption": "XCHW's self-titled president, co-signer of the fed's own founding application.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xchw",
+    "first_seen": "1997-08",
+    "last_seen": "1997-08",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "XCHW's own served founding application (promotions/xchw/archive/xchw-application-1997-08-17.html).",
+    "relationships": [
+     {
+      "who": "extreme-ron-xchw",
+      "nature": "colleague",
+      "note": "Co-signed the fed's own founding application as \"Your Prez and Vice Prez.\""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "extreme-ron-xchw",
+  "type": "character",
+  "name": "EXTREME RON",
+  "caption": "XCHW's self-titled vice president, co-signer of the fed's own founding application.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xchw",
+    "first_seen": "1997-08",
+    "last_seen": "1997-08",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "XCHW's own served founding application (promotions/xchw/archive/xchw-application-1997-08-17.html).",
+    "relationships": [
+     {
+      "who": "suicide-xchw",
+      "nature": "colleague",
+      "note": "Co-signed the fed's own founding application as \"Your Prez and Vice Prez.\""
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "made-men-bswf",
+    "type": "unit",
+    "name": "Made Men",
+    "unit_kind": "tag-team",
+    "members": [
+      { "name": "Merchandi$e", "character_id": "merchandise-bswf" },
+      { "name": "Mi$ta", "character_id": "mista-bswf" }
+    ],
+    "tenures": [
+      {
+        "promotion": "bswf",
+        "role": "BSWF Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999",
+        "last_seen": "2000",
+        "source": "the fed's own served Rankings page, naming the Made Men BSWF Tag Team Champions; the fed's own served Thursday Night Thump-Fest broadcast, where the pair defend the belts against Kadafi and Scarface, joined at ringside by the (unnamed) Made Men Body Guards"
+      }
+    ],
+    "caption": "Merchandi$e and Mi$ta's own tag team, the BSWF's own last-attested Tag Team Champions — how or when they won the belts is not recorded.",
+    "caption_asof": {
+      "written": "2026-09-01",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

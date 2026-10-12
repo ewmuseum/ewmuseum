@@ -1,0 +1,101 @@
+[
+ {
+  "id": "tf-house-show-1-2003-04-19",
+  "type": "show",
+  "name": "House Show 1",
+  "promotion": "tf",
+  "date": {
+   "date": "2003-04-19",
+   "precision": "exact",
+   "source": "The fed's own newsdesk item, \"House Show 1 Results released to general public / Posted Saturday, April 19, 2003\" (promotions/tf/archive/house-show-1-2003-04-19.html). 19 April 2003 was a Saturday. The results-posting date is the only date the record gives; the card itself was announced on the fed's own front page, captured the same evening."
+  },
+  "page": "/promotions/tf/archive/house-show-1-2003-04-19.html",
+  "collection": "0035",
+  "notes": "The only card TRAUMA:fighting is recorded as having staged. Its front page announced the same four fights, in the same order, before the results were posted.",
+  "appearances": [
+   {
+    "who": "criminal-intent-tf",
+    "kind": "match"
+   },
+   {
+    "who": "dashea-strong",
+    "kind": "match"
+   },
+   {
+    "who": "tony-anderson-tf",
+    "kind": "match"
+   },
+   {
+    "who": "carson-nash",
+    "kind": "match"
+   },
+   {
+    "who": "wednesday-tf",
+    "kind": "match"
+   },
+   {
+    "who": "joe-wise",
+    "kind": "match"
+   },
+   {
+    "who": "colin-gear",
+    "kind": "match"
+   },
+   {
+    "who": "phoenix-rose-tf",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "criminal-intent-tf"
+     ],
+     [
+      "dashea-strong"
+     ]
+    ],
+    "winner_side": 1
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "tony-anderson-tf"
+     ],
+     [
+      "carson-nash"
+     ]
+    ],
+    "note": "The fed's own results give no winner. What they give instead, whole: \"Both men fired\" — a consequence rather than a ruling, so the finish is left unresolved."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "wednesday-tf"
+     ],
+     [
+      "joe-wise"
+     ]
+    ],
+    "winner_side": 0
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "colin-gear"
+     ],
+     [
+      "phoenix-rose-tf"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Billed as the main event. The results read: \"Colin Gear beat Rose down badly and came out with the win.\""
+   }
+  ]
+ }
+]

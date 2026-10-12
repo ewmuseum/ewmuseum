@@ -1,0 +1,937 @@
+[
+  {
+    "id": "high-society-emwc",
+    "type": "unit",
+    "name": "High Society",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Hayvin Coules",
+        "character_id": "hayvin-coules-mlwo-1998"
+      },
+      {
+        "name": "Eddie Van Gibson",
+        "character_id": "eddie-van-gibson-mlw-1999"
+      },
+      {
+        "name": "Dan Thomas",
+        "character_id": "dan-thomas-emwc"
+      },
+      {
+        "name": "Andrew Sterling",
+        "character_id": "andrew-sterling-emwc"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "unknown",
+        "role": "stable",
+        "source": "promotions/emwc/archive/emwc-showtime-x-update-v5-2003-10-15.html, at Rumble In Sin City."
+      }
+    ],
+    "notes": "Present as a group at Rumble In Sin City, where two of its own members carried a rival's valet to safety from a third member's locker room during that valet's own wrestler's deathmatch.",
+    "caption": "A stable present at an undated deathmatch broadcast, two of whose members rescued a rival's valet from a third member's own locker room.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named unit exists in another wing (high-society-faw); no shared operator, chronology or storyline evidence links the two.",
+        "with": [
+          "high-society-faw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-epitome-of-cool-emwc",
+    "type": "unit",
+    "name": "The Epitome of Cool",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Dan Thomas",
+        "character_id": "dan-thomas-emwc"
+      },
+      {
+        "name": "Andrew Sterling",
+        "character_id": "andrew-sterling-emwc"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "unknown",
+        "role": "tag team",
+        "source": "promotions/emwc/archive/emwc-showtime-x-update-v5-2003-10-15.html and promotions/emwc/archive/emwc-showtime-x-update-v8-2003-11-15.html."
+      }
+    ],
+    "notes": "A tag team who rescued a rival's valet from a stablemate's own locker room during Rumble In Sin City, and were later named special guest referees for the promotion's own farewell tag-team scramble match, an honor the broadcast frames as recognizing them among the promotion's own greatest tag champions.",
+    "caption": "A tag team named special guest referees for the promotion's own farewell tag-team scramble match.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "zokugun-sangai-emwc",
+    "type": "unit",
+    "name": "Zokugun Sangai",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "TORA",
+        "character_id": "tora-emwc"
+      },
+      {
+        "name": "Akuma",
+        "character_id": "akuma-emwc"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999",
+        "last_seen": "1999",
+        "source": "An Evening To The Extreme, 7 April 1999",
+        "note": "Billed as EMWC World Tag Team Champions entering the broadcast; lost the title to The Epitome of Cool."
+      }
+    ],
+    "caption": "A billed EMWC World Tag Team Championship-holding duo who lost the title to The Epitome of Cool on 7 April 1999.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (zokugun-sangai-gpro98); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "zokugun-sangai-gpro98"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-midnight-crew-emwc",
+    "type": "unit",
+    "name": "The Midnight Crew",
+    "unit_kind": "tag-team",
+    "members": [
+      "tommy-wilson-emwc",
+      "julio-rodriguez-emwc"
+    ],
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999-07-28",
+        "last_seen": "1999-07-28",
+        "source": "/promotions/emwc/rp/emwc-the-midnight-crew-debut-1999-07-28.html"
+      }
+    ],
+    "caption": "A tag team introduced to the promotion in an in-character debut vignette, its manager promising the pairing would soon be on every fan's mind.",
+    "caption_asof": {
+      "written": "2026-09-12",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 1
+      }
+    }
+  },
+  {
+    "id": "the-benjamins-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Benjamins",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged EMWC in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #6 in the RSPWF Top 200 Tag Teams for 1998 (Bobby Benjamin & Joe Benjamin), tagged EMWC.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "membership_unknown": true
+  },
+  {
+    "id": "frenzy-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Frenzy",
+    "members": [
+      "jc-frenzy-aicw",
+      "den-frenzy-aicw"
+    ],
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged EMWC in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #42 in the RSPWF Top 200 Tag Teams for 1998 (JC Frenzy & Den Frenzy), tagged EMWC, UKCW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (frenzy-ipw-xfwl); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "frenzy-ipw-xfwl"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (frenzy-uwf-arena-1998); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "frenzy-uwf-arena-1998"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-dead-presidents-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Dead Presidents",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged EMWC in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #82 in the RSPWF Top 200 Tag Teams for 1998 (Mike Sebastian & Crash), tagged EMWC.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "membership_unknown": true
+  },
+  {
+    "id": "the-phalanx-emwc",
+    "type": "unit",
+    "name": "The Phalanx",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-04-06",
+        "last_seen": "1998-04-06",
+        "grade": "primary-source",
+        "role": "tag team; the EMWC World Tag Team Champions entering the night",
+        "source": "promotions/emwc/archive/an-evening-to-the-extreme-april-6-part-5-1998-04-09.html; promotions/emwc/archive/an-evening-to-the-extreme-april-6-part-6-1998-04-09.html",
+        "note": "At An Evening To The Extreme (6 April 1998): billed in the tag title match's own header as the EMWC World Tag Team Champions, Tonnage and \"Magnum\" Biff McGriff, and by the ring announcer as the leaders of the Church of Armageddon; cut a taped promo to Sinister, Creed and the Fraternity Boys; lost the titles in a No Holds Barred, Locked Door, Falls Count Anywhere match when the Awesome Alliance cut both men down with fire extinguishers and Chris O'Brien fell on Tonnage for the three; with the Hangman and his companion, then chained and beat the Alliance."
+      }
+    ],
+    "caption": "The Church of Armageddon tag team of Tonnage and \"Magnum\" Biff McGriff, who lost the EMWC World Tag Team Championship to the Fraternity Boys in a no holds barred match on 6 April 1998.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Tonnage",
+        "character_id": "tonnage-war-1995"
+      },
+      {
+        "name": "Biff McGriff",
+        "character_id": "biff-mcgriff-emwc"
+      }
+    ]
+  },
+  {
+    "id": "the-awesome-alliance-emwc",
+    "type": "unit",
+    "name": "The Awesome Alliance",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-04-06",
+        "last_seen": "1998-04-06",
+        "grade": "primary-source",
+        "role": "tag team; managed by the \"Lovely\" Laura",
+        "source": "promotions/emwc/archive/an-evening-to-the-extreme-april-6-part-4-1998-04-09.html; promotions/emwc/archive/an-evening-to-the-extreme-april-6-part-6-1998-04-09.html",
+        "note": "At An Evening To The Extreme (6 April 1998): named by the opening narration as Mr. Fabulous and Mr. Marvelous with their manager the \"Lovely\" Laura; interviewed by Jon Keeton about the tag title match and their attack on their former stablemate Tony Ruiz, who ambushed them with a crutch; ran in with fire extinguishers during the tag title match, cutting the Phalanx down for the Fraternity Boys' pin, and were then beaten by the Hangman, his companion and the Phalanx."
+      }
+    ],
+    "caption": "The tag team of Mr. Fabulous and Mr. Marvelous, managed by the \"Lovely\" Laura, who cost the Phalanx the EMWC World Tag Team Championship with fire extinguishers on 6 April 1998.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Mr. Fabulous",
+        "character_id": "mr-fabulous-emwc"
+      },
+      {
+        "name": "Mr. Marvelous",
+        "character_id": "mr-marvelous-emwc"
+      }
+    ]
+  },
+  {
+    "id": "the-snake-den-emwc",
+    "type": "unit",
+    "name": "The Snake Den",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-07-15",
+        "last_seen": "1998-07-15",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/emwc/archive/an-evening-to-the-extreme-july-15-part-3-1998-07-16.html; promotions/emwc/archive/an-evening-to-the-extreme-july-15-part-4-1998-07-16.html; promotions/emwc/archive/an-evening-to-the-extreme-july-15-part-5-1998-07-16.html",
+        "note": "At An Evening To The Extreme (15 July 1998): the announcers name the pair as the Snake Den as Ronnie D and Simon Lebec interrupt the Spector and Matsuoko match, and the pair enter in Beastie Boys music at the start of Hour Two, shouting that the Snake Den is in the house; they attack Trey Porter with a baseball slide and a chair, and Chris Blue announces them against Steve Spector and Porter at Blood, Sweat, and Tears."
+      }
+    ],
+    "caption": "The tag team of Simon Lebec and Ronnie D, who attacked Steve Spector and Trey Porter and were booked against them for Blood, Sweat, and Tears on 15 July 1998.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Simon Lebec",
+        "character_id": "simon-lebec-iiwf"
+      },
+      {
+        "name": "Ronnie D",
+        "character_id": "playboy-ronnie-d-iiew-1997"
+      }
+    ]
+  },
+  {
+    "id": "the-cult-of-personality-emwc",
+    "type": "unit",
+    "name": "The Cult of Personality",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-07-15",
+        "last_seen": "1998-07-15",
+        "grade": "primary-source",
+        "role": "stable of friends",
+        "source": "promotions/emwc/archive/an-evening-to-the-extreme-july-15-part-2-1998-07-16.html; promotions/emwc/archive/an-evening-to-the-extreme-july-15-part-5-1998-07-16.html; promotions/emwc/archive/an-evening-to-the-extreme-july-15-part-6-1998-07-16.html",
+        "note": "At An Evening To The Extreme (15 July 1998): in his backstage promo Chris Myers names himself, Bobby Taylor and Kevin Slater and says the Cult of Personality is friends banding together who will stay out of Slater's fight with Tony Starks unless the Syndicate interferes; Ken Graham introduces him as a member of the Cult of Personality, and the commentators say the Syndicate is battling the Cult of Personality in the aisle during the World title match."
+      }
+    ],
+    "caption": "The stable of Chris Myers, Bobby Taylor and Kevin Slater, which went after the Syndicate in the aisle on 15 July 1998.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Chris Myers",
+        "character_id": "diamondback-chris-myers-emwc"
+      },
+      {
+        "name": "Bobby Taylor",
+        "character_id": "bobby-taylor-emwc"
+      },
+      {
+        "name": "Kevin Slater",
+        "character_id": "kevin-slater-emwc"
+      }
+    ]
+  },
+  {
+    "id": "the-natural-predators-emwc",
+    "type": "unit",
+    "name": "The Natural Predators",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-08-09",
+        "last_seen": "1998-08-09",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/emwc/archive/blood-sweat-and-tears-august-9-part-3-1998-08-10.html; promotions/emwc/archive/blood-sweat-and-tears-august-9-part-4-1998-08-10.html",
+        "note": "At Blood, Sweat, and Tears (9 August 1998): Ken Graham announces Bear and Grey Phoenix, accompanied by Kuyler Greyson, as the Natural Predators; Jon Stegglet calls them Kuyler Greyson's Natural Predators; they lose the Texas Death Match to Hansen and Quigley and stand in Greyson's corner against the Syndicate."
+      }
+    ],
+    "caption": "The tag team of Bear and Grey Phoenix, managed by Kuyler Greyson, who lost a Texas Death Match to Curtis Hansen and Chris Quigley on 9 August 1998.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Bear",
+        "character_id": "bear-emwc"
+      },
+      {
+        "name": "Grey Phoenix",
+        "character_id": "grey-phoenix-emwc"
+      }
+    ]
+  },
+  {
+    "id": "the-down-boys-emwc",
+    "type": "unit",
+    "name": "The Down Boys",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-08-09",
+        "last_seen": "1998-08-09",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/emwc/archive/blood-sweat-and-tears-august-9-part-9-1998-08-10.html; promotions/emwc/archive/blood-sweat-and-tears-august-9-part-10-1998-08-10.html",
+        "note": "At Blood, Sweat, and Tears (9 August 1998): Ken Graham announces the team's entrance to the \"Down Boys\" theme; the announcers call them one of wrestling's most popular teams; they eliminate Hansen and Quigley and the Fabulous Ones in the Hell On Earth cell and are named the new World Tag Team Champions."
+      },
+      {
+        "promotion": "iiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged IIWF in the RSPWF Top 200 Tag Teams for 1998."
+      },
+      {
+        "promotion": "emwc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged EMWC in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "The tag team of \"Dazzling\" Dan Oliver and \"Superstud\" Adam Peterson, with the glove Jivvy, who won the EMWC World Tag Team Championship in the Hell On Earth cell on 9 August 1998.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Dan Oliver",
+        "character_id": "dazzling-dan-oliver-emwc"
+      },
+      {
+        "name": "Adam Peterson",
+        "character_id": "superstud-adam-peterson-emwc"
+      }
+    ],
+    "aka": [
+      "Down Boys"
+    ]
+  },
+  {
+    "id": "the-fraternity-boys-emwc",
+    "type": "unit",
+    "name": "The Fraternity Boys",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-08-09",
+        "last_seen": "1998-08-09",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/emwc/archive/blood-sweat-and-tears-august-9-part-9-1998-08-10.html",
+        "note": "At Blood, Sweat, and Tears (9 August 1998): Ken Graham introduces the EMWC World Tag Team Champions, the Fraternity Boys, who crowd-surf to the ring with a shopping cart of weapons; they are the first team eliminated, by the Fabulous Ones, after a Kamikaze Slam on Gus Zampitella."
+      },
+      {
+        "promotion": "emwc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged EMWC in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "The tag team of Gus Zampitella and Chris O'Brien, the EMWC World Tag Team Champions who were eliminated first from the Hell On Earth cell on 9 August 1998.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Gus Zampitella",
+        "character_id": "gus-zampitella-emwc"
+      },
+      {
+        "name": "Chris O'Brien",
+        "character_id": "chris-o-brien-emwc"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-fraternity-boys-rspwf"
+        ],
+        "note": "A same-named character record elsewhere. Name collision only; no document names both records, so they stay two, pending a verdict."
+      }
+    ]
+  },
+  {
+    "id": "the-fabulous-ones-emwc",
+    "type": "unit",
+    "name": "The Fabulous Ones",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-08-09",
+        "last_seen": "1998-08-09",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/emwc/archive/blood-sweat-and-tears-august-9-part-4-1998-08-10.html; promotions/emwc/archive/blood-sweat-and-tears-august-9-part-8-1998-08-10.html; promotions/emwc/archive/blood-sweat-and-tears-august-9-part-9-1998-08-10.html; promotions/emwc/archive/blood-sweat-and-tears-august-9-part-10-1998-08-10.html",
+        "note": "At Blood, Sweat, and Tears (9 August 1998): Ms. Miki introduces Agito Nakajima and Sho Satsuma as the Fabulous Ones, the Lady Thrillers from Nagoya, Japan, at a combined 525 pounds; the pair join the brawl in the match between Brian Lau and Kuyler Greyson, eliminate the Fraternity Boys in the Hell On Earth cell, and are the last team beaten by the Down Boys."
+      },
+      {
+        "promotion": "g-pro-1998",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999-02",
+        "last_seen": "1999-02",
+        "source": "/promotions/g-pro-1998/archive/gpro-recap-1999-02-05.html",
+        "note": "A two-man pairing of two of the three members of the promotion's own Daimyo trio, billed as the promotion's new Combative Tag Team Champions."
+      }
+    ],
+    "caption": "The tag team of Agito Nakajima and Sho Satsuma, from Nagoya, Japan, managed by Ms. Miki, who eliminated the Fraternity Boys in the Hell On Earth cell on 9 August 1998 and lost to the Down Boys.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Agito Nakajima",
+        "character_id": "agito-nakajima-gpro98"
+      },
+      {
+        "name": "Sho Satsuma",
+        "character_id": "sho-satsuma-gpro98"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-fabulous-ones-cswa"
+        ],
+        "note": "A same-named team in another fed. Name collision only; no document names both records, so they stay two, pending a verdict."
+      }
+    ]
+  },
+  {
+    "id": "the-body-shop-emwc",
+    "type": "unit",
+    "name": "The Body Shop",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-08-09",
+        "last_seen": "1998-08-09",
+        "grade": "primary-source",
+        "role": "stable",
+        "source": "promotions/emwc/archive/blood-sweat-and-tears-august-9-part-11-1998-08-10.html",
+        "note": "At Blood, Sweat, and Tears (9 August 1998): after Trey Porter turned on Steve Spector, Zack Malone passed out Body Shop shirts to the four; Malone calls it the new and improved Body Shop, without the Bad Boys and the Masterpieces; Trey Porter says he and Malone put the group together about three years ago and that it took over three feds; the four say they fooled the crowd for near three months."
+      }
+    ],
+    "caption": "The stable of Zack Malone, Trey Porter, Ronnie D and Simon Lebec, which revealed on 9 August 1998 that the feud between Porter and the Snake Den had been a work.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Zack Malone",
+        "character_id": "zack-malone-emwc"
+      },
+      {
+        "name": "Trey Porter",
+        "character_id": "dreamlover-trey-porter-emwc"
+      },
+      {
+        "name": "Ronnie D",
+        "character_id": "playboy-ronnie-d-iiew-1997"
+      },
+      {
+        "name": "Simon Lebec",
+        "character_id": "simon-lebec-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "the-fracas-boys-emwc",
+    "type": "unit",
+    "name": "The Fracas Boys",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-09-09",
+        "last_seen": "1998-09-09",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/emwc/archive/an-evening-to-the-extreme-september-9-part-5-1998-09-14.html",
+        "note": "At An Evening To The Extreme (9 September 1998, Wembley Stadium): the ring announcer introduces the challengers as \"Psychadelic\" Adrienne Creed and \"Racy\" Kristof Johanssan, the Fracas Boys, hailing from Stockholm, Sweden, at a combined 450 pounds, to the Twilight Zone theme; they work over the champions with double teams and lose when Dan Oliver rolls Kristof up and Creed breaks the pin a second too late."
+      },
+      {
+        "promotion": "scra",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged SCRA in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "The Swedish tag team of Adrienne Creed and Kristof Johanssan, from Stockholm, who lost a challenge for the EMWC World Tag Team Titles to the Down Boys on 9 September 1998.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Adrienne Creed",
+        "character_id": "psychadelic-adrienne-creed-emwc"
+      },
+      {
+        "name": "Kristof Johanssan",
+        "character_id": "racy-kristof-johanssan-emwc"
+      }
+    ],
+    "aka": [
+      "Fracas Boys"
+    ]
+  },
+  {
+    "id": "bloodstorm-emwc",
+    "type": "unit",
+    "name": "Bloodstorm",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-09-30",
+        "last_seen": "1998-09-30",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/emwc/archive/an-evening-to-the-extreme-september-30-part-1-1998-10-07.html; promotions/emwc/archive/an-evening-to-the-extreme-september-30-part-2-1998-10-07.html",
+        "note": "At An Evening To The Extreme (30 September 1998, Tokyo Dome): the announcers call Bloodstorm the newest tag team in the EMWC and Todd Michaelson recalls that they had been the Sideshow; the ring announcer introduces Bobby Storm and El Vampyro as Bloodstorm at a total combined weight of 257 pounds; they beat the Tokyo Kid and Fuji with a double powerbomb, and the House of Lords took them down after the bell."
+      }
+    ],
+    "caption": "The tag team of Bobby Storm and El Vampyro, who made their EMWC debut at the Tokyo Dome on 30 September 1998 by beating the local team of the Tokyo Kid and Fuji.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Bobby Storm",
+        "character_id": "bobby-storm-emwc"
+      },
+      {
+        "name": "El Vampyro",
+        "character_id": "el-vampyro-emwc"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "bloodstorm-pwf"
+        ],
+        "note": "Exact-name collision with records elsewhere; the pages do not tie any of them to this team. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "anarchy-emwc",
+    "type": "unit",
+    "name": "Anarchy",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-09-30",
+        "last_seen": "1998-09-30",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/emwc/archive/an-evening-to-the-extreme-september-30-part-5-1998-10-07.html",
+        "note": "At An Evening To The Extreme (30 September 1998, Tokyo Dome): Jon Stegglet announces Anarchy, MadDog and Zombie, as the pair run down the aisle with chairs and brutalize the fans the page calls Greece; Todd Michaelson says the black-clad crowd looks like Anarchy's fan club, and Zombie presents it as the Vogon Poet's Guild."
+      }
+    ],
+    "caption": "The tag team of MadDog and Zombie, who attacked the fans of the Fraternity Boys with chairs in the Tokyo Dome on 30 September 1998 and are cheered by a black-clad fan club.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "MadDog",
+        "character_id": "maddog-emwc"
+      },
+      {
+        "name": "Zombie",
+        "character_id": "zombie-emwc"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "anarchy",
+          "anarchy-pcw",
+          "anarchy-rpw-rushpro-2003",
+          "anarchy-wwa"
+        ],
+        "note": "Exact-name collision with records elsewhere; the pages do not tie any of them to this team. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "the-daimyo-emwc",
+    "type": "unit",
+    "name": "The Daimyo",
+    "tenures": [
+      {
+        "promotion": "emwc",
+        "first_seen": "1998-09-30",
+        "last_seen": "1998-09-30",
+        "grade": "primary-source",
+        "role": "stable",
+        "source": "promotions/emwc/archive/an-evening-to-the-extreme-september-30-part-5-1998-10-07.html",
+        "note": "At An Evening To The Extreme (30 September 1998, Tokyo Dome): after the Fabulous Ones win the tag titles with Dave Bryant's help, Ms. Miki, speaking for the Daimyo, says it is looking to add strength to its line-up and offers Bryant a place as a family member, Bryant says the only thing the Daimyo is missing is the Doctor of Love, Randall Osbourne says 'welcome the Doctor to the flock', and Jon Stegglet says the Daimyo now holds the most gold of any EMWC stable, tied with the Cult of Personality; Kabuki Kid also invites Quinn Brown to answer the same offer the following week."
+      },
+      {
+        "promotion": "g-pro-1998",
+        "source": "promotions/g-pro-1998/archive/battlefield-1998-08-08.html",
+        "note": "Won the federation's debut trios cage main event over Zokugun Sangai, two falls to one."
+      }
+    ],
+    "caption": "The stable of Ms. Miki, the Fabulous Ones, Kabuki Kid and Randall Osbourne, which took in Dave Bryant after the Fabulous Ones won the EMWC World Tag Team Titles on 30 September 1998.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Ms. Miki",
+        "character_id": "ms-miki-emwc"
+      },
+      {
+        "name": "Agito Nakajima",
+        "character_id": "agito-nakajima-gpro98"
+      },
+      {
+        "name": "Sho Satsuma",
+        "character_id": "sho-satsuma-gpro98"
+      },
+      {
+        "name": "Kabuki Kid",
+        "character_id": "kyu-kabuki-sjpw"
+      },
+      {
+        "name": "Randall Osbourne",
+        "character_id": "randall-osbourne-emwc"
+      },
+      {
+        "name": "Dave Bryant",
+        "character_id": "doctor-of-love-dave-bryant-emwc"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-daimyo"
+        ],
+        "note": "Exact-name collision with records elsewhere; the pages do not tie any of them to this team. Kept distinct under the no-merge default, open to a merge on evidence."
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "daimyo-newa-1992",
+          "the-daimyo"
+        ],
+        "note": "\"Daimyo\" (a Japanese feudal-lord title) names two unrelated, much earlier entities elsewhere in the registry -- a 1991 manager role in an unrelated wing, and a 1991 manager character in a different unrelated wing. No shared roster, operator or platform with either; a common generic honorific, not a collision."
+      }
+    ],
+    "aka": [
+      "Daimyo"
+    ]
+  }
+]

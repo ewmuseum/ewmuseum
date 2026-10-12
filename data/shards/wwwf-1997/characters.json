@@ -1,0 +1,1487 @@
+[
+ {
+  "id": "stone-cold-steve-austin-wwwf-1997",
+  "type": "character",
+  "name": "Stone Cold Steve Austin",
+  "portrays": {
+   "figure": "stone-cold-steve-austin-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "stone-cold-steve-austin-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Won the WWWF's own inaugural World Title Tournament (Iron Man final over Mr. Perfect, 4-3) at WrestlePania; interfered in Brian Pillman's Saturday ShootOut match against Ric Flair."
+   }
+  ],
+  "aka": [
+   "Steve Austin"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with steve-austin-tpg (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "steve-austin-tpg"
+    ]
+   }
+  ],
+  "caption": "The WWWF's first World Champion, crowned in an Iron Man final at the fed's own inaugural WrestlePania.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "mr-perfect-wwwf-1997",
+  "type": "character",
+  "name": "Mr. Perfect",
+  "portrays": {
+   "figure": "curt-hennig-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "curt-hennig-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Runner-up in the World Title Tournament final (Iron Man, lost 3-4 to Stone Cold Steve Austin) after wins over Ric Flair, Shawn Michaels and Diamond Dallas Page; also wrestled Arn Anderson to a double countout at Saturday ShootOut and entered the US Title battle royal."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with curt-hennig-dreamcard (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "curt-hennig-dreamcard"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "bret-hart-wwwf-1997",
+  "type": "character",
+  "name": "Bret Hart",
+  "portrays": {
+   "figure": "bret-hart-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "bret-hart-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Won his WrestlePania quarterfinal over Sid by referee stoppage (Sharpshooter); no-showed his Round 2 bout with Diamond Dallas Page. At Saturday ShootOut, paired with Shawn Michaels as the Hart Breakers (managed by Sunny) against the Outsiders and later the Head Hunters, and entered the US Title battle royal."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with bret-hart-agw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "bret-hart-agw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "shawn-michaels-wwwf-1997",
+  "type": "character",
+  "name": "Shawn Michaels",
+  "portrays": {
+   "figure": "shawn-michaels-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "shawn-michaels-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Beat Vader in the WrestlePania World Title Tournament, then lost to Mr. Perfect 1-2 in Round 2. At Saturday ShootOut, teamed with Bret Hart as the Hart Breakers and was the final elimination in the US Title battle royal (eliminated by Head Hunter #1)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with shawn-michaels-agw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "shawn-michaels-agw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "ric-flair-wwwf-1997",
+  "type": "character",
+  "name": "Ric Flair",
+  "portrays": {
+   "figure": "ric-flair-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "ric-flair-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Lost to Mr. Perfect in the WrestlePania World Title Tournament's opening round. Lost to Brian Pillman at Saturday ShootOut (Austin interfered, distracting him) and entered the US Title battle royal."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with ric-flair-dreamcard (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "ric-flair-dreamcard"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "randy-savage-wwwf-1997",
+  "type": "character",
+  "name": "Randy Savage",
+  "portrays": {
+   "figure": "randy-savage-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "randy-savage-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Teamed with Sting as the Macho Men in the WWWF's own Tag Team Tournament, reaching the final on a bye before losing to the Head Hunters in a three-straight-pinfalls Death Match. The pairing lost again to the Horsemen (Benoit and Malenko) at Saturday ShootOut."
+   }
+  ],
+  "aka": [
+   "Macho Man Randy Savage"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with randy-savage-icwc (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "randy-savage-icwc"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "sting-wwwf-1997",
+  "type": "character",
+  "name": "Sting",
+  "portrays": {
+   "figure": "sting-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "sting-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Ran in from the rafters to save the Macho Men (with Randy Savage) from the Outsiders at WrestlePania, advancing the pairing to the tag final; lost that final and the Saturday ShootOut rematch to the Horsemen. Entered the US Title battle royal."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with sting-action-extreme-wrestling (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "sting-action-extreme-wrestling"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kevin-nash-wwwf-1997",
+  "type": "character",
+  "name": "Kevin Nash",
+  "portrays": {
+   "figure": "kevin-nash-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "kevin-nash-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Outsiders (with Scott Hall, managed by Ted DiBiase); lost the tag tournament's opening round to the Macho Men by DQ (DiBiase punched the referee) and lost again at Saturday ShootOut to the Hart Breakers. Entered the US Title battle royal."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with kevin-nash-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "kevin-nash-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "scott-hall-wwwf-1997",
+  "type": "character",
+  "name": "Scott Hall",
+  "portrays": {
+   "figure": "scott-hall-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "scott-hall-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Outsiders (with Kevin Nash, managed by Ted DiBiase) at WrestlePania and Saturday ShootOut; also lost a special challenge bout to Vader at Saturday ShootOut off an open contract."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with scott-hall-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "scott-hall-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "diamond-dallas-page-wwwf-1997",
+  "type": "character",
+  "name": "Diamond Dallas Page",
+  "portrays": {
+   "figure": "diamond-dallas-page-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "diamond-dallas-page-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Upset the Giant in the WrestlePania World Title Tournament, received a bye past Bret Hart's no-show, then lost to Mr. Perfect in the semifinal (a neck injury announced afterward). Lost to Ahmed Johnson at Saturday ShootOut and entered the US Title battle royal."
+   }
+  ],
+  "aka": [
+   "DDP"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with dallas-page-uwf-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "dallas-page-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "ted-dibiase-wwwf-1997",
+  "type": "character",
+  "name": "Ted DiBiase",
+  "portrays": {
+   "figure": "ted-dibiase-sr-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "ted-dibiase-sr-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Managed the Outsiders at WrestlePania (his own punch on the referee cost them the tag tournament's opening round) and again at Saturday ShootOut (he cost them a second loss by shoving Shawn Michaels from the top rope)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with ted-dibiase-rswa (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "ted-dibiase-rswa"
+    ]
+   }
+  ],
+  "caption": "A manager billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "arn-anderson-wwwf-1997",
+  "type": "character",
+  "name": "Arn Anderson",
+  "portrays": {
+   "figure": "arn-anderson-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "arn-anderson-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Lost to Raven at WrestlePania (two straight DDTs); managed at ringside by Alistar Marvelous. Wrestled Mr. Perfect to a double countout at Saturday ShootOut and entered the US Title battle royal."
+   }
+  ],
+  "aka": [
+   "Double A"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with arn-anderson-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "arn-anderson-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "chris-benoit-wwwf-1997",
+  "type": "character",
+  "name": "Chris Benoit",
+  "portrays": {
+   "figure": "chris-benoit-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "chris-benoit-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Horsemen (with Dean Malenko) in the WWWF's own Tag Team Tournament -- beat the Eliminators in the opening round, then lost (injured, stretchered out) to the Head Hunters in the semifinal. The pairing beat the Macho Men at Saturday ShootOut."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with chris-benoit-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "chris-benoit-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "dean-malenko-wwwf-1997",
+  "type": "character",
+  "name": "Dean Malenko",
+  "portrays": {
+   "figure": "dean-malenko-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "dean-malenko-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Horsemen (with Chris Benoit) in the Tag Team Tournament; fought the Head Hunters alone in the semifinal after Benoit was injured. Pinned Sting with the Texas Cloverleaf for the Horsemen's Saturday ShootOut win over the Macho Men."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with dean-malenko-agw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "dean-malenko-agw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "undertaker-wwwf-1997",
+  "type": "character",
+  "name": "Undertaker",
+  "portrays": {
+   "figure": "the-undertaker-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "the-undertaker-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Beat Faarooq in the WrestlePania World Title Tournament's opening round (Ahmed Johnson's interference drew the DQ before the chokeslams and Tombstone), advanced past a Raven no-show in Round 2, then lost to Stone Cold Steve Austin in the semifinal. Entered the US Title battle royal at Saturday ShootOut."
+   }
+  ],
+  "aka": [
+   "The Undertaker"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with the-undertaker-czwf-2005 (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "the-undertaker-czwf-2005"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "faarooq-wwwf-1997",
+  "type": "character",
+  "name": "Faarooq",
+  "portrays": {
+   "figure": "ron-simmons-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "ron-simmons-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Lost to the Undertaker by DQ in the WrestlePania World Title Tournament's opening round after Ahmed Johnson interfered on his behalf. At Saturday ShootOut, ran in to clear the ring during the Eliminators-Nation of Domination tag match and entered the US Title battle royal."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with faarooq-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "faarooq-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "ahmed-johnson-wwwf-1997",
+  "type": "character",
+  "name": "Ahmed Johnson",
+  "portrays": {
+   "figure": "ahmed-johnson-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "ahmed-johnson-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Beat an injured Hulk Hogan in the WrestlePania World Title Tournament's opening round (Pearl River Plunge, twice), then lost to Stone Cold Steve Austin in Round 2; interfered in the Undertaker-Faarooq match with a chair. Lost to Diamond Dallas Page at Saturday ShootOut, ran in on the Eliminators-Nation of Domination tag match, and entered the US Title battle royal."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with ahmed-johnson-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "ahmed-johnson-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "vader-wwwf-1997",
+  "type": "character",
+  "name": "Vader",
+  "portrays": {
+   "figure": "big-van-vader-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "big-van-vader-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Lost to Shawn Michaels in the WrestlePania World Title Tournament's opening round. Beat Scott Hall in a special-challenge open-contract bout at Saturday ShootOut and entered the US Title battle royal."
+   }
+  ],
+  "aka": [
+   "Big Van Vader"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with big-van-vader-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "big-van-vader-uwow"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "sid-wwwf-1997",
+  "type": "character",
+  "name": "Sid",
+  "portrays": {
+   "figure": "sid-vicious-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "sid-vicious-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Lost to Bret Hart by referee stoppage (Sharpshooter) in the WrestlePania World Title Tournament's opening round. Submitted to Taz's Tazmission at Saturday ShootOut."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with sid-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "sid-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "taz-wwwf-1997",
+  "type": "character",
+  "name": "Taz",
+  "portrays": {
+   "figure": "tazz-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "tazz-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-saturday-shootout-1997-03-30.html",
+    "note": "Made Sid submit to the Tazmission at Saturday ShootOut and entered the US Title battle royal (eliminated by the Giant)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with taz-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "taz-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-30 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-giant-wwwf-1997",
+  "type": "character",
+  "name": "The Giant",
+  "portrays": {
+   "figure": "paul-wight-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "paul-wight-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Lost to Diamond Dallas Page in the WrestlePania World Title Tournament's opening round. Entered the Saturday ShootOut US Title battle royal, eliminating Diamond Dallas Page and Taz before being eliminated himself by Ahmed Johnson."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with the-giant-wcotw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "the-giant-wcotw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "brian-pillman-wwwf-1997",
+  "type": "character",
+  "name": "Brian Pillman",
+  "portrays": {
+   "figure": "brian-pillman-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "brian-pillman-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Advanced past Stone Cold Steve Austin by default at WrestlePania after refusing to fight his own stablemate. At Saturday ShootOut, beat Ric Flair with the Air Pillman (Austin distracted Flair) and made Pitbull #2 submit to a sleeperhold in a no-time-limit I Quit main event."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with brian-pillman-dreamcard (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "brian-pillman-dreamcard"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "raven-wwwf-1997",
+  "type": "character",
+  "name": "Raven",
+  "portrays": {
+   "figure": "raven-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "raven-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Beat Arn Anderson with consecutive DDTs in the WrestlePania World Title Tournament's opening round (managed at ringside by Kimberly Page), then no-showed Round 2 against the Undertaker -- the show's own text says Kimberly Page forced the no-show. Lost to the Sandman at Saturday ShootOut."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with euwc-raven (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "euwc-raven"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kimberly-page-wwwf-1997",
+  "type": "character",
+  "name": "Kimberly Page",
+  "portrays": {
+   "figure": "kimberly-page-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "kimberly-page-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Valeted the Head Hunters at WrestlePania and Raven at Saturday ShootOut (the show's own text has her forcing Raven's WrestlePania no-show against the Undertaker)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with kimberly-page-uwf-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "kimberly-page-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "A manager billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sandman-wwwf-1997",
+  "type": "character",
+  "name": "Sandman",
+  "portrays": {
+   "figure": "sandman-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "sandman-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-saturday-shootout-1997-03-30.html",
+    "note": "Lost to Raven at Saturday ShootOut (managed at ringside by Beulah McGillicutty); entered the US Title battle royal as its first elimination (thrown out by Arn Anderson)."
+   }
+  ],
+  "aka": [
+   "The Sandman"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with jason-snowe-lcw-1997 (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "jason-snowe-lcw-1997"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-30 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "saturn-wwwf-1997",
+  "type": "character",
+  "name": "Saturn",
+  "portrays": {
+   "figure": "perry-saturn-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "perry-saturn-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Eliminators (with Kronus, managed by Francine) in the Tag Team Tournament's opening round loss to the Horsemen at WrestlePania, and again in the Saturday ShootOut win over the Nation of Domination."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with perry-saturn-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "perry-saturn-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kronus-wwwf-1997",
+  "type": "character",
+  "name": "Kronus",
+  "portrays": {
+   "figure": "john-kronus-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "john-kronus-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Eliminators (with Saturn) alongside Saturn at WrestlePania and Saturday ShootOut, where the show's own text spells the name 'Kronos.'"
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "crush-wwwf-1997",
+  "type": "character",
+  "name": "Crush",
+  "portrays": {
+   "figure": "crush-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "crush-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Nation of Domination (with Savio Vega, managed by Clarence Mason) in the WrestlePania Tag Team Tournament's opening round loss to the Head Hunters, and again in the Saturday ShootOut loss to the Eliminators."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with corporal-crush (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "corporal-crush"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "savio-vega-wwwf-1997",
+  "type": "character",
+  "name": "Savio Vega",
+  "portrays": {
+   "figure": "savio-vega-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "savio-vega-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Nation of Domination (with Crush) at WrestlePania (pinned by Head Hunter #1's moonsault) and Saturday ShootOut."
+   }
+  ],
+  "caption": "A wrestler billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "head-hunter-1-wwwf-1997",
+  "type": "character",
+  "name": "Head Hunter #1",
+  "portrays": {
+   "figure": "head-hunter-1-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "head-hunter-1-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Head Hunters -- won the WrestlePania Tag Team Tournament (moonsault pins throughout, then a Death Match sweep of the Macho Men) becoming, with Head Hunter #2, the first WWWF World Tag Team Champions; also won the Saturday ShootOut 16-man battle royal for the first WWWF United States Championship, the fed's own first multi-belt holder."
+   }
+  ],
+  "caption": "Half of the Head Hunters, won the WrestlePania Tag Team Tournament to become, with Head Hunter #2, the first WWWF World Tag Team Champions, then won the Saturday ShootOut battle royal for the first WWWF United States Championship — the fed's own first multi-belt holder.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "head-hunter-2-wwwf-1997",
+  "type": "character",
+  "name": "Head Hunter #2",
+  "portrays": {
+   "figure": "head-hunter-2-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "head-hunter-2-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "Half of the Head Hunters -- won the WrestlePania Tag Team Tournament alongside Head Hunter #1 to become the first WWWF World Tag Team Champions, and won again at Saturday ShootOut over the Hart Breakers."
+   }
+  ],
+  "caption": "Half of the Head Hunters, won the WrestlePania Tag Team Tournament alongside Head Hunter #1 to become the first WWWF World Tag Team Champions, and retained the belts at Saturday ShootOut over the Hart Breakers.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "joey-styles-wwwf-1997",
+  "type": "character",
+  "name": "Joey Styles",
+  "portrays": {
+   "figure": "joey-styles-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WWWF-1997's own served card text."
+  },
+  "portrayal_of": "joey-styles-real",
+  "tenures": [
+   {
+    "promotion": "wwwf-1997",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "primary-source",
+    "roles": [
+     "commentator"
+    ],
+    "source": "promotions/wwwf-1997/archive/wwwf-wrestlepania-1997-03-27.html",
+    "note": "The WWWF's own play-by-play voice, hosting both WrestlePania and Saturday ShootOut."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with joey-styles-fob (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "joey-styles-fob"
+    ]
+   }
+  ],
+  "caption": "A commentator billed by WWWF 1997 in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

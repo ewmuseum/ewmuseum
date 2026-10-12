@@ -1,0 +1,49 @@
+# THE E-WRESTLING MUSEUM — crawler policy
+# Search crawlers are welcome: discoverability feeds collection, and
+# "it will help people find the museum" (the Janitor, D429, 2026-10-07).
+# AI-training use is NOT licensed, from here or from the repository —
+# most of this collection is other people's creative work, held in
+# trust; the museum cannot grant training rights it does not own.
+# See LICENSE.md in the repository. No commercial use either way.
+# Content-Signal (contentsignals.org): search=yes (index us, link us,
+# show short excerpts); ai-train=no (no training or fine-tuning).
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: *
+Content-Signal: search=yes, ai-train=no
+Allow: /
+Disallow: /api/
+
+Sitemap: https://ewmuseum.org/sitemap.xml

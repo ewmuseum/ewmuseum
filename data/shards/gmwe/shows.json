@@ -1,0 +1,38 @@
+[
+  {
+    "id": "gmwe-ice-1-2003-02-08",
+    "type": "show",
+    "name": "ICE",
+    "promotion": "gmwe",
+    "date": {
+      "date": "2003-02-08",
+      "precision": "exact",
+      "source": "The fed’s own newsdesk, 31 January 2003: “I have posted the card for the very first ICE. To be held on Saturday Febuary 8th. This card consists of 6 randomly selected match-ups” (promotions/gmwe/archive/news-2003-01.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/gmwe/archive/news-2003-01.html",
+        "note": "The fed’s own news post announces the card, its date and its six matches; neither the card nor the results were ever captured."
+      }
+    ]
+  },
+  {
+    "id": "gmwe-ice-2003-02-12",
+    "type": "show",
+    "name": "ICE",
+    "promotion": "gmwe",
+    "date": {
+      "date": "2003-02-12",
+      "precision": "exact",
+      "source": "The fed’s own ICE results index lists one entry, “02/12/03 - Results” (promotions/gmwe/archive/ice-results-index.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/gmwe/archive/ice-results-index.html",
+        "note": "The only entry the fed’s own results index carries; the results page behind it was never captured."
+      }
+    ]
+  }
+]

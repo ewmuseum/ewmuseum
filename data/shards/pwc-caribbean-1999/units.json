@@ -1,0 +1,60 @@
+[
+ {
+  "id": "delta-destroyers-pwc-caribbean-1999",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Delta Destroyers",
+  "members": [
+   "biloxi-bruiser-wwa",
+   "mississippi-mauler-wwa"
+  ],
+  "tenures": [
+   {
+    "promotion": "pwc-caribbean-1999",
+    "first_seen": "1999-06-23",
+    "last_seen": "1999-06-23",
+    "source": "Defeated the Flying Garzas by pinfall on the promotion's own 23 June 1999 house show."
+   }
+  ],
+  "caption": "A tag team that opened the promotion's own house show with a pinfall win.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "flying-garzas-pwc-caribbean-1999",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Flying Garzas",
+  "members": [
+   "raphael-pwc-caribbean-1999",
+   "jesus-garza-pwc-caribbean-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "pwc-caribbean-1999",
+    "first_seen": "1999-06-23",
+    "last_seen": "1999-06-23",
+    "source": "Lost to the Delta Destroyers by pinfall on the promotion's own 23 June 1999 house show."
+   }
+  ],
+  "caption": "A tag team beaten in the promotion's own house-show opener.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ }
+]

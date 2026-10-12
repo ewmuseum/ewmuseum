@@ -1,0 +1,230 @@
+[
+ {
+  "id": "2gls-bmw",
+  "type": "unit",
+  "name": "2GLS",
+  "aka": [
+   "Two Good Looking Studs"
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Reality",
+    "character_id": "reality-bmw"
+   },
+   {
+    "name": "Jeremiah Wilson",
+    "character_id": "jeremiah-wilson-bmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bmw",
+    "source": "promotions/bmw/archive/columns.html; promotions/bmw/archive/trial-and-error-recap.html",
+    "note": "Jumped new World Champion Tax immediately after his Money, Power, Respect II win, then won the Tag Team Championship off Big Money Legends in an Inferno Tables match the same night."
+   }
+  ],
+  "caption": "Reality and Jeremiah Wilson's own tag pairing, the Tag Team Champions after an Inferno Tables win over Big Money Legends at Money, Power, Respect II.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "bml-bmw",
+  "type": "unit",
+  "name": "Big Money Legends",
+  "aka": [
+   "BML"
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Kid Krazie",
+    "character_id": "kid-krazie-bmw"
+   },
+   {
+    "name": "Scott Phillips",
+    "character_id": "scott-phillips-bmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bmw",
+    "source": "promotions/bmw/archive/columns.html",
+    "note": "Lost the Tag Team Championship to 2GLS in an Inferno Tables match at Money, Power, Respect II — Krazie's own last wrestling appearance the surviving record holds, half a year after his Trial And Error career-ending loss, an internal inconsistency the record does not resolve."
+   }
+  ],
+  "caption": "Kid Krazie and Scott Phillips's own veteran tag pairing, which lost the Tag Team Championship to 2GLS through three burning tables at Money, Power, Respect II.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "sudden-violence-bmw",
+  "type": "unit",
+  "name": "Sudden Violence",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Da Thug",
+    "character_id": "da-thug-bmw"
+   },
+   {
+    "name": "Krisis",
+    "character_id": "krisis-bmw"
+   },
+   {
+    "name": "Violent B",
+    "character_id": "violent-b-bmw"
+   },
+   {
+    "name": "Paranoia",
+    "character_id": "paranoia-bmw"
+   },
+   {
+    "name": "Red Vizionz",
+    "character_id": "red-vizionz-ubc-wrestleonline-2002",
+    "eras": [
+     "ubc-wrestleonline-2002"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bmw",
+    "source": "promotions/bmw/archive/columns.html",
+    "note": "Billed across Money, Power, Respect II's own recap as BMW's own dominant faction; Paranoia is named a member elsewhere in the same corpus (Krisis runs to pull him from a post-match brawl)."
+   },
+   {
+    "promotion": "ubc-wrestleonline-2002",
+    "first_seen": "2002-12-01",
+    "last_seen": "2002-12-21",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UBC's own backstage database (accession 0159) — its own news posts of 1, 15 and 21 December 2002; its own Stables page as captured on 29 May 2003 lists the same five",
+    "note": "Dated from UBC's own news: the post of 1 December 2002 reads, \"all four members of legendary wrestling faction, \"Sudden Violence\" (Chris Carter, Krisis, Violent B, and Paranoia), are in the UBC\", and the post of 21 December 2002 reads, \"Red Vizionz is the newest member of Sudden Violence\". The stable carried across the same four men and gained a fifth, Red Vizionz, on 21 December 2002."
+   }
+  ],
+  "caption": "Da Thug, Krisis, Violent B and Paranoia's own stable, billed through mid-2002 as Big Money Wrestling's dominant faction.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "UBC's own news of 1 and 15 December 2002 lists Sudden Violence as Chris Carter, Krisis, Violent B and Paranoia, the four men this record holds under Da Thug, Krisis, Violent B and Paranoia; Red Vizionz joins on 21 December 2002."
+   }
+  ]
+ },
+ {
+  "id": "dynasty-of-destruction-bmw",
+  "type": "unit",
+  "name": "Dynasty of Destruction",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Risk",
+    "character_id": "risk-bmw"
+   },
+   {
+    "name": "'The Violence' Vince Jones",
+    "character_id": "vince-jones-bmw"
+   },
+   {
+    "name": "Raymond Mercy",
+    "character_id": "raymond-mercy-bmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bmw",
+    "source": "promotions/bmw/archive/roleplay-122.html; promotions/bmw/archive/roleplay-131.html",
+    "note": "Raymond Mercy's own August roleplay names the trio explicitly (\"I parted ways with my Dynasty of Destruction comrades\") after a scene pairing him with Risk and Vince Jones."
+   }
+  ],
+  "caption": "Risk, 'The Violence' Vince Jones and Raymond Mercy's own August 2002 stable.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "waw-bmw",
+  "type": "unit",
+  "name": "wAw",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Louis Miranda",
+    "character_id": "louis-miranda-bmw"
+   },
+   {
+    "name": "ICE",
+    "character_id": "ice-bmw"
+   },
+   {
+    "name": "Rudy Rouse",
+    "character_id": "rudy-rouse-bmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bmw",
+    "source": "promotions/bmw/archive/trial-and-error-recap.html; promotions/bmw/archive/fallout-american-airlines-arena.html; promotions/bmw/archive/news-archive.html",
+    "note": "Fielded Miranda, ICE and Rouse as a team against BMW's own Tycoon/Scott Phillips/Thee Obsession side at Trial And Error; folded into BMW on-air at FallOut with Louis Miranda promising an unnamed 'plan,' though he insists it lives on 'through' Scott Phillips, Donomite and ICE. Separately, ICE is shown publicly breaking from the group and from Louis Miranda by late January."
+   }
+  ],
+  "caption": "Louis Miranda's own imported faction, fielding him, ICE and Rudy Rouse as a team at Trial And Error before its own on-air closure at FallOut.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

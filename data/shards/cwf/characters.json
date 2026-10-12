@@ -1,0 +1,962 @@
+[
+ {
+  "id": "hellfire-x-cwf",
+  "type": "character",
+  "name": "Hellfire X",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "1998",
+    "last_seen": "2003-05",
+    "role": "owner — the fed’s own in-card Owner, and a wrestler on its 2003 roster",
+    "roles": [
+     "authority-figure",
+     "wrestler"
+    ],
+    "height": "6'11\"",
+    "weight": "322 Lbs",
+    "alignment": "Heel",
+    "style": "Power",
+    "finisher": "X-Virus",
+    "entrance_music": {
+     "verbatim": "Marilyn Manson - Seizure of Power",
+     "title": "Seizure of Power",
+     "artist": "Marilyn Manson"
+    },
+    "source": "his own info card (promotions/cwf/archive/hellfire-x-info-card.html) and biography (promotions/cwf/archive/hellfire-x-biography.html); the fed’s own History, In-Card Staff and Real Staff pages",
+    "note": "His own biography claims better than sixty federations, a first world title won in a War of Independence match, and a manager he was engaged to marry. The 1998 start date is the fed’s own History page, which names him one of its three founders; the last document that names him is a May 2003 capture of his own info card."
+   }
+  ],
+  "caption": "Founded the Corporate Wrestling Federation in 1998, restarted it twice, walked to the ring first on the night it came back for the third time, and announced his own last e-fed match three months later.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sean-manning-cwf",
+  "type": "character",
+  "name": "Sean Manning",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01",
+    "last_seen": "2003-04",
+    "role": "wrestler — opened CWF SeVeN against Xtreme Max",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'6\"",
+    "weight": "285 Lbs",
+    "hometown": "Los Angeles",
+    "alignment": "Face",
+    "style": "Highflyer/Daredevil",
+    "finisher": "‘Youth of the Nation’ (a Phoenix Splash)",
+    "entrance_music": {
+     "verbatim": "Adrenaline by Gavin Rosslan",
+     "title": "Adrenaline",
+     "artist": "Gavin Rosslan"
+    },
+    "signature_moves": [
+     "West Side Press (Shooting Star Press)",
+     "Seanton Bomb",
+     "Split-Legged Moonsault",
+     "Tornado DDT"
+    ],
+    "source": "his own bio card (promotions/cwf/archive/sean-manning-bio-card.html); the fed’s own roster and Top Ten",
+    "note": "His bio card is by some distance the longest document CWF left about a single wrestler — a childhood in West Side Los Angeles told at length through the woman who raised him, a school expulsion, a revenge killing and three years in juvenile detention before he trained for wrestling. The card’s own entrance description is reused word for word in the SeVeN script."
+   }
+  ],
+  "caption": "Came out of a bio card that runs to eleven thousand words of orphanhood, revenge and juvenile detention, and opened CWF SeVeN with a snap suplex.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "starter-cwf",
+  "type": "character",
+  "name": "Starter",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "1998",
+    "last_seen": "2003-02",
+    "role": "wrestler — a founder of the fed, in a Cold Championship tournament quarter-final on Redz()ne-2",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'6\"",
+    "weight": "245 Lbs",
+    "hometown": "Hell",
+    "alignment": "Neutral",
+    "style": "Hardcore",
+    "finisher": "‘Disasterpiece’",
+    "entrance_music": {
+     "verbatim": "Slipknot - Disasterpiece",
+     "title": "Disasterpiece",
+     "artist": "Slipknot",
+     "corrected": "\"Disasterpiece\" by Slipknot"
+    },
+    "source": "his own bio card (promotions/cwf/archive/starter-bio-card.html); the fed’s own History, roster and Redz()ne-2 card",
+    "note": "The fed’s own History names him one of its three 1998 founders and the commissioner of a fed called the EPWA whose roster he brought across when it folded."
+   }
+  ],
+  "caption": "One of the three who started the Corporate Wrestling Federation in 1998, left for dead in the woods behind Boston’s Fleet Center in his own bio and given eternal life by three demons on condition he kill sinners.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "firestarter-rspwf",
+     "the-firestarter-giwf"
+    ],
+    "note": "The mint guard flags normalized substring matches against firestarter-rspwf and the-firestarter-giwf. Nothing connects them: this Starter is named on the Corporate Wrestling Federation's own History page as one of its three 1998 founders. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "xtreme-max-cwf",
+  "type": "character",
+  "name": "Xtreme Max",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-02",
+    "last_seen": "2003-02",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the show script for SeVeN, which stages his CWF debut and the opening match's own commentary calls it that (promotions/cwf/archive/seven-2003-02-01.html)",
+    "note": "Formerly billed Hellrazor, by his own account, revealed backstage on the previous show (Redz()ne-1)."
+   }
+  ],
+  "caption": "Made his CWF debut at SeVeN, beating Sean Manning in the hardcore opener under a former ring name, Hellrazor.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mr-x-cwf",
+  "type": "character",
+  "name": "Mr. X",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01",
+    "last_seen": "2003-02-11",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the Redz()ne-1 reunion show (a rafters stand-off with Starter, Chain, Hardcore Z, Evil Santa and AJ) and the SeVeN show script, where he wins the three-way for the CWF Anarchy Championship (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html; promotions/cwf/archive/seven-2003-02-01.html); the Redz()ne-2 card, which bills him as champion defending against Sean Manning in a Dumpster Match (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+    "note": "Won a three-way (reduced to two when Starter is written out mid-match by an in-story lightning strike) to become the first CWF Anarchy Champion at SeVeN. The Redz()ne-2 card bills him defending the belt against Sean Manning in a Dumpster Match, but that show's own results were never captured, so whether he kept it is unknown."
+   }
+  ],
+  "caption": "Won a three-way at SeVeN and was ring-announced the new CWF Anarchy Champion, then was billed defending the belt in a Dumpster Match at Redz()ne-2 whose own results never survived.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "hardcore-z-cwf",
+  "type": "character",
+  "name": "Hardcore Z",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-02",
+    "last_seen": "2003-02-11",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the show script for SeVeN, billed a former EPWA star alongside Chain, Phantom and Evil Santa on the previous show (promotions/cwf/archive/seven-2003-02-01.html; promotions/cwf/archive/redzone-1-reunion-2003-01-27.html); the Redz()ne-2 card, which bills him tagging with Kid Gangster against Hellfire X and Mike Diamond in the main event (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+    "note": "Billed tagging with Kid Gangster against Hellfire X and Mike Diamond in the Redz()ne-2 main event; that card's own results were never captured."
+   }
+  ],
+  "caption": "A former EPWA star pinned by Mr. X, with his own legs on the ropes, in the three-way for the CWF Anarchy Championship at SeVeN.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "m4dness-cwf",
+  "type": "character",
+  "name": "M4Dness",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01",
+    "last_seen": "2003-02",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "billed \"the first CWF Star ever\" on the Redz()ne-1 reunion show, where he calls out Kevin Gable for SeVeN, and the SeVeN show script itself, where he loses that match (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html; promotions/cwf/archive/seven-2003-02-01.html)"
+   }
+  ],
+  "caption": "Billed the first CWF star ever, called out the fed's newest for SeVeN under the tagline \"First Star versus the Last Star,\" and lost.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kevin-gable-cwf",
+  "type": "character",
+  "name": "Kevin Gable",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01",
+    "last_seen": "2003-02",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the Redz()ne-1 reunion show, where he answers M4Dness' open challenge, and the SeVeN show script, where he wins it with a top-rope atomic elbow (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html; promotions/cwf/archive/seven-2003-02-01.html)"
+   }
+  ],
+  "caption": "Billed \"the Last Star,\" beat M4Dness at SeVeN in a match built on that tagline.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-natural-mike-diamond-cwf",
+  "type": "character",
+  "name": "“The Natural” Mike Diamond",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-02",
+    "last_seen": "2003-02-11",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the Redz()ne-1 reunion show, billed \"former FIVE time XWF Champion,\" and the SeVeN show script, where he beats Paco with the Midas Touch for the CWF World Championship (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html; promotions/cwf/archive/seven-2003-02-01.html); the Redz()ne-2 card, which bills him tagging with Hellfire X against Kid Gangster and Hardcore Z (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+    "note": "Billed a five-time former XWF Champion, won the CWF's own first heavyweight title since 2001 at SeVeN with the Midas Touch, then was immediately confronted by a returning, unmasked Kid Gangster, who forced a signed contract for a title match against owner Hellfire X. The Redz()ne-2 card instead bills him tagging alongside Hellfire X against Kid Gangster and Hardcore Z; whether the promised singles match with Hellfire X ever happened is not attested anywhere in the surviving record."
+   }
+  ],
+  "caption": "Billed a five-time former XWF Champion, won the CWF's own first heavyweight title since 2001 at SeVeN with the Midas Touch, and was immediately confronted by an unmasked, returning Kid Gangster.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mike-diamond-giwf",
+     "diamond-napw"
+    ],
+    "note": "The mint guard flags normalized substring/exact matches against mike-diamond-giwf and diamond-napw. Nothing connects them: this Mike Diamond is billed on CWF's own SeVeN show script as a five-time former XWF Champion who wins the CWF World Championship in 2003, a different fed and era from either. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "paco-cwf",
+  "type": "character",
+  "name": "Paco",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-02",
+    "last_seen": "2003-02-11",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the Redz()ne-1 reunion show, billed a \"former XWF Champion\" and part of the new roster, and the SeVeN show script, where he loses the CWF World Championship match, tapping to the Midas Touch (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html; promotions/cwf/archive/seven-2003-02-01.html); the Redz()ne-2 card, which bills him against Ice in a Cold Championship Tournament quarter-final (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+    "note": "The Redz()ne-2 card bills him against Ice in a Cold Championship Tournament quarter-final; that card's own results were never captured."
+   }
+  ],
+  "caption": "A former XWF Champion who came up short against Mike Diamond for the CWF World Championship at SeVeN.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "chain-cwf",
+  "type": "character",
+  "name": "Chain",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "c. 1999",
+    "last_seen": "2003-02-11",
+    "role": "wrestler — one of the EPWA legends the fed's own History page names among Starter's post-EPWA recruits, resurfacing at the 2003 reunion and billed in a Cold Championship Tournament quarter-final",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own History page (promotions/cwf/archive/history.html); the Redz()ne-1 reunion show's own rafters stand-off (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html); the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html); the roster (promotions/cwf/archive/roster-2003-02.html)",
+    "note": "History names him among the EPWA wrestlers Starter recruited when that fed folded (c. 1999) who \"became CWF Legends.\" At the 2003 reunion he stalks Starter in the rafters as part of a six-way EPWA stand-off with Mr. X, Hardcore Z, Evil Santa and AJ; the Redz()ne-2 card bills him against Starter in a Cold Championship Tournament quarter-final whose own results were never captured."
+   }
+  ],
+  "caption": "Recruited into the CWF when the EPWA folded around 1999, and billed against Starter in a Cold Championship Tournament quarter-final at Redz()ne-2 whose own results never survived.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mike-chain"
+    ],
+    "note": "The mint guard flags a decorated-substring match against mike-chain-cswa (\"Chain\" contained in \"Mike Chain\"). Nothing connects them beyond the bare word: this Chain is named on CWF's own History page as an EPWA-era recruit. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "hollywood-chris-harris-cwf",
+  "type": "character",
+  "name": "'Hollywood' Chris Harris",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01-27",
+    "last_seen": "2003-02-01",
+    "role": "authority-figure and wrestler — Commissioner of the Corporate Wrestling Federation, debuting on the 2003 reunion show with a squash of an interloper and serving as special guest referee for the CWF World Championship match at SeVeN",
+    "roles": [
+     "authority-figure",
+     "wrestler",
+     "referee"
+    ],
+    "finisher": "'Hollywood Bash' (Double-underhook Jackknife Powerbomb)",
+    "entrance_music": {
+     "verbatim": "Saliva - Superstar II",
+     "title": "Superstar II",
+     "artist": "Saliva"
+    },
+    "source": "the In-Card Staff page (promotions/cwf/archive/in-card-staff.html); the Redz()ne-1 reunion show, where Hellfire X names him Commissioner and he squashes Rick Hassan with the \"Hollywood Bash\" (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html); the SeVeN show script, where he referees the CWF World Championship match (promotions/cwf/archive/seven-2003-02-01.html); the Top Ten, billed at #10 (promotions/cwf/archive/top-ten-2003-02-01.html)",
+    "note": "Named Commissioner as the reunion show's own third and final announcement, after two false alarms (Mike Payne, Mad Dawg) and an uninvited Rick Hassan crashed the reveal and was immediately squashed for it."
+   }
+  ],
+  "caption": "Named Commissioner on the 2003 reunion show's own third announcement, squashed the wrestler who tried to crash the reveal, and refereed the CWF's own first World Championship match a week later.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-hollywood"
+    ],
+    "note": "The mint guard flags a decorated-substring match against euwc-hollywood (bare \"Hollywood\"). This wrestler's own registered name is the full 'Hollywood' Chris Harris, a distinct EUWC entity's ring name coincidentally sharing the nickname. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "ice-cwf",
+  "type": "character",
+  "name": "Ice",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01-27",
+    "last_seen": "2003-02-11",
+    "role": "wrestler — billed 'XWF Hall of Famer, and Four time World Champion' at the 2003 reunion, later billed in a Cold Championship Tournament quarter-final against Paco",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the Redz()ne-1 reunion show, where Mary Frank introduces him as \"XWF Hall of Famer, and Four time World Champion\" (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html); the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+    "note": "Billed from the XWF side of the joint reunion rather than CWF's own original roster; former XWF Champion Mick needles him on camera for getting the bigger introduction."
+   }
+  ],
+  "caption": "Introduced at the 2003 reunion as an XWF Hall of Famer and four-time World Champion, then billed against Paco in a Cold Championship Tournament quarter-final at Redz()ne-2.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-ice",
+     "ice-faw",
+     "ice-iwf",
+     "ice-ngw",
+     "ice-obw",
+     "ice-tpg"
+    ],
+    "note": "The mint guard flags exact matches against six other Ice rows across other wings, cwfpro-ice among them — cwfpro is a DIFFERENT, unrelated CWF-initialed federation from this one (see the acronym-collision caution the review queue already carries for this fed). This Ice is billed on CWF's own reunion show as a former XWF Hall of Famer; nothing in the held record ties him to any of the six. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "kid-gangster-cwf",
+  "type": "character",
+  "name": "Kid Gangster",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "1998",
+    "last_seen": "2003-02-11",
+    "role": "authority-figure and wrestler — co-owner who helped build the original CWF per its own History; returned at SeVeN, unmasked from a mystery vignette, to attack the new World Champion and force a signed contract for a match with owner Hellfire X",
+    "roles": [
+     "authority-figure",
+     "wrestler"
+    ],
+    "finisher": "'Gangster Stunner'",
+    "source": "the fed's own History page (promotions/cwf/archive/history.html); the Redz()ne-1 reunion show, where a costumed impostor crashes the commissioner reveal and is chokeslammed by Hellfire X (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html); the SeVeN show script, where the real Kid Gangster unmasks after the World Championship match, attacks Mike Diamond, and reveals a signed contract for a title match against Hellfire X (promotions/cwf/archive/seven-2003-02-01.html); the Redz()ne-2 card, which bills him tagging with Hardcore Z against Hellfire X and Mike Diamond (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+    "note": "History names him CWF's co-owner in the original run, who left to start his own fed with money made \"wrestling in hundreds of federations,\" worked with Hellfire X across several later feds, and was explicitly not invited to the 2003 reunion over their \"on going\" feud — the costumed impostor at that show plays on the audience knowing this. His real return at SeVeN reveals a contract clause letting him book his own match, stipulations and all, against Hellfire X; whether that match ever happened is not attested anywhere in the surviving record."
+   }
+  ],
+  "caption": "Co-owner of the original CWF per its own History, mocked by a costumed impostor at the 2003 reunion, then returned for real at SeVeN to attack the new World Champion and sign himself a title match against Hellfire X.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mike-payne-cwf",
+  "type": "character",
+  "name": "Mike Payne",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01-27",
+    "last_seen": "2003-01-27",
+    "role": "wrestler — one of two false alarms (with Mad Dawg) before Hellfire X named the real Commissioner at the 2003 reunion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the Redz()ne-1 reunion show (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html); the roster (promotions/cwf/archive/roster-2003-02.html)",
+    "note": "Steps into the ring believing Hellfire X had promised him the Commissioner's job (\"You said that I could be the commissioner remember?\"); Hellfire clarifies he only said he'd think about it, and sends him and Mad Dawg out of the ring."
+   }
+  ],
+  "caption": "Climbed into the ring believing he'd been promised the Commissioner's job at the 2003 reunion, and was sent back out when Hellfire X said he'd only promised to think about it.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-payne",
+     "payne-xcwf"
+    ],
+    "note": "The mint guard flags decorated-aka substring matches against cwfpro-payne and payne-xcwf (both \"Payne\") — cwfpro is a DIFFERENT, unrelated CWF-initialed federation from this one (see the acronym-collision caution the review queue already carries for this fed), and xcwf is likewise a distinct wing. Nothing connects them: this Mike Payne is a one-scene cameo on CWF's own reunion show. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "sandman-cwf",
+  "type": "character",
+  "name": "Sandman",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-02",
+    "last_seen": "2003-02",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the roster (promotions/cwf/archive/roster-2003-02.html)",
+    "note": "Named on the fed's own roster; nothing else in the surviving record shows him wrestling, speaking or appearing on any card."
+   }
+  ],
+  "caption": "Named on the fed's own 2003 roster; nothing else in the surviving record shows him wrestling, speaking or appearing on any card.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-sandman-dream-warriors",
+     "jason-snowe-lcw-1997"
+    ],
+    "note": "The mint guard flags an exact match against sandman-giwf and an aka match against jason-snowe-lcw-1997 (billed Sandman). Nothing connects them: this Sandman is a bare roster listing with no other appearance anywhere in the CWF corpus. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "aj-cwf",
+  "type": "character",
+  "name": "AJ",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "c. 1999",
+    "last_seen": "2003-01-27",
+    "role": "wrestler — one of the EPWA-era wrestlers CWF's own History page names as a fed legend",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own History page (promotions/cwf/archive/history.html); the Redz()ne-1 reunion show, where he pays Hellfire X a brief visit before leaving (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html)",
+    "note": "History's own list of EPWA-to-CWF names — \"AJ, Evil Santa, Chain Mr. X, as well as others\" — is the only source for who this is; his one line at the reunion (\"I can't stay, but I said I would make it\") is the whole of his surviving 2003 record."
+   }
+  ],
+  "caption": "Named among the EPWA-era wrestlers CWF's own History page calls fed legends, and paid Hellfire X one brief goodbye visit at the 2003 reunion before leaving.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "aj-styles-tpg",
+     "aj-styles-uwf-uwow",
+     "aj-donavon-ewo",
+     "aj-epic-ewo",
+     "aj-honold-cswa",
+     "aj-palmer",
+     "aj-trinidad"
+    ],
+    "note": "The mint guard flags decorated-substring matches against numerous other 'AJ ___'-named characters across other wings. Nothing connects them: this AJ is named only by a bare first name on CWF's own History page and reunion-show cameo, with no surname or other identifying detail anywhere in the held record. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "evil-santa-cwf",
+  "type": "character",
+  "name": "Evil Santa",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "c. 1999",
+    "last_seen": "2003-01-27",
+    "role": "wrestler — one of the EPWA-era wrestlers CWF's own History page names as a fed legend",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own History page (promotions/cwf/archive/history.html); the Redz()ne-1 reunion show's own EPWA rafters stand-off (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html)",
+    "note": "History's own list of EPWA-to-CWF names — \"AJ, Evil Santa, Chain Mr. X, as well as others\" — is the only source for who this is; at the reunion he appears alongside Hardcore Z in the rafters stand-off and shakes his head rather than joining the fight."
+   }
+  ],
+  "caption": "Named among the EPWA-era wrestlers CWF's own History page calls fed legends, and shook his head rather than joining the rafters stand-off at the 2003 reunion.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mark-rhodes-cwf",
+  "type": "character",
+  "name": "Mark Rhodes",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01-27",
+    "last_seen": "2003-01-27",
+    "role": "authority-figure — General Manager of Redz()ne, named live on the 2003 reunion show; formerly the XWF's own owner",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "source": "the In-Card Staff page (promotions/cwf/archive/in-card-staff.html); the Redz()ne-1 reunion show, where Hellfire X names him General Manager on air (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html)",
+    "note": "Billed the former XWF Owner; his own son Tommy Rhodes is named among the reunion dinner's food-fight cast, not otherwise structured here."
+   }
+  ],
+  "caption": "Named General Manager of Redz()ne live on the 2003 reunion show, having previously owned the XWF.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dax-cwf",
+  "type": "character",
+  "name": "Dax",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "1998",
+    "last_seen": "2003-04-15",
+    "role": "authority-figure — website builder and later co-owner across the fed's original run, CEO of a later fed called HATE, restarted CWF with Hellfire X in January 2003 before leaving within a week, then returned in April 2003 to run the fed's own management-applications drive after Hellfire X's own departure",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own History page, which also names him Rattlesnake/Justin-X-Treme (promotions/cwf/archive/history.html); the Redz()ne-1 reunion show, where his own invitation is revoked at the door (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html); the 7 and 15 April 2003 headlines, both bylined \"By Dax\" (promotions/cwf/archive/headlines-2003-04-07.html; promotions/cwf/archive/headlines-2003-04-15.html)",
+    "note": "History's own account has him building the original CWF's website, leaving with Hellfire in 2001, running HATE as its absent owner's CEO, and restarting CWF with Hellfire X in January 2003 before leaving \"a week after opening\" over \"unfinished business\" — yet the reunion show (27 January) turns him away at the door, and he is the one signing the April 2003 headlines announcing Hellfire X's own departure and the search for new management. The record does not reconcile the two."
+   }
+  ],
+  "caption": "Built the original CWF's own website under the name Rattlesnake, ran a later fed called HATE, restarted CWF with Hellfire X in January 2003, and signed the headlines announcing Hellfire X's own departure that April — despite History's own account of him leaving within a week of the restart.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dax-low"
+    ],
+    "note": "The mint guard flags an exact match against dax-low. Nothing connects them beyond the shared ring name; this Dax is CWF's own, attested across four of its own documents. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "mary-frank-cwf",
+  "type": "character",
+  "name": "Mary Frank",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01-27",
+    "last_seen": "2003-02-01",
+    "role": "ring announcer — billed from the XWF side of the reunion, announcing every match and segment across both surviving shows",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "source": "the In-Card Staff page (promotions/cwf/archive/in-card-staff.html); the Redz()ne-1 reunion show and the SeVeN show script, where she announces every entrant (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html; promotions/cwf/archive/seven-2003-02-01.html)",
+    "note": "Billed \"Former XWF Ring announcer\" at the reunion; the In-Card Staff page lists her plainly as Ring Announcer for the restarted CWF."
+   }
+  ],
+  "caption": "Announced every match and segment across both of CWF's surviving 2003 shows, having crossed over from the XWF's own ring-announcing chair.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "frank-uwf"
+    ],
+    "note": "The mint guard flags a decorated-aka substring match against frank-uwf (\"Frank\" contained in \"Mary Frank\"). Nothing connects them: this Mary Frank is billed on CWF's own reunion show as a former XWF Ring Announcer. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "john-jameson-cwf",
+  "type": "character",
+  "name": "John Jameson",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01-27",
+    "last_seen": "2003-02-01",
+    "role": "commentator (heel) — former XWF announcer, calling both surviving 2003 shows alongside Joey Harrington",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "the In-Card Staff page (promotions/cwf/archive/in-card-staff.html); the Redz()ne-1 reunion show and the SeVeN show script (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html; promotions/cwf/archive/seven-2003-02-01.html)",
+    "note": "Billed \"Former Xtreme Wrestling Federation announcers\" alongside Joey Harrington at the reunion, reunited on commentary for the CWF's own restart."
+   }
+  ],
+  "caption": "Reunited with his old XWF broadcast partner Joey Harrington to call both of CWF's surviving 2003 shows from the heel chair.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "joey-harrington-cwf",
+  "type": "character",
+  "name": "Joey Harrington",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-01-27",
+    "last_seen": "2003-02-01",
+    "role": "commentator (face) — former XWF announcer, calling both surviving 2003 shows alongside John Jameson",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "the In-Card Staff page (promotions/cwf/archive/in-card-staff.html); the Redz()ne-1 reunion show and the SeVeN show script (promotions/cwf/archive/redzone-1-reunion-2003-01-27.html; promotions/cwf/archive/seven-2003-02-01.html)",
+    "note": "Shoved against the barricade by a returning Y2K midway through the reunion show, in an angle that plays out entirely around him — Y2K is a single-document cameo with no other appearance in the held record and is not separately structured here."
+   }
+  ],
+  "caption": "Called both of CWF's surviving 2003 shows from the face chair, and was shoved into the barricade by a returning Y2K for his trouble.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "louis-dreamer-cwf",
+  "type": "character",
+  "name": "Louis Dreamer",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-02",
+    "last_seen": "2003-02",
+    "role": "interviewer (Main Interviewer) — named on the fed's own in-card staff listing; no interview segment he conducts survives in either captured show",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "source": "the In-Card Staff page (promotions/cwf/archive/in-card-staff.html)",
+    "note": "Named Main Interviewer; nothing in the surviving record shows him conducting an interview."
+   }
+  ],
+  "caption": "Named the fed's own Main Interviewer on its in-card staff listing; no interview he conducts survives in either captured show.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "michael-smith-cwf",
+  "type": "character",
+  "name": "Michael Smith",
+  "tenures": [
+   {
+    "promotion": "cwf",
+    "first_seen": "2003-02",
+    "last_seen": "2003-02",
+    "role": "interviewer — named on the fed's own in-card staff listing; no interview segment he conducts survives in either captured show",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "source": "the In-Card Staff page (promotions/cwf/archive/in-card-staff.html)",
+    "note": "Named Interviewer; nothing in the surviving record shows him conducting an interview."
+   }
+  ],
+  "caption": "Named the fed's own Interviewer on its in-card staff listing; no interview he conducts survives in either captured show.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "michael-smith-cswa"
+    ],
+    "note": "The mint guard flags an exact match against michael-smith-cswa. Nothing connects them beyond the shared name; this Michael Smith is named only on CWF's own in-card staff listing as Interviewer, with no appearance anywhere else in the held record. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ }
+]

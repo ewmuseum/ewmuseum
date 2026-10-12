@@ -1,0 +1,601 @@
+[
+ {
+  "id": "brothers-grimm",
+  "type": "unit",
+  "name": "Brothers Grimm",
+  "members": [
+   {
+    "name": "Grimmace"
+   },
+   {
+    "name": "Grimmley"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "tag team",
+    "source": "promotions/upw/archive/bio-brothers-grimm.html (roster bio card, a singles-application template filled out per member); promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html",
+    "grade": "primary-source",
+    "note": "Grimmace: 6'6\", 345 lbs, Peoria, IL, tweener. Grimmley: 6'3\", 240 lbs, Peoria, IL, tweener. The card's own text compares them to \"Big Show meets Harris Twins.\" Lost to Soldiers of the Sun on UPW's own debut show (20 September 2016) and to the Hype two weeks later (4 October 2016) — the only two matches the surviving record holds for them."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (jobbertagapp002.html) and its own Rampage broadcasts (June 2019 to January 2020).",
+    "note": "Merged from the retired scw-southwestern-2019 row on desk ruling D103; the same billing as their UPW bio card."
+   }
+  ],
+  "caption": "The Brothers Grimm, Grimmace and Grimmley, wrestled UPW as basic, oversized match workers with little gimmick beyond their own size.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "user-attested",
+    "with": [],
+    "note": "One team across UPW and SCW, merged under desk ruling D103 (\"yes, merge them\"), a delegated verdict rather than a bar clearance — no text on either side names the other federation. SCW's own application (jobbertagapp002.html) is UPW's own bio card word for word: Grimmace (6'6\", 345 lbs) and Grimmley (6'3\", 240 lbs) of Peoria, \"Big Show meets Harris Twins\"."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brothers-grimm-pwa-pioneer"
+    ],
+    "note": "PWA's own Brothers Grimm were Sirus Moran and Grifter — different members, no evidence connecting the two beyond the shared team name; recorded distinct per the no-auto-merge rule (folded in from the retired SCW record's own identity note, whose row this merge retires)."
+   }
+  ]
+ },
+ {
+  "id": "thunder-and-lightning-upw",
+  "type": "unit",
+  "name": "Thunder & Lightning",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "thunder-and-lightning"
+    ],
+    "note": "The registry's own thunder-and-lightning is UWF's Chris Thunder and Max Lightning, a 2002 World Tag Team Championship-winning team named identically to this UPW pairing but individually named Thunder (South Bend, IN) and Lightning (Toledo, OH) on UPW's own bio card, with no evidence connecting the two beyond the shared team name; recorded distinct per the no-auto-merge rule (aka-collision mint guard)."
+   },
+   {
+    "assertion": "merged",
+    "grade": "user-attested",
+    "with": [],
+    "note": "One team across UPW and SCW, merged under desk ruling D103 (\"yes, merge them\"), a delegated verdict rather than a bar clearance — no text names the UPW run. SCW's own application (jobbertagapp001.html) is UPW's own bio card with the federation's name changed: Thunder (South Bend, IN) and Lightning (Toledo, OH), the tandem \"All Clear\". UPW's own card for 25 April 2017, never played, booked them against Turner & Hooch, and SCW's own card for 11 February 2020 books the same match."
+   }
+  ],
+  "members": [
+   {
+    "name": "Thunder"
+   },
+   {
+    "name": "Lightning"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "tag team",
+    "source": "promotions/upw/archive/bio-thunder-and-lightning.html (roster bio card)",
+    "grade": "primary-source",
+    "note": "Thunder: 6'0\", 270 lbs, South Bend, IN, face, a quiet, intelligent partner working toward a master's degree. Lightning: 6'4\", 230 lbs, Toledo, OH, face, an adventure-seeking daredevil. Finisher \"All Clear\" (a stalling suplex/top-rope crossbody double team)."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2019",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (jobbertagapp001.html) and its own Rampage broadcasts of 2019; billed against Turner & Hooch on its own 11 February 2020 card.",
+    "note": "Merged from the retired scw-southwestern-2019 row on desk ruling D103; billed only — no held SCW broadcast stages the team beyond the schedule listing, the Turner & Hooch pairing UPW's own unplayed 25 April 2017 card had booked."
+   }
+  ],
+  "caption": "UPW's own Thunder & Lightning paired a quiet, grounded partner against a thrill-seeking daredevil, finishing opponents off with the tandem \"All Clear.\"",
+  "caption_asof": {
+   "written": "2026-08-26",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "turner-and-hooch",
+  "type": "unit",
+  "name": "Turner & Hooch",
+  "members": [
+   {
+    "name": "Michael Turner",
+    "character_id": "michael-turner-upw"
+   },
+   {
+    "name": "Isaac \"Hooch\" Johnson",
+    "character_id": "isaac-hooch-johnson"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "tag team",
+    "source": "promotions/upw/archive/bio-turner-and-hooch.html (roster bio card); promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2017-01-17.html",
+    "grade": "primary-source",
+    "note": "Michael Turner: 6'6\", 276 lbs, Atlanta, GA, face — a former University of Georgia running back who trained at a Steel Cage Wrestling school alongside childhood friend Isaac \"Hooch\" Johnson before UPW signed them as a team. Turned down the Warriors' own recruitment pitch (4 October 2016) and lost the Down South Connection's own in-ring debut (17 January 2017); Johnson also wrestled once without his partner, losing to Derek Rage (29 December 2016)."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2020",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (openertagapp04.html) and its own card for 11 February 2020 (schedule.html), which bills the team's SCW debut.",
+    "note": "Billed only: no held SCW broadcast stages the team. The 11 February 2020 card reads \"In a tag team debut, Michael Turner and Isaac \\\"Hooch\\\" Johnson make their entrance into SCW's tag team division with a battle against Thunder & Lightening!\""
+   }
+  ],
+  "caption": "Michael Turner and Isaac \"Hooch\" Johnson wrestled UPW as Turner & Hooch, a tag team built on a friendship that began on a Georgia high school football field.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "One team across UPW and SCW. SCW's own application (openertagapp04.html) is UPW's own bio card word for word, both members' vitals and histories included, and still narrates the UPW signing (\"A little over a year later the UPW called Micheal to come up ... UPW gladly obligated and accepted the two as a tag team\"). SCW's own card for 11 February 2020 books them against Thunder & Lightning in \"a tag team debut\" for \"the journeyman duo\", the same match UPW's own card for 25 April 2017 had booked and never played."
+   }
+  ]
+ },
+ {
+  "id": "the-warriors-upw",
+  "type": "unit",
+  "name": "The Warriors",
+  "members": [
+   {
+    "name": "\"The Angel\" DeAwn Carter",
+    "character_id": "deawn-carter-upw"
+   },
+   {
+    "name": "\"The Hound\" Kel Robertson",
+    "character_id": "kel-robertson-upw"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "tag team — UPW World Tag Team Champions (one reign)",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/world-tag-team-title-history.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html",
+    "grade": "primary-source",
+    "note": "Managed by Sammy Sharifi. Won UPW's own first World Tag Team Championship from the Hype on the debut Showdown (9/20/2016), casting the win as a stand against racism in wrestling. Lost the belts to Soldiers of the Sun at Survival on 5 March 2017. Retained the belts by disqualification when a still-defected Titan Juarez ran in against the Dominion (17 January 2017), and again in a non-title match when the Dominion's own interference against Juarez drew a DQ the other way (18 February 2017)."
+   }
+  ],
+  "caption": "DeAwn Carter and Kel Robertson, the Warriors, became UPW's own first World Tag Team Champions on the promotion's debut show and cast their reign as a stand against the business's own bigotry, holding the belts until Survival.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "boulevard-warriors-cswa",
+     "indian-warriors-cswa",
+     "the-dream-warriors"
+    ],
+    "note": "\"The Warriors\" is a common enough tag-team label that CSWA alone fields two other teams sharing the word (Boulevard Warriors, Indian Warriors) and a third registered team (the-dream-warriors) shares it too — none in the same fed or era as UPW's own Warriors (DeAwn Carter and Kel Robertson), and nothing in either record connects them; recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "the-hype-upw",
+  "type": "unit",
+  "name": "The Hype",
+  "members": [
+   {
+    "name": "\"Downtown\" Danny Nash",
+    "character_id": "danny-nash-upw"
+   },
+   {
+    "name": "CJ \"Mackie\" Messer",
+    "character_id": "cj-messer-upw"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "role": "tag team",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-12-13.html",
+    "grade": "primary-source",
+    "note": "Challenged the Warriors for UPW's own first World Tag Team Championship on the promotion's debut show (9/20/2016) and lost, two falls to one. Beat the Brothers Grimm on 4 October 2016. A scheduled 13 December 2016 match against the O'Malley Brothers was scrapped when the Dominion ambushed the Hype with chairs beforehand."
+   }
+  ],
+  "caption": "The Hype, Danny Nash and Messer, challenged for UPW's own first World Tag Team Championship on the promotion's debut show and came up short.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "soldiers-of-the-sun",
+  "type": "unit",
+  "name": "Soldiers of the Sun",
+  "members": [
+   {
+    "name": "Ricky Courage",
+    "character_id": "ricky-courage"
+   },
+   {
+    "name": "STRIKER Kato",
+    "character_id": "striker-kato-upw"
+   },
+   {
+    "name": "Titan Juarez",
+    "character_id": "titan-juarez-upw"
+   }
+  ],
+  "unit_kind": "trio",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "tag team/trio — UPW World Tag Team Champions (one reign)",
+    "source": "promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/world-tag-team-title-history.html; promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "Introduced on UPW's own broadcast as the number-one contenders for the World Tag Team Championship. Won the belts from the Warriors at Survival on 5 March 2017, in a Fatal Four-Way also involving the Dominion and the O'Malley Brothers, and held them through UPW's own final months. Won their own in-ring UPW debut over the Brothers Grimm (20 September 2016) and beat Turner & Hooch (4 October 2016). Weathered Titan Juarez's own mid-season defection to the Warriors (29 December 2016 through 17 January 2017) before he rejoined for good, and retained the tag titles against the Down South Connection on UPW's own final broadcast (11 April 2017)."
+   }
+  ],
+  "caption": "Soldiers of the Sun — Ricky Courage, STRIKER Kato and Titan Juarez — won UPW's own World Tag Team Championship at Survival in a fatal four-way and held the belts through the promotion's own final months.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-dominion-upw",
+  "type": "unit",
+  "name": "The Dominion",
+  "members": [
+   {
+    "name": "\"Legionarius\" Antonio De Luca",
+    "character_id": "antonio-de-luca"
+   },
+   {
+    "name": "\"The American Nightmare\" Tyson Bishop",
+    "character_id": "tyson-bishop-upw"
+   },
+   {
+    "name": "\"Adonis\" Lance Donovan",
+    "character_id": "lance-donovan"
+   }
+  ],
+  "unit_kind": "stable",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "stable",
+    "source": "promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/survival-preview-show.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "primary-source",
+    "note": "Interfered at ringside throughout Windham Brody's Television Title win over Brandon Franklin on 11 April 2017, working over Franklin's shoulder on De Luca's own instruction. Formed on UPW's own second broadcast (4 October 2016) when Donovan and Bishop ran in to help De Luca beat Liam Donegal; won their own in-ring debut over the Hype the same night as it aired (8 November 2016). Ran a season-long program against the O'Malley Brothers, ambushed the Hype and a six-man tag involving Caleb Foley, and interfered in De Luca's own North American Championship tournament win (18 February 2017) before helping Windham Brody take the Television Championship (11 April 2017) and ambushing Ricky Courage on the entrance ramp the same night."
+   }
+  ],
+  "caption": "The Dominion — Antonio De Luca, Tyson Bishop and Lance Donovan — ran together as a stable through UPW's own final year, De Luca's own North American Championship reign chief among their spoils.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "minion-xcwf"
+    ],
+    "note": "XCWF's own minion-xcwf shares no name beyond a coincidental normalized-substring match (\"The Dominion\" containing \"Minion\") with this UPW stable — different fed, different era, no evidence connecting the two; recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "the-omalley-brothers-upw",
+  "type": "unit",
+  "name": "The O'Malley Brothers",
+  "members": [
+   {
+    "name": "Marcus O'Malley",
+    "character_id": "marcus-omalley"
+   },
+   {
+    "name": "Anthony O'Malley",
+    "character_id": "anthony-omalley"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "tag team",
+    "source": "promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/world-tag-team-title-history.html",
+    "grade": "primary-source",
+    "note": "An Irish/Italian-gimmicked tag team whose UPW debut against the Hype was scrapped three separate times by Dominion interference. Earned a World Tag Team Championship shot at Survival (5 March 2017) in the same Fatal Four-Way that crowned Soldiers of the Sun, alongside the Warriors and the Dominion, but did not win the belts."
+   }
+  ],
+  "caption": "The O'Malley Brothers spent UPW's own back half feuding with the Dominion, their in-ring debut scrapped three times before a Survival title shot came up empty.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-down-south-connection-upw",
+  "type": "unit",
+  "name": "Down South Connection",
+  "members": [
+   {
+    "name": "\"King of the South\" Kenneth Morlock",
+    "character_id": "kenneth-morlock-upw"
+   },
+   {
+    "name": "\"The Expert\" Matt Allen",
+    "character_id": "matt-allen-upw"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "tag team",
+    "source": "promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/roster.html",
+    "grade": "primary-source",
+    "note": "Debuted with a promo trashing UPW's own tag division (29 December 2016), then won their in-ring debut over Michael Turner and Isaac \"Hooch\" Johnson with a chair-assisted finish (17 January 2017). Lost to champions Soldiers of the Sun on UPW's own final broadcast (11 April 2017)."
+   }
+  ],
+  "caption": "The Down South Connection talked up UPW's own tag division before backing it up in their debut win, though a title shot against Soldiers of the Sun came up short on the promotion's final show.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "connection"
+    ],
+    "note": "The registry's own aka-collision guard reads \"Connection\" as a normalized substring match against a registered entity literally named \"Connection\"; different fed, nothing connecting the two beyond the shared word. Recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "the-columbus-crushers-upw",
+  "type": "unit",
+  "name": "Columbus Crushers",
+  "members": [
+   {
+    "name": "Lenny Masher",
+    "character_id": "lenny-masher"
+   },
+   {
+    "name": "Doug Trasher",
+    "character_id": "doug-trasher"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "role": "tag team",
+    "source": "promotions/upw/archive/showdown-2016-12-13.html",
+    "grade": "primary-source",
+    "note": "Lost the one match the surviving record holds for them, a special-referee tag against Soldiers of the Sun worked by a comically biased Sammy Sharifi (13 December 2016), despite the referee's own favoritism."
+   }
+  ],
+  "caption": "The Columbus Crushers lost the one UPW match the surviving record holds for them, despite a referee stacked in their favor.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "crush-ucwf",
+     "crush-wicew",
+     "crusher-ucwf",
+     "the-crusher-napw"
+    ],
+    "note": "The registry's own aka-collision guard reads \"Crushers\" as a normalized substring match against four unrelated Crush/Crusher-named wrestlers across UCWF, WICEW and NAPW; none is a tag team, none shares a fed or era with this UPW jobber duo, and nothing connects them beyond the shared word. Recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "ambassadors-of-napalm-upw",
+  "type": "unit",
+  "name": "The Ambassadors of Napalm",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Sadistic Insanity\" Damian Payne",
+    "character_id": "damian-payne-upw"
+   },
+   {
+    "name": "\"The Human Heart Attack\" Johnny Psychotic",
+    "character_id": "johnny-psychotic-upw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "source": "promotions/upw/archive/bio-ambassadors-of-napalm.html (roster bio card, a tag team application)",
+    "grade": "primary-source",
+    "note": "The card's team finisher is Hang 'Em High, a modified 3D, and the team enters to Cypress Hill's \"Checkmate (Hang 'Em High Remix)\" with Tiberius Nixon."
+   }
+  ],
+  "caption": "Damian Payne and Johnny Psychotic, accompanied by Tiberius Nixon, enter to Cypress Hill and finish with Hang 'Em High, a modified 3D.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-gentrifiers-upw",
+  "type": "unit",
+  "name": "The Gentrifiers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Grey Bear\" Greg Johnson",
+    "character_id": "greg-johnson-upw"
+   },
+   {
+    "name": "\"Grizzly\" Pete Olsen",
+    "character_id": "pete-olsen-upw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "source": "promotions/upw/archive/bio-the-gentrifiers.html (roster bio card, a tag team application)",
+    "grade": "primary-source",
+    "note": "A combined 523 pounds; the team finisher is Urban Renewal, a spiked fishermanbuster. Billed against Turner & Hooch on the 1 October 2018 card."
+   }
+  ],
+  "caption": "Two Chicago warehouse men in green gear, Greg Johnson and Pete Olsen, finish with Urban Renewal, a spiked fishermanbuster.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

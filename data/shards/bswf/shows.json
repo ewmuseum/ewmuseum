@@ -1,0 +1,133 @@
+[
+  {
+    "id": "bswf-super-september-1999",
+    "type": "show",
+    "name": "Super September",
+    "promotion": "bswf",
+    "page": "/promotions/bswf/archive/super-september.html",
+    "collection": "0103",
+    "date": {
+      "date": "1999-09",
+      "precision": "circa",
+      "source": "No exact date survives on the document itself; the PPV's own name and the fed's own dated news column (17/09/99, 29/09/99) place it in September 1999."
+    },
+    "appearances": [
+      { "who": "debo-bswf", "kind": "match" },
+      { "who": "proprietor-of-pain-bswf", "kind": "match" },
+      { "who": "mc-new-york-bswf", "kind": "match" },
+      { "who": "nick-hart-bswf", "kind": "match" },
+      { "who": "ceesalo-bswf", "kind": "match" },
+      { "who": "the-great-mysterious-bswf", "kind": "match" },
+      { "who": "dugaul-bswf", "kind": "match" },
+      { "who": "blakk-bswf", "kind": "match" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["debo-bswf"], ["proprietor-of-pain-bswf"]],
+        "winner_side": 0
+      },
+      {
+        "order": 2,
+        "sides": [["mc-new-york-bswf"], ["nick-hart-bswf"]],
+        "winner_side": 1
+      },
+      {
+        "order": 3,
+        "sides": [["ceesalo-bswf"], ["the-great-mysterious-bswf"]],
+        "winner_side": 0
+      },
+      {
+        "order": 4,
+        "sides": [["dugaul-bswf"], ["blakk-bswf"]],
+        "winner_side": 0
+      },
+      {
+        "order": 5,
+        "sides": [["debo-bswf"], ["nick-hart-bswf"]],
+        "winner_side": 1,
+        "stipulation": "Tournament Semifinal"
+      },
+      {
+        "order": 6,
+        "sides": [["dugaul-bswf"], ["ceesalo-bswf"]],
+        "winner_side": 1,
+        "stipulation": "Tournament Semifinal"
+      },
+      {
+        "order": 7,
+        "sides": [["ceesalo-bswf"], ["nick-hart-bswf"]],
+        "winner_side": 0,
+        "stipulation": "World Title Match"
+      }
+    ],
+    "notes": "A six-man tournament to decide the BSWF World Championship. First round: Debo defeats P.O.P.; Nick Hart defeats MC New York; Ceesalo defeats the Great Mysterious; DuGaul defeats Blakk. Semifinals: Nick Hart defeats Debo; Ceesalo defeats DuGaul. Final: Ceesalo defeats Nick Hart (with Debo interference against Hart) to become BSWF World Champion."
+  },
+  {
+    "id": "bswf-monday-mayhem",
+    "type": "show",
+    "name": "Monday Mayhem",
+    "promotion": "bswf",
+    "page": "/promotions/bswf/archive/monday-mayhem.html",
+    "collection": "0103",
+    "date": {
+      "date": "1999",
+      "precision": "circa",
+      "source": "No exact date survives on the document itself. Its own intro places it before an approaching \"new year\" — \"after the new year thursday Night thumpfest will be back up in full effect\" — read against the fed's own dated news column running through 29 September 1999, this places the broadcast in the final months of 1999. Genuinely uncertain: the fed's own \"the new year\" framing could describe a stretch that carried past the turn of the calendar year, which is when the fed's own held Thursday Night Thump-Fest broadcast (below) most likely falls."
+    },
+    "appearances": [
+      { "who": "nick-hart-bswf", "kind": "angle", "source": "Backstage vignette: shown hobbling on a crutch with his leg in a cast, shoved to the ground by Mi$ta and the (unnamed) Made Men Body Guards." },
+      { "who": "mista-bswf", "kind": "angle", "source": "Shoves the hobbled Nick Hart to the ground backstage alongside the Made Men Body Guards; ambushed at ringside by Debo ahead of the main event and chokeslammed to the concrete." },
+      { "who": "debo-bswf", "kind": "angle", "source": "Ambushes Mi$ta and the (unnamed) Made Men Body Guards at ringside ahead of the main event — chair shots and a chokeslam, broken up by security." },
+      { "who": "the-clark-bswf", "kind": "match" },
+      { "who": "merchandise-bswf", "kind": "match" },
+      { "who": "wrestletech-bswf", "kind": "angle", "source": "Interferes in the World Title match on Merchandi$e's behalf — a \"Clark Bottom\" of his own on The Clark, then the \"TECHsas maple leaf\" submission hold, before being fired from the ring by The Clark. The turn lets Merchandi$e regain control and win the title." }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["the-clark-bswf"], ["merchandise-bswf"]],
+        "winner_side": 1,
+        "stipulation": "World Title Match"
+      }
+    ],
+    "notes": "The BSWF World Championship match is the card's only formal, bell-to-bell contest. It is bracketed by two backstage/ringside angles: Nick Hart, wrestling hurt, is shoved down by Mi$ta and the Made Men Body Guards; Debo then ambushes the same trio ahead of the main event. Wrestletech's own run-in decides the title match itself."
+  },
+  {
+    "id": "bswf-thursday-night-thump-fest",
+    "type": "show",
+    "name": "Thursday Night Thump-Fest",
+    "promotion": "bswf",
+    "page": "/promotions/bswf/archive/thursday-night-thump.html",
+    "collection": "0103",
+    "date": {
+      "date": "2000",
+      "precision": "circa",
+      "source": "No exact date survives on the document itself. The fed's own Monday Mayhem broadcast (above) frames this show's own return as happening \"after the new year,\" and by this document Merchandi$e's World Title reign (won at Monday Mayhem) is already underway — read together, this places the broadcast in the very early weeks of whatever year that \"new year\" line meant. Genuinely uncertain: the fed's own \"new year\" framing could as easily have been aspirational chatter never literalized, in which case this show sits later in the same 1999 stretch as Monday Mayhem instead."
+    },
+    "appearances": [
+      { "who": "merchandise-bswf", "kind": "match" },
+      { "who": "mista-bswf", "kind": "match" },
+      { "who": "kadafi-bswf", "kind": "match" },
+      { "who": "scarface-bswf", "kind": "match" },
+      { "who": "ceesalo-bswf", "kind": "angle", "source": "Runs in with Castro to clear house once the Tag Title match dissolves into a Made Men beatdown." },
+      { "who": "castro-bswf", "kind": "angle", "source": "Runs in with Ceesalo to clear house once the Tag Title match dissolves into a Made Men beatdown." },
+      { "who": "the-clark-bswf", "kind": "match" },
+      { "who": "nick-hart-bswf", "kind": "angle", "source": "A backstage cameo (\"seen limpin to his dressing room\"), still wrestling hurt; later crutch-drills Mi$ta during the closing brawl to help Debo save The Clark." },
+      { "who": "debo-bswf", "kind": "angle", "source": "Runs in during the closing brawl, eliminates both Made Men Body Guards over the top rope, chokeslams Merchandi$e, then carries off the physical BSWF World Championship belt — \"if he wanted his title back he knew where to find him.\"" },
+      { "who": "made-men-bswf", "kind": "match" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["made-men-bswf", "merchandise-bswf", "mista-bswf"], ["kadafi-bswf", "scarface-bswf"]],
+        "stipulation": "BSWF Tag Title Match"
+      },
+      {
+        "order": 2,
+        "sides": [["the-clark-bswf"], ["made-men-bswf", "merchandise-bswf", "mista-bswf"]]
+      }
+    ],
+    "notes": "Two matches, neither one formally decided in the fed's own text. In the Tag Title match, Kadafi pedigrees Mi$ta and covers him, but the Made Men Body Guards pull the referee from the ring before any count; the Body Guards, Scarface and Merchandi$e brawl in turn until Ceesalo and Castro run down and \"cleared house all around\" — the fed's own text ends there without declaring a winner (the already-held Rankings page still lists the Made Men as champions afterward, corroborating but not itself resolving this match). The second billed match, \"The Clark and ???? vs. The Made Men,\" never gets its own promised mystery partner — Merchandi$e instead raises Clark's own hand before turning on him, and the match becomes a Made Men/Body Guards beatdown of Clark until Debo and Nick Hart run in. It ends the same way: no bell, no pinfall, no formal decision, only Debo's own closing angle with the physical World Title belt."
+  }
+]

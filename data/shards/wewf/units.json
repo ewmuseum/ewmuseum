@@ -1,0 +1,2750 @@
+[
+  {
+    "id": "the-leaping-lords-wewf",
+    "type": "unit",
+    "name": "The Leaping Lords",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "The Lethal Lemming and the Feral Frog, managed by Cliff Leapov; both members took their own Continental titles in turn 6, the same turn the team regained the Tag Team Championship before losing it to the Maniacs at the league's own first Supercard.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 5,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "The Lethal Lemming",
+        "character_id": "the-lethal-lemming-wewf"
+      },
+      {
+        "name": "The Feral Frog",
+        "character_id": "the-feral-frog-wewf"
+      }
+    ]
+  },
+  {
+    "id": "fear-wewf",
+    "type": "unit",
+    "name": "FEAR",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "The Menace and Il Duce', ranked #2 in the WeWF's own turn-6 tag standings (5-3).",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 6,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "The Menace",
+        "character_id": "the-menace-wewf"
+      },
+      {
+        "name": "Il Duce'",
+        "character_id": "il-duce-wewf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "cwfpro-fear"
+        ],
+        "note": "A generic gimmick name (\"FEAR\") reused independently across unrelated feds — no document ties this WeWF unit to cwfpro-fear. Filed distinct under the no-merge default."
+      }
+    ]
+  },
+  {
+    "id": "hans-and-franz-wewf",
+    "type": "unit",
+    "name": "Hans and Franz",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "Hans and Franz, ranked #3 in the turn-6 tag standings (3-1).",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Hans",
+        "character_id": "hans-wewf"
+      },
+      {
+        "name": "Franz",
+        "character_id": "franz-wewf"
+      }
+    ]
+  },
+  {
+    "id": "alpha-and-omega-wewf",
+    "type": "unit",
+    "name": "Alpha and Omega",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "Ranked fourth in the turn-6 tag standings and still active in April 1991; the ranking tables of the later reports name the two men as Alpha and Omega and nothing more.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 6,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Alpha",
+        "character_id": "alpha-wewf"
+      },
+      {
+        "name": "Omega",
+        "character_id": "omega-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-newfie-bulletts-wewf",
+    "type": "unit",
+    "name": "The Newfie Bulletts",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "Joe “Brick” Wall and the Swiler, ranked #5 in the turn-6 tag standings (1-0).",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Joe \"Brick\" Wall",
+        "character_id": "joe-brick-wall-wewf"
+      },
+      {
+        "name": "The Swiler",
+        "character_id": "the-swiler-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-northern-lights-wewf",
+    "type": "unit",
+    "name": "The Northern Lights",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "Angus Campbell and Johann Svenson, ranked #6 in the turn-6 tag standings (1-0).",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Angus Campbell",
+        "character_id": "angus-the-caber-campbell-wewf"
+      },
+      {
+        "name": "Johann Svenson",
+        "character_id": "johann-great-dane-svenson-wewf"
+      }
+    ]
+  },
+  {
+    "id": "fnf-wewf",
+    "type": "unit",
+    "name": "FnF",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "Prometheus Pomegranate and Mugambo Squid, ranked #7 in the turn-6 tag standings (1-1).",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Prometheus Pomegranate",
+        "character_id": "prometheus-pomegranate-wewf"
+      },
+      {
+        "name": "Mugambo Squid",
+        "character_id": "mugambo-squid-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-maniacs-wewf",
+    "type": "unit",
+    "name": "The Maniacs",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      },
+      {
+        "promotion": "summit-of-e-wrestling",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "role": "a tag team in the first Summit's Road Warrior's Cup",
+        "source": "the Summit of E-Wrestling's own broadcasts, served under that wing (promotions/summit-of-e-wrestling/holdings.html)"
+      }
+    ],
+    "caption": "Ranked #8 in the turn-6 tag standings (5-6) before winning the WeWF Tag Team Championship from the Leaping Lords at the league's own first Supercard and losing it to Flint and Steel a week and a half later; its own two wrestlers are billed only as “Maniac #1” and “Maniac #2.”",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 1,
+        "appearances": 23,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Maniac #1"
+      },
+      {
+        "name": "Maniac #2"
+      }
+    ]
+  },
+  {
+    "id": "flint-and-steel-wewf",
+    "type": "unit",
+    "name": "Flint and Steel",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html",
+        "note": "A third-party 1997 PWA Hall-of-Fame write-up also credits this team with a PWA (1992) tag-title reign; the PWA wing's own verified reign chain does not support the claimed dates, so no PWA reign is recorded. The claim stands as this note only."
+      },
+      {
+        "promotion": "summit-of-e-wrestling",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "role": "a tag team seeded fourth into the first Summit's Road Warrior's Cup",
+        "source": "the Summit of E-Wrestling's own broadcasts, served under that wing (promotions/summit-of-e-wrestling/holdings.html)"
+      },
+      {
+        "promotion": "pwa-1992",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "role": "wrestler — ranked #2 in the PWA’s own tag standings, under Molly Maguire",
+        "source": "the WeWF's own \"TWIW - Summer Recap of E-Wrestling - Pt.I\" (27 September 1992) — its own closing line, \"This takes the recap of the PWA through the submission of the Summit participants,\" confirms the whole card-by-card recap is PWA's own action, structured here under the anti-double-count rule rather than WeWF's (promotions/wewf/archive/twiw-summer-recap-of-e-wrestling-pt-i-1992-09-27.html)",
+        "note": "Merged from flint-and-steel-wewf. THE EVIDENCE. The Summit of E-Wrestling's own third night walks this team to the ring, \"Led towards the ring by their shop steward, Molly Maguire… Representing the AFL-CIO\", and the PWA's own 1992 record names \"Molly MaGuire, shop-steward for Flint and Steel\": one woman, one job, one named team, two federations. Thirty-eight newly served WeWF documents carry this team from the league's eighth turn to the last tournament of March 1992 with that manager in their corner throughout, through four Tag Team Championship reigns, and the newsdesk's own rumour mill of 30 January 1992 explains the gap in their own record — \"Flint and Steel came back to the WeWF because they're both unemployed after the Millionaire bought their factory and closed it down.\" The retired row carried no members at all; this one carries both men."
+      }
+    ],
+    "caption": "“Irish” Mike Flint and Frank Steel, four times WeWF Tag Team Champions between March 1991 and July 1991 under their own shop steward Molly Maguire, and ranked second in the PWA's own tag standings the following summer.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 3,
+        "reigns": 3,
+        "appearances": 28,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "\"Irish\" Mike Flint",
+        "character_id": "irish-mike-flint-wewf"
+      },
+      {
+        "name": "Frank Steel",
+        "character_id": "frank-steel-wewf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "merged",
+        "grade": "primary-source",
+        "note": "MERGED 2026-09-02 (WeWF enrichment lane, accession 0144). The presumed-same guard the strong-joins pass filed on both rows, and named as an owed merge, is now executed: the receipt is the manager in both federations' own words, and the WeWF corpus served the same day supplies the team's own unbroken record behind her. The retired id redirects here.",
+        "with": []
+      }
+    ]
+  },
+  {
+    "id": "fire-and-ice-wewf",
+    "type": "unit",
+    "name": "Fire and Ice",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "Volcano and the Iceman, ranked #10 in the turn-6 tag standings (3-4).",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 11,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Volcano",
+        "character_id": "volcano-wewf"
+      },
+      {
+        "name": "The Iceman",
+        "character_id": "the-iceman-wewf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "fire-and-ice-wwo"
+        ],
+        "note": "A generic gimmick name (\"Fire and Ice\") reused independently across unrelated feds — no document ties this WeWF unit to fire-and-ice-wwo. Filed distinct under the no-merge default."
+      }
+    ]
+  },
+  {
+    "id": "the-twin-spires-wewf",
+    "type": "unit",
+    "name": "The Twin Spires",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "Toraka Gaijin and Tsuji Fokuyama, hailing from Japan; ranked #11 in the turn-6 tag standings (1-2).",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Toraka Gaijin",
+        "character_id": "toraka-gaijin-wewf"
+      },
+      {
+        "name": "Tsuji Fokuyama",
+        "character_id": "tsuji-fokuyama-wewf"
+      }
+    ]
+  },
+  {
+    "id": "existential-dilemna-wewf",
+    "type": "unit",
+    "name": "Existential Dilemna",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "Ultra Boy and Ricky Schroeder, ranked #12 in the turn-6 tag standings (0-1).",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Ultra Boy",
+        "character_id": "ultra-boy-wewf"
+      },
+      {
+        "name": "Ricky Schroeder",
+        "character_id": "ricky-schroeder-wewf"
+      }
+    ]
+  },
+  {
+    "id": "terror-technicians-wewf",
+    "type": "unit",
+    "name": "Terror Technicians",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      }
+    ],
+    "caption": "Pain and Virus, managed by Max Altitude; ranked #13 in the turn-6 tag standings (0-1).",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 11,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Pain",
+        "character_id": "pain-wewf"
+      },
+      {
+        "name": "Virus",
+        "character_id": "virus-wewf"
+      }
+    ]
+  },
+  {
+    "id": "death-and-destruction-wewf",
+    "type": "unit",
+    "name": "Death and Destruction",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      },
+      {
+        "promotion": "ufws",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "role": "the federation's own number three contenders to its World Tag Team Championship in its opening weeks",
+        "source": "the federation's own broadcasts, served under that wing (promotions/ufws/archive/pwgea-supercard-1991-05-18.html and the weekly reports from 22 April 1991, promotions/ufws/holdings.html)",
+        "note": "The join is not made on the name. Sword and Shield's own promo at the PWGeA SuperCard of 18 May 1991 addresses this team by name and dates their shared history to the other federation in the same breath as their debut against it: \"Death and Destruction, we fought you countless times in the WeWF, and now it's here, in the PWGeA.\" The other side of that sentence is on disk and was checked rather than assumed: the WeWF's own Report #9 of 24 February 1991 (held, unserved) books \"Death & Destruction vs. Angus 'the Caber' Campbell\" and Jake Shield, carries the pair at 4-5 in its own tag standings, and runs a Death and Destruction dressing-room segment. Same names, same pairing, same opponents, same community, contiguous window."
+      }
+    ],
+    "caption": "Death and Destruction, ranked #14 in the turn-6 tag standings (0-2).",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 9,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Death",
+        "character_id": "death-wewf"
+      },
+      {
+        "name": "Destruction",
+        "character_id": "destruction-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-klingons-wewf",
+    "type": "unit",
+    "name": "The Klingons",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      },
+      {
+        "promotion": "summit-of-e-wrestling",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "role": "a tag team, and the second Summit's Royal Rumble winner and runner-up between them",
+        "source": "the Summit of E-Wrestling's own broadcasts, served under that wing (promotions/summit-of-e-wrestling/holdings.html)"
+      }
+    ],
+    "caption": "Klingon Phaser and Klingon Disrupter, managed by Captain Chekov; ranked #15 in the turn-6 tag standings (0-2) before winning the WeWF Tag Team Championship by Report #37, defending it against the Maniacs and the Hoosiers before the record runs out.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 1,
+        "appearances": 15,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Klingon Phaser",
+        "character_id": "klingon-phaser-wewf"
+      },
+      {
+        "name": "Klingon Disrupter",
+        "character_id": "klingon-disrupter-wewf"
+      }
+    ]
+  },
+  {
+    "id": "rnr-wewf",
+    "type": "unit",
+    "name": "RnR",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html"
+      },
+      {
+        "promotion": "pwa-1992",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "the WeWF's own \"TWIW - Summer Recap of E-Wrestling - Pt.I\" (27 September 1992) — its own closing line, \"This takes the recap of the PWA through the submission of the Summit participants,\" confirms the whole card-by-card recap is PWA's own action, structured here under the anti-double-count rule rather than WeWF's (promotions/wewf/archive/twiw-summer-recap-of-e-wrestling-pt-i-1992-09-27.html)"
+      }
+    ],
+    "caption": "Lord Roderick and Mr. Roddy, managed by Keith Skar, the WeWF's own Tag Team Champions from the August Supercard onward; ranked #16 in the turn-6 tag standings (0-5).",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 21,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Lord Roderick",
+        "character_id": "lord-roderick-wewf"
+      },
+      {
+        "name": "Mr. Roddy",
+        "character_id": "mr-roddy-wewf"
+      }
+    ],
+    "aka": [
+      "R&R"
+    ]
+  },
+  {
+    "id": "the-dynamic-machine-wewf",
+    "type": "unit",
+    "name": "The Dynamic Machine",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/wewf-report-6-1991-01-31.html",
+        "note": "Excluded from the numbered tag ranking as the reigning champions, same convention the report uses for the singles World/Continental champs."
+      }
+    ],
+    "caption": "Black Tiger and World Champion Juggernaut, the WeWF's original tag-team champions; regained the Tag-Team Championship in turn 6 with 145 points.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 15,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Black Tiger",
+        "character_id": "black-tiger-wewf"
+      },
+      {
+        "name": "Juggernaut",
+        "character_id": "juggernaut-wewf"
+      }
+    ]
+  },
+  {
+    "id": "annihilation-alliance-wewf",
+    "type": "unit",
+    "name": "Annihilation Alliance",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/twiw-1992-04-13.html"
+      },
+      {
+        "promotion": "summit-of-e-wrestling",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "role": "a tag team in the UeWF's own inaugural tag-team tournament at the second Summit",
+        "source": "the Summit of E-Wrestling's own broadcasts, served under that wing (promotions/summit-of-e-wrestling/holdings.html)"
+      },
+      {
+        "promotion": "uewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/wewf/archive/twiw-tv-tag-team-tournament-round-3-1992-03-26.html",
+        "note": "THE LINE: a uewf tenure is warranted where a held document BILLS THE ENTITY AS THAT FEDERATION'S OWN, or STAGES IT FOR ONE OF THAT FEDERATION'S OWN CHAMPIONSHIPS. Entry to a tournament held at an interfederation event is not by itself enough — the Summit's tournaments were open to all comers and a bracket slot says only that somebody entered. WHAT SETTLES THIS ROW: the team stands in the UeWF's own published tag-team rankings under its own name, in the ranking tables the WeWF newsdesk reprints from that federation on 30 January, 15 February and 25 February 1992; and its own manager, with the team flanking him on camera, says they were there — \"We know all about you, from being in the UeWF, may it rest in peace, together.\" A place in a federation's own weekly rankings is that federation billing the entity as its own. Three of the WeWF newsdesk editions of 30 January, 15 February and 25 February 1992 reprint the UeWF's own published weekly rankings in full, singles, tag and ladies, and this entity stands in them under its own name. The tenure is not overstated; it is now independently attested from the other wing's shelf."
+      }
+    ],
+    "caption": "The Unknown Assailant and the GraveRobber, managed by Bwana \"the Great White Hunter\"; TWIW TV Tag Team Champions, retaining in a steel cage rematch on 13 April 1992.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 3,
+        "reigns": 1,
+        "appearances": 6,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "The Unknown Assailant",
+        "character_id": "the-unknown-assailant-wewf"
+      },
+      {
+        "name": "The GraveRobber",
+        "character_id": "the-graverobber-wewf"
+      }
+    ]
+  },
+  {
+    "id": "carnage-wewf",
+    "type": "unit",
+    "name": "Carnage",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/twiw-1992-04-13.html"
+      },
+      {
+        "promotion": "uewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the federation's own relaunch call, 14 May 1992 (promotions/uewf/archive/uewf-wants-you-1992-05-14.html)",
+        "note": "Appended rather than minted fresh: an original character carried by its handler across promotions is one continuous life, one row. The UeWF's own relaunch call of 14 May 1992 names Carnage — \"Crash and Burn\" — as its Intercontinental Tag Team Champions, and Lord Plunder as its Pacific Champion; the WeWF's own broadcast of 13 April 1992, served under that wing, has the same three in the same combination, Crash and Burn as Carnage with Lord Plunder managing them. Name, full membership, window and community all agree. A third document in the held record but not served — the WeWF's own tag tournament broadcast of 24 March 1992 — bills Carnage outright as \"the UeWF InterContinental Tag Team Champions,\" which is a single document naming both sides of the join. It was served on promotions/wewf/archive/twiw-tv-tag-team-tournament-round-2-1992-03-24.html, where the ring announcer's own words read \"here are the UeWF InterContinental Tag Team Champions,\" and Burn adds \"me and Burn got two of them\". The join is now attested by a served page on this wing's own shelf."
+      },
+      {
+        "promotion": "summit-of-e-wrestling",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "role": "a tag team in the UeWF's own inaugural tag-team tournament at the second Summit",
+        "source": "the Summit of E-Wrestling's own broadcasts, served under that wing (promotions/summit-of-e-wrestling/holdings.html)"
+      }
+    ],
+    "caption": "Crash and Burn, managed by Lord Plunder; lost a steel cage rematch for the TWIW TV Tag Team Championship on 13 April 1992, having also held the UeWF Intercontinental Tag Team Championship per that federation's own newsdesk standings.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 3,
+        "reigns": 1,
+        "appearances": 5,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Crash",
+        "character_id": "crash-wewf"
+      },
+      {
+        "name": "Burn",
+        "character_id": "burn-wewf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "carnage",
+          "carnage-agw",
+          "carnage-fob",
+          "carnage-icw-pweboard",
+          "carnage-pwf"
+        ],
+        "note": "A generic gimmick name (\"Carnage\") reused independently across unrelated feds — no document ties this WeWF character to carnage, carnage-agw, carnage-fob, carnage-icw-pweboard, carnage-pwf. Filed distinct under the no-merge default."
+      }
+    ]
+  },
+  {
+    "id": "the-headbangers-wewf",
+    "type": "unit",
+    "name": "The Headbangers",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/twiw-1992-04-13.html",
+        "note": "Only one member (Mosh) is individually named in the document's own account of the run-in; the team's full complement is not given."
+      }
+    ],
+    "caption": "Ran in to ambush Ace Diamond on Fender Marshall's own behalf, 13 April 1992; only Mosh is individually named in the account.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Mosh",
+        "character_id": "mosh-wewf"
+      }
+    ],
+    "notes": "THE LINE: a uewf tenure is warranted where a held document BILLS THE ENTITY AS THAT FEDERATION'S OWN, or STAGES IT FOR ONE OF THAT FEDERATION'S OWN CHAMPIONSHIPS. Entry to a tournament held at an interfederation event is not by itself enough — the Summit's tournaments were open to all comers and a bracket slot says only that somebody entered. WHAT SETTLES THIS ROW: NO uewf TENURE FOR THE TEAM, deliberately, though both the wrestler and the manager attached to it have one. The rule turns on what a document bills, and what the UeWF's own record bills is Mosh the singles competitor: it ranked him, and it staged him against Biff Jones for its Atlantic Heavyweight Championship on 19 February 1992. The team name appears in one UeWF sentence and it is an opponent's taunt — \"your FOOLs Meatball and Flintstone got run out of the UeWF because they're afraid of the Headbangers\" (13 April 1992) — which implies the team was around without the federation ever billing it. The Headbangers do not stand in the UeWF's own tag rankings. Recorded here so the asymmetry reads as a decision, not an oversight."
+  },
+  {
+    "id": "the-hoosiers-wewf",
+    "type": "unit",
+    "name": "The Hoosiers",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "promotions/wewf/archive/twiw-1992-04-13.html",
+        "note": "The General's own claim (\"they have successfully watched my back, and won the WeWF tag team title on two occasions\") is not dated and no corresponding reign is held — an attested but unrecoverable claim, not fabricated as a reign row."
+      },
+      {
+        "promotion": "summit-of-e-wrestling",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "role": "WeWF World Tag Team Champions, who defended the belts on the first Summit's opening night",
+        "source": "the Summit of E-Wrestling's own broadcasts, served under that wing (promotions/summit-of-e-wrestling/holdings.html)"
+      }
+    ],
+    "caption": "Erik and Daemon, the General's own two best students, retired alongside him on 13 April 1992 after an undated career the General's own account credits with two WeWF tag-team title reigns.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 2,
+        "appearances": 20,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Erik",
+        "character_id": "erik-wewf"
+      },
+      {
+        "name": "Daemon",
+        "character_id": "daemon-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-chain-gang-wewf",
+    "type": "unit",
+    "name": "The Chain Gang",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-10-1991-03-03.html, promotions/wewf/archive/wewf-report-11-1991-03-10.html, promotions/wewf/archive/wewf-report-12-1991-03-17.html and 6 more"
+      }
+    ],
+    "caption": "Wrestled 28 bouts in the wing's own surviving record between 17 February 1991 and 28 April 1991, 7–20–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 9,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "The Steroid Centurion",
+        "character_id": "the-steroid-centurion-wewf"
+      },
+      {
+        "name": "The Eunuch",
+        "character_id": "the-eunuch-wewf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-chain-gang-czwf"
+        ],
+        "note": "This one is the Steroid Centurion and the Eunuch under “Amazon” Amy Forrester, in the WeWF from its eighth turn; the colliding row is in the CZWF of 2005."
+      }
+    ]
+  },
+  {
+    "id": "the-highlanders-wewf",
+    "type": "unit",
+    "name": "The Highlanders",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-10-1991-03-03.html, promotions/wewf/archive/wewf-report-11-1991-03-10.html, promotions/wewf/archive/wewf-report-12-1991-03-17.html and 13 more"
+      }
+    ],
+    "caption": "Held the Tag Team Championship; wrestled 34 bouts in the wing's own surviving record between 17 February 1991 and 10 November 1991, 22–12.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 16,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Bjorn \"the Sweedish Pretzel\"",
+        "character_id": "bjorn-the-sweedish-pretzel"
+      },
+      {
+        "name": "The Plaid Powerhouse",
+        "character_id": "the-plaid-powerhouse"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "robbie-highlander-xwf-uwow",
+          "rory-highlander-xwf-uwow",
+          "highlanders-xwf-uwow"
+        ],
+        "note": "This one is Bjorn “the Sweedish Pretzel” and the Plaid Powerhouse, two of the Four Corners, WeWF Tag Team Champions in May 1991; the colliding rows are in the XWF/UWOW, another decade."
+      }
+    ]
+  },
+  {
+    "id": "the-legion-of-super-wrestlers-wewf",
+    "type": "unit",
+    "name": "The Legion of Super Wrestlers",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-10-1991-03-03.html, promotions/wewf/archive/wewf-report-11-1991-03-10.html, promotions/wewf/archive/wewf-report-12-1991-03-17.html and 6 more"
+      }
+    ],
+    "caption": "Wrestled 19 bouts in the wing's own surviving record between 17 February 1991 and 12 May 1991, 6–12–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 9,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Ultra Boy",
+        "character_id": "ultra-boy-wewf"
+      },
+      {
+        "name": "Lar Gand",
+        "character_id": "lar-gand-wewf"
+      }
+    ]
+  },
+  {
+    "id": "o-s-e-wewf",
+    "type": "unit",
+    "name": "O.S.E.",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-8-1991-02-17.html, promotions/wewf/archive/wewf-report-9-1991-02-24.html"
+      }
+    ],
+    "caption": "Wrestled 7 bouts in the wing's own surviving record between 17 February 1991 and 24 February 1991, 6–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Mr. B",
+        "character_id": "mr-b-wewf"
+      },
+      {
+        "name": "Action Man",
+        "character_id": "action-man"
+      }
+    ]
+  },
+  {
+    "id": "the-imperial-storm-wewf",
+    "type": "unit",
+    "name": "The Imperial Storm",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-10-1991-03-03.html, promotions/wewf/archive/wewf-report-11-1991-03-10.html, promotions/wewf/archive/wewf-report-12-1991-03-17.html"
+      }
+    ],
+    "caption": "Wrestled 10 bouts in the wing's own surviving record between 3 March 1991 and 17 March 1991, 8–1–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "The Samurai",
+        "character_id": "samurai-newa-1992"
+      },
+      {
+        "name": "The Kamakaze",
+        "character_id": "kamakaze"
+      }
+    ]
+  },
+  {
+    "id": "the-killer-klowns-wewf",
+    "type": "unit",
+    "name": "The Killer Klowns",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-10-1991-03-03.html, promotions/wewf/archive/wewf-report-11-1991-03-10.html, promotions/wewf/archive/wewf-report-12-1991-03-17.html and 1 more"
+      }
+    ],
+    "caption": "Wrestled 8 bouts in the wing's own surviving record between 3 March 1991 and 7 April 1991, 2–6.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Bozo",
+        "character_id": "bozo-wewf"
+      },
+      {
+        "name": "Chuckles",
+        "character_id": "chuckles-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-lords-of-discipline-wewf",
+    "type": "unit",
+    "name": "The Lords of Discipline",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-11-1991-03-10.html, promotions/wewf/archive/wewf-report-12-1991-03-17.html"
+      }
+    ],
+    "caption": "Wrestled 2 bouts in the wing's own surviving record between 10 March 1991 and 17 March 1991, 0–2.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Abrasion",
+        "character_id": "abrasion-wewf"
+      },
+      {
+        "name": "Incision",
+        "character_id": "incision-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-american-storm-wewf",
+    "type": "unit",
+    "name": "The American Storm",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-12-1991-03-17.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 17 March 1991, 1–0.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "membership_unknown": true
+  },
+  {
+    "id": "the-thunder-brothers-wewf",
+    "type": "unit",
+    "name": "The Thunder Brothers",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-12-1991-03-17.html, promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html and 2 more"
+      }
+    ],
+    "caption": "Wrestled 6 bouts in the wing's own surviving record between 17 March 1991 and 28 April 1991, 2–4.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 5,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Thorin",
+        "character_id": "thorin-wewf"
+      },
+      {
+        "name": "Lokis",
+        "character_id": "lokis-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-death-squad-wewf",
+    "type": "unit",
+    "name": "The Death Squad",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-12-1991-03-17.html"
+      }
+    ],
+    "caption": "Wrestled 2 bouts in the wing's own surviving record on 17 March 1991, 2–0.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Death",
+        "character_id": "death-wewf"
+      },
+      {
+        "name": "The Hellhound, Rick Schroeder",
+        "character_id": "the-hellhound-rick-schroeder-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-righteous-wewf",
+    "type": "unit",
+    "name": "The Righteous",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-12-1991-03-17.html, promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html and 1 more"
+      }
+    ],
+    "caption": "Wrestled 4 bouts in the wing's own surviving record between 17 March 1991 and 21 April 1991, 0–4.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Cap'n Good",
+        "character_id": "capn-good-wewf"
+      },
+      {
+        "name": "Sgt. Happy",
+        "character_id": "sgt-happy-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-exterminators-wewf",
+    "type": "unit",
+    "name": "The Exterminators",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html and 5 more"
+      }
+    ],
+    "caption": "Wrestled 19 bouts in the wing's own surviving record between 7 April 1991 and 29 May 1991, 10–9.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 8,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "The Enforcer",
+        "character_id": "the-enforcer-wewf"
+      },
+      {
+        "name": "The Law-Maker",
+        "character_id": "the-law-maker-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-class-of-2964-wewf",
+    "type": "unit",
+    "name": "The Class of 2964",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html and 2 more"
+      }
+    ],
+    "caption": "Wrestled 7 bouts in the wing's own surviving record between 7 April 1991 and 12 May 1991, 2–5.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 5,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Ferro Lad",
+        "character_id": "ferro-lad-wewf"
+      },
+      {
+        "name": "Val Amorr",
+        "character_id": "val-amorr-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-new-gods-wewf",
+    "type": "unit",
+    "name": "The New Gods",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html and 2 more"
+      }
+    ],
+    "caption": "Wrestled 9 bouts in the wing's own surviving record between 7 April 1991 and 7 May 1991, 6–3.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 5,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Thanos",
+        "character_id": "thanos-wewf"
+      },
+      {
+        "name": "Darkseid the Destroyer",
+        "character_id": "darkseid-the-destroyer-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-bruise-brothers-wewf",
+    "type": "unit",
+    "name": "The Bruise Brothers",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-19-1991-05-07.html and 2 more"
+      }
+    ],
+    "caption": "Wrestled 6 bouts in the wing's own surviving record between 7 April 1991 and 26 May 1991, 2–4.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 5,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Ahpook the Destroyer",
+        "character_id": "ahpook-the-destroyer-wewf"
+      },
+      {
+        "name": "Grunk the Barbarian",
+        "character_id": "grunk-the-barbarian-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-abattoir-wewf",
+    "type": "unit",
+    "name": "The Abattoir",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html and 2 more"
+      }
+    ],
+    "caption": "Wrestled 9 bouts in the wing's own surviving record between 7 April 1991 and 7 May 1991, 5–3–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 5,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "sword-shield-and-axe-wewf",
+    "type": "unit",
+    "name": "Sword, Shield, and Axe",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html"
+      }
+    ],
+    "caption": "Wrestled 5 bouts in the wing's own surviving record between 7 April 1991 and 21 April 1991, 1–4.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "the-three-rings-wewf",
+    "type": "unit",
+    "name": "The Three Rings",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 7 April 1991, 1–0.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "the-superstars-wewf",
+    "type": "unit",
+    "name": "The Superstars",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-18-1991-04-28.html and 1 more"
+      }
+    ],
+    "caption": "Wrestled 8 bouts in the wing's own surviving record between 7 April 1991 and 12 May 1991, 2–6.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "the-chain-gang-3-wewf",
+    "type": "unit",
+    "name": "The Chain Gang 3",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html and 1 more"
+      }
+    ],
+    "caption": "Wrestled 4 bouts in the wing's own surviving record between 7 April 1991 and 28 April 1991, 0–4.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "apocalypse-now-wewf",
+    "type": "unit",
+    "name": "Apocalypse Now",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-15-1991-04-07.html, promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html and 5 more"
+      }
+    ],
+    "caption": "Held the Six-Man Championship; wrestled 14 bouts in the wing's own surviving record between 7 April 1991 and 10 November 1991, 9–4–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 8,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "members": [
+      {
+        "name": "Death",
+        "character_id": "death-wewf"
+      },
+      {
+        "name": "War",
+        "character_id": "war-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-steel-monkeys-wewf",
+    "type": "unit",
+    "name": "The Steel Monkeys",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html, promotions/wewf/archive/wewf-report-18-1991-04-28.html and 3 more"
+      }
+    ],
+    "caption": "Wrestled 11 bouts in the wing's own surviving record between 14 April 1991 and 26 May 1991, 5–6.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 6,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Monkey #1",
+        "character_id": "monkey-1-wewf"
+      },
+      {
+        "name": "Monkey #2",
+        "character_id": "monkey-2-wewf"
+      }
+    ]
+  },
+  {
+    "id": "death-doom-and-devastation-wewf",
+    "type": "unit",
+    "name": "Death, Doom, and Devastation",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-16-1991-04-14.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 14 April 1991, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "the-union-shop-wewf",
+    "type": "unit",
+    "name": "The Union Shop",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html, promotions/wewf/archive/wewf-report-18-1991-04-28.html and 1 more"
+      }
+    ],
+    "caption": "Wrestled 6 bouts in the wing's own surviving record between 14 April 1991 and 7 May 1991, 3–3.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "capital-punishment-wewf",
+    "type": "unit",
+    "name": "Capital Punishment",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-16-1991-04-14.html, promotions/wewf/archive/wewf-report-17-1991-04-21.html, promotions/wewf/archive/wewf-report-18-1991-04-28.html and 1 more"
+      }
+    ],
+    "caption": "Wrestled 6 bouts in the wing's own surviving record between 14 April 1991 and 29 May 1991, 4–2.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true,
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "capital-punishment-ewa"
+        ],
+        "note": "This one is the six-man team of the Law and the Grim Reaper, named on the WeWF's own Supercard #4 of May 1991; the colliding row is in the EWA of 1998."
+      }
+    ]
+  },
+  {
+    "id": "chaos-personified-wewf",
+    "type": "unit",
+    "name": "Chaos Personified",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-17-1991-04-21.html, promotions/wewf/archive/wewf-report-18-1991-04-28.html, promotions/wewf/archive/wewf-report-19-1991-05-07.html"
+      }
+    ],
+    "caption": "Wrestled 4 bouts in the wing's own surviving record between 21 April 1991 and 7 May 1991, 0–3–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "AquaDemon",
+        "character_id": "aquademon-wewf"
+      },
+      {
+        "name": "FireLord",
+        "character_id": "firelord-wewf"
+      }
+    ]
+  },
+  {
+    "id": "heavens-best-wewf",
+    "type": "unit",
+    "name": "Heaven's Best",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-17-1991-04-21.html"
+      }
+    ],
+    "caption": "Wrestled 3 bouts in the wing's own surviving record on 21 April 1991, 0–3.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Michael",
+        "character_id": "michael-wewf"
+      },
+      {
+        "name": "Raphael",
+        "character_id": "raphael-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-bermuda-triangle-wewf",
+    "type": "unit",
+    "name": "The Bermuda Triangle",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-17-1991-04-21.html, promotions/wewf/archive/wewf-report-22-1991-05-26.html"
+      }
+    ],
+    "caption": "Wrestled 2 bouts in the wing's own surviving record between 21 April 1991 and 26 May 1991, 1–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "the-surfer-alliance-wewf",
+    "type": "unit",
+    "name": "The Surfer Alliance",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-18-1991-04-28.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 28 April 1991, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Malibu",
+        "character_id": "malibu-wewf"
+      },
+      {
+        "name": "The Big Kahuna",
+        "character_id": "the-big-kahuna-summit"
+      }
+    ]
+  },
+  {
+    "id": "the-down-under-decking-crew-wewf",
+    "type": "unit",
+    "name": "The Down-Under Decking Crew",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-18-1991-04-28.html, promotions/wewf/archive/wewf-report-19-1991-05-07.html, promotions/wewf/archive/wewf-report-20-1991-05-12.html and 1 more"
+      }
+    ],
+    "caption": "Held the Six-Man Championship; wrestled 4 bouts in the wing's own surviving record between 28 April 1991 and 26 May 1991, 3–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "the-siamese-twins-wewf",
+    "type": "unit",
+    "name": "The Siamese Twins",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-19-1991-05-07.html, promotions/wewf/archive/wewf-report-20-1991-05-12.html, promotions/wewf/archive/wewf-report-22-1991-05-26.html and 1 more"
+      }
+    ],
+    "caption": "Wrestled 8 bouts in the wing's own surviving record between 7 May 1991 and 29 May 1991, 1–7.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Yin",
+        "character_id": "yin-wewf"
+      },
+      {
+        "name": "Yang",
+        "character_id": "yang-wewf"
+      }
+    ]
+  },
+  {
+    "id": "chilled-fury-wewf",
+    "type": "unit",
+    "name": "Chilled Fury",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-19-1991-05-07.html, promotions/wewf/archive/wewf-report-20-1991-05-12.html"
+      }
+    ],
+    "caption": "Wrestled 3 bouts in the wing's own surviving record between 7 May 1991 and 12 May 1991, 3–0.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "The Frozen Caveman",
+        "character_id": "the-frozen-caveman-wewf"
+      },
+      {
+        "name": "The Salivating Sadducee",
+        "character_id": "the-salivating-sadducee-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-three-man-wrecking-crew-wewf",
+    "type": "unit",
+    "name": "The Three Man Wrecking Crew",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-20-1991-05-12.html, promotions/wewf/archive/wewf-report-22-1991-05-26.html, promotions/wewf/archive/wewf-supercard-4-1991-05-29.html"
+      }
+    ],
+    "caption": "Wrestled 3 bouts in the wing's own surviving record between 12 May 1991 and 29 May 1991, 0–3.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "trio",
+    "membership_unknown": true
+  },
+  {
+    "id": "team-supreme-wewf",
+    "type": "unit",
+    "name": "Team Supreme",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-32-1991-09-15.html, promotions/wewf/archive/wewf-report-37-1991-10-28.html, promotions/wewf/archive/wewf-report-38-1991-11-10.html and 5 more"
+      }
+    ],
+    "caption": "Wrestled 11 bouts in the wing's own surviving record between 12 June 1991 and 10 November 1991, 7–3–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 8,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Supreme #1",
+        "character_id": "supreme-1-wewf"
+      },
+      {
+        "name": "Supreme #2",
+        "character_id": "supreme-2-wewf"
+      }
+    ]
+  },
+  {
+    "id": "oroboros-wewf",
+    "type": "unit",
+    "name": "Oroboros",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-summer-report-2-1991-06-12.html, promotions/wewf/archive/wewf-summer-report-3-1991-07-02.html, promotions/wewf/archive/wewf-summer-report-4-1991-07-22.html and 3 more"
+      }
+    ],
+    "caption": "Wrestled 12 bouts in the wing's own surviving record between 12 June 1991 and 25 August 1991, 2–10.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 6,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Ken “Wyrm” Russel"
+      },
+      {
+        "name": "Hector “Gorgon” Null"
+      }
+    ]
+  },
+  {
+    "id": "the-wyld-stallyons-wewf",
+    "type": "unit",
+    "name": "The Wyld Stallyons",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-august-supercard-1991-08-31.html, promotions/wewf/archive/wewf-report-37-1991-10-28.html, promotions/wewf/archive/wewf-report-38-1991-11-10.html and 1 more"
+      }
+    ],
+    "caption": "Wrestled 9 bouts in the wing's own surviving record between 25 August 1991 and 10 November 1991, 2–7.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Bill S. Preston, Esq",
+        "character_id": "bill-s-preston-esq-wewf"
+      },
+      {
+        "name": "Ted “Theodore” Logan",
+        "character_id": "ted-theodore-logan-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-mexican-delights-wewf",
+    "type": "unit",
+    "name": "The Mexican Delights",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-august-supercard-1991-08-31.html, promotions/wewf/archive/wewf-report-32-1991-09-15.html, promotions/wewf/archive/wewf-summer-report-9-1991-08-25.html"
+      }
+    ],
+    "caption": "Wrestled 5 bouts in the wing's own surviving record between 25 August 1991 and 15 September 1991, 1–4.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Nabilio Tortilla",
+        "character_id": "nabilio-tortilla-wewf"
+      },
+      {
+        "name": "The Nacho Kid",
+        "character_id": "the-nacho-kid-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-wild-1s-wewf",
+    "type": "unit",
+    "name": "The Wild 1's",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-38-1991-11-10.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 10 November 1991, 1–0.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Wolf",
+        "character_id": "wolf-wewf"
+      },
+      {
+        "name": "Mustang",
+        "character_id": "mustang-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-groundbreakers-wewf",
+    "type": "unit",
+    "name": "The Groundbreakers",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-august-supercard-1991-08-31.html, promotions/wewf/archive/wewf-report-38-1991-11-10.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record between 31 August 1991 and 10 November 1991, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Crazy Eirik Thorrson",
+        "character_id": "crazy-eirik-thorrson-wewf"
+      },
+      {
+        "name": "Johnny Granite",
+        "character_id": "johnny-granite"
+      },
+      {
+        "name": "Johann \"Great Dane\" Svenson",
+        "character_id": "johann-great-dane-svenson-wewf"
+      }
+    ]
+  },
+  {
+    "id": "devastation-inc-wewf",
+    "type": "unit",
+    "name": "Devastation, Inc.",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-38-1991-11-10.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 10 November 1991, 1–0.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Tom \"the Animal\" Brown",
+        "character_id": "tom-the-animal-brown"
+      },
+      {
+        "name": "\"Crusher\" Cootus",
+        "character_id": "crusher-cootus"
+      }
+    ]
+  },
+  {
+    "id": "the-galactic-dudes-wewf",
+    "type": "unit",
+    "name": "The Galactic Dudes",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-38-1991-11-10.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 10 November 1991, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Quasar",
+        "character_id": "quasar-wewf"
+      },
+      {
+        "name": "Pulsar",
+        "character_id": "pulsar-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-towers-of-power-wewf",
+    "type": "unit",
+    "name": "The Towers of Power",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-50-1992-03-01.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 1 March 1992, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "towers-of-power",
+          "towers-of-power-pwa-1992"
+        ],
+        "note": "This one loses to the Klingons on the WeWF's own Report #50 of 1 March 1992. The PWA row is of the same year and the IWF row of the same community — a real near-miss on a generic team name, recorded rather than merged: no held document names two of them together, and no member of this team is named anywhere in the WeWF's own record. A presumed-same entry for the nearest of them stands beside this one."
+      },
+      {
+        "assertion": "presumed-same",
+        "grade": "presumed",
+        "with": [
+          "towers-of-power-pwa-1992"
+        ],
+        "note": "IDENTITY-JOIN TEST, HELD, 2026-09-02 (WeWF enrichment lane, accession 0144). Same team name, the same newsgroup community, the same year. No member of the WeWF team is named anywhere in its own record, so there is nothing to compare beyond the name. A bare gimmick name never joins on its own (the no-auto-merge rule); this pair is recorded, not merged, and is the coordinator's call."
+      }
+    ]
+  },
+  {
+    "id": "the-inquisition-wewf",
+    "type": "unit",
+    "name": "The Inquisition",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-50-1992-03-01.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 1 March 1992, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Torquemada",
+        "character_id": "torquemada-newa-1992"
+      },
+      {
+        "name": "Matthew",
+        "character_id": "matthew-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-cochon-brothers-wewf",
+    "type": "unit",
+    "name": "The Cochon Brothers",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/wewf-report-50-1992-03-01.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 1 March 1992, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Maurice \"Mad Cat\" Cochon",
+        "character_id": "maurice-mad-cat-cochon-wewf"
+      },
+      {
+        "name": "Paul \"The Baker\" Cochon",
+        "character_id": "paul-the-baker-cochon-wewf"
+      }
+    ]
+  },
+  {
+    "id": "brothers-brawn-wewf",
+    "type": "unit",
+    "name": "Brothers Brawn",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/twiw-tv-tag-team-tournament-round-1-1992-03-20.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 20 March 1992, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Sly",
+        "character_id": "sly-wewf"
+      },
+      {
+        "name": "Aawnold",
+        "character_id": "aawnold-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-addams-foundation-wewf",
+    "type": "unit",
+    "name": "The Addams Foundation",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/twiw-tv-tag-team-tournament-round-1-1992-03-20.html, promotions/wewf/archive/twiw-tv-tag-team-tournament-round-2-1992-03-24.html, promotions/wewf/archive/twiw-tv-tag-team-tournament-round-3-1992-03-26.html"
+      }
+    ],
+    "caption": "Wrestled 3 bouts in the wing's own surviving record between 20 March 1992 and 26 March 1992, 2–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Gomez",
+        "character_id": "gomez-wewf"
+      },
+      {
+        "name": "Lurch",
+        "character_id": "lurch-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-can-tex-connection-wewf",
+    "type": "unit",
+    "name": "The Can-Tex Connection",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/twiw-tv-tag-team-tournament-round-1-1992-03-20.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 20 March 1992, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Ace Harte",
+        "character_id": "ace-harte-wewf"
+      },
+      {
+        "name": "Jack \"The Texas Tornado\" Rubenstein",
+        "character_id": "jack-the-texas-tornado-rubenstein-wewf"
+      }
+    ]
+  },
+  {
+    "id": "judgement-day-wewf",
+    "type": "unit",
+    "name": "Judgement Day",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/twiw-tv-tag-team-tournament-round-2-1992-03-24.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 24 March 1992, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Aries Prime",
+        "character_id": "aries-prime-wewf"
+      },
+      {
+        "name": "The Dark Horse",
+        "character_id": "the-dark-horse-wewf"
+      }
+    ]
+  },
+  {
+    "id": "the-dogs-of-war-wewf",
+    "type": "unit",
+    "name": "The Dogs of War",
+    "tenures": [
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the wing's own served documents promotions/wewf/archive/twiw-tv-tag-team-tournament-round-2-1992-03-24.html"
+      }
+    ],
+    "caption": "Wrestled 1 bout in the wing's own surviving record on 24 March 1992, 0–1.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Death",
+        "character_id": "death-wewf"
+      },
+      {
+        "name": "Destruction",
+        "character_id": "destruction-wewf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "dogs-of-war-pwa-1992"
+        ],
+        "note": "The WeWF's own Dogs of War, entered in its own TWIW TV Tag Team Title Tournament of March 1992, are named in the bracket as Death and Destruction, with Caine and Steelgrave in their corner — this federation's own people. The colliding PWA row is Slash and Ravage under Dr X. Same year, same newsgroup, same team name, entirely different members: distinct."
+      }
+    ]
+  }
+]

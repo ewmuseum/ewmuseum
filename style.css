@@ -1,0 +1,1590 @@
+/* ============================================================================
+   THE MUSEUM — shared stylesheet — THE DESIGN SYSTEM (Phase 1.5)
+   A quiet, archival identity. Placards, not hype. Warm dark, brass, parchment.
+   Plain CSS, no build step, no external fonts, no framework — readable and
+   editable by any future contributor, human or AI. This file is the presen-
+   tation constitution: write it once, inherit it forever.
+
+   THE SCALE (the design system's one-page spec) — every rule below reads
+   from these tokens; nothing hard-codes a color, font, or spacing value a
+   token already names. A future page/wing inherits the whole look by doing
+   nothing more than linking this file and using its component classes.
+
+   FONTS — one serif stack (reading prose) + one mono stack (labels, tables,
+   verbatim documents). No third font anywhere on the site.
+
+   TYPE — TWO scales, because they're two different typographic registers,
+   not one under-thought one:
+     - READING (serif prose + headings): --text-sm/base/lg/row + 3 heading
+       steps (h1/h2/h3). This is the "3-4 sizes" a visitor actually READS.
+     - LABEL (mono, uppercase, tracked-out — kickers, nav, table headers,
+       timestamps): --text-label/--text-label-sm, 2 sizes, always paired
+       with letter-spacing + text-transform, never body copy.
+   --text-brand is the one true exception: the wordmark is a logotype, not
+   content, and logotypes don't answer to a content type scale.
+
+   SPACE — one scale, --space-1 through --space-10 (4px steps, then 48/64/96
+   for the big gaps). Vertical rhythm (margin-top/bottom, gap, padding) reads
+   from it everywhere a value isn't proportional (em-based heading margins
+   stay em — they scale WITH the text, which is the point of using em there).
+
+   COLOR — unchanged from the original palette: warm near-black, parchment
+   ink, a dimmed brass accent, a sparing rust for flags/notes.
+
+   COMPONENTS — the class vocabulary a page reaches for instead of a style=
+   attribute: .placard, .note, .archival-notice, .roster-card, .ledger,
+   .meta, .archive-list, .gallery-grid, .hall-grid, .document, .doc-head,
+   plus the newer .filter-input (search/filter form fields), .bio-text (a
+   verbatim biography's own line breaks), .hero (the homepage's centered
+   intro), .divider-note (a ruled-off trailing note), .feature (an
+   emphasized placard/card/list-row — already established on .archive-list,
+   now shared), and the .mt- and .mb- spacing utilities for the one-off
+   vertical nudges every hand-written page eventually needs, plus (2026-10-03)
+   .label-offscreen (a label read aloud and not shown), .query-examples /
+   .query-chip (the example queries under a search box) and .az-row (the one-
+   row A-Z browse register). No style= attribute should ever be necessary
+   again — see CURATION.md and scripts/validate.mjs's zero-inline-style
+   check.
+   ========================================================================= */
+
+:root {
+  /* ---- color ------------------------------------------------------------ */
+  --bg:        #141210;   /* warm near-black */
+  --bg-2:      #1b1815;   /* raised panel */
+  --bg-3:      #221e1a;   /* placard */
+  --ink:       #e9e2d4;   /* parchment text */
+  --ink-soft:  #c3b9a6;
+  --ink-bright: #f3ecdd;  /* strong emphasis (strong, current-holder text) */
+  --muted:     #938a7b;   /* labels, captions */
+  --line:      #332d25;   /* hairlines */
+  --line-2:    #453d31;
+  --brass:     #c8a24b;   /* the accent — a dimmed gold */
+  --brass-bright: #e2c273; /* hover / current-holder gold */
+  --brass-dim: #a2833e;   /* (2026-10-03: from #9c7e38, the same hue a step lighter, so
+                              its 11-12px labels clear 4.5:1 on every panel) */
+  --rust:      #c67149;   /* sparing warm accent for flags/notes (2026-10-03: from #b5623a,
+                              a step lighter at the same hue, for 4.5:1 on placards) */
+  --ai-green:  #4a9c6d;   /* THE AI-AUTHORSHIP FLAG (2026-08-22) — a small,
+                              deliberately unobtrusive marker beside AI-
+                              generated prose; the one green in an otherwise
+                              brass/rust palette, on purpose, so it never
+                              reads as another curation-flag color. */
+  --canvas:    #0f0d0b;   /* the darkest well — image letterboxing */
+  /* the washes (THE HOUSE-LIGHTS STEP, 2026-10-03): the gold and rust tints
+     that used to be hard-coded rgba() values below, named so a theme can
+     redefine them. Dark values are the originals. */
+  --spot:       rgba(200,162,75,0.06); /* the lamp above every page */
+  --wash-mast:  rgba(200,162,75,0.04); /* under the masthead */
+  --wash-ded:   rgba(200,162,75,0.05); /* the dedication block */
+  --wash-chip:  rgba(200,162,75,0.08); /* .chip */
+  --wash-feat:  rgba(200,162,75,0.03); /* a featured archive-list row */
+  --wash-rust:  rgba(181,98,58,0.05);  /* .note */
+  --wash-rust-2: rgba(181,98,58,0.06); /* .archival-notice */
+  --rust-line:  rgba(181,98,58,0.4);   /* an archival notice's link underline */
+  --on-brass:   #141210;               /* text on a filled brass badge (dark on the dark theme's
+                                          lighter gold: 5.2:1; white there was 3.9:1) */
+  --select:     rgba(200,162,75,0.32); /* text selection */
+  color-scheme: dark;
+  --maxw:      760px;
+
+  /* ---- fonts -------------------------------------------------------------
+     One serif stack for reading, one mono stack for labels/tables/verbatim
+     documents. Every font-family declaration in this file reads one of
+     these two — no third stack, anywhere. */
+  --font-serif: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", "Cascadia Mono",
+               Menlo, Consolas, monospace;
+
+  /* ---- type: READING scale (serif prose + headings) ----------------------
+     base = body copy. sm = secondary/meta prose (.small, captions, asides).
+     lg = lede intros. row = dense list/table rows — ONE size shared by every
+     "row" across a wrestler/title page (a deliberate, user-reviewed choice:
+     "one list-row size across every section," not an accident). xs = the
+     rare mobile-only reduction (verbatim documents on narrow screens). */
+  --text-xs:   12px;
+  --text-sm:   14px;
+  --text-base: 18px;
+  --text-row:  16px;
+  --text-lg:   20px;
+  --h3-size: 20px;
+  --h2-size: clamp(22px, 4vw, 28px);
+  --h1-size: clamp(30px, 6vw, 46px);
+
+  /* ---- type: LABEL scale (mono, uppercase, tracked-out) -------------------
+     A different register from reading prose — kickers, nav, crumbs, table
+     headers, timestamps, captions. Two sizes only; every label rule pairs
+     one of these with letter-spacing + (usually) text-transform: uppercase. */
+  --text-label:    12px;
+  --text-label-sm: 11px;
+
+  /* the wordmark/dedication-names logotype — a mark, not content; exempt
+     from both scales above on purpose (see the header note). */
+  --text-brand: 15px;
+
+  /* ---- space ---------------------------------------------------------------
+     One scale. Vertical rhythm (margin, padding, gap) reads from it
+     wherever the value isn't proportional to its own font-size — heading
+     margins stay em-based, since they need to scale WITH the heading. */
+  --space-1:  4px;
+  --space-2:  8px;
+  --space-3:  12px;
+  --space-4:  16px;
+  --space-5:  20px;
+  --space-6:  24px;
+  --space-7:  32px;
+  --space-8:  48px;
+  --space-9:  64px;
+  --space-10: 96px;
+
+  --radius: 3px; /* the one corner-radius every panel/card/input shares */
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: var(--text-base);
+  line-height: 1.65;
+  letter-spacing: 0.002em;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* subtle top-lit vignette, like a gallery wall under a spotlight */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(120% 60% at 50% -10%, var(--spot) 0%, transparent 55%);
+  z-index: 0;
+}
+
+.wrap {
+  position: relative;
+  z-index: 1;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 var(--space-6) var(--space-10);
+}
+
+/* ---- typography -------------------------------------------------------- */
+
+.mono, .label, .placard-label, .meta, nav, .kicker, .crumb, footer {
+  font-family: var(--font-mono);
+}
+
+/* The front page's in-memoriam line — the gated door's own formatting,
+   brought inside (the Janitor, 2026-08-24): muted label, brass names. */
+.memorial-front {
+  margin-top: calc(var(--space-6) + var(--space-2, 8px));
+  font-size: 11px;
+  letter-spacing: .14em;
+  line-height: 1.9;
+  color: var(--muted);
+}
+.memorial-front .who { color: var(--brass); }
+
+h1, h2, h3 { line-height: 1.2; font-weight: 600; }
+
+h1 {
+  font-size: var(--h1-size);
+  letter-spacing: 0.01em;
+  margin: 0.2em 0 0.1em;
+}
+
+h2 {
+  font-size: var(--h2-size);
+  margin: 2.2em 0 0.4em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--line);
+}
+
+h3 { font-size: var(--h3-size); margin: 1.6em 0 0.3em; color: var(--ink); }
+
+p { margin: 0.7em 0; }
+
+a { color: var(--brass); text-decoration: none; border-bottom: 1px solid var(--line-2); }
+a:hover { color: var(--brass-bright); border-bottom-color: var(--brass); }
+
+/* Registry cross-links (scripts/cross-reference.mjs) — dotted so they read
+   as a different kind of link from hand-authored citations. */
+a.entity-link { border-bottom: 1px dotted var(--line-2); }
+a.entity-link:hover { border-bottom-color: var(--brass); }
+a.entity-link-ambiguous { border-bottom-style: dashed; }
+
+strong { color: var(--ink-bright); font-weight: 600; }
+em { color: var(--ink-soft); }
+
+hr { border: none; border-top: 1px solid var(--line); margin: 2.4em 0; }
+
+.kicker {
+  display: block;
+  font-size: var(--text-label);
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  margin-bottom: 0.6em;
+}
+
+/* THE HEADER UNIFICATION WAVE (2026-08-22, founder's gavel: "revert my
+   nits on the promotion header... one style format to rule them all") —
+   a wing's own h1 briefly carried a `.wing-heading` override here (mono
+   typeface, smaller h2-scale, uppercase, brass-dim — the WING HEADING
+   DEDUP wave's own styling, 2026-08-18). Reverted outright: scripts/
+   stamp-promotion-headers.mjs now stamps a bare, unstyled <h1>, identical to
+   every other page type's own title (character/title/award/memorial/
+   instrument pages all use plain h1 already) — the base `h1` rule above
+   is the ONE shared page-title header rule, sitewide, full stop. */
+
+.lede {
+  font-size: var(--text-lg);
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+/* THE SUBTITLE COMPONENT (2026-08-18) — one shared "second thing after the
+   header" treatment, two consumers: an entity page's own "aka" line, and a
+   promotion wing's own sourced tagline/motto (both stamped in from data,
+   never hand-typed body text). Italic and brass-tinted reads as clearly
+   secondary and clearly deliberate — never mistaken for unstyled prose that
+   just happened to sit under an h1. Tokens only, nothing bespoke: same
+   --text-lg the page's own .lede already uses one step down, so the
+   hierarchy is h1 (biggest) -> .subtitle (lede-sized, italic, brass) ->
+   .lede (lede-sized, upright, ink-soft) -> body copy. */
+.subtitle {
+  display: block;
+  font-style: italic;
+  font-size: var(--text-lg);
+  color: var(--brass-dim);
+  letter-spacing: 0.01em;
+  margin: -0.2em 0 var(--space-4);
+}
+
+/* THE SUBTITLE UNIFICATION (REVIEW-FIXES WAVE, 2026-08-22, founder): the
+   `.wing-tagline` muted override (2026-08-18's wing-tagline-contrast rule)
+   is retired — a promotion page's tagline now carries the SAME bare
+   .subtitle style as every other page type's subtitle line (a memorial's
+   years, an entity page's aka), the h1 unification's own precedent one
+   element down. One subtitle rule, sitewide. */
+
+.muted { color: var(--muted); }
+.small { font-size: var(--text-sm); }
+
+/* ---- masthead / nav ---------------------------------------------------- */
+
+header.masthead {
+  position: relative;
+  z-index: 1;
+  border-bottom: 1px solid var(--line);
+  background: linear-gradient(180deg, var(--wash-mast), transparent);
+}
+header.masthead .inner {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 22px var(--space-6) var(--space-5);
+}
+.wordmark {
+  font-family: var(--font-mono);
+  font-size: var(--text-brand);
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  color: var(--ink);
+  border: none;
+}
+.wordmark:hover { color: var(--brass); }
+.wordmark .dot { color: var(--brass); }
+.tagline {
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  margin-top: var(--space-1);
+}
+
+nav.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-5);
+  margin-top: var(--space-4);
+  font-size: var(--text-label);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+nav.gallery a {
+  color: var(--muted);
+  border: none;
+  padding-bottom: 4px; /* 24px+ tall on desktop (WCAG 2.5.8; 2px gave 22.8, 3px 23.8); hook c78 */
+  border-bottom: 1px solid transparent;
+}
+nav.gallery a:hover { color: var(--ink); border-bottom-color: var(--brass); }
+nav.gallery a.here { color: var(--brass); border-bottom-color: var(--brass-dim); }
+
+.crumb {
+  font-size: var(--text-label);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: var(--space-7) 0 0;
+}
+.crumb a { color: var(--muted); border: none; }
+.crumb a:hover { color: var(--brass); }
+
+/* ---- placards ---------------------------------------------------------- */
+
+.placard {
+  background: var(--bg-3);
+  border: 1px solid var(--line);
+  border-left: 2px solid var(--brass-dim);
+  border-radius: var(--radius);
+  padding: var(--space-5) var(--space-6);
+  margin: var(--space-5) 0;
+}
+.placard-label {
+  display: block;
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  margin-bottom: var(--space-2);
+}
+.placard p:first-of-type { margin-top: 0; }
+.placard p:last-child { margin-bottom: 0; }
+/* a placard whose label is immediately followed by a heading (an induction
+   page's own placard-as-header pattern) — the heading's own big top margin
+   is meant for prose flow, not right after a label two lines above it. */
+.placard .placard-label + h2, .placard .placard-label + h3 { margin-top: var(--space-2); }
+/* hook c194 (2026-10-09, the Janitor's D466; finding A11 of the adversarial review):
+   on curation.html and in-memoriam.html the label IS the heading -- the seven rule
+   names and the names in the memorial hall are h3 now, so a screen-reader user can
+   jump rule to rule and name to name. "Styled as is" (the review's own words) means
+   h3's prose top margin, its 600 weight and its 1.2 line-height are not part of this
+   look; .placard-label already wins on font, size, colour and spacing because a class
+   beats a type selector. Every other .placard-label in the museum is still a span. */
+h3.placard-label { margin: 0 0 var(--space-2); font-weight: inherit; line-height: inherit; }
+
+.meta {
+  font-size: var(--text-label);
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  line-height: 1.9;
+}
+.meta .k { color: var(--brass-dim); text-transform: uppercase; letter-spacing: 0.14em; }
+/* hook c210 (2026-10-09, the Janitor's D466; finding C13 of the adversarial review):
+   a wing's placard is a definition list now -- a dt/dd pair per row instead of one
+   paragraph of spans and <br>s, so a screen reader reads it row by row instead of as
+   one run-on line. These four rules are what keeping the look costs. The paragraph's
+   own margins were already zero (it was the placard's first and last child); the term
+   and its definition sit on one line; the two spaces the markup used to carry as
+   "&nbsp; " come back after the label; and the row break the markup used to carry as
+   "<br>" comes back before every term but the first -- `dd + dt`, so there is no stray
+   break above the first row or below the last. The rows stay in normal flow, so a long
+   value still wraps to the placard's left edge exactly as it did inside the paragraph.
+   The dt keeps `class="k"`, so `.meta .k` above still styles the label. Scoped to
+   `.placard dl.meta`: every `<p class="meta">` and `<ul class="meta">` placard
+   elsewhere in the museum is untouched. */
+.placard dl.meta { margin: 0; }
+.placard dl.meta dt, .placard dl.meta dd { display: inline; margin: 0; }
+.placard dl.meta dt::after { content: "\00a0\00a0"; }
+.placard dl.meta dd + dt::before { content: "\A"; white-space: pre; }
+
+/* dedication block */
+.dedication {
+  text-align: center;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: var(--space-7) var(--space-6);
+  margin: var(--space-8) 0;
+  background:
+    linear-gradient(180deg, var(--wash-ded), transparent 70%),
+    var(--bg-2);
+}
+.dedication .names {
+  font-family: var(--font-mono);
+  letter-spacing: 0.16em;
+  color: var(--ink);
+  font-size: var(--text-brand);
+  margin: var(--space-3) 0 var(--space-1);
+}
+.dedication .names span { color: var(--brass); }
+.dedication .dates { font-size: var(--text-label); letter-spacing: 0.1em; color: var(--muted); }
+.dedication .for {
+  font-size: var(--text-label);
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  margin-bottom: var(--space-1);
+}
+
+/* ---- the lineage timeline --------------------------------------------- */
+
+.lineage { margin: var(--space-9) 0; }
+.era {
+  position: relative;
+  padding: var(--space-1) 0 var(--space-7) 34px;
+  border-left: 1px solid var(--line-2);
+  margin-left: var(--space-2);
+}
+.era:last-child { border-left-color: transparent; padding-bottom: var(--space-2); }
+.era::before {
+  content: "";
+  position: absolute;
+  left: -6px; top: var(--space-2);
+  width: 11px; height: 11px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 2px solid var(--brass);
+}
+.era .years {
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: 0.14em;
+  color: var(--brass);
+}
+/* the timeline's own display heading — larger than a document h3 on
+   purpose (it's the one place an era name gets marquee treatment); a
+   documented exception to the reading scale, not an accident. */
+.era h3 { margin: 2px 0 var(--space-1); font-size: 23px; }
+.era .sub { color: var(--muted); font-style: italic; font-size: var(--text-row); margin: 0 0 var(--space-2); }
+.era p { color: var(--ink-soft); font-size: var(--text-row); }
+.era .visit {
+  display: inline-block;
+  margin-top: var(--space-2);
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  border: none;
+}
+
+/* two equal-weight houses inside one era (the UWF/XUW split) */
+.split-houses {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-4);
+  margin: var(--space-4) 0 var(--space-1);
+}
+.split-houses .placard { margin: 0; }
+@media (max-width: 560px) {
+  .split-houses { grid-template-columns: 1fr; }
+}
+
+/* a note / flag callout (curation, provenance) */
+.note {
+  border: 1px solid var(--line-2);
+  border-left: 2px solid var(--rust);
+  background: var(--wash-rust);
+  border-radius: var(--radius);
+  padding: var(--space-4) var(--space-5);
+  margin: var(--space-5) 0;
+  font-size: var(--text-sm);
+  color: var(--ink-soft);
+}
+.note .flag {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--rust);
+  margin-bottom: var(--space-2);
+}
+/* a note's own first paragraph sits right under its flag label — no extra
+   top margin needed, the flag already reads as its heading. */
+.note p:first-of-type { margin-top: 0; }
+/* a verbatim biography quoted inside a note (cross-reference.mjs) — its
+   OWN line breaks are the source's, preserved rather than re-flowed. */
+.bio-text { white-space: pre-wrap; margin: var(--space-2) 0 0; }
+
+/* THE AI-AUTHORSHIP FLAG (2026-08-22, founder's own words: "a small AI
+   flag next to anything that is AI-generated prose... a small green
+   bubble") — one shared badge, every bounded-prose surface (captions,
+   epitaphs, memorial dedications). Deliberately quiet: inline, small,
+   letter-spaced like the site's other mono labels, no border/background
+   loud enough to fight the prose it sits beside — the 500-promotion test
+   applied to the marker itself, since most prose on the site carries it
+   today. Human-authored prose renders with no span at all (see aiFlag()
+   in cross-reference.mjs) — there is no "human" variant to style. */
+.ai-flag {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  letter-spacing: 0.08em;
+  color: var(--ai-green);
+  border: 1px solid var(--ai-green);
+  border-radius: 1em;
+  padding: 0.05em 0.55em;
+  margin-left: 0.4em;
+  vertical-align: middle;
+  opacity: 0.85;
+}
+.attestor-flag {
+  /* THE ATTESTOR CREDIT — the human sibling of .ai-flag: same shape, brass
+     instead of green, text is the attestor's own display handle. */
+  display: inline-block; font-size: 0.62em; letter-spacing: 0.08em;
+  vertical-align: middle; padding: 1px 6px; border-radius: 3px;
+  background: var(--brass-dim); color: var(--on-brass);
+  text-transform: uppercase;
+}
+
+ul, ol { padding-left: 1.3em; }
+li { margin: 0.3em 0; color: var(--ink-soft); }
+
+/* ---- wing sub-navigation ---------------------------------------------- */
+
+nav.subnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1) var(--space-4);
+  margin: var(--space-4) 0 var(--space-2);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--line);
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+nav.subnav a { color: var(--muted); border: none; padding-bottom: 2px; border-bottom: 1px solid transparent; }
+nav.subnav a:hover { color: var(--ink); border-bottom-color: var(--brass); }
+nav.subnav a.here { color: var(--brass); border-bottom-color: var(--brass-dim); }
+
+/* ---- lineage / reign tables ------------------------------------------- */
+
+.table-wrap { overflow-x: auto; margin: var(--space-5) 0; -webkit-overflow-scrolling: touch; }
+
+/* PROFILE QUALITY WAVE, user review of the Phenomenons page: reigns read
+   "dramatically smaller" than the Shows/Roleplays/Relationships sections
+   sitting right next to it on a generated wrestler page (those are plain
+   body-text rows; this table was 14px against an 18px body). Bumped to
+   match — one list-row size (--text-row) across every section of a
+   wrestler page, and now every OTHER dense row/table on the site too. */
+table.ledger {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 440px;
+  font-size: var(--text-row);
+  line-height: 1.6;
+}
+table.ledger caption {
+  caption-side: top;
+  text-align: left;
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  padding-bottom: var(--space-2);
+}
+table.ledger th, table.ledger td {
+  text-align: left;
+  padding: 9px var(--space-4) 9px 0;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+table.ledger thead th {
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  border-bottom: 1px solid var(--line-2);
+  font-weight: 600;
+}
+table.ledger td.holder { color: var(--ink); font-weight: 600; }
+table.ledger td.num, table.ledger th.num { font-variant-numeric: tabular-nums; color: var(--muted); }
+table.ledger tr.current td { color: var(--brass); }
+table.ledger tr.current td.holder { color: var(--brass-bright); }
+table.ledger .boozler { color: var(--rust); }
+table.ledger .stripnote { display: block; font-size: var(--text-label); color: var(--muted); font-style: italic; }
+
+/* a compact roster card grid */
+.roster-card {
+  background: var(--bg-3);
+  border: 1px solid var(--line);
+  border-left: 2px solid var(--brass-dim);
+  border-radius: var(--radius);
+  padding: var(--space-4) var(--space-5);
+  margin: var(--space-4) 0;
+}
+/* an emphasized card/placard/list-row — shares one modifier name across
+   every component that has one (already established on .archive-list). */
+.roster-card.feature, .placard.feature { border-left-width: 3px; }
+.roster-card h3 { margin-top: 0.2em; }
+/* THE HEADING LEVEL (2026-10-03): a list page runs its h1 straight into its
+   card titles with no section head between them, so a card title IS that
+   page's h2 (it was an h3, which skipped a level on all fifteen, and on the
+   A-Z letter pages too). The TYPE must not move with it: a card name is the
+   20px h3 register, never the ruled h2 section head. These are h3's own
+   declarations, so a card renders identically whichever element carries its
+   title — a .roster-card h3 still exists wherever a section head already
+   holds the h2 above it (a memorial's Characters section, a wing's roster). */
+.roster-card h2 {
+  font-size: var(--h3-size);
+  margin: 0.2em 0 0.3em;
+  padding-bottom: 0;
+  border-bottom: 0;
+  color: var(--ink);
+}
+.roster-card .handle {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  margin: 2px 0 var(--space-3);
+}
+.roster-card .handle b { color: var(--brass-dim); font-weight: 600; }
+.roster-card dl { margin: var(--space-2) 0 0; font-size: var(--text-row); }
+.roster-card dt {
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  margin-top: var(--space-3);
+}
+.roster-card dd { margin: 2px 0 0; color: var(--ink-soft); }
+/* THE CAPTIONS WAVE: the one-sentence museum-label line on a roster/search
+   row — clamped to two lines with an ellipsis ("where space allows," not
+   "always, however long") rather than pushed off the row entirely. */
+.caption-line {
+  margin: var(--space-2) 0 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* THE INDEX-FEEDBACK WAVE (2026-09-08) — a small inline badge for a row's
+   own TYPE (a unit's kind, a relationship's nature): reads at a glance and
+   sits visually apart from the plain prose sub-line beside it, the way a
+   promotion's medium/scale tags already read as a distinct tag-style run
+   of short facts rather than a sentence. Tokens only: mono label register
+   (same letter-spacing family as .kicker/.handle), brass accent, one
+   hairline border — no new color introduced. */
+.chip {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  background: var(--wash-chip);
+  border: 1px solid var(--line-2);
+  border-radius: var(--radius);
+  padding: 1px 6px;
+  white-space: nowrap;
+}
+/* hook c279 — an Essays row's chips ARE that page's filters: each carries the
+   query it stands for in `data-q`, and js/list.js's delegated example-token
+   handler puts it in the page's search box. Only the affordance is new here
+   (the pointer, and the same hover the .query-chip example tokens already
+   use); the chip's own look is untouched, and no token is introduced. */
+.essay-about .chip[data-q] { cursor: pointer; }
+.essay-about .chip[data-q]:hover { color: var(--brass-bright); border-color: var(--brass); }
+
+blockquote {
+  margin: 1.4em 0;
+  padding: 4px 0 4px var(--space-5);
+  border-left: 2px solid var(--brass-dim);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+/* ---- the card archive: primary-document artifacts ---------------------- */
+
+.archival-notice {
+  border: 1px solid var(--line-2);
+  border-left: 2px solid var(--rust);
+  background: var(--wash-rust-2);
+  border-radius: var(--radius);
+  padding: var(--space-3) var(--space-4);
+  margin: var(--space-4) 0 var(--space-6);
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+  color: var(--ink-soft);
+}
+.archival-notice .flag {
+  display: block;
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--rust);
+  margin-bottom: 5px;
+}
+.archival-notice a { color: var(--rust); border-bottom-color: var(--rust-line); }
+/* an archival notice immediately followed by a plain caption (rather than
+   a .document block) — a little breathing room before it, tokenized. */
+.archival-notice + p { margin-top: var(--space-2); }
+
+.doc-head { margin: var(--space-2) 0 4px; }
+.doc-head .doc-date {
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: 0.12em;
+  color: var(--brass-dim);
+  text-transform: uppercase;
+}
+
+.document {
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  line-height: 1.75;
+  color: var(--ink-soft);
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: var(--space-6);
+  margin: var(--space-4) 0;
+  max-width: 100%;
+}
+@media (max-width: 560px) {
+  .document { font-size: var(--text-xs); padding: var(--space-4) 15px; }
+}
+
+/* a provenance/source paragraph trailing a served document (RP/show/bio
+   pages) — the single most common inline-style purge target on the site. */
+.provenance { margin-top: var(--space-5); }
+/* the same, but ruled off first (a divider before the trailing note). */
+.divider-note {
+  margin-top: var(--space-6);
+  border-top: 1px solid var(--line);
+  padding-top: var(--space-4);
+}
+
+/* archive index listing */
+.archive-list { list-style: none; padding-left: 0; margin: var(--space-5) 0; }
+.archive-list li {
+  border-bottom: 1px solid var(--line);
+  padding: var(--space-3) 0;
+  margin: 0;
+}
+.archive-list li.feature { border-left: 2px solid var(--brass-dim); padding-left: var(--space-4); background: var(--wash-feat); }
+.archive-list a { border: none; font-size: var(--text-base); color: var(--ink); }
+.archive-list a:hover { color: var(--brass); }
+.archive-list .when {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  margin-bottom: 3px;
+}
+.archive-list .desc { display: block; font-size: var(--text-sm); color: var(--muted); margin-top: 3px; }
+
+/* THE EVENT ROW (hooks c151 and c157, the Janitor's site sweep, 2026-10-08, "Meta"): a link inside a chronological list's date line
+   (the .when span: small mono caps) reads as part of that line, not at body size. One rule for all six chronological lists -
+   Shows, Matches, Appearances, Reigns, Bestowals, Roleplays - where hook c151 had put a page-local copy in each of four. */
+.archive-list .when a { font-size: inherit; letter-spacing: inherit; color: var(--ink); text-decoration: underline dotted; text-underline-offset: 3px; }
+
+/* ---- image galleries --------------------------------------------------- */
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: var(--space-4);
+  margin: var(--space-6) 0;
+}
+.gallery-grid figure {
+  margin: 0;
+  background: var(--bg-3);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.gallery-grid figure.crew { border-left: 2px solid var(--brass-dim); }
+.gallery-grid a.shot {
+  display: block;
+  border: none;
+  background: var(--canvas);
+  line-height: 0;
+}
+.gallery-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  image-rendering: auto;
+}
+.gallery-grid figcaption {
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--ink-soft);
+  padding: var(--space-2) var(--space-3);
+}
+.gallery-grid figcaption b { color: var(--ink); font-weight: 600; }
+.gallery-grid figcaption .fed {
+  display: block;
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  margin-top: 2px;
+}
+
+/* the 88x31 affiliate-button nostalgia wall — dense, native size */
+.button-wall {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin: var(--space-6) 0;
+  padding: var(--space-4);
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+.button-wall img {
+  width: 88px;
+  height: 31px;
+  object-fit: cover;
+  border: 1px solid var(--line-2);
+  background: var(--canvas);
+  image-rendering: auto;
+}
+
+/* gallery hall index cards */
+.hall-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--space-4);
+  margin: var(--space-6) 0;
+}
+/* the homepage's own category-door grid sits after an <hr> and wants a
+   little extra clearance above it. */
+hr + .hall-grid { margin-top: var(--space-7); }
+.hall-grid a, .hall-grid .unlinked {
+  border: 1px solid var(--line);
+  border-left: 2px solid var(--brass-dim);
+  border-radius: var(--radius);
+  padding: var(--space-4);
+  color: var(--ink);
+  display: block;
+}
+.hall-grid a:hover { border-left-color: var(--brass); color: var(--brass); }
+/* a held entry with no page yet — same shape, deliberately un-hoverable */
+.hall-grid .unlinked { border-left-color: var(--line-2); color: var(--muted); cursor: default; }
+.hall-grid .n {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  margin-top: 6px;
+}
+
+/* ---- the homepage's own centered hero (index.html only) ---------------- */
+
+.hero { text-align: center; }
+.hero .kicker { margin: var(--space-6) 0 var(--space-2); }
+.hero h1 { margin-top: var(--space-1); }
+.hero .lede { max-width: 56ch; margin: 0 auto var(--space-2); }
+
+/* a centered aside — the homepage's own dedication line, an essay's
+   closing note. One shape, used wherever a page wants a short caption set
+   off from the reading column instead of flush-left. */
+.centered-note { text-align: center; max-width: 54ch; margin: var(--space-6) auto; }
+
+/* a bare redirect stub (who.html, orbit.html, collections.html — renamed
+   URLs' meta-refresh landing text, no masthead above it). */
+.redirect-notice { margin-top: var(--space-9); }
+
+/* a label a screen reader reads and the page does not show. Every search,
+   filter and sort control on the list pages carries a real <label> now; the
+   placard-plain "one box, one placeholder" look is unchanged. Not
+   `display: none` and not `visibility: hidden` — either of those takes the
+   label out of the accessibility tree too, which is the whole point of
+   having it. */
+.label-offscreen {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---- form fields: search boxes, typeahead filters ----------------------
+   Every list/instrument page (wrestlers, shows, rps, promotions, ...)
+   wires up the same handful of <input>s — one shared shape instead of a
+   repeated inline style= on every one. Width is the only thing that
+   varies page to page, so it's the one thing left to a modifier. */
+.filter-input {
+  font: inherit;
+  font-size: var(--text-sm);
+  padding: 9px 10px;
+  max-width: 220px;
+  background: var(--bg-2);
+  color: var(--ink);
+  border: 1px solid var(--line-2);
+  border-radius: var(--radius);
+  margin: 0 var(--space-3) var(--space-2) 0;
+}
+.filter-input--sm { max-width: 120px; }
+.filter-input--search {
+  width: 100%;
+  max-width: 360px;
+  font-size: var(--text-row);
+  padding: 9px var(--space-3);
+}
+.filter-input--search-wide { max-width: 640px; padding: 10px 14px; }
+.filter-checkbox {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0 var(--space-3) var(--space-2) 0;
+  vertical-align: middle;
+}
+
+/* ---- the example queries under a search box (2026-10-03) ---------------
+   Three or four things worth asking this page, in plain words, each one a
+   real query that really matches rows today. A chip is a <button> so it
+   answers the keyboard and the screen reader without anything hand-wired,
+   and it takes the museum's own chip shape: the label register, the one
+   radius, the 8% gold wash, brass because it is interactive. `--token` is
+   the variant that shows a literal query (the wing hint's own offer): a
+   token is typed the way it is printed, so it keeps its own case. */
+.query-examples {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-1) var(--space-2);
+  margin: 0 0 var(--space-3);
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: 0.1em;
+  line-height: 1;
+}
+.query-examples-label {
+  flex-basis: 100%;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+.query-chip {
+  display: inline-flex;
+  align-items: center;
+  box-sizing: border-box;
+  min-height: 32px;
+  padding: 0 var(--space-2);
+  font-family: var(--font-mono);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--brass);
+  background: var(--wash-chip);
+  border: 1px solid var(--line-2);
+  border-radius: var(--radius);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.query-chip:hover { color: var(--brass-bright); border-color: var(--brass); }
+.query-chip--token { text-transform: none; letter-spacing: 0.02em; }
+@media (max-width: 560px) {
+  .query-chip { min-height: 44px; font-size: var(--text-sm); }
+}
+
+/* ---- field-help (the one "fields this page can search" reference,
+   js/query.js's renderFieldHelp) — collapsed by default, unobtrusive
+   under a search box; a page with no queryable fields yet just never
+   gets this element filled, never an empty box. */
+.field-help { margin: 0 0 var(--space-3); font-size: var(--text-sm); }
+.field-help summary {
+  cursor: pointer;
+  color: var(--muted);
+  font-size: var(--text-sm);
+}
+.field-help summary:hover { color: var(--brass); }
+.field-help p { margin: var(--space-2) 0 0; }
+.field-help code {
+  font-size: 0.92em;
+  background: var(--bg-2);
+  border: 1px solid var(--line-2);
+  border-radius: 3px;
+  padding: 1px 5px;
+  white-space: nowrap;
+}
+
+/* ---- the A-Z browse register (2026-10-03) ------------------------------
+   One row of letters, 0-9 then A-Z, written into a list page's own
+   `<!-- register:start/end -->` marker by scripts/cross-reference.mjs
+   (registerBrowseLine). It replaced 92 generated range links stacked about
+   17 lines deep above the search box; the ranges themselves live on the A-Z
+   index page, where they belong. Tokens only; the mono label register, the
+   one radius, and a 44px-tall target per letter on a phone. Inline markup
+   (spans and anchors), so it is valid wherever the marker sits. */
+.az-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-1) var(--space-4);
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: 0.1em;
+  line-height: 1;
+}
+.az-label { flex-basis: 100%; color: var(--muted); text-transform: uppercase; }
+.az-letters { display: flex; flex-wrap: wrap; }
+.az-letters a,
+.az-letters .az-off {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 22px;
+  min-height: 32px;
+  padding: 0 var(--space-1);
+  letter-spacing: 0;
+  border: 1px solid transparent;
+  border-radius: var(--radius);
+}
+.az-letters a { color: var(--brass); }
+.az-letters a:hover { color: var(--brass-bright); border-color: var(--line-2); }
+.az-letters .az-off { color: var(--muted); opacity: 0.45; }
+.az-all { color: var(--muted); text-transform: uppercase; border-bottom: 0; }
+.az-all:hover { color: var(--brass-bright); }
+@media (max-width: 560px) {
+  .az-letters { display: grid; grid-template-columns: repeat(10, 1fr); width: 100%; }
+  .az-letters a, .az-letters .az-off { min-width: 0; min-height: 44px; font-size: var(--text-sm); }
+  .az-all { display: inline-flex; align-items: center; min-height: 44px; }
+}
+
+/* ---- spacing utilities --------------------------------------------------
+   The small remainder of true one-offs — a paragraph that wants to sit
+   closer to (or further from) whatever's above it than its element's own
+   default margin gives it. Kept to exactly the steps something on the site
+   actually uses, not a full 0-9 utility belt. */
+.mt-0 { margin-top: 0; }
+.mt-3 { margin-top: var(--space-3); }
+.mb-4 { margin-bottom: var(--space-4); }
+
+/* ---- pager (prev/next entity navigation) -------------------------------- */
+
+nav.pager {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  margin-top: var(--space-8);
+  padding: var(--space-4) 0;
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.04em;
+}
+nav.pager .pager-prev,
+nav.pager .pager-next {
+  color: var(--ink);
+  border: none;
+  max-width: 38%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+nav.pager .pager-next { margin-left: auto; text-align: right; }
+nav.pager .pager-prev:hover,
+nav.pager .pager-next:hover { color: var(--brass); }
+nav.pager .pager-indicator {
+  color: var(--muted);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+nav.pager .pager-indicator button {
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--line-2);
+  color: var(--brass);
+  cursor: pointer;
+  padding: 0;
+  margin-left: 0.4em;
+}
+nav.pager .pager-indicator button:hover { color: var(--ink); border-bottom-color: var(--brass); }
+nav.pager .pager-random {
+  font: inherit;
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--line-2);
+  color: var(--muted);
+  cursor: pointer;
+  padding: 0;
+  white-space: nowrap;
+}
+nav.pager .pager-random:hover { color: var(--brass); border-bottom-color: var(--brass); }
+@media (max-width: 560px) {
+  nav.pager { justify-content: flex-start; }
+  nav.pager .pager-prev, nav.pager .pager-next { max-width: 100%; white-space: normal; }
+  nav.pager .pager-next { margin-left: 0; text-align: left; }
+}
+
+/* ---- footer ------------------------------------------------------------ */
+
+footer {
+  border-top: 1px solid var(--line);
+  margin-top: var(--space-9);
+  padding-top: var(--space-5);
+  font-size: var(--text-label-sm);
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  line-height: 1.9;
+}
+footer a { color: var(--muted); border: none; }
+footer a:hover { color: var(--brass); }
+footer .rule { color: var(--brass-dim); }
+
+/* ---- THE HOUSE LIGHTS (the Janitor, 2026-10-03: "Dark, with a toggle"; then "Make the light/dark mode default to
+   the user's system setting") ----------------------------------------------------------------------------------
+   Until a visitor chooses, the lights follow their device: light tokens apply under prefers-color-scheme: light
+   unless they chose "down" (dark), and always when they chose "up" (light). js/theme.js sets <html data-theme>
+   before the page paints from the choice remembered on their device; with no script or no choice, the device
+   decides. Only the tokens change; every component reads them, so no component rule is themed twice. */
+:root[data-theme="up"] {
+  --bg:        #f2ecdf;   /* program paper by daylight */
+  --bg-2:      #e9e1d1;   /* the recessed well: documents, inputs */
+  --bg-3:      #f8f4ea;   /* placard card stock */
+  --ink:       #2a2219;
+  --ink-soft:  #4b4134;
+  --ink-bright: #16110b;
+  --muted:     #6b6151;
+  --line:      #d8ceba;
+  --line-2:    #c3b69c;
+  --brass:     #78591a;   /* gold, darkened to read on paper */
+  --brass-bright: #5c440f;
+  --brass-dim: #735b22;
+  --rust:      #9c4a24;
+  --ai-green:  #2b7049;
+  --canvas:    #d9cfbc;
+  --spot:       rgba(200,162,75,0.10);
+  --wash-mast:  rgba(156,126,56,0.06);
+  --wash-ded:   rgba(156,126,56,0.07);
+  --wash-chip:  rgba(156,126,56,0.10);
+  --wash-feat:  rgba(156,126,56,0.05);
+  --wash-rust:  rgba(156,74,36,0.06);
+  --wash-rust-2: rgba(156,74,36,0.07);
+  --rust-line:  rgba(156,74,36,0.4);
+  --on-brass:   #fff;
+  --select:     rgba(156,126,56,0.28);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="down"]) {
+    --bg:        #f2ecdf;   /* program paper by daylight */
+    --bg-2:      #e9e1d1;   /* the recessed well: documents, inputs */
+    --bg-3:      #f8f4ea;   /* placard card stock */
+    --ink:       #2a2219;
+    --ink-soft:  #4b4134;
+    --ink-bright: #16110b;
+    --muted:     #6b6151;
+    --line:      #d8ceba;
+    --line-2:    #c3b69c;
+    --brass:     #78591a;   /* gold, darkened to read on paper */
+    --brass-bright: #5c440f;
+    --brass-dim: #735b22;
+    --rust:      #9c4a24;
+    --ai-green:  #2b7049;
+    --canvas:    #d9cfbc;
+    --spot:       rgba(200,162,75,0.10);
+    --wash-mast:  rgba(156,126,56,0.06);
+    --wash-ded:   rgba(156,126,56,0.07);
+    --wash-chip:  rgba(156,126,56,0.10);
+    --wash-feat:  rgba(156,126,56,0.05);
+    --wash-rust:  rgba(156,74,36,0.06);
+    --wash-rust-2: rgba(156,74,36,0.07);
+    --rust-line:  rgba(156,74,36,0.4);
+    --on-brass:   #fff;
+    --select:     rgba(156,126,56,0.28);
+    color-scheme: light;
+  }
+}
+
+/* browser surfaces carry the palette too */
+::selection { background: var(--select); color: var(--ink-bright); }
+:focus-visible { outline: 2px solid var(--brass); outline-offset: 2px; }
+a:focus-visible { outline-offset: 1px; }
+
+/* the switch itself (2026-10-05, the Janitor: "House up/down/auto takes a lot of real estate"): one square icon
+   button in the masthead's top corner, on every width. The icon is the lights as set (moon down, sun up, a half-lit
+   disc for auto); a press moves to the next setting; its name says both (js/theme.js). Drawn in the nav's colours. */
+header.masthead .inner { position: relative; }
+.house-lights {
+  position: absolute;
+  top: 35px; /* the centre of the wordmark's row: 22px padding + half the 26px mark */
+  transform: translateY(-50%);
+  right: var(--space-6);
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px; /* 40px for every pointer (was 32 off a coarse pointer); hook c78 */
+  padding: 0;
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  color: var(--muted);
+  cursor: pointer;
+}
+.house-lights svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; }
+.house-lights[data-mode="down"] svg path { fill: currentColor; stroke: none; }
+.house-lights[data-mode="auto"] svg .fill { fill: currentColor; stroke: none; }
+.house-lights:hover { color: var(--brass); border-color: var(--brass-dim); }
+@media (max-width: 560px) {
+  .house-lights { top: 30px; right: 10px; } /* 18px padding + half the 24px mark */
+}
+
+/* ---- responsive -------------------------------------------------------- */
+
+@media (max-width: 560px) {
+  body { font-size: 17px; }
+  .wrap { padding: 0 18px 72px; }
+  header.masthead .inner { padding: 18px 18px 16px; }
+  .placard, .dedication { padding: var(--space-4) 18px; }
+  .wordmark { letter-spacing: 0.16em; }
+}
+
+/* honor prefers-reduced-motion — nothing animates here, but keep the promise */
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+/* THE DIRECTORY-STRUCTURE PASS (the Janitor, 2026-09-04): promotions.html
+   rows carry three fixed chips — tier, medium, years — so the eye can pick
+   the classification and the operating span out of a long list. Years are
+   the founded/closed edges at year grain, "c." where the edge is circa. */
+.roster-card .handle .acro { margin-right: var(--space-3); color: var(--muted); }
+.roster-card .handle .chip {
+  display: inline-block;
+  padding: 1px 8px;
+  margin: 0 6px 4px 0;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.roster-card .handle .chip-medium { color: var(--brass-dim); border-color: var(--brass-dim); }
+.roster-card .handle .chip-type,
+.roster-card .handle .chip-medium[data-medium="online-service"] { background: var(--bg-2); font-weight: 600; }
+.roster-card .handle .chip-years { color: var(--ink); border-color: var(--ink-soft); font-weight: 600; }
+.roster-card .handle .chip-sort { color: var(--ink); background: var(--bg-2); }
+
+/* THE DIRECTORY PASS 2 (the Janitor, 2026-09-04): the tier chip is a solid stamp
+   so it cannot be mistaken for the acronym text beside it; the A–Z letters are
+   in-place filter buttons, not links away from the page. */
+.roster-card .handle .chip-tier { background: var(--ink); color: var(--bg); border-color: var(--ink); font-weight: 600; letter-spacing: 0.06em; }
+.roster-card .handle .acro { font-style: italic; }
+.letter-filter a[href^='/promotions/a-z/'] { display: inline-block; padding: 0 5px; border-radius: 4px; text-decoration: none; }
+.letter-filter a[href^='/promotions/a-z/'].is-active { background: var(--ink); color: var(--bg); }
+
+/* THE CHROME I18N STEP (THE ECOSYSTEM EXPANSION GAVEL, 2026-09-05, step 2;
+   CURATION.md v112(b)): the reader-side translation control, below a served
+   document and above its provenance. Quiet by construction — it is a
+   signpost, not a feature, and on a page whose document a reader cannot read
+   it must not compete with the document. Ruled off above, the same way
+   .divider-note rules off a trailing note one class up. The ?v= stylesheet
+   query is deliberately NOT bumped: these rules are additive, nothing on the
+   current tree uses them, and a bump would restamp 33,245 pages for nothing. */
+.translate {
+  margin-top: var(--space-5);
+  border-top: 1px solid var(--line);
+  padding-top: var(--space-4);
+}
+.translate p { margin: 0 0 var(--space-2); }
+.translate p:last-child { margin-bottom: 0; }
+.translate .k { color: var(--muted); }
+
+/* the museum's English sibling of a scene-language caption (v112(c),
+   #caption-en) — a second sentence, plainly secondary to the one above it,
+   never a replacement for it */
+.caption-en { display: block; color: var(--muted); }
+
+/* the scene chip (v112(d)) — a wing that ran in another language, quiet like
+   the medium chip beside it rather than a flag or a badge */
+.roster-card .handle .chip-language { color: var(--muted); border-style: dashed; }
+
+/* THE CHARACTER-CHIPS WAVE (wave-C90-L286, founder, 2026-09-06): "a
+   visible distinction between real wrestler ... depictions and fictional
+   characters" — the kind chip is a solid stamp, the same visual weight as
+   promotions.html's own chip-tier, since it's the one classification the
+   founder asked to read as unmistakable at a glance. chip-medium/
+   chip-years need no new rule here: .roster-card .handle .chip-medium/
+   .chip-years above already apply to any roster-card, characters'
+   included. */
+.roster-card .handle .chip-kind { background: var(--ink); color: var(--bg); border-color: var(--ink); font-weight: 600; letter-spacing: 0.06em; }
+.roster-card .handle .chip-kind[data-kind="nonhuman"] { background: var(--bg-2); color: var(--ink); font-weight: 600; }
+
+/* THE IN-PLACE LETTER / YEAR FILTER (hook c145, 2026-10-08): the link in a browse row (the A-Z letters on the list pages,
+   later the years) that the page's own filter is currently applying; js/list.js wireTokenLinks sets .is-active and
+   aria-current from the query box. The same inverted stamp as the wing tier chip. */
+.token-filter a.is-active,
+.az-letters a.is-active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.token-filter a.is-active:hover,
+.az-letters a.is-active:hover { color: var(--bg); }
+
+/* UNIT TYPES AND THEIR WING (hook c145, the Janitor's site sweep 2026-10-08: "make the promotion name into a chip and format
+   it as visually distinct from the unit type ... a stable should read visually distinct from a tag team or a trio while
+   scrolling"). Two chips on the card's own chip line (cross-reference.mjs entityCard): the unit TYPE is a mono label stamp,
+   the WING it ran in is a plain-case link pill. A type differs from the others by fill, line style AND colour (never colour
+   alone), and the card's left edge repeats it (:has() on the chip: the index pages build a card's inner markup only, so the
+   row's data-kind is not in the DOM there; a browser without :has() keeps the chips), so the run of a long scroll reads as
+   stables, teams, trios (a faction reads as a stable, a duo as a tag team; a unit with no recorded type carries no type chip
+   and no edge). Tokens only, so both house lights work. */
+.roster-card .handle .chip-unit { font-weight: 600; letter-spacing: 0.06em; color: var(--brass); border-color: var(--brass-dim); background: var(--wash-chip); }
+.roster-card .handle .chip-unit[data-unit-kind="stable"],
+.roster-card .handle .chip-unit[data-unit-kind="faction"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.roster-card .handle .chip-unit[data-unit-kind="trio"] { color: var(--rust); border-color: var(--rust); background: var(--wash-rust); }
+.roster-card .handle .chip-unit[data-unit-kind="entourage"] { color: var(--ink-soft); border-color: var(--ink-soft); border-style: dashed; background: transparent; }
+.roster-card .handle .chip-unit[data-unit-kind="other"] { color: var(--muted); border-color: var(--line-2); background: transparent; }
+.roster-card .handle .chip-wing { text-transform: none; letter-spacing: 0.02em; font-family: var(--font-serif); font-size: var(--text-sm); color: var(--ink-soft); background: transparent; border-color: var(--line-2); }
+.roster-card .handle a.chip-wing:hover { color: var(--brass-bright); border-color: var(--brass); }
+.roster-card:has(.chip-unit[data-unit-kind="stable"]),
+.roster-card:has(.chip-unit[data-unit-kind="faction"]) { border-left: 4px solid var(--ink); }
+.roster-card:has(.chip-unit[data-unit-kind="tag-team"]),
+.roster-card:has(.chip-unit[data-unit-kind="duo"]) { border-left: 3px solid var(--brass); }
+.roster-card:has(.chip-unit[data-unit-kind="trio"]) { border-left: 3px solid var(--rust); }
+.roster-card:has(.chip-unit[data-unit-kind="entourage"]) { border-left: 3px dashed var(--ink-soft); }
+
+/* ---- THE FRONT DOOR (the Janitor, 2026-10-03: the Impeccable critique, "Let's do everything") ----------
+   The homepage's first move is finding yourself: one search field in the hero (to search.html?q=), then the
+   doors grouped into four rooms instead of sixteen equal cards. Tokens only; nothing here is themed twice. */
+
+/* the headline opens the page on its own now (the repeated name above it is gone): give it the room the kicker held */
+.hero h1 { margin-top: var(--space-8); }
+
+/* the search field: the one control on the page that leads, so it takes the gold edge a placard has */
+.home-search {
+  max-width: 560px;
+  margin: var(--space-7) auto var(--space-2);
+  text-align: left;
+}
+.home-search label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+  margin-bottom: var(--space-2);
+}
+.home-search-row { display: flex; gap: var(--space-2); }
+.home-search input {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  font-size: var(--text-row);
+  padding: 12px var(--space-4);
+  background: var(--bg-2);
+  color: var(--ink);
+  border: 1px solid var(--brass-dim);
+  border-radius: var(--radius);
+}
+.home-search input::placeholder { color: var(--muted); }
+.home-search button {
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  min-height: 44px;
+  padding: 0 var(--space-5);
+  background: none;
+  color: var(--brass);
+  border: 1px solid var(--brass-dim);
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+.home-search button:hover { color: var(--brass-bright); border-color: var(--brass); background: var(--wash-chip); }
+
+
+/* the rooms: four labelled groups of doors; two doors to a row so each description reads as a line, not a tag */
+.rooms { display: grid; gap: var(--space-7); margin: var(--space-7) 0 var(--space-8); }
+.room h2 {
+  margin: 0 0 var(--space-3);
+  padding: 0;
+  border: 0;
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  font-weight: 400;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--brass-dim);
+}
+.room .hall-grid {
+  margin: 0;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+  gap: var(--space-3);
+}
+.room .hall-grid .count {
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+.room .hall-grid a:hover .count { color: var(--brass-dim); }
+/* a door's description is a sentence: the reading voice, not the label register */
+.room .hall-grid .n {
+  font-family: var(--font-serif);
+  font-size: var(--text-sm);
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--muted);
+  margin-top: var(--space-1);
+}
+
+/* "All accessions" now closes the recently-added list */
+.all-accessions { margin-top: var(--space-3); }
+
+@media (max-width: 560px) {
+  .hero h1 { margin-top: var(--space-6); }
+  .home-search-row { flex-direction: column; }
+  .home-search button { width: 100%; }
+}
+
+/* ---- PHONES AND TOUCH (the Janitor, 2026-10-03: the Impeccable critique, "Let's do everything") -----------
+   On a phone the gallery nav wrapped to four rows (~230px of a 390px screen) before any content. It becomes one row
+   that scrolls sideways, every link still visible to touch and keyboard, with a fade at the edge to say there is more.
+   On touch screens the small mono links get tap areas of at least 44px. Desktop is untouched. */
+@media (max-width: 560px) {
+  nav.gallery {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: var(--space-5);
+    margin: var(--space-3) calc(-1 * 18px) 0;
+    padding: 0 18px;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x proximity;
+    scroll-padding-inline: 18px;
+    -webkit-mask-image: linear-gradient(90deg, transparent 0, currentColor 18px, currentColor calc(100% - 32px), transparent 100%);
+    mask-image: linear-gradient(90deg, transparent 0, currentColor 18px, currentColor calc(100% - 32px), transparent 100%);
+  }
+  nav.gallery::-webkit-scrollbar { display: none; }
+  nav.gallery a { flex: none; white-space: nowrap; scroll-snap-align: start; padding: 12px 0; }
+  header.masthead .inner { padding-bottom: var(--space-2); }
+}
+@media (pointer: coarse) {
+  nav.subnav a, .crumb a, footer a, .letter-filter a { display: inline-block; padding-top: 10px; padding-bottom: 10px; }
+  nav.pager .pager-prev, nav.pager .pager-next, nav.pager .pager-random, nav.pager .pager-indicator button {
+    display: inline-block; padding-top: 12px; padding-bottom: 12px;
+  }
+  .house-lights { width: 44px; height: 44px; }
+}
+
+/* ---- THE RING MARK IN THE MASTHEAD (the Janitor's D260/D261, 2026-10-03: the mark is "a small companion to the text
+   wordmark" on the site; 2026-10-05: "What happened to the logo in the site header?"). The purpose-drawn small ring
+   (the favicon drawing, the one the forum's header carries), inline in templates/chrome.html so it takes the theme's
+   own tokens: the apron, gold ropes, rust turnbuckles, the parchment centre. Decorative beside the name (aria-hidden). */
+.wordmark { display: inline-flex; align-items: center; }
+.wordmark .ringmark { flex: none; width: 26px; height: 26px; margin-right: var(--space-3); }
+.wordmark .ringmark .m-apron { fill: var(--bg-2); }
+.wordmark .ringmark .m-rope { fill: none; stroke: var(--brass); stroke-width: 1; }
+.wordmark .ringmark .m-pad { fill: var(--rust); }
+.wordmark .ringmark .m-core { fill: var(--ink); }
+.wordmark .ringmark .m-edge { fill: none; stroke: var(--line-2); stroke-width: 1; }
+.wordmark:hover .ringmark .m-core { fill: var(--brass); }
+/* the switch sits in the wordmark's row; keep the name and the line beside it clear of it */
+header.masthead .inner > .wordmark, header.masthead .inner > .tagline { margin-right: 44px; }
+.tagline { margin-left: calc(26px + var(--space-3)); }
+@media (max-width: 560px) {
+  .wordmark .ringmark { width: 24px; height: 24px; margin-right: var(--space-2); }
+  .tagline { margin-left: 0; }
+}
+
+/* ---- THE FOOTER, PARED (2026-10-05, the Janitor: "the footer is messy and overly long"). The page's own line (its
+   name, the way back, its dating) stays as written; the shared links are one short row of their own beneath it:
+   search, the forum, the affiliate. The homepage's rooms carry the rest. */
+footer .footnav { margin-top: var(--space-2); font-size: inherit; letter-spacing: inherit; }
+footer .footnav a { color: var(--ink-soft); }
+footer .footnav a:hover { color: var(--brass); }
+
+/* ---- THE DEDICATION'S LINKS (2026-10-05, the Janitor: "Sean's and Jay's 'in memory of' dedication should be linked
+   off of their names ... paired with ... 'and everyone else we lost too soon' linking to the full memorial"). Ready
+   for the homepage's memorial line once the Janitor picks the companion line's wording: each name opens his memorial
+   page, in the names' own gold; the companion line is the label's quiet colour, opening the memorial hall. */
+.memorial-front a.who { color: var(--brass); border-bottom: 0; }
+.memorial-front a.who:hover { color: var(--brass-bright); }
+.memorial-front a.all { color: var(--muted); border-bottom: 0; }
+.memorial-front a.all:hover { color: var(--brass); }
+
+/* ---- THE EWM RING ON DESKTOP (the Janitor, 2026-10-05: "distinct sizes for desktop vs phone is what I was expecting";
+   D345; hook c75). Wider than a phone, the masthead carries the refined ring mark with its EWM letters (D261's drawing,
+   served once as /ringmark.svg and drawn with <use>) at the logo sheet's 48px lockup scale: the mark stands to the left of
+   the name AND the line beneath it, so the lockup costs the masthead almost no height. Its colours are the theme's own
+   tokens, passed in as --mk-* custom properties, so it follows the house lights. Phones keep the small ring (c73). */
+.wordmark .ringmark-lg { display: none; }
+@media (min-width: 561px) {
+  header.masthead .inner > .wordmark, header.masthead .inner > .tagline { margin-left: calc(48px + var(--space-4)); }
+  .wordmark .ringmark { display: none; }
+  .wordmark .ringmark-lg {
+    display: block;
+    position: absolute;
+    left: var(--space-6);
+    top: 19px; /* centred on the name and the line beneath it */
+    width: 48px;
+    height: 48px;
+    --mk-apron: var(--bg-2);
+    --mk-rope: var(--brass);
+    --mk-pad: var(--rust);
+    --mk-letters: var(--ink);
+    --mk-edge: var(--line-2);
+  }
+  .wordmark:hover .ringmark-lg { --mk-letters: var(--brass); }
+}
+
+/* ---- SITE POLISH 2 (the Impeccable audit of 2026-10-05, hook c78): a skip link that shows on focus; the wordmark's last word
+   glued to its dot so a narrow phone never strands the dot on a line of its own (the name is one flex item now, and
+   MUSEUM. does not break). The current nav link's look is the .here rule above; the stamper sets it. */
+.skip-link {
+  position: absolute;
+  left: var(--space-3);
+  top: -120px;
+  z-index: 100;
+  padding: 10px 14px;
+  background: var(--bg-2);
+  color: var(--ink-bright);
+  border: 1px solid var(--brass);
+  font-family: var(--font-mono);
+  font-size: var(--text-label);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.skip-link:focus { top: var(--space-3); }
+#main-content { outline: none; }
+.wordmark .nw { white-space: nowrap; }
+/* ---- NO SIDEWAYS SCROLL, NO DEAD CONTROLS WITHOUT SCRIPT (the adversarial review of 2026-10-09, hook c170; A05 A06 A07 A08 B06
+   B07 B08 B09 B12). A long name, a pasted address, a long wing chip or a repeated query wraps inside its row and never widens the
+   page: overflow-wrap is inherited, so one rule on a row container covers every name, note and chip inside it. */
+#results, #bestowal-results, .archive-list, .roster-card { overflow-wrap: anywhere; }
+.query-chip--token, .roster-card .handle .chip, .chip-wing { white-space: normal; overflow-wrap: anywhere; max-width: 100%; text-align: left; }
+.query-chip--token { padding-top: var(--space-2); padding-bottom: var(--space-2); line-height: 1.35; }
+/* js/theme.js sets <html data-theme> the moment script runs, on every page. Without script nothing sets it, and a search box,
+   a filter box, a "Start with" button or a "Browse by year" link that reloads the same empty page is a control that does
+   nothing; the page's own <noscript> line says where the baked registers are. */
+html:not([data-theme]) :is(.filter-input, .query-examples, #query-hint, #fields-help, #tform, #hof-browse) { display: none; }
+html:not([data-theme]) #year-links:has(> a[href*="?q="]) { display: none; }
+/* THE FIRST REDACTION MARKER LINKS TO THE RULE (hook c185, 2026-10-09; the Janitor's D466, finding C04 of the adversarial
+   review). scripts/fixers/fix-redaction-marker-link.py wraps the first marker on a page in this link. Quiet on purpose: it
+   must not pull the eye away from the words of the person who wrote the document. */
+.redaction-link { color: inherit; border-bottom: 1px dotted var(--line); text-decoration: none; }
+.redaction-link:hover, .redaction-link:focus-visible { border-bottom-style: solid; }

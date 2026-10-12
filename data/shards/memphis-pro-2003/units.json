@@ -1,0 +1,140 @@
+[
+ {
+  "id": "rating-boost-memphis-pro-2003",
+  "type": "unit",
+  "name": "Rating Boost",
+  "aka": [
+   "Ratings Boost"
+  ],
+  "unit_kind": "trio",
+  "members": [
+   {
+    "name": "Cleveland Paige",
+    "character_id": "cleveland-paige-memphis-pro-2003"
+   },
+   {
+    "name": "C.D. Justice",
+    "character_id": "c-d-justice-memphis-pro-2003"
+   },
+   {
+    "name": "Stevie Nash",
+    "character_id": "stevie-nash-memphis-pro-2003"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "memphis-pro-2003",
+    "source": "Listed as a stable on the fed's concept page and its roster page: 'Cleveland Paige, C.D. Justice, & Stevie Nash (Rating Boost)'; the sheets for Paige and Nash say they are allied as Rating Boost."
+   }
+  ],
+  "caption": "The heel trio of Cleveland Paige, C.D. Justice and Stevie Nash, two of them once rivals in Ohio; Justice was a late replacement for a third member who backed out.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [],
+    "note": "No other unit of this name is on file; recorded as its own record pending any future collision."
+   }
+  ]
+ },
+ {
+  "id": "southern-baptist-coalition-memphis-pro-2003",
+  "type": "unit",
+  "name": "Southern Baptist Coalition",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Deacon",
+    "character_id": "deacon-memphis-pro-2003"
+   },
+   {
+    "name": "Abraham",
+    "character_id": "abraham-memphis-pro-2003"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "memphis-pro-2003",
+    "source": "Listed on the fed's concept page as 'Deacon & Abraham w/Jimmy Davis (Southern Baptist Coalition)'; the sheets for Deacon, Abraham and Jimmy Davis say the two were jobbers renamed by Davis, who manages them."
+   }
+  ],
+  "caption": "The heel tag team of Deacon and Abraham, once jobbers, renamed and managed by Jimmy Davis; the fed's third tag team.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "presumed-same",
+    "grade": "presumed",
+    "with": [
+     "the-southern-baptist-coalition"
+    ],
+    "note": "NFW's Southern Baptist Coalition debuted on 5 August 2007 as Abraham and Jacobs, managed by Jimmy Davis; this fed's is Deacon and Abraham with Jimmy Davis. Same name, the same manager and one shared member (both drafted presumed-same with NFW's records); the second member differs, and NFW's long-running Deacon is not this fed's Deacon, whose sheet calls Memphis PRO his first promotion."
+   }
+  ]
+ },
+ {
+  "id": "the-turks-memphis-pro-2003",
+  "type": "unit",
+  "name": "The Turks",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Laguna",
+    "character_id": "laguna-memphis-pro-2003"
+   },
+   {
+    "name": "Reno",
+    "character_id": "reno-memphis-pro-2003"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "memphis-pro-2003",
+    "source": "Listed on the fed's concept page as 'Laguna & Reno (the Turks)'; the sheets say they are brothers and the leading face tag team."
+   }
+  ],
+  "caption": "The face tag team of the brothers Laguna and Reno.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [],
+    "note": "No other unit of this name is on file; recorded as its own record pending any future collision."
+   }
+  ]
+ }
+]

@@ -1,0 +1,83 @@
+[
+ {
+  "collection": "0082",
+  "id": "sewf-world",
+  "name": "SEWF World Heavyweight Championship",
+  "promotion": "sewf",
+  "page": "/titles/sewf-world.html",
+  "type": "title",
+  "epitaph": "Vacant through the 2000 relaunch's own tournament, the World Heavyweight Championship was first won by Jay Lange on 3 September 2000. By the fed's own title histories it passed through Johnny Sledge, Ray Hagan, Jarred Matthews and four reigns of Phah Q. Dickshine, two of which ended with Dickshine handing the belt backstage to Jeff Kane and to Archangel for an hour, before Mike Masters took it in May 2001. Art Blake held it with the United States title after a sixty-minute Iron Man Hell in a Cell at Octoberfest, gave it up, and Burt Clifton won the sixteen-man tournament for it at End Game in December 2001.",
+  "epitaph_asof": {
+   "author": "ai",
+   "evidence": {
+    "reigns": 13
+   },
+   "written": "2026-09-21"
+  },
+  "notes": "No reign is registered: the held record stages no title change. See data/shards/sewf/shows.json for the tournament's own Round 2 results and Round 3 announced pairings."
+ },
+ {
+  "collection": "0082",
+  "id": "sewf-us",
+  "name": "SEWF World United States Championship",
+  "promotion": "sewf",
+  "page": "/titles/sewf-us.html",
+  "type": "title",
+  "epitaph": "Filled at ShawCade 3 in September 2000 by Simon Southward, the United States Championship went on to Wyatt Wallace, Tommy Grayson, Adam Mitchell, Grayson again and Art Blake, whose 119-day reign from January 2001 the fed called its longest, before Tom Collins, Mitchell again, Mike Bright and Simon Solkoff held it through the summer. Blake held it again at Octoberfest and gave it up in November to a five-way Thunderdome brawl, won at End Game by Trineo Del Abanico, who unmasked as Johnny Sledge.",
+  "epitaph_asof": {
+   "author": "ai",
+   "evidence": {
+    "reigns": 10
+   },
+   "written": "2026-09-21"
+  }
+ },
+ {
+  "collection": "0082",
+  "id": "sewf-tag",
+  "name": "SEWF World Tag Team Championship",
+  "promotion": "sewf",
+  "page": "/titles/sewf-tag.html",
+  "type": "title",
+  "epitaph": "Filled at ShawCade 3 in September 2000 by the Invisibles, the Tag Team Championship ran through nine reigns by the fed's own title histories between September 2000 and May 2001, three of them Tommy Kain and Burt Clifton's, then passed to Sex Stable 2001 at the June relaunch and to the Flaming Jet Planes for a second time on 1 July. The Kasai Contingent won it in Tag Team Turmoil at End Game in December 2001.",
+  "epitaph_asof": {
+   "author": "ai",
+   "evidence": {
+    "reigns": 12
+   },
+   "written": "2026-09-21"
+  }
+ },
+ {
+  "id": "sewf-extreme",
+  "type": "title",
+  "name": "SEWF Extreme Championship",
+  "promotion": "sewf",
+  "page": "/titles/sewf-extreme.html",
+  "collection": "0148",
+  "epitaph": "Filled at the end of October 2000 by Phah Q. Dickshine in a three-way, the Extreme Championship was held by eleven champions in turn by the fed's own title histories before the summer of 2001, three of them in March and April alone as Twisted Chaos and Ian Blade traded it. Renamed the Extreme Television Championship by the autumn, it was defended in a Hardcore Hell match of barbed-wire ropes and light bulbs and in a handicapped weapons match, and Smoove won it back at End Game in December 2001.",
+  "epitaph_asof": {
+   "written": "2026-09-21",
+   "evidence": {
+    "reigns": 12
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sewf-junior",
+  "type": "title",
+  "name": "SEWF World Junior Heavyweight Championship",
+  "promotion": "sewf",
+  "page": "/titles/sewf-junior.html",
+  "collection": "0148",
+  "epitaph": "Announced by President Thomas Casey on 12 November 2001 and contested by four teams of four in elimination matches, the World Junior Heavyweight Championship was first won by Simon Solkoff in the four-way final at End Game on 10 December 2001, the same night he lost the World Heavyweight tournament final.",
+  "epitaph_asof": {
+   "written": "2026-09-21",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  }
+ }
+]

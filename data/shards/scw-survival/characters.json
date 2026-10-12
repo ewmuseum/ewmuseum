@@ -1,0 +1,48 @@
+[
+ {
+  "id": "viper-scw-survival",
+  "type": "character",
+  "name": "Viper",
+  "tenures": [
+   {
+    "promotion": "scw-survival",
+    "role": "wrestler — Commissioner Champion, billed Co-CEO",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "source": "the fed's own served Roster and Belts and Champions pages (promotions/scw-survival/archive/)"
+   }
+  ],
+  "caption": "The fed's own billed Co-CEO and its only non-vacant champion, holding the SCW Commissioner Championship.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "viper-lcw-ltd",
+     "viper-low",
+     "viper-ngw",
+     "viper-tokara",
+     "viper-wwa",
+     "viper-xcwf"
+    ],
+    "note": "An exact-name collision against six other feds' own \"Viper\"-named wrestlers (re-checked against the full registry 2026-08-31, up from three at the 2026-08-29 mint — viper-lcw-ltd, viper-ngw and viper-tokara were minted afterward, elsewhere). No document on either side names another fed or claims a shared performer. Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ }
+]

@@ -1,0 +1,787 @@
+[
+ {
+  "id": "black-dragons-pure",
+  "type": "unit",
+  "name": "Black Dragons",
+  "aka": [
+   "the Chinese Black Dragons",
+   "The Black Dragons"
+  ],
+  "unit_kind": "stable",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A normalized-substring coincidence only against IWF's own black-dragon, GIWF's own black-dragon-giwf and NAPW's own declan-black (“The Black Dragon”) — unrelated characters in unrelated promotions. Distinct too from PURE's own inphino-blitz, whom the fed's columnist called “the Black Dragon Master” a month before this team was hired.",
+    "with": []
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "OSW's own card for the Black Dragons (bio 4515) lists PURE as its other federation, and an OSW card of 29 June 2002 bills them 'from PURE'; the PCW card for this team names OSW among its other federations."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002-05",
+    "last_seen": "2003-03-19",
+    "role": "tag team — an enigmatic four man team hired from the XWA",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own news page (promotions/pure/archive/news.html); the fed's own Ikusa IV card (promotions/pure/archive/ikusa-4-card.html); PURE's own roster card database, dragons.txt + dragons1.txt + dragons2.txt (Argyle's donated deposit); promotions/pure/archive/ikusa-kumamoto-2003-02-02.html",
+    "note": "PURE's news and its Ikusa IV card name no member. The Ikusa IV card bills them only as “Two Members of the Black Dragons” and “the Other Two Members of the Black Dragons,” in two separate tag matches on the same night. PURE's own roster database corrects this: three Black Dragons tag cards (dragons.txt, dragons1.txt, dragons2.txt) name five individual members across three shifting two-man pairings — Chen Lei Chia, Chi'ing, Chan Tin Yeung, Nang Yung-ho and Chiang Ho Nam — against the news record's own count of four; both counts are recorded rather than resolved, since the roster cards and the news/card billing may simply be describing the stable at different moments. The team is still on PURE's cards in 2003: Chen Lei Chia, Chi'ing and Chiang Ho Nam work the twelve-man tag of Ikusa Tosu (9 February 2003), and the opening packages of Ikusa Budokan (9 March 2003) and World Hong Kong (19 March 2003) show the team."
+   },
+   {
+    "promotion": "osw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "OSW's own backstage database (lot 0159), bio 4515",
+    "grade": "billing",
+    "note": "On OSW's own roster in its backstage database; the fed's own record of its cards credits no appearance. Joined to this record on the evidence recorded in its identity row."
+   },
+   {
+    "promotion": "pcw",
+    "first_seen": "2002-11-27",
+    "last_seen": "2002-11-27",
+    "source": "PCW's own database (lot 0159)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "style": "Technical",
+    "finisher": "Death from Above",
+    "entrance_music": {
+     "verbatim": "Classical Chinese instrumental music begins to play after a series of three gong strikes."
+    }
+   }
+  ],
+  "caption": "A Chinese stable hired out of the XWA, four men by PURE's news and its Ikusa IV billing and five by its own three roster cards, with Chen Lei Chia, Chi'ing and Chiang Ho Nam still on PURE's cards in February 2003.",
+  "caption_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Chen Lei Chia",
+    "character_id": "chen-lei-chia-pure"
+   },
+   {
+    "name": "Chi'ing",
+    "character_id": "chiing-pure"
+   },
+   {
+    "name": "Chan Tin Yeung",
+    "character_id": "chan-tin-yeung-pure"
+   },
+   {
+    "name": "Nang Yung-ho",
+    "character_id": "nang-yung-ho-pure"
+   },
+   {
+    "name": "Chiang Ho Nam",
+    "character_id": "chiang-ho-nam-pure"
+   }
+  ]
+ },
+ {
+  "id": "team-okiki",
+  "type": "unit",
+  "name": "Team Okiki",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Taka Nazaki",
+    "character_id": "taka-nazaki"
+   },
+   {
+    "name": "Sakato Nazaki",
+    "character_id": "sakato-nazaki"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2002-05",
+    "role": "tag team — PURE's leading tag team unit",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own column page, Yuri “Quest” Takayama's division rankings of 2 May 2002 (promotions/pure/archive/columns.html); the fed's own news page (promotions/pure/archive/news.html)"
+   }
+  ],
+  "caption": "Two brothers from Tokyo who set the pace of PURE's tag division and asked to be released before the tag titles the fed kept announcing were ever awarded.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "boogiepop-dynasty-pure",
+  "type": "unit",
+  "name": "Boogiepop Dynasty",
+  "unit_kind": "trio",
+  "members": [
+   {
+    "name": "Rampage"
+   },
+   {
+    "name": "Cellacia"
+   },
+   {
+    "name": "Kyoshiro"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "trio, billed as boogiepop dynasty",
+    "alignment": "Face",
+    "entrance_music": {
+     "verbatim": "'Kagami Kamen' by Boogiepop Dynasty"
+    },
+    "note": "The card's own bio names all three in full: Rampage (Ryo Tazawa, b. 4 Aug 1977, Nara, 6'2\", 284 lbs), Cellacia (Reimi Otonachi, b. 18 May 1981, Kumamoto, 5'8\", 173 lbs) and Kyoshiro (Kyoshiro Kimura, b. 23 Mar 1979, Kochi, 5'11\", 249 lbs) — the card's own tag-team engine only carries two of the three in its own wrestler1/wrestler2 slots. Other Federations (card's own field): TWL. Other Federation Awards (card's own field): between the three of them, the TWL World, Women's, Jr. Heavyweight and Tag Team titles.",
+    "bio": "Team: Boogiepop Dynasty\n\n\n\n\n\n\n\nName:\n\n\n\n-Rampage (Ryo Tazawa)\n\n\n\n-Cellacia (Reimi Otonachi)\n\n\n\n-Kyoshiro (Kyoshiro Kimura)\n\n\n\nBirth Dates:\n\n\n\n-August 4, 1977 (25)\n\n\n\n-May 18, 1981 (21)\n\n\n\n-March 23, 1979 (23)\n\n\n\nHometowns:\n\n\n\n-Nara, Honshu, Japan\n\n\n\n-Kumamoto, Kyuushuu, Japan\n\n\n\n-Kochi, Shikoku, Japan\n\n\n\nHeights:\n\n\n\n-6’2\n\n\n\n-5’8\n\n\n\n-5’11\n\n\n\nWeights:\n\n\n\n-284 lbs\n\n\n\n-173 lbs\n\n\n\n-249 lbs\n\n\n\nNicknames:\n\n\n\n-Rampage: ‘Page, Rock Star\n\n\n\n-Cellacia: Cell, Boogiepop, J-Pop Princess\n\n\n\n-Kyoshiro: Kyo, #1 Slugga\n\n\n\nStatus: Face\n\nEntrance Music: “Kagami Kamen” (Mirror Mask) by Boogiepop Dynasty (BD’s first single)\n\n\n\nWrestling Styles: \n\n\n\n-Rampage: Technical/Shoot Style wrestling, focusing on suplex and submission chains, working on specific body parts to set up for the kill.\n\n\n\n-Cell: High Flying/Gymnastics, lucha libre-like movement through the ring, flipping and spinning acrobatic maneuvers that will land the opponent on the mat. \n\n\n\n-Kyo: Brawling/Martial Arts, a fighter to the end, working on punches and kicks to down his opponent as they do in the streets, hence the name, #1 Slugga\n\n\n\nSet Up Move: \n\n\n\nComplete B-Dynasty setup: Fusion Beats: Cell performs a spinning legscissors arm drag (Sickle Cell), followed by Kyo nailing a double axe handle uppercut the opponent into the corner (#1 Slugga). Rampage comes in w/ a splash, but grabs the opponent and throws him over with an overhead belly to belly suplex (1/3 of Retroplex).\n\n\n\nCell/Kyo setup: Hip/Pop: Cell pushes opponent into the ropes and leaps up, grabbing them in a jumping hip toss. The throw sends the opponent over sitting up on the mat, but just as impact is made Kyo comes in with a sliding Karate kick to the face, knocking them down on their face.\n\n\n\nCell/Rampage setup: Heavy Metal Queen: Rampage lifts the opponent up for a Brainbuster, and Cell runs in, leaps up and wraps her legs around the opponent’s upper torso. The weight sends all three down, Rampage in a Brainbuster DDT and Cell in a sitting bearhug piledriver.\n\n\n\nRampage/Kyo setup: The Beatdown: Rampage locks in a full nelson from behind, allowing Kyo to come in with a right cross to the jaw, left hook shot to the midsection, and a final right uppercut to the chin as Rampage goes over w/ the Dragon Suplex.\n\n\n\nCell: Sickle Cell: A spinning legscissors arm drag; Cell runs on the opponent and goes for a spinning legscissors, but spins completely around and morphs the move into a spinning arm drag, sending the opponent into the mat and dizzying them as they rise back up.\n\n\n\nKyo: #1 Slugga: An uppercutting double axe handle smash that knocks the opponent back, mostly aimed so that the opponent falls back into the corner or ropes. \n\n\n\nRampage: Retroplex: Rampage locks his arms around the opponent and throws them over w/ an overhead belly to belly suplex, but rolls over, squats over the opponent w/ his arms still locked, and pulls the opponent up with another overhead belly to belly. Pulling the opponent back up once more, Rampage turns 180 degrees and nails a releasing belly to belly suplex. \n\n\n\nFinishers:\n\n\n\nComplete B-Dynasty finisher: Boogiepop Revolution: Kyo runs in with Da Noise, knocking the opponent back into the waiting arms of Rampage for the Acoustic. Cell comes off with the finishing, jumping up and pinning both of the opponent’s legs to the ground with her own legs and bridges as Rampage bridges the Acoustic.\n\n\n\nRampage: Acoustic: Rampage grabs the opponent in a tiger suplex from behind, locking his hands around the arms in a vertical over horizontal position. Then he locks his hips and snaps the opponent over, slamming them straight onto the back of their head/back. (snap tiger suplex)\n\n\n\nKyo: Da Noise: Kyo runs in with a spinning elbow smash (roaring elbow) into the temple of the opponent, knocking them back onto the mat out cold. \n\n\n\nCell: Idol Hands: Cell locks hands with the opponent and leaps up for a hurricanrana. Cell then rolls over so that she is back to back with her opponent, hands still locked. Then she pulls herself back and locks her legs around the person’s neck, flipping them over for a reverse rana into an sitout mat slam/x-factor.\n\n\n\nCell/Kyo finisher: Gentle Verse: Cell performs the Idol Hands, but just as she goes to complete the final portion, Kyo runs in and delivers Da Noise, adding extra impact to the reverse rana/x-factor from Cell.\n\n\n\nCell/Rampage finisher: Uncut Version: Rampage goes for the Acoustic, and just as he snaps the opponent over Cell flips over with a somersault axe kick into the throat of the opponent, a double impact on the neck from both sides. \n\n\n\nRampage/Kyo finisher: Amp Frequency: Rampage prepares for the Acoustic, and Kyo adds in extra power to the move with  #1 Slugga right under the chin before Rampage completes his move.\n\n\n\nKyo Move set-\n\n\n\nKimura Slide: Kyo slides in through the legs of the opponent, grabbing the ankles and pulling them down face first into the mat. \n\n\n\n7th Inning: Moving in with a back elbow thrust into the midsection, Kyo grabs the back of the head and holds it as he comes up with a knee into the face of the opponent. Then he closes it with a side shuffle kick into the face, knocking them back into the mat. \n\n\n\nStreet Pitcher: Kyo throws the opponent into the ropes, and when they come back he nails them under the chin with a thrust kick. The opponent falls back into the ropes, and Kyo catches them on the rebound, grabbing them by the neck and throws them down with a judo hip toss on the mat.\n\n\n\nBases Loaded: A spear into a mounted punch set, Kyo tackling the opponent before kneeling over them and pummeling them with both fists. \n\n\n\nFastball: Known in the streets for his quick hands, Kyo comes around with a quick roundhouse hook across the face of the victim. Usually used around the end of a punching comeback, or as a sudden counter against strikes. \n\n\n\nCell Move set-\n\n\n\nWhite Cell: Jump Swinging Hurricanrana; Cell runs at the opponent, and jumps up, swinging around the person like a jump swinging DDT, but when she comes around to the front of the opponent, she leaps up and nails them with a swift hurricanrana. \n\n\n\nRed Cell: Cell leaps up, grabbing the person’s head and leaning back into a DDT, but Cell adds more impact as she monkey flips the opponent over, putting more force into the DDT\n\n\n\nJ-Pop: A counter as well as an attack; Cell grabs the opponent and whips them away, but holds onto them. She yanks them back and presses her back against the person’s chest, snatching the opponent over in a modified judo hip toss/rotating fireman’s carry. A counter if whipped and she reverses.\n\n\n\nIdol Image: Cell leaps up for a hurricanrana, but spins around so that she faces the same way as the victim. Then she hangs down, her ankles around the opponent’s head as she reaches under and grabs the opponent’s legs, pulling the opponent’s head down into the mat as they drop down to their knees. A pin attempt can be made if she rolls over as she has the legs hooked.\n\n\n\nCellibate: A 360 rotating high angle bulldog. Cell grabs the opponent for a bulldog and runs up the turnbuckle or ropes, springing off in a back flip and drives the opponent back down in a high angle bulldog, Cell landing straight on her back w/ her legs up in the air. Can be used as a counter to a back drop or variation of a back drop.\n\n\n\nRampage Move set-\n\n\n\nEmo Flux: Rampage tackles the opponent in the back, knocking them forward into either the mat, the ropes, or the corner. Then he wraps his arms around their waist and nails a snapping overhead German Suplex, Rampage arches over and presses them facedown into the mat to add impact. Optional methods include rolling over and continuing the snapping overhead German suplex chain, bridging for a pin, or rolling over and nailing a releasing suplex.\n\n\n\nHeavy Metal: The opponent is snatched up onto Rampage’s shoulders in a fireman’s carry. Then Rampage completely drops backwards, crashing down in a bridging Samoan Drop. Optional methods bridging for a pin, rolling over and nailing another Samoan Drop suplex in chain, or rolling over and nailing a front flipping Samoan Drop suplex. \n\n\n\nGuitar Vader: With the opponent face down on the mat, Rampage locks the arm in a leg scissors armbar, while grabbing the other arm and locking in a half chickenwing. Then he takes his free right arm and leans over, pulling back on the neck of the opponent. (Crossface Chickenwing Armbar Submission.)\n\n\n\nScreech and Thrash: Rampage locks in a sharpshooter, and leans back, lodging his knee into the back of the victim and wrenching on the back in a elevated Boston Crab variation. \n\n\n\nAlternative Hype: Locking in a reverse full nelson hold, Rampage throws the opponent over in a reverse Dragon Suplex. Can be chained into multiple suplexes and can be bridged. \n\n\n\n\n\n\n\n\n\n\n\n\n\nHistory—\n\n\n\nCellacia Otonachi, Rampage, and Kyoshiro…\n\n\n\nThe sweet and down to earth brown and white haired girl next door…\n\n\n\nThe big-hearted and skilled blonde muscle-bound jock…\n\n\n\nThe rough, cocky, and raspy boy from the streets w/ half a foot tall hairdo…\n\n\n\nYou probably know these three as friends of the infamous Inphino Blitz, martial artist known throughout the world. But now the group known formerly as the Blitz Promotional Team is taking their chance to make themselves known in two very different ways. \n\n\n\nThese three, veterans of puro from the Tokyo Wrestling League, have taken the opportunity to show their wares in the newly reopening PURE, using their past accolades along with their ties to Inphino Blitz and PURE player Mina de Margo to ensure themselves a position within the company…more importantly, to help establish the unique Trinity Division and make it a success.\n\n\n\nTheir second chance at stardom is in the form of their music. Each of these three members brings a personal touch of musical genius to the group…Cell the J-Pop Princess, Rampage the Rock Star, and Kyo the Verse Villain and the “#1 Slugga” as he is known on the streets. Rap, Pop, and Rock…merged into one entity that they have dubbed:\n\n\n\n“Boogiepop Dynasty”\n\n\n\nAfter auditioning for Naoki Records out of Kamakura, the CEOs of the company, the sibling duo of Debutante and Dilettante Masaki, signed these three right away. It wasn’t soon that the same song they auditioned with was released as the group’s first single; Kagami Kamen, or Mirror Mask. The song’s topped charts through the country, and has made good reviews on the foreign markets. Naoki Records has high hopes that their wrestling career will also bring more publicity to the group, as well as increase CD and merchandising sales.\n\n\n\nOf course to Cell, Rampage, and Kyo, it’s all about the fans…it’s all about the fight…it’s all about the music. \n\n\n\nYou are now under the will of the Boogiepop Dynasty…\n\n\n\n-=-=-=-=-=-=-=-=-\n\n\n\n\n\n",
+    "source": "PURE's own roster card database, boogiepop.txt (Argyle's donated deposit)"
+   }
+  ],
+  "caption": "A face trio out of Japan's TWL, boogiepop dynasty finished with the Boogiepop Revolution, a three-person combination named for the group itself.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "nu-era-pure",
+  "type": "unit",
+  "name": "Nu Era",
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "source": "PURE's own roster card database, era.txt (Argyle's donated deposit); promotions/pure/archive/ikusa-kumamoto-2003-02-02.html",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team — billed as Nu Era",
+    "finisher": "Termination — Josh applies a boston crab whilst Johnny locks on a crippler crossface as Ric comes of the top rope with a moonsault to the exposed back",
+    "entrance_music": {
+     "verbatim": "Superstar by Saliva"
+    },
+    "bio": "Born in the same neighbourhood, their mothers were and still are \n\ngood friends. at first Ric and Johnny could not stand the sight of each \n\nother. With both of the two trying to out do each other wether it be with \n\nthe females or in sport. \n\n\n\nThis carried on untill Ric's very first day of high school. Johnny was \n\nalready at High school as he was two years older then Ric. Ric at the time \n\nwas a very shy individual, and did not associate well with the other kids. \n\nTwo of the schools bullies took note of Rics coyness and decided to take \n\nadvantage of it. Upon seeing this Johnny went flipmode and completely \n\nkicked the two bullies asses. After Ric asked why Johnny did what he did, but \n\nJohnny has not mentioned why till this very day. \n\n\n\nThe two of them stuck together like glue from that day onwards. Johnny \n\nalways had Ric's back and vice verser. They realised that they could not \n\nlive up to their fathers standard (who were successful businessmen). So they \n\ndecided to join a local gym and become established athletes but in what \n\nsport? Johnny had the braun and an animal like mentality. While on the \n\nother hand Ric was a swift and cunning little S.O.B! One day they was \n\nworking out, when Ric noticed a poster on the wall: Who's tougher then you. \n\nNo one well come and find out! and thats how Nu Era broke into the \n\nwrestling business. They won various state wrestling tag team tournaments. \n\nBut said they were bored of the indy circuit and wanted a piece of the big \n\ntime, OSW. So they find them selves signing the dotted line of the most \n\nextreme tag team tournament. Hoping to get have the chance of a lifetime \n\nand climb the mountain of success required to become legends and a force to be reckoned with!\n\n\n\nAfter being eliminated from the OSW MET they were accepted into a well established fed known as NTICW the was there for about a month and had a record of 1-0-1, and were named #1 cntender for the tag titles, but NTICW close down and Nu Era were shipped on the first plane to Japan to compete in the well respected fed known as PURE.\n\n\n\nSince the introduction of the trinity division to PURE, Ric and Johnny decided to call upon the services of Josh, Johnny's younger brother to help them attain fame in the hallowed halls of PURE\n\n",
+    "catchphrases": [
+     "\"Well isn't that queer!\"\n\"In the Navy\"\n\"Shake it, don't brake it, it took yo momma 9 months to make it\"\n\"It's our duty to please that booty \""
+    ]
+   },
+   {
+    "promotion": "osw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "OSW's own backstage database (lot 0159), bio 4563",
+    "grade": "billing",
+    "note": "On OSW's own roster in its backstage database; the fed's own record of its cards credits no appearance. Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "caption": "A PURE tag team of Ric Montana and Johnny & Josh Quinn, billed together as Nu Era and finishing with Termination.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Ric Montana",
+    "character_id": "ric-montana-pure"
+   },
+   {
+    "name": "Johnny Quinn",
+    "character_id": "johnny-quinn-pure"
+   },
+   {
+    "name": "Josh Quinn",
+    "character_id": "josh-quinn-pure"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "OSW's own card for Nu Era (bio 4563) carries the same history as the PURE roster card's biography for this team (a text comparison of the two)."
+   }
+  ]
+ },
+ {
+  "id": "h-o-t-pure",
+  "type": "unit",
+  "name": "H.O.T.",
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "source": "PURE's own roster card database, hot.txt (Argyle's donated deposit)",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team — billed as H.O.T.",
+    "finisher": "The Sound Room — Double Leaping Superkick",
+    "entrance_music": {
+     "verbatim": "'The Hardest Part About Breaking Up' by Chad & Kamui {2Gether Cover}"
+    },
+    "bio": "Chad Matthews\n\n-------------\n\n“Chad Matthews…”\n\n“Who is Chad Matthews?” I hear you cry… as you look through these documents and begin to wonder. Well, Chad Matthews… for the time being anyway, is a nobody… plain and simple, he is a nobody… but, regardless of that wonderful little tidbit of information, I think that you all deserve to discover how this individual came to be the man that he IS today…\n\n\n\nOur story begins on Friday 18th August 1981…\n\n\n\nYes, to those of you who have been able to look at the above details… that day just happens to be the ‘Birthdate’ of our little wannabe here…\n\n\n\nAnyway, the story starts on the day that Chad Matthews was brought into this world. His mother and father looked upon him and hoped that he’d be the best of their three sons… despite the advantage that they already had upon him, both Mr and Mrs Matthews were convinced that their son would be following the rest to higher plateaus before anyone would even come to recognize it.\n\n\n\nHow ironic would that statement be later in his life…\n\n\n\nChad progressed through his earlier years of life like any other kid would… well, any other kid that was able to enjoy the company of two older brothers. To introduce the ‘Brothers Grimm’, Joseph and Max were twins… Max being the older of the two, by all of an hour. Our ‘heroic’ figure of Chad tended to live in peace with his older siblings, although there would be times where altercations were inevitable…\n\n\n\nThe Great Food Fight of Max’s 11th Birthday…\n\nThe Punch-Up of Christmas 1990…\n\n\n\nAnd more famously…\n\nThe Karaoke Brawl of Summer 1997…\n\n\n\nThe later event will be detailed later on, but for now… we’ll go back to the relationship that existed between both Chad and his brothers.\n\n\n\nAs it was said, the three siblings managed to live in peace for the majority of the time and like any unit, they would always try something together. The reason for this is still unknown, but like three best friends who would never leave the other behind… for some incidents, they would all give the task a shot, just to keep the balance of ‘Power’ equal.\n\n\n\nThe first major task that all three brothers attempted to do was that of ‘Professional Wrestling’. Despite there being a three year gap between Chad and his brothers, by the time that they wanted to start working the business, Chad had developed into an eager sixteen year old chick magnet and his brothers had walked the steps to hitting their early twenties.\n\n\n\nThroughout the beginning of his training, Chad found it impossible to keep up with the things that were being done by everyone else… his body just didn’t seem to be ready to handle the strain and stress of fighting inside the ring… however, he persevered, using the goal of one day bettering his brothers as the only incentive needed to push his body through such vile actions…\n\n\n\nRemember how the parents of Chad had said how their son would rise through the ranks like nothing before him? Oh… he rose through the ranks of the academy alright… getting used to the basic spots and offence a lot quicker than his brothers and fellow classmates. After a year of training, everyone had decided that Matthews was ready to be used in their independent promotion, working the curtain jerkers to see what kind of effect the lad would have on the crowd…\n\n\n\nIt was supposed to be the greatest night of his life…\n\nIt was supposed to be the moment that he had always dreamed of… ever since stepping in that ring…\n\nIt was supposed to be… the moment that his family would be proudest of him…\n\n\n\nChad worked the match… he was strong, he looked alright… but a part of him was missing that night… that part of him that was family love. Chad knew his family didn’t make the show that night… he could see the gap that was supposed to contain their bodies in the crowd.\n\n\n\nDepressed…\n\nDistraught…\n\nDisturbed…\n\n\n\nChad Matthews blew a spot in the bout… he was all set to take a DDT… but something happened, he lost his footing while trying to think of his family and was subsequently drilled headfirst into the canvas…\n\n\n\nAfter that night, Matthews decided to call what he thought was quits from the business… he just didn’t have the heart to keep wrestling if none of his family were going to be around to share this moment with him…\n\n\n\nIt was six months after this night that he found a new love… a new passion, a new something that would give him the chance to shine without the worry of his parents… this was something that he didn’t need support of family for… it was something that he’d be able to express himself in… and gain recognition from more than just his forgotten family… but all of the country…\n\n\n\nPop music… an ever-expanding empire, never willing to reject a talent that can bring money for their company… and fame for themselves.\n\n\n\nChad had kept one thing secret from everyone when he was growing up… that secret was the fact that he could actually sing. People that sing in the showers… sing when listening to music with headphones… sing in general, Chad did everything of the kind when he was sure that nobody would be around to listen to him.\n\n\n\nMarch 25th 1999…\n\n\n\nThis too would mark a significant date for Chad… not only would it establish the moment that “PoP Worldwide” was created, but it would also establish the date that Chad Matthews met a fledging artist like himself… the only major difference being that this man was Japanese… and not your average member of the human community…\n\n\n\n“Hallo… my name is Kamui Fukamachi… I’ve heard some girls talking about your… ability to sing… and I was wondering if you would be willing to join me…”\n\n\n\nOk… Ok… so things didn’t happen as something as the ‘text extract’ above, but the basic jest of things happened and Kamui effectively asked for Chad to become his partner in business, touring the country… singing to the fans, trying to make something out of what they’d both considered to be wasted lives…\n\n\n\nJune 15th 1999…\n\nJuly 22nd 1999…\n\nSeptember 28th 1999…\n\nDecember 24th 1999…\n\nJanuary 1st 2000…\n\n\n\nThe above dates, just a few of the times that Chad and Kamui were asked to perform at various functions and what-not. Sure, these boys hadn’t marketed themselves as super material… proclaiming that they were going to be bigger than the World itself… but that didn’t stop them from proclaiming they were the biggest party act going at the moment!\n\n\n\nMost orders just assumed that the Canadian/Japanese combination would have been a lot funnier than talent flowing… but that was something that never seemed to come true at any of their shows. Chad Matthews had made something of himself… but even with all the success of being a Party Act… the part of him that longed for the business that was Professional Wrestling called out to him… it cried out for him to go back…\n\n\n\nAn omen…\n\nA Sign…\n\nA Dealing of Fate?\n\n\n\nNobody knows… not even Chad would be able to answer the question for you himself… but, what he can do, is look up to the Stars on any night and say the words…\n\n\n\n“My path is chosen… I did it alone… no longer will I hold myself on people… for it will be my undoing once more…”\n\n\n\nWill he come to realize a combination of Musical and Wrestling success in PURE? You’ll just have to stay tuned to find out...\n\nKamui Fukamachi\n\n------------\n\n“Kamui Fukamachi…”\n\n\n\nUnlike his ‘Friend’… Kamui was nothing like the individual that Chad was… no way, no how… like two different books… they had different stories, they had different chapters… hell, the only thing about them that was the same was their gender… and possibly their love for everything that is PoP…\n\n\n\nThis story begins in a small town in Japan, the actual name of the location is information that Kamui refuses to release… and continues to pass himself off as coming from America. Regardless, he was born to parents that died while he was at a young age. Did this event do as much as to haunt the young child?\n\n\n\nOf course it did…\n\nOf course it did…\n\n\n\nKamui moved into an Orphanage at the age of three, taken in by ‘Police Officers’ that found him roaming the empty halls of the home that used to belong to his mother and father. Fukamachi was labelled as the “Kid with Big Dreams” while he was at the Orphanage… they accused him of being too adventurous… too hopeful… too ‘high’ on a future that many people believed would never change… for him, or themselves.\n\n\n\nThey say that sometimes, you need ONE best friend… ONE person to help you up when you fall…\n\n\n\nAt the age of ten, Kamui thought that he’d meet that one person… the one individual that would change the pathway of his life… that one soul who would never be able to desert him, not even in his darkest hour…\n\n\n\nAfter seven years in the Orphanage, Kamui had met Mai Fuma, a young girl who had also lost her parents… one way or another. Both aged ten, they became what was the best of friends… doing everything that they could think of together…\n\n\n\nShe was his Rod of Power…\n\nHe was her Tower of Hope…\n\n\n\nThey meant so much to one another…\n\nThey meant everything…\n\n\n\nInfact, Kamui became so infatuated with his friend, that he began to serenade her with songs that were sung by the other people around the complex. His graceful voice gave her something to feel… something to hold onto… while not in the physical sense, she took his ability… and enjoyed every second it was in motion…\n\n\n\nHowever…\n\nLike many things before this… like many stories before this one…\n\nWhen there are two people… happy… excited… caring about each other to points that were previously unimaginable… heartbreak is bound to strike… and for Kamui, it couldn’t have struck at a more horrid moment in his life…\n\n\n\nSeptember 1992…\n\nA month that will be forever etched in the memory of Kamui… a month that will always stand the test of time, no matter how long our ‘hero’ decides to live for…\n\n\n\nWhy the lack of a date?\n\n\n\nSimple… he doesn’t remember what day it happened… well, that, or the fact that he doesn’t want to remember the exact day that it happened. We could go into a lot of detail about the events of that time… but it wouldn’t be anything worthwhile… after all, whats done is done… and you can’t regret it…\n\n\n\nAside from the horror behind this date… it was also a turning point for our fourteen year old hero… yes, he decided to take the one thing that bonded him to Mai… and developed from that day forth. For some reason, Kamui was confident that he could connect with people of the other-realm in one way or another… and he himself, tried to believe that his music was the bond that existed between both him and Mai…\n\n\n\nA fact of Fukamachi…\n\nA sugar coated dream…\n\nA non-existant hope?\n\n\n\nWhatever it is… it’s the one thing that Kamui has left with regards to Mai… his last ever item, his last connection with her.\n\n\n\nThe time went by following that… Kamui perfected his singing talents… he also learned how to fight, namely to protect himself whenever that sticky situation would arise. Fukamachi wanted to be sure that nothing like Mai would ever be allowed to happen to him again… he wasn’t going to lose another friend…\n\n\n\nMarch 25th 1999…\n\n\n\nThis too would mark a significant date for Kamui… not only would it establish the moment that he had made it to the country of Canada, but it would also be the first time that he met his future ‘Best Friend’ Chad Matthews.\n\n\n\n“Hallo… my name is Kamui Fukamachi… I’ve heard some girls talking about your… ability to sing… and I was wondering if you would be willing to join me…”\n\n\n\nOk… Ok… so things didn’t happen as something as the ‘text extract’ above, but the basic jest of things happened and Kamui effectively asked for Chad to become his partner in business, touring the country… singing to the fans, trying to make something out of what they’d both considered to be wasted lives…\n\n\n\nJune 15th 1999…\n\nJuly 22nd 1999…\n\nSeptember 28th 1999…\n\nDecember 24th 1999…\n\nJanuary 1st 2000…\n\n\n\nThe above dates, just a few of the times that Chad and Kamui were asked to perform at various functions and what-not. Sure, these boys hadn’t marketed themselves as super material… proclaiming that they were going to be bigger than the World itself… but that didn’t stop them from proclaiming they were the biggest party act going at the moment!\n\n\n\nMost orders just assumed that the Canadian/Japanese combination would have been a lot funnier than talent flowing… but that was something that never seemed to come true at any of their shows. Kamui had made something of his life along with Chad, they’d both managed to conquer the world of Independent PoP… but what about the hidden agenda that had been carried with Chad?\n\n\n\nMatthews wanted to wrestle…\n\nKamui decided that he wanted to just put his skills to use…\n\n\n\nWould it happen… would it ever?\n\n\n\nPURE is the place they are now… the next step of the story is down to them and them alone…"
+   }
+  ],
+  "caption": "A PURE tag team of Chad Matthews and Kamui Fukamachi, billed together as H.O.T. and finishing with The Sound Room.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Chad Matthews"
+   },
+   {
+    "name": "Kamui Fukamachi"
+   }
+  ],
+  "unit_kind": "tag-team"
+ },
+ {
+  "id": "justice-inc-pure",
+  "type": "unit",
+  "name": "Justice Inc",
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "source": "PURE's own roster card database, justice.txt (Argyle's donated deposit)",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team — billed as Justice Inc",
+    "finisher": "Justice Served — Blind Rage hits a powerbomb whilst Warrior hits a frongsplash.",
+    "entrance_music": {
+     "verbatim": "'Walk' by Pantera"
+    },
+    "bio": "Information Coming Soon!"
+   },
+   {
+    "promotion": "pcw",
+    "first_seen": "2003-05-25",
+    "last_seen": "2003-05-25",
+    "source": "PCW's own database (lot 0159)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "style": "Supreme Freakness",
+    "finisher": "Justice Served",
+    "entrance_music": {
+     "verbatim": "'Walk' by Pantera",
+     "title": "Walk",
+     "artist": "Pantera"
+    }
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "2005-02-13",
+    "last_seen": "2005-02-13",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "UWF's own backstage database (lot 0159), bio 10563",
+    "grade": "primary-source",
+    "note": "Dated from the served UWF card of 13 February 2005 (one card). Joined to this record on the evidence of the identity read of UWF bio 10563."
+   }
+  ],
+  "caption": "A PURE tag team of Blind Rage and Warrior, billed together as Justice Inc and finishing with Justice Served.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Blind Rage",
+    "character_id": "blind-rage-pcw"
+   },
+   {
+    "name": "Warrior",
+    "character_id": "warrior-pcw"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "aka": [
+   "Justice Inc."
+  ]
+ },
+ {
+  "id": "luis-sangre-ashley-maximoff-pure",
+  "type": "unit",
+  "name": "Luis Sangre & Ashley Maximoff",
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "source": "PURE's own roster card database, sanmax.txt (Argyle's donated deposit)",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team — billed as Luis Sangre & Ashley Maximoff",
+    "finisher": "1: Hellfire and Brimstone 2: Baño Sangre (Luis's) 3: Faith (Ash's) — 1: Inverted, power bomb/unprettier combination move. 2: Sangre slingshots himself to the top in one fluid motion and leaps off with a 540 degree splash. 3: She does a moonsault from the top rope and over rotates, so she lands back first on her opponent instead of chest first.",
+    "entrance_music": {
+     "verbatim": "'Outlaw Torn' by Metallica"
+    },
+    "bio": "Luis- Luis Cesar Sangre was a small time musician, just trying to lead a good life.  One fateful night, a infamous gang rode into town and started some trouble in the bar Luis was working in.  Being the good hearted man he is, Luis rushed in to stop them.  What occurred next still haunts the man to this day.  The gang brutually mangled Luis's right hand with a sledgehammer and torched his home with his mother still inside.  After years of rehibilitation, Luis is out to gain revenge on the men who caused him so much pain and one man in particular, Juan Miguel, who has risen through the ranks during that time to become leader of the gang.  With the help of the unusual nun, Sister Ash, Luis searches the world for his target.  He wrestles along the way to pay expenses and to give him free passage to many foreign countries.\n\n\n\nAsh- The young woman, by the name of Ash, awoke one morning in a monestary in Mexico with her memories gone and her past a mystery.  With nowhere else to turn, Ash stayed with the sisters and was taught how to be a woman of god.  As Ash stayed with in the nunery, she started to notice a difference between her and the other nuns.  She was faster and stronger than everyone there.  Her youth brought a headstrong attitude and she was much more extreme in her methods than the others.  Believing her sisters to not be giving their all to thweir cause, Ash left the nunery and took off into the world to make it a better place.  At a local tavern, she met up with a man, by the name of Luis Sangre.  She heard his tragic story and agreed to accompany him on his quest for moral support."
+   }
+  ],
+  "caption": "A PURE tag team of Luis Cesar Sangre and Sister Ash Maximoff, billed together as Luis Sangre & Ashley Maximoff and finishing with 1: Hellfire and Brimstone 2: Baño Sangre (Luis's) 3: Faith (Ash's).",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Luis Cesar Sangre",
+    "character_id": "luis-cesar-sangre-pure"
+   },
+   {
+    "name": "Ashley Maximoff",
+    "character_id": "ashley-ash-maximoff-pure"
+   }
+  ],
+  "unit_kind": "tag-team"
+ },
+ {
+  "id": "suburban-ninja-clan-pure",
+  "type": "unit",
+  "name": "Suburban Ninja Clan",
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "source": "PURE's own roster card database, snc.txt (Argyle's donated deposit)",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team — billed as Suburban Ninja Clan",
+    "entrance_music": {
+     "verbatim": "'How I Could Kill A Man' Rage Against The Machine"
+    }
+   }
+  ],
+  "caption": "A PURE tag team of For all relevant information, see the history. and, billed together as Suburban Ninja Clan.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "For all relevant information, see the history."
+   }
+  ],
+  "unit_kind": "tag-team"
+ },
+ {
+  "id": "sushi-crew-pure",
+  "type": "unit",
+  "name": "Sushi Crew",
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "source": "PURE's own roster card database, sushi.txt (Argyle's donated deposit); promotions/pure/archive/ikusa-kumamoto-2003-02-02.html",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team — billed as Sushi Crew",
+    "finisher": "Raw Sushi — Double frog splash from opposite turn buckles",
+    "bio": "(sorry its crappy) Originally from Osaka, Japan, Ryu and Otoshi have been lifelong friends and have always had a passion for Professional wrestler, gaining a small following in Japan, the two decided to go over to America thinking they could make it there,they joined up with PWA a local training acadamy and after they proved themselves they were released from there. Ryu and Otoshi soon became champions of numerous feds mainly with the indy fed NTICW in which they got involved in a cult called the Followers of the hidden star, after the closure of NTICW, the sushi crew (as they were called) joined up with global sensation PCW, but quit after one week deciding wrestling wasn't fun anymore, a couple of months past until PURE owner Jamar came to the sushi crew with an offer to join PURE, seeing this as an oppurtunity to go back to their homeland the sushi crew accepted and went back to Japan, after 2 shows the Sushi crew with the help of their unwanted partner Shaun Styles won the Trinity belts which they still hold on today...\n\n\n\n"
+   }
+  ],
+  "caption": "A PURE tag team of Ryu Sotosucki and Otoshi Mishimoto, billed together as Sushi Crew and finishing with Raw Sushi.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Ryu Sotosucki"
+   },
+   {
+    "name": "Otoshi Mishimoto"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-sushi-crew-pcw"
+    ],
+    "note": "A shared name only against the-sushi-crew-pcw in an unrelated promotion — no vitals, moniker, or cross-narrating text ties this PURE roster card to that record; name theft/reuse was common across this era's independent feds."
+   }
+  ]
+ },
+ {
+  "id": "dragons-deuce-pure",
+  "type": "unit",
+  "name": "Dragons Deuce",
+  "aka": [
+   "Inphino Blitz & Mang-A-Hero"
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Inphino Blitz",
+    "character_id": "inphino-blitz"
+   },
+   {
+    "name": "Mang-A-Hero",
+    "character_id": "mang-a-hero"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team — PURE Tag Team Champions",
+    "alignment": "Face",
+    "finisher": "The Breaking Point O Doom, Thousand Arms, and Dragon Dive Z — a three-finisher arsenal shared between Inphino Blitz and Mang-A-Hero",
+    "note": "Their own tag roster card bills them PURE Tag Team Titleholders and “First existing PURE Tag Team Champions”.",
+    "source": "PURE's own roster card database, blitzhero.txt (Argyle's donated deposit)"
+   }
+  ],
+  "caption": "PURE's own Tag Team Champions, Inphino Blitz and Mang-A-Hero teamed as the Dragons Deuce and finished opponents with a rotating three-move arsenal.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-fight-club-pure",
+  "type": "unit",
+  "name": "The Fight Club",
+  "aka": [
+   "Fight Club"
+  ],
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Andrew Maclellan",
+    "character_id": "andrew-maclellan-pure"
+   },
+   {
+    "name": "Paul McMunson",
+    "character_id": "paul-mcmunson-pure"
+   },
+   {
+    "name": "Michael Hakiashu",
+    "character_id": "michael-hakiashu-pure"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "stable, billed as a trio",
+    "entrance_music": {
+     "verbatim": "'Fight Music' Eminem & D12"
+    },
+    "note": "The card's own finisher/setup-move/signature-move fields all defer to “See Bio Below”; no bio file survives in this deposit under this card's own key, so none of that promised detail is recoverable here.",
+    "source": "PURE's own roster card database, club.txt (Argyle's donated deposit)"
+   }
+  ],
+  "caption": "A PURE stable of three, The Fight Club entered to Eminem and D12's own “Fight Music” and deferred every move description to a bio the surviving record does not carry.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "fight-club-uga"
+    ],
+    "note": "A shared name only against fight-club-uga in an unrelated promotion — no vitals or cross-narrating text ties this PURE roster card to that record."
+   }
+  ]
+ },
+ {
+  "id": "unknown-soldiers-pure",
+  "type": "unit",
+  "name": "Unknown Soldiers",
+  "aka": [
+   "Saikyo System"
+  ],
+  "unit_kind": "trio",
+  "members": [
+   {
+    "name": "Unknown Soldier Alpha"
+   },
+   {
+    "name": "Unknown Soldier Beta"
+   },
+   {
+    "name": "Unknown Soldier Gamma"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "trio, billed as the Unknown Soldiers / Saikyo System",
+    "alignment": "Heel",
+    "entrance_music": {
+     "verbatim": "“Deep Impact” by Dragon Ash"
+    },
+    "note": "The card's own tag-team engine carries only Alpha and Beta in its wrestler1/wrestler2 slots; its own entrance-music and finisher description both name a third, “Gamma,” with no vitals of Gamma's own recovered. The card's own manager field credits representation through “the fellow members of the Saikyo System, Raizo Tenzan and Yuka Hamada” — Yuka Hamada is one of PURE's own already-held characters; the connection is recorded here, not yet a formal relationships.json edge.",
+    "source": "PURE's own roster card database, unknown.txt (Argyle's donated deposit)"
+   }
+  ],
+  "caption": "A masked heel trio managed through the Saikyo System, the Unknown Soldiers finished with a three-man diving bulldog they called the Saikyo Crusher.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "presumed-same",
+    "grade": "presumed",
+    "with": [
+     "the-saikyo-system"
+    ],
+    "note": "This card's own manager field credits “the fellow members of the Saikyo System, Raizo Tenzan and Yuka Hamada” -- the held the-saikyo-system unit (LOW) carries Raizo Tenzan as a member under the same stable name. Believed connected on name-plus-member adjacency, short of a document cross-narrating both promotions' own rosters; revisit if one is found."
+   }
+  ]
+ },
+ {
+  "id": "bad-company-pure",
+  "type": "unit",
+  "name": "Bad Company",
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2003-01",
+    "last_seen": "2003-03-05",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "PURE's own backstage database (lot 0159), bio 8434",
+    "grade": "primary-source",
+    "note": "Dated from the served January 2003 Axcess (the 'Got Puro?' commercials) and the 20 January 2003 Ikusa Insight, to the front office's notice of 5 March 2003 that ends the contracts."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "James Maldini"
+   },
+   {
+    "name": "Mike Bailey"
+   },
+   {
+    "name": "Daniel Stein"
+   }
+  ],
+  "caption": "Bad Company was a three-man PURE team, billed with the Sushi Crew against Nu Era and the Black Dragons in the January 2003 Ikusa Insight, whose resignation the front office announced on 5 March 2003 after James Maldini, Mike Bailey and Daniel Stein were deported from Tokyo.",
+  "caption_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bad-company-gcw-gcwonline-2001",
+     "bad-company-gxw-2001",
+     "bad-company-ncw"
+    ],
+    "note": "A song-title name four federations' teams carry; units compare on members, and none is shared: PURE's is James Maldini, Mike Bailey and Daniel Stein (2003); GXW's is Skylar Trace and Victor Hendricks (2003); NCW's is Freddie Massey and Dirk Venom (1997); GCW's is Chris Storm, Rikki Roxx and Johnny the Kid (2010)."
+   }
+  ]
+ },
+ {
+  "id": "the-american-males-pure",
+  "type": "unit",
+  "name": "The American Males",
+  "tenures": [
+   {
+    "promotion": "pure",
+    "first_seen": "2003-03-02",
+    "last_seen": "2003-03-02",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "PURE's own backstage database (lot 0159), bio 10487",
+    "grade": "primary-source",
+    "note": "Dated from the one served PURE card that names the team (Final Destinies, 2 March 2003); the text gives its two men by first name only."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "The American Males are named in the heading of a backstage segment at Final Destinies on 2 March 2003, in which two short-haired blond men, Dave and Steve, accost Hoshi Akagawa.",
+  "caption_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

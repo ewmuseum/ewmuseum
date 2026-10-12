@@ -1,0 +1,152 @@
+[
+ {
+  "id": "good-knights-mlwo-1998",
+  "type": "unit",
+  "name": "Good Knights",
+  "tenures": [
+   {
+    "promotion": "mlwo-1998",
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "grade": "primary-source",
+    "role": "tag team",
+    "source": "promotions/mlwo-1998/archive/torture-chamber-2-part-7-1997-11-01.html",
+    "note": "Introduced as the reigning MLWO heavyweight tag team champions, accompanied by their bodyguard Jobba the Butt, in red robes with silver writing; they retained the titles against the Natural Born Annihilators in the Double Dog Collar match. The page names the pairing: \"here are Arnold Hamenegger and Sir Jobs-a-Lot\"."
+   }
+  ],
+  "caption": "The reigning MLWO World Tag Team Champions at Torture Chamber 2 (26 October 1997), Arnold Hammeneger and Sir Jobs-A-Lot, who kept the titles in a Double Dog Collar match.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Arnold Hammeneger",
+    "character_id": "arnold-hammeneger-mlwo-1998"
+   },
+   {
+    "name": "Sir Jobs-A-Lot",
+    "character_id": "sir-jobs-a-lot-mlwo-1998"
+   }
+  ]
+ },
+ {
+  "id": "natural-born-annihilators-mlwo-1998",
+  "type": "unit",
+  "name": "Natural Born Annihilators",
+  "tenures": [
+   {
+    "promotion": "mlwo-1998",
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "grade": "primary-source",
+    "role": "tag team",
+    "source": "promotions/mlwo-1998/archive/torture-chamber-2-part-7-1997-11-01.html",
+    "note": "Introduced as the challengers, \"Turbo\" Tommy Verhoeven from New York City and \"Tombstone\" Max Kruger from Stuttgart, Germany; they lost the Double Dog Collar match for the MLWO World Tag Team Championships to the Good Knights. The page names the pairing: \"\"Tombstone\" Max Kruger...together they are...THE NATURAL BORN ANNIHILATORS\"."
+   },
+   {
+    "promotion": "rspwf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Ranked in the newsgroup's own RSPWF Top 200 Tag Teams for 1998."
+   }
+  ],
+  "caption": "The challengers for the MLWO World Tag Team Championships at Torture Chamber 2 (26 October 1997), \"Turbo\" Tommy Verhoeven and \"Tombstone\" Max Kruger, who lost the Double Dog Collar match.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Turbo\" Tommy Verhoeven",
+    "character_id": "turbo-tommy-verhoeven-mlwo-1998"
+   },
+   {
+    "name": "\"Tombstone\" Max Kruger",
+    "character_id": "tombstone-max-kruger-mlwo-1998"
+   }
+  ]
+ },
+ {
+  "id": "the-rich-and-infamous-mlwo-1998",
+  "type": "unit",
+  "name": "The Rich and Infamous",
+  "tenures": [
+   {
+    "promotion": "mlwo-1998",
+    "first_seen": "1997-12-15",
+    "last_seen": "1997-12-15",
+    "grade": "primary-source",
+    "role": "tag team",
+    "source": "promotions/mlwo-1998/archive/winter-inferno-97-part-2-1997-12-17.html",
+    "note": "Introduced by the guest ring announcer as the current PCW Tag Team Champions, both from Malibu, California, for a combined 475 pounds; they win the MLWO Unified Tag Team Titles from the Good Knights at Winter Inferno 97 with help from Tommy B, who then names the three of them the AKC. The page names the pairing: \"\"Sugar Daddy\" Hayvin Coules....Vince Valor, here is...\"THE RICH AND INFAMOUS\"!!!\"."
+   },
+   {
+    "promotion": "emwc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Tagged EMWC in the RSPWF Top 200 Tag Teams for 1998."
+   },
+   {
+    "promotion": "iiew-1997",
+    "first_seen": "1998-03",
+    "last_seen": "1998-03",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/iiew-1997/archive/night-two-1998-03-01.html"
+   }
+  ],
+  "caption": "The Hayvin Coules and Vince Valor team, PCW Tag Team Champions, who took the MLWO Unified Tag Team Titles from the Good Knights at Winter Inferno 97 (15 December 1997).",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Hayvin Coules",
+    "character_id": "hayvin-coules-mlwo-1998"
+   },
+   {
+    "name": "Vince Valor",
+    "character_id": "vince-valor-mlwo-1998"
+   }
+  ],
+  "aka": [
+   "Rich & Infamous"
+  ]
+ }
+]

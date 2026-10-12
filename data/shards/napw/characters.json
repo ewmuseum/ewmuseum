@@ -1,0 +1,5759 @@
+[
+ {
+  "id": "abbey-graves",
+  "type": "character",
+  "name": "Abbey Graves",
+  "aka": [
+   "\"Goddamn\" Abbey Graves"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — NAPW World Champion for six months in 2014, between Clancy King and Jay Deschain",
+    "source": "promotions/napw/archive/title-history-2013-2015.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Held the NAPW World Championship for six months in 2014, defending it through the Phenomenons' own touring season before Jay Deschain finally beat her for it in a Last Person Standing match at Sole Survivor '14.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "adam-mayhem",
+  "type": "character",
+  "name": "Adam Mayhem",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "adam-stryker-napw",
+  "type": "character",
+  "name": "Adam Stryker",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — half of Scars at Tagstravaganza, before Brock Whitworth took the slot",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Teamed with Jason Richards as one half of Scars at Tagstravaganza before Brock Whitworth took his place in the pairing a month later.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "alibaba",
+  "type": "character",
+  "name": "Alibaba",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014-05",
+    "last_seen": "2014-12",
+    "role": "Phenomenal Army — one of the Phenomenal Camels (a bactrian)",
+    "note": "The Phenomenons saw Montezuma and Alibaba at a zoo once and staged an elaborate rescue attempt. Both camels \"spit on command,\" per the Phenomenons' own account. Towed behind the Army's van (styled after the Scooby-Doo Mystery Machine) on tour.",
+    "source": "the Phenomenons' own NAPW application, \"Manager Name & Appearance\" field (2014)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "notes": "One of the Phenomenal Camels (with Montezuma) — see the-phenomenons and its Managers line.",
+  "caption": "Montezuma's fellow rescue, a bactrian camel who completes the Phenomenal Camels — the two-humped half of a zoo heist the Phenomenons still tell as their own origin story.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "nonhuman": true,
+  "species": "bactrian camel"
+ },
+ {
+  "id": "andellion-moonwater",
+  "type": "character",
+  "name": "Andellion Moonwater",
+  "aka": [
+   "Prince Andellion Moonwater"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Heritage title challenger; Sole Survivor '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Challenged Bruiser Breton for the Canadian Heritage Championship at Heritage Havoc and entered that year's 30-person Sole Survivor battle royal.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "anthony-uruburu",
+  "type": "character",
+  "name": "Anthony Uruburu",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "referee — NAPW referee",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "referee"
+    ]
+   }
+  ],
+  "caption": "An NAPW referee whose own bio card consists entirely of his own name, shouted.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 14,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "anton-petrov",
+  "type": "character",
+  "name": "Anton Petrov",
+  "aka": [
+   "\"The Soviet Slaughterhouse\""
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2013",
+    "last_seen": "2014",
+    "role": "wrestler — won the vacant NAPW World Championship in a four-way at the 2013 revival, restarting the belt's own lineage",
+    "source": "promotions/napw/archive/title-history-2013-2015.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"The Soviet Slaughterhouse\" won the vacant NAPW World Championship in a four-way at the 2013 revival, restarting the belt's own lineage after the 2010 closure.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "arthur-graham",
+  "type": "character",
+  "name": "Arthur Graham",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2010",
+    "last_seen": "2010",
+    "role": "authority-figure — in-fiction lottery winner who \"bought\" NAPW for its 2010 farewell tour",
+    "source": "promotions/napw/archive/breaking-news-2010-09-09.html",
+    "roles": [
+     "authority-figure"
+    ]
+   }
+  ],
+  "caption": "A lottery winner staged, in NAPW's own in-fiction press conference, buying the company outright for one last seven-show farewell run before it closed for good.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "asuka-katsuragi",
+  "type": "character",
+  "name": "Asuka Katsuragi",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Dez Carter's own manager turned in-ring competitor",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'6\"",
+    "weight": "132 lbs",
+    "hometown": "Pittsburgh, Pennsylvania",
+    "entrance_music": {
+     "verbatim": "\"Sailor Moon Theme\" (metal version)"
+    },
+    "style": "Lucha Libre/ Puroresu",
+    "finisher": "K-Bomb (Burning Hammer)"
+   }
+  ],
+  "caption": "Of Japanese and German descent, Asuka Katsuragi managed Dez Carter's career before NAPW's own women's division gave her a chance to compete.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 12,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "baron-von-powerbomb",
+  "type": "character",
+  "name": "Baron Von Powerbomb",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — eight-man tag at Dominion; Battlebowl '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Teamed against the Phenomenons in an eight-man tag at Dominion and entered the Battlebowl '14 battle royal.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bayman-jakey",
+  "type": "character",
+  "name": "Bayman Jakey",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 19,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "big-mitch",
+  "type": "character",
+  "name": "Big Mitch",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — WGA stable member",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'6\"",
+    "weight": "400+ pounds (OF FAT)",
+    "hometown": "Malibu, California",
+    "entrance_music": {
+     "title": "The Kid Is Hot Tonight",
+     "artist": "Loverboy",
+     "verbatim": "\"The Kid Is Hot Tonight\" - Loverboy",
+     "corrected": "\"The Kid Is Hot Tonite\" by Loverboy"
+    },
+    "style": "Fat",
+    "finisher": "Cannonball! (Yokozuna butt splash)"
+   }
+  ],
+  "caption": "A WGA stable member whose gimmick ran entirely on his own size, from his entrance theme down to his finisher.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bill-hewson",
+  "type": "character",
+  "name": "Bill Hewson",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "commentator — NAPW's own Tuesday Night Fights play-by-play voice",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "commentator"
+    ]
+   }
+  ],
+  "caption": "NAPW's own play-by-play voice for years of Tuesday Night Fights broadcasts, Bill Hewson called matches opposite color commentator Jack \"Attack\" Jones.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 87,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "billy-kryenik",
+  "type": "character",
+  "name": "\"Sick\" Billy Kryenik",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Tag Team Champion; 2006 Canada Cup winner",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "241 lbs",
+    "hometown": "Windsor Ontario",
+    "entrance_music": {
+     "title": "Beneath Below",
+     "artist": "Isis",
+     "verbatim": "\"Beneath Below\" - Isis"
+    },
+    "style": "Technical/Striker/Submission",
+    "finisher": "The Dry Lake"
+   }
+  ],
+  "caption": "\"Sick\" Billy Kryenik won the 2006 Canada Cup and a two-time Tag Team Championship before a severe 2006 injury sidelined him; he returned to challenge Ravager for the NAPW Championship at Sole Survivor 2007.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 42,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "blake-taylor-napw",
+  "type": "character",
+  "name": "Blake Taylor",
+  "aka": [
+   "\"Blue Chip\""
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 entrant; fought Grillo Jr. and Jason Richards through the 2014 card run",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"Blue Chip\" Blake Taylor worked a run of undercard singles matches through the second half of 2014, including a loss to Jason Richards at Flavour Explosion, and entered that year's 30-person Sole Survivor battle royal.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brett-owens-napw",
+  "type": "character",
+  "name": "Brett Owens",
+  "aka": [
+   "\"Strong Style Prodigy\""
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — singles match against Jay Deschain at Red Menace",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"Strong Style Prodigy\" Brett Owens wrestled Jay Deschain on the Red Menace card.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brian-bruno",
+  "type": "character",
+  "name": "\"Big Bad\" Brian Bruno",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 21,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bristol-bush",
+  "type": "character",
+  "name": "Bristol Bush",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — singles competitor on the Beach Blanket Bodyslams undercard",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Wrestled Lardo on the Beach Blanket Bodyslams undercard.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brock-whitworth",
+  "type": "character",
+  "name": "Brock Whitworth",
+  "aka": [
+   "\"The Pride of Brisbane\""
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — half of the tag team Scars",
+    "source": "promotions/napw/archive/tagstravaganza-2014-06-28.html (local corpus)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"The Pride of Brisbane,\" half of the tag team Scars, brought in from Australia for a technical style built on speed.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bruce-richards",
+  "type": "character",
+  "name": "Bruce \"The Beast\" Richards",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — World Champion; five-time Tag Team Champion as one half of the New & Improved D-X",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'3\"",
+    "weight": "270 lbs",
+    "hometown": "St. Albert, Alberta",
+    "entrance_music": {
+     "title": "Knights of Cydonia",
+     "artist": "Muse",
+     "verbatim": "\"Knights of Cydonia\" - Muse",
+     "corrected": "\"Knights of Cydonia\" by Muse"
+    },
+    "style": "High-flying roughneck",
+    "finisher": "Chart Attack (F5)"
+   },
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-10",
+    "last_seen": "2009-10",
+    "source": "His own EPW roster profile (posted 5 October 2009)."
+   }
+  ],
+  "caption": "A University of Alberta wrestling scholarship kid turned five-time Tag Team Champion alongside Stylin' Kyle Roberts as the New & Improved D-X, Bruce \"The Beast\" Richards went on to win the World Title in his own right after the team's split.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 78,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "bruiser-breton",
+  "type": "character",
+  "name": "Bruiser Breton",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — NAPW Canadian Heritage Champion",
+    "source": "promotions/napw/archive/title-history-2013-2015.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Held the NAPW Canadian Heritage Championship for four months in 2014, defending it through the Phenomenons' own touring season before Sammy Devine won it back.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 10,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bryan-marshall-napw",
+  "type": "character",
+  "name": "Bryan Marshall",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the 30-person Sole Survivor battle royal at Sole Survivor '14.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "carter-owens",
+  "type": "character",
+  "name": "Carter Owens",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 31,
+    "rps": 0,
+    "awards": 2,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "The Yellow Chicken"
+  ]
+ },
+ {
+  "id": "chad-kurtis",
+  "type": "character",
+  "name": "\"The Show\" Chad Kurtis",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Television and Tag Team Champion; Duke University alumnus",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'3\"",
+    "weight": "230 lbs",
+    "hometown": "Paducah, Kentucky",
+    "entrance_music": {
+     "title": "Cocky",
+     "artist": "Kid Rock",
+     "verbatim": "\"Cocky\" - Kid Rock",
+     "corrected": "\"Cocky\" by Kid Rock"
+    },
+    "style": "American High-Flyer/Technical/MMA",
+    "finisher": "CK Finale (Canadian Destroyer)"
+   }
+  ],
+  "caption": "\"The Show\" Chad Kurtis parlayed a Duke University wrestling background into the NAPW Television Championship and a two-time Tag Team title reign.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 35,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "chase-jacobson",
+  "type": "character",
+  "name": "Chase Jacobson",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — tag-teamed with Kris Jacobson against the Kentucky Hellbillies",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Teamed with Kris Jacobson against the Kentucky Hellbillies on the Beach Blanket Bodyslams undercard.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "chris-casino",
+  "type": "character",
+  "name": "Chris Casino",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — NAPW, Provincial, Tag Team, and Pure Honor Champion; founded the 1st Annual Canada Cup",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'11\"",
+    "weight": "220 lbs",
+    "hometown": "Las Vegas, Nevada",
+    "entrance_music": {
+     "title": "Smooth",
+     "artist": "Rob Thomas & Carlos Santana",
+     "verbatim": "\"Smooth\" - Rob Thomas & Carlos Santana",
+     "corrected": "\"Smooth\" by Rob Thomas & Carlos Santana"
+    },
+    "style": "High Flyer, Technical",
+    "finisher": "Bankrupt Version 2.0 (spinning Unprettier)",
+    "manager": "Monique"
+   }
+  ],
+  "caption": "Born into wealth in Las Vegas, Chris Casino built a championship résumé across the NAPW, Provincial, Tag Team, and Pure Honor titles, and started the fed's own Canada Cup tournament.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 71,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "chris-kamikaze",
+  "type": "character",
+  "name": "Chris Kamikaze",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Tag Team Champion; former stuntman turned WGA member",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'11\"",
+    "weight": "204 lbs",
+    "hometown": "Pearl Harbour, Hawaii",
+    "entrance_music": {
+     "title": "Last Call",
+     "artist": "Tora Tora Tora",
+     "verbatim": "\"Last Call\" - Tora Tora Tora"
+    },
+    "style": "Daredevil/Klutz",
+    "finisher": "Type 99 (Spiral Tap)"
+   }
+  ],
+  "caption": "A onetime Hollywood stuntman sidelined by an on-set injury, Chris Kamikaze found a second career in NAPW, winning the Tag Team Championship as a member of the WGA stable.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 22,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "clancy-king",
+  "type": "character",
+  "name": "Clancy King",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — NAPW World Champion, won from Anton Petrov (Coronation) and lost to Abbey Graves",
+    "source": "promotions/napw/archive/title-history-2013-2015.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Held the NAPW World Championship for five weeks in early 2014, beating Anton Petrov for it before losing it to Abbey Graves.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "colton-sterling",
+  "type": "character",
+  "name": "Colton Sterling",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the 30-person Sole Survivor battle royal at Sole Survivor '14.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "crash-carver",
+  "type": "character",
+  "name": "Crash Carver",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 12,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "crimson-mask",
+  "type": "character",
+  "name": "Crimson Mask",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — Heritage title challenger; half of Crimson Intervention",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Challenged Bruiser Breton for the Canadian Heritage Championship twice in 2014 and later paired with Sammy Devine as Crimson Intervention for a Tag Team title shot.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "cuzin-eddie",
+  "type": "character",
+  "name": "Cuzin Eddie",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Heritage title challenger; recurring Falls Count Anywhere feud with Squirrelly Nuttz",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Brawled Squirrelly Nuttz across Alberta in a Falls Count Anywhere match and repeatedly challenged for the Canadian Heritage Championship, including a fatal four-way at Dominion and a spot in the Battlebowl '14 title match.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "d-napw",
+  "type": "character",
+  "name": "D!",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — three-time NAPW Champion; NAPW's first Champion of Champions",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'10\"",
+    "weight": "213 lbs",
+    "hometown": "Edmonton, Alberta",
+    "entrance_music": {
+     "title": "Note To Self: Don't Die",
+     "artist": "Ryan Adams",
+     "verbatim": "\"Note To Self: Don't Die\" - Ryan Adams",
+     "corrected": "\"Note to Self: Don't Die\" by Ryan Adams"
+    },
+    "style": "Unorthodox Old School"
+   },
+   {
+    "promotion": "team-2005",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "TEAM SuperShow I broadcast (22 July 2006) and the 2006 Dupree Cup Finals broadcast (9 December 2006)."
+   }
+  ],
+  "caption": "An Edmonton native, D! won the NAPW Championship three times and became the first-ever holder of TEAM's Champion of Champions title, a reign he never lost.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 21,
+    "rps": 0,
+    "awards": 4,
+    "relationships": 2
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "david-banks",
+  "type": "character",
+  "name": "David Banks",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles/tag competitor, frequently paired against Lloyd Rees",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring NAPW competitor who fought his way through a run of matches against Lloyd Rees, including a tag-title ladder match.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 29,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "declan-black",
+  "type": "character",
+  "name": "Declan Black",
+  "aka": [
+   "\"The Black Dragon\""
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — NAPW World Champion, won the Battlebowl '14 gauntlet; still champion at the fed's own title-history ledger's last update",
+    "source": "promotions/napw/archive/title-history-2013-2015.html; promotions/napw/archive/2014-year-end-awards.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"The Black Dragon\" won the NAPW World Championship in the Battlebowl '14 gauntlet, beating five other men, and was still champion as of the fed's own last-recorded update.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "dextro",
+  "type": "character",
+  "name": "Dextro",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles/tag competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 17,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dez-carter",
+  "type": "character",
+  "name": "Dez Carter",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Pure Honor titleholder; managed by Asuka Katsuragi",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "244 lbs",
+    "hometown": "Pittsburgh, Pennsylvania",
+    "entrance_music": {
+     "title": "Twinkle, Twinkle",
+     "artist": "L'Arc En Ciel",
+     "verbatim": "\"Twinkle, Twinkle\" by L'Arc En Ciel",
+     "corrected": "\"Twinkle, Twinkle\" by L'Arc~en~Ciel"
+    },
+    "style": "Martial artist with a strong Puroresu background",
+    "finisher": "Go 2 Sleep (fireman's carry into knee-to-face)",
+    "manager": "Asuka Katsuragi"
+   }
+  ],
+  "caption": "A martial artist with a Puroresu background, Dez Carter held the Pure Honor Championship in NAPW with valet Asuka Katsuragi in his corner.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 57,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "diamond-napw",
+  "type": "character",
+  "name": "Diamond",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles/tag competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "dick-kiebiech",
+  "type": "character",
+  "name": "Dick Kiebiech",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "referee — NAPW's own longtime head referee",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "referee"
+    ]
+   }
+  ],
+  "caption": "NAPW's own head referee for years, Dick Kiebiech worked matches back to the classic Terry Brandon/Jack Jones tag team era.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 79,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dio-muerte",
+  "type": "character",
+  "name": "Dio Muerte",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — masked luchador, recurring across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A masked luchador who wrestled a recurring run of matches across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 22,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "don-travelli",
+  "type": "character",
+  "name": "\"Dirty\" Don Travelli",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "role": "wrestler — three-time NAPW Television Champion",
+    "source": "promotions/napw/archive/action-2006-01-12.html; promotions/napw/archive/action-2006-04-20.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"Dirty\" Don Travelli held the NAPW Television Championship three separate times, twice by cheating outright to win it.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 14,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "donovan-astros",
+  "type": "character",
+  "name": "Donovan Astros",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2007",
+    "role": "wrestler — NAPW World Champion, defending on an overseas tour with the sister promotion ECFW/REBEL Pro Wrestling",
+    "source": "promotions/napw/archive/world-championship-astros-overseas-defenses-2007.html; the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'3",
+    "weight": "227  lbs",
+    "hometown": "Los Angeles, CA",
+    "entrance_music": {
+     "title": "Cult of Personality",
+     "artist": "Living Colour",
+     "verbatim": "\"Cult of Personality\" - Living Colour",
+     "corrected": "\"Cult of Personality\" by Living Colour"
+    },
+    "style": "Technical Brawler",
+    "finisher": "Astrocide (Unprettier) / Shockwave (vertebreaker)"
+   }
+  ],
+  "caption": "Carried the NAPW World Championship on an overseas 2007 tour, defending it against ECFW/REBEL Pro Wrestling's own Silver Dagger, Link Van Haggard, and a returning Ravager across Brisbane, Sydney, and Beijing.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 29,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "durty-dutch-flanagan",
+  "type": "character",
+  "name": "Durty Dutch Flanagan",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "earl-of-dokken",
+  "type": "character",
+  "name": "Earl of Dokken",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — tag-paired with Clancy King at Tagstravaganza",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Teamed with Clancy King against Anton Petrov and Jackson Kass on the Tagstravaganza undercard.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "el-honcho",
+  "type": "character",
+  "name": "El Honcho",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — tag-teamed with the Order of Orochi through the fall 2014 card run",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Fought alongside the Order of Orochi in tag matches at Dominion, Flavour Explosion, and Red Menace.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "el-mentiroso",
+  "type": "character",
+  "name": "El Mentiroso",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — masked luchador, recurring across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A masked luchador who wrestled a recurring run of matches across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 17,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "esteban-napw",
+  "type": "character",
+  "name": "Esteban",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — WGA stable member",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'7\"",
+    "weight": "176 pounds",
+    "hometown": "Harding, New Mexico",
+    "entrance_music": {
+     "title": "Big Balls",
+     "artist": "AC/DC",
+     "verbatim": "\"Big Balls\" - AC/DC",
+     "corrected": "\"Big Balls\" by AC/DC"
+    },
+    "style": "Sleazy luchadore",
+    "finisher": "Top rope huracanrana pin"
+   }
+  ],
+  "caption": "A self-described \"sleazy luchadore\" and WGA stable member, Esteban's own finishing move was, by his own bio's admission, mostly an excuse to land in an opponent's face.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "evan-cartwright",
+  "type": "character",
+  "name": "\"Perfection\" Evan Cartwright",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2006",
+    "last_seen": "2007",
+    "role": "wrestler — NAPW World Champion, Dec 2006 – Feb 2007; former Rat Pack enforcer turned singles headliner",
+    "source": "promotions/napw/archive/black-thursday-ii-2006-12-14.html; promotions/napw/archive/tuesday-night-fights-2007-01-16.html; promotions/napw/archive/cold-snap-2007-02-07.html; the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'0\"",
+    "weight": "222¼ lbs",
+    "hometown": "Cairo, Illinois",
+    "entrance_music": {
+     "verbatim": "\"Hold On!  I'm Coming!\" - Sam & Dave",
+     "corrected": "\"Hold On, I'm Comin'\" by Sam & Dave"
+    },
+    "style": "Technical/Stiff",
+    "finisher": "The Cartwheel (Wheelbarrow Suplex into a Boston Crab)"
+   }
+  ],
+  "caption": "“Perfection” Evan Cartwright climbed from Rat Pack enforcer to NAPW World Champion, holding the belt from Black Thursday II through a losing third defense against Ravager at Cold Snap.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 33,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "felicity-banks",
+  "type": "character",
+  "name": "Felicity Banks",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — entered the Heritage title shot fatal four-way at Beach Blanket Bodyslams",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the fatal four-way for a Canadian Heritage Championship shot at Beach Blanket Bodyslams, alongside Clancy King, Andellion Moonwater, and Blake Taylor.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "francis-the-polar-bear",
+  "type": "character",
+  "name": "Francis the Polar Bear",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014-05",
+    "last_seen": "2014-12",
+    "role": "Phenomenal Army — a polar bear the Phenomenons have trained to despise fans of Star Trek",
+    "source": "the Phenomenons' own NAPW application, \"Manager Name & Appearance\" field (2014)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "notes": "One of the Phenomenal Army — see the-phenomenons and its Managers line.",
+  "caption": "A polar bear the Phenomenal Army trained to despise fans of Star Trek, one of the stranger members of a roster that already included two camels and a skunk's remains.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "nonhuman": true,
+  "species": "polar bear"
+ },
+ {
+  "id": "francis-the-skunk",
+  "type": "character",
+  "name": "Francis the Skunk",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014-05",
+    "last_seen": "2014-12",
+    "role": "Phenomenal Army (former member, deceased in-fiction) — remains carried in a burlap sack",
+    "note": "Per the Phenomenons' own 2014 account: Francis was a past member of the Army until they dropped him into Toby Jenkins' ventilation system; the house was ruined and Francis starved to death before they remembered to rescue him. His remains are now kept in a burlap sack, which they often talk to — and which, per Eric Cameron's own 2004 telling, was already traveling with them by then.",
+    "source": "the Phenomenons' own NAPW application, \"Manager Name & Appearance\" field (2014)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "notes": "Recorded as the Phenomenons' own application states — an in-fiction death, a kayfabe fact of the lineage like any other. Not a real person and not linked to the Museum's actual In Memoriam register (Sean Simon Williams, Jaymes Faulkner), which is for real deaths.",
+  "caption": "A former member of the Phenomenal Army who starved in Toby Jenkins' ventilation system after the team forgot to come back for him; his remains still travel with them, kept in a burlap sack they talk to.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "nonhuman": true,
+  "species": "skunk"
+ },
+ {
+  "id": "frank-warburton",
+  "type": "character",
+  "name": "Frank Warburton",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "other — NAPW's own ring announcer",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "other"
+    ]
+   }
+  ],
+  "caption": "NAPW's own booming-voiced ring announcer, present at every title change the fed's own broadcasts called.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 85,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "gary-mr-slicks-double",
+  "type": "character",
+  "name": "Gary",
+  "aka": [
+   "Gary (Mr. Slick's Double)"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — WGA stable member; body double for Mr. Slick",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "242 lbs",
+    "hometown": "Pensacola, FL",
+    "entrance_music": {
+     "title": "Double Trouble",
+     "artist": "The Roots",
+     "verbatim": "\"Double Trouble\" - The Roots",
+     "corrected": "\"Double Trouble\" by The Roots"
+    },
+    "style": "Technical/Rookie",
+    "finisher": "Facsimile (double german into a bridge pin)"
+   }
+  ],
+  "caption": "Hired originally as a body double for former NAPW Television Champion Mr. Slick, Gary went on to compete in his own right as a WGA stable member.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "greta-napw",
+  "type": "character",
+  "name": "Greta",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the 30-person Sole Survivor battle royal at Sole Survivor '14.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "grillo-jr",
+  "type": "character",
+  "name": "Grillo Jr.",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — World title challenger; Sole Survivor '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Challenged Jay Deschain for the NAPW World Championship and entered that year's 30-person Sole Survivor battle royal.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "hank-henderson",
+  "type": "character",
+  "name": "\"Hard Hittin' Hank\" Henderson",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — listed on NAPW's own roster index",
+    "source": "the fed's own roster index page (content/roster/roster.html, Wayback-captured 17 May 2008)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Listed on NAPW's own roster index among its singles competitors.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jack-attack-jones",
+  "type": "character",
+  "name": "Jack \"Attack\" Jones",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "commentator — NAPW's own color commentator; a retired West Coast and Japanese-circuit wrestler",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "commentator"
+    ]
+   }
+  ],
+  "caption": "A decorated wrestler who worked the West Coast and Japanese circuits through the 1980s and early '90s, Jack \"Attack\" Jones became NAPW's own heel-leaning color commentator alongside Bill Hewson.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 51,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jack-saffire",
+  "type": "character",
+  "name": "Jack \"Grey Knight\" Saffire",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jackson-kass",
+  "type": "character",
+  "name": "Jackson Kass",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — tag-paired with Anton Petrov at Tagstravaganza",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Paired with Anton Petrov against Clancy King and the Earl of Dokken on the Tagstravaganza undercard.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jacob-venar",
+  "type": "character",
+  "name": "Jacob Venar",
+  "aka": [
+   "\"The Screaming Falcon\""
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — high-flyer who overcame a childhood fear of ravens to build a career around flight",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "230 lbs",
+    "hometown": "Parts Unknown, British Columbia",
+    "entrance_music": {
+     "title": "Look Out Below",
+     "artist": "Closure",
+     "verbatim": "\"Look Out Below\" - Closure"
+    },
+    "style": "High-Flyer / Unorthodox Martial Arts / Unorthodox Submission",
+    "finisher": "SMW - Spread My Wings (Swanton Bomb)"
+   }
+  ],
+  "caption": "Jacob Venar channeled a childhood trauma involving a flock of ravens into a high-flying NAPW career under the name \"The Screaming Falcon,\" the moniker taken from a taunt thrown at him by Jake Phoenix.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 18,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jake-phoenix-napw",
+  "type": "character",
+  "name": "Jake Phoenix",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2014",
+    "role": "wrestler — debuted Apr 2007, won the Tag Team and Heritage Championships; later NAPW's own Chief of Security, suspended Dec 2014 and special guest referee for the Dominion World title match",
+    "source": "the fed's own 2008 roster bio cards (content/roster/heels.html, Wayback-captured 23 Jul 2008); the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "height": "6'9\"",
+    "weight": "289 lbs",
+    "hometown": "Fort Lauderdale, Florida",
+    "entrance_music": {
+     "verbatim": "\"Surprise!  You're Dead\" - Faith No More",
+     "corrected": "\"Surprise! You're Dead!\" by Faith No More"
+    },
+    "style": "Brawler",
+    "finisher": "Tombstone piledriver",
+    "note": "The digest's own crossover watch flagged this name as a possible echo of an unrelated watchlist name (\"Jay Phoenix\") — same surname, different wrestler, no other corroborating link."
+   }
+  ],
+  "caption": "Debuted in NAPW in April 2007 as a wrestler — winning the Tag Team and Heritage Championships and forcing Donovan Astros's own \"demon brother\" storyline — before resurfacing by 2014 as the fed's own Chief of Security, special guest referee for the Dominion World title match.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 31,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jason-richards",
+  "type": "character",
+  "name": "Jason Richards",
+  "aka": [
+   "\"American Wolf\" Jason Richards"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — half of the tag team Scars; challenged for the Canadian Heritage Championship",
+    "source": "promotions/napw/archive/title-history-2013-2015.html; promotions/napw/archive/tagstravaganza-2014-06-28.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Half of the tag team Scars, and a challenger for the NAPW Canadian Heritage Championship.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jaxon-queen",
+  "type": "character",
+  "name": "Jaxon Queen",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the 30-person Sole Survivor battle royal at Sole Survivor '14.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "fandom": "Jaxon Queen"
+ },
+ {
+  "id": "jay-deschain",
+  "type": "character",
+  "name": "Jay Deschain",
+  "aka": [
+   "\"The Perfect Storm\""
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — NAPW World Champion, won from Abbey Graves at Sole Survivor '14 and lost it in the Battlebowl '14 gauntlet",
+    "source": "promotions/napw/archive/title-history-2013-2015.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"The Perfect Storm\" beat Abbey Graves in a Last Person Standing match at Sole Survivor '14 to win the NAPW World Championship, and lost it three months later in the Battlebowl '14 gauntlet.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jay-obrien",
+  "type": "character",
+  "name": "Jay O'Brien",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 13,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jc-cook",
+  "type": "character",
+  "name": "J.C. Cook",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring NAPW competitor whose own rivalry with Death ran across multiple broadcasts.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 13,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jeff-james",
+  "type": "character",
+  "name": "Jeff James",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — Prince W. Darko's younger brother, per Darko's own bio card",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Named by Prince W. Darko's own bio card as the younger brother Darko sold out to join Thomas Young in REBEL Pro Wrestling, Jeff James wrestled his own run of matches in NAPW.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 45,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "joey-malone",
+  "type": "character",
+  "name": "\"Bad Boy\" Joey Malone",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — first NAPW Extreme Jobber Champion; leader of the WGA stable",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'10\"",
+    "weight": "231 lbs",
+    "hometown": "Lloydminster, Alberta",
+    "entrance_music": {
+     "verbatim": "\"Bad Boys\" (COPS theme)",
+     "corrected": "\"Bad Boys\" (COPS Theme)"
+    },
+    "style": "Dirty/Technical",
+    "finisher": "The Bad Blaster (X-Factor)"
+   }
+  ],
+  "caption": "The self-declared \"Bad Boy,\" Joey Malone led the ragtag Workers Guild of Alberta stable and became the first-ever NAPW Extreme Jobber Champion, losing the honor to Nightmare.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 26,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "john-mitchell-napw",
+  "type": "character",
+  "name": "John Mitchell",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the 30-person Sole Survivor battle royal at Sole Survivor '14.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "john-sharplin",
+  "type": "character",
+  "name": "John Sharplin",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "referee — NAPW's own senior referee, out of a ten-year retirement",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "referee"
+    ]
+   }
+  ],
+  "caption": "A ten-year veteran referee, John Sharplin came out of retirement to work NAPW's own broadcasts twice a week as senior referee.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 72,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "johnny-rotten-napw",
+  "type": "character",
+  "name": "Johnny Rotten",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "josh-reynolds",
+  "type": "character",
+  "name": "Josh Reynolds",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "other — NAPW's own backstage interviewer",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "other"
+    ]
+   }
+  ],
+  "caption": "A University of Alberta journalism student, Josh Reynolds worked as NAPW's own backstage interviewer.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 27,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "joshua-rapture",
+  "type": "character",
+  "name": "Joshua Rapture",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — challenged Abbey Graves for the World Championship at Tagstravaganza",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Challenged Abbey Graves for the NAPW World Championship at Tagstravaganza and later requested an audience with the fans at Heritage Havoc.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "juice-napw",
+  "type": "character",
+  "name": "Juice",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kabukimono",
+  "type": "character",
+  "name": "Kabukimono",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — masked competitor with a kabuki-inspired gimmick, recurring across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A kabuki-gimmicked wrestler who worked a recurring run of matches across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "karl-van-helden",
+  "type": "character",
+  "name": "Karl Van Helden",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "kbond",
+  "type": "character",
+  "name": "Kevin \"KBOND\" Bondsworth",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Prince W. Darko's tag partner and enforcer",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'8\"",
+    "weight": "310 lbs",
+    "hometown": "The Kingdom of Zamunda",
+    "entrance_music": {
+     "title": "Can't No One Pound Me Song",
+     "artist": "Akforty",
+     "verbatim": "\"Can't No One Pound Me Song\" - Akforty"
+    },
+    "style": "Like every other big and tall wrestler",
+    "finisher": "Zamunda Splash",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "Prince W. Darko's own enforcer and tag partner, Kevin \"KBOND\" Bondsworth built his offense around sheer size, closing out matches with the Zamunda Splash off the top rope.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kevin-kodiak",
+  "type": "character",
+  "name": "Kevin Kodiak",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 30,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "khaos",
+  "type": "character",
+  "name": "Khaos",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings, feuding with the Immortal.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "king-koji",
+  "type": "character",
+  "name": "King Koji",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — listed on NAPW's own roster index",
+    "source": "the fed's own roster index page (content/roster/roster.html, Wayback-captured 17 May 2008)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Listed on NAPW's own roster index among its singles competitors.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "krenshov",
+  "type": "character",
+  "name": "Krenshov",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — NAPW World Champion; power brawler out of REBEL Pro Wrestling",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'9\"",
+    "weight": "350 lbs",
+    "hometown": "Middletown, NJ",
+    "entrance_music": {
+     "title": "Attack",
+     "artist": "30 Seconds to Mars",
+     "verbatim": "\"Attack\" - 30 Seconds to Mars",
+     "corrected": "\"Attack\" by 30 Seconds to Mars"
+    },
+    "style": "Power/Brawler",
+    "finisher": "Total Eclipse (Jackhammer)"
+   }
+  ],
+  "caption": "A power brawler who held the NAPW World Championship, Krenshov spent a stint in sister promotion REBEL Pro Wrestling before returning to NAPW as hired muscle.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 17,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Kenny \"The Colossal\" Krenshov"
+  ]
+ },
+ {
+  "id": "kris-jacobson",
+  "type": "character",
+  "name": "Kris Jacobson",
+  "aka": [
+   "\"Lionheart\""
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — World title challenger; tag-teamed with the Phenomenons at Dominion",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"Lionheart\" Kris Jacobson chased the NAPW World Championship through the back half of 2014 and closed the year teaming with Abbey Graves for a Tag Team title shot at Red Menace.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "krusty-kid-paul",
+  "type": "character",
+  "name": "Krusty Kid Paul",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Tag Team Champion",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "240 lbs",
+    "hometown": "Kitchener, Ontario",
+    "entrance_music": {
+     "title": "The Alcoholik",
+     "artist": "Superjoint Ritual",
+     "verbatim": "\"The Alcoholik\" - Superjoint Ritual",
+     "corrected": "\"The Alcoholik\" by Superjoint Ritual"
+    },
+    "style": "Brawler",
+    "finisher": "Krusty Bomb"
+   }
+  ],
+  "caption": "A brawler out of Kitchener, Ontario, Krusty Kid Paul won the NAPW Tag Team Championship and finished opponents with the Krusty Bomb.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 54,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kurt-castle",
+  "type": "character",
+  "name": "\"The Devastator\" Kurt Castle",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2007",
+    "role": "wrestler — NAPW Provincial Champion for two weeks, part of the trio The Untouchables",
+    "source": "promotions/napw/archive/tuesday-night-fights-2007-01-09.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"The Devastator\" held the NAPW Provincial Championship for two weeks in January 2007, running as part of the trio The Untouchables.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 15,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lady-sparks",
+  "type": "character",
+  "name": "Lady Sparks",
+  "aka": [
+   "Bubbles"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — valet turned wrestler for Stone Zellor",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'6\"",
+    "weight": "120 lbs",
+    "hometown": "Staten Island, New York",
+    "entrance_music": {
+     "title": "No Sleep Tonight",
+     "artist": "The Faders",
+     "verbatim": "\"No Sleep Tonight\" - The Faders"
+    },
+    "style": "Female brawler",
+    "finisher": "Cutter"
+   }
+  ],
+  "caption": "Originally a valet for lifelong friend Stone Zellor under the name Bubbles, Lady Sparks became a wrestler in her own right after NAPW's first-ever mixed tag team match.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "lambert-haniel",
+  "type": "character",
+  "name": "Lambert Haniel",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — half of Those That Would Inflict Ill; NAPW World Tag Team Champion",
+    "source": "NAPW's own site (Wayback-mined 2014 cards, convoy pass)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "One half of Those That Would Inflict Ill, NAPW World Tag Team Champions from the night they took the belt off the Phenomenons at Flavour Explosion, 27 October 2014.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lardo-napw",
+  "type": "character",
+  "name": "Lardo",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — singles competitor across the Phenomenons-era card run",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Wrestled Jay Deschain at Tagstravaganza and Bristol Bush a month later at Beach Blanket Bodyslams.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lloyd-rees",
+  "type": "character",
+  "name": "\"The Lemondrop Kid\" Lloyd Rees",
+  "aka": [
+   "LDK Lloyd Rees"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "role": "wrestler — NAPW Provincial Champion, won at Complete Control",
+    "source": "promotions/napw/archive/complete-control-2006-05-01.html; the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'1\"",
+    "weight": "247 lbs.",
+    "hometown": "Wabana, Bell Island, Newfoundland",
+    "entrance_music": {
+     "title": "When The Lights Go Out",
+     "artist": "The Black Keys (music only)",
+     "verbatim": "\"When The Lights Go Out\" - The Black Keys (music only)"
+    },
+    "style": "Submission/High-flying/Technical",
+    "finisher": "Conception Bay Chinlock (Dragon sleeper w/grapevine leg scissors)"
+   }
+  ],
+  "caption": "\"The Lemondrop Kid\" won the NAPW Provincial Championship at Complete Control.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 58,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lobo-napw",
+  "type": "character",
+  "name": "Lobo",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2006",
+    "role": "wrestler — NAPW Television Champion",
+    "source": "promotions/napw/archive/napw-action-2005-03-11.html; promotions/napw/archive/monday-night-fights-2006-03-02.html",
+    "note": "Distinct from any unrelated wrestler elsewhere billed as \"Lobo\" — no identity connection asserted.",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A hardcore luchador-styled wrestler who won the NAPW Television Championship from Don Travelli.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 12,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lyndsey-valentine",
+  "type": "character",
+  "name": "Lyndsey Valentine",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — former Women's World Champion elsewhere, on the record as a founder of that title",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'11\"",
+    "weight": "145 lbs",
+    "hometown": "Water Valley, Kentucky",
+    "entrance_music": {
+     "title": "Bad Reputation",
+     "artist": "Joan Jett",
+     "verbatim": "\"Bad Reputation\" - Joan Jett",
+     "corrected": "\"Bad Reputation\" by Joan Jett"
+    },
+    "style": "Brawler/Power/Technical",
+    "finisher": "Bloody Valentine (Widow's Peak)"
+   }
+  ],
+  "caption": "Matthew Kurtis's longtime girlfriend, Lyndsey Valentine helped force her previous promotion (FCW) to recognize a Women's World Championship, which she held before landing in NAPW.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 16,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "mandy-trevathan",
+  "type": "character",
+  "name": "Mandy Trevathan",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — WGA stable member; former girlfriend of Matthew Kurtis",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'4\"",
+    "weight": "119 lbs",
+    "hometown": "Lexington, KY",
+    "entrance_music": {
+     "title": "Shut Up",
+     "artist": "Kelly Osbourne",
+     "verbatim": "\"Shut Up\" - Kelly Osbourne",
+     "corrected": "\"Shut Up\" by Kelly Osbourne"
+    },
+    "style": "Scrapper/Girl",
+    "finisher": "Bluegrass Bulldog"
+   }
+  ],
+  "caption": "Matthew Kurtis's girlfriend after his split from Lyndsey Valentine, Mandy Trevathan joined the WGA stable, mainly, by her own bio's own account, to aggravate him.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "marcus-chamberlain",
+  "type": "character",
+  "name": "Marcus Chamberlain",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "mark-cage",
+  "type": "character",
+  "name": "Mark Cage",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 12,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mark-millar",
+  "type": "character",
+  "name": "\"The Moose\" Mark Millar",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2006",
+    "role": "wrestler — NAPW Provincial Champion, lost the inaugural title match to Ravager on the fed's own debut show, then won the belt back",
+    "source": "promotions/napw/archive/monday-night-fights-2005-10-31.html; promotions/napw/archive/monday-night-fights-2006-02-20.html; the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'4\"",
+    "weight": "271 lbs",
+    "hometown": "St. Albert, Alberta",
+    "entrance_music": {
+     "title": "All Hell For A Basement",
+     "artist": "Big Sugar",
+     "verbatim": "\"All Hell For A Basement\" - Big Sugar",
+     "corrected": "\"All Hell for a Basement\" by Big Sugar"
+    },
+    "style": "Brawler/Grappler",
+    "finisher": "Roughneck (F5)"
+   }
+  ],
+  "caption": "Lost NAPW's own inaugural Provincial Championship match to Ravager on the fed's debut show, then won the belt back from him four months later, the same night Ravager moved up to the World title.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 30,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "masafumi-satake",
+  "type": "character",
+  "name": "Masafumi Satake",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Japanese technical veteran out of Pro-Wrestling of Japan",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'10\" 220lbs",
+    "hometown": "Matsuzaka City, Japan",
+    "entrance_music": {
+     "title": "Down the Drain",
+     "artist": "Zero Boys",
+     "verbatim": "\"Down the Drain\" - Zero Boys"
+    },
+    "style": "Technical",
+    "finisher": "Matsuzaka Cutter (Torture Rack Neckbreaker)"
+   }
+  ],
+  "caption": "A technical veteran of Japan's Pro-Wrestling of Japan (rebuilt as PROMO*JAPAN), Masafumi Satake broke away to freelance and pass on his own knowledge, eventually landing in NAPW.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "masakre",
+  "type": "character",
+  "name": "Masakre",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the 30-person Sole Survivor battle royal at Sole Survivor '14.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "matanza",
+  "type": "character",
+  "name": "Matanza",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the 30-person Sole Survivor battle royal at Sole Survivor '14.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "matthew-kurtis",
+  "type": "character",
+  "name": "\"Bluegrass Badass\" Matthew Kurtis",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Kentucky-born singles competitor; involved with both Lyndsey Valentine and Mandy Trevathan",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A Kentucky wrestler whose own personal life — first with Lyndsey Valentine, then with Mandy Trevathan — played out across NAPW's own women's division storylines as much as his own matches did.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 22,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "\"The Angry American\" Matthew Kurtis"
+  ]
+ },
+ {
+  "id": "maxx-extreme",
+  "type": "character",
+  "name": "Maxx Extreme",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "megan-adams",
+  "type": "character",
+  "name": "Megan Adams",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2010",
+    "role": "other — Edmonton SUN sports reporter attached to NAPW's own coverage",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "other"
+    ]
+   }
+  ],
+  "caption": "The Edmonton SUN's own sports reporter attached to NAPW, Megan Adams wrote a column on the fed for the paper and turned up in the fed's own in-fiction 2010 farewell press conference.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "mirage-napw",
+  "type": "character",
+  "name": "Mirage",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "modo-whoa",
+  "type": "character",
+  "name": "Modo WHOA!",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — rookie brought in to aid Stone Zellor",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'9\"",
+    "weight": "189 lbs",
+    "hometown": "Barrie, ON",
+    "entrance_music": {
+     "title": "The Seeker",
+     "artist": "The Who",
+     "verbatim": "\"The Seeker\" - The Who",
+     "corrected": "\"The Seeker\" by The Who"
+    },
+    "style": "Rookie/Spot Monkey",
+    "finisher": "WHOA! Driver (Death Valley Driver)"
+   },
+   {
+    "promotion": "sccw-simcoe-2009",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-07-22",
+    "last_seen": "2009-08-12",
+    "source": "Ranked seventh for the heavyweight title on 22 July 2009 as Modo WHOA!, second for the All Barrie title on 28 July; beat Doctor Ian on 27 July; lost the 10 August six-person tag, where the fed noted \"Modo WHOA! (now Galactix)\"; ranked fourth as Galactix on 12 August."
+   }
+  ],
+  "caption": "A rookie spot-monkey out of Canadian indy promotion Premier Wrestling, Modo WHOA! was brought into NAPW to back Stone Zellor against Bruce Richards.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Galactix"
+  ]
+ },
+ {
+  "id": "montezuma",
+  "type": "character",
+  "name": "Montezuma",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014-05",
+    "last_seen": "2014-12",
+    "role": "Phenomenal Army — one of the Phenomenal Camels (a dromedary)",
+    "note": "The Phenomenons saw Montezuma and Alibaba at a zoo once and staged an elaborate rescue attempt. Both camels \"spit on command,\" per the Phenomenons' own account. Towed behind the Army's van (styled after the Scooby-Doo Mystery Machine) on tour.",
+    "source": "the Phenomenons' own NAPW application, \"Manager Name & Appearance\" field (2014)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "notes": "One of the Phenomenal Camels (with Alibaba) — see the-phenomenons and its Managers line.",
+  "caption": "A dromedary rescued from a zoo by the Phenomenons on a whim, trained to spit on command, and towed behind their Mystery Machine-styled van as one of the Phenomenal Camels.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "nonhuman": true,
+  "species": "dromedary camel"
+ },
+ {
+  "id": "morgan-smythe",
+  "type": "character",
+  "name": "Morgan Smythe",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "referee — NAPW's own junior referee",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "referee"
+    ]
+   }
+  ],
+  "caption": "NAPW's own junior referee, Morgan Smythe worked as one of the few women in the fed's officiating corps.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 72,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mr-slick",
+  "type": "character",
+  "name": "Mr. Slick",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — former NAPW Television Champion",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A former NAPW Television Champion well-remembered enough that the fed later hired a body double, Gary, to work under his own name.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 23,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mystic-ninja",
+  "type": "character",
+  "name": "Mystic Ninja",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — half of Mystic Exposition; four-time Tag Team Champion",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'8\"",
+    "weight": "200 lbs",
+    "hometown": "A sushi restaurant in Chinatown, Vancouver BC",
+    "entrance_music": {
+     "title": "Sub-Zero (Chinese Ninja Warrior)",
+     "artist": "The Immortals",
+     "verbatim": "\"Sub-Zero (Chinese Ninja Warrior)\" - The Immortals"
+    },
+    "style": "Lucha libre welterweight",
+    "finisher": "Super Shinobi (Super Shinarui)"
+   }
+  ],
+  "caption": "One half of Mystic Exposition, a four-time NAPW Tag Team Championship pairing with the Expositioner, reunited from their earlier days together at Moose Jaw Pro.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 26,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "nightmare-napw",
+  "type": "character",
+  "name": "The Nightmare",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring heel across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring heel presence across NAPW's own weekly TV tapings, feuding across the roster with a signature chokeslam finish.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 18,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "nobody-napw",
+  "type": "character",
+  "name": "Nobody",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — half of Those That Would Inflict Ill; NAPW World Tag Team Champion",
+    "source": "NAPW's own site (Wayback-mined 2014 cards, convoy pass)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "The other half of Those That Would Inflict Ill — a tag team billed, on the night they won the NAPW World Tag Team Championship, under the flattest possible ring name.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "noir-napw",
+  "type": "character",
+  "name": "Noir",
+  "aka": [
+   "Enzo Kanegawa"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Sicilian-Japanese Puroresu high-flyer",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "220 lbs",
+    "hometown": "Sicily, Italy",
+    "entrance_music": {
+     "title": "I am the Highway",
+     "artist": "Audioslave",
+     "verbatim": "\"I am the Highway\" - Audioslave",
+     "corrected": "\"I Am the Highway\" by Audioslave"
+    },
+    "style": "Puroresu/High Flyer",
+    "finisher": "The First Human Disaster (Top Rope Moonsault Legdrop)"
+   }
+  ],
+  "caption": "Born Enzo Kanegawa in Sicily to a Japanese mother and an Italian father, Noir brought a Puroresu/high-flyer style to NAPW.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "north-t-gunderson",
+  "type": "character",
+  "name": "North T. Gunderson",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — member of the comedic delivery-man stable The Delivery Men",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A member of NAPW's own comedic delivery-man stable, The Delivery Men.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 41,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "nuker-napw",
+  "type": "character",
+  "name": "Nuker",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — tag-teamed at Flavour Explosion; challenged Bruiser Breton at Red Menace",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Teamed with Young Turks against the Order of Orochi and El Honcho at Flavour Explosion, then challenged Bruiser Breton in a big-man battle at Red Menace.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "patrick-bickle",
+  "type": "character",
+  "name": "Patrick Bickle",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "role": "wrestler — NAPW World Champion, won at Anniversary Assault (a fatal four-way)",
+    "source": "promotions/napw/archive/anniversary-assault-2006-10-31-2.html; the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'11\" 175 lbs",
+    "hometown": "New York, New York",
+    "entrance_music": {
+     "title": "Ibi Dreams Of Pavement",
+     "artist": "Broken Social Scene",
+     "verbatim": "\"Ibi Dreams Of Pavement\" - Broken Social Scene",
+     "corrected": "\"Ibi Dreams of Pavement (A Better Day)\" by Broken Social Scene"
+    },
+    "style": "Suicidal/submission",
+    "finisher": "Roll Credits (Anaconda Vice) / FreeFall"
+   },
+   {
+    "promotion": "team-2005",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The 2006 Dupree Cup's own broadcasts."
+   }
+  ],
+  "caption": "Became NAPW World Champion at Anniversary Assault by freefalling onto a downed opponent for the pin, seconds after a rival believed he had already won the match himself.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 42,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "patrick-kidd",
+  "type": "character",
+  "name": "\"The Outlaw\" Patrick Kidd",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2006",
+    "last_seen": "2007",
+    "role": "wrestler — NAPW Provincial Champion, won by submission",
+    "source": "promotions/napw/archive/tuesday-night-fights-2006-11-07.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"The Outlaw\" won the NAPW Provincial Championship by submission.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 15,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "prince-w-darko",
+  "type": "character",
+  "name": "Prince W. Darko",
+  "aka": [
+   "Prince Darko"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Heritage and Television Champion; born into the royal family of Zamunda",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'1\"",
+    "weight": "227 lbs",
+    "hometown": "The Kingdom of Zamunda",
+    "entrance_music": {
+     "title": "STILL CAN'T WHOOP ME",
+     "artist": "AkForty",
+     "verbatim": "\"STILL CAN'T WHOOP ME\" - AkForty"
+    },
+    "style": "Unorthodox/Technical/Power",
+    "finisher": "Over and Out / Zamunda Driver (Tiger Driver)",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "Born into royalty in Zamunda, Prince W. Darko won both the Heritage and Television Championships in NAPW, fielding his own entourage, Zamunda Force, at ringside.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 46,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "prince-wadjethotep",
+  "type": "character",
+  "name": "Prince Wadjethotep",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — NAPW Canadian Heritage Champion by early 2015, per the fed's own 2014 Year End Awards; the title change from Sammy Devine isn't documented in the held corpus",
+    "source": "promotions/napw/archive/2014-year-end-awards.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Named NAPW Canadian Heritage Champion in the fed's own 2014 Year End Awards, a title change from Sammy Devine's own reign that the surviving record doesn't otherwise document.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "python-napw",
+  "type": "character",
+  "name": "Python",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 and Battlebowl '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered both the Sole Survivor '14 battle royal and the Battlebowl '14 battle royal that closed out the year.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "r-joseph-winchell-iii",
+  "type": "character",
+  "name": "R. Joseph Winchell III",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "authority-figure — NAPW Commissioner/Owner; son of Wahoo Bobby Winchell",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "authority-figure"
+    ]
+   }
+  ],
+  "caption": "The son of founding owner \"Wahoo\" Bobby Winchell, R. Joseph Winchell III pushed his own father out to run NAPW himself before vanishing from the company after a loss to Tommy Deathrow.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 13,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "ravager",
+  "type": "character",
+  "name": "Ravager",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2007",
+    "role": "wrestler — won the inaugural NAPW Provincial Championship on the fed's own debut show; a two-time NAPW World Champion",
+    "source": "promotions/napw/archive/monday-night-fights-2005-10-31.html; promotions/napw/archive/monday-night-fights-2006-02-20.html; promotions/napw/archive/world-championship-astros-overseas-defenses-2007.html; the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'10\"",
+    "weight": "210 lbs",
+    "hometown": "Brooklyn, New York",
+    "entrance_music": {
+     "title": "Path",
+     "artist": "Apocalyptica",
+     "verbatim": "\"Path\" by Apocalyptica",
+     "corrected": "\"Path\" by Apocalyptica"
+    },
+    "style": "Shooter",
+    "finisher": "Last Resort (Dragon Suplex) / Instant Karma (Super Brainbuster)"
+   },
+   {
+    "promotion": "team-2005",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "TEAM SuperShow I broadcast (22 July 2006) and the 2006 Dupree Cup's own broadcasts."
+   }
+  ],
+  "caption": "Won NAPW's own inaugural Provincial Championship match on the fed's debut show, then went on to become a two-time NAPW World Champion — billed, on a 2007 overseas tour defense, as the longest-reigning champion in the promotion's history.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 41,
+    "rps": 0,
+    "awards": 3,
+    "relationships": 1
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "rex-caliber",
+  "type": "character",
+  "name": "\"The Nexus One\" Rex Caliber",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2007",
+    "role": "wrestler — two-time NAPW Champion; Tag Team Champion; briefly company owner",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'3\"",
+    "weight": "245 lbs",
+    "hometown": "Parts Unknown, North Carolina",
+    "entrance_music": {
+     "title": "Even More Human Than Human",
+     "artist": "The X-Ecutioners",
+     "verbatim": "\"Even More Human Than Human\" - The X-Ecutioners"
+    },
+    "style": "Power/Technical/Submission",
+    "finisher": "Total Annihilation (Samoa Joe's Muscle Buster)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "\"The Nexus One\" Rex Caliber held the NAPW Championship twice and the Tag Team title once before a stint as company owner ended with his own eviction from NAPW in August 2007.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 17,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "ricky-rocker",
+  "type": "character",
+  "name": "Ricky Rocker",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — 1980s glam-rock throwback competitor",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'1\"",
+    "weight": "212 lbs",
+    "hometown": "DETROIT ROCK CITY",
+    "entrance_music": {
+     "title": "Panama",
+     "artist": "Van Halen",
+     "verbatim": "\"Panama\" - Van Halen",
+     "corrected": "\"Panama\" by Van Halen"
+    },
+    "style": "Speedy",
+    "finisher": "The Still Of The Night (Superkick)"
+   }
+  ],
+  "caption": "A wrestler stuck, by his own bio's own admission, permanently in the 1980s, Ricky Rocker brought glam-rock theatrics to the NAPW undercard.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ryan-kingston",
+  "type": "character",
+  "name": "Ryan Kingston",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2010",
+    "last_seen": "2010",
+    "role": "other — Arthur Graham's own in-fiction legal representative",
+    "source": "promotions/napw/archive/breaking-news-2010-09-09.html",
+    "roles": [
+     "other"
+    ]
+   }
+  ],
+  "caption": "Introduced in NAPW's own in-fiction press conference as Arthur Graham's legal representative, present for the announcement of the fed's own farewell tour.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "ryan-stevens",
+  "type": "character",
+  "name": "Ryan Stevens",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2010",
+    "role": "other — NAPW-online's own columnist and webmaster",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "other"
+    ]
+   }
+  ],
+  "caption": "The person behind NAPW-online.com's own DSL lines, Ryan Stevens wrote columns and kept the site running, and turned up in the fed's own in-fiction 2010 farewell press conference.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "saadra-mehta",
+  "type": "character",
+  "name": "Saadra Mehta",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — half of the Strong Style Angels tag team",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'4\"",
+    "weight": "212 lb.",
+    "hometown": "Fort Lauderdale, FL",
+    "entrance_music": {
+     "title": "Freak",
+     "artist": "Silverchair",
+     "verbatim": "\"Freak\" - Silverchair",
+     "corrected": "\"Freak\" by Silverchair"
+    },
+    "style": "Technical brawling",
+    "finisher": "Air Mehta (Airplane Spin) / Cloud 9 (Brainbuster DDT)"
+   }
+  ],
+  "caption": "An ethnic Indian wrestler born in New Delhi to a Bollywood-actress mother, Saadra Mehta teamed with Tohya Miho as the Strong Style Angels, going undefeated at their previous stop before landing in NAPW.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sammy-devine",
+  "type": "character",
+  "name": "\"Starmaker\" Sammy Devine",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — two-time NAPW Canadian Heritage Champion",
+    "source": "promotions/napw/archive/title-history-2013-2015.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "\"Starmaker\" Sammy Devine won the NAPW Canadian Heritage Championship twice in 2014, first in the five-man melee that restarted the vacant title and again from Bruiser Breton that October.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 10,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "simply-beautiful",
+  "type": "character",
+  "name": "Simply Beautiful",
+  "aka": [
+   "SB"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring Ravager rival and Pure Honor title challenger",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring rival of both Ravager and Chris Casino, Simply Beautiful worked his way into Pure Honor Championship contention across the classic-era show corpus.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 50,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "squirrelly-nuttz",
+  "type": "character",
+  "name": "Squirrelly Nuttz",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — recurring undercard rival of Cuzin Eddie; Heritage title four-way and street fight challenger",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Feuded with Cuzin Eddie in a Falls Count Anywhere brawl across Alberta, and twice challenged for the Canadian Heritage Championship, once in a street fight against Crimson Mask.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "static-napw",
+  "type": "character",
+  "name": "Static",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — masked Lucha Libre/Hardcore wrestler; Tag Team, NAPW, and Provincial Champion",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'6\"",
+    "weight": "175 lbs",
+    "hometown": "Windsor, Ontario",
+    "entrance_music": {
+     "title": "Crimes",
+     "artist": "Blood Brothers",
+     "verbatim": "\"Crimes\" - Blood Brothers",
+     "corrected": "\"Crimes\" by The Blood Brothers"
+    },
+    "style": "Lucha Libre/Hardcore",
+    "finisher": "Moment Of Clarity (Shooting Star Press)"
+   }
+  ],
+  "caption": "A masked drifter trained in Mexico under Art Barr, Static ran through the NAPW, Tag Team, and Provincial Championships across the classic era, incorporating a steel chair into his own arsenal along the way.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 20,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "stein-napw",
+  "type": "character",
+  "name": "Stein",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Tag Team and Provincial Champion",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'9\"",
+    "weight": "180 lbs",
+    "hometown": "Unknown",
+    "entrance_music": {
+     "title": "Science",
+     "artist": "System of a Down",
+     "verbatim": "\"Science\" - System of a Down",
+     "corrected": "\"Science\" by System of a Down"
+    },
+    "style": "Unusual",
+    "finisher": "Smothered in Ketchup (Cobra Clutch Sleeper)"
+   }
+  ],
+  "caption": "An unusual, hard-to-classify competitor, Stein held both the Tag Team and Provincial Championships in NAPW.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 13,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "stone-zellor",
+  "type": "character",
+  "name": "Stone Zellor",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Tag Team Champion; two-time Canadian Heritage Champion",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'3\"",
+    "weight": "178 lbs",
+    "hometown": "Staten Island, New York",
+    "entrance_music": {
+     "title": "Connection",
+     "artist": "Elastica",
+     "verbatim": "\"Connection\" - Elastica",
+     "corrected": "\"Connection\" by Elastica"
+    },
+    "style": "Unspecified",
+    "finisher": "Zellorification (double underhook body-scissors submission)",
+    "manager": "Lady Sparks (formerly Bubbles)",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "The son of a manager for an East Coast promotion, Stone Zellor won the NAPW Tag Team Championship and the Canadian Heritage Championship twice, managed by Lady Sparks.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 46,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "storm-napw",
+  "type": "character",
+  "name": "Storm",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "stylin-kyle-roberts",
+  "type": "character",
+  "name": "Stylin' Kyle Roberts",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — five-time Tag Team Champion as one half of the New & Improved D-X, before turning on his own partner with a steel chair",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Bruce Richards's own tag partner in the record-setting New & Improved D-X, Stylin' Kyle Roberts ended their fifth title reign by turning on Richards with a steel chair.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 81,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "super-skull-moe-chan",
+  "type": "character",
+  "name": "Super Skull Moe-Chan",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Battlebowl '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the Battlebowl '14 battle royal.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "super-skull-nero",
+  "type": "character",
+  "name": "Super Skull Nero",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Battlebowl '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the Battlebowl '14 battle royal.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "suzy-scum",
+  "type": "character",
+  "name": "Suzy Scum",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — brawler with a kick-boxing and submission background",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'7\"",
+    "weight": "128 lbs",
+    "hometown": "Edmonton, AB",
+    "entrance_music": {
+     "title": "You Can't Kill Terror",
+     "artist": "Gwar",
+     "verbatim": "\"You Can't Kill Terror\" - Gwar"
+    },
+    "style": "Brawler with kick-boxing background, knows a thing or two about submission"
+   }
+  ],
+  "caption": "A brawler with a kick-boxing background and a working knowledge of submissions, Suzy Scum wrestled in NAPW's own women's division.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "technique-napw",
+  "type": "character",
+  "name": "Technique",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings, true to his own ring name a technically-oriented wrestler.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "terry-brandon",
+  "type": "character",
+  "name": "Terry Brandon",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "authority-figure — NAPW Commissioner; father of Lobo",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "authority-figure"
+    ]
+   }
+  ],
+  "caption": "A long-time friend of commentator Jack \"Attack\" Jones, Terry Brandon managed Chris Casino and later Lobo — his own illegitimate son, a revelation that cost him Casino's trust — before settling into a long run as NAPW Commissioner.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 39,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-crusher-napw",
+  "type": "character",
+  "name": "The Crusher",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles/tag competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 25,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-expositioner",
+  "type": "character",
+  "name": "The Expositioner",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — half of Mystic Exposition; four-time Tag Team Champion; a founder of the Canadian Independent Professional Wrestlers' Combine",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'1\"",
+    "weight": "240 lbs",
+    "hometown": "Lloydminster, AB",
+    "entrance_music": {
+     "title": "Stop The Rock",
+     "artist": "Apollo 440",
+     "verbatim": "\"Stop The Rock\" - Apollo 440",
+     "corrected": "\"Stop the Rock\" by Apollo 440"
+    },
+    "style": "North American Cruiserweight",
+    "finisher": "X Spots the Mark (inverted crucifix Michinoku Driver)"
+   }
+  ],
+  "caption": "A graduate of the famed Achtung Academy, the Expositioner reunited with fellow alumnus Mystic Ninja in NAPW to win the Tag Team Championship four times as Mystic Exposition, shouting out his own spot-move names along the way.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 25,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "the-mexecutioner",
+  "type": "character",
+  "name": "The Mexecutioner",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2015",
+    "role": "wrestler — Sole Survivor '14 and Red Menace battle royal/tag entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered the Sole Survivor '14 battle royal and closed out the revived era's own card run in a six-man tag at Red Menace.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-plague-napw",
+  "type": "character",
+  "name": "The Plague",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "wrestler — won the inaugural NAPW Championship match on the fed's own debut show",
+    "source": "promotions/napw/archive/monday-night-fights-2005-10-31.html; the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "note": "Finisher billed as \"The Black Death\" — the same name as an observed move on the GIWF-era the-plague entity's own GIWF tenure (2001, not its adjacent UWF tenure) — a possible continuation, not confirmed; recorded as a distinct, qualified entity per the generic-archetype-name minting policy rather than merged on a name-plus-move match alone.",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'5\"",
+    "weight": "261 lbs",
+    "hometown": "New York City",
+    "entrance_music": {
+     "title": "Down With The Sickness",
+     "artist": "Disturbed",
+     "verbatim": "\"Down With The Sickness\" - Disturbed",
+     "corrected": "\"Down with the Sickness\" by Disturbed"
+    },
+    "style": "Power/Technical/Traditionalist",
+    "finisher": "The Black Death II (Angel's Wings)"
+   }
+  ],
+  "caption": "Won the inaugural NAPW Championship match on the fed's own debut show, finishing with a move billed \"The Black Death.\"",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 22,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "thomas-young",
+  "type": "character",
+  "name": "Thomas Young",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — Prince W. Darko's earlier tag partner in the Royal Foundation, later suspended out of REBEL Pro Wrestling",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Prince W. Darko's own bodyguard-turned-tag-partner in the Royal Foundation, Thomas Young followed Darko to REBEL Pro Wrestling before a suspension there.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 30,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tiffany-mcintyre",
+  "type": "character",
+  "name": "Tiffany McIntyre",
+  "aka": [
+   "\"White Chocolate\" Tiffany McIntyre"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — former manager of the Dudes and of Ravager, turned in-ring competitor as White Chocolate",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'3\"",
+    "weight": "125 lbs",
+    "hometown": "Edmonton, Alberta",
+    "entrance_music": {
+     "title": "Good To Your Earhole",
+     "artist": "Funkadelic",
+     "verbatim": "\"Good To Your Earhole\" - Funkadelic",
+     "corrected": "\"Good to Your Earhole\" by Funkadelic"
+    },
+    "style": "Sassy scrapper & high-flier",
+    "finisher": "Big Boot"
+   }
+  ],
+  "caption": "Tiffany McIntyre managed the Dudes and later Ravager before an angle as \"White Chocolate\" grew into a wrestling career of her own.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "toby-jenkins",
+  "type": "character",
+  "name": "Toby Jenkins",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014-05",
+    "last_seen": "2014-12",
+    "role": "Phenomenal Army — private videographer",
+    "note": "A former wrestling announcer the Phenomenons declared their best friend years ago; drafted into the Army against his will, twice lost his home to them, and by the time of their NAPW run has \"accepted that willingly following them might be less destructive to his life than being surprised again.\" Currently their videographer, per the application's own account, \"because the Phenomenons don't believe Canadians have video cameras.\"",
+    "source": "the Phenomenons' own NAPW application, \"Manager Name & Appearance\" field (2014)",
+    "roles": [
+     "wrestler"
+    ]
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "2004-12-05",
+    "last_seen": "2004-12-05",
+    "roles": [
+     "commentator"
+    ],
+    "source": "UWF's own backstage database (lot 0159), bio 10518",
+    "grade": "primary-source",
+    "note": "Dated from the served UWF card of 5 December 2004 (one card). Joined to this record on the evidence of the identity read of UWF bio 10518."
+   },
+   {
+    "promotion": "giwf",
+    "first_seen": "1999-02-20",
+    "last_seen": "2001-08-29",
+    "role": "commentator (with Brett Foster); once a referee",
+    "source": "the served show texts (179 cards, 1999-02-20 to 2001-08-29): /promotions/giwf/archive/suicide-1999-02-20.html; ...; /promotions/giwf/archive/global-2001-08-29.html",
+    "grade": "primary-source",
+    "roles": [
+     "commentator",
+     "referee"
+    ],
+    "note": "Billed Toby Jenkins and called Tobe on the GIWF's own cards: /promotions/giwf/archive/weekly-22feb1999.html (\"I'm Toby Jenkins and alongside my broadcast colleague Brett Foster I'll be bringing you all the nights action\"); /promotions/giwf/archive/global-1999-03-09.html (\"Foster:'You ain't funny Tobe.'\"); refereed one match, /promotions/giwf/archive/suicide-1999-09-26.html (\"Toby Jenkins counts: One, two, thr...\"; \"Tobe Jenkins is all about fair play and honesty... he counted a little fast\"); /promotions/giwf/archive/suicide-2000-08-06.html (Foster to him: \"your good friends the Phenomenons\"). Joined to this record (the UWF commentator of 2004 and the Phenomenons' 'former wrestling announcer' of their NAPW application) as one continuous life in the iwf-giwf-uwf lineage: the same name, the same job, the same friendship with the Phenomenons."
+   }
+  ],
+  "notes": "One of the Phenomenal Army — see the-phenomenons and its Managers line. Handling: communal — a shared character of the common universe, staged by more than one hand across his life, owned by no one; no same-handler edge is carried for this entity, by design.",
+  "caption": "Declared the Phenomenons' best friend years before he wanted the job and twice lost his home to them; now serves, willingly enough, as the Army's own videographer, \"because the Phenomenons don't believe Canadians have video cameras.\"",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Tobe Jenkins"
+  ],
+  "handling": "communal"
+ },
+ {
+  "id": "tohya-miho",
+  "type": "character",
+  "name": "Tohya Miho",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — half of the Strong Style Angels tag team; daughter of a legendary Japanese wrestler",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'7\"",
+    "weight": "151 lbs",
+    "hometown": "Sapporo, Hokkaido, Japan",
+    "entrance_music": {
+     "title": "Lightning Field",
+     "artist": "Sneaker Pimps",
+     "verbatim": "\"Lightning Field\" - Sneaker Pimps"
+    },
+    "style": "Martial arts/lucha libre",
+    "finisher": "Murder Frenzy"
+   }
+  ],
+  "caption": "The daughter of a legendary Japanese wrestler and granddaughter of a legendary sumo, Tohya Miho teamed with Saadra Mehta as the Strong Style Angels in NAPW.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tommy-deathrow",
+  "type": "character",
+  "name": "\"Superstar\" Tommy Deathrow",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2007",
+    "role": "wrestler — NAPW Provincial Champion, won by pinfall",
+    "source": "promotions/napw/archive/tuesday-night-fights-2007-01-23.html; the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'3\"",
+    "weight": "254 lbs",
+    "hometown": "St. Paul Minnesota",
+    "entrance_music": {
+     "title": "We Fall, We Fall",
+     "artist": "Dead Celebrity Status",
+     "verbatim": "\"We Fall, We Fall\" - Dead Celebrity Status",
+     "corrected": "\"We Fall, We Fall\" by Dead Celebrity Status"
+    },
+    "style": "Brawler",
+    "finisher": "Deathrow Driver"
+   }
+  ],
+  "caption": "\"Superstar\" Tommy Deathrow won the NAPW Provincial Championship by pinfall, the last classic-era Provincial title change the held record traces.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 36,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "tommy-klopfenreich",
+  "type": "character",
+  "name": "Tommy Klopfenreich",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "trent-daniels",
+  "type": "character",
+  "name": "Trent Daniels",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — undercard singles competitor; Heritage Championship holder",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'10\"",
+    "weight": "215 lbs",
+    "hometown": "Ottawa, Canada",
+    "entrance_music": {
+     "title": "Too Much, Too Young, Too Fast",
+     "artist": "Airbourne",
+     "verbatim": "\"Too Much, Too Young, Too Fast\" - Airbourne",
+     "corrected": "\"Too Much, Too Young, Too Fast\" by Airbourne"
+    },
+    "style": "Hard Striking, Mat Technical with some High Flying",
+    "finisher": "System Crash"
+   }
+  ],
+  "caption": "Trent Daniels held the Heritage Championship and carried a running rivalry with Jake Phoenix and D! through NAPW's own classic era.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 11,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 2
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "uzi-napw",
+  "type": "character",
+  "name": "Uzi",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring singles/tag competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "viper-tokara",
+  "type": "character",
+  "name": "Viper Tokara",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2014",
+    "last_seen": "2014",
+    "role": "wrestler — Sole Survivor '14 and Battlebowl '14 battle-royal entrant",
+    "source": "the served 2014-2015 card-preview corpus (promotions/napw/archive/)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Entered both the Sole Survivor '14 battle royal and the Battlebowl '14 battle royal that closed out the year.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "wahoo-bobby-winchell",
+  "type": "character",
+  "name": "\"Wahoo\" Bobby Winchell",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "authority-figure — NAPW's own founding owner",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "authority-figure"
+    ]
+   }
+  ],
+  "caption": "NAPW's own founding owner, \"Wahoo\" Bobby Winchell ran the company from behind the scenes for years, was pushed out by his own son R. Joseph Winchell III, and returned with a team of investors to buy the fed back from Frank Shapiro in August 2007.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 10,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "wayne-wright",
+  "type": "character",
+  "name": "Wayne Wright",
+  "aka": [
+   "\"The Wild Rose\" Wayne Wright"
+  ],
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "wrestler — Television Champion; half of Grade \"A\" Alberta Attitude with Mark Millar",
+    "source": "the fed's own 2008 roster bio cards (content/roster/{faces,heels,inactive,women,alumni,staff,tagteams}.html, Wayback-captured 23 Jul 2008)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "235 lbs.",
+    "hometown": "Red Deer, Alberta",
+    "entrance_music": {
+     "title": "Courage",
+     "artist": "The Tragically Hip",
+     "verbatim": "\"Courage\" - The Tragically Hip",
+     "corrected": "\"Courage\" by The Tragically Hip"
+    },
+    "style": "Grappler/Technical",
+    "finisher": "The Wright Way (Sharpshooter)"
+   }
+  ],
+  "caption": "A hard-working Alberta wrestler with little to show for the effort by his own bio's own account, Wayne Wright won the NAPW Television Championship and teamed with Mark Millar as Grade \"A\" Alberta Attitude.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 47,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "predator-napw",
+  "type": "character",
+  "name": "Predator",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-minstrel-napw",
+  "type": "character",
+  "name": "The Minstrel",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "devastation-napw",
+  "type": "character",
+  "name": "Devastation",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "notes": "Distinct from the already-registered kurt-castle (\"The Devastator\" Kurt Castle) despite the similar ring name — no evidence connects the two."
+ },
+ {
+  "id": "diablo-napw",
+  "type": "character",
+  "name": "Diablo",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ],
+    "manager": "Demona"
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings, managed by Demona.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "decapitator-axe-napw",
+  "type": "character",
+  "name": "Decapitator Axe",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "cameron-scott-napw",
+  "type": "character",
+  "name": "Cameron Scott",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "One half of The Dudes, NAPW's own first Television Champions.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "michael-k-johnston",
+  "type": "character",
+  "name": "Michael K. Johnston",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "The other half of The Dudes, NAPW's own first Television Champions.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "Mike Johnston"
+  ]
+ },
+ {
+  "id": "teddy-davis-napw",
+  "type": "character",
+  "name": "Teddy Davis",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "fatso-sazuki",
+  "type": "character",
+  "name": "Fatso Sazuki",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "cash-napw",
+  "type": "character",
+  "name": "Ca$h",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "The held record describes a Provincial Championship run for this holder, not yet reconciled into reigns.json's own NAPW Provincial Championship lineage — a lead for a future title-ledger pass, not yet a structured reign row."
+   }
+  ],
+  "caption": "A Provincial Championship holder, per the held record, across a run of NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "notes": "Same ring name as the already-registered, unrelated ca-h (GIWF, 1999-2001) — a genuine cross-promotion name collision, not the same performer; qualified at mint per the generic-name doctrine."
+ },
+ {
+  "id": "sebastien-martyr",
+  "type": "character",
+  "name": "Sebastien Martyr",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "The held record describes a Tag Team Championship run for this holder, not yet reconciled into reigns.json's own NAPW Tag Team Championship lineage — a lead for a future title-ledger pass, not yet a structured reign row."
+   }
+  ],
+  "caption": "A Tag Team Championship holder, per the held record, across a run of NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-fixer-napw",
+  "type": "character",
+  "name": "The Fixer",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Half of the Calgary Connection, a recurring hometown enhancement act across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Stu Smyth"
+  ]
+ },
+ {
+  "id": "the-hatchet-napw",
+  "type": "character",
+  "name": "The Hatchet",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "The other half of the Calgary Connection, a recurring hometown enhancement act across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Dave Bennet"
+  ]
+ },
+ {
+  "id": "jared-walsh",
+  "type": "character",
+  "name": "Jared Walsh",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "One half of Dream Come True, a recurring NAPW tag team.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "ainsley-lake",
+  "type": "character",
+  "name": "Ainsley Lake",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "The other half of Dream Come True, a recurring NAPW tag team.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "link-van-haggard",
+  "type": "character",
+  "name": "Link Van Haggard",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring competitor across NAPW's own weekly TV tapings, also teaming with Kevin Kodiak.",
+  "caption_asof": {
+   "written": "2026-08-20",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "rod-hardway",
+  "type": "character",
+  "name": "Rod Hardway",
+  "tenures": [
+   {
+    "promotion": "napw",
+    "first_seen": "2005",
+    "last_seen": "2008",
+    "role": "wrestler — recurring competitor across the classic-era show corpus",
+    "source": "the served show archive corpus (promotions/napw/archive/, 2005-2008 weekly TV tapings and PPVs)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A recurring member of Stiff Competition, competing across NAPW's own weekly TV tapings.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

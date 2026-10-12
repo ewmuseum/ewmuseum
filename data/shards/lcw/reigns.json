@@ -1,0 +1,45 @@
+[
+ {
+  "id": "lcw-world-heavyweight-r001",
+  "title": "lcw-world-heavyweight",
+  "label": "Pheonyx",
+  "holder": [
+   {
+    "name": "Pheonyx",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2001",
+   "precision": "unknown",
+   "source": "No document in the surviving record states when Pheonyx won this title; he is billed as champion (c) on the Thursday Tempest card of 9 August 2001 (promotions/lcw/archive/lcw-tempest-card-2001-08-09.html), which is the earliest surviving evidence."
+  },
+  "lost": {
+   "date": "2001-09-03",
+   "precision": "exact"
+  },
+  "how": "Lost the title to Rook Black on the Torn pay-per-view of 3 September 2001, and was fired from LCW the same night as the man who beat him for it.",
+  "end_how": "lost-in-match",
+  "note": "Torn itself was never captured (data/shows.json's own lcw-ppv-torn-2001-09-03 is an uncollected row); the title change is drawn from pheonyx-lcw-evo's and rook-black-lcw-evo's own already-registered tenures, sourced there to promotions/lcw-mercury/archive/mercury-a-brief-history-of-mercury.html and promotions/lcw-evo/archive/evo-roster.html."
+ },
+ {
+  "id": "lcw-world-heavyweight-r002",
+  "title": "lcw-world-heavyweight",
+  "label": "Rook Black",
+  "holder": [
+   {
+    "name": "Rook Black",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2001-09-03",
+   "precision": "exact",
+   "source": "promotions/lcw-mercury/archive/mercury-a-brief-history-of-mercury.html; promotions/lcw-evo/archive/evo-roster.html — cited on rook-black-lcw-evo's own tenure."
+  },
+  "how": "Won the title from Pheonyx at Torn, was fired for the promo he cut afterward, and took the belt with him into LCW Evo, where the surviving record picks him up as its own champion.",
+  "note": "Lost: null — the surviving record never shows this title changing hands again; Rook Black is still champion at the record's own last word.",
+  "event": "lcw-ppv-torn-2001-09-03",
+  "end_how": "still-champion-at-record-end"
+ }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "id": "southern-posse-uew-1996",
+    "type": "unit",
+    "name": "the Southern Posse",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "first_seen": "1997-03",
+        "last_seen": "1997-03",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "Billed the reigning Ultimate Tag Team Champions, on their second stint as champions, in the fed's own relaunch manifesto (msg_id cth9FV2ortYJ, 15 Mar 1997); the fed's own 1996-era roster names Kappu, Jamie \"Big Steel\" VanZant and \"Mental\" Lee Hill together under this name (Wave T-200 dossier, the site's own captured pages), but no 1997 document in the held record confirms that same lineup still held the belts at the relaunch.",
+        "note": "membership_unknown is deliberate: the 1996 trio is a lead, not a confirmed 1997 roster."
+      }
+    ],
+    "caption": "Reigning UEW Ultimate Tag Team Champions on their second stint as of the fed's March 1997 relaunch.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "lethal-leaders-uew-1996",
+    "type": "unit",
+    "name": "The Lethal Leaders",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "first_seen": "1997-10",
+        "last_seen": "1997-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "Billed becoming \"the first ever FOUR-TIME UEW Ultimate tag team champions,\" 1 Oct 1997 (msg_id RHiOR3_GaYkJ, per the accession digest's own reading); named a multi-time former Ultimate and Television Tag Team champion in the fed's own relaunch manifesto (msg_id cth9FV2ortYJ, 15 Mar 1997).",
+        "note": "membership_unknown: no document in the held record names the individual wrestlers behind this team name."
+      }
+    ],
+    "caption": "A recurring UEW tag-title fixture, billed the first four-time Ultimate Tag Team Champions in the fed's history on 1 October 1997.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "suicidal-stallions-uew-1996",
+    "type": "unit",
+    "name": "the Suicidal Stallions",
+    "unit_kind": "tag-team",
+    "members": [
+      "mad-bronco-uew-1996",
+      "crazy-horse-uew-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "first_seen": "1997-10",
+        "last_seen": "1997-12",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "Won the Television Tag Team Championship at Rumble in the Bronx, 1 Oct 1997 (per the accession digest's own reading), then took the Ultimate Tag Team Championship in a multi-team scaffold match at Holiday Horror 2, 25 Dec 1997 (msg_id OEK5LlNzbiYJ, read directly: \"The Suicidal Stallions became the new UEW Ultimate tag team champions when Crazy Horse pinned Heatstroke\"), immediately dropping the Television Tag belts to the Explosion in the same multi-team match.",
+        "note": "Mad Bronco and Crazy Horse are named as this team's own two members in the Holiday Horror 2 broadcast text itself."
+      },
+      {
+        "promotion": "dwo-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999-05",
+        "last_seen": "1999-05",
+        "source": "Deadly Draw 2 (May 1999): billed as tag team partners forced to fight one another in a two-ring Lethal Scaffold elimination match; Mad Bronco dropkicks his own partner off the scaffold to advance alone.",
+        "grade": "primary-source"
+      }
+    ],
+    "caption": "Took the Television Tag Team Championship at Rumble in the Bronx and the Ultimate Tag Team Championship at Holiday Horror 2 within the same three-month span, a double-belt run that lasted one card each.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "havok-uew-1996",
+    "type": "unit",
+    "name": "Havok",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "\"Flyboy\" Guy Stone",
+        "character_id": "dwo-1996-guy-stone"
+      },
+      {
+        "name": "Mr. Pink",
+        "character_id": "dwo-1996-mr-pink"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "first_seen": "1997-03",
+        "last_seen": "1997-04",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "Billed challenging the Southern Posse for the UEW Ultimate Tag Team Championship in a scaffold match at the Ides of March (msg_id m506Ihsiq4sJ, 15 Mar 1997); billed defending the UEW Ultimate Tag Team Championship against the Deadly Duo on the fed's own Sunday Night Heat, 6 Apr 1997, retaining (msg_id -fu9e7-B46YJ, read directly).",
+        "note": "The wing's own reigns ledger (uew-1996-ultimate-tag) already names Havok as an unminted former Ultimate Tag Team champion between the Southern Posse's and the F.B.I.'s reigns; this tenure supplies the individual roster the ledger's own holder rows do not carry."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "dwo-1996-havok",
+          "cwfpro-havok",
+          "havok-eiwz",
+          "havok-iwa-icon",
+          "havok-pwf",
+          "havok-wwa"
+        ],
+        "note": "\"Havok\" is a recurring tag-team/character name across multiple unrelated feds in the registry, including a DWO 1996 unit of the same name -- notable because this same wing's 1997 corpus documents an actual UEW-vs-DWO invasion angle later in the year, but no operator, roster, or title overlap links this UEW tag team to any of the listed entities; recorded distinct on name-collision alone, not merged."
+      }
+    ],
+    "caption": "Defended the UEW Ultimate Tag Team Championship against the Deadly Duo on the fed's first Sunday Night Heat, having challenged for the same title at the Ides of March weeks earlier.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "deadly-duo-uew-1996",
+    "type": "unit",
+    "name": "the Deadly Duo",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Grim",
+        "character_id": "grim-uew-1996"
+      },
+      {
+        "name": "Jeckal",
+        "character_id": "jeckal-uew-1996"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "first_seen": "1997-04",
+        "last_seen": "1997-04",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "Billed members of the Palladium Powers stable, challenging Havok for the UEW Ultimate Tag Team Championship on the fed's own Sunday Night Heat, 6 Apr 1997, read directly (msg_id -fu9e7-B46YJ)."
+      }
+    ],
+    "caption": "Palladium Powers members who unsuccessfully challenged Havok for the UEW Ultimate Tag Team Championship on the fed's first Sunday Night Heat.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "circle-of-death-uew-1996",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "the Circle of Death",
+    "members": [
+      "jonathan-regnigh-uew-1996",
+      "marcus-manson-uew-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "first_seen": "1998-03",
+        "last_seen": "1998-06",
+        "source": "Won the UEW Ultimate Tag Team Championship from the Suicidal Stallions at The Ides of March '98, 15 Mar 1998 (this wing's own served page). Defended the title in a steel cage against the Suicidal Stallions again at REVENGE '98 (c. 24 May 1998); the outcome of that defense is not confirmed by this pass's own reading (msg_id 4lGs3ys9me0J notes former champions Heatstroke and Cancer of the Lethal Leaders interfered and \"played a huge role in the outcome,\" without stating who won)."
+      }
+    ],
+    "caption": "A tag team managed by an on-screen manager persona that won the UEW Ultimate Tag Team Championship from the Suicidal Stallions at The Ides of March '98.",
+    "caption_asof": {
+      "written": "2026-09-07",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "fairchild-foundation-uew-1996",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Fairchild Foundation",
+    "members": [
+      "lobo-fraggus-uew-1996",
+      "jonathan-witt-uew-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "first_seen": "1998-03",
+        "last_seen": "1998-06",
+        "source": "Won the UEW Television Tag Team Championship from the Explosion at The Ides of March '98, 15 Mar 1998, for its first UEW titles (this wing's own served page; the fed's own No-Action Zone recap, msg_id aA1ObT7Su0cJ)."
+      }
+    ],
+    "caption": "A tag team that dethroned the Explosion for the UEW Television Tag Team Championship at The Ides of March '98, its first UEW titles.",
+    "caption_asof": {
+      "written": "2026-09-07",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-outlaws-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Outlaws",
+    "members": [
+      "brent-maverick-uwf-mar96"
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      },
+      {
+        "promotion": "sjpw",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged SJPW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #1 in the RSPWF Top 200 Tag Teams for 1998 (Brent Maverick & Doc Holliday), tagged UEW, SJPW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-outlaws-uwf-mar96"
+        ],
+        "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against the-outlaws-uwf-mar96. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200 Tag Teams, which gives a team name, a federation tag, and (where named) its two members' ring names, and nothing else -- no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+      }
+    ]
+  },
+  {
+    "id": "the-perfectly-perfect-duo-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Perfectly Perfect Duo",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #2 in the RSPWF Top 200 Tag Teams for 1998, tagged UEW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "perfectly-perfect-duo-aicw",
+          "perfectly-perfect-duo-glow-1999"
+        ],
+        "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against perfectly-perfect-duo-aicw, perfectly-perfect-duo-glow-1999. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200 Tag Teams, which gives a team name, a federation tag, and (where named) its two members' ring names, and nothing else -- no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+      }
+    ],
+    "membership_unknown": true
+  },
+  {
+    "id": "explosion-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Explosion",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #4 in the RSPWF Top 200 Tag Teams for 1998 (Fire & Nitro), tagged UEW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "membership_unknown": true
+  },
+  {
+    "id": "power-honour-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Power & Honour",
+    "members": [
+      "gabrielle-whitecross-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #19 in the RSPWF Top 200 Tag Teams for 1998 (Jason Keening & Gabrielle Whitecross), tagged UEW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    }
+  },
+  {
+    "id": "fairchild-foundation-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Fairchild Foundation",
+    "members": [
+      "lobo-fraggus-uew-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #28 in the RSPWF Top 200 Tag Teams for 1998 (Johnathon Witt & Lobo Fraggus), tagged UEW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    }
+  },
+  {
+    "id": "circle-of-death-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Circle of Death",
+    "members": [
+      "marcus-manson-uew-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #32 in the RSPWF Top 200 Tag Teams for 1998 (Marcus Manson & John Reighns), tagged UEW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    }
+  },
+  {
+    "id": "partners-in-crime-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Partners in Crime",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #35 in the RSPWF Top 200 Tag Teams for 1998 (Benny McGregor & Jimmy Randell), tagged UEW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "partners-in-crime-cwo"
+        ],
+        "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against partners-in-crime-cwo. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200 Tag Teams, which gives a team name, a federation tag, and (where named) its two members' ring names, and nothing else -- no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+      }
+    ],
+    "membership_unknown": true
+  },
+  {
+    "id": "lethal-leaders-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Lethal Leaders",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      },
+      {
+        "promotion": "iwf-wow-1997",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged IWF/WOW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #44 in the RSPWF Top 200 Tag Teams for 1998 (Heatsroke & Cancer), tagged UEW, IWF/WOW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "lethal-leaders-iwf-wow-1997"
+        ],
+        "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against lethal-leaders-iwf-wow-1997. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200 Tag Teams, which gives a team name, a federation tag, and (where named) its two members' ring names, and nothing else -- no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+      }
+    ],
+    "membership_unknown": true
+  },
+  {
+    "id": "the-wild-cards-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Wild Cards",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #79 in the RSPWF Top 200 Tag Teams for 1998 (Judd Morley & Blackjack Baldwin), tagged UEW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "membership_unknown": true
+  },
+  {
+    "id": "suicide-blonds-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Suicide Blonds",
+    "members": [
+      "judas-lasher-kni-1998"
+    ],
+    "tenures": [
+      {
+        "promotion": "uew-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged UEW in the RSPWF Top 200 Tag Teams for 1998."
+      },
+      {
+        "promotion": "npwa-nanet",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged NPWA in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #98 in the RSPWF Top 200 Tag Teams for 1998 (Jack Vars & Judas Lasher), tagged UEW, NPWA.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    }
+  }
+]

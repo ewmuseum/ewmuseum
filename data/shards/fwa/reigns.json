@@ -1,0 +1,218 @@
+[
+ {
+  "id": "fwa-world-r000b",
+  "title": "fwa-world",
+  "label": "King Apples",
+  "holder": [
+   {
+    "id": "mr-apples-inwi"
+   }
+  ],
+  "won": {
+   "date": "1999-03-16",
+   "precision": "circa",
+   "source": "A 18 March 1999 broadcast has the champion recall winning the title from Brody Thunder \"the past Tuesday,\" placing the win around 16 March 1999."
+  },
+  "end": {
+   "date": "1999-03-19",
+   "precision": "exact",
+   "source": "A three-night broadcast weekend's own opening night, 19 March 1999."
+  },
+  "end_how": "lost-in-match",
+  "how": "Lost the title to Brody Thunder in a taped-fist ladder match, pinned after Thunder retrieved the belt from above the ring and used it to prevent a climb to safety.",
+  "note": "Recorded from a host broadcast's own recap and its own opening-night card; the FWA itself has no surviving document of its own for this reign."
+ },
+ {
+  "id": "fwa-north-american-r000",
+  "title": "fwa-north-american",
+  "label": "Kris Kasanova",
+  "holder": [
+   {
+    "name": "Kris Kasanova",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2000",
+   "precision": "unknown",
+   "source": "No FWA document survives naming when or how Kris Kasanova won this title; he is attested only as the defending FWA North American Champion entering his 25 June 2000 loss to Buck Floyd on the WWA's own card."
+  },
+  "end": {
+   "date": "2000-06-25",
+   "precision": "exact",
+   "source": "promotions/wwa/archive/2000-06-25.html; wwa-2000-06-25, match 5"
+  },
+  "end_how": "lost-in-match",
+  "how": "Lost the title to Buck Floyd on the WWA's own 25 June 2000 card, pinned by a reverse flying clothesline (\"The Scratch\").",
+  "note": "Cross-wing evidence only: no FWA document of its own survives, but the WWA's own served card names this match explicitly as Floyd \"becoming new FWA North American Champion,\" fixing both the date and the mechanism the tier-1 pass had left unattested."
+ },
+ {
+  "id": "fwa-north-american-r001",
+  "title": "fwa-north-american",
+  "label": "Buck Floyd",
+  "holder": [
+   {
+    "name": "Buck Floyd",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2000-06-25",
+   "precision": "exact",
+   "source": "promotions/wwa/archive/2000-06-25.html; wwa-2000-06-25, match 5 (\"Floyd wins by pinfall with a reverse flying clothesline he calls 'The Scratch,' becoming new FWA North American Champion\")."
+  },
+  "end": {
+   "date": "2000-07-02",
+   "precision": "exact",
+   "source": "promotions/wwa/archive/2000-07-02.html"
+  },
+  "how": "Won the title from Kris Kasanova on 25 June 2000, then held it into the WWA's own Independence Day Rumble a week later, where he defeated WWA United States Champion Shawn Cage to unify the two lineages under the WWA banner.",
+  "note": "The reign's own end date is the unification match, not a loss — Buck Floyd won it, ending the FWA North American Championship's own separate existence rather than his own championship run, which continued as the WWA United States Championship. See that title's own event history.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "fwa-world-tag-team-r001",
+  "title": "fwa-world-tag-team",
+  "label": "Allied Chaos",
+  "holder": [
+   {
+    "name": "Kyle Niker",
+    "unminted": true
+   },
+   {
+    "name": "Connor Pearce",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2000",
+   "precision": "unknown",
+   "source": "No FWA document of its own survives naming when or how Allied Chaos won this title; the duo is attested only as the defending FWA World Tag Team Champions entering their 25 June 2000 challenge for the WWA's own Unified World Tag Team Championship."
+  },
+  "end": {
+   "date": "2000-06-25",
+   "precision": "exact",
+   "source": "promotions/wwa/archive/2000-06-25.html; wwa-2000-06-25, match 4"
+  },
+  "end_how": "lost-in-match",
+  "how": "Lost a title-unification match to the defending WWA World Tag Team Champions, Random Acts of Violence (Maim and Torture), on the WWA's own 25 June 2000 card — Connor Pearce submitted to Torture's Threshold (a dragon sleeper/body scissors). The bout was booked by WWA authority figure \"The Don\" as a scripted title change to Allied Chaos; Maim and Torture refused the order on-page and won the match outright instead, coming out of it holding both sets of belts.",
+  "note": "Unlike the other three FWA titles, this lineage did not pass to its own challenger — it ends in its own champions' loss, in a match its own promotion's authority figure had scripted the other way. Recorded as the served text presents it, not smoothed into a clean transfer."
+ },
+ {
+  "id": "fwa-hardcore-r001",
+  "title": "fwa-hardcore",
+  "label": "The Dehibilitator",
+  "holder": [
+   {
+    "name": "Dehibilitator",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2000",
+   "precision": "unknown",
+   "source": "No FWA document survives naming when or how The Dehibilitator won this title; he is attested only as the defending FWA Hardcore Champion entering his 28 July 2000 unification match."
+  },
+  "end": {
+   "date": "2000-07-28",
+   "precision": "exact",
+   "source": "promotions/wwa/archive/2000-07-28.html"
+  },
+  "end_how": "lost-in-match",
+  "how": "Lost to Shaman on 28 July 2000 in a title-unification match, a corrupt referee (aligned with Jim Black and \"The Don\") fast-counting him down after a simultaneous double chair shot, unifying the FWA Hardcore Championship into the WWA Extreme Championship.",
+  "note": "Three and a half weeks after the rest of the FWA was absorbed into the WWA at Independence Day Rumble — the last FWA title still separately contested."
+ },
+ {
+  "id": "fwa-television-r001",
+  "title": "fwa-television",
+  "label": "Chad Goodman",
+  "holder": [
+   {
+    "name": "Chad Goodman",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2000",
+   "precision": "unknown",
+   "source": "No FWA document survives naming when or how Chad Goodman won this title; he is attested only as the defending FWA Television Champion entering the WWA's own Independence Day Rumble."
+  },
+  "end": {
+   "date": "2000-07-02",
+   "precision": "exact",
+   "source": "promotions/wwa/archive/2000-07-02.html"
+  },
+  "end_how": "lost-in-match",
+  "how": "Lost the WWA/FWA television title-unification match to Lyle Wile at Independence Day Rumble by submission to a Figure Four Leg Lock, after his manager Brent Wentworth interfered.",
+  "note": "Unified the FWA Television Championship into the WWA Television Championship."
+ },
+ {
+  "id": "fwa-world-r000c",
+  "title": "fwa-world",
+  "label": "Brody Thunder",
+  "holder": [
+   {
+    "id": "brody-thunder-inwi"
+   }
+  ],
+  "won": {
+   "date": "1999-03-19",
+   "precision": "exact",
+   "source": "A three-night broadcast weekend's own opening night, 19 March 1999, a taped-fist ladder match."
+  },
+  "end": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No further document naming this title survives after the same broadcast weekend's own third night, 21 March 1999."
+  },
+  "note": "This reign's own end is unattested; a later reign of record (Jim Black, 2000, still on file) leaves an undocumented gap between this reign and that one. Recorded from the host broadcast that carries the FWA World Heavyweight Championship's own surviving lineage.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "fwa-world-r001",
+  "title": "fwa-world",
+  "label": "Jim Black",
+  "holder": [
+   {
+    "name": "Jim Black",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2000",
+   "precision": "unknown",
+   "source": "No FWA document survives naming when or how Jim Black won this title; he is attested only as the defending FWA World Champion entering the WWA's own Independence Day Rumble."
+  },
+  "end": {
+   "date": "2000-07-02",
+   "precision": "exact",
+   "source": "promotions/wwa/archive/2000-07-02.html"
+  },
+  "how": "Held the title into the WWA's own Independence Day Rumble, where he defeated WWA World Heavyweight Champion Nik Segier to unify the two lineages under the WWA banner.",
+  "note": "The reign's own end date is the unification match, not a loss — Jim Black won it, ending the FWA World Championship's own separate existence rather than his own championship run, which continued as the WWA World Heavyweight Championship. See that title's own event history.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "fwa-world-r000a",
+  "title": "fwa-world",
+  "label": "Brody Thunder",
+  "holder": [
+   {
+    "id": "brody-thunder-inwi"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No document survives naming when or how Brody Thunder first won this title; he is attested only as its recent former champion in the run-up to a title match dated 19 March 1999."
+  },
+  "end": {
+   "date": "1999-03-16",
+   "precision": "circa",
+   "source": "A 18 March 1999 broadcast has the challenger recall taking the belt from Brody Thunder \"the past Tuesday,\" placing the loss around 16 March 1999."
+  },
+  "end_how": "lost-in-match",
+  "how": "Lost the title in a match recalled after the fact rather than documented directly.",
+  "note": "This reign's own start is unattested; it is recorded from the loss forward, cited on the host broadcast that carries the FWA World Heavyweight Championship's own surviving lineage."
+ }
+]

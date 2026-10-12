@@ -1,0 +1,46 @@
+[
+ {
+  "id": "the-upstarts-pww-worldwide",
+  "type": "unit",
+  "name": "Upstarts",
+  "tenures": [
+   {
+    "promotion": "pww-worldwide-1999",
+    "first_seen": "2004-02",
+    "last_seen": "2004-04",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "/promotions/pww-worldwide-1999/archive/roster-2004.html",
+    "note": "Billed on the federation's own roster page in the same shape as its singles wrestlers, with no membership given; the roster's own rules page allows a handler to control a tag team as one entry."
+   }
+  ],
+  "members": [],
+  "membership_unknown": true,
+  "caption": "A tag team on the PWW's 2004 roster whose membership the surviving record never names.",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The registry already holds this billing in unrelated federations. This entity was minted from the PWW's own February 2004 roster page alone, with no receipt joining it to any of them; held distinct under the no-auto-merge-and-no-silent-distinctness rule and the collision doctrine's when-in-doubt default.",
+    "with": [
+     "the-upstarts-cwc-championship-1998",
+     "theupstarts-prime"
+    ]
+   }
+  ]
+ }
+]

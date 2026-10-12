@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ecw-carnage-thursday-night-fusion-1999-06-24",
+    "type": "show",
+    "name": "Thursday Night Fusion",
+    "promotion": "ecw-carnage-1999",
+    "date": { "date": "1999-06-24", "precision": "exact" },
+    "page": "/promotions/ecw-carnage-1999/archive/ecw-carnage-thursday-night-fusion-1999-06-24.html",
+    "collection": "0148",
+    "venue": "Cow Palace",
+    "city": "San Francisco, California",
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["carnage-ecw-carnage-1999"], ["magma-ecw-carnage-1999"]],
+        "winner_side": 1,
+        "stipulation": "Parking Lot Brawl",
+        "note": "Magma won the ECW Extreme Championship when a car, driven by an associate, pinned Carnage."
+      },
+      {
+        "order": 2,
+        "sides": [["tyke-ecw-carnage-1999"], ["thomas-lusty-ecw-carnage-1999"]],
+        "winner_side": 1,
+        "note": "Thomas Lusty submitted Tyke to win the ECW World Championship after his own cornerman's interference backfired against the champion; a returning rival attacked both men after the bell."
+      }
+    ],
+    "appearances": [
+      { "who": "carnage-ecw-carnage-1999", "kind": "match" },
+      { "who": "magma-ecw-carnage-1999", "kind": "match" },
+      { "who": "tyke-ecw-carnage-1999", "kind": "match" },
+      { "who": "thomas-lusty-ecw-carnage-1999", "kind": "match" }
+    ]
+  }
+]

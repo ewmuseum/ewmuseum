@@ -1,0 +1,224 @@
+[
+ {
+  "id": "spawn-nsw",
+  "type": "character",
+  "name": "Spawn",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "spawn-faw"
+    ],
+    "note": "Shares a ring name with spawn-faw and with the comic-book character both are named for. No evidence connects them: this Spawn is billed out of Wichita, Kansas with an ENDCAP finisher on a fed that ran in 2002–2003. Recorded distinct under the collision doctrine — acronym, full name, dates and URL all differ — not merged."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nsw",
+    "first_seen": "2002",
+    "last_seen": "2003-04",
+    "role": "wrestler — won the Stealth Title from Chris Crosse in a cage match at Bone Bash 2003, and was billed for the fed's own relaunch house show",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "217 lbs",
+    "hometown": "Wichita, Kansas",
+    "style": "High Flyer",
+    "finisher": "ENDCAP (Buff Blockbuster)",
+    "source": "his own bio card (promotions/nsw/archive/spawn-bio-card.html), whose embedded \"Flash Back\" carries the full script of the Bone Bash 2003 cage match, and the relaunch house-show card (promotions/nsw/archive/house-show-2003-04.html)",
+    "note": "The bio card carries the full script of the Bone Bash 2003 cage match in which he won the Stealth Title from Chris Crosse, rather than a summary of it — structured as the nsw-bone-bash-2003 show.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Beaten bloody with a sledgehammer by the Stealth Champion, then came back to take the title off him in a cage match at Bone Bash 2003 — and was back on the card himself when the fed relaunched that April.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "chris-crosse-nsw",
+  "type": "character",
+  "name": "Chris Crosse",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chris-manager-ewa"
+    ],
+    "note": "Aka-collision mint guard flagged a decorated-name match against EWA (1998)'s own ringside manager, billed only as \"Chris\" — different promotion, era and role; no document connects them. the collision rule's no-auto-merge discipline applies."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "christopher-chaos-pwf"
+    ],
+    "note": "Aka-collision mint guard flagged a decorated-name match against the Power Wrestling Federation's own Christopher Chaos — different promotion and era; no document connects them. the collision rule's no-auto-merge discipline applies."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nsw",
+    "first_seen": "2002",
+    "last_seen": "2003-04",
+    "role": "wrestler — Stealth Champion, until he lost the title to Spawn in a cage match at Bone Bash 2003; billed for the fed's own relaunch house show",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Spawn's own bio card (promotions/nsw/archive/spawn-bio-card.html), whose embedded \"Flash Back\" carries the full script of the Bone Bash 2003 cage match, and the relaunch house-show card (promotions/nsw/archive/house-show-2003-04.html)",
+    "note": "No bio card of his own survives; every fact held about him comes from Spawn's own bio card and its embedded match script.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Defended the Stealth Title in a cage match at Bone Bash 2003, opening a bloody feud with Spawn that ended when Spawn moonsaulted off the top of the cage for the pin — and was billed for the fed's own relaunch four months later.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brad-douglas-nsw",
+  "type": "character",
+  "name": "Brad Douglas",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brad-douglas-bmw",
+     "brad-douglas-ccw"
+    ],
+    "note": "Aka-collision mint guard flagged a bare name match against two other wings' own original characters (BMW, CCW-Cyberspace); no shared evidence (handler, storyline, or otherwise) ties this NSW character to either — the collision rule's no-auto-merge discipline applies."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brad-douglas-bmw"
+    ],
+    "note": "A shared ring name only: nothing on this card, in UBC's own text or in the other record's tenures ties the two, and a name alone never merges."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brad-douglas-ccw"
+    ],
+    "note": "A shared ring name only: nothing on this card, in UBC's own text or in the other record's tenures ties the two, and a name alone never merges."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nsw",
+    "first_seen": "2002",
+    "last_seen": "2003-04",
+    "role": "wrestler — won the Tag Titles alone in a battle royal at Bone Bash, then vacated them chasing the World Title; billed for the fed's own relaunch house show",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "225 lbs",
+    "hometown": "Medford, Maine",
+    "style": "Tech / Risktaker",
+    "finisher": "Fisherman's Brainbuster",
+    "source": "his own bio card (promotions/nsw/archive/brad-douglas-bio-card.html) and the relaunch house-show card (promotions/nsw/archive/house-show-2003-04.html)",
+    "note": "His bio card names him a former \"Underground Brawlers Club\" member; no promotion or roster for that club survives in NSW's own record, so it is recorded here rather than minted as a unit.",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "ubc-wrestleonline-2002",
+    "first_seen": "2002-12-07",
+    "last_seen": "2002-12-21",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UBC's own backstage database (accession 0159), bio 9195 — its own biography card and its own appearance record: three of its cards",
+    "note": "Dated from the fed's own appearance record (three of its cards).",
+    "hometown": "Lyon France",
+    "height": "6'1",
+    "weight": "220 lbs",
+    "style": "Risk Taker",
+    "finisher": "'Dsend'",
+    "entrance_music": {
+     "verbatim": "'Every me and every you'-Placebo"
+    }
+   }
+  ],
+  "caption": "Won the Tag Titles alone in a battle royal at Bone Bash, then vacated them chasing the World Title — a push NSW's own closure cut off before it could pay off — and came back for the relaunch four months later.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tower-nsw",
+  "type": "character",
+  "name": "Tower",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tower-lcw-1997"
+    ],
+    "note": "Aka-collision mint guard flagged a bare name match against another wing's own original character (LCW, 1997); no shared evidence ties this NSW billing to it — the collision rule's no-auto-merge discipline applies."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nsw",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "wrestler — billed for the fed's own relaunch house show",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the relaunch house-show card (promotions/nsw/archive/house-show-2003-04.html)",
+    "note": "Billed only — the card announces the match but no results page for it survives.",
+    "grade": "billing"
+   }
+  ],
+  "caption": "Billed for NSW's own relaunch house show in a four-way no-holds-barred elimination match whose result was never captured — nothing else survives of his record.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

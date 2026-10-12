@@ -1,0 +1,716 @@
+[
+ {
+  "id": "death-croc-mbwf-1992",
+  "type": "character",
+  "name": "Death Croc",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1992-10-19",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: MBWF World Champion by 19 October 1992; lost the belt on 26 February 1993; World Champion again from 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/mbwf-info-1992-10-19.html; promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-status-1993-06-14.html; promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The league's own update of 19 October 1992 names him World Champion; its newsletter of 18 March 1993 calls him the former World Champion, beaten by Wolverine at Friday Ferocity #2 (26 February 1993); Grapple Wars 1 has him beat Wolverine with the Croc Bite for the title and a ringside voice call it a second reign.",
+    "hometown": "the Florida Everglades",
+    "weight": "298 lbs",
+    "finisher": "Croc Bite"
+   },
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption": "The league's first World Champion by its own update of 19 October 1992, who lost the belt to Wolverine at Friday Ferocity #2 and won it back with the Croc Bite at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  }
+ },
+ {
+  "id": "wolverine-mbwf-1992",
+  "type": "character",
+  "name": "Wolverine",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-02",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: MBWF World Champion from Friday Ferocity #2, 26 February 1993, to Grapple Wars, 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-status-1993-06-14.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The first Friday Ferocity (February 1993) ranks him seventh and draws him against Death Croc for the World title the next week; the newsletter of 18 March 1993 gives the date he won the title from Death Croc and bills his defence against Scourge at Friday Ferocity #5; the status post of 14 June 1993 names him World Champion before Grapple Wars; Grapple Wars 1 has him lose it to Death Croc.",
+    "weight": "282 lbs",
+    "entrance_music": {
+     "verbatim": "The Troggs' 'Wild Thing'"
+    }
+   }
+  ],
+  "caption": "World Champion from Friday Ferocity #2 on 26 February 1993 until Death Croc beat him at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-wolverine",
+     "dave-reiners-ewa",
+     "wolverine-agw",
+     "wolverine-aicw",
+     "wolverine-cswa",
+     "wolverine-faw",
+     "wolverine-gnw-1999",
+     "wolverine-newf",
+     "wolverine-summit"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this league. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "the-gross-gladiator-mbwf-1992",
+  "type": "character",
+  "name": "The Gross Gladiator",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1992-11-30",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: MBWF Master of the Ring champion from 30 November 1992 to 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-status-1993-06-14.html; promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html",
+    "note": "The newsletter of 18 March 1993 dates his win of the Master of the Ring title from Scourge to 30 November 1992 and lists him among the All-Comers entrants; the status post of 14 June 1993 names him Master of the Ring; Grapple Wars 1 introduces him as 287 pounds from Parts Unknown and has the Great Tadaka pin him, ending \"one of the longest standing champions in the M.B.W.F.\"",
+    "weight": "287 lbs"
+   }
+  ],
+  "caption": "Master of the Ring champion from 30 November 1992 until the Great Tadaka pinned him at Grapple Wars on 18 June 1993, one of the league's longest-standing champions by its own show script.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-great-tadaka-mbwf-1992",
+  "type": "character",
+  "name": "The Great Tadaka",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-06-18",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: MBWF Master of the Ring champion from 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "Grapple Wars 1 introduces him as a newcomer from Japan, 255 pounds, brought to the ring by his manager; he pinned the Gross Gladiator for the Master of the Ring title in the third match. A ringside voice in part two recalls an attack on Colossus at Friday Ferocity 15 that Colossus blames on him.",
+    "hometown": "Japan",
+    "weight": "255 lbs"
+   }
+  ],
+  "caption": "A newcomer from Japan who pinned the Gross Gladiator for the Master of the Ring title at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  }
+ },
+ {
+  "id": "the-electric-youth-mbwf-1992",
+  "type": "character",
+  "name": "The Electric Youth",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1992",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: MBWF Air Wave champion from Winter Bash 1992",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-status-1993-06-14.html; promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The newsletter of 18 March 1993 says he won the Air Wave title from Evil Einstein at the league's Winter Bash 1992 and bills a defence against Evil Einstein at Friday Ferocity #6; the status post of 14 June 1993 names him Air Wave Champion; Grapple Wars 1 has him retain it against Scourge, with a manager at ringside and Debbie Gibson in the audience.",
+    "weight": "272 lbs"
+   },
+   {
+    "promotion": "usew",
+    "first_seen": "1995",
+    "last_seen": "1995",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — visiting from the EWF",
+    "source": "promotions/usew/archive/usew-last-stand-control-center-1995-05-14.html"
+   },
+   {
+    "promotion": "ewf-swa-1994",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1995",
+    "last_seen": "1996-03",
+    "role": "wrestler -- EWF Intercontinental Championship challenger",
+    "source": "promotions/ewf-swa-1994/archive/ewf-weekend-wetworks-1996-03.html (Intercontinental Championship challenger, won by count-out against champion William the Conqueror, title unchanged); also billed as the fed's own former Television Champion, having lost that title to Johnny Banner at Ground-Zero, 11 April 1995 (read, not served: the fed's own 20 April 1995 rankings bulletin)."
+   }
+  ],
+  "caption": "Air Wave champion from Winter Bash 1992, who kept the belt by beating Scourge at Grapple Wars on 18 June 1993 with Debbie Gibson at ringside.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-countess-mbwf-1992",
+  "type": "character",
+  "name": "The Countess",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-02",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: MBWF Ladies World Champion until 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-status-1993-06-14.html; promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html",
+    "note": "The newsletter of 18 March 1993 says she was the first lady entrant and therefore automatically became Ladies Champion, and bills her against Sally-Jo Rock at Friday Ferocity #5; the status post names her Ladies World Champion; Grapple Wars 1 brings her to the ring from Death Valley with her manager and has Angel Pit Bull beat her for the title.",
+    "hometown": "Death Valley",
+    "entrance_music": {
+     "verbatim": "L.A. Guns' 'Over The Edge'"
+    }
+   }
+  ],
+  "caption": "The league's first woman entrant and so its first Ladies World Champion, brought to the ring by the Slaughter Lady, until Angel Pit Bull beat her at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  }
+ },
+ {
+  "id": "angel-pit-bull-mbwf-1992",
+  "type": "character",
+  "name": "Angel Pit Bull",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-02",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: MBWF Ladies World Champion from 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html",
+    "note": "The first Friday Ferocity (February 1993) ranks her second in the ladies' singles; the newsletter of 18 March 1993 names her the second lady entrant and directly in line for a title match; Grapple Wars 1 has her beat the Countess with her Flip Side finisher for the Ladies World Championship, with her brother Rad Pit Bull at ringside.",
+    "hometown": "Pittsburgh, Pennsylvania",
+    "weight": "145 lbs",
+    "finisher": "Flip Side",
+    "entrance_music": {
+     "verbatim": "Ozzy Osbourne's 'HellRaiser'"
+    }
+   }
+  ],
+  "caption": "Ladies World Champion from Grapple Wars on 18 June 1993, where her Flip Side beat the Countess, with her brother Rad Pit Bull at ringside.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  }
+ },
+ {
+  "id": "rad-pit-bull-mbwf-1992",
+  "type": "character",
+  "name": "Rad Pit Bull",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-02",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: All-Comers entrant; brother of Angel Pit Bull",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The newsletter of 18 March 1993 lists him among the All-Comers entrants, drawn in the first round against 'Slimy' Jim Jefferson; Grapple Wars 1 has him run to ringside for his sister's title match and lose to Crunch in the eighth match."
+   }
+  ],
+  "caption": "Angel Pit Bull's brother, an All-Comers entrant who lost to Crunch at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rad-pit-bull-swl-1992"
+    ],
+    "note": "Exact-name collision with rad-pit-bull-swl-1992, an entrant in another e-mail league's first-round bracket of 17 November 1992, five weeks after this league opened, beside an entrant under this league's game master's own handle. No document names the two as one wrestler; distinct pending a verdict."
+   }
+  ]
+ },
+ {
+  "id": "colossus-mbwf-1992",
+  "type": "character",
+  "name": "Colossus",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-03-18",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: first MBWF All-Comers Champion, 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The newsletter of 18 March 1993 says he joined a stable; Grapple Wars 1 calls him a 7'7\" giant from Macedonia, 395 pounds, undefeated in the league, and has him pin Noose Lupack in the final of the All-Comers tournament.",
+    "hometown": "Macedonia",
+    "weight": "395 lbs"
+   }
+  ],
+  "caption": "A 7'7\" giant from Macedonia, billed unbeaten in the league, who won the All-Comers final over Noose Lupack at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 2
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "colossus-acw",
+     "colossus-pcw",
+     "colossus-pwc-wrestleonline-2003",
+     "colossus-rspwf",
+     "kc-colossus-cswa",
+     "man-mountain-samuri-vwf-vegas-2003"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this league. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "scourge-mbwf-1992",
+  "type": "character",
+  "name": "Scourge",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1992",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: former Master of the Ring champion; Air Wave challenger",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The newsletter of 18 March 1993 calls him a former Master of the Ring title holder, beaten by the Gross Gladiator on 30 November 1992, and bills him against Wolverine for the World title at Friday Ferocity #5; Grapple Wars 1 has him lose an Air Wave challenge to the Electric Youth.",
+    "hometown": "the Middle East",
+    "weight": "267 lbs"
+   }
+  ],
+  "caption": "A heel from the Middle East who lost the Master of the Ring title to the Gross Gladiator on 30 November 1992 and an Air Wave challenge to the Electric Youth at Grapple Wars.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scourge-nefw",
+     "scourge-pcw",
+     "scourge-uwf",
+     "scourge-xcwf"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this league. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "master-bud-wiser-mbwf-1992",
+  "type": "character",
+  "name": "Master 'Bud' Wiser",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-02",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: one half of the Slammers, World Tag Team champions",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The Slammers win the main event of the first Friday Ferocity (February 1993); Grapple Wars 1 introduces him with the Alabamma Slamma as the Slammers, tag champions; in the seventh match he does not kick out of the pin that gives Pain Unbound the belts, then attacks his partner and says he is his own man."
+   }
+  ],
+  "caption": "Half of the Slammers, tag champions, who did not kick out of the pin that gave Pain Unbound the belts at Grapple Wars on 18 June 1993 and then attacked his own partner.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 2
+   }
+  }
+ },
+ {
+  "id": "the-alabamma-slamma-mbwf-1992",
+  "type": "character",
+  "name": "The Alabamma Slamma",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-02",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: one half of the Slammers, World Tag Team champions",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The Slammers win the main event of the first Friday Ferocity (February 1993); Grapple Wars 1 introduces him with Master 'Bud' Wiser as the Slammers; in the seventh match his partner leaves him to be beaten and then attacks him after Pain Unbound take the belts."
+   }
+  ],
+  "caption": "Half of the Slammers, tag champions, beaten down by his own partner Master 'Bud' Wiser after the team lost the belts to Pain Unbound at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 2
+   }
+  }
+ },
+ {
+  "id": "fear-mbwf-1992",
+  "type": "character",
+  "name": "Fear",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-06-18",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: one half of Pain Unbound, World Tag Team champions from 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "Grapple Wars 1 introduces him with Terror as the new team Pain Unbound, challengers from Part Unknown, and has them take the World Tag Team titles from the Slammers."
+   }
+  ],
+  "caption": "Half of Pain Unbound, who with Terror won the World Tag Team titles from the Slammers at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-fear",
+     "fear-fwo-1998",
+     "fear-iaw-1999",
+     "fear-iwf-1999-geocities",
+     "fear-pwa-pioneer",
+     "fear-wewa-alliance-2010",
+     "fear-wewf",
+     "fear-xhcw-1998"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this league. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "terror-mbwf-1992",
+  "type": "character",
+  "name": "Terror",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-06-18",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: one half of Pain Unbound, World Tag Team champions from 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "Grapple Wars 1 introduces him with Fear as the new team Pain Unbound and has him pin Master 'Bud' Wiser for the World Tag Team titles."
+   }
+  ],
+  "caption": "Half of Pain Unbound, who with Fear won the World Tag Team titles from the Slammers at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "terror-gcw-fortworth-1999",
+     "terror-uwf-mar96",
+     "war-1995-terror"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this league. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "fate-mbwf-1992",
+  "type": "character",
+  "name": "Fate",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-03-18",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: one half of Kismet, a ladies' tag team; sister of Destiny",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The newsletter of 18 March 1993 announces Fate and Destiny as sisters newly in the ranks with their sights on the Ladies Tag Team belts; Grapple Wars 1 has Kismet beat the Tremendoes by disqualification after Fate is hit with a chair."
+   }
+  ],
+  "caption": "Half of Kismet and sister of Destiny, who beat the Tremendoes by disqualification at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "fate-4ww",
+     "fate-dw",
+     "fate-pwa-primetime",
+     "fate-ufw-ultra-2000",
+     "fate-wwa"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this league. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "destiny-mbwf-1992",
+  "type": "character",
+  "name": "Destiny",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-03-18",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler: one half of Kismet, a ladies' tag team; sister of Fate",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The newsletter of 18 March 1993 announces Fate and Destiny as sisters; Grapple Wars 1 has her give chase to the Tremendoes after the disqualification win."
+   }
+  ],
+  "caption": "Half of Kismet and sister of Fate, who gave chase to the Tremendoes after Kismet won by disqualification at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "destiny-dcwl",
+     "destiny-fwo-1998",
+     "destiny-gcw-xoom-1997",
+     "destiny-grw",
+     "destiny-naw",
+     "destiny-newf",
+     "destiny-pcw"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this league. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "the-slaughter-lady-mbwf-1992",
+  "type": "character",
+  "name": "The Slaughter Lady",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-06-18",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "role": "manager of The Countess",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html",
+    "note": "Grapple Wars 1 has the ring announcer bring the Countess to the ring \"accompanied down the aisle by her manager, The Slaughter Lady\"; she headbutts Angel Pit Bull when the referee is not looking and is clotheslined by Angel in return."
+   }
+  ],
+  "caption": "The manager who walked the Countess to the ring at Grapple Wars on 18 June 1993 and headbutted Angel Pit Bull while the referee looked away.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  }
+ }
+]

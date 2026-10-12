@@ -1,0 +1,727 @@
+[
+ {
+  "id": "uncivil-disobedience",
+  "name": "Uncivil Disobedience",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "The Firm",
+    "character_id": "the-firm"
+   },
+   {
+    "name": "Rax Justice",
+    "character_id": "rax-justice"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "1998",
+    "last_seen": "1999",
+    "role": "tag team — stole the WWO International People's Tag Team Titles outright; later WWO World Tag Team Champions (1998–99)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/tag-team-roster.html; promotions/wwo/archive/title-history-world-tag-team.html)"
+   }
+  ],
+  "caption": "The Firm and Rax Justice — stole the WWO International People's Tag Team Titles outright and later won the World Tag Team Titles from Don't You Wish You Were Us in Los Angeles.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "civil-disobedience-osw"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against civil-disobedience-osw — a different, unrelated federation's own team. Recorded distinct, not merged."
+   }
+  ]
+ },
+ {
+  "id": "physicians-advocating-innovative-neoprocedures",
+  "name": "Physicians Advocating Innovative Neoprocedures",
+  "type": "unit",
+  "aka": [
+   "P.A.I.N."
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Dr.\" Ohno Ow",
+    "character_id": "dr-ohno-ow"
+   },
+   {
+    "name": "Dr. Mal Practice MD",
+    "character_id": "dr-mal-practice-md"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — WWO World Tag Team Champions (2001)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/tag-team-roster.html; promotions/wwo/archive/title-history-world-tag-team.html)"
+   }
+  ],
+  "caption": "Billed on the WWO's own tag roster as P.A.I.N. — took the World Tag Team Titles from Vegas Connection in Washington, D.C. and lost them back six weeks later in Milwaukee.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "vegas-connection-wwo",
+  "name": "Vegas Connection",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "with": [
+     "vegas-connection"
+    ],
+    "note": "A separate entity from vegas-connection (AAWC), not a merge. Re-verified 2026-09-02 on the identity-join test and UPGRADED from presumed to primary-source: the earlier filing rested on \"no corroborating link beyond the shared name\", but both feds' own documents name their own team's members, and the two memberships do not overlap. This team is \"Lounge Lizard\" Lester Leary and Larry Lowbrow — WWO's own tag-team roster page bills them under this name, each man's own bio card gives \"Tag Team Name: The Vegas Connection\" and names the other as his partner, and both are led by the manager Rimshot. The AAWC's team is Aaron Reno and Steven Gage, walked out by the manager Lady Luck on that fed's own Oktoberfest '96 (Night 1) card of 25 October 1996. Different eras and platforms too — the AAWC pair runs 1995-96 on the PRODIGY boards, this one holds the WWO World Tag Team titles in 2001 — and this row's own bio-card travelogue of where the team had been (the ECCWF, the STWF, the MBC, the PMCW/RCCW/BDCW) names neither the AAWC nor the CSWA. NOTE FOR ENRICHMENT: this row still carries membership_unknown, which the fed's own roster and bio cards contradict; left standing here because this pass was scoped to the guard alone, and flagged for the WWO wing."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — WWO World Tag Team Champions (2001)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/title-history-world-tag-team.html)"
+   }
+  ],
+  "caption": "Traded the WWO World Tag Team Titles with Physicians Advocating Innovative Neoprocedures twice in six weeks during the summer of 2001; no individual member survives in the held record.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-amazing-romanis",
+  "name": "The Amazing Romanis",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Niklos \"Ricochet\" Romani",
+    "character_id": "niklos-ricochet-romani-rspwf"
+   },
+   {
+    "name": "\"The Wild Card\" Ravnos Romani",
+    "character_id": "the-wild-card-ravnos-romani-rspwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — billed together on the WWO's own tag roster",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/tag-team-roster.html)"
+   },
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2004-10-20",
+    "last_seen": "2006-06-07",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2006-06-07.html",
+    "note": "Lost a challenge for the UWF World Tag Team Championship to the Sons of Cacophony by pinfall (the Sky Hammer, on Niklos Romani) on 7 June 2006.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Brothers out of what their own cards list as home address the Gypsy Caravan, billed together on the WWO's own tag roster.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "grief-brothers",
+  "name": "Grief Brothers",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Sparkling Danny Grief",
+    "character_id": "sparkling-danny-grief"
+   },
+   {
+    "name": "Big Dave Grief",
+    "character_id": "big-dave-grief"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — billed together on the WWO's own tag roster",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/tag-team-roster.html)"
+   }
+  ],
+  "caption": "Dan and Dave Grief, billed together on the WWO's own tag roster, both out of Australia.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-kailin-collective",
+  "name": "The Kai'Lin Collective",
+  "type": "unit",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "The Spectre",
+    "character_id": "the-spectre"
+   },
+   {
+    "name": "\"The Egyptian Enigma\" Dehan Anubis",
+    "character_id": "the-egyptian-enigma-dehan-anubis"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "stable — billed together on the WWO's own tag roster",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/tag-team-roster.html)"
+   }
+  ],
+  "caption": "The Spectre and Dehan Anubis, billed together on the WWO's own tag roster under a name the held record otherwise leaves unexplained.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "final-justice",
+  "name": "Final Justice",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Action\" Adam Barney",
+    "character_id": "action-adam-barney"
+   },
+   {
+    "name": "Mike Hall"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — billed together on the WWO's own tag roster; no individual card survives for Mike Hall",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/tag-team-roster.html)"
+   }
+  ],
+  "caption": "\"Action\" Adam Barney and Mike Hall, billed together on the WWO's own tag roster; no individual card survives for Hall in the held capture.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "justice-ewa-extreme"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against justice-ewa-extreme — a different, unrelated federation's own wrestler sharing a common ring-name word. Recorded distinct, not merged."
+   }
+  ]
+ },
+ {
+  "id": "new-generation-wwo",
+  "name": "New Generation",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Lance Van Majors",
+    "character_id": "lance-van-majors"
+   },
+   {
+    "name": "Kyle Rogers",
+    "character_id": "kyle-rogers"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — billed together on the WWO's own tag roster, both managed by Lexus Anderson",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/tag-team-roster.html)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "\"New Generation\" is a generic era-descriptor name several unrelated feds could plausibly reuse; qualified at mint per the generic-names doctrine rather than left bare.",
+    "with": []
+   }
+  ],
+  "caption": "Lance Van Majors and Kyle Rogers, billed together on the WWO's own tag roster — both managed by Lexus Anderson.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dark-haven-wwo",
+  "name": "Dark Haven",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"San Malo\" Michael Donovan",
+    "character_id": "san-malo-michael-donovan"
+   },
+   {
+    "name": "Sigma",
+    "character_id": "sigma"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — billed together on the WWO's own tag roster; lost to Apex and the Amazing Romanis at the 24 August 2001 Superstar Showcase",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/tag-team-roster.html); promotions/wwo/archive/results-superstar-showcase.html"
+   }
+  ],
+  "caption": "\"San Malo\" Michael Donovan and Sigma, two childhood outcasts turned tag partners, staged as a team by the fed's own roster page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "fire-and-ice-wwo",
+  "name": "Fire and Ice",
+  "type": "unit",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "\"Iceman\" Michael Ice"
+   },
+   {
+    "name": "\"Red Hot\" Alex Perkins"
+   },
+   {
+    "name": "\"Frozen\" Shade Roberts",
+    "character_id": "shade-roberts",
+    "note": "an original 1997 three-man line-up member per the fed's own stables page and Shade Roberts' own bio card; gone by the team's later two-man World Tag Team Title run."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "1997",
+    "last_seen": "1999",
+    "role": "stable — one of the WWO's original face stables, WWO Six-Man Tag Team Champions (1997) as a three-man line-up, later WWO World Tag Team Champions (1999) as a two-man team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own stables page (promotions/wwo/archive/stables.html); promotions/wwo/archive/title-history-six-man-tag.html; promotions/wwo/archive/title-history-world-tag-team.html",
+    "note": "Its own two-man configuration (\"Iceman\" Michael Ice and \"Red Hot\" Alex Perkins) later formed the core of the Fun Loving Criminals stable per the fed's own stables page."
+   }
+  ],
+  "caption": "One of the WWO's first face stables — Six-Man Tag Team Champions as a three-man line-up in 1997, later World Tag Team Champions as a two-man team.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "roberts-and-cameron-wwo",
+  "name": "Roberts and Cameron",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Shade Roberts",
+    "character_id": "shade-roberts"
+   },
+   {
+    "name": "\"Dominator\" Don Cameron",
+    "character_id": "dominator-don-cameron-nwwf-national-1997"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — two ring veterans reuniting in the revival, introduced through Cameron's own wrestling school",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own tag-team roster page (promotions/wwo/archive/tag-team-roster.html)",
+    "note": "Both men met when Cameron staged an event at Shade Roberts' mentor Erick Cunningham's wrestling school; both are billed as retired ring veterans returning \"to prove to the world that they can still wrestle with the best of them,\" per Shade Roberts' own bio card."
+   }
+  ],
+  "caption": "Two retired ring veterans, \"Dominator\" Don Cameron and Shade Roberts, reuniting for one more run in the WWO's revival.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "les-canadians-wwo",
+  "name": "Les Canadians",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Great White\" Alain MacDonald",
+    "character_id": "great-white-alain-macdonald"
+   },
+   {
+    "name": "\"Little Big Man\" Marc Denis"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "1997",
+    "last_seen": "2001",
+    "role": "tag team — a bilingual (one French name, one English name) Canadian duo, defeated the Armed Forces at the 17 March 2000 Superstar Showcase in Sydney",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own bio card (promotions/wwo/archive/bio-card-alain-mcdonald.html); the-source-v3-i6.html's own \"This Week in WWO History\" column",
+    "note": "Formed in 1992 in the (unheld) WCWA before joining the WWO; the name is deliberately bilingual, \"one word French the other English,\" per MacDonald's own bio card."
+   }
+  ],
+  "caption": "A bilingual Canadian tag team, \"Great White\" Alain MacDonald and \"Little Big Man\" Marc Denis, whose partnership predates the WWO itself.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "operation-scorched-earth-wwo",
+  "name": "Operation Scorched Earth",
+  "type": "unit",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "\"Problem Child\" Chris Stringer",
+    "character_id": "problem-child-chris-stringer-rspwf"
+   },
+   {
+    "name": "Glen Peeps (\"Private Peeps\")",
+    "character_id": "glen-peeps-wwo"
+   },
+   {
+    "name": "Luke Morningstar",
+    "character_id": "luke-morningstar-wwo"
+   },
+   {
+    "name": "William Craven (\"Major Damage\")",
+    "character_id": "william-craven-acwa-atlantic-1999"
+   },
+   {
+    "name": "Dr. Victor Schwartz (\"General Mayhem\")",
+    "character_id": "dr-victor-schwartz-acwa-atlantic-1999"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "stable — a military-gimmick alliance uniting Chris Stringer's own crew with the masked \"Major Damage\" and his manager \"General Mayhem\"",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own bio card (promotions/wwo/archive/bio-card-william-craven.html); the-source-v3-i6.html",
+    "note": "William Craven's own bio card names it directly: Stringer gave the order to \"release the beast,\" and \"the premise of 'Operation Scorched Earth' being a military force was dropped\" when Schwartz unmasked Craven from behind the Major Damage gimmick. Feuded on-air with Dark Soul and the Quesada brothers."
+   }
+  ],
+  "caption": "A military-gimmick stable uniting Chris Stringer's own crew with the masked \"Major Damage\" and his manager, \"General Mayhem\" — until the fed unmasked Damage as William Craven mid-storyline.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "carnage-a-trois-wwo",
+  "name": "Carnage-a-Trois",
+  "type": "unit",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "\"The Rod\" Todd Johnstone",
+    "character_id": "todd-the-rod-johnstone"
+   },
+   {
+    "name": "Tyrone \"Purple\" Hayes",
+    "character_id": "tyrone-purple-hayes"
+   },
+   {
+    "name": "Latex Lex",
+    "character_id": "latex-lex"
+   },
+   {
+    "name": "\"Prodigy\" Tracy Hudson",
+    "character_id": "tracy-hudson-rspwf",
+    "note": "second-version member, per the fed's own stables page."
+   },
+   {
+    "name": "\"Dios Loco\" Rob James",
+    "note": "second-version member, per the fed's own stables page."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable — WWO Simply the Best Award-winning stable (Best Stable, 1999); \"one of the biggest heat-causing stables\" per the fed's own stables page, disbanded by Tyrone Hayes and reunited in the revival",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own stables page (promotions/wwo/archive/stables.html); the fed's own bio cards for Tyrone Hayes and Latex Lex",
+    "note": "Managed by Todd Johnstone throughout. Tyrone Hayes's own bio card credits its late-1999 formation to Todd Johnstone reconnecting him with Latex Lex; the stables page's own \"Version 2\" adds Tracy Hudson and Rob James before the fed's own account has Hayes disband it \"after Latex Lex went into hiatus, and Hudson and James failed to live up to 'his' standards.\""
+   }
+  ],
+  "caption": "Todd Johnstone's stable of Tyrone \"Purple\" Hayes and Latex Lex (later joined by Tracy Hudson), voted the WWO's own Best Stable of 1999.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "carnage",
+     "carnage-fob",
+     "carnage-icw-pweboard",
+     "carnage-pwf"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against carnage, carnage-fob, carnage-icw-pweboard, carnage-pwf — four different, unrelated federations' own \"Carnage\"-named entities, with no shared record. Recorded distinct, not merged."
+   }
+  ]
+ },
+ {
+  "id": "damage-incorporated-wwo",
+  "name": "Damage, Inc.",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "note": "Shares a name with unrelated held tag teams at three other wings; no shared operator, roster, or era links any of them.",
+    "with": [
+     "damage-inc-iwf1296",
+     "damage-incorporated-icw-tacoma-1995",
+     "damage-incorporated-agw"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "name": "Kevin Sanders",
+    "character_id": "kevin-sanders-wwo"
+   },
+   {
+    "name": "Shawn Harris",
+    "character_id": "shawn-harris-wwo"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwo",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team on the WWO's own roster, also named on the fed's own November 2001 tag-team recruitment post",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/wwo/archive/wwo-looking-for-a-stablemate-2001-07-25.html; promotions/wwo/archive/wwo-tag-teams-welcomed-2001-11-08.html"
+   }
+  ],
+  "caption": "A WWO tag team pairing a rich, cocky technical wrestler with a manic-depressive, risk-taking suplex specialist.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ }
+]

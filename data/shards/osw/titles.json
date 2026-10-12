@@ -1,0 +1,128 @@
+[
+    {
+        "id": "osw-cruiserweight",
+        "type": "title",
+        "name": "Cruiserweight Championship",
+        "promotion": "osw",
+        "page": "/titles/osw-cruiserweight.html",
+        "collection": "0008",
+        "epitaph": "Corg became its first champion at Ascension on 23 June 2002 and lost it to Kid Wonder on 19 October 2002. On the 9 Feb 2003 Slam! Kid Wonder said he was no longer the Cruiserweight champion, kept the belt as his own and lifted its weight restriction; the fed's own title history says he renamed it the Soy Boy Memorial Title. Tyler Nelson won it from him at Crowning Glory 2 on 16 March 2003 and renamed it the United States Title a week later.",
+        "epitaph_asof": {
+            "written": "2026-10-11",
+            "evidence": {
+                "reigns": 2
+            },
+            "author": "ai"
+        },
+        "cadence": "standing",
+        "events": [
+            {
+                "type": "rename",
+                "title": "osw-united-states",
+                "date": {
+                    "date": "2003-03-23",
+                    "precision": "exact"
+                },
+                "note": "Tyler Nelson, who had won the belt as the Soy Boy Memorial Title at Crowning Glory 2 on 16 March 2003, renamed it the United States Title on Sunday Night Slam (the fed's own title history, /promotions/osw/archive/ose-title-history-wrestling-site-july-2003-2003-07-21.html)."
+            }
+        ],
+        "aka": [
+            "Soy Boy Memorial Title"
+        ]
+    },
+    {
+        "id": "osw-heavyweight",
+        "type": "title",
+        "name": "Heavyweight Championship",
+        "promotion": "osw",
+        "page": "/titles/osw-heavyweight.html",
+        "collection": "0008",
+        "epitaph": "Sebastian \"Switchblade\" Toomes won OSW's own first Heavyweight Championship in March 2002, at the fed's debut PPV, Crowning Glory. Doug Troy won it from him on Slam 16, 22 May 2002 -- and was immediately Polish Powerbombed through a table by Tom Walczak in the title's own aftermath. Howard Porter held the belt by a September 2002 champions snapshot; a later ledger (per the mining digest) records him as a corrupt Commissioner who won the title through office rather than the ring.",
+        "epitaph_asof": {
+            "written": "2026-08-19",
+            "evidence": {
+                "reigns": 5
+            },
+            "author": "ai"
+        },
+        "cadence": "standing"
+    },
+    {
+        "id": "osw-international",
+        "type": "title",
+        "name": "International Championship",
+        "promotion": "osw",
+        "page": "/titles/osw-international.html",
+        "collection": "0008",
+        "epitaph": "Rhett Locke won OSW's first International Championship at Crowning Glory, the fed's debut PPV, pinning Drew Hostyle on 10 March 2002, and defended it against Tom Walczak and Corg before Propaganda beat him for it at Slam! 14 on 4 May 2002. Propaganda was defending it through June and July until 'Angeldust' Nick Casey won a four-way over him, Lilith and Vampir Nosferatu at Slam! 26 on 27 July 2002. Casey beat Propaganda to keep the belt at By Any Means Necessary on 1 September and held it until 7 September, when the Jane Says segment at Slam! 32 announced Frankie Bones as the new champion; Bones held it at the end of the surviving record. The fed's results archive index tells the July stretch differently, listing Tom Walczak and Rhett Locke as champions with no Casey reign, but the fed's own write-ups of those two cards read both bouts as World Heavyweight title matches and have Propaganda defending the International on both nights.",
+        "epitaph_asof": {
+            "written": "2026-10-05",
+            "evidence": {
+                "reigns": 4
+            },
+            "author": "ai"
+        },
+        "cadence": "standing"
+    },
+    {
+        "id": "osw-queen-of-extreme",
+        "type": "title",
+        "name": "Queen of Extreme",
+        "promotion": "osw",
+        "page": "/titles/osw-queen-of-extreme.html",
+        "collection": "0008",
+        "aka": [
+            "QoE"
+        ],
+        "epitaph": "OSW's own women's-division tournament format, not a defended belt but a points-based elimination competition run across several weeks of Slam! and settled at a PPV. The inaugural 2002 field ran eight entrants (Brandi Wilson, Danniella Jones, Anna Keyson, Faith Paris, Bethany Yamato, \"Primetime\" Laura Wilson, Lillith, and Amanda) through four scored rounds -- promos, a battle royal, a six-woman tag, and a four-corners match -- before Lillith and Yamato met in a Japanese Death Match at Head on Collision, 28 Apr 2002. Lillith won, crowned the first-ever Queen of Extreme.",
+        "epitaph_asof": {
+            "written": "2026-08-19",
+            "evidence": {
+                "reigns": 1
+            },
+            "author": "ai"
+        },
+        "cadence": "annual"
+    },
+    {
+        "id": "osw-world-tag-team",
+        "type": "title",
+        "name": "World Tag Team Championship",
+        "promotion": "osw",
+        "page": "/titles/osw-world-tag-team.html",
+        "collection": "0008",
+        "epitaph": "Civil Disobedience (Seth Masters & Trevor Hawke) won OSW's own first Tag Team Championship at Crowning Glory, OSW's debut PPV, and lost it the same night three weeks later, 30 March 2002, to Heresian Bloodlust (Hessian & Azrael Cain) — who beat back two challenges from Riptah & Short Circuit before dropping the belts to that same team on 23 June 2002, closing the chain across the fed's own first three reigns. Riptah and Short Circuit then held the belts for a month that summer. The Throwbacks ('Old School' Dave Gibson & Clay Vendetta) held the titles by a September 2002 champions snapshot. By early 2003 the champions were Heaven & Hell (Hessian & Propaganda — Hessian's second tag reign with a second partner), who retained against a crossover challenge from PCW's own Politically Incorrect in a Falls Count Anywhere match, 9 Feb 2003.",
+        "epitaph_asof": {
+            "written": "2026-08-19",
+            "evidence": {
+                "reigns": 6
+            },
+            "author": "ai"
+        },
+        "cadence": "standing"
+    },
+    {
+        "id": "osw-united-states",
+        "type": "title",
+        "name": "United States Championship",
+        "promotion": "osw",
+        "page": "/titles/osw-united-states.html",
+        "collection": "0181",
+        "aka": [
+            "American Championship",
+            "American Title",
+            "United States Title",
+            "U.S. Title"
+        ],
+        "cadence": "standing",
+        "epitaph": "The Cruiserweight belt under a new name. Kid Wonder had called it the Soy Boy Memorial Title; Tyler Nelson won it from him at Crowning Glory 2 on 16 March 2003 and renamed it the United States Title a week later, and Jane Reagan had him vacate it on 4 May 2003, after he won the World Heavyweight Title. The Chaos In The Cage match of 25 May 2003 ended in a simultaneous pin on D-Kay Calyx by Politically Incorrect, William S. Powell and Reginald V. Lovecraft, and the fed named both men co-holders; its lawyers found no way to void it, and the pair were allowed to defend the belt as a tag team. Azala Zameer won it from them, billed on that card as the OSW American Championship, in a Contract versus Contract match at Ascension on 29 June 2003. Ivan Stanislav's roster card gives him the American Championship from 24 August to 14 September 2003. Who held it after him is not recorded; the fed was still keeping a contenders list for the American Title on 28 October 2003.",
+        "epitaph_asof": {
+            "written": "2026-10-11",
+            "author": "ai",
+            "evidence": {
+                "reigns": 4
+            }
+        },
+        "notes": "Named on the fed's own title history (/promotions/osw/archive/ose-title-history-wrestling-site-july-2003-2003-07-21.html): the Cruiserweight Title, which Kid Wonder, champion from 19 October 2002, renamed the Soy Boy Memorial Title, and which Tyler Nelson renamed the United States Title on 23 March 2003. The pages name it three ways: the United States Title or Championship (the title history; Tyler Nelson's and Politically Incorrect's cards; the 27 and 28 May 2003 news posts), the OSW or OSE American Championship (Ascension; the Powell, Zameer and Stanislav cards) and the American Title (/promotions/osw/archive/osw-expands-contender-lists-2003-10-28.html)."
+    }
+]

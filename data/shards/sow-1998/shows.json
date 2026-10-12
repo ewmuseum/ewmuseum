@@ -1,0 +1,72 @@
+[
+ {
+  "id": "sow-santas-night-out-1998-01-01",
+  "type": "show",
+  "name": "Santa's Night Out",
+  "promotion": "sow-1998",
+  "date": {
+   "date": "1998-01-01",
+   "precision": "exact",
+   "source": "The fed's own thirteen-part broadcast posting to rec.sport.pro-wrestling.fantasy, dated 1 January 1998; this pass reads and structures Parts One and Two (msg_ids TjViX78QXnUJ, eGfacfJQ7I4J)."
+  },
+  "collection": "0148",
+  "notes": "A World Title tournament's opening round: this pass structures its first two quarterfinals. The remaining eleven parts of the card (a further quarterfinal, undercard matches, the tournament final, and a closing world-title match) are collected but not read, per the holdings bar and the serve-on-contextual-value rule. Dedicated by the fed's own text to the memory of actor Chris Farley.",
+  "appearances": [
+   {
+    "who": "brian-meyer-rspwf",
+    "kind": "match",
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html"
+   },
+   {
+    "who": "drake-ashida-sow",
+    "kind": "match",
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html"
+   },
+   {
+    "who": "sean-stevens-sow",
+    "kind": "match",
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html"
+   },
+   {
+    "who": "jake-macarthur-sow",
+    "kind": "match",
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html"
+   },
+   {
+    "who": "bridget-xavier-sow",
+    "kind": "angle",
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "sean-stevens-sow"
+     ],
+     [
+      "jake-macarthur-sow"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "World Title tournament quarterfinal, barbed wire and tables",
+    "note": "Stevens won with a Shooting Star Press through a table after a lengthy brawl in which MacArthur bodyslammed Stevens' ally Bridget Xavier to the concrete."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "drake-ashida-sow"
+     ],
+     [
+      "brian-meyer-rspwf"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "World Title tournament quarterfinal",
+    "note": "Ashida won by sunset flip at 35:37, advancing to face Stevens."
+   }
+  ]
+ }
+]

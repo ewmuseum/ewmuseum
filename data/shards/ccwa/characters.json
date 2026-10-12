@@ -1,0 +1,1780 @@
+[
+ {
+  "id": "scott-monroe-ccwa",
+  "type": "character",
+  "name": "Scott Monroe",
+  "caption": "CCWA's own roster page billed Scott Monroe with a clean record; the fed's show scripts stage him opening cards against Chris West, winning his return match against Randy Taylor, and, on the roster.cgi bio shell, list him under the file slug “architecht.”",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ccwa/archive/roster.html (CCWA's own official roster page); roster.cgi bio shell (file slug “architecht”, alt text “Scott Monroe”); tsresults.html",
+    "note": "Bio-card content (singles.cgi) was never captured; only the navigation shell survives."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2005-04-02",
+    "last_seen": "2005-04-02",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "Seven of the Best's own backstage database (accession 0159), bio 19719",
+    "note": "Dated from the event's own booking record: Seven of the Best, 2 April 2005.",
+    "role": "wrestler — billed from CCWA"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PTC's own entrant card (Seven of the Best, accession 0159, bio 19719) is this record: the served Seven of the Best card (captured 8 April 2005): 'Ember (WWA) vs Scott Monroe (CCWA)'; card Other Feds CCWA; the record holds ccwa 2004-2005 (CCWA's own roster page and show scripts)."
+   }
+  ]
+ },
+ {
+  "id": "chris-west-ccwa",
+  "type": "character",
+  "name": "“Insane” Chris West",
+  "caption": "“Insane” Chris West won the inaugural CCWA Television Championship at Sensation, then lost it two weeks later when Tony Stecchino stripped him of the belt and fired him on the air.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ccwa/archive/roster.html (CCWA's own official roster page); CCWA's own served show/card pages",
+    "finisher": "Westitis",
+    "hometown": "Vancouver, BC, Canada",
+    "entrance_music": {
+     "title": "Lip Gloss and Black",
+     "artist": "Atreyu",
+     "verbatim": "\"Lip Gloss And Black\" by Atreyu",
+     "corrected": "\"Lip Gloss and Black\" by Atreyu"
+    },
+    "note": "Billed CCWA's own “Hardcore Legend,” accompanied to the ring by “Holy Shit” Jayson Bird; fired by Tony Stecchino on 22 Feb 2005, on-air, the same night he was stripped of the Television title."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name match against 4ww's own chris-west-4ww, AND both carry the identical distinctive finisher name \"Westitis\" — materially stronger evidence than a bare name collision, still not sufficient alone to merge. Filed to data/review-queue.json, flagged prominently.",
+    "with": []
+   }
+  ],
+  "aka": [
+   "Chris West"
+  ]
+ },
+ {
+  "id": "ronnie-mcneil-ccwa",
+  "type": "character",
+  "name": "“The Franchise” Ronnie McNeil",
+  "caption": "“The Franchise” Ronnie McNeil won the CCWA World Heavyweight Championship from Johnny Dollar at Sensation, retained it in a No Contest against Tony Stecchino after Eddie B.'s interference, and was still champion, billed to defend against Lyger, when the held record ends in March 2005.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name match against ewa-empire's own ronnie-mcneil-ewa-empire; no corroborating detail found this pass to merge or separate — filed to data/review-queue.json rather than guessed either way.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "wrestler — World Heavyweight Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ccwa/archive/roster.html (CCWA's own official roster page); main1.shtml (2005-03-14 news item); sensation-2005-02-07.html; tsresults.html",
+    "finisher": "Flawless",
+    "entrance_music": {
+     "title": "Toy Soldiers",
+     "artist": "Eminem",
+     "verbatim": "\"Toy Soldiers\" by Eminem",
+     "corrected": "\"Toy Soldiers\" by Eminem"
+    }
+   }
+  ],
+  "aka": [
+   "Ronnie McNeil"
+  ]
+ },
+ {
+  "id": "furious-ccwa",
+  "type": "character",
+  "name": "Furious",
+  "caption": "Furious lost the CCWA North American Championship to Danielle Northsky at Sensation, reversing her powerbomb attempt only for Northsky's Spirit Way to finish him; he posted on CCWA's own Rumble Board and Feedback Forum under his ring name, sharing an old promo written for a separately held fed, IWX.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ccwa/archive/roster.html (CCWA's own official roster page); CCWA's own served show/card pages; CCWA Forums",
+    "finisher": "Envoy of the End",
+    "note": "The North American Championship's own prior reign, ended 7 Feb 2005 at Sensation; no won-date for this reign survives the fed's own Dec 2004 hack."
+   }
+  ]
+ },
+ {
+  "id": "tony-stecchino-ccwa",
+  "type": "character",
+  "name": "Tony Stecchino",
+  "caption": "Tony Stecchino wrestled in CCWA's main event ring, sat as its board's own HOF-flagged Administrator, staged his own faked-kidnapping angle, then stepped back from the presidency in favor of Chris Sanchez and Alex Sarson in February 2005 — the same month he wrote CCWA's own “Legendary Status Is Achieved Not Granted” retirement-toned promo — before returning to the ring at Sensation and nearly winning the World Heavyweight Championship from Ronnie McNeil in a No Contest the following week.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name match against BOTH gw's own tony-stecchino-gw and low's own tony-stecchino — CCWA, GW, and (per this campaign's own aogames.net census) neighboring small feds share a real overlap in hosting/community; no receipt joins any two of the three. Filed to data/review-queue.json as a three-way open question, not guessed.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "wrestler; site Administrator",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "source": "promotions/ccwa/archive/roster.html (CCWA's own official roster page); CCWA's own served show/card pages; CCWA Forums (Group: Admin); roleplays/messages/124.shtml",
+    "finisher": "Power Between My Legs",
+    "hometown": "Anacortes, WA",
+    "entrance_music": {
+     "title": "Paradise City",
+     "artist": "Guns N' Roses",
+     "verbatim": "\"Paradise City\" by Guns N Roses",
+     "corrected": "\"Paradise City\" by Guns N' Roses"
+    },
+    "note": "Billed a former NCW World Heavyweight Champion and former GW World Heavyweight Champion in his own Sensation promo, claiming 31 career World Title reigns — kayfabe career claims, unreceipted in the held CCWA record."
+   }
+  ]
+ },
+ {
+  "id": "lebron-samuels-ccwa",
+  "type": "character",
+  "name": "“The Notorious” Lebron Samuels",
+  "caption": "“The Notorious” Lebron Samuels was on CCWA's official roster and billed on its Staples Center card.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ccwa/archive/roster.html (CCWA's own official roster page); showcard.html"
+   }
+  ],
+  "aka": [
+   "Lebron Samuels"
+  ]
+ },
+ {
+  "id": "randy-taylor-ccwa",
+  "type": "character",
+  "name": "“The Rocket” Randy Taylor",
+  "caption": "“The Rocket” Randy Taylor opened CCWA's Spokane taping against Nathan Phoenix, lost the #1 TV title contendership fatal four-way at Sensation, then lost his return match to Scott Monroe two weeks later; per the fed's own March 2005 news he fought through the Flash Championship tournament bracket against Kris Krimzon.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ccwa/archive/roster.html (CCWA's own official roster page); tsresults.html; main1.shtml; sensation-2005-02-07.html; weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "jacob-briggs-ccwa",
+  "type": "character",
+  "name": "Jacob “The Phenom” Briggs",
+  "caption": "Jacob “The Phenom” Briggs was on CCWA's official roster and opened the fed's Staples Center card against Furious.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ccwa/archive/roster.html (CCWA's own official roster page); showcard.html"
+   }
+  ]
+ },
+ {
+  "id": "nathaniel-hawke-ccwa",
+  "type": "character",
+  "name": "“Nightmare” Nathaniel Hawke",
+  "caption": "“Nightmare” Nathaniel Hawke was on CCWA's official roster and main-evented its Staples Center card against Chris West.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ccwa/archive/roster.html (CCWA's own official roster page); showcard.html"
+   }
+  ],
+  "aka": [
+   "Nathaniel Hawke"
+  ]
+ },
+ {
+  "id": "johnny-dollar-ccwa",
+  "type": "character",
+  "name": "Johnny Dollar",
+  "caption": "Johnny Dollar lost the CCWA World Heavyweight Championship to Ronnie McNeil at Sensation, his own “Bottom Dollar” finisher reversed into the fall.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name match against gw's own johnny-dollar-gw; no corroborating detail found. Filed to data/review-queue.json.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "tsresults.html; roster.cgi; sensation-2005-02-07.html",
+    "finisher": "Bottom Dollar",
+    "note": "The World Heavyweight Championship's own prior reign, ended 7 Feb 2005 at Sensation; no won-date for this reign survives the fed's own Dec 2004 hack. “Sean O'Riley”, hit with the Bottom Dollar in the 22 Feb cold-open clip reel, is otherwise unattested in the held record."
+   }
+  ]
+ },
+ {
+  "id": "justin-warner-ccwa",
+  "type": "character",
+  "name": "Justin Warner",
+  "caption": "Justin Warner no-showed Sensation (his father hospitalized, per Barry Stud's own announcement), fought Scott Monroe and Freezer Burn on CCWA's Boise card, and, per the fed's own March 2005 news, entered its Flash Championship tournament against Dan Blitz.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "wscard.html; main1.shtml; roster.cgi"
+   }
+  ]
+ },
+ {
+  "id": "kris-krimzon-ccwa",
+  "type": "character",
+  "name": "Kris Krimzon",
+  "caption": "Kris Krimzon opened Sensation with a win over Vexed thanks to a cloaked Eddie B's own CCWAtron distraction, then turned on him once he learned why and chaired him to close out The Show two weeks later, the fed's own forum naming him the ring persona of CCWA's new Vice President, appointed in March 2005.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "wrestler; Rumble Board forum leader; Vice President",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "source": "wscard.html; top5.htm; CCWA Forums; roster.cgi; sensation-2005-02-07.html; weekly-show-2005-02-22.html; new-vp-thread.html",
+    "finisher": "Krimzon Rain",
+    "note": "A Hell in a Cell match against Eddie B. was set for “next week” at Wildside, a show not in the held record."
+   },
+   {
+    "promotion": "awc-2005",
+    "first_seen": "2005-05-06",
+    "last_seen": "2006-11-24",
+    "source": "AWC's own database (lot 0159), bio 12327",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (26 shows, every kind of appearance counted). Joined to this record on the card's own evidence: Card to card: the finisher Krimzon Rain is on the AWC card and in this record's CCWA tenure, and the card's Other Feds ('Neon; GTWF; CCWA; LOW; CSW') names CCWA, this record's only promotion. AWC's 3532 (6 May 2005): 'Both these men have history in Neon Wrestling... Kris Krimzon won that match'. His AWC run begins 6 May 2005 as the CCWA tenure ends in 2005.",
+    "hometown": "St. Louis, Missouri",
+    "height": "6'4",
+    "weight": "230 lbs",
+    "style": "High-flying, Sneaky",
+    "finisher": "Krimz-ecution; Krimzon Rain",
+    "entrance_music": {
+     "verbatim": "'Our Revolution' by Halifax",
+     "title": "Our Revolution",
+     "artist": "Halifax"
+    }
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's biography card (accession 0159), bio 12327, is this record: Card to card: the finisher Krimzon Rain is on the AWC card and in this record's CCWA tenure, and the card's Other Feds ('Neon; GTWF; CCWA; LOW; CSW') names CCWA, this record's only promotion. AWC's 3532 (6 May 2005): 'Both these men have history in Neon Wrestling... Kris Krimzon won that match'. His AWC run begins 6 May 2005 as the CCWA tenure ends in 2005."
+   }
+  ]
+ },
+ {
+  "id": "lyger-ccwa",
+  "type": "character",
+  "name": "Lyger",
+  "caption": "Lyger lost the #1 TV title contendership fatal four-way at Sensation and, two weeks later, lost to “The Ladies Man” Jay Robson in a screwjob set up by Tony Stecchino, billed from Sydney, Australia.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "main1.shtml; roster.cgi; sensation-2005-02-07.html; weekly-show-2005-02-22.html",
+    "hometown": "Sydney, Australia",
+    "entrance_music": {
+     "title": "Right Now",
+     "artist": "Van Halen",
+     "verbatim": "\"Right Now\" by Van Halen",
+     "corrected": "\"Right Now\" by Van Halen"
+    }
+   }
+  ]
+ },
+ {
+  "id": "mercenary-ccwa",
+  "type": "character",
+  "name": "Mercenary",
+  "caption": "Mercenary re-signed with CCWA in early 2005 as, per the fed's own news, a three-time former Tag Team Champion and four-time former Hardcore Champion; he and Freezer Burn lost the #1 contendership to CCWA's Tag Team titles against Painkiller and Freezer Burn's own partner at The Show, and the fed's own March 2005 news enters him in the Flash Championship tournament against Freezer Burn.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "wrestler — former Tag Team Champion (3x); former Hardcore Champion (4x)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "main1.shtml; roster.cgi; weekly-show-2005-02-22.html",
+    "note": "The fed's own current champs.html carries neither belt at all — both reigns are attested only by this one news item, unstructured in data/reigns.json."
+   }
+  ]
+ },
+ {
+  "id": "nokja-blokkov-ccwa",
+  "type": "character",
+  "name": "Nokja Blokkov",
+  "caption": "Nokja Blokkov stared down Pete Hardy during CCWA's Spokane taping.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "tsresults.html; roster.cgi"
+   }
+  ]
+ },
+ {
+  "id": "painkiller-ccwa",
+  "type": "character",
+  "name": "Painkiller",
+  "caption": "Painkiller won the #1 TV title contendership fatal four-way at Sensation with a tombstone piledriver, then, partnered with Freezer Burn, won the #1 contendership to the CCWA Tag Team titles at The Show, pinning Chris West.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "tsresults.html; wscard.html; roster.cgi; sensation-2005-02-07.html; weekly-show-2005-02-22.html",
+    "finisher": "Death from Above"
+   }
+  ]
+ },
+ {
+  "id": "sketch-ccwa",
+  "type": "character",
+  "name": "Sketch",
+  "caption": "Sketch held a roster.cgi bio slot on CCWA's own roster; no further record of him survives in the held record.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "roster.cgi",
+    "note": "The bio-card shell for this slug carries no character content beyond the roster.cgi navigation frame — an honest gap, not a defect."
+   }
+  ]
+ },
+ {
+  "id": "faith-ccwa",
+  "type": "character",
+  "name": "Faith",
+  "caption": "CEO of CCWA under the ring name Faith, the fed's own staff card gives her a full kayfabe profile — a Blackpool, England native styled “Your Sweeta Senorita” and “The Urban Angel,” with two former titles from earlier promotions on her own record — and she opened Sensation by pulling the mic from a lip-syncing Ashlee Simpson and slapping her out of the arena.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "CEO",
+    "roles": [
+     "authority-figure"
+    ],
+    "alignment": "Face",
+    "height": "5'6\"",
+    "weight": "165 lbs",
+    "finisher": "Fall From Grace",
+    "signature_moves": [
+     "Revolution"
+    ],
+    "entrance_music": {
+     "title": "La La",
+     "artist": "Ashlee Simpson",
+     "verbatim": "'La La' by Ashlee Simpson",
+     "corrected": "\"La La\" by Ashlee Simpson"
+    },
+    "source": "staff.cgi?name=faith; sensation-2005-02-07.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "danielle-northsky-ccwa",
+  "type": "character",
+  "name": "Danielle Northsky",
+  "caption": "Danielle Northsky, CCWA North American Champion, held the GCW United States Championship once and the HDTV Championship once and appeared on 4 GCW cards from 9 July 2006 to 9 March 2007.",
+  "caption_asof": {
+   "written": "2026-09-30",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 2,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 2
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "wrestler — North American Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "Spirit Way",
+    "source": "promotions/ccwa/archive/top5.html; sensation-2005-02-07.html; main1.shtml; wscard.html"
+   },
+   {
+    "promotion": "gcw-gcwonline-2001",
+    "first_seen": "2006-07-09",
+    "last_seen": "2007-02-08",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Black Hills, North Dakota",
+    "height": "5' 6'",
+    "weight": "140",
+    "style": "High Risk / Daredevil with a dash of technical.",
+    "finisher": "The Spirit Way",
+    "nicknames": "'Dani', 'Sirius Star'",
+    "entrance_music": {
+     "verbatim": "'Blood' by Queensryche"
+    },
+    "grade": "primary-source",
+    "source": "Global Championship Wrestling's own backstage database (accession 0159) — its own biography card and its own appearance record: 2 match and 1 segment appearances over 2 of its cards",
+    "note": "Its whole period in this federation, from the federation's own record: 3 appearances over 2 shows, 2006-07-09 to 2007-02-08. 18 roleplay(s) of its own under this card."
+   },
+   {
+    "promotion": "gw",
+    "first_seen": "2005-06-20",
+    "last_seen": "2005-11-29",
+    "source": "Global Wrestling's own backstage database (accession 0159), bio 4406: the fed's own appearance record",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (12 shows, every kind of appearance counted). Joined to this record on the evidence recorded in its identity row."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2005-11-26",
+    "last_seen": "2005-12-01",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "GTT5's own backstage database (accession 0159), bio 15517",
+    "note": "Dated from the GTT5 tournament's own round record: 2 of its rounds, 26 November 2005 to 1 December 2005."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2006-10-09",
+    "last_seen": "2006-10-21",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "GTT6's own backstage database (accession 0159), bio 14534",
+    "note": "Dated from the GTT6 tournament's own round record: 2 of its rounds, 9 October 2006 to 21 October 2006."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Championship Wrestling's own biography card (accession 0159) is this record: the same character carried by its own hand into a fourth federation's record. Its Other Feds field on that card reads, verbatim: “CCWA North American Champion (never lost title before they closed), Global Platinum Champion (converged with the Cruiserweight and TV championship too)”."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Wrestling's biography card (accession 0159), bio 4406, is this record: The held row: 'Danielle Northsky won the CCWA North American Championship from Furious at Sensation with her own Spirit Way finisher, ranked #2 on the fed's own Top 5, and was still champion when the held record ends in March 2005', with the tenure's finisher field reading 'Spirit Way'. Fed-12 bio 4406: finisher name 'The Spirit Way' (a Skytwister press), and `Other Feds` reading 'CCWA North American Champion (never lost title before they closed)' - the exact belt, and the never-lost claim that the held record's own open end corroborates. Add the full three-part name, and this is card-to-card on an invented finisher plus a named title. This row is also the receipt under bio 4282's CCWA question above."
+   }
+  ]
+ },
+ {
+  "id": "jay-robson-ccwa",
+  "type": "character",
+  "name": "“The Ladies Man” Jay Robson",
+  "aka": [
+   "Jay Robson",
+   "TLM"
+  ],
+  "caption": "“The Ladies Man” Jay Robson — called “TLM” in CCWA's own show scripts — debuted against Lyger, ranked #5 on the fed's own Top 5, and beat Lyger in a screwjob set up by Tony Stecchino using brass knuckles.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Tulsa, Oklahoma",
+    "finisher": "The Next Element",
+    "entrance_music": {
+     "title": "Misdirected Hostility",
+     "artist": "311",
+     "verbatim": "\"Misdirected Hostility\" by 311",
+     "corrected": "\"Misdirected Hostility\" by 311"
+    },
+    "note": "Show scripts refer to him throughout as “TLM”, an initialism of his own billed nickname, not a separate identity.",
+    "source": "promotions/ccwa/archive/top5.html; main1.shtml; wscard.html; weekly-show-2005-02-22.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jay-robson-gw"
+    ],
+    "note": "Exact bare-name match against gw's own jay-robson-gw. No shared moniker, finisher, or cross-narrating text found. Filed to data/review-queue.json."
+   }
+  ]
+ },
+ {
+  "id": "vexed-ccwa",
+  "type": "character",
+  "name": "Vexed",
+  "caption": "Vexed jumped Kris Krimzon before the bell at Sensation, dominated most of the match, then lost when a cloaked Eddie B.'s CCWAtron interruption broke his focus.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "sensation-2005-02-07.html"
+   }
+  ]
+ },
+ {
+  "id": "tigam-balsala-ccwa",
+  "type": "character",
+  "name": "Tigam Balsala",
+  "caption": "Tigam Balsala, one half of The Dead, pinned Pete Hardy to win the CCWA Tag Team Championship in the team's own CCWA debut at Sensation.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "wrestler — Tag Team Champion (The Dead)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "sensation-2005-02-07.html"
+   }
+  ]
+ },
+ {
+  "id": "nikkar-dissan-ccwa",
+  "type": "character",
+  "name": "Nikkar Dissan",
+  "caption": "Nikkar Dissan, one half of The Dead, brawled with Psyno on the outside while Tigam Balsala won the CCWA Tag Team Championship for the team in its own CCWA debut at Sensation.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "wrestler — Tag Team Champion (The Dead)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "sensation-2005-02-07.html"
+   }
+  ]
+ },
+ {
+  "id": "pete-hardy-ccwa",
+  "type": "character",
+  "name": "Pete Hardy",
+  "caption": "Pete Hardy teamed with a last-minute partner, Psyno, in a losing Tag Team title match against The Dead at Sensation, then was blindsided by his own partner's Psynosis after the bell.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "entrance_music": {
+     "title": "Bad to the Bone",
+     "artist": "George Thorogood & the Destroyers",
+     "verbatim": "'Bad To The Bone' - George Thorogood & The Destroyers",
+     "corrected": "\"Bad to the Bone\" by George Thorogood & The Destroyers"
+    },
+    "note": "A “mild pop” only — commentary notes the crowd doesn't know who he is.",
+    "source": "sensation-2005-02-07.html; weekly-show-2005-02-22.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pete-hardy-gw"
+    ],
+    "note": "Exact bare-name match against gw's own pete-hardy-gw. No shared moniker, finisher, or cross-narrating text found. Filed to data/review-queue.json."
+   }
+  ]
+ },
+ {
+  "id": "psyno-ccwa",
+  "type": "character",
+  "name": "Psyno",
+  "caption": "Psyno stood in as Pete Hardy's tag partner in a losing CCWA Tag Team title match at Sensation, turning on Hardy after the bell with his own Psynosis, then beat Eddie B clean two weeks later after referee Barry Terinski caught a rope-assisted cheating pin.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "Psynosis",
+    "entrance_music": {
+     "title": "Put You on the Game",
+     "artist": "The Game",
+     "verbatim": "“Put you on the game” By The Game",
+     "corrected": "\"Put You on the Game\" by The Game"
+    },
+    "note": "Billed as North American Championship challenger to Danielle Northsky in the fed's own late-Feb/March 2005 news, and to Danielle Northsky's own main event at the Boise card — no result for either is captured.",
+    "source": "sensation-2005-02-07.html; main1.shtml; wscard.html; weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "barry-stud-ccwa",
+  "type": "character",
+  "name": "Barry Stud",
+  "caption": "Barry Stud served as CCWA's own ring announcer across its Sensation and Spokane cards, a front-office role the fed's own staff listing never names.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "ring announcer",
+    "roles": [
+     "other"
+    ],
+    "source": "sensation-2005-02-07.html; weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "nathan-phoenix-ccwa",
+  "type": "character",
+  "name": "Nathan Phoenix",
+  "aka": [
+   "Nathon Phoenix"
+  ],
+  "caption": "Nathan Phoenix pinned Randy Taylor in the #1 TV title contendership fatal four-way at Sensation before losing to Lyger.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "entrance_music": {
+     "title": "Highway to Hell",
+     "artist": "AC/DC",
+     "verbatim": "“Highway to Hell” by AC/DC",
+     "corrected": "\"Highway to Hell\" by AC/DC"
+    },
+    "note": "The fed's own show script spells the name both “Nathon” and “Nathan” in the same match; “Nathan Phoenix” used here as the more frequent spelling.",
+    "source": "sensation-2005-02-07.html"
+   }
+  ]
+ },
+ {
+  "id": "dean-miller-ccwa",
+  "type": "character",
+  "name": "Dean Miller",
+  "caption": "Dean Miller refereed the #1 TV title contendership fatal four-way at Sensation as a one-off substitute for the fed's own regular referee, Barry Terinski.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "referee"
+    ],
+    "source": "sensation-2005-02-07.html"
+   }
+  ]
+ },
+ {
+  "id": "jayson-bird-ccwa",
+  "type": "character",
+  "name": "“Holy Shit” Jayson Bird",
+  "caption": "“Holy Shit” Jayson Bird walked Chris West to the ring at Sensation carrying his beer, mistaking the crowd's own chant for his own name.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "ringside associate of Chris West",
+    "roles": [
+     "other"
+    ],
+    "source": "sensation-2005-02-07.html"
+   }
+  ]
+ },
+ {
+  "id": "chris-sanchez-ccwa",
+  "type": "character",
+  "name": "Chris Sanchez",
+  "caption": "Chris Sanchez won the inaugural CCWA Television Championship for Chris West with a low blow and his own Sanchizer Even Flow DDT, beat Shane Michael Stevens by cheating, and was named CCWA co-President alongside Alex Sarson that same month.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact bare-name match against 4ww's own chris-sanchez-4ww (South Wind/Tempest Champion, 2004–2005) — no shared moniker, finisher, or cross-narrating text found; the wing's own epitaph had prematurely linked to the 4WW row without a receipted merge, corrected. Filed to data/review-queue.json.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "wrestler — Television Champion; Co-President",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "hometown": "Hollywood, California",
+    "finisher": "Sanchizer Even Flow DDT",
+    "note": "Named CCWA Co-President with Alex Sarson on 5 Feb 2005, per the fed's own forum.",
+    "source": "sensation-2005-02-07.html; the-chosen-thread.html; new-vp-thread.html; ptc-tag-hosting-thread.html"
+   }
+  ]
+ },
+ {
+  "id": "freezer-burn-ccwa",
+  "type": "character",
+  "name": "Freezer Burn",
+  "aka": [
+   "Wayne “Freezer Burn” Hammond"
+  ],
+  "caption": "Wayne “Freezer Burn” Hammond lost CCWA's inaugural Television Championship match to Chris West in a barbed-wire deathmatch at Sensation, then teamed with Painkiller to win the #1 contendership to the Tag Team titles at The Show.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Oskaloosa, Iowa",
+    "entrance_music": {
+     "title": "Who Do You Love",
+     "artist": "George Thorogood and The Destroyers",
+     "verbatim": "'Who Do You Love' by 'George Thorogood and The Destroyers'",
+     "corrected": "\"Who Do You Love\" by George Thorogood and the Destroyers"
+    },
+    "source": "sensation-2005-02-07.html; wscard.html; weekly-show-2005-02-22.html; main1.shtml"
+   }
+  ]
+ },
+ {
+  "id": "shane-michael-stevens-ccwa",
+  "type": "character",
+  "name": "Shane Michael Stevens",
+  "aka": [
+   "SMS",
+   "The American Boy"
+  ],
+  "caption": "Shane Michael Stevens — “SMS,” “The American Boy” — lost to Chris Sanchez by a rope-assisted cheating pin at Sensation.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Osh Kosh, Wisconsin",
+    "signature_moves": [
+     "Revolution",
+     "Freedoms Call"
+    ],
+    "source": "sensation-2005-02-07.html; new-site-thread.html"
+   }
+  ]
+ },
+ {
+  "id": "alex-sarson-ccwa",
+  "type": "character",
+  "name": "Alex Sarson",
+  "caption": "Alex Sarson joined CCWA as Co-President alongside Chris Sanchez in February 2005, his own forum introduction citing five and a half years in e-wrestling and two prior feds of his own.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "Co-President",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "the-chosen-thread.html"
+   }
+  ]
+ },
+ {
+  "id": "sean-oriley-ccwa",
+  "type": "character",
+  "name": "Sean O'Riley",
+  "caption": "Sean O'Riley appears only in a cold-open clip reel, on the receiving end of Johnny Dollar's Bottom Dollar; no further record of him survives in the held record.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Known only from one clip-flash line in the 22 Feb 2005 cold open — an honest gap, not a defect.",
+    "source": "weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "demonicon-ccwa",
+  "type": "character",
+  "name": "Demonicon",
+  "caption": "Demonicon appears in a cold-open clip flash standing with Painkiller in a burning ring, and posted on CCWA's own forum in March 2005.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "weekly-show-2005-02-22.html; new-vp-thread.html"
+   }
+  ]
+ },
+ {
+  "id": "don-leon-ccwa",
+  "type": "character",
+  "name": "Don Leon",
+  "caption": "Don Leon, a mob boss demanding money he claims Eddie B owes him, cornered him in his own locker room with two armed men before letting him go, unpaid debt intact.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "mob boss (angle character)",
+    "roles": [
+     "other"
+    ],
+    "source": "weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "sylkk-ccwa",
+  "type": "character",
+  "name": "Sylkk",
+  "caption": "Sylkk debuted against Danielle Northsky per the fed's own March 2005 news; a member's own detailed Poser-render request describes him as a Johnny Depp/Baek Do San (Tekken 5) hybrid in silver-and-black hair, silver eyes, and scarification.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "A member's own commission post describes his look at length, naming its own real-world models outright (Johnny Depp; Baek Do San, Tekken 5) — an inspiration flag recorded at mint, per the standing mint discipline. No match result for his own billed debut against Danielle Northsky survives the held record.",
+    "source": "main1.shtml; poser-request-thread.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sylkk-ccw"
+    ],
+    "note": "Exact bare-name match against ccw-cyberspace's own sylkk-ccw — a different promotion (CCW-Cyberspace) despite the near-identical acronym. No shared moniker or cross-narrating text found. Filed to data/review-queue.json."
+   }
+  ]
+ },
+ {
+  "id": "maverick-reno-ccwa",
+  "type": "character",
+  "name": "Maverick Reno",
+  "caption": "Maverick Reno, billed the fed's own “greatest CCWA champion of all time” and a former CCWA World Champion, built the fed's new website as an HOF Member and was teased as Tony Stecchino's own mystery signing at Sensation — a tease Stecchino himself subverted, revealing himself as the signee instead.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact bare-name match against gw's own maverick-reno-gw (GW World Champion, Feb–Mar 2003) — CCWA's own text bills Reno exclusively as a returning CCWA legend from the fed's own pre-hack era (“former CCWA World Champion”), never naming GW; the wing's own epitaph had prematurely linked to the GW row without a receipted merge, corrected. Filed to data/review-queue.json.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "former World Champion; site co-builder",
+    "roles": [
+     "wrestler",
+     "other"
+    ],
+    "note": "Cameo-only in the held record: a wordless “lurking in the shadows” clip-flash and repeated third-person mentions; never appears wrestling or speaking on any held card.",
+    "source": "news-2004-12.html; new-site-thread.html; sensation-2005-02-07.html; weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "colin-lundgren-ccwa",
+  "type": "character",
+  "name": "Colin Lundgren",
+  "caption": "Colin Lundgren was announced CCWA's own Commissioner in December 2004; the fed's own later staff listing names Chris Osbourne in the role instead.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "Commissioner",
+    "roles": [
+     "authority-figure"
+    ],
+    "note": "Superseded in the role by Chris Osbourne per the fed's own later staff page; no transition is recorded in the held record.",
+    "source": "news-2004-12.html"
+   }
+  ]
+ },
+ {
+  "id": "chris-osbourne-ccwa",
+  "type": "character",
+  "name": "Chris Osbourne",
+  "caption": "Chris Osbourne served as CCWA's own Commissioner, per the fed's own staff listing.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "Commissioner",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "staff.html"
+   }
+  ]
+ },
+ {
+  "id": "damien-payne-ccwa",
+  "type": "character",
+  "name": "Damien Payne",
+  "caption": "Damien Payne signed on as CCWA's own Vice President in December 2004, per the fed's own staff listing and news.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "Vice President",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "news-2004-12.html; staff.html"
+   }
+  ]
+ },
+ {
+  "id": "stone-fox-ccwa",
+  "type": "character",
+  "name": "Stone Fox",
+  "caption": "Stone Fox founded and administered CCWA as its own President, the forum's own first registered member, before deploying to Iraq in early 2005, a departure his own on-air roster referenced while he was away.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "President; Administrator",
+    "roles": [
+     "authority-figure"
+    ],
+    "note": "Billed as deployed to Iraq by the fed's own Sensation broadcast (7 Feb 2005); still cited as the final word on roster moves in that same show.",
+    "source": "staff.html; news-2004-12.html; new-boards-thread.html; ccwa-buys-howf-thread.html; the-show-1-18-thread.html; the-chosen-thread.html; sensation-2005-02-07.html; weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "stevie-nickels-ccwa",
+  "type": "character",
+  "name": "Stevie Nickels",
+  "caption": "Stevie Nickels called play-by-play on CCWA's own broadcasts alongside Carl Phenus.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "lead commentator",
+    "roles": [
+     "commentator"
+    ],
+    "source": "staff.html; sensation-2005-02-07.html; weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "carl-phenus-ccwa",
+  "type": "character",
+  "name": "Carl Phenus",
+  "caption": "Carl Phenus called color commentary on CCWA's own broadcasts alongside Stevie Nickels.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "color commentator",
+    "roles": [
+     "commentator"
+    ],
+    "source": "staff.html; sensation-2005-02-07.html; weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "shawn-stevens-ccwa",
+  "type": "character",
+  "name": "Shawn Stevens",
+  "caption": "Shawn Stevens worked as CCWA's own backstage interviewer, shoved aside by Eddie B mid-interview at The Show.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "backstage interviewer",
+    "roles": [
+     "other"
+    ],
+    "note": "Named “Shane” once in the served show script, a transcription slip for the same role, distinct from the wrestler Shane Michael Stevens.",
+    "source": "staff.html; weekly-show-2005-02-22.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "shawn-stevens-cswa"
+    ],
+    "note": "Exact bare-name match against cswa's own shawn-stevens-cswa. No shared moniker or cross-narrating text found; CCWA's own show script names him once as \"Shane\" (a transcription slip, same role). Filed to data/review-queue.json."
+   }
+  ]
+ },
+ {
+  "id": "barry-terinski-ccwa",
+  "type": "character",
+  "name": "Barry Terinski",
+  "caption": "Barry Terinski refereed CCWA's own main events, including both of Ronnie McNeil's held World Heavyweight Championship matches.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "roles": [
+     "referee"
+    ],
+    "source": "staff.html; sensation-2005-02-07.html; weekly-show-2005-02-22.html"
+   }
+  ]
+ },
+ {
+  "id": "lucas-nick-ccwa",
+  "type": "character",
+  "name": "Lucas Nick",
+  "caption": "Lucas Nick joined CCWA's own staff in a January 2005 acquisition that also brought in roster members from another fed; no further record of him survives in the held record.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "staff member",
+    "roles": [
+     "other"
+    ],
+    "source": "ccwa-buys-howf-thread.html"
+   }
+  ]
+ },
+ {
+  "id": "ashlee-simpson-ccwa",
+  "type": "character",
+  "name": "Ashlee Simpson",
+  "caption": "The real Ashlee Simpson was booked as Sensation's own surprise guest singer, lip-syncing “America the Beautiful” before Faith took the microphone from her and slapped her out of the arena.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "portrays": {
+   "figure": "ashlee-simpson-real",
+   "grade": "primary-source"
+  },
+  "tenures": [
+   {
+    "promotion": "ccwa",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "special guest singer",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "source": "sensation-2005-02-07.html"
+   }
+  ],
+  "portrayal_of": "ashlee-simpson-real",
+  "portrayal_role": "public-figure"
+ }
+]

@@ -1,0 +1,94 @@
+[
+ {
+  "id": "paradox-newa-hub-1997",
+  "type": "unit",
+  "name": "Paradox",
+  "unit_kind": "tag-team",
+  "members": [
+   "cosgrove-newa-hub-1997",
+   "murrain-newa-hub-1997"
+  ],
+  "tenures": [
+   {
+    "promotion": "newa-hub-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-01-27",
+    "last_seen": "2002-01-27",
+    "source": "/promotions/newa-hub-1997/archive/newa-lord-of-the-ring-2002-01-30.html"
+   }
+  ],
+  "caption": "The tag team of Cosgrove and Murrain. Lost to Michael Lennox and Ulfric on the National eWrestling Alliance card Lord of the Ring 2002, 27 January 2002.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "paradox-ovwl-1999",
+     "paradox-rspwf"
+    ],
+    "note": "Shares its billed name with records held in other promotions; no roster, operator or document ties this billing to any of them."
+   }
+  ]
+ },
+ {
+  "id": "the-law-newa-hub-1997",
+  "type": "unit",
+  "name": "The LAW",
+  "unit_kind": "stable",
+  "members": [
+   "david-dunn-newa-hub-1997",
+   "trek-newa-hub-1997",
+   "sean-conway-newa-hub-1997"
+  ],
+  "tenures": [
+   {
+    "promotion": "newa-hub-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-01-27",
+    "last_seen": "2002-01-27",
+    "source": "/promotions/newa-hub-1997/archive/newa-lord-of-the-ring-2002-01-30.html"
+   }
+  ],
+  "caption": "The stable of David Dunn, Trek and Sean Conway. Appears in an angle on the National eWrestling Alliance card Lord of the Ring 2002, 27 January 2002.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-law"
+    ],
+    "note": "Shares its billed name with records held in other promotions; no roster, operator or document ties this billing to any of them."
+   }
+  ]
+ }
+]

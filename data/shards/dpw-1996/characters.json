@@ -1,0 +1,520 @@
+[
+ {
+  "id": "steven-edge-spector-dpw",
+  "type": "character",
+  "name": "Steven \"The Edge\" Spector",
+  "caption": "DPW's own first-ever World Heavyweight Champion, crowned at the fed's Motor City Madness PPV, and still ranked among its top singles wrestlers a year on.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-05",
+    "last_seen": "1997-01",
+    "role": "wrestler — DPW World Heavyweight Champion (1 reign)",
+    "source": "The fed's own 5/4/96 roster sheet (billed the reigning DPW Heavyweight Champion); its own 23 July 1996 title-lineage sheet ('Steven \"The Edge\" Spector 7/21/96 to'); and the fed's own 31 January 1997 newsletter, ranking him #1 (21-8-4) among singles wrestlers behind the three champions."
+   },
+   {
+    "promotion": "emwc",
+    "first_seen": "1998-07-15",
+    "last_seen": "1998-07-15",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/emwc/archive/an-evening-to-the-extreme-july-15-part-2-1998-07-16.html; promotions/emwc/archive/an-evening-to-the-extreme-july-15-part-3-1998-07-16.html; promotions/emwc/archive/an-evening-to-the-extreme-july-15-part-4-1998-07-16.html",
+    "note": "At An Evening To The Extreme (15 July 1998): came out in the ring to offer himself as \"Dreamlover\" Trey Porter's partner against the Snake Den, which Porter accepted with a handshake; beat Hakiro Matsuoko in the first round with the Cherry Blossom Bomber and a pin after the Snake Den attacked and Kevin Slater hit Matsuoko with Sweet Dreams, and advanced to face Derek Mota; faced Ronnie D and Simon Lebec in the aisle beside Porter."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "steve"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against steve. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200, which gives a ring name and a federation tag and nothing else — no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "steve-spector-rspwf"
+    ],
+    "note": "A Top 200 placing under the plain name tagged EMWC in 2000, 2001 and 2003, very likely the same man; left as a lead for a later verdict, not a join. Name collision only; no document names both records, so they stay two, pending a verdict."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "armitage-steven-spector-rspwf"
+    ],
+    "note": "A 1998 Top 100 Cruisers placing of the same name and the same rare moniker, no fed named; a lead for a later verdict, not a join. Name collision only; no document names both records, so they stay two, pending a verdict."
+   }
+  ],
+  "aka": [
+   "\"Armitrage\" Steven Spector",
+   "\"Armitage\" Steve Spector"
+  ]
+ },
+ {
+  "id": "hollywood-dpw",
+  "type": "character",
+  "name": "Hollywood",
+  "caption": "DPW's own Network Champion, crowned in a 16-man \"Rage in the Cage\" tournament at Motor City Madness; still a top singles contender and a repeat Network titleholder a year later.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-07",
+    "last_seen": "1997-03",
+    "role": "wrestler — DPW Network Champion (2 reigns)",
+    "source": "The fed's own Motor City Madness table of contents (won the 16-man Network title tournament, 21 July 1996) and title-lineage sheet; the fed's own 31 January 1997 newsletter, ranking him #2 (20-9-3); the fed's own New Year's Bash broadcast (challenged 'Devastator' Mick Morton for the DPW World Title, 1 Jan 1997); the fed's own 8 March 1997 broadcast, billed 'the current Network Champion' defending against The Boogieman."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "\"Hollywood\" is an ordinary wrestling gimmick name independently reused across the registry (euwc-hollywood, hollywood-wcoiw, and several surnamed 'Hollywood' characters in other, unrelated federations). No roster, host, or crossover document ties any of them to this DPW wrestler; recorded distinct on the no-auto-merge default.",
+    "with": [
+     "euwc-hollywood",
+     "hollywood-wcoiw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mr-robinson-mlwo-dpw-what-can-you-say-about-a-man-who-made-it-through-the-year-undefeated-so-rspwf",
+  "type": "character",
+  "name": "Mr. Robinson",
+  "caption": "DPW's undefeated Central Valley Champion through early 1997 — 10-0 at the New Year's Bash, 12-0 by the fed's own next newsletter — and the RSPWF Top 200's own #16 wrestler for the year.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01",
+    "last_seen": "1997-03",
+    "role": "wrestler — DPW Central Valley Champion",
+    "source": "The fed's own New Year's Bash broadcast (retained the Central Valley title over Tony Coltrane, improving to 10-0); the fed's own 31 January 1997 newsletter (billed DPW Central Valley Champion, 12-0); the fed's own 8 March 1997 broadcast (an on-camera invasion of the IIWF, billed 'the DPW Central Valley Champion')."
+   },
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-04",
+    "last_seen": "1997-04",
+    "source": "VCW Casino Nights, 15 April 1997.",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "note": "CLAIMED from data/shards/_unassigned/characters.json (same id, unchanged): this wing's own accession digest (§9.1) resolves an erratum in a workshop file and confirms the RSPWF Top 200's own #16 1997 write-up ('held the DPW CV Title', 32-0) names this exact wrestler — the fed's own 31 January 1997 newsletter independently bills 'DPW Central Valley Champion — Mr. Robinson (12-0)' and he defends the title on four of the fed's own 1997 cards. The coordinator should remove the stub entry from data/shards/_unassigned/characters.json when folding this delta, since the id now carries a full dpw-1996 record; an existing bestowal in data/shards/rspwf/awards.json already references this id and is unaffected by the move.",
+    "with": []
+   }
+  ],
+  "aka": [
+   "Mister Robinson"
+  ]
+ },
+ {
+  "id": "matt-harris-rspwf",
+  "type": "character",
+  "name": "Matt Harris",
+  "caption": "\"Hardcore\" Matt Harris, a DPW World Title challenger who carried the RSPWF Top 200's own DPW tag to a #10 finish in 1997 while also wrestling in the MLWO, EWA and PCW.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01",
+    "last_seen": "1997-03",
+    "role": "wrestler — DPW World Title challenger",
+    "source": "The fed's own 31 January 1997 newsletter, ranking him #8 as 'Hardcore Harris' (4-2); the fed's own 8 March 1997 broadcast, in which 'Hardcore' Matt Harris challenges 'Superstar' Steve Sampson for the DPW World Heavyweight Championship and loses a close fall."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "note": "CLAIMED from data/shards/_unassigned/characters.json (same id, unchanged): this wing's own accession digest (§9.1) confirms the RSPWF Top 200's own #10 1997 write-up ('Won three different World titles this year, in the MLWO, DPW, and PCW') is this exact wrestler, receipted on the fed's own 31 January ranking sheet and its own 8 March 1997 World Title broadcast. The coordinator should remove the stub entry from data/shards/_unassigned/characters.json when folding this delta; an existing bestowal in data/shards/rspwf/awards.json already references this id and is unaffected by the move.",
+    "with": []
+   }
+  ]
+ },
+ {
+  "id": "captain-midnight-rspwf",
+  "type": "character",
+  "name": "Captain Midnight",
+  "caption": "Returned to DPW on 8 March 1997 with an on-camera attack on the World Champion and his manager — the RSPWF Top 200's own #28 wrestler for the year, carrying the DPW tag alongside PCW and MLWO.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-03",
+    "last_seen": "1997-03",
+    "source": "The fed's own 8 March 1997 broadcast: Captain Midnight interrupts the DPW World Title match's post-match aftermath, chokeslams Adrian Stefani through a table and powerbombs champion 'Superstar' Steve Sampson through it as well ('MIDNIGHT HAS FALLEN')."
+   },
+   {
+    "promotion": "pcw-grapplearium-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-05-18",
+    "last_seen": "1997-05-18",
+    "source": "the promotion's own 18 May 1997 broadcast"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "note": "CLAIMED from data/shards/_unassigned/characters.json (same id, unchanged): this wing's own accession digest (§9.1) confirms the RSPWF Top 200's own #28 1997 write-up (tagged DPW, PCW, MLWO) is this exact wrestler, receipted by his own on-camera DPW return, 8 March 1997. The coordinator should remove the stub entry from data/shards/_unassigned/characters.json when folding this delta; an existing bestowal in data/shards/rspwf/awards.json already references this id and is unaffected by the move.",
+    "with": []
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "captain-midnight-owa-online"
+    ],
+    "note": "A separately attested, unrelated wrestler under the same name at a different promotion the year before; no overlap connects it to this appearance."
+   }
+  ]
+ },
+ {
+  "id": "mick-morton-dpw",
+  "type": "character",
+  "name": "\"Devastator\" Mick Morton",
+  "caption": "DPW World Heavyweight Champion into 1997, a former first-ever EWA North American Champion, who retained the belt over Hollywood at the interfed New Year's Bash before losing it to Steve Sampson, uncaptured, at Broken Hearts.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01",
+    "last_seen": "1997-02",
+    "role": "wrestler — DPW World Heavyweight Champion (1 reign, in this wing's own record)",
+    "source": "The fed's own 31 January 1997 newsletter, billing him DPW World Champion (10-1-1); the fed's own New Year's Bash broadcast, retaining the World Title over Hollywood in the DPW/PCW/EWA interfed main event (1 January 1997); a face-to-face interview segment booking his Broken Hearts defense against Steve Sampson, and his own claim there to have been 'the FIRST EWA North American Champion.'"
+   },
+   {
+    "promotion": "mlwo-1998",
+    "first_seen": "1997-01-30",
+    "last_seen": "1997-05-25",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/mlwo-1998/archive/battle-brawl-ii-thursday-night-titans-1997-01-30.html; promotions/mlwo-1998/archive/may-madness-97-part-1-1997-06-06.html",
+    "note": "On the fed's cards: lost at Battle Brawl II (30 January 1997) against the other nineteen. Appears in the segments of May Madness: The Anniversary (25 May 1997)."
+   }
+  ],
+  "aka": [
+   "Mick Morton"
+  ]
+ },
+ {
+  "id": "tony-coltrane-dpw",
+  "type": "character",
+  "name": "\"Rising Son\" Tony Coltrane",
+  "caption": "A New York challenger who pushed DPW's undefeated Central Valley Champion the distance at the New Year's Bash before dropping a reversal-filled roll-up finish.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01",
+    "last_seen": "1997-01",
+    "role": "wrestler — DPW Central Valley Championship challenger",
+    "source": "The fed's own New Year's Bash broadcast (Central Valley Championship match, lost to Mr. Robinson via roll-up, with ringside interference from Chris Deugau); the fed's own 31 January 1997 newsletter, ranking him #4 (8-2-1)."
+   }
+  ]
+ },
+ {
+  "id": "daemon-dempsey-dpw",
+  "type": "character",
+  "name": "Daemon \"The Dragon\" Dempsey",
+  "caption": "DPW Network Champion by the fed's own late-January 1997 newsletter, who returned in March to call out the man who had since taken his title, The Boogieman.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01",
+    "last_seen": "1997-03",
+    "role": "wrestler — DPW Network Champion",
+    "source": "The fed's own 31 January 1997 newsletter, billing him DPW Network Champion (10-4-5); the fed's own 8 March 1997 broadcast, interrupting a Network Title defense to call out The Boogieman on camera."
+   },
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-04",
+    "last_seen": "1997-04",
+    "source": "VCW Casino Nights, 15 April 1997.",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mlwo-1998",
+    "first_seen": "1997-12-15",
+    "last_seen": "1997-12-15",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/mlwo-1998/archive/winter-inferno-97-part-1-1997-12-17.html",
+    "note": "Billed from Los Angeles, California at 6'8\" and 385 pounds, entering to \"Hey Man...Nice Shot\" by Filter to chants of Dragon; a favorite for the tournament who beat Tommy Marauder the week before. Works a full nelson, a Tiger Driver and a running Liger Bomb. On the card: won at Winter Inferno 97 (15 December 1997) against Chris Deugau; lost at Winter Inferno 97 (15 December 1997) against The Man From Heck. The page pairs Daemon \"The Dragon\" Dempsey and Tommy Marauder: Dempsey's press conference and a video recap of his win over Marauder, who had beaten him with a sign (\"Marauder did take a lot out of me, but the Dragon is still intact.\")."
+   }
+  ],
+  "aka": [
+   "Daemon “The Dragon” Dempsey",
+   "Damien Dempsey",
+   "Demps",
+   "The Dragon"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "aroku-murakami-wlw-worldleague-2003",
+     "dragon-pwa-pioneer",
+     "jim-dalton-wccw",
+     "the-dragon-nwl",
+     "the-dragon-pcw"
+    ],
+    "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+   }
+  ]
+ },
+ {
+  "id": "drac-the-raven-dravin-dpw",
+  "type": "character",
+  "name": "Drac \"The Raven\" Dravin",
+  "caption": "DPW's first Central Valley Champion, awarded the title for a 92-minute Royal Rumble stand in March 1996; still ranked among the fed's top singles wrestlers a year later, spelled both Dravin and Draven in the fed's own documents.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-03",
+    "last_seen": "1997-01",
+    "role": "wrestler — DPW Central Valley Champion (2 reigns, 1996)",
+    "source": "The fed's own 23 July 1996 title-lineage sheet (awarded the Central Valley title, 30 March 1996; a second reign 18 April - 30 May 1996, ending when he was stripped after hospitalization); the fed's own 31 January 1997 newsletter, ranking him #3 (12-3-3) and billing him 'former DPW Central Valley Champion' in a New Year's Bash tag match."
+   }
+  ]
+ },
+ {
+  "id": "brian-demas-dpw-1996",
+  "type": "character",
+  "name": "Brian Demas",
+  "caption": "Named as one half of the Midnight Riders, awarded a forfeit win on DPW's own return card of 29 November 1997 when their scheduled opponents had already left the fed.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — Midnight Riders",
+    "first_seen": "1997-11",
+    "last_seen": "1997-11",
+    "grade": "primary-source",
+    "source": "DPW's own Saturday Night FEAR broadcast, 29 November 1997, naming \"The Midnight Riders, Brian Demas and William Shryke\" directly (promotions/dpw-1996/archive/dpw-return-1997-11-29-part1.html)"
+   }
+  ]
+ },
+ {
+  "id": "william-shryke-dpw-1996",
+  "type": "character",
+  "name": "William Shryke",
+  "caption": "Named as one half of the Midnight Riders, awarded a forfeit win on DPW's own return card of 29 November 1997 when their scheduled opponents had already left the fed.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — Midnight Riders",
+    "first_seen": "1997-11",
+    "last_seen": "1997-11",
+    "grade": "primary-source",
+    "source": "DPW's own Saturday Night FEAR broadcast, 29 November 1997, naming \"The Midnight Riders, Brian Demas and William Shryke\" directly (promotions/dpw-1996/archive/dpw-return-1997-11-29-part1.html)"
+   }
+  ]
+ },
+ {
+  "id": "x-treme-dpw-1996",
+  "type": "character",
+  "name": "X-Treme",
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — Hardcore Heaven",
+    "grade": "primary-source",
+    "first_seen": "1996-05",
+    "last_seen": "1996-07",
+    "source": "DPW's own Wrestlers List (5/4/96) names X-Treme and Hardcore as the tag team Hardcore Heaven; DPW's own title-lineage sheet (23 July 1996) records Hardcore Heaven winning the DPW World Tag Team Championship from Made Out of Steel on 7/21/96."
+   }
+  ],
+  "caption": "One half of Hardcore Heaven, DPW's own World Tag Team Champions as of the fed's Motor City Madness PPV, 21 July 1996.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares an exact name with x-treme-gmwe, a 2003-era GMWE wrestler -- a different era and fed with no shared operator, roster, or date evidence. Recorded distinct per the no-auto-merge default.",
+    "with": [
+     "x-treme-gmwe"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hardcore-dpw-1996",
+  "type": "character",
+  "name": "Hardcore",
+  "tenures": [
+   {
+    "promotion": "dpw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — Hardcore Heaven",
+    "grade": "primary-source",
+    "first_seen": "1996-05",
+    "last_seen": "1996-07",
+    "source": "DPW's own Wrestlers List (5/4/96) names X-Treme and Hardcore as the tag team Hardcore Heaven; DPW's own title-lineage sheet (23 July 1996) records Hardcore Heaven winning the DPW World Tag Team Championship from Made Out of Steel on 7/21/96."
+   }
+  ],
+  "caption": "One half of Hardcore Heaven, DPW's own World Tag Team Champions as of the fed's Motor City Madness PPV, 21 July 1996.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares an exact name with hardcore, a 1998-2001 WCOTW wrestler -- a different era and fed with no shared operator, roster, or date evidence. Recorded distinct per the no-auto-merge default.",
+    "with": [
+     "hardcore"
+    ]
+   }
+  ]
+ }
+]

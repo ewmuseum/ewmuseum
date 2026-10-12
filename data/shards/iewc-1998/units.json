@@ -1,0 +1,119 @@
+[
+ {
+  "id": "the-eoa-iewc-1998",
+  "type": "unit",
+  "name": "The EOA",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "Lost the promotion's own inaugural Tag Team Title match to the Perfectly Perfect Duo.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "iewc-1998",
+    "first_seen": "1998-04",
+    "last_seen": "1998-04",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Loses the promotion's own first-ever Tag Team Title match on Saturday Night Showcase (25 April 1998)."
+   }
+  ]
+ },
+ {
+  "id": "teen-angst-iewc-1998",
+  "type": "unit",
+  "name": "Teen Angst",
+  "unit_kind": "tag-team",
+  "members": [
+   "cobain-iewc-1998",
+   "vedder-iewc-1998"
+  ],
+  "caption": "Won a four-way dance to earn a Tag Team Title shot, fought the champions to a draw, then dethroned them weeks later with a bell-ringing distraction.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 3,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 3
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "iewc-1998",
+    "first_seen": "1998-05",
+    "last_seen": "1998-07",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Wins a four-way dance and fights the champions to a double countout draw at Spring Fest 98 (31 May 1998); wins the World Tag Team Championship at Boston Massacre (27 June 1998); retains it at the promotion's own final surviving broadcast."
+   }
+  ]
+ },
+ {
+  "id": "perfectly-perfect-duo-iewc-1998",
+  "type": "unit",
+  "name": "Perfectly Perfect Duo",
+  "unit_kind": "tag-team",
+  "members": [
+   "max-studd-aicw",
+   "lance-studd-aicw"
+  ],
+  "caption": "The promotion's own first-ever World Tag Team Champions, who held the belts through a controversial draw before losing them to Teen Angst at Boston Massacre.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 3,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 3
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "iewc-1998",
+    "first_seen": "1998-04",
+    "last_seen": "1998-06",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Wins the promotion's own first-ever Tag Team Title match on Saturday Night Showcase (25 April 1998); retains against Teen Angst by double countout at Spring Fest 98 (31 May 1998); loses the titles to Teen Angst at Boston Massacre (27 June 1998)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (perfectly-perfect-duo-fwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "perfectly-perfect-duo-fwf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (perfectly-perfect-duo-neojapan-puroresu-1999); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "perfectly-perfect-duo-neojapan-puroresu-1999"
+    ]
+   }
+  ]
+ }
+]

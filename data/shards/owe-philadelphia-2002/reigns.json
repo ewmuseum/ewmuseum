@@ -1,0 +1,63 @@
+[
+  {
+    "id": "owe-philadelphia-2002-world-heavyweight-r001",
+    "title": "owe-philadelphia-2002-world-heavyweight",
+    "label": "\"2 Smooth\" Setzer Van Strife",
+    "holder": [
+      {
+        "id": "setzer-van-strife-owe-philadelphia-2002"
+      }
+    ],
+    "won": {
+      "date": "2002-12-22",
+      "precision": "exact",
+      "source": "Won a three-way ladder match at Liberty Or Death 2002, pulling down the belt over Johnny Glamour and Brian J. Blottie."
+    },
+    "lost": null,
+    "event": "liberty-or-death-2002-12-22",
+    "days": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "owe-philadelphia-2002-television-r001",
+    "title": "owe-philadelphia-2002-television",
+    "label": "\"The Walking Contradiction\" Sabbath",
+    "holder": [
+      {
+        "id": "sabbath-walking-contradiction-rspwf"
+      }
+    ],
+    "won": {
+      "date": "2002-11-24",
+      "precision": "exact",
+      "source": "Won an eleven-man battle royal at Sunday Night Impact, last eliminating Jesse Madrid."
+    },
+    "lost": {
+      "date": "2002-12-22",
+      "precision": "exact",
+      "note": "Lost to Vincenzo Sandora at Liberty Or Death 2002."
+    },
+    "event": "sunday-night-impact-2002-11-24",
+    "days": 28,
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "owe-philadelphia-2002-television-r002",
+    "title": "owe-philadelphia-2002-television",
+    "label": "Vincenzo Sandora",
+    "holder": [
+      {
+        "id": "vincenzo-sandora-owe-philadelphia-2002"
+      }
+    ],
+    "won": {
+      "date": "2002-12-22",
+      "precision": "exact",
+      "source": "Defeated champion Sabbath at Liberty Or Death 2002 with his Fahgettaboutit DDT."
+    },
+    "lost": null,
+    "event": "liberty-or-death-2002-12-22",
+    "days": null,
+    "end_how": "still-champion-at-record-end"
+  }
+]

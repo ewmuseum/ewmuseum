@@ -1,0 +1,576 @@
+[
+ {
+  "id": "davey-boy-obrien-scw-southwestern-2019",
+  "type": "character",
+  "name": "Davey-Boy O'Brien",
+  "aka": [
+   "The Solid Man with the Magic Mustache",
+   "The Scottish Terrier"
+  ],
+  "caption": "A Scottish singles wrestler managed into the SCW Lonestar Tag Team Championship by his mentor Keegan, upsetting Las Preguntas at Showdown I in a Texas Tornado grudge match.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler — SCW Lonestar Tag Team Champion (with Keegan)",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'9\"",
+    "weight": "193 lbs",
+    "alignment": "Face",
+    "hometown": "\"The Journey's End, Scotland\" (billed in reference to John O'Groats, Scotland)",
+    "finisher": "Journey's End (a modified Jim Breaks Special)",
+    "entrance_music": {
+     "title": "Baker Street",
+     "artist": "Gerry Rafferty",
+     "verbatim": "\"Baker Street\" by Gerry Rafferty"
+    },
+    "signature_moves": [
+     "Double A Spinebuster",
+     "A Square Go (three alternating European Uppercuts finished with a Discus Forearm Shiver)",
+     "Avalanche Gutbuster",
+     "Flying Elbow Drop",
+     "Land's End to John O'Groats (Coast to Coast Dropkick)",
+     "Journeyman Bomb (Splash Mountain Bomb)",
+     "Rebound Lariat",
+     "Deadlift German Suplex",
+     "Rolling Kapu Kick"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own wrestler-application bio (app019.html, held) and the federation's own served showdown1.html, winning the Lonestar Tag Team Championship alongside Keegan."
+   }
+  ]
+ },
+ {
+  "id": "keegan-scw-southwestern-2019",
+  "type": "character",
+  "name": "Keegan",
+  "caption": "A Newcastle-born wrestler and three-time Fighting Zone Champion who mentored Davey-Boy O'Brien to the SCW Lonestar Tag Team Championship at Showdown I.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "note": "The federation's own real booking-committee member of the same first name introduces himself out of character in the FAQ (\"Hello, I'm Keegan and I've been involved in this game, on and off, since 2001, mainly in angle feds\") and is never billed on-screen. This row is the on-screen wrestler only, billed \"from Newcastle, England,\" a three-time Fighting Zone Champion, Davey-Boy O'Brien's mentor and tag partner (showdown1.html).",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler — mentor to Davey-Boy O'Brien; SCW Lonestar Tag Team Champion (with Davey-Boy O'Brien)",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Newcastle, England",
+    "grade": "primary-source",
+    "source": "The federation's own served showdown1.html: \"First, from Newcastle, England... KEEGAN!\", billed \"a three time Fighting Zone Champion,\" Davey-Boy O'Brien's mentor and tag partner, his fingers previously broken by Alex Reyn.",
+    "note": "No dedicated wrestler-application page survives for this character (he is not listed on the federation's own roster.html); the tenure is sourced entirely from the federation's own show text (showdown1.html, and rampage0006.html/rampage0007.html for the build to the title match)."
+   }
+  ]
+ },
+ {
+  "id": "el-gringo-loco-scw-southwestern-2019",
+  "type": "character",
+  "name": "El Gringo Loco",
+  "caption": "Leader of the Cartel and mouthpiece of Las Preguntas, El Gringo Loco led the first Lonestar Tag Team Champions to the ring on nearly every SCW broadcast.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "el-gringo-loco-vwf-vegas-2003"
+    ],
+    "note": "VWF's El Gringo Loco (2003–2004) was a masked luchador wrestler with a bodyguard, later hosting a talk segment as Flash; SCW's, sixteen years on, is a manager leading the Cartel. The name is a stock one, and nothing connects the two."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "manager — leader of the Cartel; manager of Las Preguntas",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own Rampage broadcasts (June 2019 to January 2020) and its Showdown I supercard (8 December 2019)."
+   }
+  ]
+ },
+ {
+  "id": "ck-beretta-scw-southwestern-2019",
+  "type": "character",
+  "name": "CK Beretta",
+  "caption": "A Virginian face in the mould of Magnum T.A., CK Beretta arrived after SCW lifted its signing freeze and debuted against Billy James.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2020",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "height": "6'3\"",
+    "weight": "265 lbs",
+    "hometown": "Norge, VA",
+    "finisher": "\"The Hairtrigger\" (spinning DDT)",
+    "entrance_music": {
+     "title": "Hairtrigger",
+     "artist": "Yngwie Malmsteen",
+     "verbatim": "\"Hairtrigger\" by Yngwie Malmsteen"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app025.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "alfie-button-scw-southwestern-2019",
+  "type": "character",
+  "name": "Alfie Button",
+  "caption": "A London high-flyer finishing with a 720 DDT, Alfie Button chased the Lonestar Heavyweight Championship into the triangle match that crowned Caleb Foley.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'10\"",
+    "weight": "204 lbs",
+    "hometown": "London, England",
+    "finisher": "Season Finale (720 DDT)",
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app013.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "steve-dann-scw-southwestern-2019",
+  "type": "character",
+  "name": "\"The Fat Man\" Steve Dann",
+  "caption": "A 370-pound Louisianan, \"The Fat Man\" Steve Dann flattened SCW opponents with the Cookie Cutter.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "370 lbs",
+    "hometown": "Shreveport, Louisiana",
+    "finisher": "Cookie Cutter (Bubba Cutter)",
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (openerapp03.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "kostya-demidov-scw-southwestern-2019",
+  "type": "character",
+  "name": "\"Ubiytsa\" Kostya Demidov",
+  "caption": "A Russian-born heel living in New York, \"Ubiytsa\" Kostya Demidov joined SCW's January 2020 broadcasts with \"The Death Blow.\"",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2020",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "6'5\"",
+    "weight": "255 lbs",
+    "hometown": "Born in Russia, resides in New York, NY",
+    "finisher": "\"The Death Blow\"",
+    "entrance_music": {
+     "title": "I'm a Bad Man",
+     "artist": "Dark Country",
+     "verbatim": "\"I'm a Bad Man\" by Dark Country"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app029.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "flanagan-scw-southwestern-2019",
+  "type": "character",
+  "name": "Flanagan",
+  "caption": "Billed from \"The Local Pub,\" Flanagan finished SCW opponents with the Jägerbomb and was billed into its first Television Title gauntlet.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "durty-dutch-flanagan",
+     "erin-flanagan-team",
+     "flash-flanagan-glw"
+    ],
+    "note": "Shares only the surname Flanagan with wrestlers of other federations; nothing connects them."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'0\"",
+    "weight": "245 lbs",
+    "hometown": "The Local Pub",
+    "finisher": "Jägerbomb (Superbomb)",
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (openerapp04.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "jed-johnson-scw-southwestern-2019",
+  "type": "character",
+  "name": "Jed Johnson",
+  "caption": "A 25-year-old suplex specialist with a decade on the road, Jed Johnson worked SCW's cards through Showdown I.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2019",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "5'8\"",
+    "weight": "206 lbs",
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (openerapp02.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "john-henry-jones-scw-southwestern-2019",
+  "type": "character",
+  "name": "\"The Law\" John Henry Jones",
+  "caption": "A Luckenbach Texan in a cowboy hat and duster, \"The Law\" John Henry Jones won his SCW debut and was billed against El Principe' for the first shot at its new Television Title.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2020",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "height": "6'4\"",
+    "weight": "265 lbs",
+    "hometown": "Luckenbach, TX",
+    "style": "Old School worker",
+    "finisher": "The Head Shot (RKO)",
+    "entrance_music": {
+     "title": "The Man Comes Around",
+     "artist": "Johnny Cash",
+     "verbatim": "The Man Comes Around by Johnny Cash"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app028.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "el-principe-scw-southwestern-2019",
+  "type": "character",
+  "name": "El Principe'",
+  "caption": "A technically gifted wrestler from Mexico City, El Principe' fought his way out of SCW's dark matches into a match for the first shot at its new Television Title.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'10\"",
+    "weight": "230 lbs",
+    "hometown": "Cuauhtémoc, Mexico City, Mexico",
+    "finisher": "Crowning Moment (Quacken Driver II)",
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app012.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "alex-reyn-scw-southwestern-2019",
+  "type": "character",
+  "name": "Alex Reyn",
+  "caption": "A heel of unknown origin with a contract status nobody could pin down, Alex Reyn broke the fingers of Davey-Boy O'Brien's mentor in the build to Showdown I.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "alex-reynolds-pcw"
+    ],
+    "note": "PCW's Alex Reynolds shares only a similar name; nothing connects the two."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "6'0\"",
+    "weight": "200",
+    "hometown": "Unknown",
+    "finisher": "East Wind Cutter (lifting rolling cutter)",
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app027.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "chris-smith-scw-southwestern-2019",
+  "type": "character",
+  "name": "\"Big Kid\" Chris Smith",
+  "caption": "A 390-pound \"Big Kid\" billed from \"The Playground,\" Chris Smith finished SCW opponents with School's Out.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chris-smith-ngw"
+    ],
+    "note": "NGW's Chris Smith shares only the name; nothing connects him to SCW's \"Big Kid\"."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'6\"",
+    "weight": "390 lbs",
+    "hometown": "The Playground",
+    "finisher": "School's Out (vertical suplex side slam)",
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app011.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "joe-public-scw-southwestern-2019",
+  "type": "character",
+  "name": "Joe Public",
+  "caption": "A Lynchburg everyman managed by Plain Jane, Joe Public finished SCW opponents with Public Demand; SCW's own news listed him among the names lost after Showdown I.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2019",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'9.5\"",
+    "weight": "195.8 lbs",
+    "hometown": "Lynchburg, Virginia",
+    "finisher": "Public Demand (shoulder jawbreaker)",
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (openerapp05.html) and its own Rampage broadcasts."
+   }
+  ]
+ }
+]

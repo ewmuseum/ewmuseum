@@ -1,0 +1,88 @@
+[
+ {
+  "id": "british-bulldogs-uwf-uwow",
+  "type": "unit",
+  "name": "British Bulldogs",
+  "unit_kind": "tag-team",
+  "caption": "A one-time World Tag Team Champion in UWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "uwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "british-bulldog-faw"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which CURATION.md v96 treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Decorated-aka near-match, not identity: both this UWF-under-UWOW-banner tag team and ICWC's own \"British Bulldog\" (singular) are real-wrestler portrayals of the actual British Bulldogs (portrayal_of edges to their own external-figures rows), staged separately by two different UWOW-constellation member feds — the standard 'portrayals never merge on name alone, and never across promotions' doctrine (CURATION.md, the portrayals-and-external-figures rule), not a duplicate mint. Filed per the QA-registry-audit's decorated-aka sweep, 2026-08-28.",
+    "with": [
+     "british-bulldog-icwc"
+    ]
+   }
+  ],
+  "portrays": {
+   "figure": "british-bulldogs-real",
+   "grade": "primary-source",
+   "note": "The fed's own served title-history ledger bills this unit under the real tag team's own name."
+  },
+  "portrayal_of": "british-bulldogs-real"
+ },
+ {
+  "id": "demolition-uwf-uwow",
+  "type": "unit",
+  "name": "Demolition",
+  "unit_kind": "tag-team",
+  "caption": "A one-time United States Tag Team Champion in UWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "uwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-demolition-man-aew"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which CURATION.md v96 treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ],
+  "portrays": {
+   "figure": "demolition-real",
+   "grade": "primary-source",
+   "note": "The fed's own served title-history ledger bills this unit under the real tag team's own name."
+  },
+  "portrayal_of": "demolition-real"
+ }
+]

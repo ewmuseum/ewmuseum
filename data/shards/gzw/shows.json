@@ -1,0 +1,625 @@
+[
+  {
+    "id": "gzw-autumn-of-armageddon",
+    "type": "show",
+    "name": "Autumn of Armageddon",
+    "promotion": "gzw",
+    "page": "/promotions/gzw/archive/autumn-of-armageddon.html",
+    "collection": "0095",
+    "date": {
+      "date": "2001",
+      "precision": "circa",
+      "source": "Undated in the source; placed in the fed's early run by the roster and title context of the card itself."
+    },
+    "notes": "Nine matches: Griz retains the Deathmatch Title over Furykainne by TKO; Blackbird beats The Lion; Big Earl retains the US Title over Madd Dogg; Eturnalwolf beats Anarkyst in a Hardcore Rules match after Black Sunshine interference; Gargoyle & Hydro (Black Sunshine) retain the Tag Titles over The Hammer & Blade Runner by DQ; DevilTress wins a Deathmatch #1 contendership fatal four-way by first blood; Jake Smith becomes the new Hardcore Champion over Sadistic Sam; Commissioner Rave beats The Fro by roll-up; and in the main event Zion defeats Above Average Josh Reetz for the GZW World Heavyweight Championship, following a mystery lights-out angle and a count refereed by GZW President Mike McKane.",
+    "appearances": [
+      {
+        "who": "furykainne-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "griz-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "the-lion-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "blackbird-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "johnny-b-badd-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "madd-dogg-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "big-earl-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "eturnalwolf-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "anarkyst-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "the-hammer-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "blade-runner-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "gargoyle-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "hydro-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "renegade-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "dark-arachnid-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "devil-tress-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "jake-smith-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "sadistic-sam-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "commissioner-rave-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "the-fro-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "zion-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "above-average-josh-reetz-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "president-mike-mckane-gzw",
+        "kind": "angle",
+        "capacity": "authority"
+      },
+      {
+        "who": "lance-haven-gzw",
+        "kind": "angle",
+        "capacity": "commentary"
+      },
+      {
+        "who": "jack-oconnell-gzw",
+        "kind": "angle",
+        "capacity": "commentary"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "furykainne-gzw"
+          ],
+          [
+            "griz-gzw"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Deathmatch Title"
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "the-lion-gzw"
+          ],
+          [
+            "blackbird-gzw"
+          ]
+        ],
+        "winner_side": 1
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "madd-dogg-gzw"
+          ],
+          [
+            "big-earl-gzw"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "US Title"
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "eturnalwolf-gzw"
+          ],
+          [
+            "anarkyst-gzw"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Hardcore Rules"
+      },
+      {
+        "order": 5,
+        "sides": [
+          [
+            "the-hammer-gzw",
+            "blade-runner-gzw"
+          ],
+          [
+            "gargoyle-gzw",
+            "hydro-gzw"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Tag Titles"
+      },
+      {
+        "order": 6,
+        "sides": [
+          [
+            "johnny-b-badd-gzw"
+          ],
+          [
+            "renegade-gzw"
+          ],
+          [
+            "dark-arachnid-gzw"
+          ],
+          [
+            "devil-tress-gzw"
+          ]
+        ],
+        "winner_side": 3,
+        "stipulation": "Deathmatch #1 Contendership"
+      },
+      {
+        "order": 7,
+        "sides": [
+          [
+            "jake-smith-gzw"
+          ],
+          [
+            "sadistic-sam-gzw"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Hardcore Title"
+      },
+      {
+        "order": 8,
+        "sides": [
+          [
+            "commissioner-rave-gzw"
+          ],
+          [
+            "the-fro-gzw"
+          ]
+        ],
+        "winner_side": 0
+      },
+      {
+        "order": 9,
+        "sides": [
+          [
+            "zion-gzw"
+          ],
+          [
+            "above-average-josh-reetz-gzw"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "World Title, special referee: Commissioner Rave"
+      }
+    ]
+  },
+  {
+    "id": "gzw-dead-zone",
+    "type": "show",
+    "name": "Dead Zone",
+    "promotion": "gzw",
+    "date": {
+      "date": "2001",
+      "precision": "circa",
+      "source": "Undated in the source; the show's own commentary places it after Autumn of Armageddon (\"President McKane announced a while ago, after Autumn of Armageddon that Crucyfix would return\") and stages it on Christmas Eve — placed in the same year as Autumn of Armageddon absent a document naming the exact year."
+    },
+    "page": "/promotions/gzw/archive/dead-zone.html",
+    "collection": "0095",
+    "notes": "Seven matches: DevilTress vs. Griz in a Casket Match for the Deathmatch Title, Griz retaining after a falling casket knocks out DevilTress; Eturnalwolf beats Renegade in a No DQ Career Match after Black Sunshine's own interference, ending Renegade's career per the broadcast's own commentary; Blade Runner & Madd Dogg vs. Gargoyle & Hydro in an Inferno Match for the Tag Team Titles, Black Sunshine retaining after Madd Dogg is thrown into the flames — the same segment unmasks Black Sunshine's own \"cloaked man\" as The Lion; Blackbird beats Jake Smith in a Table Match for the Hardcore Title, set up by Black Sunshine after President McKane ejects the stable from the arena; Thane Blackout wins a five-way ladder match for the US Title over Sadistic Sam, The Hammer, Anarkyst, and Big Earl; The Fro beats Above Average Josh Reetz in a Hell in a Cell match for the World Title #1 contendership, with special referee Commissioner Rave controversially raising the cell mid-match; and in the main event, the held record's first Crucyfixion Match, Crucyfix defeats Zion for the GZW World Heavyweight Championship after Black Sunshine's own interference and a run-in by The Fro.",
+    "appearances": [
+      {
+        "who": "devil-tress-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "griz-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "eturnalwolf-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "renegade-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "blade-runner-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "madd-dogg-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "gargoyle-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "hydro-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "the-lion-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "dark-arachnid-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "blackbird-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "jake-smith-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "thane-blackout-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "sadistic-sam-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "the-hammer-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "anarkyst-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "big-earl-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "the-fro-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "above-average-josh-reetz-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "crucyfix-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "zion-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "commissioner-rave-gzw",
+        "kind": "angle",
+        "capacity": "referee"
+      },
+      {
+        "who": "president-mike-mckane-gzw",
+        "kind": "angle",
+        "capacity": "authority"
+      },
+      {
+        "who": "jinx-mania-gzw",
+        "kind": "angle",
+        "capacity": "interviewer"
+      },
+      {
+        "who": "lance-haven-gzw",
+        "kind": "angle",
+        "capacity": "commentary"
+      },
+      {
+        "who": "jack-oconnell-gzw",
+        "kind": "angle",
+        "capacity": "commentary"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "devil-tress-gzw"
+          ],
+          [
+            "griz-gzw"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Casket Match for the Deathmatch Title"
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "eturnalwolf-gzw"
+          ],
+          [
+            "renegade-gzw"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "No DQ Career Match"
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "blade-runner-gzw",
+            "madd-dogg-gzw"
+          ],
+          [
+            "gargoyle-gzw",
+            "hydro-gzw"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Inferno Match for the Tag Team Titles"
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "blackbird-gzw"
+          ],
+          [
+            "jake-smith-gzw"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Table Match for the Hardcore Title"
+      },
+      {
+        "order": 5,
+        "sides": [
+          [
+            "sadistic-sam-gzw"
+          ],
+          [
+            "the-hammer-gzw"
+          ],
+          [
+            "anarkyst-gzw"
+          ],
+          [
+            "thane-blackout-gzw"
+          ],
+          [
+            "big-earl-gzw"
+          ]
+        ],
+        "winner_side": 3,
+        "stipulation": "Ladder Match for the US Title"
+      },
+      {
+        "order": 6,
+        "sides": [
+          [
+            "above-average-josh-reetz-gzw"
+          ],
+          [
+            "the-fro-gzw"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Hell in a Cell for the World #1 Contendership, special referee: Commissioner Rave"
+      },
+      {
+        "order": 7,
+        "sides": [
+          [
+            "crucyfix-gzw"
+          ],
+          [
+            "zion-gzw"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Crucyfixion Match for the GZW World Heavyweight Championship"
+      }
+    ]
+  },
+  {
+    "id": "gzw-friday-night-fury-1",
+    "type": "show",
+    "name": "Friday Night Fury #1",
+    "promotion": "gzw",
+    "date": {
+      "date": "2000-10-27",
+      "precision": "exact",
+      "source": "Dated in the source's own text (\"Friday, October 27. 2000\") — the fed's debut episode of its flagship weekly show, per the broadcast's own closing line (\"this debut of Friday Night Fury\"). This date predates the wing's previously recorded earliest-attested window (August 2001) by nearly a year; see the promotion's own founding date."
+    },
+    "page": "/promotions/gzw/archive/friday-night-fury-1.html",
+    "collection": "0095",
+    "notes": "Five matches on the fed's own flagship debut episode: Sadistic Sam wins a three-way Hardcore Title match by submission over Eturnalwolf (with Above Average Josh Reetz also involved); Jake Smith upsets Gargoyle by first blood in 43 seconds to win the Deathmatch Title; Renegade and DevilTress each win their own opening-round GZW World Title Tournament matches, over Big Earl and Hydro respectively; and in the main event, Crucyfix and The Fro defeat Madd Dogg and Geno to win the Tag Team Titles.",
+    "appearances": [
+      {
+        "who": "eturnalwolf-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "sadistic-sam-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "above-average-josh-reetz-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "jake-smith-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "gargoyle-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "renegade-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "big-earl-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "devil-tress-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "hydro-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "madd-dogg-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "geno-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "crucyfix-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "the-fro-gzw",
+        "kind": "match"
+      },
+      {
+        "who": "lance-haven-gzw",
+        "kind": "angle",
+        "capacity": "commentary"
+      },
+      {
+        "who": "jack-oconnell-gzw",
+        "kind": "angle",
+        "capacity": "commentary"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "eturnalwolf-gzw"
+          ],
+          [
+            "sadistic-sam-gzw"
+          ],
+          [
+            "above-average-josh-reetz-gzw"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Hardcore Title"
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "jake-smith-gzw"
+          ],
+          [
+            "gargoyle-gzw"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Deathmatch Title"
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "renegade-gzw"
+          ],
+          [
+            "big-earl-gzw"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "World Title Tournament Matchup, Round 1"
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "devil-tress-gzw"
+          ],
+          [
+            "hydro-gzw"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "World Title Tournament Matchup, Round 1"
+      },
+      {
+        "order": 5,
+        "sides": [
+          [
+            "madd-dogg-gzw",
+            "geno-gzw"
+          ],
+          [
+            "crucyfix-gzw",
+            "the-fro-gzw"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Tag Team Titles"
+      }
+    ]
+  }
+]

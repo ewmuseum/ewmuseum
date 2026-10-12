@@ -1,0 +1,162 @@
+[
+ {
+  "id": "big-daddy-cool-uiw",
+  "type": "character",
+  "name": "Big Daddy Cool",
+  "caption": "One of four UIW wrestlers ordered by the fed's own president to change his name by week's end or be released, for echoing another federation's gimmick too closely.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "uiw",
+    "first_seen": "1997-08",
+    "last_seen": "1997-08",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/uiw/archive/uiw-big-announcement-1997-08-25.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "big-daddy-cool"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ticking-time-bomb-uiw",
+  "type": "character",
+  "name": "Ticking Time Bomb",
+  "caption": "One of four UIW wrestlers ordered to change his name or be released, alongside Big Daddy Cool, Smash and Warrior.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "uiw",
+    "first_seen": "1997-08",
+    "last_seen": "1997-08",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/uiw/archive/uiw-big-announcement-1997-08-25.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "cwfpro-ticking-time-bomb"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "smash-uiw",
+  "type": "character",
+  "name": "Smash",
+  "caption": "One of four UIW wrestlers ordered to change his name or be released, alongside Big Daddy Cool, Ticking Time Bomb and Warrior.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "uiw",
+    "first_seen": "1997-08",
+    "last_seen": "1997-08",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/uiw/archive/uiw-big-announcement-1997-08-25.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "sergeant-smash",
+     "smash-icwc",
+     "smash-uwow",
+     "smash-xwf-uwow"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "warrior-uiw",
+  "type": "character",
+  "name": "Warrior",
+  "caption": "One of four UIW wrestlers ordered to change his name or be released, alongside Big Daddy Cool, Ticking Time Bomb and Smash.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "uiw",
+    "first_seen": "1997-08",
+    "last_seen": "1997-08",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/uiw/archive/uiw-big-announcement-1997-08-25.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "euwc-warrior",
+     "warrior-wcotw"
+    ]
+   }
+  ]
+ }
+]

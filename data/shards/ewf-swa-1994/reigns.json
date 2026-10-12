@@ -1,0 +1,138 @@
+[
+ {
+  "id": "ewf-swa-1994-television-r001",
+  "title": "ewf-swa-1994-television",
+  "label": "\"The Star Spangled Kid\" Johnny Banner",
+  "holder": [
+   {
+    "name": "\"The Star Spangled Kid\" Johnny Banner",
+    "unminted": true
+   }
+  ],
+  "collection": "0148",
+  "won": {
+   "date": "1995-04-11",
+   "precision": "exact",
+   "source": "The fed's own 20 April 1995 rankings bulletin (read, not served): \"TELEVISION SINGLES CHAMPION: --'THE STAR SPANGLED KID' JOHNNY BANNER-- (defeated Electric Youth, Ground-Zero, 4/11/95).\""
+  },
+  "how": "Defeated The Electric Youth at Ground-Zero, 11 April 1995.",
+  "note": "Not structured as a show in this wing's own shows.json; cited from the fed's own read-not-served rankings bulletin.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewf-swa-1994-television-r002",
+  "title": "ewf-swa-1994-television",
+  "label": "Dai Kaiju",
+  "holder": [
+   {
+    "id": "dai-kaiju-ewf-swa-1994"
+   }
+  ],
+  "collection": "0148",
+  "won": {
+   "date": "1996",
+   "precision": "unknown",
+   "source": "No title-change document survives; already billed EWF Television Champion, managed by Dr. Dragon, when the fed's own last recovered broadcast opens (~March 1996)."
+  },
+  "how": "Title change not recorded; held it by the fed's own last recovered broadcast.",
+  "end_how": "still-champion-at-record-end",
+  "note": "Retained the title against Hulk Hurley on the fed's own last recovered broadcast when a masked interloper's run-in stopped the match with no fall recorded; still champion when the surviving record breaks off."
+ },
+ {
+  "id": "ewf-swa-1994-intercontinental-r001",
+  "title": "ewf-swa-1994-intercontinental",
+  "label": "\"Stingray\" Steve Fontaine",
+  "holder": [
+   {
+    "name": "\"Stingray\" Steve Fontaine",
+    "unminted": true
+   }
+  ],
+  "collection": "0148",
+  "won": {
+   "date": "1995",
+   "precision": "unknown",
+   "source": "No title-win document survives; already champion by the fed's own 20 April 1995 rankings bulletin (read, not served), successfully defending against Johnny Sumbu at Shockwave (28 Feb 1995) and Championship Collision (25 Mar 1995), with one intervening non-title-affecting count-out loss to Sumbu at Ground-Zero (7 Mar 1995)."
+  },
+  "how": "Title win not recorded; held it through the fed's own 20 April 1995 bulletin.",
+  "note": "No document records the loss of this title; William the Conqueror held it instead by the fed's own last recovered broadcast.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewf-swa-1994-intercontinental-r002",
+  "title": "ewf-swa-1994-intercontinental",
+  "label": "William the Conqueror",
+  "holder": [
+   {
+    "id": "william-the-conqueror-ewf-swa-1994"
+   }
+  ],
+  "collection": "0148",
+  "won": {
+   "date": "1995",
+   "precision": "unknown",
+   "source": "No title-change document survives; already billed EWF Intercontinental Champion when the fed's own last recovered broadcast opens (~March 1996)."
+  },
+  "how": "Title change not recorded; held it by the fed's own last recovered broadcast.",
+  "end_how": "still-champion-at-record-end",
+  "note": "Retained the title against The Electric Youth on the fed's own last recovered broadcast despite losing the match by count-out (a count-out does not change the title); still champion when the surviving record breaks off."
+ },
+ {
+  "id": "ewf-swa-1994-six-man-tag-r002",
+  "title": "ewf-swa-1994-six-man-tag",
+  "label": "Asylum",
+  "holder": [
+   {
+    "id": "asylum-ewf-swa-1994"
+   }
+  ],
+  "collection": "0148",
+  "won": {
+   "date": "1995",
+   "precision": "unknown",
+   "source": "No title-change document survives; already billed EWF World Six-Man Tag Team Champions, managed by Dr. Daniel Shinn, when the fed's own last recovered broadcast opens (~March 1996)."
+  },
+  "how": "Title change not recorded; held it by the fed's own last recovered broadcast.",
+  "end_how": "lost-in-match",
+  "note": "Lost the titles to the debuting Beijing Beauties on the fed's own last recovered broadcast."
+ },
+ {
+  "id": "ewf-swa-1994-six-man-tag-r001",
+  "title": "ewf-swa-1994-six-man-tag",
+  "label": "Madhouse Wrestling",
+  "holder": [
+   {
+    "name": "Madhouse Wrestling",
+    "unminted": true
+   }
+  ],
+  "collection": "0148",
+  "won": {
+   "date": "1995-04-11",
+   "precision": "exact",
+   "source": "The fed's own 20 April 1995 rankings bulletin (read, not served): \"6-MAN TAG TEAM CHAMPIONS: --MADHOUSE WRESTLING-- (defeated Graveyard Shift, Ground-Zero, 4/11/95).\""
+  },
+  "how": "Defeated Graveyard Shift at Ground-Zero, 11 April 1995.",
+  "note": "Not structured as a show in this wing's own shows.json; cited from the fed's own read-not-served rankings bulletin.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewf-swa-1994-six-man-tag-r003",
+  "title": "ewf-swa-1994-six-man-tag",
+  "label": "Beijing Beauties",
+  "holder": [
+   {
+    "id": "beijing-beauties-ewf-swa-1994"
+   }
+  ],
+  "collection": "0148",
+  "won": {
+   "date": "1996-03",
+   "precision": "circa",
+   "source": "promotions/ewf-swa-1994/archive/ewf-weekend-wetworks-1996-03.html: won via pinfall at 18:36, \"The Beautification\" (a triple-team finishing combination), on debut."
+  },
+  "how": "Defeated Asylum via pinfall on debut, ~March 1996.",
+  "end_how": "still-champion-at-record-end",
+  "note": "Still champions when the surviving record breaks off."
+ }
+]

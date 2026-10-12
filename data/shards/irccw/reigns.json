@@ -1,0 +1,140 @@
+[
+  {
+    "id": "irccw-world-heavyweight-r001",
+    "title": "irccw-world-heavyweight",
+    "label": "Triple H",
+    "holder": [
+      {
+        "name": "Triple H",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1996",
+      "precision": "year",
+      "source": "Named by the color commentator on the IRCCWMania II broadcast as the fed's first-ever World Heavyweight Champion, won in a battle royal at Fight For The Titles '96, last eliminating Ahmed Johnson."
+    },
+    "how": "Won a battle royal at the fed's own inaugural PPV.",
+    "end_how": "lost-in-match",
+    "note": "Not otherwise dated or evidenced in this delta's own served documents."
+  },
+  {
+    "id": "irccw-world-heavyweight-r002",
+    "title": "irccw-world-heavyweight",
+    "label": "Stone Cold Steve Austin",
+    "holder": [
+      {
+        "name": "Stone Cold Steve Austin",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Already champion at the fed's own earliest surviving 1997 broadcast."
+    },
+    "event": "irccw-irccwmania-ii-1997-05-20",
+    "how": "Already champion when the held record opens; retained against Hollywood Hulk Hogan at IRCCWMania II, 20 May 1997, in a match run in from another wrestler's interference.",
+    "end_how": "still-champion-at-record-end",
+    "note": "A real-wrestler portrayal; holder left unminted pending the coordinator's fold-time mint against external-figures.json."
+  },
+  {
+    "id": "irccw-north-american-heavyweight-r002",
+    "title": "irccw-north-american-heavyweight",
+    "label": "Chris Benoit",
+    "holder": [
+      {
+        "name": "Chris Benoit",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-05-20",
+      "precision": "exact",
+      "source": "IRCCWMania II's own steel-cage War Match, won by Benoit in 35:26 with the Doctor Bomb."
+    },
+    "event": "irccw-irccwmania-ii-1997-05-20",
+    "how": "Defeated Scott Hall in a steel-cage War Match.",
+    "end_how": "still-champion-at-record-end",
+    "note": "A real-wrestler portrayal; holder left unminted pending the coordinator's fold-time mint against external-figures.json."
+  },
+  {
+    "id": "irccw-north-american-heavyweight-r001",
+    "title": "irccw-north-american-heavyweight",
+    "label": "Scott Hall",
+    "holder": [
+      {
+        "name": "Scott Hall",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Already champion at the fed's own earliest surviving 1997 broadcast."
+    },
+    "how": "Already champion when this collection's record opens; not a title-change in this corpus.",
+    "end_how": "lost-in-match",
+    "note": "A real-wrestler portrayal; holder left unminted pending the coordinator's fold-time mint against external-figures.json."
+  },
+  {
+    "id": "irccw-cruiserweight-r001",
+    "title": "irccw-cruiserweight",
+    "label": "Hakushi",
+    "holder": [
+      {
+        "name": "Hakushi",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-05-20",
+      "precision": "exact",
+      "source": "IRCCWMania II's own three-ladder match, retained by Hakushi in 41:56 -- the broadcast team calls it his second reign."
+    },
+    "event": "irccw-irccwmania-ii-1997-05-20",
+    "how": "Retained in a three-way ladder match.",
+    "end_how": "still-champion-at-record-end",
+    "note": "The first reign this ties is not otherwise dated or evidenced in this delta's own served documents."
+  },
+  {
+    "id": "irccw-world-tag-team-r001",
+    "title": "irccw-world-tag-team",
+    "label": "Harlem Heat",
+    "holder": [
+      {
+        "name": "Harlem Heat",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Named as champions, having beaten the Elite Mob for the titles at the fed's prior PPV (not held in the held record)."
+    },
+    "event": "irccw-irccwmania-ii-1997-05-20",
+    "how": "Won from the Elite Mob at an earlier PPV not in the held record.",
+    "end_how": "still-champion-at-record-end",
+    "note": "Retained against The Gangstas at IRCCWMania II, 20 May 1997, in 18:15."
+  },
+  {
+    "id": "irccw-continental-tag-team-r001",
+    "title": "irccw-continental-tag-team",
+    "label": "The Eliminators (Kronus & Saturn)",
+    "holder": [
+      {
+        "name": "The Eliminators (Kronus & Saturn)",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-05-20",
+      "precision": "exact",
+      "source": "IRCCWMania II's own inaugural title match, a Philadelphia street fight won by Saturn's pinfall in 27:53."
+    },
+    "event": "irccw-irccwmania-ii-1997-05-20",
+    "how": "Won the title's first-ever match, defeating Deadly Force (Big Bubba Rogers & Bam Bam Bigelow).",
+    "end_how": "still-champion-at-record-end",
+    "note": "A real-wrestler-portrayal unit; holder left unminted pending the coordinator's fold-time mint against external-figures.json."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "landslide-incwcw",
+    "type": "character",
+    "name": "Landslide",
+    "tenures": [
+      {
+        "promotion": "incwcw",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-05-04",
+        "last_seen": "1997-05-04",
+        "source": "promotions/incwcw/archive/incwcw-control-center-1997-05-04-roster.html"
+      }
+    ],
+    "caption": "One of the fed's own three signed wrestlers, ranked joint-first at 0-0 before its only card was ever confirmed to run.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "lightning-kid-incwcw",
+    "type": "character",
+    "name": "Lightning Kid",
+    "tenures": [
+      {
+        "promotion": "incwcw",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-05-04",
+        "last_seen": "1997-05-04",
+        "source": "promotions/incwcw/archive/incwcw-control-center-1997-05-04-roster.html"
+      }
+    ],
+    "caption": "One of the fed's own three signed wrestlers, ranked joint-first at 0-0 before its only card was ever confirmed to run.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-black-knight-incwcw",
+    "type": "character",
+    "name": "The Black Knight",
+    "tenures": [
+      {
+        "promotion": "incwcw",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-05-04",
+        "last_seen": "1997-05-04",
+        "source": "promotions/incwcw/archive/incwcw-control-center-1997-05-04-roster.html"
+      }
+    ],
+    "caption": "One of the fed's own three signed wrestlers, ranked joint-first at 0-0 before its only card was ever confirmed to run.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-black-knight-summit"
+        ],
+        "note": "An exact bare-name collision against a different fed's own 1991 ring name of the same generic archetype. No document on either side names the other fed or claims a shared performer; slug qualified per the generic-name minting convention. Filed distinct pending evidence."
+      }
+    ]
+  }
+]

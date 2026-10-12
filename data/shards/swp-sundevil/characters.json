@@ -1,0 +1,228 @@
+[
+ {
+  "id": "robert-lee-swp",
+  "type": "character",
+  "name": "Robert Lee",
+  "caption": "One of four wrestlers billed for the SWP's own four-way match to crown its first World Heavyweight Champion at Back to Skool Brawl, played in the show's own pre-match promo as a bitter former nursing-home orderly turned indy-circuit veteran.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name with robert-lee-wwa (WWA's own 2006 tag-team debutant, billed \"Bull\"). Different era, different fed, different gimmick (an indy-circuit singles veteran here vs. a 2006 tag debutant there); no shared operator, roster, or crossover document found — a bare name match is not evidence of a join under the identity-join test, so this stays distinct pending any actual corroboration.",
+    "with": [
+     "robert-lee-wwa"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "swp-sundevil",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — billed for the SWP World Heavyweight Championship four-way",
+    "first_seen": "1998-09",
+    "last_seen": "1998-09",
+    "source": "SWP's own \"Back to Skool Brawl: Free For All\" segment (msg_id Sos4gyTw1OUJ, 20 September 1998): self-billed as a 12-year APwC veteran and former CROW wrestler."
+   }
+  ]
+ },
+ {
+  "id": "christian-york-swp",
+  "type": "character",
+  "name": "Christian York",
+  "caption": "\"The Charismatic One,\" billed for the SWP's own four-way World Heavyweight Championship match on the strength of an undefeated EMWO World Heavyweight Championship run.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "swp-sundevil",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — billed for the SWP World Heavyweight Championship four-way",
+    "first_seen": "1998-09",
+    "last_seen": "1998-09",
+    "source": "SWP's own \"Back to Skool Brawl: Free For All\" segment (msg_id Sos4gyTw1OUJ, 20 September 1998): self-billed as the former undefeated EMWO World Heavyweight Champion."
+   }
+  ]
+ },
+ {
+  "id": "paul-dare-swp",
+  "type": "character",
+  "name": "\"Flamboyant\" Paul Dare",
+  "caption": "Billed as the reigning CROW World Heavyweight Champion, one of four wrestlers in the SWP's own World Heavyweight Championship four-way at Back to Skool Brawl.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "swp-sundevil",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — billed for the SWP World Heavyweight Championship four-way",
+    "first_seen": "1998-09",
+    "last_seen": "1998-09",
+    "source": "SWP's own \"Back to Skool Brawl: Free For All\" segment (msg_id Sos4gyTw1OUJ, 20 September 1998): billed as the reigning CROW World Heavyweight Champion."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (paul-dare-emwo); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "paul-dare-emwo"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lawrence-williams-swp",
+  "type": "character",
+  "name": "\"Confident\" Lawrence Williams",
+  "caption": "Billed as the EMWO's own former head, one of four wrestlers in the SWP's own World Heavyweight Championship four-way at Back to Skool Brawl.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "swp-sundevil",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — billed for the SWP World Heavyweight Championship four-way",
+    "first_seen": "1998-09",
+    "last_seen": "1998-09",
+    "source": "SWP's own \"Back to Skool Brawl: Free For All\" segment (msg_id Sos4gyTw1OUJ, 20 September 1998): named by Christian York's own promo as the man who gave York his break in the EMWO."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (confident-lawrence-williams-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "confident-lawrence-williams-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "richard-siegel-swp",
+  "type": "character",
+  "name": "Richard Siegel",
+  "caption": "One half of the SWP's own commentary team, billed as a former EWO commentator who kept his job when the EWO merged into the SWP.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "swp-sundevil",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "1998-09",
+    "last_seen": "1998-09",
+    "source": "SWP's own \"Back to Skool Brawl: Free For All\" segment (msg_id Sos4gyTw1OUJ, 20 September 1998)."
+   },
+   {
+    "promotion": "kni-1998",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "1999-02-23",
+    "last_seen": "1999-02-23",
+    "source": "Called the tournament's second-edition broadcast on 23 February 1999 alongside Sam Poteet."
+   }
+  ]
+ },
+ {
+  "id": "sam-poteet-swp",
+  "type": "character",
+  "name": "Sam Poteet",
+  "caption": "One half of the SWP's own commentary team, billed as a former EWO commentator who kept his job when the EWO merged into the SWP.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "swp-sundevil",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "1998-09",
+    "last_seen": "1998-09",
+    "source": "SWP's own \"Back to Skool Brawl: Free For All\" segment (msg_id Sos4gyTw1OUJ, 20 September 1998)."
+   },
+   {
+    "promotion": "kni-1998",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "1999-02-23",
+    "last_seen": "1999-02-23",
+    "source": "Called the tournament's second-edition broadcast on 23 February 1999 alongside Richard Siegel."
+   }
+  ]
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": "satans-minions-cpw",
+  "type": "unit",
+  "name": "Satan's Minions",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "cpw",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "other — wrestlers",
+    "source": "promotions/cpw/archive/saturday-night-drop-zone-1997-10-12-2-of-2.html"
+   }
+  ],
+  "caption": "Blackblood and Archangel, crowned CPW's Virginia Tag Team Champions in a three-way over the Turbanators and the Activists From Hell.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Blackblood",
+    "character_id": "blackblood-cpw"
+   },
+   {
+    "name": "Archangel",
+    "character_id": "archangel-cpw"
+   }
+  ]
+ }
+]

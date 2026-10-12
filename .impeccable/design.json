@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-03T23:11:33+00:00",
+  "title": "Design System: THE E-WRESTLING MUSEUM",
+  "extensions": {
+    "colorMeta": {
+      "arena-dark": {
+        "role": "neutral",
+        "displayName": "Arena Dark",
+        "canonical": "#141210",
+        "cssVar": "--bg",
+        "oklch": "oklch(18.4% 0.005 67.5)",
+        "tonalRamp": [
+          "#0d0b09",
+          "#262421",
+          "#423f3d",
+          "#605d5b",
+          "#7f7d7a",
+          "#a19e9b",
+          "#c6c3c1",
+          "#f1eeeb"
+        ]
+      },
+      "apron-dark": {
+        "role": "neutral",
+        "displayName": "Apron Dark",
+        "canonical": "#1b1815",
+        "cssVar": "--bg-2",
+        "oklch": "oklch(21.1% 0.007 67.4)",
+        "tonalRamp": [
+          "#0d0b08",
+          "#272320",
+          "#423f3c",
+          "#615d59",
+          "#807c79",
+          "#a29e9a",
+          "#c7c3bf",
+          "#f2eee9"
+        ]
+      },
+      "ring-apron": {
+        "role": "neutral",
+        "displayName": "Ring Apron",
+        "canonical": "#221e1a",
+        "cssVar": "--bg-3",
+        "oklch": "oklch(23.8% 0.010 67.3)",
+        "tonalRamp": [
+          "#0e0a07",
+          "#27231f",
+          "#433f3a",
+          "#615d58",
+          "#817c77",
+          "#a39d98",
+          "#c8c3be",
+          "#f3ede8"
+        ]
+      },
+      "blackout": {
+        "role": "neutral",
+        "displayName": "Blackout",
+        "canonical": "#0f0d0b",
+        "cssVar": "--canvas",
+        "oklch": "oklch(16.1% 0.005 67.4)",
+        "tonalRamp": [
+          "#0d0b09",
+          "#262421",
+          "#423f3d",
+          "#605d5a",
+          "#7f7d7a",
+          "#a19e9b",
+          "#c6c3c0",
+          "#f1eeeb"
+        ]
+      },
+      "program-paper": {
+        "role": "neutral",
+        "displayName": "Program Paper",
+        "canonical": "#e9e2d4",
+        "cssVar": "--ink",
+        "oklch": "oklch(91.4% 0.020 84.6)",
+        "tonalRamp": [
+          "#0f0a03",
+          "#292319",
+          "#453f34",
+          "#635d51",
+          "#837d70",
+          "#a49e91",
+          "#cac3b6",
+          "#f5eee0"
+        ]
+      },
+      "faded-program": {
+        "role": "neutral",
+        "displayName": "Faded Program",
+        "canonical": "#c3b9a6",
+        "cssVar": "--ink-soft",
+        "oklch": "oklch(78.9% 0.029 83.5)",
+        "tonalRamp": [
+          "#110a01",
+          "#2b2314",
+          "#473f2e",
+          "#655c4b",
+          "#857c6a",
+          "#a79d8b",
+          "#cdc3b0",
+          "#f8edd9"
+        ]
+      },
+      "spotlight-paper": {
+        "role": "neutral",
+        "displayName": "Spotlight Paper",
+        "canonical": "#f3ecdd",
+        "cssVar": "--ink-bright",
+        "oklch": "oklch(94.5% 0.021 85.9)",
+        "tonalRamp": [
+          "#0f0a03",
+          "#292318",
+          "#453f33",
+          "#635d50",
+          "#837d6f",
+          "#a49e90",
+          "#cac3b5",
+          "#f5eedf"
+        ]
+      },
+      "cheap-seats": {
+        "role": "neutral",
+        "displayName": "Cheap Seats",
+        "canonical": "#938a7b",
+        "cssVar": "--muted",
+        "oklch": "oklch(63.7% 0.024 80.6)",
+        "tonalRamp": [
+          "#100a02",
+          "#2a2316",
+          "#463f31",
+          "#655c4e",
+          "#857c6d",
+          "#a69d8e",
+          "#ccc3b3",
+          "#f7eddd"
+        ]
+      },
+      "ring-rope": {
+        "role": "neutral",
+        "displayName": "Ring Rope",
+        "canonical": "#332d25",
+        "cssVar": "--line",
+        "oklch": "oklch(30.1% 0.016 75.0)",
+        "tonalRamp": [
+          "#0f0a04",
+          "#29231b",
+          "#453f36",
+          "#635c54",
+          "#837c73",
+          "#a59d93",
+          "#cbc3b9",
+          "#f5ede3"
+        ]
+      },
+      "top-rope": {
+        "role": "neutral",
+        "displayName": "Top Rope",
+        "canonical": "#453d31",
+        "cssVar": "--line-2",
+        "oklch": "oklch(36.5% 0.023 77.9)",
+        "tonalRamp": [
+          "#100a02",
+          "#2a2318",
+          "#463e32",
+          "#655c50",
+          "#857c6f",
+          "#a69d8f",
+          "#ccc3b4",
+          "#f7edde"
+        ]
+      },
+      "belt-gold": {
+        "role": "primary",
+        "displayName": "Belt Gold",
+        "canonical": "#c8a24b",
+        "cssVar": "--brass",
+        "oklch": "oklch(73.0% 0.114 85.6)",
+        "tonalRamp": [
+          "#110a00",
+          "#2f2201",
+          "#513c02",
+          "#765800",
+          "#9c7716",
+          "#be9941",
+          "#e5bf68",
+          "#feedc7"
+        ]
+      },
+      "champions-gold": {
+        "role": "primary",
+        "displayName": "Champion's Gold",
+        "canonical": "#e2c273",
+        "cssVar": "--brass-bright",
+        "oklch": "oklch(82.5% 0.105 88.0)",
+        "tonalRamp": [
+          "#110a00",
+          "#2f2200",
+          "#503d01",
+          "#745a03",
+          "#977926",
+          "#ba9b4b",
+          "#e0c071",
+          "#feedc4"
+        ]
+      },
+      "retired-gold": {
+        "role": "primary",
+        "displayName": "Retired Gold",
+        "canonical": "#a2833e",
+        "cssVar": "--brass-dim",
+        "oklch": "oklch(60.7% 0.096 85.9)",
+        "tonalRamp": [
+          "#110a00",
+          "#2f2201",
+          "#513c00",
+          "#765907",
+          "#977932",
+          "#b99a55",
+          "#e0c07a",
+          "#ffedc6"
+        ]
+      },
+      "turnbuckle-rust": {
+        "role": "secondary",
+        "displayName": "Turnbuckle Rust",
+        "canonical": "#c67149",
+        "cssVar": "--rust",
+        "oklch": "oklch(58.5% 0.120 45.2)",
+        "tonalRamp": [
+          "#190400",
+          "#401500",
+          "#6a2901",
+          "#934319",
+          "#b7643c",
+          "#dc855d",
+          "#ffae89",
+          "#ffeae0"
+        ]
+      },
+      "green-room": {
+        "role": "tertiary",
+        "displayName": "Green Room",
+        "canonical": "#4a9c6d",
+        "cssVar": "--ai-green",
+        "oklch": "oklch(62.8% 0.108 156.2)",
+        "tonalRamp": [
+          "#000f05",
+          "#012d17",
+          "#024d2b",
+          "#146f43",
+          "#3e9062",
+          "#61b382",
+          "#87d9a7",
+          "#c4ffd9"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The one page title (bare h1) on every page type."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section heads, ruled underneath."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Sub-sections and card names."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "Intro paragraphs; the italic gold subtitle shares its size."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Prose in the 760px column; 17px under 560px."
+      },
+      "body-row": {
+        "displayName": "Row",
+        "purpose": "Every dense list row and table cell, one size sitewide."
+      },
+      "body-sm": {
+        "displayName": "Small",
+        "purpose": "Meta prose, notes, inputs."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Mono, uppercase, tracked: kickers, nav, crumbs, table headers, dates."
+      },
+      "label-sm": {
+        "displayName": "Label small",
+        "purpose": "Placard labels, captions, chips."
+      },
+      "wordmark": {
+        "displayName": "Wordmark",
+        "purpose": "The logotype only; exempt from both scales."
+      },
+      "document": {
+        "displayName": "Document",
+        "purpose": "Served verbatim texts, pre-wrap; 12px under 560px."
+      }
+    },
+    "shadows": [],
+    "elevation": {
+      "model": "flat",
+      "depth": "tonal layering (Blackout < Arena Dark < Apron Dark < Ring Apron), hairlines, 2-3px left edges",
+      "light": "radial-gradient(120% 60% at 50% -10%, rgba(200,162,75,0.06) 0%, transparent 55%) fixed behind every page; a 4% gold gradient under the masthead"
+    },
+    "motion": [],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "560px",
+        "purpose": "max-width: body 17px, 18px gutters, grids to one column, pager stacks, documents 12px"
+      }
+    ],
+    "themes": {
+      "default": "auto (follows prefers-color-scheme until the visitor chooses; no script: the device decides)",
+      "switch": "House lights: down (dark, chosen) / up (light) / auto (prefers-color-scheme); <html data-theme>, localStorage key museum-house-lights, js/theme.js in <head>",
+      "light": {
+        "--bg": "#f2ecdf",
+        "--bg-2": "#e9e1d1",
+        "--bg-3": "#f8f4ea",
+        "--canvas": "#d9cfbc",
+        "--ink": "#2a2219",
+        "--ink-soft": "#4b4134",
+        "--ink-bright": "#16110b",
+        "--muted": "#6b6151",
+        "--line": "#d8ceba",
+        "--line-2": "#c3b69c",
+        "--brass": "#78591a",
+        "--brass-bright": "#5c440f",
+        "--brass-dim": "#735b22",
+        "--rust": "#9c4a24",
+        "--ai-green": "#2b7049",
+        "--on-brass": "#fff"
+      }
+    }
+  },
+  "components": [
+    {
+      "name": "Placard",
+      "kind": "card",
+      "refersTo": "placard",
+      "description": "The museum label: a fact panel with a gold left edge.",
+      "html": "<div class=\"ds-placard\"><span class=\"ds-placard-label\">On the record</span><p>Twelve title reigns across three promotions, 1998 to 2007.</p></div>",
+      "css": ".ds-placard{background:var(--bg-3,#221e1a);border:1px solid var(--line,#332d25);border-left:2px solid var(--brass-dim,#9c7e38);border-radius:var(--radius,3px);padding:20px 24px;color:var(--ink,#e9e2d4);font-family:Georgia,'Iowan Old Style',Palatino,serif;font-size:18px;line-height:1.65}.ds-placard p{margin:0}.ds-placard-label{display:block;font-family:'IBM Plex Mono',ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--brass-dim,#9c7e38);margin-bottom:8px}"
+    },
+    {
+      "name": "Curator's note",
+      "kind": "card",
+      "refersTo": "note",
+      "description": "A curation or provenance flag: rust edge, rust label, small text.",
+      "html": "<div class=\"ds-note\"><span class=\"ds-flag\">Sources disagree</span><p>The fed's history dates this win a day before the show that holds it.</p></div>",
+      "css": ".ds-note{border:1px solid var(--line-2,#453d31);border-left:2px solid var(--rust,#b5623a);background:rgba(181,98,58,.05);border-radius:var(--radius,3px);padding:16px 20px;font-family:Georgia,'Iowan Old Style',Palatino,serif;font-size:14px;color:var(--ink-soft,#c3b9a6)}.ds-note p{margin:0}.ds-flag{display:block;font-family:'IBM Plex Mono',ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--rust,#b5623a);margin-bottom:8px}"
+    },
+    {
+      "name": "Ledger table",
+      "kind": "custom",
+      "refersTo": "ledger",
+      "description": "Title reigns and dense rows: mono gold headers, hairline rows, the current holder in gold.",
+      "html": "<table class=\"ds-ledger\"><thead><tr><th>Champion</th><th>Won</th><th class=\"num\">Days</th></tr></thead><tbody><tr><td class=\"holder\">Jim Dudley</td><td>CyberSlam '98</td><td class=\"num\">63</td></tr><tr class=\"current\"><td class=\"holder\">Ice</td><td>Hotter Than Hell</td><td class=\"num\">41</td></tr></tbody></table>",
+      "css": ".ds-ledger{border-collapse:collapse;width:100%;font-family:Georgia,'Iowan Old Style',Palatino,serif;font-size:16px;line-height:1.6;color:var(--ink-soft,#c3b9a6)}.ds-ledger th,.ds-ledger td{text-align:left;padding:9px 16px 9px 0;border-bottom:1px solid var(--line,#332d25);vertical-align:top}.ds-ledger thead th{font-family:'IBM Plex Mono',ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--brass-dim,#9c7e38);border-bottom-color:var(--line-2,#453d31);font-weight:600}.ds-ledger td.holder{color:var(--ink,#e9e2d4);font-weight:600}.ds-ledger .num{font-variant-numeric:tabular-nums;color:var(--muted,#938a7b)}.ds-ledger tr.current td{color:var(--brass,#c8a24b)}.ds-ledger tr.current td.holder{color:var(--brass-bright,#e2c273)}"
+    },
+    {
+      "name": "Roster card with directory chips",
+      "kind": "card",
+      "refersTo": "roster-card",
+      "description": "An index row: name, mono handle line with pill chips (solid tier stamp, bold years, gold medium).",
+      "html": "<div class=\"ds-roster\"><h3>PTC</h3><span class=\"ds-handle\"><span class=\"ds-chip ds-chip-tier\">Tier 1</span><span class=\"ds-chip ds-chip-medium\">message board</span><span class=\"ds-chip ds-chip-years\">2002–2009</span></span><p class=\"ds-caption\">A board-run promotion that carried its cast through four rebrands.</p></div>",
+      "css": ".ds-roster{background:var(--bg-3,#221e1a);border:1px solid var(--line,#332d25);border-left:2px solid var(--brass-dim,#9c7e38);border-radius:var(--radius,3px);padding:16px 20px;color:var(--ink,#e9e2d4);font-family:Georgia,'Iowan Old Style',Palatino,serif}.ds-roster h3{margin:0;font-size:20px;font-weight:600;line-height:1.2}.ds-handle{display:block;margin:2px 0 12px;font-family:'IBM Plex Mono',ui-monospace,Menlo,monospace;font-size:11px;letter-spacing:.12em}.ds-chip{display:inline-block;padding:1px 8px;margin:0 6px 4px 0;border:1px solid var(--line,#332d25);border-radius:999px;letter-spacing:.08em;color:var(--muted,#938a7b);white-space:nowrap;text-transform:uppercase}.ds-chip-tier{background:var(--ink,#e9e2d4);color:var(--bg,#141210);border-color:var(--ink,#e9e2d4);font-weight:600;letter-spacing:.06em}.ds-chip-medium{color:var(--brass-dim,#9c7e38);border-color:var(--brass-dim,#9c7e38)}.ds-chip-years{color:var(--ink,#e9e2d4);border-color:var(--ink-soft,#c3b9a6);font-weight:600}.ds-caption{margin:8px 0 0;font-size:16px;color:var(--ink-soft,#c3b9a6)}"
+    },
+    {
+      "name": "Verbatim document",
+      "kind": "custom",
+      "refersTo": "document",
+      "description": "A served source text: mono block on the raised panel, its own line breaks kept.",
+      "html": "<div><div class=\"ds-doc-date\">Posted 24 April 1998</div><div class=\"ds-document\">CYBERSLAM '98 RESULTS\n\nJim Dudley def. Death to win the vacant\nfWo World Title.</div></div>",
+      "css": ".ds-doc-date{font-family:'IBM Plex Mono',ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:.12em;color:var(--brass-dim,#9c7e38);text-transform:uppercase;margin-bottom:4px}.ds-document{white-space:pre-wrap;overflow-wrap:break-word;font-family:'IBM Plex Mono',ui-monospace,Menlo,monospace;font-size:14px;line-height:1.75;color:var(--ink-soft,#c3b9a6);background:var(--bg-2,#1b1815);border:1px solid var(--line,#332d25);border-radius:var(--radius,3px);padding:24px}"
+    },
+    {
+      "name": "Filter input",
+      "kind": "input",
+      "refersTo": "filter-input",
+      "description": "The search/filter field every index page shares.",
+      "html": "<input class=\"ds-filter\" type=\"search\" placeholder=\"Search characters\" aria-label=\"Search characters\">",
+      "css": ".ds-filter{font-family:Georgia,'Iowan Old Style',Palatino,serif;font-size:16px;padding:9px 12px;width:100%;max-width:360px;background:var(--bg-2,#1b1815);color:var(--ink,#e9e2d4);border:1px solid var(--line-2,#453d31);border-radius:var(--radius,3px)}.ds-filter::placeholder{color:var(--muted,#938a7b)}.ds-filter:focus-visible{outline:1px solid var(--brass,#c8a24b);outline-offset:1px;border-color:var(--brass-dim,#9c7e38)}"
+    },
+    {
+      "name": "Gallery navigation",
+      "kind": "nav",
+      "refersTo": "nav-link",
+      "description": "The masthead nav: mono uppercase, muted at rest, gold for the current page.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#\">Wings</a><a href=\"#\" class=\"here\">Characters</a><a href=\"#\">Shows</a><a href=\"#\">In Memoriam</a></nav>",
+      "css": ".ds-nav{display:flex;flex-wrap:wrap;gap:8px 20px;font-family:'IBM Plex Mono',ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:.1em;text-transform:uppercase}.ds-nav a{color:var(--muted,#938a7b);text-decoration:none;padding-bottom:2px;border-bottom:1px solid transparent}.ds-nav a:hover,.ds-nav a:focus-visible{color:var(--ink,#e9e2d4);border-bottom-color:var(--brass,#c8a24b);outline:none}.ds-nav a.here{color:var(--brass,#c8a24b);border-bottom-color:var(--brass-dim,#9c7e38)}"
+    },
+    {
+      "name": "Link and AI flag",
+      "kind": "custom",
+      "refersTo": "link",
+      "description": "A gold link with a hairline underline, and the quiet green AI-authorship pill beside AI-written prose.",
+      "html": "<p class=\"ds-prose\">Held the <a href=\"#\">fWo World Title</a> twice. <span class=\"ds-ai-flag\">AI</span></p>",
+      "css": ".ds-prose{font-family:Georgia,'Iowan Old Style',Palatino,serif;font-size:18px;line-height:1.65;color:var(--ink,#e9e2d4);margin:0}.ds-prose a{color:var(--brass,#c8a24b);text-decoration:none;border-bottom:1px solid var(--line-2,#453d31)}.ds-prose a:hover,.ds-prose a:focus-visible{color:var(--brass-bright,#e2c273);border-bottom-color:var(--brass,#c8a24b);outline:none}.ds-ai-flag{display:inline-block;font-family:'IBM Plex Mono',ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:.08em;color:var(--ai-green,#4a9c6d);border:1px solid var(--ai-green,#4a9c6d);border-radius:1em;padding:.05em .55em;margin-left:.4em;vertical-align:middle;opacity:.85}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Lamplit Archive",
+    "overview": "A records room after hours. One warm light falls from above, onto brass fittings and parchment labels; everything else sits in a warm, deep dark. The museum's job is to hold other people's history carefully, so the design stays out of the way of the artifacts. The light at the top of every page is literal: a faint brass radial glow from above the masthead (6% brass, fading by mid-page), the only source of \"depth\" anywhere on the site. Pages read like placards in a gallery, never like posters: quiet, labelled, exact.\n\nThe system has two registers and keeps them apart. A serif reads (prose, headings, the body of every page), and a monospace labels (kickers, navigation, table headers, dates, chips, and the verbatim documents themselves, which keep their source's typewritten feel). Density is generous for reading and tight for rows: one 760px reading column, an 18px body at 1.65, and one shared 16px row size for every list and table on the site.\n\nIt is plain CSS in one file, `style.css`, with every value read from tokens on `:root`; no framework, no build step, no web fonts, and no inline styles anywhere (the validator refuses a `style=` attribute). Tens of thousands of generated pages inherit the whole look by linking that one file, so the system changes in one place or not at all.",
+    "keyCharacteristics": [
+      "Two themes that follow the visitor's device until they choose: the lamplit dark (warm near-black grounds, parchment text, one gold accent family) and a daylight paper theme. A \"House lights\" switch in the masthead sets either, remembered per visitor.",
+      "o typefaces, two registers: serif to read, mono to label. No third font.",
+      "at surfaces; depth is tonal layering, hairlines and a 2px gold left edge.",
+      "e corner radius (3px) for every panel, card, input and chip.",
+      "ass is the only interactive colour; rust only flags; green only marks AI-written prose.",
+      "thing animates."
+    ],
+    "rules": [
+      {
+        "name": "The One Lamp Rule",
+        "body": "Gold is light, and there is one lamp. Belt Gold appears as text, a 1–3px edge or a wash at 10% alpha or less; never as a filled background, except the attestor credit badge.",
+        "section": "colors"
+      },
+      {
+        "name": "The Flag Colours Are Spoken For Rule",
+        "body": "Rust means a curation flag and green means AI-written prose. Neither is ever used for anything else, and no new hue is introduced: a new component reuses these tokens.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Registers Rule",
+        "body": "Serif reads, mono labels. Every `font-family` in the stylesheet reads `--font-serif` or `--font-mono`; there is no third stack and no web font.",
+        "section": "typography"
+      },
+      {
+        "name": "The One Row Size Rule",
+        "body": "Every list row, table cell and roster line uses the 16px row size, so sections sitting side by side on one page never read as different sizes.",
+        "section": "typography"
+      },
+      {
+        "name": "The Placard Column Rule",
+        "body": "Content lives in the one 760px column. A new page widens nothing; it uses the existing grids or a scrolling table wrap.",
+        "section": "layout"
+      },
+      {
+        "name": "The Lamplit Rule",
+        "body": "Light comes from above and only once. No drop shadows, no glows, no elevation on hover: a hover changes colour or an edge, never depth.",
+        "section": "elevation"
+      },
+      {
+        "name": "The House Lights Rule",
+        "body": "The visitor's device decides until the visitor does. A theme is a set of token values, never a second set of component rules, and every text token clears 4.5:1 on every surface it sits on, in both themes.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "**Do** read every colour, size and space from the `:root` tokens in `style.css`; a new rule names a token, never a raw value.",
+      "**Do** add a new component as a class in `style.css` built from existing tokens, and document it in the stylesheet's header vocabulary.",
+      "**Do** keep the labels in the mono register: uppercase, tracked out (+0.08em to +0.34em), 11px or 12px.",
+      "**Do** use the 2px Retired Gold left edge for a museum label and the rust left edge for a curator's flag.",
+      "**Do** keep served documents in the mono document block with `pre-wrap`: formatting may be made more readable, the words never change.",
+      "**Do** honour `prefers-reduced-motion`; nothing animates, and the stylesheet keeps that promise explicitly."
+    ],
+    "donts": [
+      "**Don't** add a `style=` attribute to any page; the validator fails it.",
+      "**Don't** load a web font or add a third font stack.",
+      "**Don't** add a `box-shadow`, a glow or a hover lift.",
+      "**Don't** introduce a new hue. Rust is only for flags and green is only for the AI flag.",
+      "**Don't** fill a large surface with gold; gold is text, an edge or a wash of 8% or less.",
+      "**Don't** bump the stylesheet's `?v=` query for purely additive rules; a bump re-stamps every page on the site.",
+      "**Don't** theme a component directly; add or retint a token in both theme blocks instead."
+    ]
+  }
+}

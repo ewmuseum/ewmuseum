@@ -1,0 +1,137 @@
+[
+ {
+  "id": "alpha-males-rpw-rushpro-2003",
+  "type": "unit",
+  "name": "Alpha Males",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "RPW's own backstage database (lot 0159), bio 9463",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "A biography card this federation carried with no appearance behind it, so the tenure is graded as a billing and claims no match."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "Alpha Males is an RPW unit whose members the record does not name.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brotherly-love-rpw-rushpro-2003",
+  "type": "unit",
+  "name": "Brotherly Love",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-09",
+    "last_seen": "2003-11-09",
+    "source": "RPW's own backstage database (lot 0159), bio 9515",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   },
+   {
+    "promotion": "fwo-fans-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003-05-21",
+    "last_seen": "2004-03-01",
+    "source": "fWo's own show write-ups, donated by Ben H. through Argyle (lot 0186) and split in Argyle's database (lot 0159), bio 19159",
+    "grade": "primary-source",
+    "note": "Dated from the fed's own record of the cards it appears on (30 shows, every kind of appearance counted; replays of earlier shows are not). Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "elliot-harper-rpw-rushpro-2003"
+   },
+   {
+    "character_id": "thomas-harper-rpw-rushpro-2003"
+   }
+  ],
+  "caption": "Elliot Harper and Thomas Harper teamed in RPW as Brotherly Love on 9 November 2003.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's database bio 19159 (fWo) is this record: The same members and the same unit name: fWo's booking 4946 (3 November 2003), paragraph 34, has 'Thomas and Elliot Harper, Brotherly Love', and RPW's own text of 9 November 2003 (booking 2529) bills them 'the fWo's Brotherly Love' out of 'the fWo's Survivor competition' (quoted as the verified reading has it; RPW's text is not in the fWo workshop). The fed's own appearance record carries it on 30 cards from 21 May 2003 to 1 March 2004."
+   }
+  ]
+ },
+ {
+  "id": "sweet-illusion-rpw-rushpro-2003",
+  "type": "unit",
+  "name": "Sweet Illusion",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "RPW's own show write-ups, Adrenaline 4 of 30 November 2003 ('the trio of Sweet Illusion... Carys, Sam Alloti & Alyssa Sanders') and Adrenaline 10 of 25 January 2004 ('The RPW Tag Team Titles in their possession, Sam Alotti and Alyssa Sanders'), as split in its backstage database (lot 0159); bio 12701 was added there in 2026",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "The unit carries no appearance row of its own, so the tenure is undated; the dates belong to its members. Billed a trio on 30 November 2003; Sam Alotti and Alyssa Sanders held the RPW Tag Team Championship for it in January 2004."
+   }
+  ],
+  "unit_kind": "trio",
+  "members": [
+   {
+    "character_id": "carys"
+   },
+   {
+    "character_id": "sam-alotti-pwc-wrestleonline-2003"
+   },
+   {
+    "character_id": "alyssa-sanders"
+   }
+  ],
+  "caption": "Carys, Sam Alotti and Alyssa Sanders as a trio, two of whom held RPW's Tag Team Championship in January 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

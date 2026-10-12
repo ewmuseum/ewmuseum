@@ -1,0 +1,192 @@
+[
+ {
+  "id": "evo-2002-universal",
+  "type": "title",
+  "name": "Universal Championship",
+  "promotion": "evo-2002",
+  "page": "/titles/evo-2002-universal.html",
+  "collection": "0159",
+  "epitaph": "eVo's Universal Championship was first won by Sovereign on 14 August 2002. The fed's own record carries 9 reigns on it, across 8 different champions. The longest is Xander's, 98 days from 25 May 2003. James Kimson held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-10-04",
+   "evidence": {
+    "reigns": 9
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "evo-2002-united",
+  "type": "title",
+  "name": "United Championship",
+  "promotion": "evo-2002",
+  "page": "/titles/evo-2002-united.html",
+  "collection": "0159",
+  "epitaph": "eVo's United Championship was first won by Thug roC on 31 August 2003. The fed's own record carries 2 reigns on it, across 2 different champions. The longest is Thug roC's, 101 days from 31 August 2003. Matt Hunt held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-10-04",
+   "evidence": {
+    "reigns": 2
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "evo-2002-cell",
+  "type": "title",
+  "name": "Cell Championship",
+  "promotion": "evo-2002",
+  "page": "/titles/evo-2002-cell.html",
+  "collection": "0159",
+  "epitaph": "eVo's Cell Championship was first won by Jinx on 14 August 2002. The fed's own record carries 6 reigns on it, across 4 different champions. The longest is Damon O'Halloran's, 59 days from 7 August 2003. Two of its reigns ended outside a match — retired with the belt or vacated. eVo retired it on 9 November 2003.",
+  "epitaph_asof": {
+   "written": "2026-10-04",
+   "evidence": {
+    "reigns": 6
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "retired_by_fed",
+    "date": {
+     "date": "2003-11-09",
+     "precision": "exact"
+    },
+    "note": "The write-up has the Cell division retired by decree at Faith on 9 November 2003; the fed's own champions page still lists its last champion."
+   }
+  ]
+ },
+ {
+  "id": "evo-2002-tag-team",
+  "type": "title",
+  "name": "Tag Team Championship",
+  "promotion": "evo-2002",
+  "page": "/titles/evo-2002-tag-team.html",
+  "collection": "0159",
+  "epitaph": "eVo's Tag Team Championship was first won by The Unlimited on 24 November 2002. The fed's own record carries 16 reigns on it, across 11 different champions. The longest is The Syndicate's, 76 days from 3 July 2003. One of its reigns ended outside a match — stripped from the holder. St. Violence held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-10-04",
+   "evidence": {
+    "reigns": 16
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "evo-2002-continental",
+  "type": "title",
+  "name": "Continental Championship",
+  "promotion": "evo-2002",
+  "page": "/titles/evo-2002-continental.html",
+  "collection": "0159",
+  "epitaph": "eVo's Continental Championship was first won by Erin Christoph on 10 July 2002. The fed's own record carries 10 reigns on it, across 9 different champions. The longest is Asis's, 109 days from 5 February 2003. Three of its reigns ended outside a match — retired with the belt or vacated. eVo unified it into the United Championship on 31 August 2003.",
+  "epitaph_asof": {
+   "written": "2026-10-04",
+   "evidence": {
+    "reigns": 10
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2003-08-31",
+     "precision": "exact"
+    },
+    "note": "The fed's own title history records the belt unified with the ULWN Heavyweight Title and renamed the United Title.",
+    "title": "evo-2002-united"
+   }
+  ]
+ },
+ {
+  "id": "evo-2002-rising-star",
+  "type": "title",
+  "name": "Rising Star Championship",
+  "promotion": "evo-2002",
+  "page": "/titles/evo-2002-rising-star.html",
+  "collection": "0159",
+  "epitaph": "eVo's Rising Star Championship was first won by Asis on 14 August 2002. The fed's own record carries 3 reigns on it, across 3 different champions. The longest is Sean Mason's, 52 days from 24 November 2002. Two of its reigns ended outside a match — retired with the belt or stripped from the holder. eVo unified it with the High Impact Championship into the eVolved Championship on 15 January 2003.",
+  "epitaph_asof": {
+   "written": "2026-10-04",
+   "evidence": {
+    "reigns": 3
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2003-01-15",
+     "precision": "exact"
+    },
+    "note": "The fed's own title history closes the belt with the line that it was unified with the High Impact Championship to form the eVolved Championship.",
+    "title": "evo-2002-evolved"
+   }
+  ]
+ },
+ {
+  "id": "evo-2002-high-impact",
+  "type": "title",
+  "name": "High Impact Championship",
+  "promotion": "evo-2002",
+  "page": "/titles/evo-2002-high-impact.html",
+  "collection": "0159",
+  "epitaph": "eVo's High Impact Championship was first won by Quasar the Great on 14 August 2002. The fed's own record carries 5 reigns on it, across 5 different champions. The longest is Thug roC's, 63 days from 9 October 2002. Two of its reigns ended outside a match — retired with the belt or stripped from the holder. eVo unified it with the Rising Star Championship into the eVolved Championship on 15 January 2003.",
+  "epitaph_asof": {
+   "written": "2026-10-04",
+   "evidence": {
+    "reigns": 5
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2003-01-15",
+     "precision": "exact"
+    },
+    "note": "The fed's own title history closes the belt with the line that it was unified with the Rising Star Championship to form the eVolved Championship.",
+    "title": "evo-2002-evolved"
+   }
+  ]
+ },
+ {
+  "id": "evo-2002-evolved",
+  "type": "title",
+  "name": "eVolved Championship",
+  "promotion": "evo-2002",
+  "page": "/titles/evo-2002-evolved.html",
+  "collection": "0159",
+  "epitaph": "eVo's eVolved Championship was first won by Seara on 15 January 2003. The fed's own record carries 8 reigns on it, across 8 different champions. The longest is Scott Evans's, 98 days from 29 June 2003. One of its reigns ended outside a match — retired with the belt. eVo unified it into the United Championship on 10 December 2003.",
+  "epitaph_asof": {
+   "written": "2026-10-04",
+   "evidence": {
+    "reigns": 8
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2003-12-10",
+     "precision": "exact"
+    },
+    "note": "The fed's own pages for the eVolved, United and retired titles record Matt Hunt defeating Thug roC to unify the eVolved and United titles.",
+    "title": "evo-2002-united"
+   }
+  ]
+ }
+]

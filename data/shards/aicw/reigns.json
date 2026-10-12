@@ -1,0 +1,429 @@
+[
+ {
+  "id": "aicw-world-championship-r1",
+  "title": "aicw-world-championship",
+  "label": "\"The Demon\" Kyle Bane",
+  "holder": [
+   {
+    "id": "kyle-bane-aicw"
+   }
+  ],
+  "won": {
+   "date": "1997-11-16",
+   "precision": "exact",
+   "source": "promotions/aicw/archive/apocalypse-97.html"
+  },
+  "lost": {
+   "date": "1998-01-25",
+   "precision": "exact"
+  },
+  "how": "Won an eight-man ladder match to become the first-ever AICW World Champion; retained through Seasons Beatings/Violent Night's own fatal four-way and a deliberately ambiguous \"Stroke of Midnight\" defense at New Year's Rasslin Eve before losing the belt to \"Hard Line\" Byron Brady in a steel cage at New Year's Revolution.",
+  "event": "aicw-apocalypse-97",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-world-championship-r2",
+  "title": "aicw-world-championship",
+  "label": "\"Hard Line\" Byron Brady",
+  "holder": [
+   {
+    "id": "byron-brady-aicw"
+   }
+  ],
+  "won": {
+   "date": "1998-01-25",
+   "precision": "exact",
+   "source": "promotions/aicw/archive/new-years-revolution.html"
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won a steel cage match against Kyle Bane at New Year's Revolution. AICW's own \"No Gimmicks Needed\" stages a Bane-Brady rematch for the belt, but the surviving document is truncated before any result; the belt is with Bane again by the Tokyo Thunder Festival, with no served document showing how it changed hands.",
+  "event": "aicw-new-years-revolution",
+  "note": "See aicw-world-championship-r3's own note for the unattested transition back to Bane.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-world-championship-r4",
+  "title": "aicw-world-championship",
+  "label": "The Saint",
+  "holder": [
+   {
+    "id": "saint-aicw"
+   }
+  ],
+  "won": {
+   "date": "1998-04-01",
+   "precision": "exact",
+   "source": "promotions/aicw/archive/tokyo-thunder-festival.html"
+  },
+  "lost": {
+   "date": "1998-06",
+   "precision": "circa"
+  },
+  "how": "Won the belt from Kyle Bane on the Tokyo Thunder Festival's own second night; retained through a Monday Night War title defense against Legion and an unchallenged appearance at Survival of the Fittest before losing the belt back to \"Hard Line\" Byron Brady at Steel City Meltdown.",
+  "event": "aicw-tokyo-thunder-festival",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-world-championship-r5",
+  "title": "aicw-world-championship",
+  "label": "\"Hard Line\" Byron Brady",
+  "holder": [
+   {
+    "id": "byron-brady-aicw"
+   }
+  ],
+  "won": {
+   "date": "1998-06",
+   "precision": "circa",
+   "source": "promotions/aicw/archive/steel-city-meltdown-98.html"
+  },
+  "how": "Won the belt back from The Saint at Steel City Meltdown, the last title match in the surviving record.",
+  "event": "aicw-steel-city-meltdown-98",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "aicw-world-championship-r3",
+  "title": "aicw-world-championship",
+  "label": "\"The Demon\" Kyle Bane",
+  "holder": [
+   {
+    "id": "kyle-bane-aicw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Not shown in any served document. Bane is billed the defending AICW World Heavyweight Champion entering the Tokyo Thunder Festival; the surviving record's own last look at the belt before that (\"No Gimmicks Needed\", itself undated and truncated before its own Bane-Brady rematch resolves) has Byron Brady still champion, so this reign's own start is a genuine gap."
+  },
+  "lost": {
+   "date": "1998-04-01",
+   "precision": "exact"
+  },
+  "how": "Billed champion entering the Tokyo Thunder Festival; lost the belt to a masked debutant, The Saint, on the event's own second night, with Byron Brady's own disguised interference as \"Legion\" deciding the finish.",
+  "event": "aicw-tokyo-thunder-festival",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-television-championship-r1",
+  "title": "aicw-television-championship",
+  "label": "\"Swingin'\" Chandler Stone",
+  "holder": [
+   {
+    "id": "chandler-stone-aicw"
+   }
+  ],
+  "won": {
+   "date": "1997-10-31",
+   "precision": "exact",
+   "source": "promotions/aicw/archive/fright-night.html"
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won a seven-man \"Run the Gauntlet\" elimination series on Fright Night to become the first-ever AICW Television Champion. The belt is held by Elvis by Seasons Beatings/Violent Night, with no served document showing the change.",
+  "event": "aicw-fright-night",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-television-championship-r4",
+  "title": "aicw-television-championship",
+  "label": "\"Pretty Boy\" Troy Walcott",
+  "holder": [
+   {
+    "id": "troy-walcott-aicw"
+   }
+  ],
+  "won": {
+   "date": "1998-01-25",
+   "precision": "exact",
+   "source": "promotions/aicw/archive/new-years-revolution.html"
+  },
+  "lost": {
+   "date": "1998-04-01",
+   "precision": "exact"
+  },
+  "how": "Won the belt from Stephon T. Davis at New Year's Revolution; still champion, unchallenged, on \"No Gimmicks Needed\" and billed defending a reign of \"over two months\" entering the Tokyo Thunder Festival, where \"The Convict\" Oswald Bates dethroned him on the event's own second night.",
+  "event": "aicw-new-years-revolution",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-television-championship-r5",
+  "title": "aicw-television-championship",
+  "label": "\"The Convict\" Oswald Bates",
+  "holder": [
+   {
+    "id": "oswald-bates-aicw"
+   }
+  ],
+  "won": {
+   "date": "1998-04-01",
+   "precision": "exact",
+   "source": "promotions/aicw/archive/tokyo-thunder-festival.html"
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the belt from Troy Walcott on the Tokyo Thunder Festival's own second night; successfully defended it against Damion Sikes at the following Monday Night War and was still billed champion, unchallenged, at Survival of the Fittest. By Steel City Meltdown the belt is held by Legion, via an off-page saga the show's own recap narrates rather than stages: a Gino Valentini win voided, the belt then awarded by Commissioner fiat.",
+  "event": "aicw-tokyo-thunder-festival",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-television-championship-r7",
+  "title": "aicw-television-championship",
+  "label": "Zeek Monkey",
+  "holder": [
+   {
+    "id": "zeek-monkey-aicw"
+   }
+  ],
+  "won": {
+   "date": "1998-06",
+   "precision": "circa",
+   "source": "promotions/aicw/archive/steel-city-meltdown-98.html"
+  },
+  "how": "Won a three-way, also involving Billy Kane, against defending champion Legion at Steel City Meltdown, the belt's own last recorded change in the surviving record.",
+  "event": "aicw-steel-city-meltdown-98",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "aicw-television-championship-r2",
+  "title": "aicw-television-championship",
+  "label": "Elvis",
+  "holder": [
+   {
+    "id": "elvis-aicw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Not shown in any served document; Elvis is billed champion by Seasons Beatings/Violent Night and again, unchallenged, at New Year's Rasslin Eve."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Billed champion by Seasons Beatings/Violent Night and again at New Year's Rasslin Eve; Stephon T. Davis is billed the defending champion by New Year's Revolution, with no served document showing either transition.",
+  "note": "Two unattested gaps bracket this reign: how Elvis won the belt, and how it passed from Elvis to Stephon T. Davis.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-television-championship-r3",
+  "title": "aicw-television-championship",
+  "label": "Stephon T. Davis",
+  "holder": [
+   {
+    "id": "stephon-t-davis-aicw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Not shown in any served document; billed the defending champion entering New Year's Revolution."
+  },
+  "lost": {
+   "date": "1998-01-25",
+   "precision": "exact"
+  },
+  "how": "Billed the defending champion entering New Year's Revolution, where he lost the belt to \"Pretty Boy\" Troy Walcott.",
+  "event": "aicw-new-years-revolution",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-television-championship-r6",
+  "title": "aicw-television-championship",
+  "label": "Legion",
+  "holder": [
+   {
+    "id": "legion-aicw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Not shown in any served document. Steel City Meltdown's own recap has Commissioner Argie Otero voiding a Gino Valentini win over Oswald Bates and awarding the belt to Legion by fiat instead — an off-page ruling, not a staged match."
+  },
+  "lost": {
+   "date": "1998-06",
+   "precision": "circa"
+  },
+  "how": "Awarded the belt by Commissioner Argie Otero's own fiat, off-page, after voiding a Gino Valentini win over the previous champion; lost it to Zeek Monkey in a three-way, also involving Billy Kane, at Steel City Meltdown.",
+  "event": "aicw-steel-city-meltdown-98",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-international-championship-r1",
+  "title": "aicw-international-championship",
+  "label": "\"8-Ball\" Vic Garibaldi",
+  "holder": [
+   {
+    "id": "vic-garibaldi-aicw"
+   }
+  ],
+  "won": {
+   "date": "1997-11-16",
+   "precision": "exact",
+   "source": "promotions/aicw/archive/apocalypse-97.html"
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the \"King of the Hill\" battle royal at Apocalypse '97 to become the first-ever AICW International Champion; billed champion, unchallenged, through Seasons Beatings/Violent Night, New Year's Rasslin Eve, New Year's Revolution, and \"No Gimmicks Needed.\" By the Tokyo Thunder Festival the belt is held by Mista Smith, with no served document showing the change.",
+  "event": "aicw-apocalypse-97",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-international-championship-r4",
+  "title": "aicw-international-championship",
+  "label": "Gino \"Knuckles\" Valentini",
+  "holder": [
+   {
+    "id": "gino-valentini-aicw"
+   }
+  ],
+  "won": {
+   "date": "1998-06",
+   "precision": "circa",
+   "source": "promotions/aicw/archive/steel-city-meltdown-98.html"
+  },
+  "how": "Won the belt from Chris Del Rio at Steel City Meltdown, after first winning the right to challenge in a match against Alex Raptor earlier the same show — the belt's own last recorded change in the surviving record.",
+  "event": "aicw-steel-city-meltdown-98",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "aicw-international-championship-r2",
+  "title": "aicw-international-championship",
+  "label": "Mista Smith",
+  "holder": [
+   {
+    "id": "mista-smith-aicw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Not shown in any served document; billed champion entering the Tokyo Thunder Festival, where commentary recaps \"that's how Mista Smith became champion\" without ever narrating the win."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Billed champion entering the Tokyo Thunder Festival and retained there against Chris Del Rio by double count-out. By the following Monday Night War, Chris Del Rio is champion, billed as having won the belt \"Saturday night\" — a show outside the held record.",
+  "event": "aicw-tokyo-thunder-festival",
+  "note": "The Tokyo defense itself did not change the title (double count-out); the loss to Del Rio happened off-page, afterward.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-international-championship-r3",
+  "title": "aicw-international-championship",
+  "label": "\"The Ultimate Male\" Chris Del Rio",
+  "holder": [
+   {
+    "id": "chris-del-rio-aicw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Not shown in any served document; billed champion entering the 13 April 1998 Monday Night War as having won the belt from Mista Smith \"Saturday night,\" a show outside the held record."
+  },
+  "lost": {
+   "date": "1998-06",
+   "precision": "circa"
+  },
+  "how": "Billed champion entering the 13 April 1998 Monday Night War and again, unchallenged, at Survival of the Fittest; lost the belt to Gino Valentini at Steel City Meltdown.",
+  "event": "aicw-mnw-1998-04-13",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-world-tag-team-championship-r1",
+  "title": "aicw-world-tag-team-championship",
+  "label": "The Nubian Warriors",
+  "holder": [
+   {
+    "id": "nelson-bukola-aicw"
+   },
+   {
+    "id": "muffasa-bukola-aicw"
+   }
+  ],
+  "won": {
+   "date": "1997-11-16",
+   "precision": "exact",
+   "source": "promotions/aicw/archive/apocalypse-97.html"
+  },
+  "lost": {
+   "date": "1997-12",
+   "precision": "circa"
+  },
+  "how": "Won a tag tournament final at Apocalypse '97 to become the first-ever AICW World Tag Team Champions; lost the belts to the Perfectly Perfect Duo in a triple threat, also involving Money and Power, at Seasons Beatings/Violent Night.",
+  "event": "aicw-apocalypse-97",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "aicw-world-tag-team-championship-r2",
+  "title": "aicw-world-tag-team-championship",
+  "label": "The Perfectly Perfect Duo",
+  "holder": [
+   {
+    "id": "lance-studd-aicw"
+   },
+   {
+    "id": "max-studd-aicw"
+   }
+  ],
+  "won": {
+   "date": "1997-12",
+   "precision": "circa",
+   "source": "promotions/aicw/archive/seasons-beatings-violent-night.html"
+  },
+  "how": "Won the belts from the Nubian Warriors in a triple threat, also involving Money and Power, at Seasons Beatings/Violent Night, and held them through the whole of the surviving record after — still champions, five months into the reign by the fed's own last-recorded show.",
+  "event": "aicw-seasons-beatings",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "aicw-inoki-cup-r1",
+  "title": "aicw-inoki-cup",
+  "label": "\"Big D\" Devon Burke",
+  "holder": [
+   {
+    "id": "devon-burke-aicw"
+   }
+  ],
+  "won": {
+   "date": "1998-03-29",
+   "precision": "exact",
+   "source": "promotions/aicw/archive/tokyo-thunder-festival.html"
+  },
+  "how": "Won the eight-man Inoki Cup tournament's own final over Rory Christianson on the Tokyo Thunder Festival's first night, and successfully defended the cup the following night against Vic Garibaldi; still champion at the fed's own last-recorded show.",
+  "event": "aicw-tokyo-thunder-festival",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "aicw-north-american-tag-team-championship-r1",
+  "title": "aicw-north-american-tag-team-championship",
+  "label": "The Asian Assassination Squad",
+  "holder": [
+   {
+    "id": "blackjack-takahashi-aicw"
+   },
+   {
+    "id": "thripaq-nguyen-aicw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Not shown in any served document; billed champions on AICW's own Survival of the Fittest, the belt's only appearance in the surviving record."
+  },
+  "how": "Billed AICW's own North American Tag Team Champions on Survival of the Fittest; no document shows the title won, defended, or lost.",
+  "event": "aicw-survival-of-the-fittest",
+  "end_how": "still-champion-at-record-end"
+ }
+]

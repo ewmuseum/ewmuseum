@@ -1,0 +1,1030 @@
+[
+ {
+  "id": "the-syndicate-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Syndicate",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Tommy Cornell",
+    "character_id": "tommy-cornell-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Sam Keith",
+    "character_id": "sam-keith-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Wolf Hawkins",
+    "character_id": "wolf-hawkins-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Brent Hill",
+    "character_id": "brent-hill-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "John Anderson",
+    "character_id": "john-anderson-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Edd Stone",
+    "character_id": "edd-stone-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Tyson Baine",
+    "character_id": "tyson-baine-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Jeremy Stone",
+    "character_id": "jeremy-stone-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Jack Marlowe",
+    "character_id": "jack-marlowe-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Julian Watson",
+    "character_id": "julian-watson-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-04-p28-72.html."
+   }
+  ],
+  "caption": "Tommy Cornell's stable, the holders of almost all of TCW's gold, with Sam Keith, Wolf Hawkins, the Machines and, from May 2008, Edd Stone; by Total Mayhem 13 it holds all four active championships, and by the diary's preview for the fourth week of July 2008 Sam Keith is, it seems, out of it, and in August 2008 signs Tyson Baine as its sixth man while the Machines break away, and in September 2008 adds Jeremy Stone and the Enforcers, Tommy Cornell promising that by July 2009 every championship in TCW will belong to it, and in November 2008 sees Wolf Hawkins refuse to take the Hard-Hitting Championship match and Tommy Cornell tell him the Syndicate needs a belt at A Little South Of Sanity, where Cornell loses to Troy Tornado and Hawkins is pinned, and in December 2008 sees Tommy Cornell and Wolf Hawkins quarrel over Aaron Andrews, Wolf Hawkins tell Brent Hill he is beneath him and Tyson Baine and the Enforcers brawl with Rick Law, until Cornell and Hawkins argue in the ring at Psycho Circus as Sam Keith watches.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "syndicate-apw",
+     "syndicorp-rcw-royal",
+     "the-syndicate-iiwf",
+     "the-syndicate-evo-2002",
+     "the-syndicate-gdwa",
+     "the-syndicate-gw",
+     "the-syndicate-icpw-1999"
+    ],
+    "note": "An exact name match with another promotion's own tag team or stable. Each is filed as its own per-promotion row, never merged."
+   }
+  ]
+ },
+ {
+  "id": "the-machines-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Machines",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Brent Hill",
+    "character_id": "brent-hill-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "John Anderson",
+    "character_id": "john-anderson-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-02-p6-24.html."
+   }
+  ],
+  "caption": "The Syndicate's TCW Tag Team Champions, Brent Hill and John Anderson, who beat Narato & The Kid on television and Painful Procedure and the Young Guns on pay-per-view, until they lose the belts to the New Wave at Excessive Force in June 2008, and in August 2008 break with the Syndicate, Brent Hill re-signing for two years and John Anderson taking the International Championship from Koshiro Ino at Hotter Than Hell, then lose to Tommy Cornell and Wolf Hawkins in September 2008, beat the Easy Riders by disqualification and are replaced in the Syndicate by the Enforcers, and in October 2008 beat the School of Tradition and Elite Express and lose to Tommy Cornell & Tyson Baine, and in November 2008 lose with Sam Keith to Tommy Cornell & the Stone Brothers and beat Texas Pete & Wolf Hawkins with the Ammo Dump and the King of the Hill, and in December 2008 draw with the Stone Brothers in a twenty-minute first meeting on Total Wrestling.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-machines-aewa",
+     "the-machines-rspwf"
+    ],
+    "note": "An exact name match with another promotion's own tag team or stable. Each is filed as its own per-promotion row, never merged."
+   }
+  ]
+ },
+ {
+  "id": "painful-procedure-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "Painful Procedure",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Troy Tornado",
+    "character_id": "troy-tornado-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Billy Jack Shearer",
+    "character_id": "billy-jack-shearer-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Randall Hopkirk",
+    "character_id": "randall-hopkirk-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Harry Allen",
+    "character_id": "harry-allen-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Steve Gumble",
+    "character_id": "steve-gumble-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-02-p6-24.html."
+   }
+  ],
+  "caption": "The rock-band stable that broke up, reunites around Troy Tornado and takes in the Young Guns in May 2008, the Syndicate's chief opposition, and in August 2008 loses to the School of Tradition and is beaten up by the Easy Riders, Randall Hopkirk's injuries leading him to ask for a backstage role, and in late September 2008 ends when Randall Hopkirk retires from the ring, Billy Jack Shearer staying in Puerto Rico as a new father. Painful Procedure is billed again in December 2008: Troy Tornado and the Young Guns beat the School of Tradition's Acid, Eric Tyler and Freddy Huggins on Badge of Honor, a preview calls the Balcony Express its newest members, and Jack Bruce, its first lead vocalist, returns to argue with Troy Tornado and with Randall Hopkirk.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-tag-team-specialists-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Tag Team Specialists",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Joel Bryant",
+    "character_id": "joel-bryant-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Robert Oxford",
+    "character_id": "robert-oxford-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-02-p6-24.html."
+   }
+  ],
+  "caption": "Joel Bryant and Robert Oxford, a decade-old team of skinhead cheats who keep challenging Danny Fonzarelli, until Oxford's knee injury in July 2008 ends the team and Bryant teams with Sean Deeley.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-new-wave-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The New Wave",
+  "unit_kind": "tag-team",
+  "aka": [
+   "New Wave"
+  ],
+  "members": [
+   {
+    "name": "Guide",
+    "character_id": "guide-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Scout",
+    "character_id": "scout-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-02-p6-24.html."
+   }
+  ],
+  "caption": "Guide and Scout, a military-gimmick team ten years together, ex-DaVE, who anchor the tag division, and win the TCW Tag Team Championship from the Machines at Excessive Force in June 2008, then retain it against the Young Guns at Summer Showdown in July 2008, then keep it in August 2008 against the Easy Riders, the British Lions and, at Hotter Than Hell, the School of Tradition, then keep it in September 2008 (a disqualification loss to Freddy Huggins and Sammy Bach does not cost them) against the Keith Brothers, the Enforcers and, at Destructive Energy, the School of Tradition, then keep it in October 2008 against the Stone Brothers (a draw), Acid Dragon and the British Lions and, at Crunch Time, the Easy Riders, who lose only by disqualification, then keep it in November 2008 against the Elite Express, the British Lions, a no contest with the Keith Brothers and, at A Little South Of Sanity, the Easy Riders and the Stone Brothers in a three-team elimination match, and in December 2008 beat the School of Tradition, the Fly Boys and Acid Dragon before losing the tag belts to the Easy Riders in a hardcore match at Psycho Circus.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "new-wave-fwo-1998"
+    ],
+    "note": "An exact name match with another promotion's own tag team or stable. Each is filed as its own per-promotion row, never merged."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-new-wave-swf-generation-supreme"
+    ],
+    "note": "Another CornellVerse diary's own character of the same name; each diary's character is its own row, never merged."
+   }
+  ]
+ },
+ {
+  "id": "the-young-guns-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Young Guns",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Young Guns"
+  ],
+  "members": [
+   {
+    "name": "Harry Allen",
+    "character_id": "harry-allen-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Steve Gumble",
+    "character_id": "steve-gumble-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-02-p6-24.html."
+   }
+  ],
+  "caption": "Harry Allen and Steve Gumble, former TCW tag champions with a new punk look, who join Painful Procedure. In September 2008 they beat Tyler & Huggins, with a finish the commentary calls the Blitzkrieg Bop, and Miyazaki & Ota, and help Art Reed beat Edd Stone and the Enforcers, and in November 2008 beat the Fly Boys and lose to the Easy Riders, and in December 2008 lose to the Elite Express and win with Troy Tornado over the School of Tradition's Acid, Eric Tyler and Freddy Huggins.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "natural-talent-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "Natural Talent",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Natural #1",
+    "character_id": "natural-1-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Natural #2",
+    "character_id": "natural-2-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-02-p6-24.html."
+   }
+  ],
+  "caption": "A repackaged team the narrator wants to establish under one clear name.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "narato-the-kid-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "Narato & The Kid",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Kazuma Narato",
+    "character_id": "kazuma-narato-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "The Cannonball Kid",
+    "character_id": "the-cannonball-kid-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-04-p28-72.html."
+   }
+  ],
+  "caption": "Kazuma Narato and the Cannonball Kid, a flying team the Syndicate's Machines beat at Total Wrestling on Tuesday Week 4 April 2008, and lose to the School of Tradition on Badge of Honor in August 2008, and lose to the Fly Boys in September 2008.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-fly-boys-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Fly Boys",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Fly Boys"
+  ],
+  "members": [
+   {
+    "name": "Donnie J",
+    "character_id": "donnie-j-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Jimmy P",
+    "character_id": "jimmy-p-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-06-p150-235.html."
+   }
+  ],
+  "caption": "Donnie J and Jimmy P, a team of high flyers the diary says the company cut in 2005, back on the roster in June 2008, who lose to the Machines and to the Tag Team Specialists (by disqualification) and bicker on the way back up the ramp, and in August 2008 lose to the Disrespected and the New Wave, Jimmy P walking out on Donnie J in the second, and in September 2008 lose to Kingman & Alexander, then join American Buffalo in beating them down and beat Narato & The Kid, and in October 2008 are in a no contest with Kingman & Alexander and lose to Art Reed & Hell Monkey, and in November 2008 lose to the Young Guns and are eliminated in the six-man contendership match won by Art Reed, and in December 2008 lose to the New Wave and to the Keith Brothers.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-school-of-tradition-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The School of Tradition",
+  "unit_kind": "stable",
+  "aka": [
+   "School of Tradition"
+  ],
+  "members": [
+   {
+    "name": "Eric Tyler",
+    "character_id": "eric-tyler-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Acid",
+    "character_id": "acid-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Freddy Huggins",
+    "character_id": "freddy-huggins-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Laura Huggins",
+    "character_id": "laura-huggins-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Joel Bryant",
+    "character_id": "joel-bryant-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Robert Oxford",
+    "character_id": "robert-oxford-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Sean Deeley",
+    "character_id": "sean-deeley-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-06-p150-235.html."
+   }
+  ],
+  "caption": "Eric Tyler's stable, brought back in June 2008 around Acid, Freddy Huggins and his sister Laura after the New Wave turn him down, with the Tag Team Specialists billed as its resident team, at war with Aaron Andrews, Joey Minnesota and Rick Law; Tyler beats Andrews with a Tradition Lift at Excessive Force, and in July 2008 takes in Sean Deeley, who teams with Joel Bryant after Robert Oxford's knee injury, and in August 2008 assaults Rick Law, beats Narato & The Kid and loses both the title challenge against the New Wave and Eric Tyler's match against Law at Hotter Than Hell, and in September 2008 beats Andrews & Minnesota, draws with the Keith Brothers, brings in Marat Khoklov without a contract and loses the tag title rematch at Destructive Energy, and in October 2008 beat Art Reed and the Keith Brothers in a six-man tag but lose to the Machines, to the Keith Brothers and to the Rising Stars, Freddy Huggins' kick hitting Sean Deeley, and in November 2008 beat the Balcony Express, are told by Mayhem Midden to choose between Sean Deeley and Freddy Huggins for the All Action Championship four-way and fall out over the choice, and in December 2008 lose to the New Wave, see Laura Huggins throw in the towel, lose with Acid and Freddy Huggins to Troy Tornado and the Young Guns and watch Sean Deeley walk away from the group over Freddy Huggins.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-easy-riders-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Easy Riders",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Easy Riders"
+  ],
+  "members": [
+   {
+    "name": "Billy Fonda",
+    "character_id": "billy-fonda-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Peter Hopper",
+    "character_id": "peter-hopper-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-07-p249-335.html."
+   }
+  ],
+  "caption": "Billy Fonda and Peter Hopper, Karen Killer's bikers, who first appear on Badge of Honor in July 2008 to ambush Painful Procedure (Randall Hopkirk and Billy Jack Shearer) and keep coming back to the ring while Killer shrieks directions from ringside, and in August 2008 beat Painful Procedure and the Young Guns, lose a title match to the New Wave and lose to Kingman & Alexander, and in September 2008 beat Rick Law & Rocky Golden and the Disrespected, then lose to the Machines by disqualification, and in October 2008 win the tag tournament under their new manager Carl Batch, beating the Rising Stars and the Keith Brothers, then lose to the New Wave at Crunch Time by disqualification, and in November 2008 beat Danny Fonzarelli & Koshiro Ino, Tooth & Claw and the Young Guns, lose to the Stone Brothers and, at A Little South Of Sanity, are eliminated first in the three-team tag title match, and in December 2008 beat the Keith Brothers, Hell Monkey & Teddy Powell and Team VIPER, attack the New Wave with brass knuckles after Carl Batch demands a no-disqualification title match and at Psycho Circus beat the New Wave in a hardcore match to take the tag belts.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kingman-alexander-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "Kingman & Alexander",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Barry Kingman",
+    "character_id": "barry-kingman-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Clark Alexander",
+    "character_id": "clark-alexander-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-07-p249-335.html."
+   }
+  ],
+  "caption": "Barry Kingman and Clark Alexander, a newish undercard tag team who run the Machines close in July 2008, beat them on Total Wrestling in Week 3 and lose to Tommy Cornell and Wolf Hawkins on Badge of Honor, and in August 2008 lose to Tyler & Huggins and to American Buffalo & Frankie Perez, then beat the Easy Riders and the British Lions, and in September 2008 beat the Fly Boys and, as the Conquering Kings, American Buffalo & Fumihiro Ota, before the Fly Boys and the Buffalo beat them down, and in October 2008 are in a no contest with the Fly Boys and lose to the Easy Riders, and in November 2008 beat Miyazaki & Ota, are ambushed by American Buffalo and lose to the Stone Brothers, and in December 2008 beat the British Lions and the Elite Express with the Crippler Bomb.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "Conquering Kings"
+  ]
+ },
+ {
+  "id": "miyazaki-ota-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "Miyazaki & Ota",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Shingen Miyazaki",
+    "character_id": "shingen-miyazaki-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Fumihiro Ota",
+    "character_id": "fumihiro-ota-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-07-p249-335.html."
+   }
+  ],
+  "caption": "Shingen Miyazaki and Fumihiro Ota, two young wrestlers the diary says are slowly gelling as a team, who lose to the New Wave in a non-title match and to the Young Guns on Badge of Honor in July 2008, and in August 2008 lose twice to Andrews & Minnesota, and in September 2008 lose to the Keith Brothers and the Young Guns, and in November 2008 lose to the Conquering Kings, and in December 2008 lose to Tommy Cornell & Wolf Hawkins and to the Easy Riders as Team VIPER.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "andrews-minnesota-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "Andrews & Minnesota",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Aaron Andrews",
+    "character_id": "aaron-andrews-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Joey Minnesota",
+    "character_id": "joey-minnesota-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-07-p249-335.html."
+   }
+  ],
+  "caption": "Aaron Andrews and Joey Minnesota, allies against Eric Tyler's School of Tradition, who draw with Tyler & Huggins on a time limit on Badge of Honor and lose to the Machines on Total Wrestling in July 2008, then beat Miyazaki & Ota twice in August 2008, and in September 2008 beat the British Lions twice as the Rising Stars and lose to the School of Tradition, and in October 2008 lose to the Easy Riders in the tag tournament, then beat the School of Tradition on Badge of Honor as the Rising Stars.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "Rising Stars"
+  ]
+ },
+ {
+  "id": "tyler-huggins-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "Tyler & Huggins",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Eric Tyler",
+    "character_id": "eric-tyler-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Freddy Huggins",
+    "character_id": "freddy-huggins-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-07-p249-335.html."
+   }
+  ],
+  "caption": "Eric Tyler and Freddy Huggins, the School of Tradition's tag team, managed by Laura Huggins, who beat the Fly Boys and Narato & The Kid in July 2008 and draw with Andrews & Minnesota on a time limit, and in August 2008 beat Kingman & Alexander, and in September 2008 lose to the Young Guns.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-disrespected-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Disrespected",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Disrespected"
+  ],
+  "members": [
+   {
+    "name": "Teddy Powell",
+    "character_id": "teddy-powell-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Stevie Grayson",
+    "character_id": "stevie-grayson-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-08-p345-434.html."
+   }
+  ],
+  "caption": "Teddy Powell and Stevie Grayson, two wrestlers left behind by the partners who rose past them, who beat the Fly Boys and Acid Dragon on Badge of Honor in August 2008 and set about Sammy Bach and Wolf Hawkins, and in September 2008 draw with the British Lions by no contest, lose to the Easy Riders and are disqualified against Sammy Bach & Wolf Hawkins at Destructive Energy, and in October 2008 lose to the Keith Brothers, are beaten in the Hangtime match by Wolf Hawkins and lose to Sammy Bach & Wolf Hawkins at Crunch Time, and in November 2008 see Stevie Grayson beaten by Tyson Baine and Teddy Powell, the last Disrespected standing, say he will move into the All Action division.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-british-lions-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The British Lions",
+  "unit_kind": "tag-team",
+  "aka": [
+   "British Lions"
+  ],
+  "members": [
+   {
+    "name": "Merle O'Curle",
+    "character_id": "merle-o-curle-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Walter Morgan",
+    "character_id": "walter-morgan-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-08-p345-434.html."
+   }
+  ],
+  "caption": "Merle O'Curle and Walter Morgan, 'two of Britain's most renowned submission stylists' sponsored by JD Morgan, who lose a title shot to the New Wave on Badge of Honor in August 2008 and a match to Kingman & Alexander, and in September 2008 lose twice to the Rising Stars, to the Keith Brothers and, by no contest, to the Disrespected, and in October 2008 lose to the New Wave on Badge of Honor, and in November 2008 lose to the New Wave again on Badge of Honor, and in December 2008 lose to RDJ & Fonzarelli, to the Conquering Kings and to Art Reed & Sean Deeley.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-new-british-lions-cwc-continental-1998"
+    ],
+    "note": "An exact name match with another promotion's own tag team or stable. Each is filed as its own per-promotion row, never merged."
+   }
+  ]
+ },
+ {
+  "id": "the-keith-brothers-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Keith Brothers",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Keith Brothers"
+  ],
+  "members": [
+   {
+    "name": "Greg Keith",
+    "character_id": "greg-keith-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Matt Keith",
+    "character_id": "matt-keith-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-08-p345-434.html."
+   }
+  ],
+  "caption": "Sam Keith's twin sons, who come to TCW in August 2008 when Tommy Cornell's lawyers contest their contracts, and lose their first match, to the Machines, after eight minutes, then beat Miyazaki & Ota and the British Lions in September 2008 but lose to Chris Rockwell & Frankie Perez, the New Wave in a title match, Tommy Cornell & Wolf Hawkins and the Stone Brothers, and draw with the School of Tradition, and in October 2008 beat the Disrespected, the School of Tradition and Elite Express, but lose the tournament final to the Easy Riders, and in November 2008 lose to Tommy Cornell & Wolf Hawkins, debut the Photon Breaker, go to a no contest with the New Wave and beat the Enforcers, and in December 2008 lose to the Easy Riders, team with their father Sam Keith to beat Sammy Bach & the Easy Riders and beat the Fly Boys.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "acid-dragon-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "Acid Dragon",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Acid",
+    "character_id": "acid-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "UK Dragon",
+    "character_id": "uk-dragon-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-08-p345-434.html."
+   }
+  ],
+  "caption": "Acid and UK Dragon, billed as a major tag team reunited from WLW, who come to Badge of Honor in August 2008 with Laura Huggins at ringside and lose to the Disrespected. In November 2008 Acid and UK Dragon team up against Steve Gumble before Acid wins the three-way match. In December 2008 Acid and UK Dragon lose to the New Wave on Badge of Honor.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-enforcers-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Enforcers",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Enforcers"
+  ],
+  "members": [
+   {
+    "name": "Jack Marlowe",
+    "character_id": "jack-marlowe-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Julian Watson",
+    "character_id": "julian-watson-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-09-p448-531.html."
+   }
+  ],
+  "caption": "Jack Marlowe and Julian Watson, the name Tommy Cornell gives the Syndicate's new tag team, who ambush John Anderson in September 2008, lose a six-man tag with Edd Stone to the Young Guns and Art Reed, and lose a tag title match on Badge of Honor to the New Wave when Scout locks in the Special Force, and in October 2008 help Edd Stone against Danny Fonzarelli and hurt Sam Keith, and in November 2008 lose to the Keith Brothers on Badge of Honor and, at A Little South Of Sanity, beat down John Anderson in the three-way International Championship match, and in December 2008 target the Keith twins in a Badge of Honor beatdown and join the brawl in Tyson Baine & Wolf Hawkins's win over John Anderson & Rick Law.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dpw-2003-the-enforcers",
+     "enforcers-cwo",
+     "the-enforcers-gw",
+     "the-enforcers-vwf-vegas-2003",
+     "the-enforcers-wsw-2004"
+    ],
+    "note": "An exact name match with another promotion's own tag team or stable. Each is filed as its own per-promotion row, never merged."
+   }
+  ]
+ },
+ {
+  "id": "the-stone-brothers-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Stone Brothers",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Stone Brothers"
+  ],
+  "members": [
+   {
+    "name": "Edd Stone",
+    "character_id": "edd-stone-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Jeremy Stone",
+    "character_id": "jeremy-stone-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-09-p448-531.html."
+   }
+  ],
+  "caption": "Edd and Jeremy Stone, who team on Total Wrestling in September 2008 for the first time in over a year and beat the Keith Brothers when Jeremy applies the Stone Hold to Greg Keith, and in October 2008 draw with the New Wave in a non-title match on Total Wrestling, and in November 2008 beat Tooth & Claw, the Easy Riders and the Conquering Kings but are eliminated by the New Wave at A Little South Of Sanity, and in December 2008 lose to Rick Law & Troy Tornado and draw with the Machines.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-elite-express-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Elite Express",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Elite Express"
+  ],
+  "members": [
+   {
+    "name": "Bobby Thomas",
+    "character_id": "bobby-thomas-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Nate Johnson",
+    "character_id": "nate-johnson-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-10-p543-627.html."
+   }
+  ],
+  "caption": "Bobby Thomas and Nate Johnson, a Canadian team Mayhem Midden says has a significant championship pedigree elsewhere, who make their TCW debut in the tag tournament in October 2008, lose to the Keith Brothers and lose to the Machines on Badge of Honor, and in November 2008 lose to the New Wave and to Johnny Bloodstone & Sam Keith, debut the Precision Driller and enter a six-man contendership match, and in December 2008 beat the Young Guns and Tooth & Claw, then lose to the Conquering Kings.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "elite-express-cwf-classic-1997"
+    ],
+    "note": "An exact name match with another promotion's own tag team or stable. Each is filed as its own per-promotion row, never merged."
+   }
+  ]
+ },
+ {
+  "id": "tooth-claw-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "Tooth & Claw",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Tooth and Claw"
+  ],
+  "members": [
+   {
+    "name": "Lobo Blanco",
+    "character_id": "lobo-blanco-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "American Eagle",
+    "character_id": "american-eagle-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-11-p641-721.html."
+   }
+  ],
+  "caption": "Lobo Blanco and the American Eagle, a pair of newcomers who make their TCW debut in November 2008, lose to the Easy Riders on Badge of Honor, lose to the Stone Brothers on Total Wrestling a few days later, and are judged by Tommy Cornell to have failed the test that the Easy Riders and the Stone Brothers gave them, and in December 2008 lose to the Elite Express and to Frankie Perez & Remo Richardson.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-balcony-express-tcw-a-quiet-retirement",
+  "type": "unit",
+  "name": "The Balcony Express",
+  "unit_kind": "tag-team",
+  "aka": [
+   "Balcony Express"
+  ],
+  "members": [
+   {
+    "name": "Dean Waldorf",
+    "character_id": "dean-waldorf-tcw-a-quiet-retirement"
+   },
+   {
+    "name": "Statler",
+    "character_id": "statler-tcw-a-quiet-retirement"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tcw-a-quiet-retirement",
+    "source": "The diary's own posts bill the team from /promotions/tcw-a-quiet-retirement/archive/month-2008-11-p641-721.html."
+   }
+  ],
+  "caption": "Dean Waldorf and Statler, the young tag team that Randall Hopkirk chose to manage after retiring from the ring, who debut on Badge of Honor in November 2008, are beaten by Tommy Cornell & Wolf Hawkins and by the School of Tradition, and whom Hopkirk calls a work in progress next to teams like the Young Guns and the New Wave, and in December 2008 lose to Frankie Perez & Remo Richardson, Remo's Destroyer felling Dean Waldorf and Marv Statler taking the pin; a Badge of Honor preview calls them the newest members of Painful Procedure.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

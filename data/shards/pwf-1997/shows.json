@@ -1,0 +1,18 @@
+[
+ {
+  "id": "pwf-1997-first-card-1997-03-28",
+  "type": "show",
+  "name": "PWF, 28 March 1997 (the fed's first card)",
+  "promotion": "pwf-1997",
+  "date": {
+   "date": "1997-03-26",
+   "precision": "exact",
+   "source": "The fed's own recap posted 28 March 1997 dates the card itself to \"last Wednesday night\" (26 March 1997)."
+  },
+  "page": "/promotions/pwf-1997/archive/pwf-first-card-1997-03-28.html",
+  "collection": "0148",
+  "venue": "The Pond",
+  "city": "Anaheim, California",
+  "notes": "Eleven matches, each with an explicit timed RESULT line; a real-wrestler-portrayal roster. No appearances[]/matches[] structuring in this delta: the per-promotion portrayal rule requires each portrayed wrestler to carry a portrayal_of edge into external-figures.json, a shared spine file outside this delta's own shard scope -- the coordinator's fold pass should mint the roster against external-figures.json and structure this show's own match ledger. The fed's own first and only PPV ('In Search of a Champion', announced for 12/13 April) is never posted in the held record; no champion of the fed's three founding titles is ever named. Gap registered per the processing bar."
+ }
+]

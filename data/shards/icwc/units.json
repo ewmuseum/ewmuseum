@@ -1,0 +1,127 @@
+[
+ {
+  "id": "nasty-boys-icwc",
+  "type": "unit",
+  "name": "Nasty Boys",
+  "unit_kind": "tag-team",
+  "caption": "A one-time World Tag Team Champion, per ICWC's own served title-history record, fielding Brian Knobbs & Jerry Sags per the fed's own served card scripts.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "portrays": {
+   "figure": "nasty-boys-real",
+   "grade": "primary-source",
+   "note": "The fed's own served title-history ledger bills this unit under the real tag team's own name."
+  },
+  "portrayal_of": "nasty-boys-real",
+  "members": [
+   {
+    "name": "Brian Knobbs",
+    "character_id": "brian-knobbs-icwc"
+   },
+   {
+    "name": "Jerry Sags",
+    "character_id": "jerry-sags-icwc"
+   }
+  ]
+ },
+ {
+  "id": "doom-icwc",
+  "type": "unit",
+  "name": "Doom",
+  "unit_kind": "tag-team",
+  "caption": "A one-time World Tag Team Champion, per ICWC's own served title-history record, fielding Ron Simmons & Butch Reed per the fed's own served card scripts.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "portrays": {
+   "figure": "doom-real",
+   "grade": "primary-source",
+   "note": "The fed's own served title-history ledger bills this unit under the real tag team's own name."
+  },
+  "portrayal_of": "doom-real",
+  "members": [
+   {
+    "name": "Ron Simmons",
+    "character_id": "ron-simmons-icwc"
+   },
+   {
+    "name": "Butch Reed",
+    "character_id": "butch-reed-icwc"
+   }
+  ]
+ },
+ {
+  "id": "powers-of-pain-icwc",
+  "type": "unit",
+  "name": "Powers of Pain",
+  "unit_kind": "tag-team",
+  "caption": "A one-time World Tag Team Champion, per ICWC's own served title-history record, fielding Warlord & Barbarian per the fed's own served card scripts.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "portrays": {
+   "figure": "powers-of-pain-real",
+   "grade": "primary-source",
+   "note": "The fed's own served title-history ledger bills this unit under the real tag team's own name."
+  },
+  "portrayal_of": "powers-of-pain-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Decorated-aka substring collision only: \"Powers of Pain\" normalizes to contain \"Powers,\" a generic surname two unrelated PWF-era single characters also carry. Different promotions, no receipt joining any of them; this row is a real-wrestler portrayal of the actual Powers of Pain tag team. Filed per the no-auto-merge-and-no-silent-distinctness rule.",
+    "with": [
+     "maxwell-powers-pwf",
+     "sir-matthew-powers-pwf"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "name": "Warlord",
+    "character_id": "warlord-icwc"
+   },
+   {
+    "name": "Barbarian",
+    "character_id": "barbarian-icwc"
+   }
+  ]
+ }
+]

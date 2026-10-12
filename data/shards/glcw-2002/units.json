@@ -1,0 +1,500 @@
+[
+ {
+  "id": "the-unholy-alliance-glcw-2002",
+  "type": "unit",
+  "name": "The Unholy Alliance",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Kraven",
+    "character_id": "kraven-glcw-2002"
+   },
+   {
+    "name": "Flatliner",
+    "character_id": "flatliner-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2002-10-10",
+    "last_seen": "2003-07-13",
+    "source": "The fed's own broadcast pages, which bill the members as the team."
+   }
+  ],
+  "caption": "Kraven and Flatliner, with JC in their corner, who won GLCW's first Tag Team Championship at Chi-Town Showdown I on 10 October 2002 and kept it through Flint Wired; Kraven submitted in WarGames at Ringlords I on 9 June 2003, Dakota Smith joined them, and at Columbus Riptide on 9 July they retired and handed the titles to King Krusher.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 12,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-unholy-alliance-gxw-2001",
+     "the-unholy-alliance-vwf-vegas-2003"
+    ],
+    "note": "A shared team name only: the other record belongs to a different fed, and nothing in this fed's pages ties it to this one."
+   }
+  ]
+ },
+ {
+  "id": "the-movement-glcw-2002",
+  "type": "unit",
+  "name": "The Movement",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Rocky Wellington",
+    "character_id": "rocky-wellington-glcw-2002"
+   },
+   {
+    "name": "Shane Rockwell",
+    "character_id": "shane-rockwell-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2002-09-21",
+    "last_seen": "2003-08-16",
+    "source": "The fed's own broadcast pages, which bill the members as the team."
+   }
+  ],
+  "caption": "Rocky Wellington and Shane Rockwell, with Britni Kelley, who won 6 of their 10 matches on GLCW's cards from 21 September 2002 to 16 August 2003.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 10,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-movement",
+     "the-movement-gcw-gcwonline-2001",
+     "the-movement-glw"
+    ],
+    "note": "A shared team name only: the other record belongs to a different fed, and nothing in this fed's pages ties it to this one."
+   }
+  ]
+ },
+ {
+  "id": "the-high-plains-drifters-glcw-2002",
+  "type": "unit",
+  "name": "The High Plains Drifters",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Dalton Parker",
+    "character_id": "dalton-parker-glcw-2002"
+   },
+   {
+    "name": "Kurt Rogers",
+    "character_id": "kurt-rogers-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2002-09-21",
+    "last_seen": "2002-11-14",
+    "source": "The fed's own broadcast pages, which bill the members as the team."
+   }
+  ],
+  "caption": "Dalton Parker and Kurt Rogers, with no wins in 4 matches on GLCW's cards from 21 September to 14 November 2002.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "gridlock-glcw-2002",
+  "type": "unit",
+  "name": "Gridlock",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Raze",
+    "character_id": "raze-glcw-2002"
+   },
+   {
+    "name": "Nuke",
+    "character_id": "nuke-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2002-10-10",
+    "last_seen": "2003-03-01",
+    "source": "The fed's own broadcast pages, which bill the members as the team."
+   }
+  ],
+  "caption": "Raze and Nuke, with Sly Sterling, who won 4 of their 8 matches on GLCW's cards from 10 October 2002 to 1 March 2003.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-spider-murphy-experience-glcw-2002",
+  "type": "unit",
+  "name": "The Spider Murphy Experience",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Spider Murphy",
+    "character_id": "spider-murphy-glcw-2002"
+   },
+   {
+    "name": "Rahul Seth",
+    "character_id": "rahul-seth-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2003-01-06",
+    "last_seen": "2003-03-28",
+    "source": "The fed's own broadcast posts and match-folder roleplays, which bill the members as the team."
+   }
+  ],
+  "caption": "Spider Murphy and \"Bollywood\" Rahul Seth, who introduced themselves in the fed's lobby on 6 January 2003, beat Martial Law at Hammond on 13 February, lost to The Movement at Cleveland Riptide on 21 February, fought the Oak Street Beach Patrol to a double countout at Green Bay and lost a Milwaukee dark match.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "martial-law-glcw-2002",
+  "type": "unit",
+  "name": "Martial Law",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Ryan Youngblood",
+    "character_id": "ryan-youngblood-glcw-2002"
+   },
+   {
+    "name": "Steve Slayer",
+    "character_id": "steve-slayer-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2003-01-22",
+    "last_seen": "2003-06-09",
+    "source": "The fed's own broadcast posts and match-folder roleplays, which bill the members as the team."
+   }
+  ],
+  "caption": "Ryan Youngblood and Steve Slayer, who debuted at Hammond on 13 February 2003; they won a Milwaukee dark match over the Spider Murphy Experience, lost to the Unholy Alliance at Flint and the Dogs of War at Indianapolis, beat Major Impact at Duluth and were eliminated first at Ringlords I.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "martial-law-gdwa"
+    ],
+    "note": "A shared team name only: the other record belongs to a different fed, and nothing in this fed's pages ties it to this one."
+   }
+  ]
+ },
+ {
+  "id": "the-oak-street-beach-patrol-glcw-2002",
+  "type": "unit",
+  "name": "The Oak Street Beach Patrol",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Harold Haggler",
+    "character_id": "harold-haggler-glcw-2002"
+   },
+   {
+    "name": "Alex Hand",
+    "character_id": "alex-hand-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2003-01-31",
+    "last_seen": "2003-07-09",
+    "source": "The fed's own broadcast posts and match-folder roleplays, which bill the members as the team."
+   }
+  ],
+  "caption": "Harold Haggler and Alex Hand, two surfers from Chicago billed as the Oak Street Beach Patrol, who drew with the Spider Murphy Experience at Green Bay, lost to Morgan and Ash at Milwaukee, the Dogs of War at Flint and Major Impact at Indianapolis, went out second at Ringlords I and lost to Major Impact at Columbus Riptide on 9 July 2003.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-dogs-of-war-glcw-2002",
+  "type": "unit",
+  "name": "The Dogs of War",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Chris McMillan",
+    "character_id": "chris-mcmillan"
+   },
+   {
+    "name": "Jason Payne",
+    "character_id": "jason-payne"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2003-03-11",
+    "last_seen": "2003-08-16",
+    "source": "The fed's own broadcast posts and match-folder roleplays, which bill the members as the team."
+   }
+  ],
+  "caption": "\"The Wolf\" Chris McMillan and Jason Payne, old partners from the Basham-Schultz Wrestling Academy, who beat the Oak Street Beach Patrol and Martial Law in the spring, won the Ringlords I four-way on 9 June 2003, went to a double countout with the Krymson Dragons at Columbus Riptide and lost the vacant titles to The Movement at Wisconsin Dells.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dogs-of-war-pwa-1992",
+     "the-dogs-of-war-wewf"
+    ],
+    "note": "The PWA's Dogs of War of 1992 are Slash and Ravage under Dr X, and the WeWF's of 1992 are Death and Destruction; this fed's are Chris McMillan and Jason Payne. A shared team name only, and no page ties either to this team."
+   }
+  ]
+ },
+ {
+  "id": "major-impact-glcw-2002",
+  "type": "unit",
+  "name": "Major Impact",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Jon Savage",
+    "character_id": "jon-savage-glcw-2002"
+   },
+   {
+    "name": "Ric Savage",
+    "character_id": "ric-savage-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2003-04-12",
+    "last_seen": "2003-10-15",
+    "source": "The fed's own broadcast posts and match-folder roleplays, which bill the members as the team."
+   }
+  ],
+  "caption": "Jon Savage and his identical twin Ric, managed by Johnny Wildside as The General, who beat the Oak Street Beach Patrol at Indianapolis and Columbus, Southern Thunder at Wisconsin Dells and James and Jones at Joliet; Martial Law beat them at Duluth, The Movement at Akron Wired and Kidd and Joe Clarke at Champaign Riptide.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-krymson-dragons-glcw-2002",
+  "type": "unit",
+  "name": "The Krymson Dragons",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Chamelion",
+    "character_id": "chamelion-ii-pwa-pioneer"
+   },
+   {
+    "name": "Raizzor",
+    "character_id": "raizzor-pwa-pioneer"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2003-05-18",
+    "last_seen": "2003-07-19",
+    "source": "The fed's own broadcast posts and match-folder roleplays, which bill the members as the team."
+   }
+  ],
+  "caption": "Chamelion and Raizzor, who say they are back after a long war in the PWA, the W4F and the ECWA, in roleplays of 18 May and 15 June 2003 against the Dogs of War and Steven James and Lincoln Jones; they went to a double countout with the Dogs of War at Columbus Riptide on 9 July and lost to James and Jones at Akron Wired.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "southern-thunder-glcw-2002",
+  "type": "unit",
+  "name": "Southern Thunder",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Black Heart",
+    "character_id": "black-heart-glcw-2002"
+   },
+   {
+    "name": "Thunderbolt",
+    "character_id": "thunderbolt-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2003-07-13",
+    "last_seen": "2003-09-01",
+    "source": "The fed's own broadcast posts and match-folder roleplays, which bill the members as the team."
+   }
+  ],
+  "caption": "Black Heart and Thunderbolt, two masked Texan brothers billed as Southern Thunder, who lost their non-televised debut to Major Impact at Wisconsin Dells Riptide on 15 August 2003 and the Joliet Wired six-man match with Golden Hawk, and have roleplay folders against Major Impact and Danish Domination.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "southern-thunder-wfw-worlds-finest-2003"
+    ],
+    "note": "A shared name and a masked Texan cowboy billing in the same year: the WFW record of 2003 is one masked Texan cowboy in a long duster who talks of storms, this fed's Southern Thunder two masked Texan brothers named Black Heart and Thunderbolt. No page of either fed names the other, so the two stay apart (a lead for a merge pass: same name, same gimmick, same year)."
+   }
+  ]
+ },
+ {
+  "id": "danish-domination-glcw-2002",
+  "type": "unit",
+  "name": "Danish Domination",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Jack Jensen",
+    "character_id": "jack-jensen-glcw-2002"
+   },
+   {
+    "name": "Lloyd Loth",
+    "character_id": "lloyd-loth-glcw-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "glcw-2002",
+    "first_seen": "2003-08-16",
+    "last_seen": "2003-10-15",
+    "source": "The fed's own broadcast posts and match-folder roleplays, which bill the members as the team."
+   }
+  ],
+  "caption": "Jack Jensen, who calls himself Yack Yensen, and his cousin Lloyd Loth, two Danes who lost to Steven James and Lincoln Jones in a non-televised match at Champaign Riptide on 15 October 2003 and have roleplay folders against them and against Southern Thunder.",
+  "caption_asof": {
+   "written": "2026-10-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

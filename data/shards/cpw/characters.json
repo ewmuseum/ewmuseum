@@ -1,0 +1,80 @@
+[
+ {
+  "id": "blackblood-cpw",
+  "type": "character",
+  "name": "Blackblood",
+  "tenures": [
+   {
+    "promotion": "cpw",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — Virginia Tag Team Champion",
+    "source": "promotions/cpw/archive/saturday-night-drop-zone-1997-10-12-2-of-2.html"
+   }
+  ],
+  "caption": "Half of Satan's Minions, who came off the top with a flying legdrop to help win the Virginia Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "archangel-cpw",
+  "type": "character",
+  "name": "Archangel",
+  "tenures": [
+   {
+    "promotion": "cpw",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — Virginia Tag Team Champion",
+    "source": "promotions/cpw/archive/saturday-night-drop-zone-1997-10-12-2-of-2.html"
+   }
+  ],
+  "caption": "Half of Satan's Minions, whose slingshot dropkick and Fallen Angel Press closed out the Virginia Tag Team title match.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "archangel-chwe",
+     "archangel-iwf",
+     "archangel-lcw",
+     "archangel-newa-1992",
+     "archangel-pwf",
+     "archangel-wmw",
+     "archangel-wwa"
+    ]
+   }
+  ]
+ }
+]

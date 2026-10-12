@@ -1,0 +1,79 @@
+[
+ {
+  "id": "iwo-army-iaw-1999",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "The IWO Army",
+  "members": [
+   "president-angus-iaw-1999",
+   "daddy-mack-iaw-1999",
+   "soul-assassin-iaw-1999",
+   "brian-mcstevens-iaw-1999",
+   "the-main-event-iaw-1999"
+  ],
+  "caption": "A stable of wrestlers and their co-president who ran roughshod over the roster together, drawing ringside access to their own president's cage match.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "shows": 1,
+    "members": 5
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "iaw-1999",
+    "first_seen": "1999-10-28",
+    "last_seen": "1999-10-28",
+    "source": "/promotions/iaw-1999/archive/iaw-thursday-showdown-1999-10-28.html"
+   }
+  ]
+ },
+ {
+  "id": "the-freaks-iaw-1999",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "The Freaks",
+  "members": [
+   "assassin-the-freaks-iaw-1999",
+   "jonathan-davs-iaw-1999",
+   "fear-iaw-1999",
+   "fred-durst-iaw-1999"
+  ],
+  "caption": "A four-wrestler stable that ganged up on a lone opponent in a handicap match and still came up short.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "shows": 1,
+    "members": 4
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "iaw-1999",
+    "first_seen": "1999-10-28",
+    "last_seen": "1999-10-28",
+    "source": "/promotions/iaw-1999/archive/iaw-thursday-showdown-1999-10-28.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (stb-wwa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "stb-wwa"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-freaks-inwi); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-freaks-inwi"
+    ]
+   }
+  ]
+ }
+]

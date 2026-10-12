@@ -1,0 +1,193 @@
+[
+  {
+    "id": "sjpw-cruiserweight-r001",
+    "title": "sjpw-cruiserweight",
+    "label": "Super Tengu",
+    "holder": [
+      {
+        "id": "super-tengu-rspwf"
+      }
+    ],
+    "collection": "0138",
+    "won": {
+      "date": "1997-06-07",
+      "precision": "exact",
+      "source": "Defeated Shinji \"Live\" Hamada in a pre-arranged finish at Battlecade '97, the fed's first pay-per-view, per the operator's own retrospective disclosure (promotions/sjpw/archive/too-real-jul1997.html) and his 8 June 1997 reference to Tengu as \"the newly crowned SJPW Cruiserweight champion\" (promotions/sjpw/archive/announcement-new-fed-8jun1997.html)."
+    },
+    "lost": {
+      "date": "1997-09-21",
+      "precision": "exact"
+    },
+    "how": "Lost to Ace Killcannon at the Super J Crown Tournament pay-per-view.",
+    "end_how": "lost-in-match",
+    "note": "Battlecade '97 itself (7 June 1997) is not served -- a zero-body collection gap -- so `event` is left unset rather than pointed at a document that only reports the result after the fact; see the two cited sources above."
+  },
+  {
+    "id": "sjpw-cruiserweight-r002",
+    "title": "sjpw-cruiserweight",
+    "label": "Ace Killcannon",
+    "holder": [
+      {
+        "id": "ace-killcannon-rspwf"
+      }
+    ],
+    "collection": "0138",
+    "won": {
+      "date": "1997-09-21",
+      "precision": "exact",
+      "source": "Defeated Super Tengu at the Super J Crown Tournament pay-per-view, per the operator's own year-end review (promotions/sjpw/archive/year-end-review-dec1997.html: \"his loss to Ace Kilcannon at The Super J Crown tournament\"; \"SJPW cruiserweight champion Ace Kilcannon\")."
+    },
+    "how": "Still champion as of the surviving record's end (16-18 December 1997), with Derek Mota lined up for a cage-match challenge.",
+    "end_how": "still-champion-at-record-end",
+    "note": "The Super J Crown Tournament pay-per-view itself is not served -- a zero-body collection gap -- so `event` is left unset rather than pointed at the retrospective document alone."
+  },
+  {
+    "id": "sjpw-all-asian-tag-team-r001",
+    "title": "sjpw-all-asian-tag-team",
+    "label": "Black Sun Rising",
+    "holder": [
+      {
+        "id": "black-sun-rising-sjpw"
+      }
+    ],
+    "collection": "0138",
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "The operator's own year-end review confirms the win without a date: \"they won the All Asian tag titles and the rest has been purely fun\" (promotions/sjpw/archive/year-end-review-dec1997.html)."
+    },
+    "end_how": "still-champion-at-record-end",
+    "note": "No earlier holder or date survives in the held record; gap-registered rather than invented."
+  },
+  {
+    "id": "sjpw-battle-arts-r001",
+    "title": "sjpw-battle-arts",
+    "label": "Steel Serpent",
+    "holder": [
+      {
+        "id": "steel-serpent-sjpw"
+      }
+    ],
+    "collection": "0138",
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "The operator's own year-end recap names him \"our current Battle Arts champ\" (promotions/sjpw/archive/rspwf-200-well-lookie-here-dec1997.html) without a win date."
+    },
+    "end_how": "still-champion-at-record-end",
+    "note": "No earlier holder or date survives in the held record; gap-registered rather than invented."
+  },
+  {
+    "id": "sjpw-middleweight-r001",
+    "title": "sjpw-middleweight",
+    "label": "Ishikawa",
+    "holder": [
+      {
+        "id": "ishikawa-sjpw"
+      }
+    ],
+    "collection": "0138",
+    "won": {
+      "date": "1997-11",
+      "precision": "circa",
+      "source": "Defeated Jet Jaguar in the SJPW Middleweight title tournament finals, reported by the operator in a 1 December 1997 post (promotions/sjpw/archive/simmed-vs-booked-pt2-dec1997.html) as a recent result; no exact date survives."
+    },
+    "end_how": "still-champion-at-record-end",
+    "note": "The tournament itself is not served -- a zero-body collection gap -- so `event` is left unset rather than pointed at the retrospective document alone."
+  },
+  {
+    "id": "sjpw-gunryo-r001",
+    "title": "sjpw-gunryo",
+    "label": "Despair",
+    "holder": [
+      {
+        "id": "despair-sjpw"
+      }
+    ],
+    "collection": "0153",
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Billed as the reigning Gunryo Champion on the revival's own 19-24 April 2004 house-show bulletin and again in the Okinawa Fight Club Kamikaze house show (15 May 2004), where his own title belt is twice used against him in a post-match brawl."
+    },
+    "end_how": "still-champion-at-record-end",
+    "note": "No earlier holder or title-change document survives in the held record read to date; gap-registered rather than invented."
+  },
+  {
+    "id": "sjpw-ncwf-cruiserweight-r001",
+    "title": "sjpw-ncwf-cruiserweight",
+    "label": "Masashi \"Lightning\" Lanther",
+    "holder": [
+      {
+        "id": "masashi-lanther-sjpw"
+      }
+    ],
+    "collection": "0153",
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "The Okinawa Fight Club Kamikaze house show (15 May 2004) describes him as having 'held the NCWF title for a very long time' before seconding a later challenger for it."
+    },
+    "note": "The title passed to a later champion before this pass's own reading window; no document records the change, so no lost date or end_how is given.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "sjpw-ncwf-cruiserweight-r002",
+    "title": "sjpw-ncwf-cruiserweight",
+    "label": "Super Bakemono",
+    "holder": [
+      {
+        "id": "super-bakemono-sjpw"
+      }
+    ],
+    "collection": "0153",
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Billed as the reigning champion on both the Okazaki City Gym house show (10 May 2004, declining to defend) and the Okinawa Fight Club Kamikaze house show (15 May 2004, defending)."
+    },
+    "note": "Successfully defended the title against El Santa Azteca in Okinawa on 15 May 2004. Lost the title before 11 August 2004; no document read to date records the change itself, gap-registered rather than invented.",
+    "lost": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "No document this pass could read records the title change; Super Bakemono is last billed as NCWF champion in the wing's own prior pass (wave C03-STRUCTURE-13, Okinawa Fight Club Kamikaze, 15 May 2004), and Masashi Lanther is first billed as champion again in this pass's own promotions/sjpw/archive/chiimu-tora-dojo-2004-08-11.html (11 August 2004). The revival's own press conference (served by wave C03-STRUCTURE-17) advance-announced a Lanther/Bakemono NCWF title match at Zenmen Sensou (26 June 2004), which this pass treats as the probable but unattested occasion for the change, consistent with that title match being unreadable under the no-network rule."
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "sjpw-grand-prix-heritage-r001",
+    "title": "sjpw-grand-prix-heritage",
+    "label": "Kentaro \"H-Bomb\" Kawasaki",
+    "holder": [
+      {
+        "id": "kentaro-kawasaki-nwcj-1999"
+      }
+    ],
+    "collection": "0153",
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "First billed as GPH Champion in promotions/sjpw/archive/tokyo-club-atom-2004-07-11.html and the News & Notes bulletin of 9 July 2004, immediately after the revival's own unread Zenmen Sensou supershow (26 June 2004), where a press conference had advance-announced a new Grand Prix Heritage title; the title match itself is not attested by any document this pass could read."
+    },
+    "end_how": "still-champion-at-record-end",
+    "note": "Defended to a thirty-minute time-limit draw against Noboru \"Raging Bull\" Nishida (promotions/sjpw/archive/tokyo-oi-store-2004-07-19.html, 19 July 2004); billed as still champion through promotions/sjpw/archive/gyoda-citizen-gymnasium-2004-08-20.html and the News & Notes bulletin of 1 September 2004, which names Tasogare no Prince as the presumptive next challenger. Two further defenses (against Masashi Lanther on the collect-only The Zone! 8/7/04, and in a scramble trios match on the collect-only The Zone! 8/27/04) are referenced only in prose and are not structured, since neither television broadcast is fetchable under the no-network rule."
+  },
+  {
+    "id": "sjpw-ncwf-cruiserweight-r003",
+    "title": "sjpw-ncwf-cruiserweight",
+    "label": "Masashi \"Lightning\" Lanther",
+    "holder": [
+      {
+        "id": "masashi-lanther-sjpw"
+      }
+    ],
+    "collection": "0153",
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "First billed as champion in promotions/sjpw/archive/chiimu-tora-dojo-2004-08-11.html (11 August 2004), defending against Shoji Suzuki to a draw; the revival's own press conference (served by wave C03-STRUCTURE-17) had advance-announced a Lanther/Bakemono title match at the unread Zenmen Sensou supershow (26 June 2004), which this pass treats as the probable, but unattested, title change."
+    },
+    "end_how": "still-champion-at-record-end",
+    "note": "Billed as champion again in promotions/sjpw/archive/tokyo-marine-2004-08-25.html (25 August 2004) and the News & Notes bulletin of 1 September 2004, which names him defending at the coming Jisedei: Tsunami supershow."
+  }
+]

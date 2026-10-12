@@ -1,0 +1,56 @@
+[
+ {
+  "id": "executive-mafia-xwf-2001",
+  "type": "unit",
+  "name": "Executive Mafia",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "President Nunes"
+   },
+   {
+    "name": "Commisioner Sarkkhan"
+   },
+   {
+    "name": "Brawler",
+    "character_id": "brawler-xwf-2001"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-2001",
+    "first_seen": "2001",
+    "last_seen": "2002",
+    "role": "stable — the fed's own front office",
+    "source": "the fed's own Stables page (promotions/xwf-2001/archive/stables.html); the home page's own last update line announces a logo for it (promotions/xwf-2001/archive/home-page.html)",
+    "note": "The fed's own stables table is the only place two of the three members are named at all; neither has a profile, a bio, or an appearance anywhere in the surviving record, so neither is minted as a character. The stables table styles Sarkkhan \"Commisioner\" [sic] while the Fictional Staff page gives that office to Brawler — the fed's own two pages disagree and neither is corrected here.",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Its normalized label contains that of three unrelated registered entities billed \"The Executive\" (the-executive-wwa, executive-aicw, the-executive-rcw-royal) as a substring; a generic front-office word, with no document connecting any of them.",
+    "with": [
+     "the-executive-wwa",
+     "executive-aicw",
+     "the-executive-rcw-royal"
+    ]
+   }
+  ],
+  "caption": "The XWF's only stable, and its own front office — a president, a commissioner and the commissioner-wrestler Brawler — given a logo of its own in what turned out to be the site's last recorded update.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

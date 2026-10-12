@@ -1,0 +1,84 @@
+[
+ {
+  "id": "austin-gewf",
+  "type": "character",
+  "name": "Austin",
+  "caption": "One of the GEWF's two co-presidents, brother to Nathan, who signs the fed's own recruitment ads and drew wrestlers' likenesses by request.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gewf",
+    "first_seen": "1997-03",
+    "last_seen": "1997-03",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "GEWF's own served March 1997 recruitment ads (promotions/gewf/archive/).",
+    "relationships": [
+     {
+      "who": "nathan-gewf",
+      "nature": "sibling",
+      "note": "The fed's own ads: \"the other president is my brother, Nathan.\""
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "nathan-gewf",
+  "type": "character",
+  "name": "Nathan",
+  "caption": "Austin's brother and the GEWF's co-president.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gewf",
+    "first_seen": "1997-03",
+    "last_seen": "1997-03",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "GEWF's own served March 1997 recruitment ads (promotions/gewf/archive/).",
+    "relationships": [
+     {
+      "who": "austin-gewf",
+      "nature": "sibling",
+      "note": "The fed's own ads: \"the other president is my brother, Nathan.\""
+     }
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Bare forename collision only ('Nathan' is one of the most generic given names in the held record); no document anywhere ties GEWF's own co-president to OBW's own Nathan -- different fed, different era, no shared evidence. No-auto-merge default: distinct.",
+    "with": [
+     "nathan-obw"
+    ]
+   }
+  ]
+ }
+]

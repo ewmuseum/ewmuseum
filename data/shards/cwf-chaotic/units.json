@@ -1,0 +1,258 @@
+[
+ {
+  "id": "chaos-ad-cwf-chaotic",
+  "type": "unit",
+  "name": "Chaos A.D.",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Dazz",
+    "character_id": "dazz-cwf-chaotic"
+   },
+   {
+    "name": "Violent A",
+    "character_id": "violent-a-cwf-chaotic"
+   },
+   {
+    "name": "Tommy Chaos",
+    "character_id": "tommy-chaos-cwf-chaotic"
+   },
+   {
+    "name": "Jake Fury",
+    "character_id": "jake-fury-cwf-chaotic"
+   },
+   {
+    "name": "Faith",
+    "character_id": "faith-cwf-chaotic"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cwf-chaotic",
+    "source": "Its own About page and Hall of Fame pages name Dazz and Tommy Chaos as founding members and Violent A as a member, Jake Fury as a member of the reformed group and Faith as a member; Dazz and Violent A reunite on Ultimate Chaos (3 April 2007)."
+   }
+  ],
+  "caption": "The founding group of the federation, which Dazz and Violent A re-formed for one last tag match against Talent Inc on the final Ultimate Chaos.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "talent-inc-cwf-chaotic",
+  "type": "unit",
+  "name": "Talent Inc",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Christian Connolly",
+    "character_id": "christian-connolly-cwf-chaotic"
+   },
+   {
+    "name": "Dark Rayne",
+    "character_id": "dark-rayne-cwf-chaotic"
+   },
+   {
+    "name": "Dragon Master",
+    "character_id": "dragon-master-cwf-chaotic"
+   },
+   {
+    "name": "Johnny Speede",
+    "character_id": "johnny-speede-cwf-chaotic"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cwf-chaotic",
+    "source": "Its own About page lists Christian Cage, Dark Rayne, Dragon Master and Johnny Speede as Talent Inc; Ultimate Chaos (3 April 2007) bills Dark Rayne and Christian Connolly as the team."
+   }
+  ],
+  "caption": "The most popular group in the federation's second run, billed on its own About page as Christian Cage, Dark Rayne, Dragon Master and Johnny Speede, and on the last broadcast as Dark Rayne and Christian Connolly.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "generation-xtreme-cwf-chaotic",
+  "type": "unit",
+  "name": "Generation Xtreme",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "John Thomas",
+    "character_id": "john-thomas-cwf-chaotic"
+   },
+   {
+    "name": "X-Factor",
+    "character_id": "x-factor-cwf-chaotic"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cwf-chaotic",
+    "source": "Enters together as Generation Xtreme on Genocide (22 October 2006) and defends the Tag Team titles on Ultimate Chaos (3 April 2007)."
+   }
+  ],
+  "caption": "The pair of John Thomas and X-Factor, who enter under an X logo and were Tag Team champions by the last Ultimate Chaos.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-hit-squad-cwf-chaotic",
+  "type": "unit",
+  "name": "The Hit Squad",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "The Punk",
+    "character_id": "the-punk-cwf-chaotic"
+   },
+   {
+    "name": "Roman Steeler",
+    "character_id": "roman-steeler-cwf-chaotic"
+   },
+   {
+    "name": "Vash the Stampede",
+    "character_id": "vash-the-stampede-cwf-chaotic"
+   },
+   {
+    "name": "Jay D Scott",
+    "character_id": "jay-d-scott-cwf-chaotic"
+   },
+   {
+    "name": "Michael Machete",
+    "character_id": "michael-machete-cwf-chaotic"
+   },
+   {
+    "name": "Neptune",
+    "character_id": "neptune-cwf-chaotic"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cwf-chaotic",
+    "source": "Defends the Tag Team titles on Genocide (22 October 2006) with The Punk and Roman Steeler; Ultimate Chaos (3 April 2007) names Michael Machete a former member and Neptune the newest."
+   }
+  ],
+  "caption": "A team the crowd booed on both surviving broadcasts, Tag Team champions at Genocide and former champions by the last Ultimate Chaos.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: no shared operator, chronology or storyline evidence in this wing's own record ties this group to the same-named unit already held at another wing.",
+    "with": [
+     "the-hit-squad-cswa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "icons-of-extreme-cwf-chaotic",
+  "type": "unit",
+  "name": "Icons of Extreme",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Jake Fury",
+    "character_id": "jake-fury-cwf-chaotic"
+   },
+   {
+    "name": "Fuel",
+    "character_id": "fuel-cwf-chaotic"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cwf-chaotic",
+    "source": "Enter together as the Icons of Extreme in the Tag Team title match on Genocide (22 October 2006)."
+   }
+  ],
+  "caption": "The hardcore veteran Jake Fury and the International champion Fuel, who challenged for the Tag Team titles at Genocide.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "new-two-man-power-trip-cwf-chaotic",
+  "type": "unit",
+  "name": "New Two Man Power Trip",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Iceman",
+    "character_id": "iceman-cwf-chaotic"
+   },
+   {
+    "name": "Simon Steeler",
+    "character_id": "simon-steeler-cwf-chaotic"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cwf-chaotic",
+    "source": "Challenge for the Tag Team titles on Ultimate Chaos (3 April 2007)."
+   }
+  ],
+  "caption": "A Las Vegas magician-and-assistant duo who challenged for the Tag Team titles on the last Ultimate Chaos.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

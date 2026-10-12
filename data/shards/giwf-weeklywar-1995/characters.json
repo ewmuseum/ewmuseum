@@ -1,0 +1,943 @@
+[
+  {
+    "id": "lonestar-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Lonestar",
+    "caption": "GIWF's own first attested World Heavyweight Champion, defending the title in a Gold-belt duster gimmick before losing it in Juarez, Mexico that December.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-09",
+        "last_seen": "1995-12",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/).",
+        "note": "First attested as champion in the fed's own 26 October 1995 Weekly War; the bout that won him the title is not itself in the held record."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "primary-source",
+        "note": "Coincidental name match to the held character euwc-lonestar (a different fed, EUWC); no shared evidence.",
+        "with": [
+          "euwc-lonestar"
+        ]
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "sal-defazio-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Sal DeFazio",
+    "caption": "One half of the tag champions Pressure Point, who parlayed a title win over Lonestar in Juarez into a brief singles reign of his own before Theseus Devlin took it from him in January.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-09",
+        "last_seen": "1996-09",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "gregg-matthews-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Gregg \"Comet\" Matthews",
+    "caption": "Sal DeFazio's partner in the tag champions Pressure Point, wrestling under a comet-emblazoned gimmick through the fed's Arsenal-vs-Freedom-Brigade era.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-09",
+        "last_seen": "1996-09",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "aka": [
+      "Comet",
+      "The Comet"
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "theseus-devlin-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Theseus Devlin",
+    "caption": "\"The Bod,\" who took the World Heavyweight title from Sal DeFazio by forcing him to submit in early January 1996.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-11",
+        "last_seen": "1996-01",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served title-lineage and rankings snapshots (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "aka": [
+      "The Bod"
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "desert-storm-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Desert Storm",
+    "caption": "\"The Head Patriot\" of the Freedom Brigade, a fatigues-clad World Heavyweight challenger who finally won the title in a ladder match at Wrestle Wrath.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-09",
+        "last_seen": "1996-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "aka": [
+      "The Head Patriot"
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "blobber-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Blobber",
+    "caption": "A Master Mission-managed heavyweight who challenged for the World Title at Wrestle Wrath and lost the ladder match to Desert Storm.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1996-01",
+        "last_seen": "1996-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served title-lineage and rankings snapshots (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ]
+  },
+  {
+    "id": "jacob-mcdonahey-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Jacob McDonahey",
+    "caption": "\"The I-Man\" of the Freedom Brigade, who won the inaugural United States Championship at Turkey Day Titles before losing it to Steve Latini the following April.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-09",
+        "last_seen": "1996-04",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "aka": [
+      "I-Man",
+      "The I-Man"
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "primary-source",
+        "note": "Coincidental full-name match to the character jacob-mcdonahey-icbinr, named on a different, later fed's own site index (icbinr, 1999); no shared evidence links the two beyond the name.",
+        "with": [
+          "jacob-mcdonahey-icbinr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "steve-latini-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Steve Latini",
+    "caption": "\"The Slasher,\" managed by Stanley Cupp, who escaped a steel cage ahead of Jacob McDonahey to win the United States Championship at April Showers Showdown.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1996-04",
+        "last_seen": "1996-12",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "aka": [
+      "The Slasher"
+    ]
+  },
+  {
+    "id": "chaos-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Chaos",
+    "caption": "A tournament winner who took the inaugural Light-Heavyweight Championship at Turkey Day Titles, aligned with manager Mayhem, before losing the belt to David Stevens that August.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-10",
+        "last_seen": "1996-08",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "primary-source",
+        "note": "\"Chaos\" is a recurring gimmick name reused by unrelated wrestlers and characters across a dozen different held wings (including the museum's own held giwf wing's own, later, unrelated Chaos). No evidence links this 1995-96 GIWF character to any of them beyond the shared name.",
+        "with": [
+          "chaos",
+          "chaos-aowf",
+          "chaos-ewf",
+          "chaos-fob",
+          "chaos-giwf",
+          "chaos-ihwf",
+          "chaos-iwa-icon",
+          "chaos-newf",
+          "chaos-ubf",
+          "chaos-wicew",
+          "chaos-wwa",
+          "cwfpro-chaos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "david-stevens-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "David Stevens",
+    "caption": "\"Death Sentence,\" managed by Christopher Andrews, who beat Wheels for the Light-Heavyweight title in August 1996 and was still defending it successfully as of Gold Rush II that December.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1996-08",
+        "last_seen": "1996-12",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "aka": [
+      "Death Sentence"
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "primary-source",
+        "note": "Coincidental aka collision with the unit death-sentance-ewa-email (a differently-spelled 'Death Sentance' tag team on a wholly unrelated fed, EWA/E-Mail Wrestling Federation, minted elsewhere in this same accession); no shared evidence.",
+        "with": [
+          "death-sentance-ewa-email"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coach-chris-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Coach Chris",
+    "caption": "Winner of the inaugural Women's Championship at Turkey Day Titles, who held the belt for eight months before Mean Man-Mama forced her to submit that July.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-10",
+        "last_seen": "1996-07",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ]
+  },
+  {
+    "id": "mean-man-mama-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Mean Man-Mama",
+    "caption": "Managed by Mr. Burns, she took the Women's Championship from Coach Chris in July 1996 and was still defending it successfully as of Gold Rush II that December.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1996-01",
+        "last_seen": "1996-12",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served title-lineage and rankings snapshots (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "aka": [
+      "Man-Mama"
+    ]
+  },
+  {
+    "id": "the-narcissist-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "The Narcissist",
+    "caption": "One-third of Jingoist, who dethroned Pressure Point for the World Tag-Team Championship at Wrestle Wrath.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1996-09",
+        "last_seen": "1996-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served title-lineage and rankings snapshots (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ]
+  },
+  {
+    "id": "lt-liberty-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Lt. Liberty",
+    "caption": "A Freedom Brigade member and one-third of Jingoist, the trio that took the World Tag-Team Championship from Pressure Point at Wrestle Wrath.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-09",
+        "last_seen": "1996-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ]
+  },
+  {
+    "id": "major-hawk-hunter-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Major Hawk Hunter",
+    "caption": "\"The Wingman,\" one-third of Jingoist, the trio that took the World Tag-Team Championship from Pressure Point at Wrestle Wrath.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1996-09",
+        "last_seen": "1996-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served title-lineage and rankings snapshots (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "aka": [
+      "The Wingman"
+    ]
+  },
+  {
+    "id": "cyclone-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Cyclone",
+    "caption": "One half of the masked Storm Lords, managed by Christopher Andrews, who fought Pressure Point to a time-limit draw for the World Tag-Team title in October 1995.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-10",
+        "last_seen": "1995-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "primary-source",
+        "note": "Coincidental name match to the held character cyclone-apw (a different fed, APW); no shared evidence.",
+        "with": [
+          "cyclone-apw"
+        ]
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "hurricane-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Hurricane",
+    "caption": "One half of the masked Storm Lords, managed by Christopher Andrews, who fought Pressure Point to a time-limit draw for the World Tag-Team title in October 1995.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "first_seen": "1995-10",
+        "last_seen": "1995-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "primary-source",
+        "note": "Coincidental name match to the held characters hurricane-nfw and hurricane-wicew (unrelated feds); no shared evidence.",
+        "with": [
+          "hurricane-nfw",
+          "hurricane-wicew"
+        ]
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "janet-james-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Janet James",
+    "caption": "Named the GIWF's own Women's Wrestler of the Year for 1997 at the promotion's Year In Review — she wasn't there to collect it.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-12",
+        "last_seen": "1997-12",
+        "source": "the fed's own \"2nd Annual Year End Awards and Year In Review\" (23 Dec 1997, msg_id 09OHS1j1eu4J); served in part at promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-yearinreview-1997-12-23.html"
+      }
+    ],
+    "staged_gender": "female",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "nymphet-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Nymphet",
+    "caption": "Voted the GIWF's own Most Annoying wrestler of 1997 in the promotion's Viewer's Choice balloting — the ceremony's hosts sent her off with \"good riddance.\"",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-12",
+        "last_seen": "1997-12",
+        "source": "the fed's own \"2nd Annual Year End Awards and Year In Review\" (23 Dec 1997, msg_id 09OHS1j1eu4J); served in part at promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-yearinreview-1997-12-23.html"
+      }
+    ],
+    "staged_gender": "female",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "wayne-hanson-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "Wayne Hanson",
+    "caption": "The GIWF's own 1997 Announcer of the Year — a color commentator who, in an unsanctioned Gold Rush II brawl, stepped from behind the desk to fight as the promotion's own reigning U.S. Heavyweight Champion.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "roles": [
+          "commentator",
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-12",
+        "last_seen": "1997-12",
+        "source": "the fed's own \"2nd Annual Year End Awards and Year In Review\" (23 Dec 1997, msg_ids 09OHS1j1eu4J, rSQSZG-IoFEJ); served in part at promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-yearinreview-1997-12-23.html",
+        "note": "The U.S."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "chad-odonnell-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "\"Substance\" Chad O'Donnell",
+    "caption": "Founding member of the Mercenary Enforcement Agency and, with \"Bullywug\" Glenn Hudson, one half of the GIWF's own 1997 Match of the Year — also honored that year for Outstanding Performance in the Field of Creative Cheating.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 2,
+        "relationships": 0
+      }
+    },
+    "aka": [
+      "SCO'D"
+    ],
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1996-04",
+        "last_seen": "1997-12",
+        "source": "the fed's own \"2nd Annual Year End Awards and Year In Review\" (23 Dec 1997, msg_ids 09OHS1j1eu4J through pz86OAHh9yoJ), whose own retrospective video wall dates a recovered match to 5 April 1996; served in part at promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-yearinreview-1997-12-23.html",
+        "note": "The identical ring persona recurs across at least six other feds per an existing frontier.json note (INWF, IWA, CCWF, XWC, IWWL, CWL), flagged there as an unresolved cross-fed continuity thread for a future reconciliation pass — not attempted here."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "glenn-hudson-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "\"Bullywug\" Glenn Hudson",
+    "caption": "The GIWF's own Best Flasher/Interviewee for 1997 and, with \"Substance\" Chad O'Donnell, one half of that year's Match of the Year — a member of the Alliance out of Melbourne, Australia.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 2,
+        "relationships": 0
+      }
+    },
+    "aka": [
+      "Bullywug"
+    ],
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-12",
+        "last_seen": "1997-12",
+        "source": "the fed's own \"2nd Annual Year End Awards and Year In Review\" (23 Dec 1997, msg_ids 09OHS1j1eu4J through pz86OAHh9yoJ); served in part at promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-yearinreview-1997-12-23.html"
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (bullywug-glenn-hudson-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "bullywug-glenn-hudson-rspwf"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (glenn-hudson-aewa); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "glenn-hudson-aewa"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (glenn-hudson-icw-tacoma-1995); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "glenn-hudson-icw-tacoma-1995"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "k-solo-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "K-Solo",
+    "caption": "Founding member of the Mercenary Enforcement Agency and, with the Violent Librarian, one half of the GIWF's own 1997 Feud of the Year.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-12",
+        "last_seen": "1997-12",
+        "source": "the fed's own \"2nd Annual Year End Awards and Year In Review\" (23 Dec 1997, msg_ids TZe4eWU7AwAJ, mUJDE037f3sJ)"
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "violent-librarian-giwf-weeklywar-1995",
+    "type": "character",
+    "name": "The Violent Librarian",
+    "caption": "A member of the Pickens Army and, with K-Solo, one half of the GIWF's own 1997 Feud of the Year.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "violent-librarian-icbinr"
+        ],
+        "note": "An exact-name collision against another, unrelated fed's own \"Violent Librarian\" (icbinr, a 1998-99 Kansas-regional promotion). No document on either side names another fed or claims a shared performer. Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-12",
+        "last_seen": "1997-12",
+        "source": "the fed's own \"2nd Annual Year End Awards and Year In Review\" (23 Dec 1997, msg_ids TZe4eWU7AwAJ, mUJDE037f3sJ)"
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "brad-vandal-rspwf",
+    "type": "character",
+    "name": "Brad Vandal",
+    "notes": "Known also from the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll. Placings and the poll's own federation tags, verbatim — 1997: #33, tagged GIWF.",
+    "caption": "GIWF Heavyweight Champion by his own account, and the promotion's own 1997 Wrestler of the Year, Newcomer of the Year, and Finisher of the Year (\"The Vandalizer\") — ranked #33 in the RSPWF Top 200 the same year, independent corroboration of the same wrestler.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 3,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-12",
+        "last_seen": "1997-12",
+        "source": "the fed's own \"2nd Annual Year End Awards and Year In Review\" (23 Dec 1997, msg_ids 09OHS1j1eu4J, 5cJWypBwAocJ, pz86OAHh9yoJ); served in part at promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-yearinreview-1997-12-23.html"
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  },
+  {
+    "id": "deliverance-rspwf",
+    "type": "character",
+    "name": "Deliverance",
+    "notes": "Known also from the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll. Placings and the poll's own federation tags, verbatim — 1997: #184, tagged GIWF, the list's own prior-year note reading (#196).",
+    "caption": "The GIWF's own 1996 Wrestler of the Year and 1997 Best Ring Entrance winner, back the following December to present the award he'd won — ranked #184 in the RSPWF Top 200 the same year, independent corroboration of the same wrestler.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "giwf-weeklywar-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-12",
+        "last_seen": "1997-12",
+        "source": "the fed's own \"2nd Annual Year End Awards and Year In Review,\" Part 8 and Part 10 (23 Dec 1997, msg_ids mUJDE037f3sJ, pz86OAHh9yoJ) — collected, not served"
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed"
+  }
+]

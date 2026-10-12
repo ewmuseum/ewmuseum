@@ -1,0 +1,94 @@
+[
+ {
+  "id": "natures-fury-xwf-2000",
+  "type": "unit",
+  "name": "Nature's Fury",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "The Jackal",
+    "character_id": "the-jackal-xwf-2000"
+   },
+   {
+    "name": "The Glacier",
+    "character_id": "the-glacier-xwf-2000"
+   }
+  ],
+  "caption": "The tag team of The Jackal and The Glacier, voted the promotion's most popular tag team at its own awards ceremony.",
+  "caption_asof": {
+   "written": "2026-09-19",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xwf-2000",
+    "first_seen": "2000-04",
+    "last_seen": "2000-04",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own 30 April 2000 bi-annual awards ceremony"
+   }
+  ]
+ },
+ {
+  "id": "spirits-of-fury-xwf-2000",
+  "type": "unit",
+  "name": "The Spirit's of Fury",
+  "aka": [
+   "TSoF"
+  ],
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "The Red Raven",
+    "character_id": "red-raven-xwf-2000"
+   },
+   {
+    "name": "The Jackal",
+    "character_id": "the-jackal-xwf-2000"
+   },
+   {
+    "name": "The Glacier",
+    "character_id": "the-glacier-xwf-2000"
+   },
+   {
+    "name": "Sweet Sensual"
+   }
+  ],
+  "caption": "A stable of The Red Raven, The Jackal, The Glacier, and their manager Sweet Sensual, voted the promotion's most popular stable at its own awards ceremony.",
+  "caption_asof": {
+   "written": "2026-09-19",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xwf-2000",
+    "first_seen": "2000-04",
+    "last_seen": "2000-04",
+    "role": "stable",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own 30 April 2000 bi-annual awards ceremony"
+   }
+  ]
+ }
+]

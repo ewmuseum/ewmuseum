@@ -1,0 +1,665 @@
+[
+  {
+    "id": "the-grand-dragons-gdwa",
+    "type": "unit",
+    "name": "The Grand Dragons",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Rekka Sakura",
+        "character_id": "rekka-sakura-gdwa"
+      },
+      {
+        "name": "Marissa Monet",
+        "character_id": "marissa-monet-gdwa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "2000-01-18",
+        "last_seen": "2000-01-18",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the Scratching Post's workrate report on the Tuesday Night Catfight of 18 January 2000 (promotions/gdwa/archive/scratching-post-2000-02-28.html)"
+      }
+    ],
+    "caption": "The team Rekka Sakura and Marissa Monet were announced as on the fed's own first card back in January 2000, entering with one carrying the other on her back.",
+    "caption_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "misfits-gdwa",
+    "type": "unit",
+    "name": "Misfits",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1996-10-26",
+        "last_seen": "1997-06-07",
+        "role": "tag team — inaugural World Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the fed's own 1997 Lineages page (promotions/gdwa/archive/lineages-1997.html)",
+        "note": "The fed's own tag lineage names the team and nothing else; no roster for it survives."
+      }
+    ],
+    "caption": "The inaugural World Tag Team Champions, crowned in Osaka Castle Hall in October 1996 and beaten out of a steel cage in Madison Square Garden eight months later.",
+    "caption_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "misfit"
+        ],
+        "note": "The decorated-aka guard reads the name against misfit. Recorded distinct: a generic team name in an unrelated promotion, with nothing in either record connecting them. A previously-filed note on this row recorded the same reasoning without naming the entity."
+      }
+    ],
+    "members": [
+      {
+        "name": "Godiva",
+        "character_id": "godiva-gdwa"
+      },
+      {
+        "name": "Dalbello Rage",
+        "character_id": "dalbello-rage-gdwa"
+      }
+    ],
+    "notes": "Membership resolved 2026-09-06: billed by both names for the first time on the Tuesday Night Catfight of 15 April 1997 (msg_id JoQW41UWKIcJ), managed there by Medusa Rage."
+  },
+  {
+    "id": "lady-luck-gdwa",
+    "type": "unit",
+    "name": "Lady Luck",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1996-10-26",
+        "last_seen": "1996-10-26",
+        "role": "tag team — runner-up in the inaugural World Tag Team title match",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the fed's own 1997 Lineages page (promotions/gdwa/archive/lineages-1997.html)",
+        "note": "The fed's own tag lineage names Lady Luck only as the side the Misfits beat for the inaugural titles. Whether the name belonged to a team or to one wrestler with an unnamed partner is not recoverable from it; filed as a unit because the match it appears in was a tag title match."
+      }
+    ],
+    "caption": "The side the Misfits beat in Osaka Castle Hall for the inaugural World Tag Team Championship, named in the fed's own tag lineage and nowhere else in what survives.",
+    "caption_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "lady-luck-4ww",
+          "lady-luck-aawc",
+          "lady-luck-giwf"
+        ],
+        "note": "Shares a name exactly with lady-luck-4ww (4WW), lady-luck-aawc (AAWC) and lady-luck-giwf (GIWF), and is filed distinct from all three: a generic archetype name, a different promotion, and nothing in any of the four records connecting them. The collision doctrine's four signals resolve on the name alone, which is no resolution at all."
+      }
+    ]
+  },
+  {
+    "id": "the-hyena-queens-gdwa",
+    "type": "unit",
+    "name": "The Hyena Queens",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997-04-01",
+        "last_seen": "1997-09-26",
+        "role": "tag team — World Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the fed's own 1997 Lineages page (promotions/gdwa/archive/lineages-1997.html)",
+        "note": "The fed's own tag lineage names the team and nothing else; no roster for it survives."
+      }
+    ],
+    "caption": "Won the World Tag Team titles by climbing out of a steel cage in Madison Square Garden, and were stripped of them when the fed held its own tag division up three months later.",
+    "caption_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "notes": "Its existing members Terry McMillen and Angela Bassett are unchanged; this is a date correction only."
+  },
+  {
+    "id": "the-syndicate-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Syndicate",
+    "members": [
+      {
+        "name": "Andrea Chandler",
+        "character_id": "andrea-chandler-gdwa"
+      },
+      {
+        "name": "Tiffany Chandler",
+        "character_id": "tiffany-chandler-gdwa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997-05-28",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the fed's own magazine (msg_id Piljkw_tCEcJ); digest usenet-1997-DEDICATED-GDWA-2026-09-02.md",
+        "note": "The fed's dominant 1997 stable, led by Andrea Chandler with The Kingpin (not separately minted)."
+      }
+    ],
+    "caption": "The fed's dominant 1997 stable, built around its reigning Wrestler of the Year and her own protégée.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "APW already carries a unit billed \"The Syndicate\" (syndicate-apw); no evidence ties this GDWA stable to it -- different promotion, different roster (Andrea Chandler and Tiffany Chandler), no shared name/continuity beyond the generic stable name.",
+        "with": [
+          "syndicate-apw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-browne-girls-gdwa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Browne Girls",
+    "members": [
+      {
+        "name": "Sierra Browne",
+        "character_id": "sierra-browne-gdwa"
+      },
+      {
+        "name": "Indigo Browne",
+        "character_id": "indigo-browne-gdwa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e/§7b (Grappler Survey)",
+        "note": "Named favourite tag team at 30% in the fed's own 1997 Grappler Survey."
+      }
+    ],
+    "caption": "Sierra and Indigo Browne, voted the fed's own favourite tag team in the 1997 Grappler Survey.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "dark-asylum-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Dark Asylum",
+    "members": [
+      {
+        "name": "Demonica",
+        "character_id": "demonica-gdwa"
+      },
+      {
+        "name": "Dementia Praecox",
+        "character_id": "dementia-praecox-gdwa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997-03-17",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e",
+        "note": "Pairs two of the fed's own held champions, both managed by Madame Hecate in sequence."
+      }
+    ],
+    "caption": "The pairing of two of the fed's own title-holders under one manager's care.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "the-dragon-trio-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Dragon Trio",
+    "members": [
+      {
+        "name": "Charlotte La Mancha",
+        "character_id": "charlotte-la-mancha-gdwa"
+      },
+      {
+        "name": "Sachie Yokoyama",
+        "character_id": "sachie-yokoyama-gdwa"
+      },
+      {
+        "name": "Daisy Butterfly",
+        "character_id": "daisy-butterfly-gdwa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e; formation and breakup discussed in the Handler Hall of Fame induction interview (msg_id b9ccsN13Cv8J)",
+        "note": "Its formation and breakup is discussed first-hand by a departing handler in the fed's own Handler Hall of Fame induction."
+      }
+    ],
+    "caption": "A three-woman stable whose formation and breakup two departing handlers discuss first-hand in the fed's own Hall of Fame induction interview.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "organized-crime-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Organized Crime",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e"
+      }
+    ],
+    "caption": "A 1997 stable named in the fed's own cards; individual members not yet confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "burning-rain-gdwa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Burning Rain",
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §7b (Grappler Survey, 20% favourite tag team)"
+      }
+    ],
+    "caption": "Runner-up for the fed's own favourite-tag-team honour in the 1997 Grappler Survey; individual members not yet confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Maria Urquidez",
+        "character_id": "maria-urquidez-gdwa"
+      },
+      {
+        "name": "Gojira Takashima",
+        "character_id": "gojira-takashima-gdwa"
+      }
+    ],
+    "notes": "Membership resolved 2026-09-06 from the Tuesday Night Catfight of 1 April 1997 (msg_id KnjOfLhvmroJ, qrVFvzg7aogJ)."
+  },
+  {
+    "id": "suicide-blondes-gdwa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Suicide Blondes",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e"
+      }
+    ],
+    "caption": "A 1997 tag team named in the fed's own cards; individual members not yet confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "high-flying-dolls-gdwa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "High Flying Dolls",
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §7b (Grappler Survey, 20% favourite tag team)"
+      }
+    ],
+    "caption": "Third-place finisher for the fed's own favourite-tag-team honour in the 1997 Grappler Survey; individual members not yet confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Lacy Gold",
+        "character_id": "lacy-gold-gdwa"
+      },
+      {
+        "name": "Midnight Fury",
+        "character_id": "midnight-fury-gdwa"
+      }
+    ],
+    "notes": "Membership resolved 2026-09-06 from the Tuesday Night Catfight billed 22 July 1997 (msg_id BWv_zvdAyBYJ and 5 more): the unit's own match against Idol Team Otonashi."
+  },
+  {
+    "id": "the-gladiatrixes-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Gladiatrixes",
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e"
+      }
+    ],
+    "caption": "A 1997 stable named in the fed's own cards; individual members not yet confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Tawny",
+        "character_id": "tawny-gdwa"
+      },
+      {
+        "name": "Rusla",
+        "character_id": "rusla-gdwa"
+      }
+    ],
+    "notes": "Membership resolved 2026-09-06 from the Tuesday Night Catfight of 1 April 1997 (msg_id sBZZMNrerOgJ and 4 more): the unit's own debut card."
+  },
+  {
+    "id": "the-otonashis-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Idol Team Otonashis",
+    "aka": [
+      "The Otonashis"
+    ],
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e/§8e; own team page promoted on the fed's Monday Night Tease"
+      }
+    ],
+    "caption": "A stable with its own promoted team page, plugged on the fed's own Monday Night Tease broadcast.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Kasumi",
+        "character_id": "kasumi-gdwa"
+      },
+      {
+        "name": "Kurumi",
+        "character_id": "kurumi-gdwa"
+      }
+    ],
+    "notes": "Membership resolved 2026-09-06 from the Tuesday Night Catfight of 1 April 1997 (msg_id KnjOfLhvmroJ, qrVFvzg7aogJ)."
+  },
+  {
+    "id": "strike-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "STRIKE",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e"
+      }
+    ],
+    "caption": "A 1997 stable named in the fed's own cards; individual members not yet confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "the-age-of-rage-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Age of Rage",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997-05-28",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the fed's own magazine, two interviews with the group (msg_id Piljkw_tCEcJ); digest usenet-1997-DEDICATED-GDWA-2026-09-02.md",
+        "note": "Likely connected to the Rage family of characters (Dalbello Rage, Lauryn Rage, Godiva Rage); not confirmed as an exact roster."
+      }
+    ],
+    "caption": "A stable profiled twice in the fed's own magazine; likely drawn from the Rage family of characters, exact roster not confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "southern-steel-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Southern Steel",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e"
+      }
+    ],
+    "caption": "A 1997 stable named in the fed's own cards; individual members not yet confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "the-evil-empire-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Evil Empire",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e"
+      }
+    ],
+    "caption": "A 1997 stable named in the fed's own cards; individual members not yet confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "serpentine-gdwa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Serpentine",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "digest usenet-1997-DEDICATED-GDWA-2026-09-02.md, §6e"
+      }
+    ],
+    "caption": "A 1997 stable named in the fed's own cards; individual members not yet confirmed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "new-brown-girls-gdwa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "New Brown Girls",
+    "members": [
+      {
+        "name": "Indigo Browne",
+        "character_id": "indigo-browne-gdwa"
+      },
+      {
+        "name": "Marissa Monet",
+        "character_id": "marissa-monet-gdwa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "gdwa",
+        "first_seen": "1997-05-06",
+        "last_seen": "1997-05-06",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the fed's own Tuesday Night Cat Fight card, 6 May 1997 (msg_id Eg_Gk-nLfiEJ, AFmnCbVU_BIJ, MLX2zbHobhEJ; promotions/gdwa/archive/gdwa-tuesday-night-catfight-1997-05-06.html)",
+        "note": "Billed explicitly as a replacement pairing after Sierra Browne left the existing Browne Girls (with Indigo) for a singles career; debut win over the Gladiatrixes."
+      }
+    ],
+    "caption": "Indigo Browne's new pairing with debuting Marissa Monet after her sister Sierra Browne left their old tag team for a singles run, debuting with a win over the Gladiatrixes.",
+    "caption_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "primary-source",
+        "note": "Not the same unit as the-browne-girls-gdwa (Sierra Browne and Indigo Browne) -- the card's own text bills this as a new, separate pairing formed because Sierra left that team.",
+        "with": [
+          "the-browne-girls-gdwa"
+        ]
+      }
+    ]
+  }
+]

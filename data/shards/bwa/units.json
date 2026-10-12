@@ -1,0 +1,95 @@
+[
+ {
+  "id": "the-lost-boys-bwa",
+  "type": "unit",
+  "name": "The Lost Boys",
+  "unit_kind": "tag-team",
+  "members": [
+   "greg-addams-bwa",
+   "frank-addams-bwa"
+  ],
+  "caption": "American brothers who arrived from WAR! declaring themselves the future BWA National Tag Team Champions and beat A.K.A. on the wing's debut broadcast.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-25",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-raw-footage-1997-09-25.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "aka-bwa",
+  "type": "unit",
+  "name": "A.K.A.",
+  "unit_kind": "tag-team",
+  "members": [
+   "the-goon-bwa",
+   "tearchaser-bwa"
+  ],
+  "caption": "The pairing of The Goon and Tearchaser, beaten by the Lost Boys on BWA's debut broadcast.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-18",
+    "last_seen": "1997-09-18",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-18.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "the-midnight-destruction-bwa",
+  "type": "unit",
+  "name": "the Midnight Destruction",
+  "unit_kind": "tag-team",
+  "members": [
+   "lazarus-bwa",
+   "skydevil-bwa"
+  ],
+  "caption": "London cousins introduced on BWA's debut broadcast whose contracts were terminated before the team ever wrestled.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-11",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html"
+   }
+  ],
+  "notes": "Introduced with full profiles on the 11 September broadcast; the 18 September show reports their BWA contracts terminated before either wrestler appeared in a match.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ }
+]

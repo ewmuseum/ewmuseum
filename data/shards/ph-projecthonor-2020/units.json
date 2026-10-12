@@ -1,0 +1,43 @@
+[
+ {
+  "id": "two-toned-mafia-ph-projecthonor-2020",
+  "type": "unit",
+  "name": "Two Toned Mafia",
+  "tenures": [
+   {
+    "promotion": "ph-projecthonor-2020",
+    "first_seen": "2020-11-21",
+    "last_seen": "2020-11-21",
+    "grade": "primary-source",
+    "role": "tag team",
+    "source": "promotions/ph-projecthonor-2020/archive/two-toned-mafia-2020-11-21.html",
+    "note": "Billed on its sheet \"TEAM NAME: Two Toned Mafia\" with the members Lucy Sixx and Cecilia Ortiz."
+   }
+  ],
+  "caption": "A tag team of Lucy Sixx, the heel, and Cecilia Ortiz, the face, whose sheet was filed on 21 November 2020.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Lucy Sixx",
+    "character_id": "lucy-sixx-ph-projecthonor-2020"
+   },
+   {
+    "name": "Cecilia Ortiz",
+    "character_id": "cecilia-ortiz-ph-projecthonor-2020"
+   }
+  ]
+ }
+]

@@ -1,0 +1,171 @@
+[
+ {
+  "id": "rebel-enforcers-crow",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Rebel Enforcers",
+  "members": [
+   "bubba-crow",
+   "jed-crow"
+  ],
+  "tenures": [
+   {
+    "promotion": "crow",
+    "first_seen": "1998-07-26",
+    "last_seen": "1998-08-30",
+    "source": "the promotion's own 'Schools Out For Summer' pay-per-view broadcast of 26 July 1998 and the promotion's own 'Scorch Wave 98' pay-per-view broadcast of 30 August 1998"
+   }
+  ],
+  "caption": "A country-styled tag team, managed by Uncle Jessie, who lost a hard-core #1 contenders match to Death and Destruction.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "death-and-destruction-crow",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Death and Destruction",
+  "aka": [
+   "DAD"
+  ],
+  "members": [
+   "smoke-crow",
+   "who-else-crow"
+  ],
+  "tenures": [
+   {
+    "promotion": "crow",
+    "first_seen": "1998-07-26",
+    "last_seen": "1998-08-30",
+    "source": "the promotion's own 'Schools Out For Summer' pay-per-view broadcast of 26 July 1998 and the promotion's own 'Scorch Wave 98' pay-per-view broadcast of 30 August 1998",
+    "note": "Billed by the promotion's own broadcasts as “DAD,” earlier led by the promotion's own president under his ring name before Smoke took it over."
+   }
+  ],
+  "caption": "Smoke and Who Else's tag team, which won a hard-core #1 contenders match over the Rebel Enforcers and then a loser-leaves-CROW match over the Dark Riders.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (death-and-destruction-rwa-rugged); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "death-and-destruction-rwa-rugged"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (death-and-destruction-wewf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "death-and-destruction-wewf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gospel-preachers-crow",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Gospel Preachers",
+  "members": [
+   "bishop-jeremy-jackson-crow",
+   "reverend-jj-crow"
+  ],
+  "tenures": [
+   {
+    "promotion": "crow",
+    "first_seen": "1998-07-26",
+    "last_seen": "1998-08-30",
+    "source": "the promotion's own 'Scorch Wave 98' pay-per-view broadcast of 30 August 1998",
+    "note": "Held the CROW Tag Team Championship since May 1998 by the broadcast's own commentary, until losing it to Element Of Pain."
+   }
+  ],
+  "caption": "A tag team of preachers who held the CROW Tag Team Championship since May 1998 until losing it to Element Of Pain at Scorch Wave 98.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "element-of-pain-crow",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Element Of Pain",
+  "members": [
+   "element-crow",
+   "wound-crow"
+  ],
+  "tenures": [
+   {
+    "promotion": "crow",
+    "first_seen": "1998-08-30",
+    "last_seen": "1998-08-30",
+    "source": "the promotion's own 'Scorch Wave 98' pay-per-view broadcast of 30 August 1998",
+    "note": "Part of the D-Brigade stable led by the Destroyer, whose interference helped them win the CROW Tag Team Championship."
+   }
+  ],
+  "caption": "Part of the Destroyer's D-Brigade stable; won the CROW Tag Team Championship from the Gospel Preachers at Scorch Wave 98 with the champion's interference.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "dark-riders-crow",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Dark Riders",
+  "members": [
+   "chronos-crow",
+   "fallen-angel-crow"
+  ],
+  "tenures": [
+   {
+    "promotion": "crow",
+    "first_seen": "1998-08-30",
+    "last_seen": "1998-08-30",
+    "source": "the promotion's own 'Scorch Wave 98' pay-per-view broadcast of 30 August 1998"
+   }
+  ],
+  "caption": "A tag team billed from “Hell” who lost a loser-leaves-CROW match to Death and Destruction, ending their run with the promotion.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ }
+]

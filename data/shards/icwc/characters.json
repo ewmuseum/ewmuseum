@@ -1,0 +1,5085 @@
+[
+ {
+  "id": "dean-malenko-icwc",
+  "type": "character",
+  "name": "Dean Malenko",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Heavyweight and one-time World Tag Team Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "dean-malenko-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "dean-malenko-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dean-malenko-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "hulk-hogan-icwc",
+  "type": "character",
+  "name": "Hulk Hogan",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Heavyweight Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "hulk-hogan-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "hulk-hogan-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hulk-hogan-nfw",
+     "hulk-hogan-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "jeff-jarrett-icwc",
+  "type": "character",
+  "name": "Jeff Jarrett",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Heavyweight Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jeff-jarrett-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "jeff-jarrett-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jeff-jarrett-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "kurt-angle-icwc",
+  "type": "character",
+  "name": "Kurt Angle",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Heavyweight Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "kurt-angle-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "kurt-angle-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kurt-angle-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "edge-icwc",
+  "type": "character",
+  "name": "Edge",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A two-time World Heavyweight and one-time Intercontinental Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "edge-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "edge-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "edge-iwf",
+     "edge-pwe-inc"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "chris-sabin-icwc",
+  "type": "character",
+  "name": "Chris Sabin",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Tag Team Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "chris-sabin-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "chris-sabin-real"
+ },
+ {
+  "id": "alex-shelley-icwc",
+  "type": "character",
+  "name": "Alex Shelley",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Tag Team Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "alex-shelley-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "alex-shelley-real"
+ },
+ {
+  "id": "sean-waltman-icwc",
+  "type": "character",
+  "name": "Sean Waltman",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Tag Team Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "sean-waltman-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "sean-waltman-real"
+ },
+ {
+  "id": "justin-credible-icwc",
+  "type": "character",
+  "name": "Justin Credible",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Tag Team Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "justin-credible-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "justin-credible-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "justin-credible-fob"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "chris-benoit-icwc",
+  "type": "character",
+  "name": "Chris Benoit",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Tag Team Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "chris-benoit-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "chris-benoit-real"
+ },
+ {
+  "id": "ultimate-warrior-icwc",
+  "type": "character",
+  "name": "Ultimate Warrior",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time Intercontinental Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "ultimate-warrior-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "ultimate-warrior-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ultimate-warrior-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "british-bulldog-icwc",
+  "type": "character",
+  "name": "British Bulldog",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A two-time Intercontinental Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "british-bulldog-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "british-bulldog-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "british-bulldog-faw"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "ricky-steamboat-icwc",
+  "type": "character",
+  "name": "Ricky Steamboat",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time Intercontinental Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "ricky-steamboat-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "ricky-steamboat-real"
+ },
+ {
+  "id": "alpha-male-icwc",
+  "type": "character",
+  "name": "Alpha Male",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time United States Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "monty-brown-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "monty-brown-real"
+ },
+ {
+  "id": "gail-kim-icwc",
+  "type": "character",
+  "name": "Gail Kim",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Women's Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "gail-kim-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "gail-kim-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "gail-kim-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "awesome-kong-icwc",
+  "type": "character",
+  "name": "Awesome Kong",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A two-time World Women's Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "awesome-kong-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "awesome-kong-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "awesome-kong-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "mickie-james-icwc",
+  "type": "character",
+  "name": "Mickie James",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Women's Champion in ICWC.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "mickie-james-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "mickie-james-real"
+ },
+ {
+  "id": "paul-orndorff-icwc",
+  "type": "character",
+  "name": "\"Mr. Wonderful\" Paul Orndorff",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "paul-orndorff-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "paul-orndorff-real"
+ },
+ {
+  "id": "aja-kong-icwc",
+  "type": "character",
+  "name": "Aja Kong",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed and ICWC Sin City cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "aja-kong-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "aja-kong-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "aja-kong-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "akeem-icwc",
+  "type": "character",
+  "name": "Akeem",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "one-man-gang-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "one-man-gang-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "one-man-gang-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard: UWF's own one-man-gang-uwf-uwow carries \"Akeem\" as an aka (same real performer's two ring names). Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters regardless of which of the performer's own ring names each fed billed — this row is UWOW's own member-fed (ICWC) portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "akira-hokuto-icwc",
+  "type": "character",
+  "name": "Akira Hokuto",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "akira-hokuto-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "akira-hokuto-real"
+ },
+ {
+  "id": "al-snow-icwc",
+  "type": "character",
+  "name": "Al Snow",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "al-snow-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "al-snow-real"
+ },
+ {
+  "id": "alex-wright-icwc",
+  "type": "character",
+  "name": "Alex Wright",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City, ICWC Capital Combat (2008) and ICWC Spring Stampede cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "alex-wright-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "alex-wright-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "alex-wright-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "andrew-martin-icwc",
+  "type": "character",
+  "name": "Andrew \"The Punisher\" Martin",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "andrew-martin-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "andrew-martin-real"
+ },
+ {
+  "id": "barbarian-icwc",
+  "type": "character",
+  "name": "Barbarian",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "barbarian-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "barbarian-real"
+ },
+ {
+  "id": "big-bossman-icwc",
+  "type": "character",
+  "name": "Big Bossman",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "big-bossman-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "big-bossman-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "big-bossman-xwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "big-daddy-v-icwc",
+  "type": "character",
+  "name": "Big Daddy V",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "big-daddy-v-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "big-daddy-v-real"
+ },
+ {
+  "id": "big-show-icwc",
+  "type": "character",
+  "name": "Big Show",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "paul-wight-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "paul-wight-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "big-show-faw",
+     "big-show-pwe-inc",
+     "big-show-xwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "vader-icwc",
+  "type": "character",
+  "name": "Big Van Vader",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "big-van-vader-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "big-van-vader-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "vader-agw",
+     "vader-cyberslam",
+     "vader-uwf-uwow",
+     "vader-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this row to the other — either a different real-world person under a similar or generic ring name, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine."
+   }
+  ]
+ },
+ {
+  "id": "bill-goldberg-icwc",
+  "type": "character",
+  "name": "Bill Goldberg",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "bill-goldberg-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "bill-goldberg-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bill-goldberg-action-extreme-wrestling",
+     "bill-goldberg-agw"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "billy-gunn-icwc",
+  "type": "character",
+  "name": "Billy Gunn",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "billy-gunn-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "billy-gunn-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "billy-gunn-faw"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "blue-meanie-icwc",
+  "type": "character",
+  "name": "Blue Meanie",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "blue-meanie-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "blue-meanie-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "blue-meanie-pwe-inc"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "bobby-lashley-icwc",
+  "type": "character",
+  "name": "Bobby Lashley",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "bobby-lashley-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "bobby-lashley-real"
+ },
+ {
+  "id": "booker-t-icwc",
+  "type": "character",
+  "name": "Booker T",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "booker-t-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "booker-t-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "booker-t-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "bret-hart-icwc",
+  "type": "character",
+  "name": "Bret Hart",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "bret-hart-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "bret-hart-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bret-hart-agw"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "brian-christopher-icwc",
+  "type": "character",
+  "name": "Brian Christopher",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "brian-christopher-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "brian-christopher-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brian-christopher-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "brian-knobbs-icwc",
+  "type": "character",
+  "name": "Brian Knobbs",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "brian-knobbs-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "brian-knobbs-real"
+ },
+ {
+  "id": "brock-lesnar-icwc",
+  "type": "character",
+  "name": "Brock Lesnar",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "brock-lesnar-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "brock-lesnar-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brock-lesnar-zwf",
+     "brock-lesnar-pwe-inc",
+     "brock-lesnar-xwf-uwow",
+     "brock-lesnar-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "brutus-beefcake-icwc",
+  "type": "character",
+  "name": "Brutus Beefcake",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "brutus-beefcake-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "brutus-beefcake-real"
+ },
+ {
+  "id": "buff-bagwell-icwc",
+  "type": "character",
+  "name": "Buff Bagwell",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "buff-bagwell-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "buff-bagwell-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "buff-bagwell-action-extreme-wrestling",
+     "buff-bagwell-nwwa-1998",
+     "buff-bagwell-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "butch-reed-icwc",
+  "type": "character",
+  "name": "Butch Reed",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "butch-reed-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "butch-reed-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "butch-reed-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "cactus-jack-icwc",
+  "type": "character",
+  "name": "Cactus Jack",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "mick-foley-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "mick-foley-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cactus-jack-xwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "chavo-guerrero-jr-icwc",
+  "type": "character",
+  "name": "Chavo Guerrero Jr.",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "chavo-guerrero-jr-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "chavo-guerrero-jr-real"
+ },
+ {
+  "id": "chris-candido-icwc",
+  "type": "character",
+  "name": "Chris Candido",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "chris-candido-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "chris-candido-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chris-candido-xwf-uwow",
+     "chris-candido-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "chris-jericho-icwc",
+  "type": "character",
+  "name": "Chris Jericho",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "chris-jericho-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "chris-jericho-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chris-jericho-faw",
+     "chris-jericho-uwl",
+     "chris-jericho-nwwa-1998",
+     "chris-jericho-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "christopher-daniels-icwc",
+  "type": "character",
+  "name": "Christopher Daniels",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed and ICWC Sin City cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "christopher-daniels-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "christopher-daniels-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "christopher-daniels-fob",
+     "christopher-daniels-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "cody-rhodes-icwc",
+  "type": "character",
+  "name": "Cody Rhodes",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "cody-rhodes-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "cody-rhodes-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cody-rhodes-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "crush-icwc",
+  "type": "character",
+  "name": "Crush",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "crush-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "crush-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "crush-wicew",
+     "crush-ucwf"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "d-lo-brown-icwc",
+  "type": "character",
+  "name": "D-Lo Brown",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "d-lo-brown-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "d-lo-brown-real"
+ },
+ {
+  "id": "david-taylor-icwc",
+  "type": "character",
+  "name": "David \"Squire\" Taylor",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "david-taylor-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "david-taylor-real"
+ },
+ {
+  "id": "diamond-dallas-page-icwc",
+  "type": "character",
+  "name": "Diamond Dallas Page",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "diamond-dallas-page-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "diamond-dallas-page-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dallas-page-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "disco-inferno-icwc",
+  "type": "character",
+  "name": "Disco Inferno",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "the-disco-inferno-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "the-disco-inferno-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "disco-inferno-cswa"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "dynamite-kid-icwc",
+  "type": "character",
+  "name": "Dynamite Kid",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "dynamite-kid-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "dynamite-kid-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dynamite-kid-xwf-uwow",
+     "dynamite-kid-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "earthquake-icwc",
+  "type": "character",
+  "name": "Earthquake",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "earthquake-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "earthquake-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "earthquake-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "eddy-guerrero-icwc",
+  "type": "character",
+  "name": "Eddy Guerrero",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "eddy-guerrero-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "eddy-guerrero-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "eddy-guerrero-pwe-inc",
+     "eddy-guerrero-xwf-uwow",
+     "eddy-guerrero-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "elix-skipper-icwc",
+  "type": "character",
+  "name": "Elix Skipper",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed and ICWC Sin City cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "elix-skipper-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "elix-skipper-real"
+ },
+ {
+  "id": "eugene-icwc",
+  "type": "character",
+  "name": "Eugene",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "eugene-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "eugene-real"
+ },
+ {
+  "id": "fatu-icwc",
+  "type": "character",
+  "name": "Fatu",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "fatu-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "fatu-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "fatu-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "fit-finlay-icwc",
+  "type": "character",
+  "name": "Fit Finlay",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "fit-finlay-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "fit-finlay-real"
+ },
+ {
+  "id": "gangrel-icwc",
+  "type": "character",
+  "name": "Gangrel",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2008) and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "gangrel-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "gangrel-real"
+ },
+ {
+  "id": "giant-bernard-icwc",
+  "type": "character",
+  "name": "Giant Bernard",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City and ICWC Spring Stampede cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "giant-bernard-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "giant-bernard-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "giant-bernard-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "godfather-icwc",
+  "type": "character",
+  "name": "Godfather",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "the-godfather-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "the-godfather-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "godfather-ihwf"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "great-khali-icwc",
+  "type": "character",
+  "name": "Great Khali",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "great-khali-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "great-khali-real"
+ },
+ {
+  "id": "greg-valentine-icwc",
+  "type": "character",
+  "name": "Greg Valentine",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "greg-valentine-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "greg-valentine-real"
+ },
+ {
+  "id": "hakushi-icwc",
+  "type": "character",
+  "name": "Hakushi",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008) and ICWC Spring Stampede cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "hakushi-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "hakushi-real"
+ },
+ {
+  "id": "honky-tonk-man-icwc",
+  "type": "character",
+  "name": "Honky Tonk Man",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Spring Stampede card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "honky-tonk-man-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "honky-tonk-man-real"
+ },
+ {
+  "id": "hurricane-helms-icwc",
+  "type": "character",
+  "name": "Hurricane Helms",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "shane-helms-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "shane-helms-real"
+ },
+ {
+  "id": "insane-boogeyman-icwc",
+  "type": "character",
+  "name": "Insane Boogeyman",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "insane-boogeyman-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "insane-boogeyman-real"
+ },
+ {
+  "id": "ivan-koloff-icwc",
+  "type": "character",
+  "name": "Ivan Koloff",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "ivan-koloff-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "ivan-koloff-real"
+ },
+ {
+  "id": "jacques-rougeau-icwc",
+  "type": "character",
+  "name": "Jacques Rougeau",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Spring Stampede card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jacques-rougeau-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "jacques-rougeau-real"
+ },
+ {
+  "id": "jake-roberts-icwc",
+  "type": "character",
+  "name": "Jake \"The Snake\" Roberts",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jake-roberts-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "jake-roberts-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jake-roberts-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "jeff-hardy-icwc",
+  "type": "character",
+  "name": "Jeff Hardy",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jeff-hardy-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "jeff-hardy-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jeff-hardy-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "jerry-lawler-icwc",
+  "type": "character",
+  "name": "Jerry Lawler",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jerry-lawler-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "jerry-lawler-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jerry-lawler-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "jerry-sags-icwc",
+  "type": "character",
+  "name": "Jerry Sags",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jerry-sags-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "jerry-sags-real"
+ },
+ {
+  "id": "jim-duggan-icwc",
+  "type": "character",
+  "name": "Jim \"Hacksaw\" Duggan",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jim-duggan-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "jim-duggan-real"
+ },
+ {
+  "id": "jim-neidhart-icwc",
+  "type": "character",
+  "name": "Jim \"The Anvil\" Neidhart",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City and ICWC Spring Stampede cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jim-neidhart-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "jim-neidhart-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jim-neidhart-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard: UWF's own jim-neidhart-uwf-uwow carries \"Jim \\\"The Anvil\\\" Neidhart\" as an aka, matching this row's own billed name. Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed (ICWC) portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "john-cena-icwc",
+  "type": "character",
+  "name": "John Cena",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "john-cena-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "john-cena-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "john-cena-pwe-inc"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "johnny-b-badd-icwc",
+  "type": "character",
+  "name": "Johnny B. Badd",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "johnny-b-badd-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "johnny-b-badd-real"
+ },
+ {
+  "id": "judas-mesias-icwc",
+  "type": "character",
+  "name": "Judas Mesias",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008) and ICWC Spring Stampede cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "judas-mesias-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "judas-mesias-real"
+ },
+ {
+  "id": "jushin-thunder-liger-icwc",
+  "type": "character",
+  "name": "Jushin Thunder Liger",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jushin-thunder-liger-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "jushin-thunder-liger-real"
+ },
+ {
+  "id": "kevin-nash-icwc",
+  "type": "character",
+  "name": "Kevin Nash",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "kevin-nash-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "kevin-nash-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kevin-nash-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "kofi-kingston-icwc",
+  "type": "character",
+  "name": "Kofi Kingston",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "kofi-kingston-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "kofi-kingston-real"
+ },
+ {
+  "id": "lance-storm-icwc",
+  "type": "character",
+  "name": "Lance Storm",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "lance-storm-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "lance-storm-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lance-storm-glw",
+     "lance-storm-pwe-inc",
+     "lance-storm-xwf-uwow",
+     "lance-storm-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "lex-luger-icwc",
+  "type": "character",
+  "name": "Lex Luger",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "lex-luger-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "lex-luger-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lex-luger-faw",
+     "lex-luger-agw",
+     "lex-luger-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "luna-vachon-icwc",
+  "type": "character",
+  "name": "Luna Vachon",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "luna-vachon-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "luna-vachon-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "luna-vachon-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "mark-henry-icwc",
+  "type": "character",
+  "name": "Mark Henry",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "mark-henry-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "mark-henry-real"
+ },
+ {
+  "id": "matt-hardy-icwc",
+  "type": "character",
+  "name": "Matt Hardy",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "matt-hardy-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "matt-hardy-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "matt-hardy-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "meng-icwc",
+  "type": "character",
+  "name": "Meng",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "meng-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "meng-real"
+ },
+ {
+  "id": "mikey-whipwreck-icwc",
+  "type": "character",
+  "name": "Mikey Whipwreck",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "mikey-whipwreck-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "mikey-whipwreck-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mikey-whipwreck-agw"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "mr-kennedy-icwc",
+  "type": "character",
+  "name": "Mr. Kennedy",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "mr-kennedy-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "mr-kennedy-real"
+ },
+ {
+  "id": "nikita-koloff-icwc",
+  "type": "character",
+  "name": "Nikita Koloff",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "nikita-koloff-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "nikita-koloff-real"
+ },
+ {
+  "id": "owen-hart-icwc",
+  "type": "character",
+  "name": "Owen Hart",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "owen-hart-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "owen-hart-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "owen-hart-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "perry-saturn-icwc",
+  "type": "character",
+  "name": "Perry Saturn",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City and ICWC Spring Stampede cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "perry-saturn-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "perry-saturn-real"
+ },
+ {
+  "id": "pierre-ouellette-icwc",
+  "type": "character",
+  "name": "Pierre Ouellette",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Spring Stampede card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "pierre-ouellette-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "pierre-ouellette-real"
+ },
+ {
+  "id": "randy-savage-icwc",
+  "type": "character",
+  "name": "Randy Savage",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "randy-savage-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "randy-savage-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "randy-savage-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "raven-icwc",
+  "type": "character",
+  "name": "Raven",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "raven-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "raven-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "raven-xwf",
+     "euwc-raven",
+     "raven-faw",
+     "raven-xwf-uwow",
+     "raven-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "rick-rude-icwc",
+  "type": "character",
+  "name": "Ravishing Rick Rude",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "ravishing-rick-rude-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "ravishing-rick-rude-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ravishing-rick-rude-xwf-uwow",
+     "ravishing-rick-rude-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "rey-mysterio-icwc",
+  "type": "character",
+  "name": "Rey Mysterio",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "rey-mysterio-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "rey-mysterio-real"
+ },
+ {
+  "id": "rhyno-icwc",
+  "type": "character",
+  "name": "Rhyno",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "rhino-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "rhino-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rhyno-faw",
+     "rhyno-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "road-dogg-icwc",
+  "type": "character",
+  "name": "Road Dogg Jesse James",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "road-dogg-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "road-dogg-real"
+ },
+ {
+  "id": "rob-van-dam-icwc",
+  "type": "character",
+  "name": "Rob Van Dam",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "rob-van-dam-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "rob-van-dam-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rob-van-dam-xwf-uwow",
+     "rob-van-dam-chwe",
+     "rob-van-dam-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "ron-killings-icwc",
+  "type": "character",
+  "name": "Ron Killings",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "ron-killings-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "ron-killings-real"
+ },
+ {
+  "id": "ron-simmons-icwc",
+  "type": "character",
+  "name": "Ron Simmons",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "ron-simmons-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "ron-simmons-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ron-simmons-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "samoa-joe-icwc",
+  "type": "character",
+  "name": "Samoa Joe",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "samoa-joe-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "samoa-joe-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "samoa-joe-pwe-inc",
+     "samoa-joe-xwf-uwow",
+     "samoa-joe-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "samu-icwc",
+  "type": "character",
+  "name": "Samu",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "samu-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "samu-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "samu-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "sandman-icwc",
+  "type": "character",
+  "name": "Sandman",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2008) and ICWC Spring Stampede cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "sandman-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "sandman-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-sandman-dream-warriors",
+     "sandman-cwf"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "santino-marella-icwc",
+  "type": "character",
+  "name": "Santino Marella",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "santino-marella-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "santino-marella-real"
+ },
+ {
+  "id": "scott-steiner-icwc",
+  "type": "character",
+  "name": "Scott Steiner",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "scott-steiner-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "scott-steiner-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scott-steiner-tpg",
+     "scott-steiner-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "scott-taylor-icwc",
+  "type": "character",
+  "name": "Scott Taylor",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "scott-taylor-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "scott-taylor-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scott-taylor",
+     "scott-taylor-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "senshi-icwc",
+  "type": "character",
+  "name": "Senshi",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "senshi-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "senshi-real"
+ },
+ {
+  "id": "sgt-slaughter-icwc",
+  "type": "character",
+  "name": "Sgt. Slaughter",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "sgt-slaughter-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "sgt-slaughter-real"
+ },
+ {
+  "id": "sid-vicious-icwc",
+  "type": "character",
+  "name": "Sid Vicious",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008), ICWC Spring Stampede and ICWC Russo's Revenge cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "sid-vicious-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "sid-vicious-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sid-vicious-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "sika-icwc",
+  "type": "character",
+  "name": "Sika",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Spring Stampede card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "sika-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "sika-real"
+ },
+ {
+  "id": "smash-icwc",
+  "type": "character",
+  "name": "Smash",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "smash-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "smash-real"
+ },
+ {
+  "id": "sonjay-dutt-icwc",
+  "type": "character",
+  "name": "Sonjay Dutt",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed and ICWC Sin City cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "sonjay-dutt-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "sonjay-dutt-real"
+ },
+ {
+  "id": "steve-corino-icwc",
+  "type": "character",
+  "name": "Steve Corino",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City and ICWC Capital Combat (2008) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "steve-corino-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "steve-corino-real"
+ },
+ {
+  "id": "stevie-ray-icwc",
+  "type": "character",
+  "name": "Stevie Ray",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "stevie-ray-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "stevie-ray-real"
+ },
+ {
+  "id": "tammy-sytch-icwc",
+  "type": "character",
+  "name": "Tammy Sytch",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Sin City card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "tammy-sytch-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "tammy-sytch-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tammy-sytch-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "tank-abbott-icwc",
+  "type": "character",
+  "name": "Tank Abbott",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "tank-abbott-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "tank-abbott-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tank-abbott-glw"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "tazz-icwc",
+  "type": "character",
+  "name": "Tazz",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "tazz-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "tazz-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tazz-cyberslam",
+     "tazz-rspwf",
+     "tazz-pwe-inc"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "ted-dibiase-jr-icwc",
+  "type": "character",
+  "name": "Ted DiBiase Jr.",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "ted-dibiase-jr-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "ted-dibiase-jr-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ted-dibiase-sr-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this row to the other — either a different real-world person under a similar or generic ring name, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine."
+   }
+  ]
+ },
+ {
+  "id": "terri-power-icwc",
+  "type": "character",
+  "name": "Terri Power",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Greed, ICWC Sin City, ICWC Capital Combat (2008) and ICWC Spring Stampede cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "terri-power-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "terri-power-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "terri-power-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "tommy-dreamer-icwc",
+  "type": "character",
+  "name": "Tommy Dreamer",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "tommy-dreamer-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "tommy-dreamer-real"
+ },
+ {
+  "id": "typhoon-icwc",
+  "type": "character",
+  "name": "Typhoon",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "typhoon-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "typhoon-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "typhoon-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "ultimo-dragon-icwc",
+  "type": "character",
+  "name": "Ultimo Dragon",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2009) card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "ultimo-dragon-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "ultimo-dragon-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ultimo-dragon-pwe-inc",
+     "ultimo-dragon-xwf-uwow",
+     "ultimo-dragon-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "umaga-icwc",
+  "type": "character",
+  "name": "Umaga",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "umaga-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "umaga-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "umaga-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "val-venis-icwc",
+  "type": "character",
+  "name": "Val Venis",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "sean-morley-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "sean-morley-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "val-venis-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "warlord-icwc",
+  "type": "character",
+  "name": "Warlord",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Capital Combat (2008), ICWC Spring Stampede, ICWC Russo's Revenge and ICWC Capital Combat (2009) cards, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "warlord-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "warlord-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "unlimited-warlord-pwa-1992",
+     "vappa-mies-ewa"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this row to the other — either a different real-world person under a similar or generic ring name, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine."
+   }
+  ]
+ },
+ {
+  "id": "william-regal-icwc",
+  "type": "character",
+  "name": "William Regal",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "william-regal-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "william-regal-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "william-regal-faw",
+     "william-regal-agw",
+     "william-regal-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "x-pac-icwc",
+  "type": "character",
+  "name": "X-Pac",
+  "tenures": [
+   {
+    "promotion": "icwc",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card scripts"
+   }
+  ],
+  "caption": "Wrestled on ICWC's own served ICWC Russo's Revenge card, per the fed's own served scripts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "sean-waltman-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's served card scripts."
+  },
+  "portrayal_of": "sean-waltman-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "x-pac-faw",
+     "x-pac-action-extreme-wrestling",
+     "x-pac-chwe"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ }
+]

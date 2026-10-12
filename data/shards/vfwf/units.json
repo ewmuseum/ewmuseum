@@ -1,0 +1,92 @@
+[
+  {
+    "id": "the-highway-brawlers-vfwf",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Highway Brawlers",
+    "members": [],
+    "caption": "One of the fed's two feuding stables, named repeatedly in its own recruitment advertising and in a former handler's closure testimonial.",
+    "tenures": [
+      {
+        "promotion": "vfwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-04-21",
+        "last_seen": "1997-08-20",
+        "source": "promotions/vfwf/archive/vfwf-a-hot-fed-for-all-1997-04-21.html; promotions/vfwf/archive/vfwf-efed-sign-1997-08-20.html"
+      }
+    ],
+    "notes": "No individual member's own name survives in this collection; the stable is registered on its own name alone, never filled in with names nobody recovered.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "membership_unknown": true
+  },
+  {
+    "id": "the-order-of-destruction-vfwf",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Order Of Destruction",
+    "aka": [
+      "TOOD",
+      "The Powers of Destruction"
+    ],
+    "members": [
+      "the-acer-vfwf"
+    ],
+    "caption": "The fed's other feuding stable, absorbing the handler-founded Combat Air Patrol late in the fed's run; billed once, 17 days earlier, as \"The Powers of Destruction.\"",
+    "tenures": [
+      {
+        "promotion": "vfwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-04-04",
+        "last_seen": "1997-08-20",
+        "source": "promotions/vfwf/archive/vfwf-call-to-arms-1997-04-04.html; promotions/vfwf/archive/vfwf-a-hot-fed-for-all-1997-04-21.html; promotions/vfwf/archive/vfwf-efed-sign-1997-08-20.html"
+      }
+    ],
+    "notes": "The 4 April recruitment post's \"Powers of Destruction\" and the 21 April and 20 August documents' \"Order Of Destruction\" are treated as one stable under two namings, three weeks apart in the same small corpus, rather than two unrelated entities -- a presumed-same reading, not a primary-source-certain one. Only The Acer's own membership (via his Combat Air Patrol's later merger into it) is individually evidenced; the rest of its roster does not survive.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "combat-air-patrol-vfwf",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Combat Air Patrol",
+    "members": [
+      "the-acer-vfwf"
+    ],
+    "caption": "A handler-founded stable that merged into The Order Of Destruction late in the fed's run, recalled only in a former handler's own closure testimonial.",
+    "tenures": [
+      {
+        "promotion": "vfwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-08-20",
+        "last_seen": "1997-08-20",
+        "source": "promotions/vfwf/archive/vfwf-efed-sign-1997-08-20.html"
+      }
+    ],
+    "notes": "Only its founder, The Acer, is named as a member; no other roster name survives in this collection.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  }
+]

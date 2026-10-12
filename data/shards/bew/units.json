@@ -1,0 +1,87 @@
+[
+  {
+    "id": "enforced-penance-bew",
+    "type": "unit",
+    "name": "Enforced Penance",
+    "unit_kind": "tag-team",
+    "members": [
+      { "name": "WolfsBane", "character_id": "wolfsbane-bew" },
+      { "name": "Redemption", "character_id": "redemption-bew" }
+    ],
+    "tenures": [
+      {
+        "promotion": "bew",
+        "role": "tag team — M.o.A enforcers, \"back from Japan\"",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-03-20",
+        "last_seen": "1999-03-20",
+        "source": "the fed's own served Night of Armageddon broadcast (promotions/bew/archive/night-of-armageddon.html)"
+      }
+    ],
+    "notes": "Named as a pair once, by the fed's own commentary (\"Redemption and WolfsBane back from Japan! Enforced Penance in da house!\"), billed a former dominant M.o.A tag team in the WCIWA who left for Japan before returning for this show. Do not wrestle a match of their own; work together restraining and beating Greg Eskridge, then join the M.o.A's own post-match assault on Kevin Merrix, where both men are separately knocked down by the rescuing Vigilance/Anderson/Hope save.",
+    "caption": "A former dominant M.o.A tag team, \"back from Japan\" to enforce the stable's own will at Night of Armageddon.",
+    "caption_asof": {
+      "written": "2026-09-01",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-guild-bew",
+    "type": "unit",
+    "name": "the Guild",
+    "unit_kind": "stable",
+    "members": [
+      { "name": "Jonathan Prophet", "character_id": "jonathan-prophet-bew" },
+      { "name": "Harvester of Pain", "character_id": "harvester-of-pain-bew" },
+      { "name": "Dawn", "character_id": "dawn-bew" }
+    ],
+    "tenures": [
+      {
+        "promotion": "bew",
+        "role": "stable — Jonathan Prophet's own faction",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-03-20",
+        "last_seen": "1999-03-20",
+        "source": "the fed's own served Night of Armageddon broadcast (promotions/bew/archive/night-of-armageddon.html)"
+      }
+    ],
+    "notes": "Named once by commentary (\"Prophet's stable mate Harvester of Pain\") and once more as \"IHOP and Daft... members of the Guild\"; membership beyond these two carried-over members is not confirmed in the held corpus (v89(c) honest gap — the broadcast never names the Guild's own full roster).",
+    "caption": "Jonathan Prophet's own stable, its two other named members coming to his aid after his crucifixion-match loss at Night of Armageddon.",
+    "caption_asof": {
+      "written": "2026-09-01",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-guild"
+        ],
+        "note": "the-guild (nfw) is a wholly unrelated, later-era (2011-2012) NFW stable with unknown membership — no shared fed, era, or named member with this 1999 BEW stable. Filed distinct pending evidence, per the collision doctrine."
+      }
+    ]
+  }
+]

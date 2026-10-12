@@ -1,0 +1,177 @@
+[
+ {
+  "id": "viper-gswa",
+  "type": "character",
+  "name": "Viper",
+  "tenures": [
+   {
+    "promotion": "gswa",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/gswa/archive/gswa-roster-1997-07-05.html"
+   }
+  ],
+  "caption": "A 6'7\" GSWA singles wrestler billed with the finisher Snake Bite.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "'Viper' is a common ring name shared by several other wings' own entities. This entity was minted from GSWA's own 1997 roster page with no receipt joining it to any other wing -- held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "viper-lcw-ltd",
+     "viper-low",
+     "viper-ngw",
+     "viper-scw-survival",
+     "viper-wwa",
+     "viper-xcwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "brad-morris-gswa",
+  "type": "character",
+  "name": "Brad Morris",
+  "tenures": [
+   {
+    "promotion": "gswa",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/gswa/archive/gswa-roster-1997-07-05.html"
+   }
+  ],
+  "caption": "A 6'5\" GSWA singles wrestler billed with the finisher Flying Chest Kick.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "riot-gswa",
+  "type": "character",
+  "name": "Riot",
+  "tenures": [
+   {
+    "promotion": "gswa",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/gswa/archive/gswa-roster-1997-07-05.html"
+   }
+  ],
+  "caption": "A 6'6\" GSWA singles wrestler billed with the finisher Quiet Riot.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "'Riot' is a ring name already minted for another wing's own entity. This entity was minted from GSWA's own 1997 roster page with no receipt joining it to that other wing -- held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "riot-faw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "narly-narly-nick-gswa",
+  "type": "character",
+  "name": "Narly Narly Nick",
+  "tenures": [
+   {
+    "promotion": "gswa",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/gswa/archive/gswa-roster-1997-07-05.html"
+   }
+  ],
+  "caption": "A 6'0\" GSWA singles wrestler billed with the finisher Super G Leg Lock.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hotstepper-gswa",
+  "type": "character",
+  "name": "Hotstepper",
+  "tenures": [
+   {
+    "promotion": "gswa",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/gswa/archive/gswa-roster-1997-07-05.html"
+   }
+  ],
+  "caption": "A 6'4\" GSWA singles wrestler billed with the finisher The Hotshooter.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

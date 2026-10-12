@@ -1,0 +1,45 @@
+[
+ {
+  "id": "the-heartbreakers-waew",
+  "type": "unit",
+  "name": "The Heartbreakers",
+  "caption": "A tag team of Rugged Ron Percy and \"KO Kid\" Kevin Allan, previewing their own opening-round WAeW tag tournament match against the Human Missiles.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   "rugged-ron-percy-waew",
+   "ko-kid-kevin-allan-waew"
+  ],
+  "tenures": [
+   {
+    "promotion": "waew",
+    "first_seen": "1997-01",
+    "last_seen": "1997-01",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "WAeW's own served 22 January 1997 Rewind Report (promotions/waew/archive/)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; no identity join is asserted (bare-name match is insufficient)",
+    "with": [
+     "cwfpro-the-heartbreakers"
+    ]
+   }
+  ]
+ }
+]

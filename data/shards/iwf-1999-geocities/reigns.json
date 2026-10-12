@@ -1,0 +1,166 @@
+[
+ {
+  "id": "iwf-1999-geocities-heavyweight-r001",
+  "title": "iwf-1999-geocities-heavyweight",
+  "label": "Rage",
+  "holder": [
+   {
+    "id": "rage-iwf-1999-geocities"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Already IWF Champion as of the earliest captured episode; no winning date survives."
+  },
+  "days": null,
+  "end_how": "lost-in-match",
+  "note": "Lost the title to Fear via a manager's screwjob on the night Rage was also fired."
+ },
+ {
+  "id": "iwf-1999-geocities-heavyweight-r002",
+  "title": "iwf-1999-geocities-heavyweight",
+  "label": "Fear",
+  "holder": [
+   {
+    "id": "fear-iwf-1999-geocities"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Won via interference from his manager, Max Rakkus, in the episode billed \"Rage Is Fired!\""
+  },
+  "event": "iwf-1999-geocities-rage-is-fired",
+  "days": null,
+  "end_how": "lost-in-match",
+  "note": "Lost the title to Nemesis the same night he also lost the Hardcore Championship."
+ },
+ {
+  "id": "iwf-1999-geocities-heavyweight-r003",
+  "title": "iwf-1999-geocities-heavyweight",
+  "label": "Nemesis",
+  "holder": [
+   {
+    "id": "nemesis-iwf-1999-geocities"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Won by choke-slamming Fear through a table from the top rope in \"Fear Loses It All.\""
+  },
+  "event": "iwf-1999-geocities-fear-loses-it-all",
+  "days": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iwf-1999-geocities-hardcore-r001",
+  "title": "iwf-1999-geocities-hardcore",
+  "label": "Fear",
+  "holder": [
+   {
+    "id": "fear-iwf-1999-geocities"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Self-declared champion after powerbombing Max Rakkus, the wrestler the title had been created for, in \"Fear Becomes Dual Champ.\""
+  },
+  "event": "iwf-1999-geocities-fear-becomes-dual-champ",
+  "days": null,
+  "end_how": "lost-in-match",
+  "note": "Lost the title to The Grim Rapper the same night he also lost the IWF Championship."
+ },
+ {
+  "id": "iwf-1999-geocities-hardcore-r002",
+  "title": "iwf-1999-geocities-hardcore",
+  "label": "The Grim Rapper",
+  "holder": [
+   {
+    "id": "the-grim-rapper-iwf-1999-geocities"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Won by knocking Fear out with a ghetto blaster and pinning him in \"Fear Loses It All.\""
+  },
+  "event": "iwf-1999-geocities-fear-loses-it-all",
+  "days": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iwf-1999-geocities-womens-r001",
+  "title": "iwf-1999-geocities-womens",
+  "label": "Silicon Sally",
+  "holder": [
+   {
+    "id": "silicon-sally-iwf-1999-geocities"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Already IWF Women's Champion as of her first captured title defense; no winning date survives."
+  },
+  "days": null,
+  "end_how": "lost-in-match",
+  "note": "Lost the title to CalcGirl in a match decided by a guest referee's fast count."
+ },
+ {
+  "id": "iwf-1999-geocities-womens-r002",
+  "title": "iwf-1999-geocities-womens",
+  "label": "CalcGirl",
+  "holder": [
+   {
+    "id": "calcgirl-iwf-1999-geocities"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Won her debut match against Silicon Sally in \"CalcGirl Becomes The Women's Champ.\""
+  },
+  "event": "iwf-1999-geocities-calcgirl-vs-sally",
+  "days": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iwf-1999-geocities-tagteam-r001",
+  "title": "iwf-1999-geocities-tagteam",
+  "label": "Neil Down and Bob Ondis",
+  "holder": [
+   {
+    "id": "neil-and-bob-iwf-1999-geocities"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Already IWF Tag Team Champions as of their first captured title defense; no winning date survives."
+  },
+  "days": null,
+  "end_how": "forfeited",
+  "note": "An earlier, undated episode has The Afrolites already claiming to have held these belts \"a few months\" before this captured title change; the two accounts are both recorded, neither resolved."
+ },
+ {
+  "id": "iwf-1999-geocities-tagteam-r002",
+  "title": "iwf-1999-geocities-tagteam",
+  "label": "The Afrolites",
+  "holder": [
+   {
+    "id": "the-afrolites-iwf-1999-geocities"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Awarded the title by forfeit in \"The Afrolites Become Tag Team Champs\" when the champions failed to reach the ring."
+  },
+  "event": "iwf-1999-geocities-neil-bob-vs-afrolites",
+  "days": null,
+  "end_how": "still-champion-at-record-end"
+ }
+]

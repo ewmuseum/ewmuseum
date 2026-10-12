@@ -1,0 +1,118 @@
+[
+ {
+  "id": "pressure-point-giwf-weeklywar-1995",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Pressure Point",
+  "caption": "Gregg \"Comet\" Matthews and Sal DeFazio, managed by Capt. America and Guyana Princess, GIWF's own inaugural World Tag-Team Champions crowned in a Gold Rush tournament, dethroned by Jingoist at Wrestle Wrath a year later.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "members": [
+   {
+    "id": "gregg-matthews-giwf-weeklywar-1995"
+   },
+   {
+    "id": "sal-defazio-giwf-weeklywar-1995"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf-weeklywar-1995",
+    "first_seen": "1995-09",
+    "last_seen": "1996-09",
+    "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "note": "Coincidental name match to the unit pressure-point-icbinr, named on a different, later fed's own site index (icbinr, 1999); no shared evidence beyond the name.",
+    "with": [
+     "pressure-point-icbinr"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jingoist-giwf-weeklywar-1995",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Jingoist",
+  "caption": "The Narcissist, Lt. Liberty and Major Hawk Hunter, managed by Mike Fitzgerald, a three-man combination that dethroned Pressure Point for the World Tag-Team Championship at Wrestle Wrath.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "members": [
+   {
+    "id": "the-narcissist-giwf-weeklywar-1995"
+   },
+   {
+    "id": "lt-liberty-giwf-weeklywar-1995"
+   },
+   {
+    "id": "major-hawk-hunter-giwf-weeklywar-1995"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf-weeklywar-1995",
+    "first_seen": "1996-09",
+    "last_seen": "1996-10",
+    "source": "GIWF's own served title-lineage and rankings snapshots (promotions/giwf-weeklywar-1995/archive/).",
+    "note": "Billed as a trio holding a Tag-Team title in the fed's own record, an oddity honestly preserved rather than trimmed to a pair."
+   }
+  ]
+ },
+ {
+  "id": "storm-lords-giwf-weeklywar-1995",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Storm Lords",
+  "caption": "Cyclone and Hurricane, a masked tag team managed by Christopher Andrews, who fought Pressure Point to a time-limit draw for the World Tag-Team title in October 1995 and remained bitter Arsenal rivals into 1996.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "members": [
+   {
+    "id": "cyclone-giwf-weeklywar-1995"
+   },
+   {
+    "id": "hurricane-giwf-weeklywar-1995"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf-weeklywar-1995",
+    "first_seen": "1995-10",
+    "last_seen": "1996-12",
+    "source": "GIWF's own served Weekly War / PPV show scripts (promotions/giwf-weeklywar-1995/archive/)."
+   }
+  ]
+ }
+]

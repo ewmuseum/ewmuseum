@@ -1,0 +1,5852 @@
+[
+ {
+  "id": "a-mark-justice-agw",
+  "type": "character",
+  "name": "A. Mark Justice",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-02-15",
+    "role": "AGW Anything Goes Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Anything Goes Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "abel-agw",
+  "type": "character",
+  "name": "Abel",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "adam-smith-agw",
+  "type": "character",
+  "name": "Adam Smith",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-11-06",
+    "last_seen": "1997-11-06",
+    "role": "AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "alex-star-agw",
+  "type": "character",
+  "name": "Alex Star",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-03-27",
+    "last_seen": "1999-08-07",
+    "role": "3-time AGW Intercontinental Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 3-time AGW Intercontinental Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "alex-star-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "alexa-black-agw",
+  "type": "character",
+  "name": "Alexa Black",
+  "aka": [
+   "Lexa"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed \"Lexa\"; a former Women's Tag Team Titleholder who spent most of 2005 recovering from a nervous breakdown after her AGW release) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed \"Lexa\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "alexandra-the-great-agw",
+  "type": "character",
+  "name": "Alexandra The Great",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-11-03",
+    "last_seen": "1999-11-03",
+    "role": "AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "allan-jenkins-agw",
+  "type": "character",
+  "name": "Allan Jenkins",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2000-01-16",
+    "last_seen": "2000-01-16",
+    "role": "AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "amethyst-morris-agw",
+  "type": "character",
+  "name": "Amethyst Morris",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2005-02-28",
+    "last_seen": "2005-02-28",
+    "role": "one of the four Morris Sisters, a third-generation wrestling family, who help train the Academy's female students; billed on the announced Winter Storm 2005 card (28 Feb 2005) -- Women's Match, stips TBA; the card was captured ahead of the date with no results held, so this is a billing, not a confirmed appearance",
+    "source": "promotions/agw/archive/agw-academy.html; promotions/agw/archive/2005-02-28-winter-storm.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An one of the four Morris Sisters, a third-generation wrestling family, who help train the Academy's female students.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "anaconda-agw",
+  "type": "character",
+  "name": "Anaconda",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-07",
+    "last_seen": "1999-10-24",
+    "role": "AGW Intercontinental Title holder; AGW Anything Goes Tag Team Titles holder; AGW 6 Man Tag Titles holder; 3-time AGW Super Heavyweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 6 reigns over 4 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "anastasia-black-agw",
+  "type": "character",
+  "name": "Anastasia Black",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "anna-von-doom-agw",
+  "type": "character",
+  "name": "Anna Von Doom",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "Academy graduate, June 2002, the Academy's first female graduate",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW Academy graduate (June 2002), per the school's own page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "apocalypse-agw",
+  "type": "character",
+  "name": "Apocalypse",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-10-18",
+    "last_seen": "1998-12-05",
+    "role": "3-time AGW Anything Goes Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 3-time AGW Anything Goes Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "apocalypse-bdw",
+     "apocalypse-ccw",
+     "apocalypse-cswa",
+     "apocalypse-cwf-continental",
+     "apocalypse-dwo",
+     "apocalypse-faw",
+     "apocalypse-ihwf",
+     "apocalypse-ngw",
+     "apocalypse-wwa",
+     "euwc-apocalypse"
+    ],
+    "note": "Shares a bare ring name with 10 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "atlas-agw",
+  "type": "character",
+  "name": "Atlas",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-11",
+    "last_seen": "1998-09-15",
+    "role": "2-time AGW TV Title holder; AGW 6 Man Tag Titles holder; billed on the 15 Sep 1998 card against George Kessler",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 2 of the fed's own titles, most prominently the AGW TV Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "b-kassinova-agw",
+  "type": "character",
+  "name": "B. Kassinova",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-09",
+    "last_seen": "1998-12-05",
+    "role": "4-time AGW Cruiserweight Title holder; 2-time AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 6 reigns over 2 of the fed's own titles, most prominently the AGW Cruiserweight Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "b-kessler-agw",
+  "type": "character",
+  "name": "B. Kessler",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bilge-rat-agw",
+  "type": "character",
+  "name": "Bilge Rat",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bill-goldberg-agw",
+  "type": "character",
+  "name": "Bill Goldberg",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-02-23",
+    "last_seen": "1999-04-27",
+    "role": "AGW Intercontinental Title holder; 2-time AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Bill Goldberg; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "bill-goldberg-action-extreme-wrestling"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 2 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "billy-brisco-jr-agw",
+  "type": "character",
+  "name": "Billy Brisco Jr.",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "Academy graduate, June 2005; nephew of AGW wrestler Lariat Brisco, previously competed for the UWL; became a member of the Racer/Cash Corporation",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW Academy graduate (June 2005), per the school's own page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "black-knight-agw",
+  "type": "character",
+  "name": "Black Knight",
+  "aka": [
+   "Jake Page"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-02",
+    "last_seen": "2005-02-28",
+    "role": "AGW Intercontinental Title holder; 2-time AGW TV Title holder; 4-time AGW Anything Goes Title holder; AGW U.S. Tag Team Titles holder; 2-time AGW 6 Man Tag Titles holder; billed on the 15 Sep 1998 card against Choke Slam Inc.; billed on the announced Winter Storm 2005 card (28 Feb 2005) -- I Quit Match; the card was captured ahead of the date with no results held, so this is a billing, not a confirmed appearance",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html; promotions/agw/archive/2005-02-28-winter-storm.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 10 reigns over 5 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "black-mage-agw",
+  "type": "character",
+  "name": "Black Mage",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-28",
+    "last_seen": "1998-12-12",
+    "role": "3-time AGW Cruiserweight Title holder; AGW 6 Man Tag Titles holder; an AGW legend who returns from working overseas to serve as an Academy guest trainer alongside Dark Rogue",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An AGW wrestler billed across 4 reigns over 2 of the fed's own titles, most prominently the AGW Cruiserweight Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "black-mage-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "blackhawk-mcknight-agw",
+  "type": "character",
+  "name": "Blackhawk McKnight",
+  "aka": [
+   "B. McKnight"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-06-19",
+    "last_seen": "2000-01-16",
+    "role": "AGW Intercontinental Title holder; 2-time AGW Anything Goes Title holder; 2-time AGW World Tag Team Titles holder; AGW Anything Goes Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 6 reigns over 4 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "blackhawk-mcknight-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "bobby-skywalker-agw",
+  "type": "character",
+  "name": "Bobby Skywalker",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card, appearing in 2 matches",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bolo-yeung-agw",
+  "type": "character",
+  "name": "Bolo Yeung",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "an occasional assistant trainer at the AGW Academy alongside his film and martial-arts career, and a trusted confidant of Speed Racer's",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A real martial-arts film actor, staged as a guest trainer at the AGW Academy under his own name (per the page's own text) — the CSWA cameo shape (Mike Krzyzewski, Mark Hamill), not a wrestler portrayal.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bombastico-agw",
+  "type": "character",
+  "name": "Bombastico",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brad-steel-agw",
+  "type": "character",
+  "name": "Brad Steel",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-04-18",
+    "last_seen": "1999-09-05",
+    "role": "AGW Intercontinental Title holder; 2-time AGW TV Title holder; 2-time AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 5 reigns over 3 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brenda-steel-agw",
+  "type": "character",
+  "name": "Brenda Steel",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Cindy Youngblood",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bret-hart-agw",
+  "type": "character",
+  "name": "Bret Hart",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-07",
+    "last_seen": "1997-10-07",
+    "role": "AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Bret Hart; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": []
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brian-hill-agw",
+  "type": "character",
+  "name": "Brian Hill",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2005-02-28",
+    "last_seen": "2005-02-28",
+    "role": "billed on the announced Winter Storm 2005 card (28 Feb 2005) -- 6 Man Tag Match (Brian Hill and 2 Mystery Partners vs. Degeneration X); the two mystery partners are not named in the source and are not minted; the card was captured ahead of the date with no results held, so this is a billing, not a confirmed appearance",
+    "source": "promotions/agw/archive/2005-02-28-winter-storm.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the announced Winter Storm 2005 card -- captured ahead of the date, with no results held for it.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brolly-agw",
+  "type": "character",
+  "name": "Brolly",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-11",
+    "last_seen": "1999-04-10",
+    "role": "2-time AGW World Title holder; 3-time AGW 6 Man Tag Titles holder; 5-time AGW Super Heavyweight Title holder; billed on the 15 Sep 1998 card against Jack Gorgon",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 10 reigns over 3 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brolly-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "carnage-agw",
+  "type": "character",
+  "name": "Carnage",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-20",
+    "last_seen": "1997-12-20",
+    "role": "AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW 6 Man Tag Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "carnage",
+     "carnage-fob",
+     "carnage-icw-pweboard",
+     "carnage-pwf"
+    ],
+    "note": "Shares a bare ring name with 4 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "chad-allen-agw",
+  "type": "character",
+  "name": "Chad Allen",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (an All-American wrestler and star running back turned pro; teams with Leroy Simmons on the indy circuit) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (an All-American wrestler and star running back turned pro), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jester-chad-allen-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "charlie-branson-agw",
+  "type": "character",
+  "name": "Charlie Branson",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (a European-style competitor from northern England) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (a European-style competitor from northern England), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "chocolate-thunder-agw",
+  "type": "character",
+  "name": "Chocolate Thunder",
+  "aka": [
+   "CDogg",
+   "Choco. Thunder"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-06-23",
+    "last_seen": "1999-08-22",
+    "role": "AGW World Title holder; 2-time AGW TV Title holder; billed on the 15 Sep 1998 card, appearing in 2 matches",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 2 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chocolate-thunder-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "chris-comet-agw",
+  "type": "character",
+  "name": "Chris Comet",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Wyatt Earp",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-chris-comet"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "christopher-thunder-agw",
+  "type": "character",
+  "name": "Christopher Thunder",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Chocolate Thunder",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "cindy-youngblood-agw",
+  "type": "character",
+  "name": "Cindy Youngblood",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Brenda Steel",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-cindy-youngblood"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "clay-carlton-agw",
+  "type": "character",
+  "name": "Clay Carlton",
+  "aka": [
+   "Straight-Edge"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed as \"Straight-Edge\"; a strict straight-edge wrestler still seeking his first win as of 2005) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed as \"Straight-Edge\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "clint-tennant-agw",
+  "type": "character",
+  "name": "Clint Tennant",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2005-02-28",
+    "last_seen": "2005-02-28",
+    "role": "billed on the announced Winter Storm 2005 card (28 Feb 2005) -- I Quit Match; the card was captured ahead of the date with no results held, so this is a billing, not a confirmed appearance",
+    "source": "promotions/agw/archive/2005-02-28-winter-storm.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the announced Winter Storm 2005 card -- captured ahead of the date, with no results held for it.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "clown-killer-agw",
+  "type": "character",
+  "name": "Clown Killer",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-19",
+    "role": "AGW TV Title holder; billed on the 15 Sep 1998 card against Kid Nitro and Most Holy and KANE",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "cory-cash-agw",
+  "type": "character",
+  "name": "Cory Cash",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (younger sister of former Women's Champion and AGW co-owner Kathryn Cash; made one AGW PPV appearance at Ultimate Survivor 2005) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (younger sister of former Women's Champion and AGW co-owner Kathryn Cash), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "daisy-mayhem-agw",
+  "type": "character",
+  "name": "Daisy Mayhem",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-09-26",
+    "last_seen": "1999-09-26",
+    "role": "AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dan-sexton-agw",
+  "type": "character",
+  "name": "Dan Sexton",
+  "aka": [
+   "D. Sexton"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1999-07-10",
+    "role": "AGW Anything Goes Tag Team Titles holder; billed on the 15 Sep 1998 card against Syxx",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Anything Goes Tag Team Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dangerous-dom-agw",
+  "type": "character",
+  "name": "Dangerous Dom",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-06",
+    "last_seen": "1997-12-06",
+    "role": "AGW Intercontinental Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Intercontinental Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dark-rogue-agw",
+  "type": "character",
+  "name": "Dark Rogue",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-07",
+    "last_seen": "1998-12-12",
+    "role": "3-time AGW World Title holder; 3-time AGW Intercontinental Title holder; 2-time AGW 6 Man Tag Titles holder; an AGW legend who returns from working overseas to serve as an Academy guest trainer, testing students' limits",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An AGW wrestler billed across 8 reigns over 3 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dark-rogue-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "dean-malenko-agw",
+  "type": "character",
+  "name": "Dean Malenko",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-18",
+    "last_seen": "1997-10-18",
+    "role": "AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Dean Malenko; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "dean-malenko-icwc",
+     "dean-malenko-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "deathwish-agw",
+  "type": "character",
+  "name": "Deathwish",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-04-10",
+    "last_seen": "1999-06-29",
+    "role": "AGW Intercontinental Title holder; 2-time AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 2 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "derrick-reed-agw",
+  "type": "character",
+  "name": "Derrick Reed",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2000-01-09",
+    "last_seen": "2000-01-09",
+    "role": "AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "doc-holiday-agw",
+  "type": "character",
+  "name": "Doc Holiday",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-01-17",
+    "last_seen": "1998-11-21",
+    "role": "AGW Intercontinental Title holder; AGW Cruiserweight Title holder; AGW 6 Man Tag Titles holder; billed on the 15 Sep 1998 card against Max Wagner",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 3 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "doom-agw",
+  "type": "character",
+  "name": "Doom",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-07",
+    "last_seen": "1997-10-07",
+    "role": "AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "doom-icwc"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "doomsday-agw",
+  "type": "character",
+  "name": "Doomsday",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1999-03-13",
+    "role": "AGW Anything Goes Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Anything Goes Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-doomsday",
+     "doomsday-aew",
+     "doomsday-ngw",
+     "doomsday-rspwf",
+     "doomsday-wwa"
+    ],
+    "note": "Shares a bare ring name with 5 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "dr-death-agw",
+  "type": "character",
+  "name": "Dr. Death",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Gryphon",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler \"Dr. Death\" Steve Williams; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": []
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "drake-campbell-agw",
+  "type": "character",
+  "name": "Drake Campbell",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dream-warrior-agw",
+  "type": "character",
+  "name": "Dream Warrior",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-12-19",
+    "last_seen": "2000-01-02",
+    "role": "2-time AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 2-time AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dream-warrior-cswa"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "duncan-macleod-agw",
+  "type": "character",
+  "name": "Duncan MacLeod",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-11-04",
+    "last_seen": "1998-12-22",
+    "role": "2-time AGW Intercontinental Title holder; AGW TV Title holder; AGW Anything Goes Title holder; billed on the 15 Sep 1998 card against KANE",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 4 reigns over 3 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "eh-brawler-agw",
+  "type": "character",
+  "name": "E.H. Brawler",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-03-06",
+    "last_seen": "2000-01-30",
+    "role": "6-time AGW Anything Goes Title holder; 2-time AGW World Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 8 reigns over 2 of the fed's own titles, most prominently the AGW Anything Goes Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "el-diablo-agw",
+  "type": "character",
+  "name": "El Diablo",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-11-10",
+    "last_seen": "1999-11-10",
+    "role": "AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "el-diablo-aicw",
+     "el-diablo-cswa",
+     "el-diablo-wicew"
+    ],
+    "note": "Shares a bare ring name with 3 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "el-phantasmo-agw",
+  "type": "character",
+  "name": "El Phantasmo",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-16",
+    "last_seen": "1997-12-16",
+    "role": "AGW Intercontinental Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Intercontinental Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "eli-vane-agw",
+  "type": "character",
+  "name": "Eli Vane",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-11-16",
+    "last_seen": "1998-04-26",
+    "role": "2-time AGW Intercontinental Title holder; 3-time AGW TV Title holder; 2-time AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 7 reigns over 3 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "eric-von-doom-agw",
+  "type": "character",
+  "name": "Eric Von Doom",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "an Academy graduate (June 2002) and, per the page's own account, its most successful -- earning almost every AGW belt within a year of graduating; Academy graduate, June 2002; earned almost every AGW belt within a year of graduating",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An AGW Academy graduate (June 2002), per the school's own page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "erica-reid-agw",
+  "type": "character",
+  "name": "Erica Reid",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-02-14",
+    "last_seen": "1999-03-30",
+    "role": "2-time AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the 2-time AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "father-arson-agw",
+  "type": "character",
+  "name": "Father Arson",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-02-14",
+    "last_seen": "1999-03-23",
+    "role": "AGW TV Title holder; AGW Anything Goes Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 2 reigns over 2 of the fed's own titles, most prominently the AGW TV Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "fenris-agw",
+  "type": "character",
+  "name": "Fenris",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-01-24",
+    "last_seen": "1998-01-24",
+    "role": "AGW Intercontinental Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Intercontinental Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "george-kessler-agw",
+  "type": "character",
+  "name": "George Kessler",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-08-18",
+    "last_seen": "1998-09-15",
+    "role": "AGW TV Title holder; billed on the 15 Sep 1998 card against Atlas",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "goth-chick-agw",
+  "type": "character",
+  "name": "Goth Chick",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2000-01-26",
+    "last_seen": "2000-01-26",
+    "role": "AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "grimm-agw",
+  "type": "character",
+  "name": "Grimm",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-06-13",
+    "last_seen": "1998-06-13",
+    "role": "AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "gris-lee-agw",
+  "type": "character",
+  "name": "Gris Lee",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-07-18",
+    "last_seen": "1999-08-03",
+    "role": "2-time AGW TV Title holder; AGW Anything Goes Title holder; 3-time AGW 6 Man Tag Titles holder; billed on the 15 Sep 1998 card against The Red Rose",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 6 reigns over 3 of the fed's own titles, most prominently the AGW TV Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "grumpy-moore-agw",
+  "type": "character",
+  "name": "Grumpy Moore",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-09",
+    "last_seen": "1997-12-09",
+    "role": "AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "gryphon-agw",
+  "type": "character",
+  "name": "Gryphon",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-02",
+    "last_seen": "1999-03-13",
+    "role": "AGW World Title holder; 2-time AGW Intercontinental Title holder; AGW TV Title holder; AGW U.S. Tag Team Titles holder; AGW 6 Man Tag Titles holder; billed on the 15 Sep 1998 card against Dr. Death",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 6 reigns over 5 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "hiroshiki-nanama-agw",
+  "type": "character",
+  "name": "Hiroshiki Nanama",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Scott Blanchard",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "holocaust-agw",
+  "type": "character",
+  "name": "Holocaust",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-07",
+    "last_seen": "1997-10-07",
+    "role": "AGW Super Heavyweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Super Heavyweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-holocaust",
+     "holocaust-rspwf"
+    ],
+    "note": "Shares a bare ring name with 2 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "hope-agw",
+  "type": "character",
+  "name": "Hope",
+  "aka": [
+   "Amethyst Hope",
+   "Hope Lee"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "c. 2005",
+    "last_seen": "c. 2005",
+    "role": "wrestler — trained by Dwayne Johnson at his own wrestling school before joining AGW",
+    "source": "promotions/agw/archive/hope-bio-card.html",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "Hope Chest (Springboard Flying Body Press)",
+    "signature_moves": [
+     "Springboard Jumping Spinning DDT"
+    ],
+    "height": "5' 6\"",
+    "hometown": "Charlotte, North Carolina",
+    "note": "Her own bio card names a real-world connection to a young Dwayne Johnson (\"now known internationally as The Rock\"), whom the fed's own held documents independently stage as an AGW titleholder under both \"Rocky Maivia\" and \"The Rock\" (see the-rock-agw) -- her own card is read as corroboration, not as staged evidence that she herself wrestled him."
+   }
+  ],
+  "caption": "A former teen model and gymnast trained by a young Dwayne Johnson, billed on her one surviving AGW bio card as one of the most brutal female wrestlers on the independent circuit.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "hybrid-agw",
+  "type": "character",
+  "name": "Hybrid",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-13",
+    "last_seen": "1999-02-27",
+    "role": "6-time AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 6-time AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hybrid"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "isaac-bacitt-agw",
+  "type": "character",
+  "name": "Isaac Bacitt",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-02",
+    "last_seen": "1997-12-02",
+    "role": "AGW U.S. Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW US Tag Team Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "j-public-agw",
+  "type": "character",
+  "name": "J. Public",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-06-14",
+    "last_seen": "1998-06-14",
+    "role": "AGW U.S. Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW US Tag Team Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jack-deth-agw",
+  "type": "character",
+  "name": "Jack Deth",
+  "aka": [
+   "J. Deth"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-13",
+    "last_seen": "1998-11-03",
+    "role": "2-time AGW U.S. Tag Team Titles holder; billed on the 15 Sep 1998 card, appearing in 2 matches",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 2-time AGW US Tag Team Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jack-gorgon-agw",
+  "type": "character",
+  "name": "Jack Gorgon",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Brolly",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jade-lee-agw",
+  "type": "character",
+  "name": "Jade Lee",
+  "aka": [
+   "Soldier Of Fortune"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed \"Soldier Of Fortune\"; once slated for a main-roster AGW run alongside childhood friend Rick Fortune and Overkill as the \"Soldiers of Fortune\" before an illness sidelined her for nearly two years) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed \"Soldier Of Fortune\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jason-star-agw",
+  "type": "character",
+  "name": "Jason Star",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-12-22",
+    "last_seen": "2000-01-30",
+    "role": "AGW TV Title holder; 2-time AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 2 of the fed's own titles, most prominently the AGW TV Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-jason-star"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "jed-mccloud-agw",
+  "type": "character",
+  "name": "Jed McCloud",
+  "aka": [
+   "Texas Marshall"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed \"Texas Marshall\"; a rough-house Texas brawler) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed \"Texas Marshall\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jessica-dawn-agw",
+  "type": "character",
+  "name": "Jessica Dawn",
+  "aka": [
+   "Queen of Hardcore"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "c. 2011",
+    "role": "wrestler, \"Queen of Hardcore\" — a three-time AGW Woman's World Champion and Woman's Tag Team Champion; later trained women at the Racer Academy",
+    "source": "promotions/agw/archive/jessica-dawn-bio-card.html",
+    "roles": [
+     "wrestler",
+     "other"
+    ],
+    "finisher": "Hardcore Plunge (Top rope Reverse Frankensteiner)",
+    "signature_moves": [
+     "Catwalk Frankensteiner"
+    ],
+    "height": "5'6\"",
+    "weight": "133 lbs.",
+    "entrance_music": {
+     "title": "Maneater",
+     "artist": "Hall & Oates",
+     "verbatim": "\"Maneater\" - Hall & Oates",
+     "corrected": "\"Maneater\" by Hall & Oates"
+    },
+    "note": "Her own bio card names her trainer as \"the Paladin\" (see the-paladin-agw), an AGW wrestler otherwise attested only in the fed's own 6-Man Tag Title ledger and academy page."
+   }
+  ],
+  "caption": "A three-time AGW Woman's World Champion billed as the \"Queen of Hardcore,\" who later trained the promotion's own women at the Racer Academy.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 4,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "jimmy-crush-agw",
+  "type": "character",
+  "name": "Jimmy Crush",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-04-10",
+    "last_seen": "1999-04-10",
+    "role": "AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jimmy-drayton-agw",
+  "type": "character",
+  "name": "Jimmy Drayton",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (the youngest male trainee, graduating high school in 2006; lists Eric Von Doom as his favorite wrestler) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (the youngest male trainee, graduating high school in 2006), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jimmy-priest-agw",
+  "type": "character",
+  "name": "Jimmy Priest",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-06-19",
+    "last_seen": "1999-06-19",
+    "role": "AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jo-hardy-agw",
+  "type": "character",
+  "name": "Jo Hardy",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Nelson's own bio card names her his wife, married in Canterbury Cathedral, later drawn to William Regal after Nelson's own infidelity -- no wrestling role is staged for her, and the same bio card is careful to note she is \"no relation to the Hardy Boyz.\"",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "joaquin-campos-agw",
+  "type": "character",
+  "name": "Joaquin Campos",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-11-17",
+    "last_seen": "1999-03-06",
+    "role": "2-time AGW TV Title holder; 2-time AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 4 reigns over 2 of the fed's own titles, most prominently the AGW TV Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "joey-bitter-agw",
+  "type": "character",
+  "name": "Joey Bitter",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (the only son of senior AGW official Mr. Bitter; a regular preliminary wrestler since 2005) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (the only son of senior AGW official Mr Bitter), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "joshua-gardner-agw",
+  "type": "character",
+  "name": "Joshua Gardner",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-04-11",
+    "last_seen": "1999-06-26",
+    "role": "AGW World Title holder; AGW TV Title holder; AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 3 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kane-agw",
+  "type": "character",
+  "name": "KANE",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1999-10-24",
+    "role": "AGW Intercontinental Title holder; AGW Anything Goes Tag Team Titles holder; billed on the 15 Sep 1998 card, appearing in 3 matches",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Kane; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "kane-action-extreme-wrestling"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 2 reigns over 2 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kathryn-cash-agw",
+  "type": "character",
+  "name": "Kathryn Cash",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "katrina-morris-agw",
+  "type": "character",
+  "name": "Katrina Morris",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1999-06-19",
+    "role": "AGW Women's Title holder; billed on the 15 Sep 1998 card against Mistress Talia and Poison Ivy; one of the four Morris Sisters, a third-generation wrestling family, who help train the Academy's female students",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html; promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kaz-takanoshita-agw",
+  "type": "character",
+  "name": "Kaz Takanoshita",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (from Osaka, Japan, recommended by the Dark Church; a striker with shoot-fighting experience in Japan's World Japan league) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (from Osaka, Japan, recommended by the Dark Church), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kelly-agw",
+  "type": "character",
+  "name": "Kelly",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-06-26",
+    "last_seen": "1999-06-26",
+    "role": "AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW 6 Man Tag Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kelly-bmw"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "kenny-stephens-agw",
+  "type": "character",
+  "name": "Kenny Stephens",
+  "aka": [
+   "Flyboy Kenny Stephens"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed \"Flyboy\"; trained in Mexico in the luchadore style) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed \"Flyboy\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kid-dragon-agw",
+  "type": "character",
+  "name": "Kid Dragon",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-11",
+    "last_seen": "1998-02-21",
+    "role": "AGW Anything Goes Title holder; AGW Cruiserweight Title holder; AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 3 of the fed's own titles, most prominently the AGW Anything Goes Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kid-dragon-4ww"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "kid-nitro-agw",
+  "type": "character",
+  "name": "Kid Nitro",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-11",
+    "last_seen": "1999-06-19",
+    "role": "3-time AGW World Title holder; AGW Intercontinental Title holder; AGW TV Title holder; AGW Cruiserweight Title holder; AGW 6 Man Tag Titles holder; billed on the 15 Sep 1998 card against Clown Killer and Most Holy and KANE",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 7 reigns over 5 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kid-nitro-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "kris-kanyon-agw",
+  "type": "character",
+  "name": "Kris Kanyon",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-04-13",
+    "last_seen": "1999-07-06",
+    "role": "AGW TV Title holder; AGW Anything Goes Title holder; AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Chris Kanyon; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": []
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 3 of the fed's own titles, most prominently the AGW TV Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lamar-lane-agw",
+  "type": "character",
+  "name": "Lamar Lane",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "Academy graduate, October 2001, the second graduate; one-half of the FCW's two-time tag champions Studz-A-Plenty; wrestling in Japan since summer 2002",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW Academy graduate (October 2001), per the school's own page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lariat-brisco-agw",
+  "type": "character",
+  "name": "Lariat Brisco",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "leroy-simmons-agw",
+  "type": "character",
+  "name": "Leroy Simmons",
+  "aka": [
+   "The Ebony Express"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (tours the indy circuit as \"The Ebony Express\"; personally trained by Lamar Lane; teams with Chad Allen) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (tours the indy circuit as \"The Ebony Express\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lex-luger-agw",
+  "type": "character",
+  "name": "Lex Luger",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Wolverine",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Lex Luger; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "lex-luger-faw",
+     "lex-luger-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lil-flava-agw",
+  "type": "character",
+  "name": "Lil Flava",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-06-01",
+    "last_seen": "1999-06-01",
+    "role": "AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lizzie-anarchy-agw",
+  "type": "character",
+  "name": "Lizzie Anarchy",
+  "aka": [
+   "Problem Child"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed \"Problem Child\"; a New Jersey native) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed \"Problem Child\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "problem-child-cswa"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "lollipop-agw",
+  "type": "character",
+  "name": "Lollipop",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-11-07",
+    "last_seen": "1999-12-19",
+    "role": "3-time AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the 3-time AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lollipop-obw"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "m-mountain-rock-agw",
+  "type": "character",
+  "name": "M. Mountain Rock",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-10-31",
+    "last_seen": "1999-10-31",
+    "role": "AGW Intercontinental Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Intercontinental Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mackenzie-campbell-agw",
+  "type": "character",
+  "name": "MacKenzie Campbell",
+  "aka": [
+   "Mac"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed \"Mac\"; half-sister of former AGW star and MMA contender Drake Campbell; a former model and actress trained by Moonspell) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed \"Mac\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mac-aat-wwa"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "mai-shiranui-agw",
+  "type": "character",
+  "name": "Mai Shiranui",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-03-13",
+    "last_seen": "1999-03-13",
+    "role": "AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "malik-shabazz-agw",
+  "type": "character",
+  "name": "Malik Shabazz",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-12-15",
+    "last_seen": "1999-12-22",
+    "role": "2-time AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 2-time AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mangler-agw",
+  "type": "character",
+  "name": "Mangler",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-02-21",
+    "last_seen": "1998-04-14",
+    "role": "AGW Intercontinental Title holder; 2-time AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 2 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "maria-reyes-agw",
+  "type": "character",
+  "name": "Maria Reyes",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (identical Mexican-American twin from Miami; prefers submissions; former high-school basketball player) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (identical Mexican-American twin from Miami), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mark-paris-agw",
+  "type": "character",
+  "name": "Mark Paris",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-04-04",
+    "last_seen": "1999-04-10",
+    "role": "3-time AGW World Title holder; AGW Intercontinental Title holder; AGW Anything Goes Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 5 reigns over 3 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hardcore-revolutionary-mark-paris-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "mark-payne-agw",
+  "type": "character",
+  "name": "Mark Payne",
+  "aka": [
+   "Blonde Bastard",
+   "The Blonde Bastard"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-09-19",
+    "last_seen": "2000-01-30",
+    "role": "2-time AGW World Title holder; AGW TV Title holder; AGW Anything Goes Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 4 reigns over 3 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mark-payne-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "mark-starr-agw",
+  "type": "character",
+  "name": "Mark Starr",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-07-06",
+    "last_seen": "1999-07-25",
+    "role": "2-time AGW Anything Goes Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 2-time AGW Anything Goes Tag Team Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "master-darque-agw",
+  "type": "character",
+  "name": "Master Darque",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-06-14",
+    "last_seen": "1999-08-14",
+    "role": "AGW TV Title holder; 3-time AGW U.S. Tag Team Titles holder; billed on the 15 Sep 1998 card against The Immortals",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 4 reigns over 2 of the fed's own titles, most prominently the AGW TV Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "matt-grendel-agw",
+  "type": "character",
+  "name": "Matt Grendel",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-01-19",
+    "last_seen": "1999-01-19",
+    "role": "AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "max-wagner-agw",
+  "type": "character",
+  "name": "Max Wagner",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Doc Holiday",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "megan-duffy-agw",
+  "type": "character",
+  "name": "Megan Duffy",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (an Irish wrestler hoping to build the sport's profile at home) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (an Irish wrestler hoping to build the sport's profile at home), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "methos-agw",
+  "type": "character",
+  "name": "Methos",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-11-16",
+    "last_seen": "1998-06-13",
+    "role": "AGW TV Title holder; 3-time AGW Anything Goes Title holder; AGW Super Heavyweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 5 reigns over 3 of the fed's own titles, most prominently the AGW TV Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mike-e-clark-agw",
+  "type": "character",
+  "name": "Mike E. Clark",
+  "aka": [
+   "M.E. Clark"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-08-08",
+    "last_seen": "1998-09-15",
+    "role": "AGW 6 Man Tag Titles holder; billed on the 15 Sep 1998 card, appearing in 3 matches",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW 6 Man Tag Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mikey-whipwreck-agw",
+  "type": "character",
+  "name": "Mikey Whipwreck",
+  "aka": [
+   "M. Whipwreck"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-11-22",
+    "last_seen": "1998-03-28",
+    "role": "2-time AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Mikey Whipwreck; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": []
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 2-time AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "misery-agw",
+  "type": "character",
+  "name": "Misery",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2005-02-28",
+    "last_seen": "2005-02-28",
+    "role": "billed on the announced Winter Storm 2005 card (28 Feb 2005) -- 90 Minute Ironman Match; the card was captured ahead of the date with no results held, so this is a billing, not a confirmed appearance",
+    "source": "promotions/agw/archive/2005-02-28-winter-storm.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the announced Winter Storm 2005 card -- captured ahead of the date, with no results held for it.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "misery-wwa"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "mistress-talia-agw",
+  "type": "character",
+  "name": "Mistress Talia",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-29",
+    "role": "AGW Women's Title holder; billed on the 15 Sep 1998 card against Qetesh and Katrina Morris",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "moonspell-agw",
+  "type": "character",
+  "name": "Moonspell",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2000-01-12",
+    "last_seen": "2005-02-28",
+    "role": "AGW Women's Title holder; Speed Racer's sister, who trains the Academy's female students between her own AGW commitments; billed on the announced Winter Storm 2005 card (28 Feb 2005) -- Women's Match, stips TBA; the card was captured ahead of the date with no results held, so this is a billing, not a confirmed appearance",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/agw-academy.html; promotions/agw/archive/2005-02-28-winter-storm.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "morrigan-anastasia-agw",
+  "type": "character",
+  "name": "Morrigan Anastasia",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2005-02-28",
+    "last_seen": "2005-02-28",
+    "role": "an Academy graduate (December 2002) who returns to run rigorous drills for the students; billed as one of the top pure-wrestling women in the industry; Academy graduate, December 2002, trained specifically by Moonspell and Violet Morris; billed on the announced Winter Storm 2005 card (28 Feb 2005) -- Women's Match, stips TBA; the card was captured ahead of the date with no results held, so this is a billing, not a confirmed appearance",
+    "source": "promotions/agw/archive/agw-academy.html; promotions/agw/archive/2005-02-28-winter-storm.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An AGW Academy graduate (December 2002), per the school's own page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "most-holy-agw",
+  "type": "character",
+  "name": "Most Holy",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-03-17",
+    "last_seen": "1999-11-21",
+    "role": "2-time AGW World Title holder; AGW TV Title holder; 8-time AGW Cruiserweight Title holder; billed on the 15 Sep 1998 card, appearing in 2 matches",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 11 reigns over 3 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "most-holy-newf",
+     "most-holy-rspwf"
+    ],
+    "note": "Shares a bare ring name with 2 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "mountain-of-darkness-agw",
+  "type": "character",
+  "name": "Mountain of Darkness",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-03-02",
+    "last_seen": "1999-03-02",
+    "role": "AGW Anything Goes Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Anything Goes Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mr-bitter-agw",
+  "type": "character",
+  "name": "Mr. Bitter",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "nash-agw",
+  "type": "character",
+  "name": "Nash",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Kevin Nash; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": []
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "nelson-agw",
+  "type": "character",
+  "name": "Nelson",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2002",
+    "last_seen": "c. 2008",
+    "role": "wrestler -- debuted at Ultimate Survivor 2002 eliminating three of the Order of Snakes single-handedly; AGW TV Champion and AGW Triple Crown Tag Champion (World, Anything Goes, and Unified Tag titles) as one-half of Damage Incorporated with Eric Von Doom; won the 2002 Rookie of the Year and 2003 Most Potential Slammy awards. His own bio card narrates an extensive kayfabe biography: raised by his father \"Lord Stephen Regal\" (a fictional former WCW Television Titleholder, never staged as an AGW character in his own right) after his mother's divorce, then by his uncle William Regal following his father's death; formed the early tag team Britannia with William Regal before Regal turned on him; married Jo Hardy, whose later infidelity drove her into William Regal's own company; opposed Mark Paris's stable The Clique on behalf of his idol Most Holy; feuded at length with AGW legend Smooth Operator, settled in a two-out-of-three-falls Insane Death Match; formed Damage Incorporated with Eric Von Doom after Smooth Operator's own defeat, capturing the AGW Tag Team Triple Crown as the first team to do so, before a Ghetto Boyz attack (a near-drowning) and its aftermath broke the team up; feuded with Mark Payne (\"the Blonde Bastard\"); and led the New Blood incursion revealed at Ultimate Survivor 2003 on Speed Racer's own invitation.",
+    "source": "promotions/agw/archive/nelson-bio-card.html",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "Battle of Trafalgar (elevated powerbomb)",
+    "signature_moves": [
+     "Regal Stretch"
+    ],
+    "height": "6'10\"",
+    "weight": "372 lbs"
+   }
+  ],
+  "caption": "Debuted at Ultimate Survivor 2002 by eliminating three of the Order of Snakes single-handedly, and went on to become AGW's TV Champion and a Triple Crown Tag Champion.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "nicosia-brown-agw",
+  "type": "character",
+  "name": "Nicosia Brown",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (from Biloxi, Mississippi; a former high-school athlete) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (from Biloxi, Mississippi), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "overkill-agw",
+  "type": "character",
+  "name": "Overkill",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "c. 2008",
+    "role": "wrestler and head trainer of the AGW Wrestling Academy when Speed Racer is unavailable — Speed's own first student before the school existed; a 2-time AGW Anything Goes Tag Team Titles holder (May 1999, per the fed's own title-history ledger)",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler",
+     "other"
+    ]
+   }
+  ],
+  "caption": "Speed Racer's own first student, before the Academy existed to teach him — later its head trainer whenever Speed himself was away.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "overkill"
+    ],
+    "note": "Shares a bare ring name with an existing registered \"Overkill\" entity; no evidence ties this AGW wrestler to that one."
+   }
+  ]
+ },
+ {
+  "id": "paige-vandenberg-agw",
+  "type": "character",
+  "name": "Paige Vandenberg",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "Academy graduate, July 2003, known for high-risk, high-impact maneuvers",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW Academy graduate (July 2003), per the school's own page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "paul-freaker-agw",
+  "type": "character",
+  "name": "Paul Freaker",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "paul-vega-agw",
+  "type": "character",
+  "name": "Paul Vega",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-06-26",
+    "last_seen": "1999-06-26",
+    "role": "AGW World Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW World Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "perfect-agw",
+  "type": "character",
+  "name": "Perfect",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Mr. Perfect (Curt Hennig); the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": []
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "poison-ivy-agw",
+  "type": "character",
+  "name": "Poison Ivy",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card, appearing in 2 matches",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "poison-ivy-cswa",
+     "poison-ivy-cswa"
+    ],
+    "note": "Shares a bare ring name with 2 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "punishment-agw",
+  "type": "character",
+  "name": "Punishment",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-01-24",
+    "last_seen": "1998-01-24",
+    "role": "AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW 6 Man Tag Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "qetesh-agw",
+  "type": "character",
+  "name": "Qetesh",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1999-07-13",
+    "role": "3-time AGW Women's Title holder; billed on the 15 Sep 1998 card against Mistress Talia and Poison Ivy",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the 3-time AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "quackman-agw",
+  "type": "character",
+  "name": "Quackman",
+  "aka": [
+   "Quackers"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-04-21",
+    "last_seen": "1999-07-25",
+    "role": "2-time AGW Anything Goes Tag Team Titles holder; AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 2 of the fed's own titles, most prominently the AGW Anything Goes Tag Team Titles.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "reign-agw",
+  "type": "character",
+  "name": "Reign",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Mike E. Clark",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "reign-oww"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "rhapsody-agw",
+  "type": "character",
+  "name": "Rhapsody",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "c. 2008",
+    "role": "wrestler, announcer, and AGW Wrestling Academy trainer — part of what the card describes as the \"Big 3\" feds of the AGW, FCW and UWL",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler",
+     "commentator",
+     "other"
+    ]
+   }
+  ],
+  "caption": "An announce-booth regular and AGW Wrestling Academy trainer, billed on her own account as having worked what the era called the \"Big 3\" — the AGW, FCW, and UWL.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "rick-fortune-agw",
+  "type": "character",
+  "name": "Rick Fortune",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "an Academy graduate (June 2002) who returns to train students; rushed out of the Academy early, then \"disowned\" by Speed Racer before proving critics wrong with a successful AGW career; Academy graduate, June 2002",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An AGW Academy graduate (June 2002), per the school's own page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "rick-steiner-agw",
+  "type": "character",
+  "name": "Rick Steiner",
+  "aka": [
+   "R. Steiner"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-11-17",
+    "last_seen": "1999-11-17",
+    "role": "AGW World Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Rick Steiner; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": []
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW World Tag Team Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "rosa-reyes-agw",
+  "type": "character",
+  "name": "Rosa Reyes",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (identical Mexican-American twin from Miami; a taller, rougher-style wrestler; former high-school basketball player) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (identical Mexican-American twin from Miami), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "rose-morris-agw",
+  "type": "character",
+  "name": "Rose Morris",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "one of the four Morris Sisters, a third-generation wrestling family, who help train the Academy's female students",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An one of the four Morris Sisters, a third-generation wrestling family, who help train the Academy's female students.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sabrina-anderson-agw",
+  "type": "character",
+  "name": "Sabrina Anderson",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (a West Coast wrestler recommended to the Academy by Jake Page) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (a West Coast wrestler recommended to the Academy by Jake Page), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "scion-agw",
+  "type": "character",
+  "name": "Scion",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "the Academy's first graduate (May 2000) and, after a knee injury during an AGW Intercontinental Title defense against Wildfire ended his own in-ring run, its assistant trainer, covering ring and business fundamentals for new students; a health-food enthusiast; Academy graduate, May 2000, the Academy's first graduate",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An AGW Academy graduate (May 2000), per the school's own page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "scott-blanchard-agw",
+  "type": "character",
+  "name": "Scott Blanchard",
+  "aka": [
+   "S. Blanchard"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-11-08",
+    "last_seen": "1998-09-15",
+    "role": "AGW Intercontinental Title holder; AGW Cruiserweight Title holder; billed on the 15 Sep 1998 card against Hiroshiki Nanama",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 2 reigns over 2 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sean-blake-agw",
+  "type": "character",
+  "name": "Sean Blake",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-03-23",
+    "last_seen": "1999-06-15",
+    "role": "AGW TV Title holder; AGW U.S. Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 2 reigns over 2 of the fed's own titles, most prominently the AGW TV Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sean-tylor-agw",
+  "type": "character",
+  "name": "Sean Tylor",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "2005-02-28",
+    "last_seen": "2005-02-28",
+    "role": "billed on the announced Winter Storm 2005 card (28 Feb 2005) -- 90 Minute Ironman Match; the card was captured ahead of the date with no results held, so this is a billing, not a confirmed appearance",
+    "source": "promotions/agw/archive/2005-02-28-winter-storm.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the announced Winter Storm 2005 card -- captured ahead of the date, with no results held for it.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sebastian-cage-agw",
+  "type": "character",
+  "name": "Sebastian Cage",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-06-29",
+    "last_seen": "2000-01-19",
+    "role": "5-time AGW Cruiserweight Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 5-time AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sebastian-cruz-agw",
+  "type": "character",
+  "name": "Sebastian Cruz",
+  "aka": [
+   "Cruz"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (a Miami native with an extensive arrest record who relocated to D.C. for the Academy) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (a Miami native with an extensive arrest record who relocated to DC for the Academy), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "serpent-man-agw",
+  "type": "character",
+  "name": "Serpent Man",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "shawn-michaels-agw",
+  "type": "character",
+  "name": "Shawn Michaels",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-11",
+    "last_seen": "2000-01-05",
+    "role": "AGW World Title holder; 3-time AGW Intercontinental Title holder; AGW TV Title holder; AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Shawn Michaels; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "shawn-michaels-pwe-inc",
+     "shawn-michaels-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 6 reigns over 4 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "skull-ganz-agw",
+  "type": "character",
+  "name": "Skull Ganz",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-04-20",
+    "last_seen": "1999-07-10",
+    "role": "AGW Intercontinental Title holder; AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 2 reigns over 2 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "skye-moon-flower-agw",
+  "type": "character",
+  "name": "Skye Moon Flower",
+  "aka": [
+   "Flower Power"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed \"Flower Power\"; from a family of hippies) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed \"Flower Power\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "smooth-operator-agw",
+  "type": "character",
+  "name": "Smooth Operator",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-12-16",
+    "last_seen": "1998-04-26",
+    "role": "AGW World Title holder; AGW Intercontinental Title holder; AGW TV Title holder; AGW U.S. Tag Team Titles holder; AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 5 reigns over 5 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "smooth-operator-rspwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "snake-eye-agw",
+  "type": "character",
+  "name": "Snake Eye",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "son-goku-agw",
+  "type": "character",
+  "name": "Son Goku",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-10-11",
+    "last_seen": "1999-02-02",
+    "role": "AGW Intercontinental Title holder; 4-time AGW Cruiserweight Title holder; 2-time AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 7 reigns over 3 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "son-goten-agw",
+  "type": "character",
+  "name": "Son Goten",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-01-20",
+    "last_seen": "1998-01-20",
+    "role": "AGW World Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW World Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "speed-racer-agw",
+  "type": "character",
+  "name": "Speed Racer",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "c. 1999",
+    "last_seen": "c. 2008",
+    "role": "wrestler; founded the AGW Wrestling Academy in a Washington D.C. suburb in the summer of 1999, training new talent through multiple eras of the promotion; AGW World Title holder (30 Jan 2000, running into the fed's own hiatus) and, teamed with Mark Payne, an AGW Anything Goes Tag Team Titles holder (29 Dec 1999); special referee for the four corners main event on the fed's own earliest surviving results card, 15 Sep 1998",
+    "source": "promotions/agw/archive/agw-academy.html; promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler",
+     "other"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "speed-racer-rspwf"
+    ],
+    "note": "Shares a bare ring name with an existing registered \"Speed Racer\" entity from a different fed; no evidence ties this AGW wrestler to that one."
+   }
+  ],
+  "caption": "Founded the AGW Wrestling Academy out of a Washington DC suburb in 1999, and kept it running through the promotion's own comings and goings.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "stan-thayer-agw",
+  "type": "character",
+  "name": "Stan Thayer",
+  "aka": [
+   "Stan \"The Man\" Thayer"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed \"Stan 'The Man' Thayer\"; discovered in Nevada and California indy feds by Jake Page (the Black Knight)) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed \"Stan 'The Man' Thayer\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sting-agw",
+  "type": "character",
+  "name": "Sting",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-11-17",
+    "last_seen": "1999-11-17",
+    "role": "AGW World Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Sting; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "sting-action-extreme-wrestling",
+     "sting-pwe-inc",
+     "sting-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW World Tag Team Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "storm-agw",
+  "type": "character",
+  "name": "Storm",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-11-01",
+    "last_seen": "1998-12-05",
+    "role": "2-time AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 2-time AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "storm-napw",
+     "storm-nfw",
+     "storm-obw",
+     "storm-fwf-1992"
+    ],
+    "note": "Shares a bare ring name with 4 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "super-giant-agw",
+  "type": "character",
+  "name": "Super Giant",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "susan-blake-agw",
+  "type": "character",
+  "name": "Susan Blake",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-04-27",
+    "last_seen": "1999-04-27",
+    "role": "AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "syxx-agw",
+  "type": "character",
+  "name": "Syxx",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-07-14",
+    "last_seen": "1998-09-26",
+    "role": "2-time AGW Cruiserweight Title holder; billed on the 15 Sep 1998 card against Dan Sexton",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Sean Waltman (as \"Syxx\"); the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": []
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 2-time AGW Cruiserweight Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "t-austin-agw",
+  "type": "character",
+  "name": "T. Austin",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-03-23",
+    "last_seen": "1999-03-23",
+    "role": "AGW U.S. Tag Team Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW US Tag Team Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tempest-agw",
+  "type": "character",
+  "name": "Tempest",
+  "aka": [
+   "Eliza Reece"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "Academy graduate, September 2004; the page identifies her as Eliza Reece, niece of Speed Racer and Moonspell, daughter of their oldest sister Lana, 19 years old at graduation",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW Academy graduate (September 2004), per the school's own page.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tempest-osw"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "terrance-garvin-agw",
+  "type": "character",
+  "name": "Terrance Garvin",
+  "aka": [
+   "T.M. Garvin"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-11-06",
+    "last_seen": "1999-10-17",
+    "role": "AGW World Title holder; 2-time AGW TV Title holder; 5-time AGW Cruiserweight Title holder; AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 9 reigns over 4 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "terry-funk-agw",
+  "type": "character",
+  "name": "Terry Funk",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-04-26",
+    "last_seen": "1998-04-26",
+    "role": "AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Terry Funk; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "terry-funk-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tessa-agw",
+  "type": "character",
+  "name": "Tessa",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-05-22",
+    "last_seen": "1999-07-03",
+    "role": "3-time AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the 3-time AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "texas-whipper-agw",
+  "type": "character",
+  "name": "Texas Whipper",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Vengeance",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-kurgan-agw",
+  "type": "character",
+  "name": "The Kurgan",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-22",
+    "last_seen": "1998-11-14",
+    "role": "2-time AGW Anything Goes Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 2-time AGW Anything Goes Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-paladin-agw",
+  "type": "character",
+  "name": "The Paladin",
+  "aka": [
+   "Paladin"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-10-18",
+    "last_seen": "1998-10-18",
+    "role": "AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW 6 Man Tag Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-preacher-agw",
+  "type": "character",
+  "name": "The Preacher",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-06-15",
+    "last_seen": "1999-06-15",
+    "role": "AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW 6 Man Tag Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-the-preacher",
+     "the-preacher-cswa"
+    ],
+    "note": "Shares a bare ring name with 2 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "the-reaper-agw",
+  "type": "character",
+  "name": "The Reaper",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-11-23",
+    "last_seen": "1998-11-23",
+    "role": "AGW Anything Goes Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Anything Goes Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-reaper-giwf"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "the-red-rose-agw",
+  "type": "character",
+  "name": "The Red Rose",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-01-10",
+    "last_seen": "1998-09-15",
+    "role": "AGW Intercontinental Title holder; billed on the 15 Sep 1998 card against Gris Lee",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Intercontinental Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-rock-agw",
+  "type": "character",
+  "name": "The Rock",
+  "aka": [
+   "Rocky Maivia"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-29",
+    "last_seen": "1999-12-15",
+    "role": "AGW TV Title holder; AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "portrayal_of": "the-rock-real",
+  "portrays": {
+   "figure": "the-rock-real",
+   "grade": "primary-source"
+  },
+  "caption": "A portrayal of the real professional wrestler, staged by AGW under both \"Rocky Maivia\" (a 6-Man Tag Title reign, Sep-Oct 1998) and \"The Rock\" (a TV Title reign, Dec 1999) -- corroborated independently by Hope's own bio card, which narrates the same person's real career arc (WWF developmental, \"Rocky Maiavia,\" later \"The Rock\") and her own move to AGW to follow him.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-rock-chwe",
+     "the-rock-faw",
+     "the-rock-nwwa-1998",
+     "the-rock-uwf-uwow"
+    ],
+    "note": "Shares a bare ring name with 4 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "the-russian-bear-agw",
+  "type": "character",
+  "name": "The Russian Bear",
+  "aka": [
+   "Russ. Bear"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-22",
+    "role": "AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW 6 Man Tag Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-dan-sokolov"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "the-temptress-agw",
+  "type": "character",
+  "name": "The Temptress",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Poison Ivy",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-vindicator-agw",
+  "type": "character",
+  "name": "The Vindicator",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Most Holy",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tom-tennant-agw",
+  "type": "character",
+  "name": "Tom Tennant",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-08-03",
+    "last_seen": "2000-01-05",
+    "role": "2-time AGW Anything Goes Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the 2-time AGW Anything Goes Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "total-package-agw",
+  "type": "character",
+  "name": "Total Package",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-07-25",
+    "last_seen": "1999-07-25",
+    "role": "AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Lex Luger (\"The Total Package\"); the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": []
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "triple-h-agw",
+  "type": "character",
+  "name": "Triple H",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-08-22",
+    "last_seen": "1999-08-22",
+    "role": "AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Triple H; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "hhh-chwe",
+     "hhh-faw",
+     "triple-h-iwa-icon",
+     "triple-h-nwwa-1998",
+     "triple-h-pwe-inc",
+     "triple-h-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "unleaded-agw",
+  "type": "character",
+  "name": "Unleaded",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-05-26",
+    "last_seen": "1998-07-04",
+    "role": "AGW World Title holder; AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 2 reigns over 2 of the fed's own titles, most prominently the AGW World Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "vader-agw",
+  "type": "character",
+  "name": "Vader",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-29",
+    "last_seen": "1998-09-29",
+    "role": "AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler Big Van Vader; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "vader-cyberslam",
+     "vader-uwf-uwow",
+     "vader-xwf-uwow"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW 6 Man Tag Titles holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "valerie-black-agw",
+  "type": "character",
+  "name": "Valerie Black",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (older sister of Lexa and younger sister of the late Anastasia Black, Morrigan Anastasia's childhood best friend) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (older sister of Lexa and younger sister of the late Anastasia Black, Morrigan Anastasia's childhood best friend), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "vann-burris-agw",
+  "type": "character",
+  "name": "Vann Burris",
+  "aka": [
+   "Afro-Vann"
+  ],
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "a 2006-intake Academy trainee (billed \"Afro-Vann\"; a D.C.-based brawler) -- billed by the page as a template available for use, not confirmed as ever appearing on the main AGW roster",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 2006-intake trainee at the AGW Wrestling Academy (billed \"Afro-Vann\"), billed by the school's own page as a template for future use.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "vegeta-agw",
+  "type": "character",
+  "name": "Vegeta",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1997-11-01",
+    "last_seen": "1999-02-02",
+    "role": "AGW Anything Goes Title holder; 2-time AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 3 reigns over 2 of the fed's own titles, most prominently the AGW Anything Goes Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "vengeance-agw",
+  "type": "character",
+  "name": "Vengeance",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1999-11-10",
+    "role": "AGW Intercontinental Title holder; AGW TV Title holder; billed on the 15 Sep 1998 card against Texas Whipper",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 2 reigns over 2 of the fed's own titles, most prominently the AGW Intercontinental Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "vengeance-cswa"
+    ],
+    "note": "Shares a bare ring name with an already-registered entity from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "vice-agw",
+  "type": "character",
+  "name": "Vice",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "vincent-i-paige-agw",
+  "type": "character",
+  "name": "Vincent I. Paige",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-05-29",
+    "last_seen": "1999-05-29",
+    "role": "AGW TV Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW TV Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "violet-morris-agw",
+  "type": "character",
+  "name": "Violet Morris",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "role": "one of the four Morris Sisters, a third-generation wrestling family, who help train the Academy's female students",
+    "source": "promotions/agw/archive/agw-academy.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An one of the four Morris Sisters, a third-generation wrestling family, who help train the Academy's female students.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "virgil-earp-agw",
+  "type": "character",
+  "name": "Virgil Earp",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-03-17",
+    "last_seen": "1998-12-19",
+    "role": "AGW Anything Goes Title holder; AGW 6 Man Tag Titles holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed across 2 reigns over 2 of the fed's own titles, most prominently the AGW Anything Goes Title.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "william-regal-agw",
+  "type": "character",
+  "name": "William Regal",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with the real professional wrestler William Regal; the held AGW record stages no biographical detail connecting the two beyond the shared name, read as fan name-borrowing rather than a confirmed portrayal.",
+    "with": [
+     "william-regal-faw",
+     "william-regal-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "Billed as Nelson's uncle and trainer on Nelson's own bio card -- an entirely invented family history (a late brother \"Lord Stephen Regal,\" a Navy-veteran nephew) unconnected to the real William Regal's own career, read as fan name-borrowing rather than a portrayal.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "wolverine-agw",
+  "type": "character",
+  "name": "Wolverine",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-09-15",
+    "last_seen": "1998-09-15",
+    "role": "billed on the 15 Sep 1998 card against Lex Luger",
+    "source": "promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed on the promotion's earliest surviving card, 15 September 1998.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-wolverine",
+     "dave-reiners-ewa",
+     "wolverine-aicw",
+     "wolverine-cswa",
+     "wolverine-faw"
+    ],
+    "note": "Shares a bare ring name with 5 already-registered entities from other wings; the held AGW record stages no evidence connecting them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "wyatt-earp-agw",
+  "type": "character",
+  "name": "Wyatt Earp",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1998-01-27",
+    "last_seen": "1998-09-15",
+    "role": "AGW Intercontinental Title holder; billed on the 15 Sep 1998 card against Chris Comet",
+    "source": "promotions/agw/archive/title-histories.html; promotions/agw/archive/1998-09-15-anything-goes-tuesday.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "An AGW wrestler billed as the AGW Intercontinental Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "zoe-burgess-agw",
+  "type": "character",
+  "name": "Zoe Burgess",
+  "tenures": [
+   {
+    "promotion": "agw",
+    "first_seen": "1999-03-02",
+    "last_seen": "1999-03-02",
+    "role": "AGW Women's Title holder",
+    "source": "promotions/agw/archive/title-histories.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "An AGW wrestler billed as the AGW Women's Title holder.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ }
+]

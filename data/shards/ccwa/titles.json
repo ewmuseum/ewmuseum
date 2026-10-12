@@ -1,0 +1,99 @@
+[
+  {
+    "id": "ccwa-world-heavyweight",
+    "type": "title",
+    "name": "World Heavyweight Championship",
+    "promotion": "ccwa",
+    "page": "/titles/ccwa-world-heavyweight.html",
+    "collection": "0055",
+    "epitaph": "Johnny Dollar came into the held record already champion; Ronnie McNeil took the belt from him at Sensation, reversing a second Bottom Dollar attempt into the fall, and was still champion — having retained it in a No Contest against Tony Stecchino after Eddie B.'s interference — when the surviving record ends in March 2005, billed to defend against Lyger.",
+    "notes": "Johnny Dollar's own reign predates the held record; no won-date survives the fed's own December 2004 hack.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "ccwa-north-american",
+    "type": "title",
+    "name": "North American Championship",
+    "promotion": "ccwa",
+    "page": "/titles/ccwa-north-american.html",
+    "collection": "0055",
+    "epitaph": "Furious came into the held record already champion; Danielle Northsky took the belt from him at Sensation with her own Spirit Way, and was still champion when the surviving record ends in March 2005, billed against Psyno and, per the fed's own commission-request thread, a new challenger, Sylkk.",
+    "notes": "Furious's own reign predates the held record; no won-date survives the fed's own December 2004 hack. Billed once as the “Continental Championship” in the fed's own news — an informal restyling of this same belt's own name, not a second title.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    },
+    "aka": [
+      "Continental Championship"
+    ]
+  },
+  {
+    "id": "ccwa-television",
+    "type": "title",
+    "name": "Television Championship",
+    "promotion": "ccwa",
+    "page": "/titles/ccwa-television.html",
+    "collection": "0055",
+    "epitaph": "Inaugurated at Sensation: Chris West won the first Television Championship from Wayne \"Freezer Burn\" Hammond in a barbed-wire match, Chris Sanchez's own interference clearing the way. Two weeks later Tony Stecchino stripped West of the belt on the air, the same night West was fired from the roster, and the fed's own 14 March 2005 news declares the title retired outright, replaced by a new Flash Championship tournament.",
+    "notes": null,
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    },
+    "events": [
+      {
+        "type": "retired_by_fed",
+        "date": {
+          "date": "2005-03-14",
+          "precision": "exact"
+        },
+        "note": "The fed's own news declares the Television Title no longer exists, replaced by the new Flash Championship."
+      }
+    ]
+  },
+  {
+    "id": "ccwa-tag-team",
+    "type": "title",
+    "name": "World Tag Team Championship",
+    "promotion": "ccwa",
+    "page": "/titles/ccwa-tag-team.html",
+    "collection": "0055",
+    "epitaph": "The Dead won the belts in their own CCWA debut at Sensation, over a last-minute pairing of Pete Hardy and Psyno, and were still champions — having turned back a #1 contenders match between Painkiller/Freezer Burn and Chris Sanchez/Chris West two weeks later — when the surviving record ends in March 2005.",
+    "notes": null,
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "ccwa-hardcore",
+    "type": "title",
+    "name": "Hardcore Championship",
+    "promotion": "ccwa",
+    "page": "/titles/ccwa-hardcore.html",
+    "collection": "0055",
+    "epitaph": "CCWA's own February 2005 news bills the returning Mercenary as a four-time former Hardcore Champion — the only surviving mention of this belt in the held record. No reign, date, or opponent survives to receipt a ledger entry; its history likely predates the fed's own December 2004 hack, which the fed's own news says cost it roughly twenty results.",
+    "notes": null,
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "ccwa-flash",
+    "type": "title",
+    "name": "Flash Championship",
+    "promotion": "ccwa",
+    "page": "/titles/ccwa-flash.html",
+    "collection": "0055",
+    "epitaph": "Announced 14 March 2005 to replace the retired Television Championship: an eight-man single-elimination tournament, its first-round bracket named in the fed's own news — Justin Warner vs. Dan Blitz, Freezer Burn vs. Mercenary, Painkiller vs. Chris Night, and Randy Taylor vs. Kris Krimzon — with no results captured before the held record ends.",
+    "notes": null,
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    }
+  }
+]

@@ -1,0 +1,1604 @@
+[
+ {
+  "id": "behemoth-wccw",
+  "type": "character",
+  "name": "Behemoth",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "unknown",
+    "last_seen": "c. 1999",
+    "role": "wrestler — one half of the tag team The Titans (with Leviathan), managed by The Mystic",
+    "source": "promotions/wccw/archive/behemoth-bio-card.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "One half of The Titans tag team, managed by The Mystic, on WCCW's own free-agent roster.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "behemoth"
+    ],
+    "note": "Shares a bare ring name with an existing registered \"Behemoth\" entity from a different fed; no evidence ties this WCCW wrestler to that one."
+   }
+  ]
+ },
+ {
+  "id": "jaydogg-wccw",
+  "type": "character",
+  "name": "Jaydogg",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "unknown",
+    "last_seen": "c. 1999",
+    "role": "wrestler, billed as a technically skilled brawler",
+    "source": "promotions/wccw/archive/jaydogg-bio-card.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A technically skilled brawler on WCCW's own free-agent roster.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kevin-satan-wccw",
+  "type": "character",
+  "name": "Kevin Alloy",
+  "aka": [
+   "Satan"
+  ],
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler, staged in-fiction as Satan himself in the fed's own Christmas-week roleplay; the same document identifies him as “Kevin Alloy, the former Syndicate lawyer”",
+    "source": "promotions/wccw/archive/rpotw-1999-12-18.html",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "The roleplay refers to the promotion in-fiction as “the IWA” (“the IWA wrestler,” “Syn’s... IWA record is 0-1”) though the document is served from WCCW’s own NeWA hub address — recorded verbatim, not corrected. “Syndicate” reads as an in-fiction stable/faction Kevin and Syn are both tied to (Kevin as its “former lawyer,” Syn spending “Syndicate Christmas money”); too thin (two passing mentions, no roster) to mint as a unit."
+   }
+  ],
+  "caption": "Kevin Alloy, a former lawyer for a faction called the Syndicate, staged for one Christmas-week roleplay as Satan himself, brawling Santa Claus in a mall food court before Syn and Jax drag him off.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "syn-wccw",
+  "type": "character",
+  "name": "Syn",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler, appears in the fed's own Christmas-week roleplay pulling Kevin/Satan away from the mall",
+    "source": "promotions/wccw/archive/rpotw-1999-12-18.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Appears in WCCW's own Christmas-week roleplay dragging Kevin — staged that week as Satan — out of a mall food court.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jax-wccw",
+  "type": "character",
+  "name": "Jax",
+  "aka": [
+   "Jackson Hunter",
+   "Jackson"
+  ],
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler, appears alongside Syn in the fed's own Christmas-week roleplay; the same document identifies him as “Mr. Jackson Hunter, Esq.”",
+    "source": "promotions/wccw/archive/rpotw-1999-12-18.html",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "The roleplay refers to the promotion in-fiction as “the IWA,” recorded verbatim rather than corrected — see kevin-satan-wccw’s own tenure note."
+   },
+   {
+    "promotion": "newa-hub-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-01-27",
+    "last_seen": "2002-01-27",
+    "source": "/promotions/newa-hub-1997/archive/newa-lord-of-the-ring-2002-01-30.html"
+   }
+  ],
+  "caption": "Appears alongside Syn in WCCW's own Christmas-week roleplay, more worried about the police than about Satan.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jackson-wwa"
+    ],
+    "note": "The normalized aka \"Jackson\" collides with an existing registered \"Jackson\" entity from a different fed; no evidence ties this WCCW wrestler to that one."
+   }
+  ]
+ },
+ {
+  "id": "leviathan-wccw",
+  "type": "character",
+  "name": "Leviathan",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "unknown",
+    "last_seen": "c. 1999",
+    "role": "wrestler — one half of the tag team The Titans (with Behemoth)",
+    "source": "promotions/wccw/archive/behemoth-bio-card.html",
+    "note": "Known only as Behemoth’s own bio card names him — no bio card of his own survives in the held record.",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Known only as Behemoth’s tag team partner in The Titans, on WCCW’s own free-agent roster.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "leviathan-gw",
+     "leviathan-rspwf",
+     "leviathan-uwa",
+     "leviathan-wwa"
+    ],
+    "note": "A generic Biblical-monster ring name shared by several unrelated feds’ own registered rows; no evidence ties WCCW’s Leviathan to any of them."
+   }
+  ]
+ },
+ {
+  "id": "the-mystic-wccw",
+  "type": "character",
+  "name": "The Mystic",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "unknown",
+    "last_seen": "c. 1999",
+    "role": "manager — Behemoth’s own manager, per Behemoth’s bio card",
+    "source": "promotions/wccw/archive/behemoth-bio-card.html",
+    "note": "Known only as Behemoth’s own bio card names him — no bio card of his own survives in the held record.",
+    "roles": [
+     "manager"
+    ]
+   }
+  ],
+  "caption": "Behemoth’s own manager, per Behemoth’s bio card on WCCW’s own free-agent roster.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mystic-oww",
+     "mystic-xcwf"
+    ],
+    "note": "A generic manager gimmick name shared by unrelated feds’ own registered rows; no evidence ties WCCW’s Mystic to either."
+   }
+  ]
+ },
+ {
+  "id": "kai-lewis-wccw",
+  "type": "character",
+  "name": "Kai Lewis",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated Powerhouse in Round 1 of the 1999 Lou Thesz Tournament with a reverse vertical suplex into a 3/4 Nelson bulldog, billed as his own “Big Apple.”",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Kai A. Lewis",
+   "Brooklyn's Finest"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kai-lewis-rspwf",
+     "euwc-kai-a-lewis",
+     "kai-a-lewis-lcw-1997"
+    ],
+    "note": "The full “Kai A. Lewis” billing matches two other feds’ own registered rows exactly, and the bare “Kai Lewis” matches an RSPWF Top 200 poll placing; no document ties any of them to WCCW’s own entrant."
+   }
+  ]
+ },
+ {
+  "id": "powerhouse-wccw",
+  "type": "character",
+  "name": "Powerhouse",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Kai Lewis in Round 1 of the 1999 Lou Thesz Tournament after opening the match with a pre-bell attack.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dima-lerminskiy-aicw",
+     "dima-the-russian-powerhouse-lerminskiy-aicw",
+     "euwc-ahmed-the-powerhouse",
+     "powerhouse-watson-cswa"
+    ],
+    "note": "A stock wrestling archetype name shared, wholly or as a decorated substring, by several unrelated registered rows; no evidence ties WCCW's entrant to any of them."
+   }
+  ]
+ },
+ {
+  "id": "byron-tanis-wccw",
+  "type": "character",
+  "name": "Byron Tanis",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated Dizzy Dogg in Round 1 of the 1999 Lou Thesz Tournament, then won the NWA/NeWA World Heavyweight Championship that August, holding it three weeks.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "byron-tanis-rspwf"
+    ],
+    "note": "An RSPWF Top 200 poll placing shares the bare name; no document ties it to WCCW’s own entrant and champion."
+   }
+  ]
+ },
+ {
+  "id": "dizzy-dogg-wccw",
+  "type": "character",
+  "name": "Dizzy Dogg",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Byron Tanis in Round 1 of the 1999 Lou Thesz Tournament after a back-and-forth brawl; billed “Dizzy Dogg” in the card’s own header, “Dizzy Dawg” in its own prose.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Dizzy Dawg",
+   "The Dawg"
+  ]
+ },
+ {
+  "id": "vincent-valari-wccw",
+  "type": "character",
+  "name": "Vincent Valari",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated Derek Sweger in Round 1 of the 1999 Lou Thesz Tournament with his own Ice-Freeze twisted piledriver.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "vincent-aicw",
+     "vincent-faw"
+    ],
+    "note": "The bare given name \"Vincent\" matches two other feds' own registered rows; no evidence ties WCCW's Vincent Valari to either."
+   }
+  ]
+ },
+ {
+  "id": "derek-sweger-wccw",
+  "type": "character",
+  "name": "Derek Sweger",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Vincent Valari in Round 1 of the 1999 Lou Thesz Tournament.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "boog-man-wccw",
+  "type": "character",
+  "name": "Boog Man",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated Neurosis in Round 1 of the 1999 Lou Thesz Tournament with a Northern Lights suplex, then won the NWA/NeWA World Heavyweight Championship that October.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "The Boog-Man"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "boog-man-rspwf"
+    ],
+    "note": "An RSPWF Top 200 poll placing shares the bare name; no document ties it to WCCW’s own entrant and champion."
+   }
+  ]
+ },
+ {
+  "id": "neurosis-wccw",
+  "type": "character",
+  "name": "Neurosis",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Boog Man in Round 1 of the 1999 Lou Thesz Tournament after a nearly ten-minute brawl.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "neurosis-ccw"
+    ],
+    "note": "Shares a bare ring name with an existing registered “Neurosis” row from a different fed; no evidence ties this WCCW entrant to that one."
+   }
+  ]
+ },
+ {
+  "id": "chris-mann-wccw",
+  "type": "character",
+  "name": "Chris Mann",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   },
+   {
+    "promotion": "bcw-newa",
+    "first_seen": "1999-04-04",
+    "last_seen": "unknown",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/bcw-newa/archive/1999-04-04.html; promotions/bcw-newa/archive/title-history.html",
+    "note": "Entered the Four Man Battle Royale for the BCW National Title, 4 April 1999 (won by Titan); pinned by Titan after a HICAL-set-up superplex. The fed's own Title History page separately credits him beating Titan for the National Championship at an undated later show."
+   }
+  ],
+  "caption": "Defeated Nightmare in Round 1 of the 1999 Lou Thesz Tournament with a powerbomb, after Nightmare’s own manager, Black Widow, interfered.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chris-manager-ewa",
+     "christopher-chaos-pwf"
+    ],
+    "note": "The bare given name \"Chris\" matches two other feds' own registered rows; no evidence ties WCCW's Chris Mann to either."
+   }
+  ],
+  "aka": [
+   "\"Big Country\" Chris Mann"
+  ]
+ },
+ {
+  "id": "nightmare-wccw",
+  "type": "character",
+  "name": "Nightmare",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament, billed the fed’s own TV Champion at the time; won the NWA/NeWA World Heavyweight Championship that December",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Held and lost the NeWA North American Heavyweight Championship, then lost to Chris Mann in Round 1 of the 1999 Lou Thesz Tournament while billed as the fed's own TV Champion; won the NWA/NeWA World Heavyweight Championship that December, holding it into March 2000.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "nightmare-napw",
+     "nightmare-naw",
+     "nightmare-rspwf"
+    ],
+    "note": "A generic ring name shared by several unrelated feds’ own registered rows; no evidence ties WCCW’s Nightmare to any of them."
+   }
+  ]
+ },
+ {
+  "id": "buzz-tyler-wccw",
+  "type": "character",
+  "name": "Buzz Tyler",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated The Wraith in Round 1 of the 1999 Lou Thesz Tournament with back-to-back top-rope moves, a clothesline into a frog splash.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tyler-wwa"
+    ],
+    "note": "The bare surname \"Tyler\" normalizes as a substring match against WWA's own \"Tyler,\" a hostage cameraman with no wrestling role — an unrelated coincidence, not the same entity."
+   }
+  ]
+ },
+ {
+  "id": "adam-fierce-wccw",
+  "type": "character",
+  "name": "Adam Fierce",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated John Cole in Round 1 of the 1999 Lou Thesz Tournament, closing with a diving headbutt into a neckbreaker off an attempted Outsider’s Edge, and — under the same name — held the NeWA North American Heavyweight and World Television Championships in short reigns across 1998–99.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "adam-fierce-rspwf"
+    ],
+    "note": "An RSPWF Top 200 poll placing shares the bare name; no document ties it to WCCW’s own entrant."
+   }
+  ]
+ },
+ {
+  "id": "john-cole-wccw",
+  "type": "character",
+  "name": "John Cole",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Adam Fierce in Round 1 of the 1999 Lou Thesz Tournament.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "john-cole-lcw-1997"
+    ],
+    "note": "Shares a bare name with an existing registered row from a different fed; no evidence ties this WCCW entrant to that one."
+   }
+  ]
+ },
+ {
+  "id": "jim-dalton-wccw",
+  "type": "character",
+  "name": "Jim Dalton",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Fought Jason Perry to a declared draw in Round 1 of the 1999 Lou Thesz Tournament — neither man advanced.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "The Dragon"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tha-dragon-rspwf",
+     "ultimate-dragon-cswa",
+     "ultimo-dragon-pwe-inc",
+     "ultimo-dragon-uwf-uwow",
+     "ultimo-dragon-xwf-uwow",
+     "unknown-dragon-dwo",
+     "unknown-dragon-pwe-projectefed",
+     "xian-lcw-evo",
+     "black-dragons-pure",
+     "cwfpro-the-double-dragons-billy-and-jimmy-lee",
+     "the-grand-dragons-gdwa"
+    ],
+    "note": "The nickname \"The Dragon\" (used once by the tournament's own narration) is a stock wrestling archetype shared, wholly or as a decorated substring, by many unrelated registered rows; no evidence ties WCCW's Jim Dalton to any of them."
+   }
+  ]
+ },
+ {
+  "id": "jason-perry-wccw",
+  "type": "character",
+  "name": "Jason Perry",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Fought Jim Dalton to a declared draw in Round 1 of the 1999 Lou Thesz Tournament — neither man advanced.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "horror-wccw",
+  "type": "character",
+  "name": "Horror",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated HICAL in Round 1 of the 1999 Lou Thesz Tournament with a running powerslam, after busting him open.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-amityville-horror-pwe-inc",
+     "tony-rocky-horror-rawf"
+    ],
+    "note": "A stock horror-archetype name shared, wholly or as a decorated substring, by two unrelated registered rows; no evidence ties WCCW's entrant to either."
+   }
+  ]
+ },
+ {
+  "id": "hical-wccw",
+  "type": "character",
+  "name": "HICAL",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Horror in Round 1 of the 1999 Lou Thesz Tournament.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Hical"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-hical",
+     "hical-newa-mid-atlantic"
+    ],
+    "note": "Shares a bare name with two other feds’ own registered rows; no evidence ties this WCCW entrant to either."
+   }
+  ]
+ },
+ {
+  "id": "el-diablo-wccw",
+  "type": "character",
+  "name": "El Diablo",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Mitsuharu Misawa in Round 1 of the 1999 Lou Thesz Tournament.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "el-diablo-aicw",
+     "el-diablo-cswa",
+     "el-diablo-wicew"
+    ],
+    "note": "A stock luchador ring name shared independently by three other feds’ own registered rows; no evidence ties WCCW’s entrant to any of them."
+   }
+  ]
+ },
+ {
+  "id": "michael-lennox-wccw",
+  "type": "character",
+  "name": "Michael Lennox",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   },
+   {
+    "promotion": "newa-hub-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-01-27",
+    "last_seen": "2002-01-27",
+    "source": "/promotions/newa-hub-1997/archive/newa-lord-of-the-ring-2002-01-30.html"
+   }
+  ],
+  "caption": "Defeated Scott Simpson in Round 1 of the 1999 Lou Thesz Tournament with his own Bourbon Street Wrecker.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-michael-lennox"
+    ],
+    "note": "Shares a bare name with an existing registered row from a different, unrelated fed; no evidence ties this WCCW entrant to that one."
+   }
+  ]
+ },
+ {
+  "id": "scott-simpson-wccw",
+  "type": "character",
+  "name": "Scott Simpson",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   },
+   {
+    "promotion": "bcw-newa",
+    "first_seen": "1999-04-04",
+    "last_seen": "1999-07",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own News page (promotions/bcw-newa/archive/news.html) and 4 April 1999 card (promotions/bcw-newa/archive/1999-04-04.html)",
+    "note": "Beat The Phantom on the fed's own 4 April 1999 card (a Neck Buster, 4:03). Beat John Cole for the BCW London Territorial Championship (in Canada, per the fed's own 24 June 1999 post), then lost it to R.J. Draper, per the fed's own 11 July 1999 news flash."
+   }
+  ],
+  "caption": "Lost to Michael Lennox in Round 1 of the 1999 Lou Thesz Tournament, a National eWrestling Alliance ESPN Special uniting the hub’s member territories.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jake-rockwell-wccw",
+  "type": "character",
+  "name": "Jake Rockwell",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated Mike Mayhem in Round 1 of the 1999 Lou Thesz Tournament via submission, a figure-four leglock held over a minute.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mike-mayhem-wccw",
+  "type": "character",
+  "name": "Mike Mayhem",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Submitted to Jake Rockwell’s figure-four leglock in Round 1 of the 1999 Lou Thesz Tournament; billed “Mike Mayhem” in the card’s own header, “Mike Mayham” in its own prose.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Mike Mayham"
+  ]
+ },
+ {
+  "id": "frag-sinister-wccw",
+  "type": "character",
+  "name": "Frag Sinister",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated Jason Ramsey in Round 1 of the 1999 Lou Thesz Tournament with a Tiger Bomb.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sinister-rspwf"
+    ],
+    "note": "An RSPWF Top 200 poll placing shares the \"Sinister\" surname; no document ties it to WCCW's own entrant."
+   }
+  ]
+ },
+ {
+  "id": "jason-ramsey-wccw",
+  "type": "character",
+  "name": "Jason Ramsey",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Frag Sinister in Round 1 of the 1999 Lou Thesz Tournament.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "darrel-besolve-wccw",
+  "type": "character",
+  "name": "Darrel Besolve",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   },
+   {
+    "promotion": "newa-hub-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-01-27",
+    "last_seen": "2002-01-27",
+    "source": "/promotions/newa-hub-1997/archive/newa-lord-of-the-ring-2002-01-30.html"
+   }
+  ],
+  "caption": "Defeated Toshiaki Kawada in Round 1 of the 1999 Lou Thesz Tournament with his own Light of Judgement, after a chair shot left Kawada dazed.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "darnell-jenkins-wccw",
+  "type": "character",
+  "name": "Darnell Jenkins",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated Marty Styles in Round 1 of the 1999 Lou Thesz Tournament with his own Stardust Press, and — under the same name — held the NeWA World Cruiserweight and World Television Championships in short reigns later that same year.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "marty-styles-wccw",
+  "type": "character",
+  "name": "Marty Styles",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Darnell Jenkins in Round 1 of the 1999 Lou Thesz Tournament.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dan-benson-wccw",
+  "type": "character",
+  "name": "Dan Benson",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Defeated Texas Lightning in Round 1 of the 1999 Lou Thesz Tournament with a German suplex into a pin.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "texas-lightning-wccw",
+  "type": "character",
+  "name": "Texas Lightning",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Lost to Dan Benson in Round 1 of the 1999 Lou Thesz Tournament, the closing bout on the card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "texas-lightning-lcw-1997"
+    ],
+    "note": "Shares a bare name with an existing registered row from a different, unrelated fed; no evidence ties this WCCW entrant to that one."
+   }
+  ]
+ },
+ {
+  "id": "mitsuharu-misawa-wccw",
+  "type": "character",
+  "name": "Mitsuharu Misawa",
+  "portrays": [
+   {
+    "figure": "mitsuharu-misawa-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "mitsuharu-misawa-real",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "note": "The card’s own text spells the name “Mitsuhara Misawa” — recorded verbatim on the served page; the registry uses the real wrestler’s own correct spelling.",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A staged appearance by the real Mitsuharu Misawa, defeating El Diablo in Round 1 of the 1999 Lou Thesz Tournament with a Kamikaze Bomb.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "toshiaki-kawada-wccw",
+  "type": "character",
+  "name": "Toshiaki Kawada",
+  "portrays": [
+   {
+    "figure": "toshiaki-kawada-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "toshiaki-kawada-real",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Round 1 entrant, the 2nd Annual Lou Thesz International Champion of Champions Tournament (National eWrestling Alliance ESPN Special, Aug 1999)",
+    "source": "promotions/wccw/archive/1999-lou-thesz-tournament.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A staged appearance by the real Toshiaki Kawada, losing to Darrel Besolve in Round 1 of the 1999 Lou Thesz Tournament after a chair shot.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "roddy-piper-wccw",
+  "type": "character",
+  "name": "Roddy Piper",
+  "portrays": [
+   {
+    "figure": "roddy-piper-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "roddy-piper-real",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "wrestler — NWA/NeWA World Heavyweight Champion, 7 June – 17 Aug 1998 (retired as champion)",
+    "source": "promotions/wccw/archive/newa-world-heavyweight-title-history.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A staged appearance by the real Roddy Piper, who won the NWA/NeWA World Heavyweight Championship in June 1998 and retired holding it that August.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "roddy-piper-uwf-uwow"
+    ],
+    "note": "A real-wrestler portrayal row, per-promotion by design — this fed's own portrayal of Roddy Piper is never merged with another fed's portrayal of the same real person; the shared node is the external-figures.json row (roddy-piper-real), reached only by the portrayal edge, never by name."
+   }
+  ]
+ },
+ {
+  "id": "dan-severn-wccw",
+  "type": "character",
+  "name": "Dan Severn",
+  "portrays": [
+   {
+    "figure": "dan-severn-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "dan-severn-real",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1995",
+    "last_seen": "1998",
+    "role": "wrestler — NWA/NeWA World Heavyweight Champion twice: 24 Feb 1995 – 1 Sep 1997 (lost the lineage to the fed’s own claimed 1997 divergence) and 31 Oct – 28 Dec 1998",
+    "source": "promotions/wccw/archive/newa-world-heavyweight-title-history.html",
+    "grade": "primary-source",
+    "note": "The first reign (1995–1997) is the real NWA’s own real history. Is not carried as a reigns.json row here. Only the second reign, within the fed’s own post-divergence invented lineage, is structured.",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A staged appearance by the real Dan Severn, who held the fed’s own NWA/NeWA World Heavyweight Championship a second time from October to December 1998, within its own invented post-1997 lineage.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "stephen-greer-wccw",
+  "type": "character",
+  "name": "Stephen Greer",
+  "tenures": [
+   {
+    "promotion": "wccw",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — NWA/NeWA World Heavyweight Champion, 20 Mar – 1 Jun 1999",
+    "source": "promotions/wccw/archive/newa-world-heavyweight-title-history.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "Held the NWA/NeWA World Heavyweight Championship for roughly two and a half months in 1999.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "stephen-greer-rspwf",
+     "euwc-stephen-greer"
+    ],
+    "note": "A third “Stephen Greer” on this registry — the name already collides, presumed distinct, across an RSPWF Top 200 placing and EUWC (which absorbed LCW-1997's own same-name row on 2026-08-31, on a full-name-plus-nickname match; see euwc-stephen-greer's own identity note). No document ties WCCW/NeWA’s champion to either of the other two; the same no-merge discipline applies here."
+   }
+  ]
+ }
+]

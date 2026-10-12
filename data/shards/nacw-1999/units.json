@@ -1,0 +1,109 @@
+[
+  {
+    "id": "sex-and-violence-nacw-1999",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Sex and Violence",
+    "caption": "A speed-based tag team eliminated from the promotion's own four-way tag title match at its debut pay-per-view.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "damon-harris-nacw-1999",
+      "yaz-rocker-nacw-1999"
+    ],
+    "tenures": [
+      {
+        "promotion": "nacw-1999",
+        "first_seen": "1999-01-10",
+        "last_seen": "1999-02-02",
+        "source": "the promotion's own broadcasts, January-February 1999"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only with unrelated tag teams of the same billing in three other wings; no shared evidence.",
+        "with": [
+          "sex-and-violence-chz",
+          "sex-and-violence-uga",
+          "sex-and-violence-wwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-cult-nacw-1999",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Cult",
+    "caption": "Won the World Tag Team titles at the promotion's own debut pay-per-view, then lost them a week later.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "harbringer-nacw-1999",
+      "kenny-smith-nacw-1999"
+    ],
+    "tenures": [
+      {
+        "promotion": "nacw-1999",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999-01-10",
+        "last_seen": "1999-02-08",
+        "source": "the promotion's own broadcasts, January-February 1999"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only with unrelated tag teams of the same billing in two other wings; no shared evidence.",
+        "with": [
+          "the-cult-agw",
+          "the-cult-osw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-deegans-nacw-1999",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Deegans",
+    "caption": "Won the World Tag Team titles from the reigning champions on the promotion's own 8 February 1999 broadcast, with help from ringside interference.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "eddie-deegan-nacw-1999",
+      "jason-deegan-nacw-1999"
+    ],
+    "tenures": [
+      {
+        "promotion": "nacw-1999",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999-02-08",
+        "last_seen": "1999-02-08",
+        "source": "the promotion's own broadcast, 8 February 1999"
+      }
+    ]
+  }
+]

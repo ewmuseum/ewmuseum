@@ -1,0 +1,72 @@
+[
+ {
+  "id": "mwc-1996-terry-shotgun-storm",
+  "type": "character",
+  "name": "Terry \"Shotgun\" Storm",
+  "caption": "Held the MWC Heavyweight Title into the fed's own early-July 1996 schedule, entering a submission-match defense against Magus whose outcome does not survive.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "mwc-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-07-04",
+    "last_seen": "1996-07-04",
+    "role": "wrestler — MWC Heavyweight Champion",
+    "source": "The fed's own weekly match-schedule document (mKDBHVWIwZwJ, 4 July 1996), which bills him defending champion in a scheduled submission match."
+   }
+  ]
+ },
+ {
+  "id": "mwc-1996-magus",
+  "type": "character",
+  "name": "Magus",
+  "caption": "Billed as the challenger for the MWC Heavyweight Title in a scheduled submission match whose outcome does not survive.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "mwc-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-07-04",
+    "last_seen": "1996-07-04",
+    "role": "wrestler — MWC Heavyweight Title challenger",
+    "source": "The fed's own weekly match-schedule document (mKDBHVWIwZwJ, 4 July 1996)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with magus-iewf-lwc (IEWF/LWC, 1997) — different fed, different year, no shared operator or roster fact found; a bare-name match is not evidence of a join under the identity-join test.",
+    "with": [
+     "magus-iewf-lwc"
+    ]
+   }
+  ]
+ }
+]

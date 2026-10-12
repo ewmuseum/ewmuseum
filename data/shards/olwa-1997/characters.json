@@ -1,0 +1,132 @@
+[
+ {
+  "id": "bane-olwa-1997",
+  "type": "character",
+  "name": "Bane",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "olwa-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-11",
+    "source": "promotions/olwa-1997/archive/witch-hunt-1997-11-15.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A common archetype ring name; no primary-source evidence connects this OLWA persona to any other registry entry of the same name.",
+    "with": []
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; no identity join is asserted (bare-name match is insufficient)",
+    "with": [
+     "bane-cwo",
+     "bane-rspwf",
+     "cwfpro-bane"
+    ]
+   }
+  ],
+  "notes": "Defeated Shawn Michaels by pinfall in a non-title match on Witch Hunt, 15 November 1997.",
+  "caption": "Beat a real-wrestler-portrayal persona clean on an OLWA card.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "shawn-michaels-olwa-1997",
+  "type": "character",
+  "name": "Shawn Michaels",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "olwa-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-11",
+    "source": "promotions/olwa-1997/archive/witch-hunt-1997-11-15.html"
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "shawn-michaels-real",
+    "grade": "presumed"
+   }
+  ],
+  "portrayal_of": "shawn-michaels-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real wrestler Shawn Michaels -- never merged with the pre-existing shawn-michaels-agw/-iwa-icon/-pwe-inc/-uwf-uwow/-uwl/-uwow portrayal rows.",
+    "with": [
+     "shawn-michaels-agw",
+     "shawn-michaels-iwa-icon",
+     "shawn-michaels-pwe-inc",
+     "shawn-michaels-uwf-uwow",
+     "shawn-michaels-uwl",
+     "shawn-michaels-uwow"
+    ]
+   }
+  ],
+  "notes": "Won a non-title match over Bane by pinfall, then won a ladder match over Tim Tower to become the new OLWA World Heavyweight Champion, both on Witch Hunt, 15 November 1997.",
+  "caption": "Won a ladder match to become the new OLWA World Heavyweight Champion.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "tim-tower-olwa-1997",
+  "type": "character",
+  "name": "Tim Tower",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "olwa-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-11",
+    "source": "promotions/olwa-1997/archive/witch-hunt-1997-11-15.html"
+   }
+  ],
+  "notes": "The reigning OLWA World Heavyweight Champion; lost the title to Shawn Michaels in a ladder match on Witch Hunt, 15 November 1997.",
+  "caption": "Lost the OLWA World Heavyweight Championship in a ladder match.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

@@ -1,0 +1,251 @@
+[
+ {
+  "id": "bd-piwa",
+  "type": "character",
+  "name": "BD",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "piwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "source": "promotions/piwa/archive/march-madness-1997-03-08.html"
+   }
+  ],
+  "notes": "PIWA Intercontinental Champion entering March Madness (8 March 1997); lost the title there to \"Dancin'\" Stevie Richards in a barb-wire cage match.",
+  "caption": "Lost the PIWA Intercontinental title in a barb-wire cage match.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "stevie-richards-piwa",
+  "type": "character",
+  "name": "Stevie Richards",
+  "aka": [
+   "\"Dancin'\" Stevie Richards"
+  ],
+  "tenures": [
+   {
+    "promotion": "piwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-03",
+    "source": "promotions/piwa/archive/march-madness-1997-03-08.html"
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "stevie-richards-real",
+    "grade": "presumed"
+   }
+  ],
+  "portrayal_of": "stevie-richards-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real wrestler Stevie Richards -- never merged with the pre-existing stevie-richards-ewa-email or stevie-richards-pwe-inc portrayal rows, which are independent creative acts about the same real performer.",
+    "with": [
+     "stevie-richards-ewa-email",
+     "stevie-richards-pwe-inc"
+    ]
+   }
+  ],
+  "notes": "Won the PIWA Intercontinental Championship from BD in a barb-wire cage match on March Madness (8 March 1997).",
+  "caption": "Won the PIWA Intercontinental Championship in a barb-wire cage match.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "tommy-angel-piwa",
+  "type": "character",
+  "name": "Tommy Angel",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "piwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "source": "promotions/piwa/archive/march-madness-1997-03-08.html"
+   }
+  ],
+  "notes": "PIWA United States Champion entering March Madness (8 March 1997); lost the title there to Devil's Messenger.",
+  "caption": "Lost the PIWA United States Championship on March Madness.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "devils-messenger-piwa",
+  "type": "character",
+  "name": "Devil's Messenger",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "piwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-03",
+    "source": "promotions/piwa/archive/march-madness-1997-03-08.html"
+   }
+  ],
+  "notes": "Billed as a former Television Champion; won the PIWA United States Championship from Tommy Angel on March Madness (8 March 1997).",
+  "caption": "Won the PIWA United States Championship on March Madness.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "syxx-piwa",
+  "type": "character",
+  "name": "Syxx",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "piwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-03",
+    "source": "promotions/piwa/archive/march-madness-1997-03-08.html"
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "sean-waltman-real",
+    "grade": "presumed"
+   }
+  ],
+  "portrayal_of": "sean-waltman-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real wrestler Syxx/Sean Waltman -- never merged with the pre-existing syxx-agw or syxx-newf portrayal rows.",
+    "with": [
+     "syxx-agw",
+     "syxx-newf"
+    ]
+   }
+  ],
+  "notes": "Billed with the nWo; lost to Menace II Society by count-out (nWo interference at ringside) in the opening match of March Madness, 8 March 1997.",
+  "caption": "Lost the opening match of a PIWA PPV by count-out despite nWo backup at ringside.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "menace-ii-society-piwa",
+  "type": "character",
+  "name": "Menace II Society",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "piwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-03",
+    "source": "promotions/piwa/archive/march-madness-1997-03-08.html"
+   }
+  ],
+  "notes": "Won the opening match of March Madness over Syxx by count-out, 8 March 1997, after the nWo's ringside interference backfired.",
+  "caption": "Won a PIWA PPV opener by count-out after turning the tables on the nWo.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "johnny-star-piwa",
+  "type": "character",
+  "name": "Johnny Star",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "piwa",
+    "roles": [
+     "wrestler",
+     "commentator"
+    ],
+    "first_seen": "1997",
+    "source": "promotions/piwa/archive/march-madness-1997-03-08.html"
+   }
+  ],
+  "notes": "A four-time PIWA champion and leader of the in-fiction Star Corporation stable; served as guest commentator and gave an interview on injury/comeback plans during March Madness (8 March 1997), then led his stable into the closing multi-stable brawl.",
+  "caption": "A four-time PIWA champion who led his own stable into a multi-stable brawl while recovering from injury.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

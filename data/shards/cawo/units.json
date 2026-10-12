@@ -1,0 +1,197 @@
+[
+ {
+  "id": "abomination-cawo",
+  "type": "unit",
+  "name": "Abomination",
+  "unit_kind": "tag-team",
+  "caption": "Wraith and the Apparition, who won a tag tournament final over Sex & Violence to become CAWO's first-ever World Tag Team Champions at Red Dawn.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "members": 2,
+    "reigns": 1
+   }
+  },
+  "members": [
+   {
+    "id": "wraith-cawo"
+   },
+   {
+    "id": "the-apparition-cawo"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cawo"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (abomination-aicw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "abomination-aicw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sex-and-violence-cawo",
+  "type": "unit",
+  "name": "Sex & Violence",
+  "unit_kind": "tag-team",
+  "caption": "Salvatore Bocanegra and Christian Avant, aligned with the Empirical State, who reached the CAWO World Tag Team Championship tournament final at Red Dawn before losing to Abomination.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "members": 2,
+    "reigns": 0
+   }
+  },
+  "members": [
+   {
+    "id": "salvatore-bocanegra-cawo"
+   },
+   {
+    "id": "christian-avant-cawo"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [],
+    "note": "A common wrestling tag-team name; no evidence ties this pairing to any other unit of the same name held elsewhere in the museum."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (cwfpro-sex-and-violence); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "cwfpro-sex-and-violence"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (sex-and-violence-lcw-1997); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "sex-and-violence-lcw-1997"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cawo"
+   }
+  ]
+ },
+ {
+  "id": "cold-blooded-cawo",
+  "type": "unit",
+  "name": "Cold Blooded",
+  "unit_kind": "tag-team",
+  "caption": "Gerrard Collins and Ethan LaFontaine, a Canadian tag team who lost a CAWO World Tag Team Championship tournament semi-final to Sex & Violence at Red Dawn.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "members": 2,
+    "reigns": 0
+   }
+  },
+  "members": [
+   {
+    "id": "gerrard-collins-cawo"
+   },
+   {
+    "id": "ethan-lafontaine-cawo"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cawo"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (euwc-cold-blooded-euwc); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "euwc-cold-blooded-euwc"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (euwc-cold-blooded); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "euwc-cold-blooded"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rebels-of-the-sacred-heart-cawo",
+  "type": "unit",
+  "name": "Rebels of the Sacred Heart",
+  "unit_kind": "tag-team",
+  "caption": "Patrick Flaherty and Sheamus McManus, a Boston tag team who lost a CAWO World Tag Team Championship tournament semi-final to Abomination at Red Dawn.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "members": 2,
+    "reigns": 0
+   }
+  },
+  "members": [
+   {
+    "id": "patrick-flaherty-cawo"
+   },
+   {
+    "id": "sheamus-mcmanus-cawo"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cawo"
+   }
+  ]
+ },
+ {
+  "id": "empirical-state-cawo",
+  "type": "unit",
+  "name": "The Empirical State",
+  "unit_kind": "stable",
+  "caption": "J.W. Oswald's own faction, whose unrequested run-in cost Rey Nado the first CAWO Atlantic Regional Heavyweight Championship at Red Dawn.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "members": 3,
+    "reigns": 0
+   }
+  },
+  "members": [
+   {
+    "id": "jw-oswald-cawo"
+   },
+   {
+    "id": "christian-avant-cawo"
+   },
+   {
+    "id": "william-montgomery-cawo"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cawo"
+   }
+  ]
+ }
+]

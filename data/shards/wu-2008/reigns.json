@@ -1,0 +1,171 @@
+[
+ {
+  "id": "wu-2008-world-r001",
+  "title": "wu-2008-world",
+  "label": "Requiem",
+  "holder": [
+   {
+    "id": "requiem-blwa-2007"
+   }
+  ],
+  "won": {
+   "date": "2008-09-14",
+   "precision": "exact",
+   "source": "Its World Championship History: 'REQUIEM. See No Evil: September 14th 2008. Defeated DLS and Drake Daniels. Successful Title Defenses N/A. Date and event lost N/A'."
+  },
+  "lost": null,
+  "how": "Won at See No Evil, the first World champion.",
+  "end_how": "still-champion-at-record-end",
+  "event": null
+ },
+ {
+  "id": "wu-2008-short-circuit-r001",
+  "title": "wu-2008-short-circuit",
+  "label": "David Gunn",
+  "holder": [
+   {
+    "id": "david-gunn-wu-2008"
+   }
+  ],
+  "won": {
+   "date": "2008-09-14",
+   "precision": "exact",
+   "source": "Its Short Circuit page (headed Contender Championship History): 'David Gunn. See No Evil: September 14th 2008. Defeated Hyde, Eric Draven, Marquise, and Chris Legend. Successful Title Defenses 3. Lost The Bleeding: October 19th 2008 to Porter MaCleod'."
+  },
+  "lost": {
+   "date": "2008-10-19",
+   "precision": "exact"
+  },
+  "how": "Won at See No Evil, the first Short Circuit champion, with three defences.",
+  "end_how": "lost-in-match",
+  "event": null
+ },
+ {
+  "id": "wu-2008-short-circuit-r002",
+  "title": "wu-2008-short-circuit",
+  "label": "Porter MaCleod",
+  "holder": [
+   {
+    "id": "porter-macleod-blwa-2007"
+   }
+  ],
+  "won": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "Its Short Circuit page: 'Porter MaCleod. The Bleeding: October 19th 2008. Defeated David Gunn'; its Rankings page of 21 October lists him as Prime Time champion."
+  },
+  "lost": null,
+  "how": "Won at The Bleeding from David Gunn; the belt became the Prime Time Championship.",
+  "end_how": "still-champion-at-record-end",
+  "event": "wu-2008-the-bleeding-2008-10-19"
+ },
+ {
+  "id": "wu-2008-one-shot-r001",
+  "title": "wu-2008-one-shot",
+  "label": "Chad Vargas",
+  "holder": [
+   {
+    "id": "chad-vargas-wu-2008"
+   }
+  ],
+  "won": {
+   "date": "2008-09-14",
+   "precision": "exact",
+   "source": "Its One Shot page: 'Chad Vargas. See No Evil: September 14th 2008. Defeated Cameron Drake and Troy Gafgen. Successful Title Defenses 4. Lost October 13th, Parental Advisory to Skull Daze'."
+  },
+  "lost": {
+   "date": "2008-10-13",
+   "precision": "exact"
+  },
+  "how": "Won at See No Evil, the first Contender champion, with four defences.",
+  "end_how": "lost-in-match",
+  "note": "The page's own date for the title change is 13 October; the third Parental Advisory is headed 12 October.",
+  "event": null
+ },
+ {
+  "id": "wu-2008-one-shot-r002",
+  "title": "wu-2008-one-shot",
+  "label": "Skull Daze",
+  "holder": [
+   {
+    "id": "skull-daze-wu-2008"
+   }
+  ],
+  "won": {
+   "date": "2008-10-13",
+   "precision": "exact",
+   "source": "Its One Shot page: 'Skull Daze. October 13th, Parental Advisory. Defeated Chad Vargas. Successful Title Defenses 5 (All Chad's 4 was awarded to Skull). Cashed in for WU Title Shot on October 13th'."
+  },
+  "lost": {
+   "date": "2008-10-13",
+   "precision": "exact"
+  },
+  "how": "Won by cashing in; the page counts Chad Vargas's four defences to him.",
+  "note": "The page says he cashed the title in for a WU title shot on 13 October, the same day as his win.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wu-2008-one-shot-r003",
+  "title": "wu-2008-one-shot",
+  "label": "Twilight Rayn",
+  "holder": [
+   {
+    "id": "twilight-rayn-wu-2008"
+   }
+  ],
+  "won": {
+   "date": "2008-10-19",
+   "precision": "exact",
+   "source": "Its One Shot page: 'Twilight Rayn. The Bleeding: October 19th 2008. Defeated Nigel, Drake Daniels, David Gunn. Successful Title Defenses 3. Lost November 17th, Parental Advisory to Troy Gafgen'."
+  },
+  "lost": {
+   "date": "2008-11-17",
+   "precision": "exact"
+  },
+  "how": "Won at The Bleeding in a four-way, with three defences.",
+  "end_how": "lost-in-match",
+  "event": "wu-2008-the-bleeding-2008-10-19"
+ },
+ {
+  "id": "wu-2008-one-shot-r004",
+  "title": "wu-2008-one-shot",
+  "label": "Troy Gafgen",
+  "holder": [
+   {
+    "id": "troy-gafgen-wu-2008"
+   }
+  ],
+  "won": {
+   "date": "2008-11-17",
+   "precision": "exact",
+   "source": "Its One Shot page: 'Troy Gafgen. November 17th, Parental Advisory. Defeated Twilight Rayn. Successful Title Defenses 1. Lost December 8, 2008 to CJ Gates'."
+  },
+  "lost": {
+   "date": "2008-12-08",
+   "precision": "exact"
+  },
+  "how": "Won at the Parental Advisory of 17 November from Twilight Rayn, with one defence.",
+  "end_how": "lost-in-match",
+  "event": "wu-2008-parental-advisory-vii-2008-11-17"
+ },
+ {
+  "id": "wu-2008-one-shot-r005",
+  "title": "wu-2008-one-shot",
+  "label": "CJ Gates",
+  "holder": [
+   {
+    "id": "cj-gates-wu-2008"
+   }
+  ],
+  "won": {
+   "date": "2008-12-08",
+   "precision": "exact",
+   "source": "Its One Shot page: 'CJ Gates. December 8th, Parental Advisory. Defeated Troy Gafgen and Laura Seton. Successful Title Defenses 0. Date and event lost TBD'."
+  },
+  "lost": null,
+  "how": "Won at the Parental Advisory of 8 December in a three-way.",
+  "end_how": "still-champion-at-record-end",
+  "event": "wu-2008-parental-advisory-viii-2008-12-08"
+ }
+]

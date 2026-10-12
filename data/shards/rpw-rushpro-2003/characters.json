@@ -1,0 +1,2427 @@
+[
+ {
+  "id": "ldiable-blanc-rpw-rushpro-2003",
+  "type": "character",
+  "name": "L'Diable Blanc",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-09",
+    "last_seen": "2003-11-16",
+    "source": "RPW's own backstage database (lot 0159), bio 9448",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (2 shows).",
+    "hometown": "Amiens, France.",
+    "height": "5'9",
+    "weight": "184 lbs",
+    "style": "Graceful Show-Off.",
+    "entrance_music": {
+     "verbatim": "'The Prophet Said' - Lacuna Coil"
+    }
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "L'Diable Blanc worked two RPW cards from 9 November 2003 to 16 November 2003, billed in the style \"Graceful Show-Off\".",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "simon-iscariot-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Simon Iscariot",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "RPW's own backstage database (lot 0159), bio 9455",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "A biography card this federation carried with no appearance behind it, so the tenure is graded as a billing and claims no match."
+   }
+  ],
+  "caption": "Simon Iscariot is on RPW's roster, with no dated appearance in the fed's surviving record.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lumi-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Lumi",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-09",
+    "last_seen": "2003-11-16",
+    "source": "RPW's own backstage database (lot 0159), bio 9461",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (2 shows, every kind of appearance counted).",
+    "hometown": "Shinjuku, Japan (Now residing in Boston)",
+    "height": "5'3",
+    "style": "Pinning/reversal fanatic, hints of submission",
+    "finisher": "Big Kiss Goodnight",
+    "entrance_music": {
+     "verbatim": "'Catch' by Kosheen",
+     "title": "Catch",
+     "artist": "Kosheen"
+    }
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Lumi worked two RPW cards from 9 November 2003 to 16 November 2003, billed in the style \"Pinning/reversal fanatic, hints of submission\" and finishing with Big Kiss Goodnight.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "joe-morris-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Joe Morris",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-16",
+    "last_seen": "2003-11-30",
+    "source": "RPW's own backstage database (lot 0159), bio 9468",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (2 shows); its match record names none.",
+    "hometown": "Chicago, IL",
+    "height": "6'2'",
+    "weight": "270 lbs",
+    "style": "Martial Art/Technicial",
+    "finisher": "Bum Rush",
+    "entrance_music": {
+     "verbatim": "'Until The Day I Die' by Story of the Year",
+     "title": "Until The Day I Die",
+     "artist": "Story of the Year"
+    }
+   }
+  ],
+  "caption": "Joe Morris worked two RPW cards from 16 November 2003 to 30 November 2003, billed in the style \"Martial Art/Technicial\" and finishing with Bum Rush.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "murdoch-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Murdoch",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-16",
+    "last_seen": "2003-11-16",
+    "source": "RPW's own backstage database (lot 0159), bio 9469",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dogman-murdoch-iga-2003"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 16 November 2003.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-legend-of-pete-rpw-rushpro-2003",
+  "type": "character",
+  "name": "The Legend of Pete~!",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-09",
+    "last_seen": "2004-05-02",
+    "source": "RPW's own backstage database (lot 0159), bio 9470",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (5 shows, every kind of appearance counted)."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2005-11-26",
+    "last_seen": "2005-12-10",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "GTT5's own backstage database (accession 0159), bio 15505",
+    "note": "Dated from the GTT5 tournament's own round record: 3 of its rounds, 26 November 2005 to 10 December 2005."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2009-11-04",
+    "last_seen": "2009-11-04",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "GTT7's own backstage database (accession 0159), bio 16043",
+    "note": "Dated from the GTT7 tournament's own round record: 1 of its rounds, 4 November 2009."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "The Legend of Pete~! worked five RPW cards from 9 November 2003 to 2 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "The Legend of Pete"
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "presumed",
+    "with": [],
+    "note": "One character: The Legend of Pete of PTC's GTT5/GTT7 is the host-fed character held as the-legend-of-pete-rpw-rushpro-2003, and is folded into it; GTT was an interfed tournament of PTC fed characters, so its entrants belong to their host fed. Evidence: bracket tag GCW ×1; card Other Feds: GCW; the donor database's own identity link joins this bio to the host-fed bio held as the-legend-of-pete-rpw-rushpro-2003 (rpw-rushpro-2003 2003-11-09–2004-05-02), same name (bios 15505,16043)."
+   }
+  ]
+ },
+ {
+  "id": "statuz-quo-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Statuz Quo",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "RPW's own backstage database (lot 0159), bio 9473",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "A biography card this federation carried with no appearance behind it, so the tenure is graded as a billing and claims no match."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "statuz-quo-pcw"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "caption": "Statuz Quo is on RPW's roster, with no dated appearance in the fed's surviving record.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "yushiro-uegatsu-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Yushiro Uegatsu",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "RPW's own backstage database (lot 0159), bio 9481",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "A biography card this federation carried with no appearance behind it, so the tenure is graded as a billing and claims no match.",
+    "hometown": "Tokyo, Japan",
+    "height": "6'5'",
+    "weight": "263 lbs",
+    "style": "Deathmatcher, Trash Fighter",
+    "finisher": "Rengoku Neji Mawashi (translation - Purgatory Screw Driver)",
+    "entrance_music": {
+     "verbatim": "Destroyer of Senses by Shadowsfall"
+    }
+   }
+  ],
+  "caption": "Yushiro Uegatsu is on RPW's roster, with no dated appearance in the fed's surviving record.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ashley-winters-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Ashley Winters",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-09",
+    "last_seen": "2003-11-16",
+    "source": "RPW's own backstage database (lot 0159), bio 9484",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (2 shows)."
+   },
+   {
+    "promotion": "pwc-wrestleonline-2003",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "PWC's own backstage database (lot 0159), bio 8969",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "A biography card this federation carried with no appearance behind it, so the tenure is graded as a billing and claims no match.",
+    "hometown": "Baltimore, Maryland",
+    "height": "5'7'",
+    "weight": "149 lbs",
+    "finisher": "A Midsummer Night's Dream",
+    "entrance_music": {
+     "verbatim": "'Roulette' by System of a Down",
+     "title": "Roulette",
+     "artist": "System of a Down"
+    }
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Ashley Winters worked two RPW cards from 9 November 2003 to 16 November 2003.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "handler": "Sean Simon Williams (1985–2018)"
+ },
+ {
+  "id": "jacob-yoder-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Jacob Yoder",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "RPW's own backstage database (lot 0159), bio 9485",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "A biography card this federation carried with no appearance behind it, so the tenure is graded as a billing and claims no match."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jacob-yoder-pcw"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jacob-yoder-uscw-1998"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "caption": "Jacob Yoder is on RPW's roster, with no dated appearance in the fed's surviving record.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "erika-cruz-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Erika Cruz",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-12-21",
+    "last_seen": "2004-01-18",
+    "source": "RPW's own backstage database (lot 0159), bio 9489",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (2 shows); its match record names none."
+   }
+  ],
+  "caption": "Erika Cruz worked two RPW cards from 21 December 2003 to 18 January 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "katarina-dimoni-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Katarina Dimoni",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-07-18",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own backstage database (lot 0159), bio 9492",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "surge-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Surge",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "RPW's own backstage database (lot 0159), bio 9504",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "A biography card this federation carried with no appearance behind it, so the tenure is graded as a billing and claims no match."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "surge"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "surge-bmw"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "surge-cwo"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "caption": "Surge is on RPW's roster, with no dated appearance in the fed's surviving record.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "steven-silver-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Steven Silver",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-03-21",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own backstage database (lot 0159), bio 9506",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (10 shows, every kind of appearance counted)."
+   }
+  ],
+  "caption": "Steven Silver worked 10 RPW cards from 21 March 2004 to 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "quinton-dufresne-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Quinton Dufresne",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-03-28",
+    "last_seen": "2004-05-30",
+    "source": "RPW's own backstage database (lot 0159), bio 9509",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (3 shows)."
+   }
+  ],
+  "caption": "Quinton Dufresne worked three RPW cards from 28 March 2004 to 30 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mick-pepper-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Mick Pepper",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-11",
+    "last_seen": "2004-07-11",
+    "source": "RPW's own backstage database (lot 0159), bio 9510",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (6 shows, every kind of appearance counted)."
+   },
+   {
+    "promotion": "fwo-fans-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-12-08",
+    "last_seen": "2003-01-22",
+    "source": "fWo's own show write-ups, donated by Ben H. through Argyle (lot 0186) and split in Argyle's database (lot 0159), bio 17767",
+    "grade": "primary-source",
+    "note": "Dated from the fed's own record of the cards it appears on (5 shows, every kind of appearance counted; replays of earlier shows are not). Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "caption": "Mick Pepper worked six RPW cards from 11 April 2004 to 11 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's database bio 17767 (fWo) is this record: fWo's Mick Pepper is the contortionist half of The Freak Show with the giant Mouse (booking 4854: 'the team of The Freak Show' and 'His ability to dislocate his joints at any given time'; booking 4863: 'the giant mammoth known as Mouse looked up, alongside his teammate, Mick Pepper'), and RUSH Pro's own text of 11 April 2004 (booking 2815) introduces 'RPW's newest tag team, The Freak Show' with 'The contortionist, Mick Pepper' (quoted as the verified reading has it; RUSH Pro's text is not in the fWo workshop), two months after fWo's last line. The same name, partner, team name and trait, on consecutive dates. The fed's own appearance record carries it on 5 cards from 8 December 2002 to 22 January 2003."
+   }
+  ]
+ },
+ {
+  "id": "the-mutineer-rpw-rushpro-2003",
+  "type": "character",
+  "name": "The Mutineer",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "RPW's own backstage database (lot 0159), bio 9512",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "A biography card this federation carried with no appearance behind it, so the tenure is graded as a billing and claims no match."
+   }
+  ],
+  "caption": "The Mutineer is on RPW's roster, with no dated appearance in the fed's surviving record.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "elliot-harper-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Elliot Harper",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-09",
+    "last_seen": "2003-11-09",
+    "source": "RPW's own backstage database (lot 0159), bio 9516",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   },
+   {
+    "promotion": "fwo-fans-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003-05-21",
+    "last_seen": "2004-03-01",
+    "source": "fWo's own show write-ups, donated by Ben H. through Argyle (lot 0186) and split in Argyle's database (lot 0159), bio 17346",
+    "grade": "primary-source",
+    "note": "Dated from the fed's own record of the cards it appears on (42 shows, every kind of appearance counted; replays of earlier shows are not). Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Wrestled once for RPW, on 9 November 2003.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's database bio 17346 (fWo) is this record: The brother and partner of Thomas Harper in the unit Brotherly Love on both sides: fWo's booking 4936 (29 September 2003), paragraph 475, has 'Elliot Harper cheered his younger brother on', and RPW's own text of 9 November 2003 (booking 2529) bills 'the fWo's Brotherly Love' and 'the cowardly Elliot Harper' (quoted as the verified reading has it; RPW's text is not in the fWo workshop). The fed's own appearance record carries it on 42 cards from 21 May 2003 to 1 March 2004."
+   }
+  ]
+ },
+ {
+  "id": "thomas-harper-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Thomas Harper",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-09",
+    "last_seen": "2003-11-09",
+    "source": "RPW's own backstage database (lot 0159), bio 9517",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   },
+   {
+    "promotion": "fwo-fans-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003-05-21",
+    "last_seen": "2004-03-01",
+    "source": "fWo's own show write-ups, donated by Ben H. through Argyle (lot 0186) and split in Argyle's database (lot 0159), bio 17377",
+    "grade": "primary-source",
+    "note": "Dated from the fed's own record of the cards it appears on (39 shows, every kind of appearance counted; replays of earlier shows are not). Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Wrestled once for RPW, on 9 November 2003.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's database bio 17377 (fWo) is this record: The brother and partner of Elliot Harper in the unit Brotherly Love on both sides: fWo's booking 4936 (29 September 2003), paragraph 85, has 'the bigger Harper', and RPW's own text of 9 November 2003 (booking 2529) bills 'the fWo's Brotherly Love' and 'the sheer power of his brother Thomas' (quoted as the verified reading has it; RPW's text is not in the fWo workshop). The fed's own appearance record carries it on 39 cards from 21 May 2003 to 1 March 2004."
+   }
+  ]
+ },
+ {
+  "id": "m2-rpw-rushpro-2003",
+  "type": "character",
+  "name": "M2",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-25",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 10583 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (5 shows)."
+   }
+  ],
+  "caption": "M2 worked five RPW cards from 25 April 2004 to 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "christian-alexander-kannon-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Christian Alexander Kannon",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-11",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 10584 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "other"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (8 shows, every kind of appearance counted)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "xavier-kannon-pcw"
+    ],
+    "note": "RPW's own text keeps the two apart in so many words: in Adrenaline 20 (11 April 2004) this character says that 'We might look the same, we might have the same tattoos and share the same birthday, but he’s not the man who bankrolled this place', and a later line has the charisma that made Xavier Kannon a star returning. Whether the story stages a double, a twin or a returned man is read from the whole text; nothing here asserts either."
+   }
+  ],
+  "caption": "Christian Alexander Kannon appeared on eight RPW cards from 11 April 2004 to 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "martin-sloan-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Martin Sloan",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-16",
+    "last_seen": "2003-11-16",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11335 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "referee"
+    ],
+    "note": "Dated from the fed's own record of the matches it names him as official (1 matches on 1 shows); its appearance rows hold no match for him."
+   }
+  ],
+  "caption": "Martin Sloan refereed on one RPW card, on 16 November 2003.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "yoshikaztu-khan-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Yoshikaztu Khan",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-30",
+    "last_seen": "2003-11-30",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11337 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (1 show); its match record names none."
+   }
+  ],
+  "caption": "Yoshikaztu Khan appeared on one RPW card, on 30 November 2003.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "little-al-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Little Al",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-12-21",
+    "last_seen": "2004-05-02",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11340 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "other"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (9 shows); its match record names none."
+   }
+  ],
+  "caption": "Little Al appeared on nine RPW cards from 21 December 2003 to 2 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "koin-yagami-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Koin Yagami",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-12-21",
+    "last_seen": "2004-01-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11342 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (3 shows, every kind of appearance counted)."
+   }
+  ],
+  "caption": "Koin Yagami worked three RPW cards from 21 December 2003 to 18 January 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sil-minio-rochelli-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Sil-Minio Rochelli",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-04",
+    "last_seen": "2004-01-04",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11343 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "silvio-rochelli-pcw"
+    ],
+    "note": "RPW's own text stages Sil-Minio Rochelli as a different man: 'a 3 foot tall version of Rochelli', the 'Mini-version' Peter Maxwell brings out in place of Silvio Rochelli on 4 January 2004."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 4 January 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "adrienne-diamond-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Adrienne Diamond",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-18",
+    "last_seen": "2004-05-02",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11756 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "other"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (6 shows); its match record names none."
+   }
+  ],
+  "caption": "Adrienne Diamond appeared on six RPW cards from 18 January 2004 to 2 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "caroline-north-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Caroline North",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-03-21",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11757 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "other"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (7 shows); its match record names none."
+   }
+  ],
+  "caption": "Caroline North appeared on seven RPW cards from 21 March 2004 to 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "patrick-craig-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Patrick Craig",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-25",
+    "last_seen": "2004-01-25",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11759 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (1 show); its match record names none."
+   }
+  ],
+  "caption": "Patrick Craig appeared on one RPW card as a manager, on 25 January 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "christian-crawford-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Christian Crawford",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-03-28",
+    "last_seen": "2004-05-02",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11760 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (3 shows)."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "CW's own backstage database (accession 0159), bio 16531",
+    "note": "On the entrant roster of the CW1 tournament; no round appearance of this card survives in its own record."
+   }
+  ],
+  "caption": "Christian Crawford worked three RPW cards from 28 March 2004 to 2 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PTC tournaments' own entrant card (CW1, accession 0159, bio 16531) is this record: CW1's own entrant list (news 8598) bills him under RPW; the record holds RPW's own run (2004-03-28 to 2004-05-02, the weeks of the tournament) under the same ring name, and no other record of the name is held."
+   }
+  ]
+ },
+ {
+  "id": "chris-faircount-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Chris Faircount",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-25",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11762 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "referee"
+    ],
+    "note": "Dated from the fed's own record of the matches it names him as official (19 matches on 8 shows); its appearance rows hold no match for him."
+   }
+  ],
+  "caption": "Chris Faircount refereed on eight RPW cards from 25 January 2004 to 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "matt-helms-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Matt Helms",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-03-28",
+    "last_seen": "2004-03-28",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11764 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 28 March 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "malphas-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Malphas",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-18",
+    "last_seen": "2004-03-21",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11767 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (3 shows, every kind of appearance counted)."
+   }
+  ],
+  "caption": "Malphas worked three RPW cards from 18 January 2004 to 21 March 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "matslap-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Matslap",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-03-21",
+    "last_seen": "2004-07-11",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11768 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "referee"
+    ],
+    "note": "Dated from the fed's own record of the matches it names him as official (31 matches on 9 shows); its appearance rows hold no match for him."
+   }
+  ],
+  "caption": "Matslap refereed on nine RPW cards from 21 March 2004 to 11 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "crush-parker-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Crush Parker",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-03-28",
+    "last_seen": "2004-03-28",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11769 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 28 March 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "perdition-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Perdition",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-18",
+    "last_seen": "2004-07-11",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11770 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (5 shows); its match record names none."
+   }
+  ],
+  "caption": "Perdition appeared on five RPW cards from 18 January 2004 to 11 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jerry-quecard-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Jerry Quecard",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-03-21",
+    "last_seen": "2004-07-04",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11771 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "other"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (5 shows); its match record names none."
+   }
+  ],
+  "caption": "Jerry Quecard appeared on five RPW cards from 21 March 2004 to 4 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "teshigahara-emi-sachiko-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Teshigahara Emi Sachiko",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-18",
+    "last_seen": "2004-03-21",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 11772 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "other"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (2 shows); its match record names none."
+   }
+  ],
+  "caption": "Teshigahara Emi Sachiko appeared on two RPW cards from 18 January 2004 to 21 March 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "anarchy-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Anarchy",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-05-02",
+    "last_seen": "2004-05-02",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12139 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "anarchy"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "anarchy-pcw"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "anarchy-wwa"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-the-anarchy"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 2 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "arizona-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Arizona",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-18",
+    "last_seen": "2004-05-30",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12140 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (4 shows); its match record names none."
+   }
+  ],
+  "caption": "Arizona appeared on four RPW cards as a manager, from 18 April 2004 to 30 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "big-al-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Big Al",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-18",
+    "last_seen": "2004-04-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12142 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 18 April 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "pete-blackbeard-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Pete Blackbeard",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-07-18",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12143 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "other"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (1 show); its match record names none."
+   }
+  ],
+  "caption": "Pete Blackbeard appeared on one RPW card on 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "black-panther-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Black Panther",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-18",
+    "last_seen": "2004-04-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12144 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "damon-washington"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 18 April 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "coricidon-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Coricidon",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-07-11",
+    "last_seen": "2004-07-11",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12146 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "coricidon-4ww"
+    ],
+    "note": "RPW's own text stages this Coricidon as a woman, 'The Daughter Of Zion', a veiled Primetime Central performer ('From Zion, she is..'); the 4 Winds record is one of 'the four men' Apocalypse beat. A shared ring name with the staging disagreeing on who it is."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 11 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "robbie-decker-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Robbie Decker",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-07-04",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12147 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "other"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (3 shows); its match record names none."
+   },
+   {
+    "promotion": "osw",
+    "first_seen": "2002-02-09",
+    "last_seen": "2003-08-21",
+    "roles": [
+     "commentator"
+    ],
+    "source": "OSW's own backstage database (lot 0159), bio 4630",
+    "grade": "primary-source",
+    "note": "Dated from the fed's own record of the cards it appears on (33 shows, every kind of appearance counted). Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "caption": "Robbie Decker appeared on three RPW cards from 4 July 2004 to 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "OSW's own card (bio 4630) makes him a former columnist for PCW's website and print publications hired for OSW's announce team, the career this record's PCW, OSW and RPW tenures carry from one federation to the next."
+   }
+  ]
+ },
+ {
+  "id": "halfton-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Halfton",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-25",
+    "last_seen": "2004-05-02",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12149 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (2 shows, every kind of appearance counted)."
+   }
+  ],
+  "caption": "Halfton worked two RPW cards from 25 April 2004 to 2 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "matt-jay-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Matt Jay",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-18",
+    "last_seen": "2004-04-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12151 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "referee"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (1 show); its match record names none."
+   }
+  ],
+  "caption": "Matt Jay appeared on one RPW card as a referee, on 18 April 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kaori-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Kaori",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-25",
+    "last_seen": "2004-05-02",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12153 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (2 shows)."
+   }
+  ],
+  "caption": "Kaori worked two RPW cards from 25 April 2004 to 2 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kaoru-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Kaoru",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-25",
+    "last_seen": "2004-05-02",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12154 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (2 shows)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kaoru-nwf-dec-2001"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "caption": "Kaoru worked two RPW cards from 25 April 2004 to 2 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kyo-kushinaga-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Kyo Kushinaga",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-07-04",
+    "last_seen": "2004-07-04",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12155 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kyo-kushinaga-4ww"
+    ],
+    "note": "RPW's card is the name only and its text names no other federation for him; the held record's own cards (Global, GCW) list no RPW. A shared name with nothing joining the two, filed apart until a document does."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 4 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "bloodbath-cassidy-mcgrath-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Bloodbath Cassidy McGrath",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-18",
+    "last_seen": "2004-04-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12157 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (1 show)."
+   }
+  ],
+  "caption": "Wrestled once for RPW, on 18 April 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "cisco-milloy-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Cisco Milloy",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-11",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12158 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (6 shows)."
+   }
+  ],
+  "caption": "Cisco Milloy worked six RPW cards from 11 April 2004 to 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "john-mouse-lake-rpw-rushpro-2003",
+  "type": "character",
+  "name": "John \"Mouse\" Lake",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-11",
+    "last_seen": "2004-07-04",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12159 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (5 shows)."
+   }
+  ],
+  "caption": "John \"Mouse\" Lake worked five RPW cards from 11 April 2004 to 4 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "pain-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Pain",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-05-30",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12160 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (4 shows, every kind of appearance counted)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "doctor-pain-ccw-caliber-1999"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-ehwa-entity-a"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-eiwz"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-iwf-1999-geocities"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-naw-1998"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-rspwf"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-svw"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-swa-seltor"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-swl-1997b"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-uewf"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-ufw-ultra-2000"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-vwf-vegas-2003"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pain-wewf"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "physicians-advocating-innovative-neoprocedures"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-insiders-lcw-1997"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "caption": "Pain worked four RPW cards from 30 May 2004 to 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lord-skywolf-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Lord Skywolf",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-25",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12163 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (6 shows, every kind of appearance counted)."
+   }
+  ],
+  "caption": "Lord Skywolf worked six RPW cards from 25 April 2004 to 18 July 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "willie-smythe-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Willie Smythe",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-18",
+    "last_seen": "2004-05-02",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12164 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (3 shows, every kind of appearance counted)."
+   }
+  ],
+  "caption": "Willie Smythe worked three RPW cards from 18 April 2004 to 2 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lee-wilkinson-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Lee Wilkinson",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-04-18",
+    "last_seen": "2004-05-30",
+    "source": "RPW's own show write-ups as split in its backstage database (lot 0159); bio 12166 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (4 shows, every kind of appearance counted)."
+   }
+  ],
+  "caption": "Lee Wilkinson worked four RPW cards from 18 April 2004 to 30 May 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "gabriel-brown-rpw",
+  "type": "character",
+  "name": "Gabriel \"Invincible Gabe\" Brown",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-18",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own backstage database (lot 0159), bio 9497",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (10 shows). Joined to this record on the card's own evidence: The card is a name only. This record, Gabriel 'Invincible Gabe' Brown, is the other half of Invincibleness~!, whose held text bills RPW as its home federation; a distinct guard stands to gabriel-malik-walczak-acw."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2004-04",
+    "last_seen": "2004-05",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — billed \"Invincible Gabe,\" one half of the tag team Invincibleness~! alongside Scott \"Rampage\" Matthews, entered in the PTC Round Robin Tag Team Tournament",
+    "source": "PTC forum, PTC's Infinite Gauntlet, \"TTD A1 vs A2\" (post 45127, topic 4109), 4 Apr 2004; and the Invincibleness~! PTC Tag Team Title Tournament roleplay serial (topics 4671, 4832, 5366), Apr-May 2004."
+   }
+  ],
+  "notes": "Best known in the text as \"Invincible Gabe\"; billed real name Gabriel Brown, aged 19 in the text. No museum record under any other promotion. The text bills his home federation as Rush Pro Wrestling (RPW), which this registry does not hold as a wing, so no tenure is minted under it and the tenure below is recorded against ptc, the only promotion these posts attest directly.",
+  "caption": "Half of Invincibleness~!, billed \"Invincible Gabe,\" entered in PTC's Round Robin Tag Team Tournament.",
+  "caption_asof": {
+   "author": "ai"
+  },
+  "aka": [
+   "Invincible Gabe"
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "This is the record of Gabriel \"Invincible Gabe\" Brown re-homed to RPW from gabriel-brown-ptc, the PTC interfed-tournament record that folds into it: GTT and PTC's other tournaments were interfed, so their entrants belong to their host fed, and RPW is this character's host fed."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "gabriel-brown"
+    ],
+    "note": "Shares the bare name \"Gabriel Brown\" with the unrelated nfw/prime-2003 character gabriel-brown; no document joins them, filed as a separate entity under the no-auto-merge rule."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's biography card (accession 0159), bio 9497, is this record: The card is a name only. This record, Gabriel 'Invincible Gabe' Brown, is the other half of Invincibleness~!, whose held text bills RPW as its home federation; a distinct guard stands to gabriel-malik-walczak-acw."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Re-homed: Gabriel \"Invincible Gabe\" Brown is RPW's character; RPW is a PTC fed held here, so the record moves to that fed as gabriel-brown-rpw; GTT and PTC's other tournaments were interfed, so their entrants belong to their host fed. Evidence: RPW's own record of 10 shows (half of RPW's tag team Invincibleness~!); his IG tenure is the same team's tournament entry (bio 9497)."
+   }
+  ]
+ },
+ {
+  "id": "scott-matthews-rpw",
+  "type": "character",
+  "name": "Scott \"Rampage\" Matthews",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-18",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own backstage database (lot 0159), bio 9495",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (12 shows, every kind of appearance counted). Joined to this record on the card's own evidence: The card is a name only. This record, a PTC-hosted tournament entry, bills him 'one half of the tag team Invincibleness~!, billed a Rush Pro Wrestling (RPW) wrestler competing cross-fed'."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2004-04",
+    "last_seen": "2004-05",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — one half of the tag team Invincibleness~!, billed a Rush Pro Wrestling (RPW) wrestler competing cross-fed, entered in the PTC Round Robin Tag Team Tournament",
+    "source": "PTC forum, PTC's Infinite Gauntlet, \"TTD A1 vs A2\" (post 45127, topic 4109), 4 Apr 2004; and the Invincibleness~! PTC Tag Team Title Tournament roleplay serial (topics 4671, 4832, 5366), Apr-May 2004."
+   }
+  ],
+  "notes": "No museum record under any other promotion connects to this character; an unrelated same-named 1999 ACWA-Atlantic wrestler (scott-matthews-acwa-atlantic-1999) exists in the registry but nothing in these threads ties the two together, so no merge is made per the no-auto-merge rule. The text bills his home federation as Rush Pro Wrestling (RPW), which this registry does not hold as a wing, so no tenure is minted under it and the tenure below is recorded against ptc, the only promotion these posts attest directly. Ex-boyfriend of Alyssa Sanders (RPW's own head of marketing, unminted); the text ties an old shoulder injury to a match against \"Violence Jack,\" not otherwise structured.",
+  "caption": "Half of Invincibleness~! alongside kayfabe partner Gabriel \"Invincible Gabe\" Brown — a big man nicknamed \"Rampage\" and \"the Manbeast\" — entered in PTC's Round Robin Tag Team Tournament.",
+  "caption_asof": {
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "This is the record of Scott \"Rampage\" Matthews re-homed to RPW from scott-matthews-ptc, the PTC interfed-tournament record that folds into it: GTT and PTC's other tournaments were interfed, so their entrants belong to their host fed, and RPW is this character's host fed."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's biography card (accession 0159), bio 9495, is this record: The card is a name only. This record, a PTC-hosted tournament entry, bills him 'one half of the tag team Invincibleness~!, billed a Rush Pro Wrestling (RPW) wrestler competing cross-fed'."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Re-homed: Scott \"Rampage\" Matthews is RPW's character; RPW is a PTC fed held here, so the record moves to that fed as scott-matthews-rpw; GTT and PTC's other tournaments were interfed, so their entrants belong to their host fed. Evidence: RPW's own record of 12 shows (the other half of Invincibleness~!, with Gabriel Brown); the IG entry is the same team's (bio 9495)."
+   }
+  ]
+ },
+ {
+  "id": "bryan-carver-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Bryan Carver",
+  "aka": [
+   "Bryan Colver",
+   "Byron Carver"
+  ],
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2004-01-18",
+    "last_seen": "2004-07-18",
+    "source": "RPW's own show reports served at /promotions/rpw-rushpro-2003/archive/rpw-rushpro-2003-adrenaline-9-2004-01-18.html, /promotions/rpw-rushpro-2003/archive/rpw-rushpro-2003-adrenaline-20-2004-04-11.html, /promotions/rpw-rushpro-2003/archive/rpw-rushpro-2003-adrenaline-21-2004-04-18.html and /promotions/rpw-rushpro-2003/archive/rpw-rushpro-2003-adrenaline-31-2004-07-18.html",
+    "grade": "primary-source",
+    "roles": [
+     "referee"
+    ],
+    "note": "A referee, named in the reports as Bryan Carver, Bryan Colver and Byron Carver (one official: the spellings never meet in a single match). Dated from the reports that have him officiating, 18 January 2004 to 18 July 2004."
+   }
+  ],
+  "caption": "Refereed for RPW from 18 January 2004 to 18 July 2004, billed in the show reports as Bryan Carver, Bryan Colver and Byron Carver.",
+  "caption_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tony-salazar-rpw-rushpro-2003",
+  "type": "character",
+  "name": "Tony Salazar",
+  "tenures": [
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-09",
+    "last_seen": "2003-11-16",
+    "source": "RPW's own show reports served at /promotions/rpw-rushpro-2003/archive/rpw-rushpro-2003-adrenaline-1-2003-11-09.html and /promotions/rpw-rushpro-2003/archive/rpw-rushpro-2003-adrenaline-2-2003-11-16.html",
+    "grade": "primary-source",
+    "roles": [
+     "referee"
+    ],
+    "note": "A referee, named in the reports as officiating the matches of 9 November 2003 and 16 November 2003."
+   }
+  ],
+  "caption": "Refereed two RPW matches, on 9 November 2003 and 16 November 2003.",
+  "caption_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

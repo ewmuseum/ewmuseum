@@ -1,0 +1,173 @@
+[
+ {
+  "id": "hells-army-mff",
+  "type": "unit",
+  "name": "Hell's Army",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Spawn",
+    "character_id": "spawn-mff"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mff",
+    "first_seen": "1999-09-30",
+    "last_seen": "1999-09-30",
+    "role": "stable",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+   }
+  ],
+  "caption": "Midevil Spawn's own stable, per his billed name at Clash of the Champions '99 — no other named member survives in the held record.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "red-bloods-mff",
+  "type": "unit",
+  "name": "Red Bloods",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Dead Pool",
+    "character_id": "deadpool-mff"
+   },
+   {
+    "name": "Kane",
+    "character_id": "kane-mff"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mff",
+    "first_seen": "1999-09-30",
+    "last_seen": "1999-09-30",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "note": "Dead Pool's own served bio card separately counts seven Red Bloods Tag Team reigns of his own, undated — not structured as reigns.json rows for lack of dates.",
+    "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html); the fed's own served bio card (promotions/mff/archive/deadpool.html)"
+   }
+  ],
+  "caption": "Dead Pool and Kane's own tag team — lost to the debuting Unstoppables at Clash of the Champions '99; Dead Pool's own bio card separately counts seven Red Bloods reigns as MFF Tag Team Champions, undated.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "unstoppables-mff",
+  "type": "unit",
+  "name": "Unstoppables",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Dare Devil",
+    "character_id": "dare-devil-mff"
+   },
+   {
+    "name": "Stryfe",
+    "character_id": "stryfe-mff"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mff",
+    "first_seen": "1999-09-30",
+    "last_seen": "1999-09-30",
+    "role": "tag team — debuting team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+   }
+  ],
+  "caption": "Dare Devil and Stryfe's own tag team, debuting with a win over the Red Bloods (Dead Pool & Kane) at Clash of the Champions '99.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-unstoppables-jimmy-dexter-and-bobby-jamison"
+    ],
+    "note": "Shares a bare team name with an unrelated CWF-Pro tag team (Jimmy Dexter & Bobby Jamison); an ordinary tag-team name independently reused across unrelated feds, per the no-auto-merge discipline — no evidence connects the two."
+   }
+  ]
+ },
+ {
+  "id": "realm-of-darkness-mff",
+  "type": "unit",
+  "name": "Realm of Darkness",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Terrax",
+    "character_id": "terrax-mff"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mff",
+    "first_seen": "1999-09-30",
+    "last_seen": "1999-09-30",
+    "role": "stable",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+   }
+  ],
+  "caption": "Terrax's own stable, per his billed name at Clash of the Champions '99 — no other named member survives in the held record.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

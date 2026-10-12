@@ -1,0 +1,96 @@
+[
+  {
+    "id": "dangerous-emotions-uewf",
+    "type": "unit",
+    "name": "The Dangerous Emotions",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "uewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the federation's own relaunch call, 14 May 1992 (promotions/uewf/archive/uewf-wants-you-1992-05-14.html)",
+        "note": "Three of the newly served WeWF newsdesk editions — 30 January, 15 February and 25 February 1992 — reprint the UeWF's OWN published weekly rankings in full, singles, tag and ladies, and this entity stands in them under its own name. The tenure is not overstated; it is now independently attested from the other wing's shelf."
+      },
+      {
+        "promotion": "summit-of-e-wrestling",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "role": "the UeWF's own top-ranked tag team, a finalist in that federation's own inaugural tag-team tournament at the second Summit",
+        "source": "the Summit of E-Wrestling's own broadcasts, served under that wing (promotions/summit-of-e-wrestling/holdings.html)"
+      },
+      {
+        "promotion": "wewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the wing's own served documents (promotions/wewf/holdings.html), accession lot 0144",
+        "note": "Entered and wrestled in this wing’s own TWIW TV Tag Team Title Tournament, 20 March 1992 — a tournament for this federation’s own championship, not an interfederation supercard bracket. Staged in 1 of this wing's own served documents."
+      }
+    ],
+    "caption": "Rage and Hate, World Tag Team Champions at the UeWF's 1992 hiatus and still recognised as champions at its relaunch that May.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 3,
+        "reigns": 1,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Rage",
+        "character_id": "rage-uewf"
+      },
+      {
+        "name": "Hate",
+        "character_id": "hate-uewf"
+      }
+    ]
+  },
+  {
+    "id": "the-valkyries-uewf",
+    "type": "unit",
+    "name": "The Valkyries",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "uewf",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "source": "the WeWF's own newsdesk, 30 January, 15 February, 19 February and 4 March 1992 (promotions/wewf/archive/twiw-1992-01-30.html, promotions/wewf/archive/twiw-1992-02-15.html, promotions/wewf/archive/twiw-1992-02-19.html, promotions/wewf/archive/twiw-1992-03-04.html), served under accession lot 0144",
+        "note": "Three of the newly served WeWF newsdesk editions — 30 January, 15 February and 25 February 1992 — reprint the UeWF's OWN published weekly rankings in full, singles, tag and ladies, and this entity stands in them under its own name. The tenure is not overstated; it is now independently attested from the other wing's shelf."
+      }
+    ],
+    "members": [
+      {
+        "name": "Hildegard",
+        "character_id": "hildegard-uewf"
+      },
+      {
+        "name": "Radegund",
+        "character_id": "radegund-uewf"
+      }
+    ],
+    "caption": "Ranked third among the federation's own ladies tag teams in January 1992 at 1-1, and the team that handed the HellKats their first loss in ten to take the Ladies Tag Team Championship on 19 February.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "the-saints-eaw-fwrestling",
+    "type": "unit",
+    "name": "The Saints",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Bryan Willett",
+        "character_id": "bryan-willett-eaw-fwrestling"
+      },
+      {
+        "name": "Brian Hollywood",
+        "character_id": "brian-hollywood-eaw-fwrestling"
+      },
+      {
+        "name": "Sean Cain",
+        "character_id": "sean-cain-eaw-fwrestling"
+      },
+      {
+        "name": "Danielle LeCroix",
+        "character_id": "danielle-lecroix-eaw-fwrestling"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "eaw-fwrestling",
+        "first_seen": "2008",
+        "last_seen": "2008-07",
+        "role": "stable — Bryan Willett's own faction",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/eaw-fwrestling/archive/outback-thunder-2008-07-03.html",
+        "grade": "primary-source"
+      }
+    ],
+    "caption": "Bryan Willett's own faction, with Brian Hollywood, Sean Cain and valet Danielle LeCroix, whose internal friction over a lost tag match spilled into a backstage argument on EAW's own 3 July 2008 Outback Thunder broadcast.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "ruff-ryders-eaw-fwrestling",
+    "type": "unit",
+    "name": "Ruff Ryders",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Chris Deppe",
+        "character_id": "chris-deppe-eaw-fwrestling"
+      },
+      {
+        "name": "Shawn Kelley",
+        "character_id": "shawn-kelley-eaw-fwrestling"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "eaw-fwrestling",
+        "first_seen": "2008",
+        "last_seen": "2008-07",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/eaw-fwrestling/archive/outback-thunder-2008-07-03.html",
+        "grade": "primary-source"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Bare-name collision with pwf-powersite's own \"The Ruff Ryders\" (ruff-ryders-pwf, Devastator & Destroyer, the \"Twin Towers\") — an unrelated tag team in a different fed with different members; both feds independently borrowed the real DMX/hip-hop \"Ruff Ryders\" branding for their own entrance music and team name. Recorded distinct per the no-auto-merge doctrine.",
+        "with": [
+          "ruff-ryders-pwf"
+        ]
+      }
+    ],
+    "caption": "A Memphis tag team, Chris Deppe and Shawn Kelley, who wrestled singles against Schmied and Dollar respectively on EAW's own 3 July 2008 card before taking their own leave of the company.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

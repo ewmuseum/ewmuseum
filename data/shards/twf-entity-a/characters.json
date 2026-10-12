@@ -1,0 +1,356 @@
+[
+ {
+  "id": "american-patriot-twf",
+  "type": "character",
+  "name": "American Patriot",
+  "caption": "The TWF's own reigning World Champion, who retains the title by submission over Tywon on the fed's own 16 October 1996 house show.",
+  "caption_asof": {
+   "written": "2026-09-25",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-15",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-tournament-announcement-1996-10-15.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (american-patriot-aicw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "american-patriot-aicw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (american-patriot-apw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "american-patriot-apw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (american-patriot-icbinr); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "american-patriot-icbinr"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tywon-twf",
+  "type": "character",
+  "name": "Tywon",
+  "caption": "An in-fiction wrestler billed under the fed's own operator's forename; submits to the American Patriot's figure-four sleeper on the 16 October 1996 house show.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-16",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-house-show-results-1996-10-16.html"
+   }
+  ]
+ },
+ {
+  "id": "da-soultaker-twf",
+  "type": "character",
+  "name": "Da SoulTaker",
+  "caption": "Wins a 16 October 1996 Iron Man Match over Raven S. Bridges, 11 falls to 6.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-16",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-house-show-results-1996-10-16.html"
+   }
+  ]
+ },
+ {
+  "id": "raven-s-bridges-twf",
+  "type": "character",
+  "name": "Raven S. Bridges",
+  "caption": "Loses a 16 October 1996 Iron Man Match to Da SoulTaker, 11 falls to 6.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-16",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-house-show-results-1996-10-16.html"
+   }
+  ]
+ },
+ {
+  "id": "shadow-twf",
+  "type": "character",
+  "name": "Shadow",
+  "caption": "Pins Da Crypt with the Light's Out on the 16 October 1996 house show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-16",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-house-show-results-1996-10-16.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (shadow-ccw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "shadow-ccw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (shadow-decw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "shadow-decw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (shadow-swa-seltor); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "shadow-swa-seltor"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (shadow-tpg); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "shadow-tpg"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (shadow-xcwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "shadow-xcwf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (t-shadow-fob); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "t-shadow-fob"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "da-crypt-twf",
+  "type": "character",
+  "name": "Da Crypt",
+  "caption": "Pinned by Shadow on the 16 October 1996 house show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-16",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-house-show-results-1996-10-16.html"
+   }
+  ]
+ },
+ {
+  "id": "the-outlaw-twf",
+  "type": "character",
+  "name": "The Outlaw",
+  "caption": "Defeats Da Dungeonmaster by disqualification on the 16 October 1996 house show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-16",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-house-show-results-1996-10-16.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (jesse-briggs-gw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "jesse-briggs-gw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-outlaw-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-outlaw-rspwf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-outlaw-wwa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-outlaw-wwa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "da-dungeonmaster-twf",
+  "type": "character",
+  "name": "Da Dungeonmaster",
+  "caption": "Loses to The Outlaw by disqualification on the 16 October 1996 house show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-16",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-house-show-results-1996-10-16.html"
+   }
+  ]
+ },
+ {
+  "id": "ultimo-twf",
+  "type": "character",
+  "name": "Ultimo",
+  "caption": "Pins The Master Of Pain after a high cross body on the 16 October 1996 house show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-16",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-house-show-results-1996-10-16.html"
+   }
+  ]
+ },
+ {
+  "id": "the-master-of-pain-twf",
+  "type": "character",
+  "name": "The Master Of Pain",
+  "caption": "Pinned by Ultimo after a high cross body on the 16 October 1996 house show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "twf-entity-a",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-10-16",
+    "last_seen": "1996-10-16",
+    "source": "/promotions/twf-entity-a/archive/twf-house-show-results-1996-10-16.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (night-stalker-lcw-1997); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "night-stalker-lcw-1997"
+    ]
+   }
+  ]
+ }
+]

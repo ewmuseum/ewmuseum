@@ -1,0 +1,80 @@
+[
+  {
+    "id": "the-totally-rad-connection-rsp-ringside-seat-2002",
+    "type": "unit",
+    "name": "The Totally Rad Connection",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "id": "bobby-michaels-rsp-ringside-seat-2002"
+      },
+      {
+        "id": "tommy-roberts-rsp-ringside-seat-2002"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "rsp-ringside-seat-2002",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2002-08-24",
+        "last_seen": "2002-08-24",
+        "grade": "primary-source",
+        "source": "The promotion's own served cards and broadcasts."
+      }
+    ],
+    "caption": "Bobby Michaels and Tommy Roberts, debuting against The Greatest Team Alive.",
+    "caption_asof": {
+      "written": "2026-09-22",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-greatest-team-alive-rsp-ringside-seat-2002",
+    "type": "unit",
+    "name": "The Greatest Team Alive",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "id": "dax-rsp-ringside-seat-2002"
+      },
+      {
+        "id": "maddox-rsp-ringside-seat-2002"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "rsp-ringside-seat-2002",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2002-08-24",
+        "last_seen": "2002-08-24",
+        "grade": "primary-source",
+        "source": "The promotion's own served cards and broadcasts."
+      }
+    ],
+    "caption": "Dax and Maddox, allied with Damien Legacy and Rolex as the self-declared Trinity.",
+    "caption_asof": {
+      "written": "2026-09-22",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

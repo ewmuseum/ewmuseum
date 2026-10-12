@@ -1,0 +1,184 @@
+[
+  {
+    "id": "gdwa-world-heavyweight",
+    "type": "title",
+    "name": "World Heavyweight Championship",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-world-heavyweight.html",
+    "collection": "0050",
+    "cadence": "standing",
+    "epitaph": "The top belt of the line, and the one the fed dated its own founding by: its ledger opens with a tournament final on 5 April 1996, held under the two federations GDWA grew out of, and then records the same wrestler being inaugurated GDWA World Champion at the same building on 21 April. Seven reigns follow it across two and a half years — one ended by a stripping for breach of contract, one won in a three way dance decided by a pinfall and a disqualification at once, one settled by a tournament final in the Fukuoka Dome. The last change the fed recorded put it on Black Lotus at Founder's Day Tradition II in August 1998. Its own site announced in January 2000 that a pay per view called Glory Days would crown a new and undisputed champion; nothing held says it did.",
+    "epitaph_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "notes": "Transcribed from the fed's own Lineages pages (promotions/gdwa/archive/lineages-current.html, promotions/gdwa/archive/lineages-1997.html); the Glory Days announcement is the scrolling marquee on its own Dragon's Lair page (promotions/gdwa/archive/dragons-lair.html)."
+  },
+  {
+    "id": "gdwa-western-heritage",
+    "type": "title",
+    "name": "Western Heritage Championship",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-western-heritage.html",
+    "collection": "0050",
+    "cadence": "standing",
+    "epitaph": "A belt decided twice by Royal Rumble and defended, at the end, three times in six weeks. It was crowned at the first Summer Supercard in May 1996 when Sachie Yokoyama last-eliminated Radhi Ananda, and changed hands eleven times over the two years after: knocked away at a Fall Moonsault, vacated in October 1997 by a champion who had just won a second belt, won again out of a Rumble, and finally taken by Daisy Butterfly in the match that unified it with the Intercontinental title. The fed's own handler's page of 21 October 2000 has it live again, three days out from crowning a brand new champion on its first card out of Tacoma.",
+    "epitaph_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "notes": "Transcribed from the fed's own Lineages pages (promotions/gdwa/archive/lineages-current.html, promotions/gdwa/archive/lineages-1997.html); the 2000 revival is on its own handler's page (promotions/gdwa/archive/handlers-page-2000-10-21.html)."
+  },
+  {
+    "id": "gdwa-internet-heavyweight",
+    "type": "title",
+    "name": "Internet Heavyweight Championship",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-internet-heavyweight.html",
+    "collection": "0050",
+    "cadence": "standing",
+    "aka": [
+      "Internet Championship",
+      "Internet title"
+    ],
+    "events": [
+      {
+        "type": "rename",
+        "date": {
+          "date": "1998-01-18",
+          "precision": "exact"
+        },
+        "title": "gdwa-intercontinental",
+        "note": "\"The title is formally changed from the Internet Heavyweight Championship to the Intercontinental Championship\" — the fed's own Lineages page, dating the change to the Miyagi-ken Sports Center in Sendai, Japan."
+      }
+    ],
+    "epitaph": "The fed's second singles belt, crowned in a tournament final at the first Summer Supercard in May 1996 and contested eight times over the twenty months after — a stripping for breach of contract, a Royal Rumble win, a three way dance at Fall Moonsault 1997. Its lineage did not end so much as change names: on 18 January 1998 in Sendai the fed formally renamed it the Intercontinental Championship, with Daisy Butterfly holding it throughout.",
+    "epitaph_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "notes": "Transcribed from the fed's own 1997 Lineages page (promotions/gdwa/archive/lineages-1997.html); the rename is recorded on the fed's own current Lineages page (promotions/gdwa/archive/lineages-current.html)."
+  },
+  {
+    "id": "gdwa-intercontinental",
+    "type": "title",
+    "name": "Intercontinental Championship",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-intercontinental.html",
+    "collection": "0050",
+    "cadence": "standing",
+    "events": [
+      {
+        "type": "unified_into",
+        "date": {
+          "date": "1998-08-30",
+          "precision": "exact"
+        },
+        "title": "gdwa-american-heritage",
+        "note": "Unified with the Western Heritage Championship at Founder's Day Tradition II, Municipal Stadium, Cleveland, Ohio; the fed crowned the winner its inaugural American Heritage Champion."
+      }
+    ],
+    "epitaph": "The Internet Heavyweight Championship under a new name, from 18 January 1998, and the shortest-lived lineage the fed kept: one holder, seven months, and an ending that was also a beginning. Daisy Butterfly carried it out of Sendai and into Founder's Day Tradition II that August, where she beat the Western Heritage champion by submission and the two belts became one. The fed filed it thereafter among its retired heavyweight championships.",
+    "epitaph_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "notes": "Transcribed from the fed's own current Lineages page (promotions/gdwa/archive/lineages-current.html)."
+  },
+  {
+    "id": "gdwa-transnational-cruiserweight",
+    "type": "title",
+    "name": "Transnational Cruiserweight Championship",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-transnational-cruiserweight.html",
+    "collection": "0050",
+    "cadence": "standing",
+    "aka": [
+      "Cruiserweight Championship"
+    ],
+    "epitaph": "A belt with a rulebook of its own: defended every four weeks, open to any cruiserweight, and any contender above.500 who challenged had to be given a shot. It was crowned in a tournament final at the US Air Arena in Baltimore in July 1997, and its only recorded champion held it for more than a year while adding two other titles to it — the first wrestler in the fed to hold two belts at once, then three. It was vacated at Founder's Day Tradition II in August 1998. In January 2000 the fed announced a tournament to crown a new one.",
+    "epitaph_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "notes": "Transcribed from the fed's own Lineages pages (promotions/gdwa/archive/lineages-current.html, promotions/gdwa/archive/lineages-1997.html); its defence rules are set out in the fed's own FAQ sheet (promotions/gdwa/archive/faq-sheet.html) and the new tournament announced on the Dragon's Lair marquee (promotions/gdwa/archive/dragons-lair.html)."
+  },
+  {
+    "id": "gdwa-american-heritage",
+    "type": "title",
+    "name": "American Heritage Championship",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-american-heritage.html",
+    "collection": "0050",
+    "cadence": "standing",
+    "epitaph": "One champion, one night, and a lineage that is entirely its own crowning. The fed created it at Founder's Day Tradition II on 30 August 1998 out of the Western Heritage and Intercontinental championships at once, when Daisy Butterfly beat Sarah Summers by submission and was crowned its inaugural holder. Nothing held records a defence, and the fed filed it among its retired heavyweight championships.",
+    "epitaph_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "notes": "Transcribed from the fed's own current Lineages page (promotions/gdwa/archive/lineages-current.html)."
+  },
+  {
+    "id": "gdwa-world-tag-team",
+    "type": "title",
+    "name": "World Tag Team Championship",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-world-tag-team.html",
+    "collection": "0050",
+    "cadence": "standing",
+    "epitaph": "Two reigns and a held-up division. The Misfits beat Lady Luck in Osaka Castle Hall in October 1996 to become the inaugural champions and held the belts eight months, until the Hyena Queens climbed out of a steel cage with them in Madison Square Garden. On 26 September 1997 the fed held its own tag division up and stripped the champions; nothing held records the belts being crowned again.",
+    "epitaph_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "notes": "Transcribed from the fed's own 1997 Lineages page (promotions/gdwa/archive/lineages-1997.html); neither team's own roster survives."
+  },
+  {
+    "id": "gdwa-ironwoman",
+    "type": "title",
+    "name": "Ironwoman Square Dance Tournament",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-ironwoman.html",
+    "collection": "0050",
+    "cadence": "annual",
+    "aka": [
+      "Ironwoman Crowning"
+    ],
+    "epitaph": "Not a belt but a crowning, contested once a year at Fall Moonsault. Daisy Butterfly took the first at the Carolinas Stadium in September 1996; Andrea Chandler took the second at the Sky Dome in Toronto in November 1997, and the fed named her Wrestler of the Month for it. The pay-per-view calendar bills Ironwoman Square Dance Matches as a headline attraction of the show.",
+    "epitaph_asof": {
+      "written": "2026-08-24",
+      "author": "ai"
+    },
+    "notes": "Transcribed from the fed's own current Lineages page (promotions/gdwa/archive/lineages-current.html); billed on its own pay-per-view calendar (promotions/gdwa/archive/pay-per-views.html)."
+  },
+  {
+    "id": "gdwa-extreme-television",
+    "type": "title",
+    "name": "GDWA Extreme Television Championship",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-extreme-television.html",
+    "collection": "0148",
+    "cadence": "standing",
+    "epitaph": "Created out of thin air on the fed's own December 1998 return broadcast and handed to Heidi Leick without a match, over the announce table's own open disbelief; she made her first defense the same night.",
+    "epitaph_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    },
+    "notes": "First and, in the held record, only recorded reign: awarded to Heidi Leick on the Tease and Catfight of 30 December 1998 (msg_id e7ZLH3O5EXIJ; promotions/gdwa/archive/gdwa-tease-and-catfight-1998-12-30.html). Not to be confused with the American Heritage or Intercontinental championships, which the same broadcast announces will merge into a new North American Heritage Championship at a Valentine's Day 1999 PPV -- that title and event are not minted here for want of a document past the announcement."
+  },
+  {
+    "id": "gdwa-ladies-extreme-tag-team",
+    "type": "title",
+    "name": "Ladies Extreme Tag Team Championship",
+    "promotion": "gdwa",
+    "page": "/titles/gdwa-ladies-extreme-tag-team.html",
+    "collection": "0148",
+    "cadence": "standing",
+    "epitaph": "A second tag belt stood up as the fed absorbed the LEWA promotion's own tag division, decided in an off-panel tournament the held record never shows -- only its champions, billed in passing on their way out the door.",
+    "epitaph_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    },
+    "notes": "Announced with an opening tournament bracket on the Monday Night Tease of 7 July 1997. By the Tuesday Night Catfight billed 22 July 1997, the Misfits (Godiva, Dalbello Rage) are introduced on air as champions; the deciding tournament match itself is not in this held record."
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "id": "divine-alliance-war-1995",
+    "type": "unit",
+    "name": "Divine Alliance",
+    "unit_kind": "tag-team",
+    "caption": "A masked tag team who won the World WAR! Tag Team titles from Canadian Carnage and unmasked as \"Tut and Agamemnon\" (Zeus and Amon Ra).",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 6,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      "zeus-war-1995",
+      "amon-ra-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1995-05",
+        "last_seen": "1996-02",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "\"WarZone 3\"/\"Masters of War 3\" (Oct 1995); \"World WAR! III\" (5 Feb 1996), where the masks come off."
+      }
+    ]
+  },
+  {
+    "id": "ghetto-boyz-war-1995",
+    "type": "unit",
+    "name": "Ghetto Boyz",
+    "unit_kind": "tag-team",
+    "caption": "Big Daddy Vicelord and Folk Curtis Fredrick, a Compton-themed tag team and recurring World WAR! Tag Team title contender through 1996.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 5,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      "big-daddy-vicelord-war-1995",
+      "folk-curtis-fredrick-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1995-10",
+        "last_seen": "1996-05",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "\"Masters of War 3\" (Oct 1995) through \"Tuesday Night WAR!fare\" (6 May 1996), where they fail to regain the titles from the Brotherhood in a loser-leaves-town match."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "An unrelated existing unit, ghetto-boyz-agw, shares the stock name with no shared operator, roster or date evidence connecting the two feds -- a name-only match is not a join.",
+        "with": [
+          "ghetto-boyz-agw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brotherhood-war-1995",
+    "type": "unit",
+    "name": "The Brotherhood",
+    "unit_kind": "stable",
+    "caption": "A heel stable managed by Suna Gib, whose Bounty Hunter and Bruiser Buggelli held the World WAR! Tag Team titles as of \"Tuesday Night WAR!fare.\"",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      "bounty-hunter-war-1995",
+      "bruiser-buggelli-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1996-04",
+        "last_seen": "1996-05",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "\"The WAR! Report\" (29 Apr 1996) recap; \"Tuesday Night WAR!fare\" (6 May 1996), retaining the World WAR! Tag Team titles by double disqualification against the Ghetto Boyz."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "An unrelated existing unit, brotherhood-iwf, shares the stock stable name with no shared operator, roster or date evidence connecting the two feds -- a name-only match is not a join.",
+        "with": [
+          "brotherhood-iwf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "star-smashers-war-1995",
+    "type": "unit",
+    "name": "Star Smashers",
+    "unit_kind": "tag-team",
+    "caption": "Henry Roome and Apollo Friday, World WAR! Tag Team Champions through mid-May 1996, losing the titles to the Aderondac Brothers.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      "henry-roome-war-1995",
+      "apollo-friday-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1996-05",
+        "last_seen": "1996-05",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "\"Tuesday Night WAR!fare\" (undercard win over Apocalypse) through \"Monday Night WAR!fare\" (13 May 1996), where they lose the World WAR! Tag Team titles."
+      }
+    ]
+  },
+  {
+    "id": "aderondac-brothers-war-1995",
+    "type": "unit",
+    "name": "Aderondac Brothers",
+    "unit_kind": "tag-team",
+    "caption": "A power tag team (one member billed as \"Bladerunner\") who won the World WAR! Tag Team titles from the Star Smashers on \"Monday Night WAR!fare.\"",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1995-10",
+        "last_seen": "1996-05",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "\"WarZone 3\"/\"Masters of War 3\" (Oct 1995, undercard); wins the World WAR! Tag Team titles from the Star Smashers on \"Monday Night WAR!fare\" (13 May 1996). Only one member (\"Bladerunner\") is named distinctly in this pull's own read text; the second man is never named apart from the team."
+      }
+    ]
+  },
+  {
+    "id": "industrial-revolution-war-1995",
+    "type": "unit",
+    "name": "Industrial Revolution",
+    "unit_kind": "tag-team",
+    "caption": "Hakeem \"The Machine\" Owlstine and \"Mega Daddy Kewl\" MegaDiesel, World WAR! Tag Team Champions by Dec 1996, losing the belts to the Annihilators in a falls-count-anywhere parking-lot brawl.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "hakeem-owlstine-war-1995",
+      "megadiesel-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1996-12",
+        "last_seen": "1996-12",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "\"Nuclear WAR!fare\" (7 Dec 1996): loses the World WAR! Tag Team titles."
+      }
+    ]
+  },
+  {
+    "id": "annihilators-war-1995",
+    "type": "unit",
+    "name": "The Annihilators",
+    "unit_kind": "tag-team",
+    "caption": "Venom and Shinjiro Kanemoto, who won the World WAR! Tag Team titles from Industrial Revolution with a moonsault off a parked van in the WARena parking lot.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "venom-war-1995",
+      "shinjiro-kanemoto-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1996-12",
+        "last_seen": "1996-12",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "\"Nuclear WAR!fare\" (7 Dec 1996): wins the World WAR! Tag Team titles."
+      }
+    ]
+  },
+  {
+    "id": "kalifornia-heat-war-1995",
+    "type": "unit",
+    "name": "Kalifornia Heat",
+    "unit_kind": "tag-team",
+    "caption": "Matt Powers and Danny DeLane, International WAR! Tag Team Champions, retaining the belts against the All-Americans in a Texas Death match at \"Nuclear WAR!fare.\"",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      "matt-powers-war-1995",
+      "danny-delane-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1996-12",
+        "last_seen": "1996-12",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "\"Nuclear WAR!fare\" (7 Dec 1996): retains the International WAR! Tag Team titles."
+      }
+    ]
+  },
+  {
+    "id": "dangerzone-war-1995",
+    "type": "unit",
+    "name": "DangerZone",
+    "unit_kind": "tag-team",
+    "caption": "Tallyman & Styx, WAR!'s own first-ever International WAR! Tag Team Champions.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      "tallyman-war-1995",
+      "styx-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1995-06",
+        "last_seen": "1995-06",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "Wins the International WAR! Tag Team Tournament final over Youngblood at \"CivilWar 1\" (7 Jun 1995) using the \"Hell's Gate\" finishing move. The originating document for this title's own creation and first champions."
+      }
+    ]
+  },
+  {
+    "id": "theatre-of-pain-war-1995",
+    "type": "unit",
+    "name": "Theatre of Pain",
+    "unit_kind": "tag-team",
+    "caption": "A tag team billed only by the ring names Vanquish and Conquer, managed by The Dark One, who won the World WAR! Tag Team titles from the Lost Boys in June 1996 and briefly used the alternate team name \"Total Destruction.\"",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1996-05",
+        "last_seen": "1996-06",
+        "source": "Recurring from \"WarZone V\" / \"Countdown to Extinction `96\" cards (Jun 1996); wins the World WAR! Tag Team titles from the Lost Boys on \"Superstars At War XI\" (21 Jun 1996), Conquer pinning Lost Boy 1 with a second moonsault after an initial false finish; also billed \"Total Destruction\" on the same era's arena-card results."
+      }
+    ],
+    "members": [
+      {
+        "character_id": "war-1995-vanquish",
+        "name": "Vanquish"
+      },
+      {
+        "character_id": "war-1995-conquer",
+        "name": "Conquer"
+      }
+    ]
+  },
+  {
+    "id": "lost-boys-war-1995",
+    "type": "unit",
+    "name": "Lost Boys",
+    "unit_kind": "tag-team",
+    "caption": "A numbered, unmasked-identity-revealed tag team (Greg and Frank Addams) managed by Wendy Addams, who held the World WAR! Tag Team titles across two separate 1996 reigns.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1996-05",
+        "last_seen": "1996-12",
+        "source": "Wins the World WAR! Tag Team titles from the Aderondac Brothers in a Street Fight on \"Casualties of War III\" (24 May 1996); loses them to Theatre of Pain on \"Superstars At War XI\" (21 Jun 1996); regains them at an unrecovered date before 11 Oct 1996 and holds them into Oct/Nov 1996 before losing them to Industrial Revolution on an Arena Card (29 Oct 1996). \"Lost Boys Developments\" (28 Jun 1996) reveals the team's own civilian names, Greg and Frank Addams, and manager Wendy Addams's full name; Wendy Addams marries wrestler Arron Iron in a separate in-fiction storyline wedding (Nuclear WAR!fare era, Dec 1996)."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "An unrelated existing unit, the-lost-boys-bwa, shares the stock team name (after the 1987 film) with no shared operator, roster or date evidence connecting the two feds -- a name-only match is not a join.",
+        "with": [
+          "the-lost-boys-bwa"
+        ]
+      }
+    ],
+    "members": [
+      {
+        "character_id": "war-1995-greg-addams",
+        "name": "Greg Addams"
+      },
+      {
+        "character_id": "war-1995-frank-addams",
+        "name": "Frank Addams"
+      }
+    ]
+  },
+  {
+    "id": "cold-north-war-1995",
+    "type": "unit",
+    "name": "Cold North",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "caption": "A Canadian-billed tag team, managed by James North Sr., that held the International WAR! Tag Team Championship into 1997 -- the title's own final reign before a unification loss retired it into the World WAR! Tag Team Championship.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-04",
+        "last_seen": "1997-05",
+        "source": "Billed \"the International War Tag champs\" and the reigning champions, retaining against Elemental Force on \"War!Zone - Wrath of the Bitter Damned\" (29 Apr 1997) in what is called \"the last televised\" defense of the title; loses a tag-title unification match to the Lost Boys on \"War!Zone\" (5 May 1997), retiring the International WAR! Tag Team Championship into the World WAR! Tag Team Championship. The team's own wrestlers (per surrounding dialogue, not separately minted) are Jack Frost and Stein \"Ice\" Berg."
+      }
+    ]
+  },
+  {
+    "id": "war-1995-all-americans",
+    "type": "unit",
+    "name": "All-Americans",
+    "unit_kind": "tag-team",
+    "caption": "A tag team managed by Ms. America and JJM -- Alan Brunswick and Jeff Borbone, with Jumbo Jim Mongol filling in for an injured Brunswick -- who won the International WAR! Tag Team Championship from Kalifornia Heat and lost it to Phantasmagoria inside the same month.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1
+      }
+    },
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-02",
+        "last_seen": "1997-02",
+        "source": "\"WAR!ZONE\" (11 Feb 1997, served): Alan Brunswick pins Matt Powers (Kalifornia Heat) to win the International WAR! Tag Team Championship, w/Ms.America & JJM. \"WAR!CORE\" (20 Feb 1997, collected) names Brunswick's partner Jeff Borbone during a title defense against Phantasmagoria that ends by DQ after a claw-hold angle leaves Brunswick comatose (\"the soul of the All-Americans\"). \"SKIRMISH REPORT!\" (24 Feb 1997, collected) has Borbone, with Jumbo Jim Mongol at ringside, retain the titles in a steel cage defense against the Windy City Warriors while Brunswick remains hospitalized, and anticipates Mongol standing in for him in a rematch. \"WAR!!ZONE\" (26 Feb 1997, already served) confirms that replacement: Borbone & Mongol, still billed the All-Americans, lose the titles to Phantasmagoria by pinfall, closing the reign. No document recovered in the held record separately names a fourth member. Membership_unknown reflects that the team's full roster across this run is not pinned down to two names."
+      }
+    ],
+    "members": [
+      {
+        "character_id": "war-1995-alan-brunswick",
+        "name": "Alan Brunswick"
+      },
+      {
+        "character_id": "war-1995-jeff-borbone",
+        "name": "Jeff Borbone"
+      },
+      {
+        "character_id": "war-1995-jumbo-jim-mongol",
+        "name": "Jumbo Jim Mongol"
+      }
+    ]
+  },
+  {
+    "id": "war-1995-phantasmagoria",
+    "type": "unit",
+    "name": "Phantasmagoria",
+    "unit_kind": "tag-team",
+    "caption": "A dominant, interference-heavy tag team -- Darkness and Terror -- whose 'soul-stealing' angle against Alan Brunswick took the International WAR! Tag Team Championship from a Brunswick-less All-Americans and carried them through at least one further title defense.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1
+      }
+    },
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1996-11",
+        "last_seen": "1997-03",
+        "source": "\"War!Time\" (14 Nov 1996, already served as war-wartime-1996-11-13.html): billed among the night's debuts and beats the Western Riders by count-out in an untelevised match. \"(WAR!) Acts of War\" (masthead c. 25 Nov 1996, collected): the two named members, Darkness and Terror, beat Canadian Carnage, Terror pinning Johnny Canuck with 'The Free Fall.' \"(WAR!) ACTS OF WAR\" (masthead c. 27-28 Nov 1996, already served): beats Canadian Carnage again (Mountie II pinned) with 'The Final Hour.' \"(WAR!) WAR!CORE\" (13 Feb 1997, collected): disqualified against the Lost Boys in a World WAR! Tag Team title match (a different title from the one this reign concerns). \"(WAR!) WAR!CORE\" (20 Feb 1997, collected): Terror drains Alan Brunswick's 'soul' via claw hold with Darkness blocking Jeff Borbone, disqualified against the All-Americans, setting up the title match. \"WAR!!ZONE\" (26 Feb 1997, already served as war-warzone-1997-02-26.html): wins the International WAR! Tag Team Championship from Borbone & Jumbo Jim Mongol (standing in for Brunswick, still billed the All-Americans) by pinfall. \"WAR!ZONE (March 5)\" (5 Mar 1997, collected) retains against the Chaos Knights, the reign's last sighting in the record."
+      }
+    ],
+    "members": [
+      {
+        "character_id": "war-1995-darkness",
+        "name": "Darkness"
+      },
+      {
+        "character_id": "war-1995-terror",
+        "name": "Terror"
+      }
+    ]
+  },
+  {
+    "id": "church-of-fat-war-1995",
+    "type": "unit",
+    "name": "Church of Fat",
+    "unit_kind": "stable",
+    "caption": "A benefactor-led faction built around Juggernaut's ring alias \"Rev. Dr. William Bennett\" that controlled the Manhattan and World titles through WAR!'s autumn 1999 season.",
+    "caption_asof": {
+      "written": "2026-09-12",
+      "author": "ai",
+      "evidence": {
+        "wrestlers": 0,
+        "shows": 0,
+        "rps": 0,
+        "awards": 0,
+        "tenures": 1,
+        "appearances": 4
+      }
+    },
+    "members": [
+      "juggernaut-war-1995",
+      "jeff-westfall-war-1995",
+      "mordecai-winchester-war-1995",
+      "greg-allocca-icw-insane-dec1997"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1999-09",
+        "last_seen": "1999-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "Named as a faction opposing Ground Zero at \"War!Report 4.4\" (6 October 1999); Mordecai Winchester is billed its benefactor and Greg Allocca a recent entrant at \"War!Report 4.5\" (13 October 1999)."
+      }
+    ]
+  },
+  {
+    "id": "ground-zero-war-1995",
+    "type": "unit",
+    "name": "Ground Zero",
+    "unit_kind": "tag-team",
+    "caption": "A revived faction name fielded by Paul Novak and returning wrestler Steve Swanson in a running feud with the Church of Fat during WAR!'s autumn 1999 season.",
+    "caption_asof": {
+      "written": "2026-09-12",
+      "author": "ai",
+      "evidence": {
+        "wrestlers": 0,
+        "shows": 0,
+        "rps": 0,
+        "awards": 0,
+        "tenures": 1,
+        "appearances": 2
+      }
+    },
+    "members": [
+      "paul-novak-war-1995",
+      "steve-swanson-war-1995"
+    ],
+    "tenures": [
+      {
+        "promotion": "war-1995",
+        "first_seen": "1999-10",
+        "last_seen": "1999-10",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "Wrestles the Church of Fat in an elimination tag match at \"War!Report 4.4\" (6 October 1999)."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: the same faction name is recorded on unrelated promotions; nothing in this wing's documents links them. An earlier, unrelated stable of the same name is referenced historically within this same wing's own story years prior, with no surviving roster to compare.",
+        "with": [
+          "ground-zero-rspwf",
+          "ground-zero-stw-iwf-1997"
+        ]
+      }
+    ]
+  }
+]

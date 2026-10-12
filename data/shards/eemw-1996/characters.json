@@ -1,0 +1,155 @@
+[
+ {
+  "id": "blaze-eemw-1996",
+  "type": "character",
+  "name": "BLAZE",
+  "caption": "Extreme E-Mail Wrestling's own founder, who declares himself the league's first World Champion outright ('I can because it is my e-mail league') and signs off its promos through its whole short run.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "blaze",
+     "blaze-bcw-2008",
+     "blaze-fire-storm-manager-wwa",
+     "blaze-ihwf",
+     "blaze-vcw",
+     "blaze-vwf-vegas-2003"
+    ],
+    "note": "A common stock ring name; no shared operator, roster, or cross-narrating document with any other held 'Blaze', so filed distinct on name alone per the generic-name doctrine."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "eemw-1996",
+    "first_seen": "1996-04-29",
+    "last_seen": "1996-04-29",
+    "role": "founder and self-declared World Champion",
+    "roles": [
+     "authority-figure",
+     "wrestler"
+    ],
+    "source": "promotions/eemw-1996/archive/eemw-1996-first-eemw-show-1996-04-29.html, msg_id Xhuvzk5wmgoJ",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "doom-boy-eemw-1996",
+  "type": "character",
+  "name": "Doom Boy",
+  "caption": "Wins the fed's only recorded match, putting Gary Quick through a table before the pin.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [],
+    "note": "No other Doom Boy-named character is on file; recorded as its own record pending any future collision."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "eemw-1996",
+    "first_seen": "1996-04-29",
+    "last_seen": "1996-04-29",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/eemw-1996/archive/eemw-1996-first-eemw-show-1996-04-29.html, msg_id Xhuvzk5wmgoJ",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "gary-quick-eemw-1996",
+  "type": "character",
+  "name": "Gary Quick",
+  "caption": "Loses the fed's only recorded match to Doom Boy after a table spot.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [],
+    "note": "No other Gary Quick-named character is on file; recorded as its own record pending any future collision."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "eemw-1996",
+    "first_seen": "1996-04-29",
+    "last_seen": "1996-04-29",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/eemw-1996/archive/eemw-1996-first-eemw-show-1996-04-29.html, msg_id Xhuvzk5wmgoJ",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "mad-dog-max-smith-eemw-1996",
+  "type": "character",
+  "name": "Mad Dog Max Smith",
+  "caption": "Named on the fed's own founding four-person roster; no match survives for him in the held record.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [],
+    "note": "No other Mad Dog Max Smith-named character is on file; recorded as its own record pending any future collision."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "eemw-1996",
+    "first_seen": "1996-04-29",
+    "last_seen": "1996-04-29",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/eemw-1996/archive/eemw-1996-first-eemw-show-1996-04-29.html, msg_id Xhuvzk5wmgoJ",
+    "grade": "primary-source"
+   }
+  ]
+ }
+]

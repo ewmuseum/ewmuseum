@@ -1,0 +1,100 @@
+[
+ {
+  "id": "xwf-uwow-world",
+  "type": "title",
+  "name": "XWF World Heavyweight Championship",
+  "promotion": "xwf-uwow",
+  "page": "/titles/xwf-uwow-world.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Vacant at the January 2008 brand-extension launch, filled when Samoa Joe won a King of the Mountain reverse-ladder match. Big Show and finally Brock Lesnar (in a Triple Threat over Big Show and Rob Van Dam) held it on the surviving ledger, before Lesnar's reign was unified into the ICWC World Heavyweight Championship at ICWC Capital Combat (2009).",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 3
+   },
+   "author": "ai"
+  },
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2009-03",
+     "precision": "month"
+    },
+    "title": "icwc-world",
+    "note": "Edge defeated XWF Champion Brock Lesnar and #1 contender Hulk Hogan in a Triple Threat Match at ICWC Capital Combat (2009) to unify both World Championships under the ICWC banner, per ICWC's own served title-history ledger."
+   }
+  ]
+ },
+ {
+  "id": "xwf-uwow-tag",
+  "type": "title",
+  "name": "XWF World Tag Team Championship",
+  "promotion": "xwf-uwow",
+  "page": "/titles/xwf-uwow-tag.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Named for Demolition at the January 2008 launch — the same Demolition who, per both feds' own ledgers, carried the UWF United States Tag Team Championship over from UWF. Cactus Jack & Kevin Sullivan, Demolition again, Raven & Vampiro and finally Harlem Heat held it on the surviving ledger.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 5
+   },
+   "author": "ai"
+  },
+  "restarted_from": "uwf-uwow-us-tag"
+ },
+ {
+  "id": "xwf-uwow-north-american",
+  "type": "title",
+  "name": "XWF North American Heavyweight Championship",
+  "promotion": "xwf-uwow",
+  "page": "/titles/xwf-uwow-north-american.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Established for Ravishing Rick Rude at the January 2008 launch when GM Paul Heyman judged the UWF Television Championship's own name a poor fit for XWF and renamed the lineage Rude brought over. Vader and then Rude again held it on the surviving ledger.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 3
+   },
+   "author": "ai"
+  },
+  "restarted_from": "uwf-uwow-television"
+ },
+ {
+  "id": "xwf-uwow-cruiserweight",
+  "type": "title",
+  "name": "XWF Cruiserweight Championship",
+  "promotion": "xwf-uwow",
+  "page": "/titles/xwf-uwow-cruiserweight.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Established when Rob Van Dam won a Cruiserweight Battle Royal, last eliminating Lance Storm. Dynamite Kid and then Lance Storm held it on the surviving ledger.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 3
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "xwf-uwow-divas",
+  "type": "title",
+  "name": "XWF X-Treme Divas Championship",
+  "promotion": "xwf-uwow",
+  "page": "/titles/xwf-uwow-divas.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Established when Natalya Neidhart won a six-woman elimination match over Madusa Miceli, Layla, Torrie Wilson, Candice Michelle, Maria Kinellis and Lacey Von Erich, last forcing Miceli to submit to the Camel Clutch — the only recorded champion on the surviving ledger.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  }
+ }
+]

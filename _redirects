@@ -1,0 +1,19 @@
+# THE E-WRESTLING MUSEUM — Cloudflare Pages redirects.
+#
+# Every rule here keeps an old URL working after a section was renamed or
+# removed, rather than letting it 404 for anyone with a bookmark or an
+# external link. Processed by the Pages platform itself, after
+# functions/_middleware.js's own invite-gate check (an unauthenticated
+# request never reaches this file — it gets the gate page first).
+#
+# PERFECTION WAVE D (2026-08-22): the wrestlers.html/wrestlers/* rules (THE
+# FRONT-ENTRANCE RENAME, 2026-08-20) and the galleries/* rule (v53,
+# 2026-08-20) are both removed outright, not just their served-page
+# apparatus — founder's own standing logic, verbatim, on why no redirect
+# courtesy is owed pre-Phase-3: "literally two people other than me have
+# the link... Until phase 3, there's no courtesy for us to maintain." This
+# is a private, invite-gated site with no external index or public
+# bookmark base to protect; removing the galleries rule alongside the
+# wrestlers ones applies that same logic a step further than the v53
+# ruling itself went — flagged here for the founder to veto if the
+# galleries case was meant to stay exempt.

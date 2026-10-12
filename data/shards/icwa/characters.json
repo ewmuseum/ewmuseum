@@ -1,0 +1,89 @@
+[
+ {
+  "id": "knick-man-icwa-rspwf",
+  "type": "character",
+  "name": "The Knick Man",
+  "aka": [
+   "Knick Man"
+  ],
+  "notes": "Known from one ICWA sample served at /promotions/rspwf/archive/free-agent-1998-05-15.html: a 250-pound New Yorker in a blue Knick Man jersey who hires a fake reverend to pray over his opponent, wins the main event by a knee-breaking submission and cracks a bible over The Preacher.",
+  "caption": "A blasphemous New Yorker who beats The Preacher with a prayer and a bible on the ICWA's first show.",
+  "tenures": [
+   {
+    "promotion": "icwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-05-15",
+    "last_seen": "1998-05-15",
+    "source": "/promotions/rspwf/archive/free-agent-1998-05-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "knick-man-aicw",
+     "knick-man-nawf-1998b"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ },
+ {
+  "id": "the-preacher-icwa-rspwf",
+  "type": "character",
+  "name": "The Preacher",
+  "notes": "Known from one ICWA sample served at /promotions/rspwf/archive/free-agent-1998-05-15.html: a 327-pound Canadian from Godsville, Ontario, who enters in a white robe, fights from his knees and refuses to give up against The Knick Man.",
+  "caption": "A 327-pound robed Canadian who is bested on the ICWA's first show.",
+  "tenures": [
+   {
+    "promotion": "icwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-05-15",
+    "last_seen": "1998-05-15",
+    "source": "/promotions/rspwf/archive/free-agent-1998-05-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-the-preacher",
+     "the-preacher-agw",
+     "the-preacher-cswa",
+     "the-preacher-pcw"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ }
+]

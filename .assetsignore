@@ -1,0 +1,50 @@
+# Files that live in the repo but should NOT be served as static assets.
+# (functions/ is handled specially by Pages and must NOT be listed here.)
+.git
+.github
+node_modules
+scripts
+package.json
+package-lock.json
+.gitignore
+.assetsignore
+README.md
+CLAUDE.md
+docs
+worker
+# workshop scratch (scratch-*/) is blocked by .gitignore instead — r2-sync matches this file's entries exactly, not as globs (2026-09-03)
+collect-never-serve
+GAVELS.md
+JOURNAL.md
+tests
+# the operation's own config, commit stub and lane paperwork — repo machinery,
+# never served content (2026-09-15 repo-portability pass)
+ops
+PRODUCT.md
+DESIGN.md
+.impeccable
+bot
+templates
+CURATION.md
+CONTRIBUTING.md
+LICENSE.md
+# hook c167 (2026-10-09): the workshop's review queue is never served (it discusses unverified leads, memorial candidates among them)
+data/review-queue.json
+# hook c192 (2026-10-09, the Janitor's D466 / the adversarial review's A02 rider): the museum's BUILD INPUTS are not served.
+# Nothing is moved and nothing is deleted - every one of these stays in the repository, where the builders, the validators and
+# the gate read it from disk. No served page fetches any of them: every data load on a served page goes through
+# MuseumList.fetchJSON, whose callers are 30 literal /data/<name>.json paths plus search.html's own FILES array, and a grep of
+# every *.html/*.js/*.mjs/*.css in the tree finds these names only in five character pages' PROSE citations.
+# data/external-figures.json is NOT here on purpose: search.html loads it by name, so no literal path names it.
+# r2-sync matches these entries against the relative path (scripts/r2-sync.mjs isExcluded), and walkTree tests directories too,
+# so the one data/shards line prunes all 15,457 shard files.
+data/shards
+data/wanted.json
+data/documents.json
+data/affiliations.json
+data/attestors.json
+data/promotion-epitaph-authorship.json
+data/promotion-style-families.json
+data/stip-codes.json
+data/stipulation-families.json
+data/style-families.json

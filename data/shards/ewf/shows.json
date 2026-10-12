@@ -1,0 +1,183 @@
+[
+  {
+    "id": "ewf-immortality-2003-03-09",
+    "type": "show",
+    "name": "Immortality",
+    "promotion": "ewf",
+    "date": {
+      "date": "2003-03-09",
+      "precision": "exact",
+      "source": "The show’s own opening line: “SUNDAY 9TH MARCH 2003 THE FIRST EVER ELITE WRESTLING FOUNDATION IMMORTALITY IS COMING TO YOU LIVE FROM A SOLD OUT RALPH WILSON STADIUM, ORCHARD PARK, NEW YORK!”"
+    },
+    "page": "/promotions/ewf/archive/immortality-2003-03-09.html",
+    "collection": "0046",
+    "appearances": [
+      { "who": "john-dumas-ewf", "kind": "match" },
+      { "who": "j-ewf", "kind": "match" },
+      { "who": "baz-ewf", "kind": "angle", "capacity": "authority" },
+      { "who": "jay-krazy-ewf", "kind": "angle" },
+      { "who": "psyco-ewf", "kind": "match" },
+      { "who": "twisted-angel-ewf", "kind": "match" },
+      { "who": "blood-man-ewf", "kind": "angle" },
+      { "who": "darren-sin-ewf", "kind": "match" },
+      { "who": "turbulence-ewf", "kind": "match" },
+      { "who": "ric-taylor-ewf", "kind": "angle", "capacity": "commentary" },
+      { "who": "jimmy-ewf", "kind": "angle", "capacity": "commentary" },
+      { "who": "mike-mercury-ewf", "kind": "angle", "capacity": "ring-announcer" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["john-dumas-ewf"], ["j-ewf"]],
+        "winner_side": 1,
+        "note": "First-round match, EWF Universal Championship Tournament. J pinned John Dumas with the J Splash after countering an attempted Sudden Stop."
+      },
+      {
+        "order": 2,
+        "sides": [["psyco-ewf"], ["twisted-angel-ewf"]],
+        "winner_side": 1,
+        "note": "First-round match, EWF Universal Championship Tournament."
+      },
+      {
+        "order": 3,
+        "sides": [["darren-sin-ewf"], ["turbulence-ewf"]],
+        "winner_side": 1,
+        "note": "First-round match, EWF Universal Championship Tournament. Turbulence won with the Crash."
+      }
+    ],
+    "venue": "Ralph Wilson Stadium",
+    "city": "Orchard Park, New York",
+    "notes": "The fed’s first show, and the opening round of the tournament for its own Universal Championship. After the opening match, J shoved Baz around the ring and was thrown out by \"The Turnbuckle\" Jay Krazy, running in unannounced; Jay Krazy and Blood Man then brawled in the fed's own bar over it and were both arrested, and Baz used the arrest to postpone their scheduled match rather than run it short a week."
+  },
+  {
+    "id": "ewf-wrestlefest-2003",
+    "type": "show",
+    "name": "WrestleFest 2003",
+    "promotion": "ewf",
+    "date": {
+      "date": "2003-03",
+      "precision": "month",
+      "source": "The event itself carries no date. The fed’s own newsdesk posted the WrestleFest card on Sunday 23 March 2003 for that week’s roleplay deadline and announced “sunday 30th march PPV — The results are up!” the following Sunday (promotions/ewf/archive/news-2003.html). The month is as far as the record goes."
+    },
+    "page": "/promotions/ewf/archive/wrestlefest-2003.html",
+    "collection": "0046",
+    "appearances": [
+      { "who": "the-judge-ewf", "kind": "match" },
+      { "who": "psyco-ewf", "kind": "match" },
+      { "who": "twisted-angel-ewf", "kind": "match" },
+      { "who": "the-overweighter-ewf", "kind": "match" },
+      { "who": "darren-sin-ewf", "kind": "match" },
+      { "who": "blood-man-ewf", "kind": "match" },
+      { "who": "j-ewf", "kind": "match" },
+      { "who": "john-dumas-ewf", "kind": "match" },
+      { "who": "john-dumas-ewf", "kind": "angle" },
+      { "who": "chaos-ewf", "kind": "match" },
+      { "who": "jay-krazy-ewf", "kind": "match" },
+      { "who": "turbulence-ewf", "kind": "match" },
+      { "who": "baz-ewf", "kind": "angle", "capacity": "authority" },
+      { "who": "ric-taylor-ewf", "kind": "angle", "capacity": "commentary" },
+      { "who": "jimmy-ewf", "kind": "angle", "capacity": "commentary" },
+      { "who": "mike-mercury-ewf", "kind": "angle", "capacity": "ring-announcer" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["the-judge-ewf"], ["psyco-ewf"], ["twisted-angel-ewf"]],
+        "winner_side": 1,
+        "note": "Psyco stole the pin on The Judge, who never recovered from being put through a table with Psyco's own leg drop off the apron."
+      },
+      {
+        "order": 2,
+        "sides": [["the-overweighter-ewf"], ["darren-sin-ewf"]],
+        "winner_side": 0,
+        "note": "For the EWF International Championship. The Overweighter won with a Coke Slam and The Last Meal."
+      },
+      {
+        "order": 3,
+        "sides": [["blood-man-ewf", "j-ewf"], ["john-dumas-ewf", "chaos-ewf"]],
+        "winner_side": 0,
+        "stipulation": "Tag Team Elimination Match",
+        "note": "For the vacant EWF Tag Team Championship.",
+        "eliminations": [
+          {
+            "who": "john-dumas-ewf",
+            "by": "blood-man-ewf",
+            "note": "Blood Man struck him with a steel chair, unseen by the referee, before the cover."
+          },
+          {
+            "who": "chaos-ewf",
+            "by": ["blood-man-ewf", "j-ewf"],
+            "note": "Pinned after Blood Man's Bleeding Blood and J's own J Splash."
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "sides": [["jay-krazy-ewf"], ["turbulence-ewf"]],
+        "winner_side": 1,
+        "note": "The EWF Universal Championship Tournament Final. The referee first called the match for Jay Krazy by disqualification after Turbulence hit him with a chair, but Baz overruled the call from his own office by video feed and ordered the match to continue as No Disqualification; Turbulence busted Jay Krazy open on the Spanish announce table and finished him with a metal baseball bat."
+      }
+    ],
+    "venue": "Joe Louis Arena",
+    "city": "Detroit, Michigan",
+    "notes": "The fed’s first pay-per-view, and the final of its Universal Championship tournament. Blood Man and J were jumped celebrating their new tag titles by Jay Krazy, John Dumas and Chaos; after Turbulence won the Universal Championship, John Dumas ran in, hit him with the Sudden Stop, and draped the belt over the unconscious Jay Krazy rather than Turbulence."
+  },
+  {
+    "id": "ewf-immortality-2003-03-16",
+    "type": "show",
+    "name": "Immortality",
+    "promotion": "ewf",
+    "date": {
+      "date": "2003-03-16",
+      "precision": "exact",
+      "source": "The fed’s own results archive lists three editions of Immortality — “April 13th 2003 / March 16th 2003 / March 9th 2003” (promotions/ewf/archive/results-archive-2003-04.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/ewf/archive/results-archive-2003-04.html",
+        "note": "Named in the fed’s own results archive; the results page behind it was never captured."
+      }
+    ]
+  },
+  {
+    "id": "ewf-immortality-2003-04-13",
+    "type": "show",
+    "name": "Immortality",
+    "promotion": "ewf",
+    "date": {
+      "date": "2003-04-13",
+      "precision": "exact",
+      "source": "The fed’s own results archive lists it, and its newsdesk of the same day says “sunday 13th april Immortality / Results are up and the card shall follow” (promotions/ewf/archive/news-2003.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/ewf/archive/results-archive-2003-04.html",
+        "note": "Named in the fed’s own results archive."
+      },
+      {
+        "source": "promotions/ewf/archive/news-2003.html",
+        "note": "The fed’s own newsdesk, 13 April 2003: “Results are up and the card shall follow.”"
+      }
+    ]
+  },
+  {
+    "id": "ewf-ppv-2003-04-27",
+    "type": "show",
+    "name": "Pay-Per-View, 27 April 2003",
+    "promotion": "ewf",
+    "date": {
+      "date": "2003-04-27",
+      "precision": "exact",
+      "source": "The fed’s own pay-per-view card page: “This PPV will be coming to you Sunday, April 27th!” with a roleplay limit of six and a Sunday 1:00pm GMT deadline (promotions/ewf/archive/ppv-card-2003-04-27.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/ewf/archive/ppv-card-2003-04-27.html",
+        "note": "The fed announced the date, the roleplay limit and the deadline and named no matches; nothing dated after 19 April 2003 survives, and whether the show ran at all is not in the record."
+      }
+    ]
+  }
+]

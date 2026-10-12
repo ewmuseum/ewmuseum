@@ -1,0 +1,37 @@
+[
+  {
+    "id": "nwa-entity-3-us-r001",
+    "title": "nwa-entity-3-us",
+    "label": "Nic Nyce",
+    "holder": [
+      {
+        "id": "nic-nyce-nwa-entity-3"
+      }
+    ],
+    "won": {
+      "date": "1997",
+      "precision": "unknown",
+      "source": "msg_ids 13eq33hs96QJ, 2qEY-gw9dKkJ (SJPW's own \"Control Center\" commentary, 27 Apr and 6 May 1997): \"has held the US title in both the AWA and NWA\" / \"former US champion in both the AWA and NWA\""
+    },
+    "end_how": "still-champion-at-record-end",
+    "note": "Third-party-only evidence: no NWA document of its own names this title or a title match for it. Billed \"Nick Nyce\"/\"Nik Nyce\" in the corroborating source, matching this entity's own \"Nic Nyce\" spelling from the NWA's own community thread."
+  },
+  {
+    "id": "nwa-entity-3-world-r001",
+    "title": "nwa-entity-3-world",
+    "label": "BT",
+    "holder": [
+      {
+        "name": "BT",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997",
+      "precision": "unknown",
+      "source": "msg_id B_NusROpkRoJ (16 Dec 1997 RSPWF Top-200 reminiscence): \"what happened to the NWA? Last I knew BT still held the belt when they folded\""
+    },
+    "end_how": "still-champion-at-record-end",
+    "note": "\"BT\" is the held record's casual reference — initials only, not a full billed name. No NWA document of its own survives naming a title match, card or fuller identification for this holder."
+  }
+]

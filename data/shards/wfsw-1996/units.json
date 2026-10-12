@@ -1,0 +1,49 @@
+[
+ {
+  "id": "the-returners-wfsw-1996",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Returners",
+  "caption": "WFSW's own World Tag Team Champions as of its last surviving broadcast, retaining the belts against a team led by the promotion's own first World Champion.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wfsw-1996",
+    "first_seen": "1996-04-24",
+    "last_seen": "1996-05-01",
+    "role": "tag team",
+    "grade": "primary-source",
+    "source": "The fed's own 23 April 1996 broadcast (Sabin Rene Figaro's own singles match, billed as part of The Returners) and its own 30 April 1996 broadcast, billing them 'STILL WFSW WORLD TAG TEAM CHAMPIONS' after retaining against The Harlequins."
+   },
+   {
+    "promotion": "iiwf",
+    "first_seen": "1996-06-08",
+    "last_seen": "1996-06-08",
+    "grade": "primary-source",
+    "role": "tag team",
+    "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-06-08.html",
+    "note": "Debuted on 8 June 1996 to 'Gangsta's Paradise' with Celes Cole at their side, beating the Barnacle Brothers with a Double Slingshot Suplex; ranked second equal in the tag division in the Report of 11 June. The page names the pairing: \"here are The Returners, Sabin Rene Figaro and Locke Cole!\"."
+   }
+  ],
+  "members": [
+   {
+    "character_id": "sabin-rene-figaro-wfsw-1996",
+    "name": "Sabin Rene Figaro"
+   },
+   {
+    "character_id": "locke-cole-wfsw-1996",
+    "name": "Locke Cole"
+   }
+  ]
+ }
+]

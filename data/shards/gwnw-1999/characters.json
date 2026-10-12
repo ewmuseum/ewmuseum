@@ -1,0 +1,82 @@
+[
+ {
+  "id": "cyris-the-f-n-virus-williams-rspwf",
+  "type": "character",
+  "name": "Cyris \"The F'n Virus\" Williams",
+  "notes": "Known only from the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll. Placings and the poll's own federation tags, verbatim — 1999: #100, tagged GWNW. Carries no tenure entry: none of the tagged federations is a held promotion, and the poll records where a wrestler was tagged, never a run this record could date.",
+  "caption": "Came in at #100 in the RSPWF Top 200 for 1999.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "leon-roberts-mwe"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against leon-roberts-mwe. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200, which gives a ring name and a federation tag and nothing else — no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "gwnw-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-03-02",
+    "last_seen": "1999-03-02",
+    "source": "The promotion's own talent roster (2 March 1999), tagged to the same federation the Top 200 poll already carried for him in 1999."
+   }
+  ]
+ },
+ {
+  "id": "tigerheart-rally-jackson-rspwf",
+  "type": "character",
+  "name": "\"Tigerheart\" Rally Jackson",
+  "notes": "Known only from the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll. Placings and the poll's own federation tags, verbatim — 1999: #43, tagged Hardkore World, GWNW; 2000: #196, tagged Hardkore America; 2004: #32, tagged Hardkore, USJP+, the list's own prior-year note reading (#7). Carries no tenure entry: none of the tagged federations is a held promotion, and the poll records where a wrestler was tagged, never a run this record could date.",
+  "caption": "Placed in three editions of the RSPWF Top 200 — #43 in 1999, #196 in 2000, #32 in 2004 — best at #32.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 3,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jackson-wwa"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against jackson-wwa. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200, which gives a ring name and a federation tag and nothing else — no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "gwnw-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-03-02",
+    "last_seen": "1999-03-05",
+    "source": "The promotion's own talent roster (2 March 1999) and its interfederation deathmatch tournament announcement (5 March 1999), the latter billing him as the promotion's own reigning Heritage Champion and one half of its reigning tag team champions, tagged to the same federation the Top 200 poll already carried for him in 1999."
+   }
+  ]
+ }
+]

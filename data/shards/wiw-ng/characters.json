@@ -1,0 +1,3134 @@
+[
+ {
+  "id": "shane-slade-wiw-ng",
+  "type": "character",
+  "name": "Shane Slade",
+  "caption": "The New Breed's World Champion, who won the WIW World Title for the third time on 26 July 2002 and lost it on 18 August to The End.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 7,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2000-12-05",
+    "last_seen": "2002-08-18",
+    "record_declared": {
+     "w": 20,
+     "l": 14,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "8 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "the-end-wiw-ng",
+  "type": "character",
+  "name": "The End",
+  "caption": "A New York City technical high flyer managed by Emily Veil, who held the Intercontinental Title from 9 June to 26 July 2002 and the World Title from 18 August 2002 while feuding with the New Breed and Erik Erratic.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-03-18",
+    "last_seen": "2002-08-18",
+    "height": "6'1\"",
+    "weight": "223 lbs",
+    "hometown": "New York City, New York",
+    "alignment": "Face",
+    "finisher": "The Legender, the Last Word, the Unballancer",
+    "entrance_music": {
+     "verbatim": "Dose by Filter"
+    },
+    "style": "Technical High Flyer",
+    "manager": "Emily Veil",
+    "record_declared": {
+     "w": 21,
+     "l": 9,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 8 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-end-acw",
+     "the-end-pure",
+     "the-end-xcwf"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "eto-wiw-ng",
+  "type": "character",
+  "name": "e.T.o.",
+  "caption": "A face and one half of the original FreeLANCERS with The End, who held the WIW World Title from 3 to 21 June 2002 and was booked against Jason Chae with the ownership of the company on the line.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-03",
+    "last_seen": "2002-08-13",
+    "height": "6'4\"",
+    "weight": "220 lbs",
+    "hometown": "Daytona Beach, Florida",
+    "alignment": "Face",
+    "finisher": "Even Flow DDT",
+    "entrance_music": {
+     "verbatim": "\"Even Flow\" by Pearl Jam"
+    },
+    "style": "Open",
+    "record_declared": {
+     "w": 17,
+     "l": 9,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 8 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "dru-jacobs-wiw-ng",
+  "type": "character",
+  "name": "Dru Jacobs",
+  "caption": "\"Original Chaos\" Dru Jacobs, a speedy high flyer billed from Omaha who ran with Erik Erratic and beat Shane Slade with the Original Chaos on Chaos of 23 July 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-08-13",
+    "height": "6'2\"",
+    "weight": "225 lbs",
+    "hometown": "Omaha, Nebraska",
+    "alignment": "Neutral",
+    "finisher": "Chaos Haze",
+    "entrance_music": {
+     "verbatim": "\"Across the Nation\" by Union Underground"
+    },
+    "style": "Speedy, High Flying",
+    "record_declared": {
+     "w": 4,
+     "l": 3,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 7 of its own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "golden-hammer-wiw-ng",
+  "type": "character",
+  "name": "Golden Hammer",
+  "caption": "A 6'7\" face billed from Tampa Bay who took Crazy Cooper's place in the Last Man Standing tournament and carried a golden sledge hammer through August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-08-13",
+    "height": "6'7\"",
+    "weight": "279 lbs",
+    "hometown": "Tampa Bay, Florida",
+    "alignment": "Face",
+    "finisher": "The Golden Steed",
+    "entrance_music": {
+     "verbatim": "\"Fresh and Clean\" by Outkast"
+    },
+    "style": "Open",
+    "record_declared": {
+     "w": 4,
+     "l": 2,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 6 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "j-woods-wiw-ng",
+  "type": "character",
+  "name": "J Woods",
+  "caption": "A Liverpool-billed technical wrestler who made the Renegades with Shorty the Pimp, wrote the weekly column Words from Woods and was caught bribing a head referee on Showdown of 2 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-01-22",
+    "last_seen": "2002-08-13",
+    "height": "6'0\"",
+    "weight": "220 lbs",
+    "hometown": "Liverpool, UK",
+    "alignment": "Neutral",
+    "finisher": "Buzzkiller",
+    "entrance_music": {
+     "verbatim": "\"Beautiful Day\" by U2"
+    },
+    "style": "Technical",
+    "record_declared": {
+     "w": 14,
+     "l": 10,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 8 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "shorty-the-pimp-wiw-ng",
+  "type": "character",
+  "name": "Shorty the Pimp",
+  "caption": "One half of the Renegades with J Woods, an Indianapolis-billed technical brawler who finished with the Hater's Destiny and is named the fed's United States Champion on its November 2002 champions list.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "height": "6'3\"",
+    "weight": "265 lbs",
+    "hometown": "Indianapolis, In",
+    "alignment": "Neutral",
+    "finisher": "Hater's Destiny/One Night Stand",
+    "entrance_music": {
+     "verbatim": "\"Ballin Boyz\" by No Good"
+    },
+    "style": "Technical, Brawler",
+    "record_declared": {
+     "w": 11,
+     "l": 8,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 6 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "travis-smallz-wiw-ng",
+  "type": "character",
+  "name": "Travis Smallz",
+  "caption": "A Jersey City brawler who debuted on Chaos of 23 July 2002 beside Johnny Sikah and beat Doug Stone, Shorty the Pimp and Deke Aurora across his first month.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-23",
+    "last_seen": "2002-08-13",
+    "height": "6'3\"",
+    "weight": "212 lbs",
+    "hometown": "Jersey City, NJ",
+    "alignment": "Heel",
+    "finisher": "Stranger's Slam",
+    "entrance_music": {
+     "verbatim": "\"Wherever I May Roam\" By Metallica"
+    },
+    "style": "Brawler, Powerhouse",
+    "record_declared": {
+     "w": 4,
+     "l": 2,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 6 of its own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "johnny-plague-sikah-wiw-ng",
+  "type": "character",
+  "name": "Johnny \"Plague\" Sikah",
+  "caption": "A Brooklyn hardcore brawler managed by Summer Anison, who debuted on Chaos of 23 July 2002 and fought Chris Storm and Trauma through August.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-23",
+    "last_seen": "2002-08-13",
+    "height": "6'2\"",
+    "weight": "227 lbs",
+    "hometown": "Brooklyn, NY",
+    "alignment": "Heel",
+    "finisher": "Black Plague",
+    "entrance_music": {
+     "verbatim": "\"Leper Messiah\" by Metallica"
+    },
+    "style": "Hardcore, Brawler",
+    "manager": "Summer Anison",
+    "record_declared": {
+     "w": 3,
+     "l": 2,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 4 of its own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "bryan-statis-wiw-ng",
+  "type": "character",
+  "name": "Bryan Statis",
+  "caption": "A Manhattan-billed brawler who made his in-ring debut on Showdown of 26 July 2002 and won the Television Title four days later, on 30 July.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-23",
+    "last_seen": "2002-08-18",
+    "height": "6'1\"",
+    "weight": "242 lbs",
+    "hometown": "Manhattan, NY",
+    "alignment": "Neutral",
+    "finisher": "Recall",
+    "entrance_music": {
+     "verbatim": "\"Episode 666\" by In Flames"
+    },
+    "style": "Brawler/Technical",
+    "record_declared": {
+     "w": 3,
+     "l": 1,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 5 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bryan-statis-faw"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "trauma-wiw-ng",
+  "type": "character",
+  "name": "Trauma",
+  "caption": "A Compton-billed powerhouse managed by Ric Waters, who took the Television Title on 23 July 2002, was revealed as Summer Anison's kidnapper and shared the Hardcore Title with RaZeR at Wrestlefest II.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-09",
+    "height": "6'1\"",
+    "weight": "260 lbs",
+    "hometown": "East Compton",
+    "alignment": "Heel",
+    "finisher": "Traumatized",
+    "entrance_music": {
+     "verbatim": "\"Click, Click, Boom\" By Saliva"
+    },
+    "style": "Powerhouse",
+    "manager": "Ric Waters",
+    "record_declared": {
+     "w": 6,
+     "l": 5,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 5 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "the-constable-wiw-ng",
+  "type": "character",
+  "name": "The Constable",
+  "caption": "A Canadian lawman gimmick in a red Mountie uniform and finisher of the Adjudicator, whose summer 2002 feud with the fed's referees cost him the Television Title and ran through Last Man Standing.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "record_declared": {
+     "w": 7,
+     "l": 6,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "8 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "lsd-wiw-ng",
+  "type": "character",
+  "name": "LSD",
+  "caption": "A Boston brawler managed by Pablo Nezazi who finished with the Acid Haze and beat Da D'Mon with it on Showdown of 9 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-08-09",
+    "height": "5'11\"",
+    "weight": "276 lbs",
+    "hometown": "Boston",
+    "alignment": "Heel",
+    "finisher": "Acid Haze",
+    "entrance_music": {
+     "verbatim": "\"Citizen Erased\" by Muse"
+    },
+    "style": "Brawlng",
+    "manager": "\"Manical Mafia Man\" Pablo Nezazi",
+    "record_declared": {
+     "w": 2,
+     "l": 2,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 3 of its own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lsd-fsw-thefsw-2000"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "sean-quinn-wiw-ng",
+  "type": "character",
+  "name": "Sean Quinn",
+  "caption": "A Detroit technical high flyer who finished with the Bloody Mary and won on Showdown on 2 and 9 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-09",
+    "height": "5'11''",
+    "weight": "220 lbs.",
+    "hometown": "Detroit. Michigan",
+    "alignment": "Heel",
+    "finisher": "The Bloody Mary and Dragon Clutch",
+    "entrance_music": {
+     "verbatim": "\"American Psycho\" by D12"
+    },
+    "style": "Technical High-flyer",
+    "record_declared": {
+     "w": 2,
+     "l": 1,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 3 of its own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sean-quinn",
+     "sean-quinn-awc-2005"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "christian-niels-wiw-ng",
+  "type": "character",
+  "name": "Christian Niels",
+  "caption": "A seven-foot, 335-pound German billed from Freiburg and managed by Johannes, who carried a German flag to the ring and took the Television Title on 18 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-18",
+    "height": "7'0\"",
+    "weight": "335 lbs",
+    "hometown": "Freiburg, Germany",
+    "alignment": "Heel",
+    "finisher": "Stolz-Mörder (Pride Killer)",
+    "entrance_music": {
+     "verbatim": "\"Engel\" by Rammstein"
+    },
+    "style": "Brawler, Powerhouse, Technical",
+    "manager": "Johannes",
+    "record_declared": {
+     "w": 3,
+     "l": 0,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 4 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "jahan-iranian-wiw-ng",
+  "type": "character",
+  "name": "Jahan Iranian",
+  "caption": "A high flyer billed from Tehran, the fed's only Iranian wrestler, who debuted on Chaos of 6 August 2002 and beat Ripcord on Showdown of 9 August.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-06",
+    "last_seen": "2002-08-13",
+    "height": "6'0\"",
+    "weight": "202 lbs.",
+    "hometown": "Tehran, Iran",
+    "alignment": "Face",
+    "finisher": "Highway Robbery",
+    "entrance_music": {
+     "verbatim": "\"Be Khatere Tou\" by Mansour"
+    },
+    "style": "High Flying",
+    "record_declared": {
+     "w": 2,
+     "l": 1,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 3 of its own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "kuff-mcslade-wiw-ng",
+  "type": "character",
+  "name": "Kuff McSlade",
+  "caption": "A powerhouse billed from Atlanta and managed by Bostwhick, who attacked Johnny Fame with a barbed-wire baseball bat on Chaos of 6 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-06",
+    "height": "6'7\"",
+    "weight": "286 lbs.",
+    "hometown": "Atlanta, Georgia",
+    "alignment": "Heel",
+    "finisher": "The Apocalypse and The X Kick",
+    "entrance_music": {
+     "verbatim": "\"Hell March\" by Whatever"
+    },
+    "style": "Powerhouse/Martial Arts",
+    "manager": "Bostwhick",
+    "record_declared": {
+     "w": 0,
+     "l": 1,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 2 of its own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kuff-mcslade",
+     "kuff-mcslade-awc-2005",
+     "kuff-mcslade-bdw",
+     "kuff-mcslade-gw"
+    ],
+    "note": "Distinct pending a verdict: the DWO's own Travesty of 10 July 2003 brings its Kuff McSlade out with Bostwhick, the manager WIW:NG's own bio names, and AWC's 2005 Kuff McSlade is billed from Atlanta as a Powerhouse/Martial Arts wrestler, as this one is."
+   }
+  ]
+ },
+ {
+  "id": "larry-stone-wiw-ng",
+  "type": "character",
+  "name": "Larry Stone",
+  "caption": "One half of Heavy Metal with his brother Doug, a Detroit rock-and-roll gimmick managed by Lisa XXX and Stacee, who held the Hardcore Title from 16 to 23 July 2002 and took the United States Title from Ripcord on 19 July.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-05-09",
+    "last_seen": "2002-08-13",
+    "hometown": "Detroit, Michigan",
+    "height": "6'4\"",
+    "weight": "235 lbs",
+    "alignment": "Face",
+    "entrance_music": {
+     "verbatim": "\"Detroit Rock City\" by Kiss"
+    },
+    "style": "Open",
+    "finisher": "M.T.V.",
+    "manager": "Lisa XXX and Stacee",
+    "record_declared": {
+     "w": 15,
+     "l": 7,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own joint roster bio page, captured 31 August 2002; 7 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "doug-stone-wiw-ng",
+  "type": "character",
+  "name": "Doug Stone",
+  "caption": "One half of Heavy Metal with his brother Larry, a Detroit rock-and-roll gimmick managed by Lisa XXX and Stacee.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-13",
+    "hometown": "Detroit, Michigan",
+    "height": "6'3\"",
+    "weight": "237 lbs",
+    "alignment": "Face",
+    "entrance_music": {
+     "verbatim": "\"Detroit Rock City\" by Kiss"
+    },
+    "style": "Open",
+    "finisher": "M.T.V.",
+    "manager": "Lisa XXX and Stacee",
+    "record_declared": {
+     "w": 1,
+     "l": 1,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own joint roster bio page, captured 31 August 2002; 4 of its own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "doug-stone-newa-hub-1997"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "lox-wiw-ng",
+  "type": "character",
+  "name": "Lox",
+  "caption": "Legionnaire of Xtreme, a Boston hardcore high flyer and two-time Television Champion who stepped into the front office as vice president and director of operations.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "first_seen": "2000-05-26",
+    "last_seen": "2002-04-01",
+    "height": "6'3''",
+    "weight": "240 lbs.",
+    "hometown": "Boston, Massachusetts",
+    "alignment": "Neutral",
+    "finisher": "Lox Buster",
+    "entrance_music": {
+     "verbatim": "\"Grindin\" by ???"
+    },
+    "style": "Hardcore High-flyer",
+    "record_declared": {
+     "w": 23,
+     "l": 7,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; its own title histories",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lox-dwo"
+    ],
+    "note": "Distinct pending a verdict: the DWO's own news of December 2002 has its Lox win with 'his infamous LOX Buster', the finisher WIW:NG's own bio gives this Lox."
+   }
+  ]
+ },
+ {
+  "id": "arioc-the-fallen-wiw-ng",
+  "type": "character",
+  "name": "Arioc The Fallen",
+  "caption": "A Chicago neutral who finished with the Desire To Fire and stood 1-0 on the fed's August 2002 roster.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'11\"",
+    "weight": "195 lbs",
+    "hometown": "Chicago, Illinois",
+    "alignment": "Neutral",
+    "finisher": "Desire To Fire",
+    "entrance_music": {
+     "verbatim": "\"Toxicity\" by System Of A Down"
+    },
+    "record_declared": {
+     "w": 1,
+     "l": 0,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002",
+    "grade": "primary-source",
+    "first_seen": "2002-08-21",
+    "last_seen": "2002-08-31"
+   }
+  ]
+ },
+ {
+  "id": "da-dmon-wiw-ng",
+  "type": "character",
+  "name": "Da D'Mon",
+  "caption": "A 6'10\", 305-pound face managed by Frank Van Cruyff, who beat Larry Stone for the Hardcore Title on 23 July 2002 and was still its holder on the fed's November list.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "height": "6'10\"",
+    "weight": "305 lbs",
+    "hometown": "Unknown",
+    "alignment": "Face",
+    "finisher": "D'Mon Driver",
+    "entrance_music": {
+     "verbatim": "\"Tempus Vernum\" by Enya"
+    },
+    "style": "Open",
+    "manager": "Frank Van Cruyff",
+    "record_declared": {
+     "w": 5,
+     "l": 9,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster bio page, captured 31 August 2002; 6 of its own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "cyclops-snake-wiw-ng",
+  "type": "character",
+  "name": "Cyclops Snake",
+  "caption": "The Legendary Mercenary, who took the Television Title at Wrestlefest II on 9 June 2002 and returned on Chaos of 13 August 2002 to run Christian Niels and Johannes out of the ring.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "record_declared": {
+     "w": 9,
+     "l": 8,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "2 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "ripcord-wiw-ng",
+  "type": "character",
+  "name": "Ripcord",
+  "caption": "A technical wrestler who held the Intercontinental Title in April 2002 and the United States Title until Larry Stone took it on 19 July 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-03-03",
+    "last_seen": "2002-08-09",
+    "record_declared": {
+     "w": 9,
+     "l": 8,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "3 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "kris-ryder-wiw-ng",
+  "type": "character",
+  "name": "Kris Ryder",
+  "caption": "A newcomer who beat Kuff McSlade with the Joy Ryde on Showdown of 2 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-09",
+    "record_declared": {
+     "w": 1,
+     "l": 1,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "2 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "johnny-fame-wiw-ng",
+  "type": "character",
+  "name": "Johnny Fame",
+  "caption": "A newcomer who ran in on Kuff McSlade on Showdown of 2 August 2002, won his Chaos debut with The Fame on 6 August and is named the fed's Television Champion on its November 2002 champions list.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-06",
+    "record_declared": {
+     "w": 1,
+     "l": 0,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "2 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "johnny-fame-xcwf"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "sam-sykes-wiw-ng",
+  "type": "character",
+  "name": "Sam Sykes",
+  "caption": "The owner of the now defunct XWO, who came back at the end of July 2002 to attack the New Breed and lost to Shane Slade on Showdown of 2 August in his first match back.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "record_declared": {
+     "w": 0,
+     "l": 2,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "4 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "the-unknown-wiw-ng",
+  "type": "character",
+  "name": "The Unknown",
+  "caption": "A masked wrestler who claimed to be an active member of the WIW roster, attacked the fed's main-event wrestlers through July 2002 and joined the New Breed on 2 August.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-08-13",
+    "record_declared": {
+     "w": 1,
+     "l": 4,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "7 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "pcp-wiw-ng",
+  "type": "character",
+  "name": "PCP",
+  "caption": "LSD's friend and partner, who joined LSD's attack on Da D'Mon on Showdown of 9 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-09",
+    "last_seen": "2002-08-09",
+    "record_declared": {
+     "w": 0,
+     "l": 0,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "jole-tempest-wiw-ng",
+  "type": "character",
+  "name": "Jole Tempest",
+  "caption": "A two-time WIW World Champion and a New Breed member, who broke a leg at Wrestlefest II on 9 June 2002 and was suspended by Jason Chae in July.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2000-05-14",
+    "last_seen": "2002-07-26",
+    "source": "3 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "jon-e-mazing-wiw-ng",
+  "type": "character",
+  "name": "Jon E. Mazing",
+  "caption": "'The Future', a former Intercontinental Champion put into a coma by a car accident in July 2002, who joined the New Breed at Wrestlefest II.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-12-14",
+    "last_seen": "2002-07-26",
+    "source": "4 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "masked-magician-wiw-ng",
+  "type": "character",
+  "name": "Masked Magician",
+  "caption": "A former Intercontinental, Television and Hardcore Champion who left the XWO at Wrestlefest II to reform the Army of Darkness.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-12-14",
+    "last_seen": "2002-06-09",
+    "source": "one of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "krazy-kris-wiw-ng",
+  "type": "character",
+  "name": "Krazy Kris",
+  "caption": "The XWO World Champion at Wrestlefest II on 9 June 2002, who lost it there to Erik Erratic.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 4,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-01-29",
+    "last_seen": "2002-06-09",
+    "source": "one of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "ppk-wiw-ng",
+  "type": "character",
+  "name": "P.P.K.",
+  "caption": "Television Champion when Wrestlefest II opened, managed by FonZo, who lost the title to Cyclops Snake in an I Quit match on 9 June 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-04-14",
+    "last_seen": "2002-06-09",
+    "source": "one of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "razer-wiw-ng",
+  "type": "character",
+  "name": "RaZeR",
+  "caption": "One of the two Hardcore Champions declared at Wrestlefest II on 9 June 2002, when he and Trauma escaped the junkyard fence together.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2000-12-01",
+    "last_seen": "2002-06-17",
+    "source": "one of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "brian-corven-wiw-ng",
+  "type": "character",
+  "name": "Brian Corven",
+  "caption": "Hardcore Champion until Wrestlefest II on 9 June 2002, who returned on Chaos of 13 August 2002 and lost to The Constable.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-03-07",
+    "last_seen": "2002-08-13",
+    "source": "2 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "crazy-cooper-wiw-ng",
+  "type": "character",
+  "name": "Crazy Cooper",
+  "caption": "A tournament entrant for Last Man Standing who was fired from the fed in July 2002 and replaced by Golden Hammer.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-07-23",
+    "source": "3 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "gladiator-wiw-ng",
+  "type": "character",
+  "name": "Gladiator",
+  "caption": "An XWO wrestler who debuted on Showdown of 19 July 2002 with a win over Commander and Shadow and was released after losing a tag match on Chaos of 23 July.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-07-23",
+    "source": "2 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "alexander-pwf",
+     "gladiator-cswa",
+     "gladiator-lvw",
+     "gladiator-nfw"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "shadow-wiw-ng",
+  "type": "character",
+  "name": "Shadow",
+  "caption": "A gothic ritualist who took the comatose Mazing from his hospital bed in July 2002 and was stopped by Chris Storm on Showdown of 26 July.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2000-05-20",
+    "last_seen": "2002-07-26",
+    "source": "3 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "shadow-ccw",
+     "shadow-decw",
+     "shadow-fwg-2001",
+     "shadow-hcw",
+     "shadow-ilpw-1999",
+     "shadow-prime-2003",
+     "shadow-pww-worldwide",
+     "shadow-sccw-2005"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "commander-wiw-ng",
+  "type": "character",
+  "name": "Commander",
+  "caption": "An XWO wrestler and former Intercontinental and Hardcore Champion who lost a triple threat on Showdown of 19 July 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-01-09",
+    "last_seen": "2002-07-19",
+    "source": "one of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "deke-aurora-wiw-ng",
+  "type": "character",
+  "name": "Deke Aurora",
+  "caption": "A Canadian-born wrestler billed Mister Infamous who toured Japan and lost to Johnny Sikah and Travis Smallz in his first weeks on the card.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-23",
+    "last_seen": "2002-07-26",
+    "source": "2 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "deke-aurora"
+    ],
+    "note": "Distinct pending a verdict: GIWF's own Global of 24 May 2000 bills its Deke Aurora as 'Mr Infamous', the nickname WIW:NG's own cards give this one; nothing held names both federations."
+   }
+  ]
+ },
+ {
+  "id": "black-baron-wiw-ng",
+  "type": "character",
+  "name": "Black Baron",
+  "caption": "A newcomer who lost his WIW debut to Bryan Statis on Showdown of 26 July 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-26",
+    "last_seen": "2002-07-26",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "shane-andrews-wiw-ng",
+  "type": "character",
+  "name": "Shane Andrews",
+  "caption": "A bald, goateed newcomer who lost to The Constable on Showdown of 19 July and to Shorty the Pimp on 26 July 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-07-26",
+    "source": "2 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "shane-andrews-chz",
+     "shane-andrews-mwa-midwest-2000"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "maurice-dream-wiw-ng",
+  "type": "character",
+  "name": "Maurice Dream",
+  "caption": "A newcomer who lost to Jahan Iranian on Chaos of 6 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-06",
+    "last_seen": "2002-08-06",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "dark-knight-wiw-ng",
+  "type": "character",
+  "name": "Dark Knight",
+  "caption": "A newcomer who lost to Johnny Fame on Chaos of 6 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-06",
+    "last_seen": "2002-08-06",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dark-knight-cswa",
+     "dark-knight-swl-1997b"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "brett-steiger-wiw-ng",
+  "type": "character",
+  "name": "Brett Steiger",
+  "caption": "A wrestler who lost a triple threat to The Constable on Chaos of 13 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-13",
+    "last_seen": "2002-08-13",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "johnny-molson-wiw-ng",
+  "type": "character",
+  "name": "Johnny Molson",
+  "caption": "A hockey gimmick managed by Gaston 'Coach' Lemieux, who lost to Sean Quinn on Showdown of 2 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-02",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "sean-brovetsky-wiw-ng",
+  "type": "character",
+  "name": "Sean Brovetsky",
+  "caption": "The last man standing in the Hell in a Cell battle royal at Wrestlefest II on 9 June 2002, which earned him a Television Title shot.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-06-09",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "hawk-erickson-wiw-ng",
+  "type": "character",
+  "name": "Hawk Erickson",
+  "caption": "A wrestler who powerbombed TeeMac through the top of the cell in the Hell in a Cell battle royal at Wrestlefest II and was among its last two eliminated.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-06-09",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "mr-showtime-wiw-ng",
+  "type": "character",
+  "name": "Mr. Showtime",
+  "caption": "Half of a team with The Constable in the XWO Tag Team Title gauntlet at Wrestlefest II on 9 June 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-06-09",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mr-showtime-dw",
+     "mr-showtime-pcw",
+     "mr-showtime-rawf",
+     "roker-showtime"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "flame-wiw-ng",
+  "type": "character",
+  "name": "Flame",
+  "caption": "Da D'Mon's partner in the XWO Tag Team Title gauntlet at Wrestlefest II on 9 June 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source",
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-06-09"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "flame-cswa",
+     "flame-cwo",
+     "flame-ewa",
+     "flame-ewa-email",
+     "flame-rspwf",
+     "flame-wwef-2000"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "scorpion-wiw-ng",
+  "type": "character",
+  "name": "Scorpion",
+  "caption": "Half of No Way Out with The Stallion in the XWO Tag Team Title gauntlet at Wrestlefest II on 9 June 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source",
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-06-09"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scorpion-aewa",
+     "scorpion-ccw",
+     "scorpion-ewa",
+     "scorpion-faw",
+     "scorpion-fsw-thefsw-2000",
+     "scorpion-giwf-titans-1998",
+     "scorpion-pcw",
+     "scorpion-sbs"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "the-stallion-wiw-ng",
+  "type": "character",
+  "name": "The Stallion",
+  "caption": "Half of No Way Out with Scorpion, and an entrant in the Hell in a Cell battle royal at Wrestlefest II on 9 June 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source",
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-06-09"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "stallion-shootfire-pro-1999"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "benshaw-wiw-ng",
+  "type": "character",
+  "name": "Benshaw",
+  "caption": "A 350-pound hall of famer and the fed's first Television Champion, named interim head referee in August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 5,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler",
+     "referee"
+    ],
+    "first_seen": "2000-01-31",
+    "last_seen": "2002-08-13",
+    "source": "2 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "joe-average-wiw-ng",
+  "type": "character",
+  "name": "Joe Average",
+  "caption": "'The Average Man', a retired fan favorite who held the World Title from 3 February to 12 March 2000 and the Hardcore Title and tag gold across 1999 and 2000.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-06-13",
+    "last_seen": "2000-03-12",
+    "source": "WIW:NG's own title histories",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "joe-average-team"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "michael-j-wiw-ng",
+  "type": "character",
+  "name": "Michael J",
+  "caption": "The fed's first three-time World Champion, who later served as its vice president for over a year.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "first_seen": "1999-08-01",
+    "last_seen": "2000-07-10",
+    "source": "WIW:NG's own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "mystikal-wiw-ng",
+  "type": "character",
+  "name": "Mystikal",
+  "caption": "One of the fed's first wrestlers, allied with Gates and a tag partner of Chaos as the Natural Disasters, who held the World Title in August 1999 and again from 18 February to 1 April 2001.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-06-25",
+    "last_seen": "2001-04-01",
+    "source": "WIW:NG's own title histories",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mystikal-nawf-1998a",
+     "mystikal-rspwf",
+     "mystikal-wcotw"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "jason-chae-wiw-ng",
+  "type": "character",
+  "name": "Jason Chae",
+  "caption": "The fed's on-air president and owner, who led the New Breed with Shane Slade through the summer of 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-08-13",
+    "source": "7 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "eddie-gigante-wiw-ng",
+  "type": "character",
+  "name": "Eddie Gigante",
+  "caption": "The fed's play-by-play man for Chaos and its pay-per-view events.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "source": "4 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "dan-selito-wiw-ng",
+  "type": "character",
+  "name": "Dan Selito",
+  "caption": "The fed's play-by-play man for Showdown.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "source": "7 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "chris-clybor-wiw-ng",
+  "type": "character",
+  "name": "Chris Clybor",
+  "caption": "The fed's color commentator, who lost his Chaos booth seat to Joey Bear in August 2002; the Clybor its Hardcore Title history lists as champion from 27 January to 14 February 2000 is presumably him.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2000-01-27",
+    "last_seen": "2002-08-13",
+    "source": "7 of WIW:NG's own results pages, served under this wing; its own title histories",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "joey-bear-wiw-ng",
+  "type": "character",
+  "name": "Joey Bear",
+  "caption": "The color commentator hired for Chaos on 6 August 2002 to replace Chris Clybor.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2002-08-06",
+    "last_seen": "2002-08-13",
+    "source": "2 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "emily-veil-wiw-ng",
+  "type": "character",
+  "name": "Emily Veil",
+  "caption": "The End's manager, who walked out on him on Chaos of 13 August 2002 after a tape engineered by Erik Erratic.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "source": "6 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "summer-anison-wiw-ng",
+  "type": "character",
+  "name": "Summer Anison",
+  "caption": "Johnny Sikah's manager, kidnapped in early August 2002 by a figure shown to be Trauma and found tied to a chair on Showdown of 9 August.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-07-23",
+    "last_seen": "2002-08-09",
+    "source": "3 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "lisa-xxx-wiw-ng",
+  "type": "character",
+  "name": "Lisa XXX",
+  "caption": "A former adult film actress who managed Larry and Doug Stone of Heavy Metal with Stacee.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "source": "5 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "stacee-wiw-ng",
+  "type": "character",
+  "name": "Stacee",
+  "caption": "A former exotic dancer who managed Larry and Doug Stone of Heavy Metal with Lisa XXX.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "source": "5 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "ric-waters-wiw-ng",
+  "type": "character",
+  "name": "Ric Waters",
+  "caption": "Trauma's manager.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-07-23",
+    "source": "2 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "frank-van-cruyff-wiw-ng",
+  "type": "character",
+  "name": "Frank Van Cruyff",
+  "caption": "Da D'Mon's Dutch manager, kidnapped on Showdown of 26 July 2002, held by Dru Jacobs and freed by Da D'Mon on 2 August.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-07-23",
+    "last_seen": "2002-08-13",
+    "source": "5 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "johannes-wiw-ng",
+  "type": "character",
+  "name": "Johannes",
+  "caption": "Christian Niels's short, heavy German manager.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-08-06",
+    "last_seen": "2002-08-13",
+    "source": "3 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "jessica-wiw-ng",
+  "type": "character",
+  "name": "Jessica",
+  "caption": "Travis Smallz's manager as of Showdown of 9 August 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-08-09",
+    "last_seen": "2002-08-09",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jessica-pcw",
+     "jessica-sledge-ewa",
+     "jessica-uwf",
+     "jessica-wwa"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "fonzo-wiw-ng",
+  "type": "character",
+  "name": "FonZo",
+  "caption": "P.P.K.'s manager, who chaired Cyclops Snake into unconsciousness at Wrestlefest II.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-06-09",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "gaston-lemieux-wiw-ng",
+  "type": "character",
+  "name": "Gaston Lemieux",
+  "caption": "Johnny Molson's hockey coach and manager.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-02",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "kim-simpson-wiw-ng",
+  "type": "character",
+  "name": "Kim Simpson",
+  "caption": "A backstage interviewer whose relationship with Chris Storm was an August 2002 angle.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-13",
+    "source": "3 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "steve-sanders-wiw-ng",
+  "type": "character",
+  "name": "Steve Sanders",
+  "caption": "A backstage interviewer and former independent wrestler.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "2002-07-26",
+    "last_seen": "2002-07-26",
+    "source": "one of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "steve-sanders-dzw-2001",
+     "steve-sanders-giwf"
+    ],
+    "note": "Shares a bare ring name with records in other wings; nothing in this wing's own pages ties it to any of them, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "peter-castle-wiw-ng",
+  "type": "character",
+  "name": "Peter Castle",
+  "caption": "A small, bespectacled backstage interviewer.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-07-26",
+    "source": "2 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "joseph-howard-wiw-ng",
+  "type": "character",
+  "name": "Joseph Howard",
+  "caption": "The fed's head referee until August 2002, caught in a bribery exchange with J Woods.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-06",
+    "source": "5 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "kenny-kerns-wiw-ng",
+  "type": "character",
+  "name": "Kenny Kerns",
+  "caption": "A WIW referee who worked the main events of Showdown and Chaos in summer 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-09",
+    "source": "5 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "travis-ware-wiw-ng",
+  "type": "character",
+  "name": "Travis Ware",
+  "caption": "A WIW referee who worked Chaos of 23 July and Showdown of 26 July 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "source": "7 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "bastion-dulsey-wiw-ng",
+  "type": "character",
+  "name": "Bastion Dulsey",
+  "caption": "A referee whose fast count gave Trauma the Television Title on Chaos of 23 July 2002 and who hit The Constable with a chair on 13 August.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2002-07-23",
+    "last_seen": "2002-08-13",
+    "source": "2 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "bob-carr-wiw-ng",
+  "type": "character",
+  "name": "Bob Carr",
+  "caption": "A WIW referee who worked Showdown matches in summer 2002.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2002-06-09",
+    "last_seen": "2002-08-13",
+    "source": "4 of WIW:NG's own results pages, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "da-playboy-pimp-wiw-ng",
+  "type": "character",
+  "name": "Da Playboy Pimp",
+  "caption": "A wrestler listed on the fed's active roster of 21 August 2002 at 0-0, with no card or bio of his held.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-21",
+    "last_seen": "2002-08-21",
+    "record_declared": {
+     "w": 0,
+     "l": 0,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster page, captured 21 August 2002, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "rick-velocity-wiw-ng",
+  "type": "character",
+  "name": "Rick Velocity",
+  "caption": "A wrestler listed on the fed's active roster of 21 August 2002 at 0-0, with no card or bio of his held.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-21",
+    "last_seen": "2002-08-21",
+    "record_declared": {
+     "w": 0,
+     "l": 0,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster page, captured 21 August 2002, served under this wing",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rick-velocity"
+    ],
+    "note": "Shares a bare ring name with a record in another wing; nothing in this wing's own pages ties it to that one, so it is filed apart under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "tommy-air-wiw-ng",
+  "type": "character",
+  "name": "Tommy Air",
+  "caption": "A wrestler listed on the fed's active roster of 21 August 2002 at 0-0, with no card or bio of his held.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-21",
+    "last_seen": "2002-08-21",
+    "record_declared": {
+     "w": 0,
+     "l": 0,
+     "d": 0,
+     "source": "the fed's own roster page, captured 21 August 2002 (overall record)"
+    },
+    "source": "WIW:NG's own roster page, captured 21 August 2002, served under this wing",
+    "grade": "primary-source"
+   }
+  ]
+ }
+]

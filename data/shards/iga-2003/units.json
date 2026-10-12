@@ -1,0 +1,588 @@
+[
+ {
+  "id": "monster-factory-iga-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Monster Factory",
+  "membership_unknown": true,
+  "caption": "A tag team billed against a rival federation's own champions for both promotions' tag team titles on a September 2004 crossover supercard.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2004-09-04",
+    "last_seen": "2004-09-04",
+    "source": "the promotion's own crossover supercard lineup, 4 September 2004",
+    "note": "Billed in a double tag team title match against a rival federation's own champions, with both promotions' own tag titles at stake; the team's own individual members are not named in the surviving document."
+   }
+  ]
+ },
+ {
+  "id": "forever-unchained-iga-2003",
+  "type": "unit",
+  "name": "Forever Unchained",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Mark Davenport",
+    "character_id": "mark-davenport-rspwf"
+   },
+   {
+    "name": "Pandemonium",
+    "character_id": "pandemonium-rspwf"
+   }
+  ],
+  "aka": [
+   "Unchained Forever"
+  ],
+  "caption": "Mark Davenport and Pandemonium, the first IGA World Tag Team Champions, who defended the belts in a triangle match, a steel cage and against Carl Blair and Jarred Bombay in late 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-09-26",
+    "last_seen": "2001-12-12",
+    "role": "tag team",
+    "source": "the promotion's served cards of September to December 2001"
+   }
+  ]
+ },
+ {
+  "id": "the-dynasty-iga-2003",
+  "type": "unit",
+  "name": "The Dynasty",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Jazz Madison",
+    "character_id": "jazz-madison-iga-2003"
+   },
+   {
+    "name": "The Expert Matt Allen",
+    "character_id": "the-expert-matt-allen-rspwf"
+   },
+   {
+    "name": "Maxime St. Jean",
+    "character_id": "maxime-st-jean-rspwf"
+   },
+   {
+    "name": "Sean Smith",
+    "character_id": "sean-smith-rspwf"
+   },
+   {
+    "name": "The New Legend Kenneth Morlock",
+    "character_id": "kenneth-morlock-wet-1999"
+   },
+   {
+    "name": "Your True Life Fantasy Carl Blair",
+    "character_id": "your-true-life-fantasy-carl-blair-rspwf"
+   }
+  ],
+  "aka": [
+   "Madison Dynasty"
+  ],
+  "caption": "Jazz Madison's faction, the Madison Dynasty, which took shape around the world champion Matt Allen at The Battle for Fort Knox and fought Team Estrago in a cage at Devil's Night.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-07-10",
+    "last_seen": "2001-12-23",
+    "role": "stable",
+    "source": "the promotion's served cards of July to December 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-dynasty-ewa-email",
+     "the-dynasty-napw-2014"
+    ],
+    "note": "A shared unit name only; the other records belong to other promotions."
+   }
+  ]
+ },
+ {
+  "id": "dirty-dog-posse-iga-2003",
+  "type": "unit",
+  "name": "Dirty Dog Posse",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Cooter",
+    "character_id": "cooter-iga-2003"
+   },
+   {
+    "name": "Meatball",
+    "character_id": "meatball-iga-2003"
+   },
+   {
+    "name": "Big Smoothie",
+    "character_id": "big-smoothie-iga-2003"
+   }
+  ],
+  "aka": [
+   "Dirty Dogg Posse"
+  ],
+  "caption": "Cooter, Meatball and Big Smoothie, the beer-swilling New Jersey trio who rode to the ring in a Humvee and lost a handicap title match to Todd Bishop.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-11-21",
+    "last_seen": "2001-11-21",
+    "role": "stable",
+    "source": "the promotion's served cards of November 2001"
+   }
+  ]
+ },
+ {
+  "id": "brand-new-fantastics-iga-2003",
+  "type": "unit",
+  "name": "The Brand New Fantastics",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Randy Baldwin",
+    "character_id": "randy-baldwin-iga-2003"
+   },
+   {
+    "name": "Kerry Treadwell",
+    "character_id": "kerry-treadwell-iga-2003"
+   }
+  ],
+  "aka": [
+   "Brand New Fantastics"
+  ],
+  "caption": "Randy Baldwin and Kerry Treadwell of Los Angeles, the tag team that came to the ring to Nsync's \"Pop\".",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-10-18",
+    "last_seen": "2001-12-12",
+    "role": "tag team",
+    "source": "the promotion's served cards of October to December 2001"
+   }
+  ]
+ },
+ {
+  "id": "freebirds-2001-iga-2003",
+  "type": "unit",
+  "name": "The Freebirds 2001",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Flex Montross",
+    "character_id": "flex-montross-iga-2003"
+   },
+   {
+    "name": "Bubba Lugg",
+    "character_id": "bubba-lugg-iga-2003"
+   }
+  ],
+  "aka": [
+   "Freebirds 2001",
+   "Freebirds 2K1"
+  ],
+  "caption": "\"Flex\" Montross and Bubba Lugg of Badstreet, Atlanta, who entered to \"Freebird\" and lost the promotion's first tag team match to Todd Bishop and Malik Johnson.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-07-24",
+    "last_seen": "2001-07-24",
+    "role": "tag team",
+    "source": "the promotion's served cards of July 2001"
+   }
+  ]
+ },
+ {
+  "id": "wyld-ryderz-iga-2003",
+  "type": "unit",
+  "name": "Wyld Ryderz",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Motor Psycho",
+    "character_id": "motor-psycho-iga-2003"
+   },
+   {
+    "name": "Jason Bragg",
+    "character_id": "jason-bragg-iga-2003"
+   }
+  ],
+  "caption": "Motor Psycho and Jason Bragg, the biker team that challenged for the tag team championship in October 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-10-18",
+    "last_seen": "2001-10-18",
+    "role": "tag team",
+    "source": "the promotion's served cards of October 2001"
+   }
+  ]
+ },
+ {
+  "id": "murda-express-iga-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Murda Express",
+  "members": [
+   {
+    "name": "Cole Thorne",
+    "character_id": "cole-thorne-iga-2003"
+   },
+   {
+    "name": "Malik Johnson",
+    "character_id": "malik-johnson-iga-2003"
+   }
+  ],
+  "caption": "Formed after Malik Johnson turned on Tommy Danger and Estrago to join the Dynasty's circle.",
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2002-03-27",
+    "last_seen": "2002-03-27",
+    "source": "The promotion's served card of 27 March 2002.",
+    "note": "Competed for the #1 contendership to the IGA World Tag Team Championship; did not win."
+   }
+  ]
+ },
+ {
+  "id": "the-dictatorship-iga-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Dictatorship",
+  "members": [
+   {
+    "name": "George Martinson",
+    "character_id": "george-martinson-iga-2003"
+   },
+   {
+    "name": "Robert the Servant",
+    "character_id": "robert-the-servant-iga-2003"
+   }
+  ],
+  "caption": "Beat the Dirty Dog Posse on their IGA debut.",
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2002-04-10",
+    "last_seen": "2002-04-10",
+    "source": "The promotion's served card of 10 April 2002."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dictatorship-osw-online"
+    ],
+    "note": "A shared name with a record that landed after this read; no document here ties the two."
+   }
+  ]
+ },
+ {
+  "id": "the-untouchables-iga-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Untouchables",
+  "members": [
+   {
+    "name": "Jase Chambers",
+    "character_id": "jase-chambers-iga-2003"
+   },
+   {
+    "name": "Greg Vaughn",
+    "character_id": "greg-vaughn-iga-2003"
+   }
+  ],
+  "caption": "Lost the #1 tag team contendership to Lenny and Cyril Lesley after Pandemonium's interference.",
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2002-05-02",
+    "last_seen": "2002-05-02",
+    "source": "The promotion's served card of 2 May 2002."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-untouchables-aawc"
+    ],
+    "note": "A shared team name; no evidence ties this IGA team to the same performers as this other wing's own Untouchables."
+   }
+  ]
+ },
+ {
+  "id": "the-empire-iga-2003",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "The Empire",
+  "members": [
+   {
+    "name": "Maxime St. Jean",
+    "character_id": "maxime-st-jean-rspwf"
+   },
+   {
+    "name": "Anatole Lee",
+    "character_id": "anatole-lee-iga-2003"
+   }
+  ],
+  "caption": "Won the IGA World Tag Team Championship after Rage turned on his own partner, Donovan Keltrane. Lost the titles on 30 May 2002 to the Chosen Ones.",
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2002-05-02",
+    "last_seen": "2002-05-30",
+    "source": "The promotion's served card of 2 May 2002.; the promotion's served card of 30 May 2002",
+    "note": "Sean Smith named himself part of the Empire in the same show's own promo, but did not appear in this tag match. Lost the titles to the Chosen Ones on 30 May 2002 while Lee was not the legal man, with AsH's distraction a factor."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-empire-lvw"
+    ],
+    "note": "A shared stable name; no evidence ties this IGA stable to the same performers as this other wing's own Empire."
+   }
+  ]
+ },
+ {
+  "id": "the-chosen-ones-iga-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Chosen Ones",
+  "members": [
+   {
+    "name": "Buddy Drifter",
+    "character_id": "the-true-legend-buddy-drifter-rspwf"
+   },
+   {
+    "name": "Marc Powers (formerly billed Apocalypse)",
+    "character_id": "apoc-iga-2003"
+   }
+  ],
+  "caption": "Won the IGA World Tag Team Championship from the Empire on 30 May 2002, with an assist from AsH's distraction.",
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2002-05-30",
+    "last_seen": "2002-06-23",
+    "source": "the promotion's served card of 30 May 2002; the promotion's served card of 18 June 2002 (1 of 7 parts held); the promotion's served card of 23 June 2002 (Team Challenge Series / Pandemonium)",
+    "note": "Lost the titles at some undocumented point to the Deadly Alliance (Tommy Danger and Todd Bishop), then regained them on 18 June 2002, Drifter's partner now billed as \"Marc Powers.\" RESOLVED: Marc Powers and Apocalypse are confirmed the same performer (see apoc-iga-2003's own corrected record) -- the 23 June 2002 card's own billing of the champions as \"Apocalypse and Buddy Drifter\" was simply a reversion to the old ring name, not a roster change, per the 11 July 2002 card's own explicit line calling Powers \"the big man once known as The Apocalypse.\""
+   }
+  ]
+ },
+ {
+  "id": "damage-inc-iga-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Damage Inc.",
+  "members": [
+   {
+    "name": "Truckstop Jones",
+    "character_id": "truckstop-jones-wwa"
+   },
+   {
+    "name": "\"Slick\" Simon Watts",
+    "character_id": "simon-watts-wwa"
+   }
+  ],
+  "caption": "Recruited into the IGA from MHW on 11 July 2002, on Jazz Madison's side of a 10-man crossover match.",
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2002-07-11",
+    "last_seen": "2002-07-11",
+    "source": "the promotion's served card of 11 July 2002",
+    "note": null
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "damage-incorporated-agw",
+     "damage-inc-fwa-pbm-1989",
+     "damage-incorporated-icw-tacoma-1995",
+     "damage-inc-spring-classic-2002"
+    ],
+    "note": "A generic team name reused across several unrelated wings; this pairing (Truckstop Jones and \"Slick\" Simon Watts) is documented only at WWA and now IGA."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "damage-inc-niwf-1998"
+    ],
+    "note": "A shared name with a record that landed after this read; no document here ties the two."
+   }
+  ]
+ },
+ {
+  "id": "the-american-renegades-iga-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The American Renegades",
+  "members": [
+   {
+    "name": "Mark Hooks",
+    "character_id": "mark-hooks-iga-2003"
+   },
+   {
+    "name": "Shawn Redd",
+    "character_id": "shawn-redd-iga-2003"
+   }
+  ],
+  "caption": "Debuted attacking a 6-man challenge match on Jazz Madison's side, billed as a dominant team from 2000.",
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2002-08-01",
+    "last_seen": "2002-08-01",
+    "source": "the promotion's served card of 1 August 2002",
+    "note": null
+   }
+  ]
+ },
+ {
+  "id": "team-saunders-iga-2003",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "Team Saunders",
+  "members": [
+   {
+    "name": "Azrael Saunders",
+    "character_id": "azrael-saunders-iga-2003"
+   },
+   {
+    "name": "Twiggy Saunders",
+    "character_id": "twiggy-saunders-iga-2003"
+   },
+   {
+    "name": "Cyril Lesley",
+    "character_id": "cyril-lesley-rspwf"
+   }
+  ],
+  "caption": "Debuted interfering in a six-man tag, losing by disqualification and then chair-beating all three winners.",
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2002-08-15",
+    "last_seen": "2002-08-15",
+    "source": "the promotion's served card of 15 August 2002",
+    "note": "Named only in commentary, not on any card billing."
+   }
+  ]
+ },
+ {
+  "id": "evolution-iga-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Evolution",
+  "members": [
+   {
+    "name": "Sparrow Jinn",
+    "character_id": "sparrow-jinn-iga-2003"
+   },
+   {
+    "name": "Adam Ross",
+    "character_id": "adam-ross-iga-2003"
+   }
+  ],
+  "caption": "Lost a three-way #1 contenders match for the World Tag Team Championship to the Pimps of the Nation.",
+  "tenures": [
+   {
+    "promotion": "iga-2003",
+    "grade": "primary-source",
+    "first_seen": "2002-10-30",
+    "last_seen": "2002-10-30",
+    "source": "the promotion's served card of 30 October 2002 (Devil's Night 2)",
+    "note": "Named only in commentary, not on any card billing."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "evolution-fob"
+    ],
+    "note": "A generic, widely-reused stable name (borrowed from the real-world WWE faction); no shared members or document ties this pairing to the unrelated FOB stable."
+   }
+  ]
+ }
+]

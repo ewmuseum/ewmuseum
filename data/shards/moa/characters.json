@@ -1,0 +1,818 @@
+[
+ {
+  "id": "gabrielle-moa",
+  "type": "character",
+  "name": "Gabrielle",
+  "tenures": [
+   {
+    "promotion": "moa",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "height": "6'0\"",
+    "weight": "135 lbs",
+    "hometown": "New York City, New York",
+    "style": "Luchadore",
+    "entrance_music": {
+     "verbatim": "\"After the Flesh\" by My Life With the Thrill Kill Kult"
+    },
+    "finisher": "Waking Nightmare (a Pinwheel Kick)",
+    "first_seen": "?",
+    "last_seen": "?",
+    "source": "the fed's own served Current Roster page (promotions/moa/archive/current-roster.html)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "gabrielle-giwf"
+    ],
+    "note": "Exact-name collision with gabrielle-giwf, an unrelated fed's own original character. No document on either side names the other fed or claims a shared performer. Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ],
+  "notes": "Bio: Styx's daughter, found by him \"working in a grocery store\" and offered a position with the Masters roughly a year before the roster page's own snapshot; \"dislikes her father greatly for the horrifying childhood she was forced to endure.\" Half-sister of Frost/Angelica Roberts (see that row). An unrelated giwf wrestler (gabrielle-giwf, a 1999 tag-title battle royal winner) shares the bare name with no evidence of connection — filed distinct, presumed, per the collision doctrine.",
+  "caption": "Styx's estranged daughter, recruited from a grocery-store job into the Masters roughly a year before the roster page's own snapshot.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "marcus-collins-moa",
+  "type": "character",
+  "name": "Marcus Collins",
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "wrestler — fights for the M.o.A as its \"slave\"",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "height": "6'6\"",
+    "weight": "260 lbs",
+    "hometown": "Santa Clara, California",
+    "style": "Aerial with Martial Arts",
+    "entrance_music": {
+     "verbatim": "\"Nothing Man\" by Pearl Jam"
+    },
+    "finisher": "Daybreak (a Crescent Kick)",
+    "first_seen": "?",
+    "last_seen": "?",
+    "source": "the fed's own served Current Roster page (promotions/moa/archive/current-roster.html)",
+    "note": "The Current Roster page's own text reads \"Cresent Kick\" (a typo for Crescent Kick), preserved honestly on the served page."
+   }
+  ],
+  "notes": "Bio: beaten by Darren Ridel at \"the PWA's Battledome\" and, as a result, forced to do the M.o.A's bidding against his own will — \"despises the MoA with a passion, but as of right now is powerless to do anything to stop them.\" \"Battledome\" independently names a real, dated PWA event recurring across the held pwa-pioneer wing's own Title History ledger (its World Title changed hands there multiple times, including the silverback-moa/silverback-pwa-pioneer connection above), corroborating the PWA-division claim as a real shared setting rather than an invented backdrop; no pwa-pioneer character named Marcus Collins was found in the held corpus to link this row to.",
+  "caption": "Forced into the M.o.A's service after losing to Darren Ridel at the PWA's Battledome, wrestling for them against his own will.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "phoenix-moa",
+  "type": "character",
+  "name": "Phoenix",
+  "aka": [
+   "Nicholas Ridel"
+  ],
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "non-wrestling — accompanies his brother Darren Ridel to the ring; \"currently has no wrestling contract\"",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "height": "6'6\"",
+    "weight": "Approx. 260 lbs. (hasn't been weighed in)",
+    "hometown": "Los Angeles, California",
+    "style": "Brawler",
+    "first_seen": "?",
+    "last_seen": "?",
+    "source": "the fed's own served Current Roster page (promotions/moa/archive/current-roster.html)",
+    "note": "The roster page carries no entrance theme or finisher for this entry (\"Entrance Theme: None\" / \"Finishing Maneuver: None\"), honestly reflecting his own bio's own statement that he currently holds no wrestling contract."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "phoenix-cswa",
+     "phoenix-ewa",
+     "phoenix-ewa-extreme",
+     "phoenix-faw-2001",
+     "phoenix-iwf",
+     "phoenix-pwa-pioneer",
+     "phoenix-pwe-inc",
+     "phoenix-mike-mccarey-shootfire-pro-1999",
+     "phoenix-wwa",
+     "phoenix-xcwf"
+    ],
+    "note": "\"Phoenix\" is one of the hobby's most common ring names, independently held across at least ten other unrelated feds on file, including one held pwa-pioneer row (phoenix-pwa-pioneer). No document on either side ties this MoA wrestler — billed here under his own name Nicholas Ridel, older brother of Darren Ridel, currently uncontracted — to any of the others. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ],
+  "notes": "Bio: older brother of Darren Ridel; the two \"reached a compromise\" — Nicholas serves the M.o.A and receives \"a very comfortable paycheck\" in return, without a wrestling contract of his own.",
+  "caption": "Darren Ridel's older brother, paid to accompany him ringside despite holding no wrestling contract of his own.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "the-brutal-moa",
+  "type": "character",
+  "name": "The Brutal",
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "wrestler — Gabrielle's tag-team partner",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "height": "6'8\"",
+    "weight": "320 lbs",
+    "hometown": "Unknown",
+    "style": "Brawler",
+    "entrance_music": {
+     "verbatim": "Loud Drum Beats"
+    },
+    "first_seen": "?",
+    "last_seen": "?",
+    "source": "the fed's own served Current Roster page (promotions/moa/archive/current-roster.html)",
+    "note": "No finishing maneuver is listed (\"Finishing Maneuver: None\") on the served roster page."
+   }
+  ],
+  "notes": "Bio: Gabrielle's tag-team partner and roommate; \"never speaks,\" face \"almost always concealed behind a chrome plated mask\"; billed as relying on \"shear brute strength to dismember anyone in his path.\"",
+  "caption": "A masked, silent brawler billed alongside Gabrielle as her tag partner and roommate, relying on sheer strength in the ring.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bobby-watson-cswa",
+     "brian-cairo-wwa",
+     "brutal-brandon-franklin-rspwf",
+     "teddy-alexander",
+     "brutal-deluxe-faw"
+    ],
+    "note": "\"Brutal\" is a common wrestling nickname/descriptor independently billed across several unrelated feds (as a decorated aka on each of these rows) -- no shared detail ties any of them to this masked, silent MoA brawler. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "jamie-williams-moa",
+  "type": "character",
+  "name": "Jamie Williams",
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "wrestler — Leader of the M.o.A's UW division; \"Heir to the Future,\" billed as Styx's own heir",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "height": "6'0\"",
+    "weight": "225 lbs",
+    "hometown": "Boston, Massachusetts",
+    "style": "Aerial/Technical/Brawler",
+    "entrance_music": {
+     "verbatim": "(entrance) \"Never Die\" by Creed — (exit) \"Oh My God\" by Guns 'N Roses"
+    },
+    "finisher": "Future's Wrath (a Modified Shooting Star Press)",
+    "first_seen": "?",
+    "last_seen": "?",
+    "source": "the fed's own served Current Roster page (promotions/moa/archive/current-roster.html)"
+   },
+   {
+    "promotion": "bew",
+    "role": "wrestler — billed \"the Heir to the Future\"; won the BEW World Heavyweight Title",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-03-20",
+    "last_seen": "1999-03-20",
+    "source": "the sibling bew wing's own served Night of Armageddon broadcast (promotions/bew/archive/night-of-armageddon.html)",
+    "note": "Leads the M.o.A's own beatdown-angle ambush of Greg Eskridge earlier on the card, cutting off Eskridge's own mic mid-sentence."
+   }
+  ],
+  "notes": "Bio: \"represents the future of the MoA... Styx's heir to the future, the heir to Styx's throne.\" The Current Roster page's own merchandise-adjacent corporate news page separately names \"Williams\" among wrestlers whose merchandise sells well in Europe (see darren-ridel-moa's own notes and the fed's own served \"corporate\" news page (promotions/moa/archive/corporate.html)), consistent with this billing though not independently distinguishing.",
+  "caption": "Billed as \"Heir to the Future\" and Styx's own chosen successor, who wins the BEW World Heavyweight Title from Devastator at Night of Armageddon.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jaime-4ww",
+     "williams-maximum-overdrive-wwa"
+    ],
+    "note": "Bare-common-name-fragment collisions (\"Jamie\"/\"Williams\" individually) against two unrelated feds' own wrestlers -- no shared detail ties either to this MoA UW-division leader. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "frost-moa",
+  "type": "character",
+  "name": "Frost",
+  "aka": [
+   "Angelica Roberts"
+  ],
+  "tenures": [
+   {
+    "promotion": "moa",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "height": "5'8\"",
+    "weight": "135 lbs",
+    "hometown": "New York City, New York",
+    "style": "Aerial Technician",
+    "entrance_music": {
+     "verbatim": "\"Janie's Got a Gun\" by Aerosmith"
+    },
+    "finisher": "Polaris (a Top Rope Fisherman Buster)",
+    "first_seen": "?",
+    "last_seen": "?",
+    "source": "the fed's own served Current Roster page (promotions/moa/archive/current-roster.html)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "frost-swa-seltor"
+    ],
+    "note": "Exact-name collision with frost-swa-seltor, an unrelated fed's own winless original wrestler known only from a records page. No document on either side names the other fed or claims a shared performer. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ],
+  "notes": "Bio: daughter of \"Kim Collins (nee Roberts)\" and Styx; a \"rebellious teenager\" new to professional wrestling but with \"several years of street fighting experience\"; has become close with her half-sister Gabrielle \"in the short time they've known each other.\" Kim Collins is named only in this one clause, with no bio or appearance of her own — left unminted as mention-only. The shared \"Collins\" surname with marcus-collins-moa is noted but not asserted as a family connection; the roster page never states one.",
+  "caption": "Styx's other daughter, a street-fighting-trained rookie new to wrestling and newly close with her half-sister Gabrielle.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "fley-moa",
+  "type": "character",
+  "name": "Fley",
+  "aka": [
+   "Alex Faust"
+  ],
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "wrestler — \"self proclaimed King O Extreme\"; won the AXE's own Extreme Title",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "height": "6'2\"",
+    "weight": "230 lbs",
+    "hometown": "Claims to be New York",
+    "style": "Hardcore with Martial Arts",
+    "entrance_music": {
+     "verbatim": "(entrance) \"Cold Contagious\" by Bush — (exit) \"Machinehead\" by Bush"
+    },
+    "finisher": "Afterclap (a Powerbomb into a Piledriver)",
+    "first_seen": "?",
+    "last_seen": "?",
+    "source": "the fed's own served Current Roster page (promotions/moa/archive/current-roster.html)",
+    "note": "\"Hometown: Claims to be New York\" is the roster page's own phrasing — the fed's own text flags the claim as unverified, preserved as written."
+   }
+  ],
+  "notes": "Bio: youngest of the Faust brothers; didn't know his brothers wrestled until visited by the eldest, Jason Faust, who took him to Styx; introduced into wrestling in \"the AXE\" (an unheld federation), where he won the Extreme Title; \"fights for the memory of his brother William Faust. The AOWF Hall of Famer known as, Flesh.\" This is the roster page's own claim that Flesh's full name was William Faust — the served \"One Last Dance\" segment's own epitaph and dialogue instead name him William Riley (see flesh-moa's own notes for the full sources-disagree record). Jason Faust is named only as the brother who brought Fley into wrestling, with no bio or appearance of his own — left unminted as mention-only.",
+  "caption": "The youngest Faust brother, introduced to wrestling by Styx and fighting under Flesh's own memory after winning the AXE's own Extreme Title.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "jason-creed-moa",
+  "type": "character",
+  "name": "Jason Creed",
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "wrestler — Darren Ridel's best friend; trains Nightstryker",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "height": "6'5\"",
+    "weight": "310 lbs",
+    "hometown": "Las Vegas, Nevada",
+    "style": "Brawler",
+    "entrance_music": {
+     "verbatim": "\"Papercut\" by Linkin Park"
+    },
+    "finisher": "the Endgame (an Inverted Death Valley Driver)",
+    "first_seen": "?",
+    "last_seen": "?",
+    "source": "the fed's own served Current Roster page (promotions/moa/archive/current-roster.html)"
+   }
+  ],
+  "notes": "Bio: \"the best friend of Darren Ridel... Creed owes his true loyalty to no one except him,\" training Nightstryker \"in order to sharpen his skills\" (corroborated reciprocally by nightstryker-moa's own bio) so that, per the roster page's own closing line, \"one day the two of them can settle the score\" — the referent of \"the two of them\" is not disambiguated by the text and is not guessed here.",
+  "caption": "Darren Ridel's best friend and training partner for Nightstryker, loyal to Ridel alone.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "creed-pwa-pioneer",
+     "creed-rspwf"
+    ],
+    "note": "Bare-surname collision (\"Creed\") against creed-rspwf (unrelated) and creed-pwa-pioneer, the latter notable only because pwa-pioneer is this wing's own confirmed PWA-division host fed (see the-rage-moa/silverback-moa) and both this Creed and MoA's own Fley/Alex Faust independently reference an \"AOWF\"-branded Extreme/King-of-Extreme tournament -- but pwa-pioneer's own Creed carries no first name, wrestles as an Intercontinental Champion (a role never claimed for Jason Creed), and no document names both directly. An interesting hub adjacency, not asserted as identity. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "styx-moa",
+  "type": "character",
+  "name": "Styx",
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "founder and leader of the Masters of Armageddon; \"MoA Corp\"'s own head",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-04-11",
+    "last_seen": "1999-04-11",
+    "source": "the fed's own served \"One Last Dance\" narrative segment (promotions/moa/archive/one-last-dance.html)",
+    "note": "Physically described only in \"One Last Dance\": \"navy blue framed Oakleys hiding his eyes from the world, his long wavy dark hair hanging down around his thin face, a black leather trench coat.\" Performs the segment's own mercy-killing of Flesh at Flesh's own request, staged as a father-son farewell (\"a love I could only have... for a son\")."
+   },
+   {
+    "promotion": "aowf",
+    "role": "wrestler — Masters of Armageddon leader",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "grade": "user-attested",
+    "first_seen": "1999-11",
+    "last_seen": "1999-12",
+    "note": "Physically interferes in AOWF's own Day 1 opener (Bright Light vs. Savage Windsong), grabbing the mic to taunt the announce team and issue an open challenge for a future AOWF event; entrance music \"After the Flesh\" by My Life With the Thrill Kill Kult, attire matching (navy blue Oakleys, long hair tied back). Named the M.o.A.'s own corrupting leader by Richard Hope on Day 2 (\"Styx corrupted a lot of good men in the M.o.A\"). Returns at AOWF_2's Day 1 to accept the AOWF's own 1999 Comeback of the Year award in person.",
+    "source": "promotions/aowf/archive/day-1-formation.html; promotions/aowf/archive/day-2-television-title.html; promotions/aowf/archive/aowf2-day-1-pwa-crossover.html"
+   },
+   {
+    "promotion": "bew",
+    "role": "authority-figure — leader of the Masters of Armageddon, absent for most of the show",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-03-20",
+    "last_seen": "1999-03-20",
+    "source": "the sibling bew wing's own served Night of Armageddon broadcast (promotions/bew/archive/night-of-armageddon.html)",
+    "note": "BEW TIER-3 EXTENSION: named throughout the broadcast as absent, discussed and referenced by both commentators and the M.o.A's own opening video package, but appearing physically only at the close — walks in immediately after Saleah Ridgers's own unmasking, then delivers a closing promo and orders the M.o.A to \"Break him\" on the beaten Kevin Merrix before exiting; the five-man save immediately follows. A separate figure seated ringside throughout the earlier portion of the broadcast, described but not named as Styx, is left unminted — the text identifies him only as \"Stone,\" a founding M.o.A member distinct from Styx per the broadcast's own dialogue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "styx-rawf",
+     "styx-wwa"
+    ],
+    "note": "Exact-name collision with styx-rawf (an unrelated, explicitly female wrestler) and styx-wwa (an unrelated fed's own 1998 debutant). Also the bare name of an unlinked tag-team-unit member in pwa-pioneer's own units.json (no character_id, no evidence of connection). No document on any side names another fed or claims a shared performer. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ],
+  "notes": "MEMORIAL SWEEP (carried forward from this wing's own shows.json note on \"One Last Dance\"): the mercy-killing Styx performs is confirmed in-fiction kayfabe, with a staged police-procedural epilogue naming Styx as the prime suspect — no real name, no external corroboration; does not meet the memorial-verification bar and is not memorialized. Founding traced by this wing's own promotions.json row to the WCIWA, September 1997, prior to any document held in this wing's own corpus.",
+  "caption": "The Masters of Armageddon's own founder and \"Way,\" staged euthanizing his dying protege Flesh as a mercy-killing framed as a father-son farewell.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 3,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "vigilance-moa",
+  "type": "character",
+  "name": "Vigilance",
+  "aka": [
+   "Marc",
+   "V.I.G."
+  ],
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "wrestler — former M.o.A member; billed a four-time WCIWA World Television Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-04-11",
+    "last_seen": "1999-04-11",
+    "source": "the fed's own served \"One Last Dance\" narrative segment (promotions/moa/archive/one-last-dance.html)",
+    "note": "Physically described: \"Seven-feet four-inches, black, bald, and powerful.\" Introduced as a \"[p]ast member of the M.o.A, four time WCIWA World Television Champion\" who \"had his time in the sun and faded away to position of less glory.\" The WCIWA is not a held wing in the held record; the reign claim is transcribed, not independently verified. Flesh addresses him once by the given name \"Marc\" in dialogue (\"for a time Marc you were really my friend\"), preserved as an in-fiction detail."
+   },
+   {
+    "promotion": "bew",
+    "role": "wrestler — billed a four-time WCIWA World Television Champion, one of the M.o.A's own founding members",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-03-20",
+    "last_seen": "1999-03-20",
+    "source": "the sibling bew wing's own served Night of Armageddon broadcast (promotions/bew/archive/night-of-armageddon.html)",
+    "note": "BEW TIER-3 EXTENSION: billed \"Vig\" in the broadcast's own text, matching this row's own \"One Last Dance\" physical description exactly (\"the seven-foot four-inch chiseled black man\") and billed reign count (four-time WCIWA World Television Champion) — same rare vitals, same fed, same title claim; merged into this existing row rather than minted separately. Emerges from the crowd with a baseball bat alongside Chris Anderson, Brian Anderson, and Richard Hope to clear the M.o.A off Kevin Merrix in the show's own closing save, a memory the broadcast's own commentary calls \"forgotten long ago.\""
+   },
+   {
+    "promotion": "aowf",
+    "role": "wrestler — Masters of Armageddon member; 3x former WCIWA World Television Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "height": "7'4\"",
+    "weight": "435 lbs",
+    "first_seen": "1999-11",
+    "last_seen": "1999-11",
+    "note": "Billed by the WWFL Announcer as \"a member of the Masters of Armageddon\" and \"3x WCIWA WORLD TELEVISION CHAMPION.\" Described physically: \"massive black arms and bald skull.\" Entered the Day 2 unification match; the served text cuts off mid-match (\"Day 2 concludes...\") before a winner is shown.",
+    "source": "promotions/aowf/archive/day-2-television-title.html"
+   }
+  ],
+  "notes": "Bio: visits the dying Flesh at Flesh's own request to reconcile a past betrayal, on opposing sides of the M.o.A/BEW feud at the time. No character bearing this name was found elsewhere in the held registry.",
+  "caption": "A former M.o.A member and billed four-time WCIWA World Television Champion who reconciles with his dying former friend Flesh before Flesh's own mercy-killing.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lance-aicw"
+    ],
+    "note": "Substring match only (\"lance\" inside \"Vigilance\") against an unrelated AICW wrestler billed \"Lance\" -- no shared detail. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "flesh-moa",
+  "type": "character",
+  "name": "Flesh",
+  "aka": [
+   "William Riley",
+   "William Faust"
+  ],
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "wrestler — AOWF Hall of Famer; \"the King of Extreme\"",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-04-11",
+    "last_seen": "1999-04-11",
+    "source": "the fed's own served \"One Last Dance\" narrative segment (promotions/moa/archive/one-last-dance.html) and the fed's own served Current Roster page (promotions/moa/archive/current-roster.html)",
+    "note": "Billed \"the AOWF Hall of Famer known as, Flesh\" on the Current Roster page (in Fley's own bio); dying of injuries from a beatdown at BEW's own Night of Armageddon (20 March 1999, the sibling bew wing's own kevin-merrix-bew row) throughout \"One Last Dance.\""
+   },
+   {
+    "promotion": "aowf",
+    "role": "wrestler — Masters of Armageddon; deceased before this event",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "user-attested",
+    "first_seen": "1999-11",
+    "last_seen": "1999-12",
+    "note": "Referenced but does not physically appear (already dead per this wing's own moa corpus). Day 2: Richard Hope calls him \"a great talent\"; commentary credits him and V.I.G. with bringing \"the M.o.A back from reasonable obscurity.\" Day 4: Dot is reported to have \"left Flesh\" for Nightshade. AOWF_2's own awards show gives \"The Death of Flesh\" the 1999 Surprise of the Year and \"One Last Dance, Flesh's final bow\" the 1999 Interview of the Year — \"One Last Dance\" is the exact title of this wing's own served narrative segment staging his death, a direct cross-wing confirmation that the two records share one continuity.",
+    "source": "promotions/aowf/archive/day-2-television-title.html; promotions/aowf/archive/day-4-finale.html; promotions/aowf/archive/aowf2-day-1-pwa-crossover.html"
+   },
+   {
+    "promotion": "bew",
+    "role": "wrestler — billed \"the current leader of the M.o.A\"; a seven-time BEW Hardcore Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-03-20",
+    "last_seen": "1999-03-20",
+    "source": "the sibling bew wing's own served Night of Armageddon broadcast (promotions/bew/archive/night-of-armageddon.html)",
+    "note": "BEW TIER-3 EXTENSION: the untitled main event this wing's own \"One Last Dance\" notes had already flagged as the source of his own career-ending injuries — masked entrance, billed the show's own current BEW Hardcore Champion (see bew-hardcore; not defended this show), loses to Kevin Merrix via two Fallout finishers. Interferes earlier on the card too, throwing a brick and a blow at Jaigo during the Tommy Riley/Jaigo bout, and names \"Merrix\" as his own enemy in that same promo. Carried out by Mass Carnage, Jamie Williams, and Saleah Ridgers after the match; Styx's own return and \"Break him\" order that closes the broadcast targets Kevin Merrix, not Flesh."
+   }
+  ],
+  "notes": "SOURCES DISAGREE on this character's own full name: the Current Roster page's own text, in Fley's bio, names him \"William Faust\" (Fley/Alex Faust's own brother); \"One Last Dance\"'s own closing in-fiction epitaph instead reads \"William Riley / 11.12.76 - 4.11.99,\" and its own epilogue's investigating detectives repeatedly refer to him as \"Mr. Riley\"/\"Riley.\" Both are in-fiction character names (a billed epitaph and a billed family surname), neither a real name standing out of fiction — the privacy rule's redaction does not apply to either. Not silently resolved; both stand as aka, per the sources-disagree doctrine, receipted here rather than picked. MEMORIAL SWEEP: the in-fiction epitaph's birth/death dates (11.12.76 - 4.11.99) and the police-procedural epilogue naming him a homicide victim are confirmed kayfabe — a scripted wrestling-storyline death, no real name, no external corroboration; does not meet the memorial-verification bar and is not memorialized (carried forward from this wing's own shows.json note). In dialogue, Flesh names \"Merrix\" as his own enemy (\"And let Merrix get away with this?\"); this is the already-registered kevin-merrix-bew (BEW's own World Champion, who defeated Flesh at Night of Armageddon per that row's own caption) referenced by bare surname only — not a new mention, and no new appearance row is added on this show for a character who never physically appears in the scene.",
+  "caption": "A dying AOWF Hall of Famer, billed under two conflicting full names across the promotion's own record, mercy-killed by his own mentor Styx after a career-ending beatdown by BEW's Kevin Merrix.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tom-flesher-cswa"
+    ],
+    "note": "Substring match only (\"Flesh\" inside the surname \"Flesher\") -- no shared vitals, fed, or narrative between this AOWF/MoA character and an unrelated CSWA wrestler billed under his own real-reading surname. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "angel-of-extreme-moa",
+  "type": "character",
+  "name": "Angel of Extreme",
+  "aka": [
+   "Mass Carnage",
+   "the Angel"
+  ],
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "wrestler — Flesh's student; inherits Flesh's own \"crown\" in an unnamed federation",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-04-11",
+    "last_seen": "1999-04-11",
+    "source": "the fed's own served \"One Last Dance\" narrative segment (promotions/moa/archive/one-last-dance.html)",
+    "note": "Billed \"Mass Carnage\" in the segment's own stage directions (abbreviated \"MC\" throughout) and addressed as \"Angel of Extreme\" in dialogue tags — read as a billed ring-name transition rather than two characters, per Flesh's own dying charge: \"You are the Angel, the ruler... Now in your home you must begin your own crown.\" Styx dismisses him from the hospital room before the killing (\"Leave us... now\"). \"In your home\" implies a federation of his own, not named or held in this wing's corpus — no moa tenure beyond this one appearance is asserted."
+   },
+   {
+    "promotion": "bew",
+    "role": "wrestler — billed \"the Author of your Future\"; signed to the GWF",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-03-20",
+    "last_seen": "1999-03-20",
+    "source": "the sibling bew wing's own served Night of Armageddon broadcast (promotions/bew/archive/night-of-armageddon.html)",
+    "note": "BEW TIER-3 EXTENSION: billed \"Mass Carnage\" throughout, wearing Flesh's own medallion \"in imitation of his leader.\" Directs Enforced Penance to tie up Greg Eskridge during that show's own beatdown angle, then defeats the Minister of Violence with a Sweet Dreams pinwheel kick after Matt Attic's own ringside distraction. Present ringside for Flesh's own main-event loss, carrying him from the ring afterward."
+   },
+   {
+    "promotion": "jwa-ajfa",
+    "role": "billed for the JWA Hardcore Title",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "first_seen": "1999-08-22",
+    "last_seen": "1999-08-22",
+    "note": "Billed in the opening video package and by commentary — \"Faith takes on the Angel, Mass Carnage\" — for the night's Hardcore Title match; the match itself is not in the served part.",
+    "source": "the fed's own served \"And Justice For All\" broadcast (promotions/jwa-ajfa/archive/and-justice-for-all-1999-08-22.html)"
+   }
+  ],
+  "notes": "Flesh names \"Merrix\" as an enemy directly to him (\"And let Merrix get away with this?\"); Angel of Extreme answers \"I refuse to let that happen,\" continuing Flesh's own feud with kevin-merrix-bew (see flesh-moa's own notes) into his own inherited \"crown.\" No character bearing either name was found elsewhere in the held registry.",
+  "caption": "Flesh's own student, present at his mercy-killing and charged with carrying on Flesh's legacy and his feud with Merrix into his own federation.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 2,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "angel-aicw",
+     "angel-nfw",
+     "angel-rspwf",
+     "angel-uwf",
+     "mystique-wwa",
+     "johnny-shines-sewf",
+     "extreme-faw",
+     "extreme-pcw",
+     "xtreme-xcwf",
+     "carnage",
+     "carnage-agw",
+     "carnage-fob",
+     "carnage-icw-pweboard",
+     "carnage-newf",
+     "carnage-pwf",
+     "carnage-wewf"
+    ],
+    "note": "The decorated-aka mint guard flags this compound name (\"Angel of Extreme\"/\"Mass Carnage\") against many unrelated feds' own bare \"Angel\"/\"Extreme\"/\"Xtreme\"/\"Carnage\" ring names -- each a single common wrestling-nickname word, not a decorated form of any one of them specifically. No document on any side names another fed or claims a shared performer. Filed distinct pending evidence, per the collision doctrine."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "johnny-shines-sewf"
+    ],
+    "note": "\"The Angel\" alone is a generic aka; johnny-shines-sewf carries no other corroborating fact and no connection to the BEW/M.o.A./AOWF/JWA cluster this wing's own Mass Carnage sits inside. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "frank-ragland-moa",
+  "type": "character",
+  "name": "Frank Ragland",
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "non-wrestling — a homicide detective investigating Flesh's death",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-04-11",
+    "last_seen": "1999-04-11",
+    "source": "the fed's own served \"One Last Dance\" narrative segment (promotions/moa/archive/one-last-dance.html)",
+    "note": "Billed \"Detective Frank Ragland,\" \"a cop who's been on the beat for a long [time] and has seen it all,\" investigating Flesh's death alongside his partner of twenty years, Jason Miles, in the segment's own epilogue."
+   }
+  ],
+  "notes": "Frustrated by the case's own lack of evidence against Styx (\"That sonuvabitch killed Riley. I know it you know it\"), overruled by his own partner's more measured read.",
+  "caption": "A veteran homicide detective, frustrated by the lack of hard evidence against Styx in Flesh's own death.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "frank-uwf"
+    ],
+    "note": "Bare-common-first-name collision (\"Frank\") against an unrelated UWF wrestler -- no shared detail. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "jason-miles-moa",
+  "type": "character",
+  "name": "Jason Miles",
+  "tenures": [
+   {
+    "promotion": "moa",
+    "role": "non-wrestling — a homicide detective investigating Flesh's death",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-04-11",
+    "last_seen": "1999-04-11",
+    "source": "the fed's own served \"One Last Dance\" narrative segment (promotions/moa/archive/one-last-dance.html)",
+    "note": "Billed \"Detective Jason Miles,\" Frank Ragland's own partner of twenty years, who conducted Styx's own police interview (\"I gave my Darkest Angel my love\") in the segment's own epilogue."
+   }
+  ],
+  "notes": "Names two prior suspects/incidents in the same investigation, both mention-only with no bio or appearance of their own — Shawn Twilight and Marcus Mercer, each accused of \"tampering with a grave\" connected to Flesh's own past — left unminted.",
+  "caption": "A homicide detective who interviewed Styx directly and reads the case's own lack of a weapon or witness more cautiously than his partner.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ }
+]

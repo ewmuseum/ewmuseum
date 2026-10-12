@@ -1,0 +1,300 @@
+[
+ {
+  "id": "legion-of-pain-hiwf-entity-e-1998",
+  "type": "unit",
+  "name": "Legion of Pain",
+  "unit_kind": "stable",
+  "caption": "A rulebreaker stable that controlled the World Tag Team and Cruiserweight Championships through the summer of 1998 and repeatedly interfered its way to the Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 4
+   }
+  },
+  "members": [
+   "usurper-hiwf-entity-e-1998",
+   "jay-hawke-hiwf-entity-e-1998",
+   "jimmy-d-light-hiwf-entity-e-1998",
+   "michael-pays-hiwf-entity-e-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "hiwf-entity-e-1998",
+    "first_seen": "1998-06",
+    "last_seen": "1998-08",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Wins a six-man tag over the Prophets of Rage at \"Parade of Champions\" (21 June 1998); costs The Night Stalker the Television Championship on \"August 5 Superstar Challenge\" via Jay Hawke's chair shot and \"Foolkiller\" Jason Bell's assist."
+   }
+  ]
+ },
+ {
+  "id": "prophets-of-rage-hiwf-entity-e-1998",
+  "type": "unit",
+  "name": "Prophets of Rage",
+  "unit_kind": "stable",
+  "caption": "A wrestler faction, formerly including Jonas Weah, that broke up during 1998 while its own members chased HIWF's own singles titles.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 2
+   }
+  },
+  "members": [
+   "vic-valiant-hiwf-entity-e-1998",
+   "leon-redfield-hiwf-entity-e-1998",
+   "aero-hiwf-entity-e-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "hiwf-entity-e-1998",
+    "first_seen": "1998-06",
+    "last_seen": "1998-08",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Loses a six-man tag to the Legion of Pain at \"Parade of Champions\" (21 June 1998); commentary on \"August 5 Superstar Challenge\" describes the group as having since broken up, with Aero remaining loyal only to Vic Valiant."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (prophets-of-rage-iewf-lwc); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "prophets-of-rage-iewf-lwc"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "apocalypse-hiwf-entity-e-1998",
+  "type": "unit",
+  "name": "Apocalypse",
+  "unit_kind": "stable",
+  "caption": "A wrestler faction whose members held HIWF's own United States and World Heavyweight Championships at different points across the 1990s.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "members": [
+   "hellfire-hiwf-entity-e-1998",
+   "serial-killa-hiwf-entity-e-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "hiwf-entity-e-1998",
+    "first_seen": "1998-06",
+    "last_seen": "1998-06",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Named as Hellfire's and Serial Killa's own stable at \"Parade of Champions\" (21 June 1998)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "apocalypse-agw",
+     "apocalypse-apcw-1999",
+     "apocalypse-apw"
+    ],
+    "note": "Bare stable-name collision only: numerous unrelated factions on other wings share this name; no operator, host, or roster overlap."
+   }
+  ]
+ },
+ {
+  "id": "the-predators-hiwf-entity-e-1998",
+  "type": "unit",
+  "name": "The Predators",
+  "unit_kind": "tag-team",
+  "caption": "Nighthawk and Jay Hawke's own long-running tag team, HIWF's World Tag Team Champions through the summer of 1998.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "members": [
+   "nighthawk-hiwf-entity-e-1998",
+   "jay-hawke-hiwf-entity-e-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "hiwf-entity-e-1998",
+    "first_seen": "1998-06",
+    "last_seen": "1998-06",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Retains the World Tag Team Championship over Hellfire and Serial Killa of the Apocalypse on \"Monday Mania\" (22 June 1998), commentary noting the team has \"been together a long time.\""
+   }
+  ]
+ },
+ {
+  "id": "silent-assassins-hiwf-entity-e-1998",
+  "type": "unit",
+  "name": "Silent Assassins",
+  "unit_kind": "stable",
+  "caption": "A rulebreaker stable that recruited a new member on air ahead of a World Heavyweight Championship challenge in May 2000.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "members": [
+   "johnny-pyro-hiwf-entity-e-1998",
+   "mr-friday-night-hiwf-entity-e-1998",
+   "randall-flagg-hiwf-entity-e-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "hiwf-entity-e-1998",
+    "first_seen": "2000-05",
+    "last_seen": "2000-05",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Johnny Pyro and Mr. Friday Night induct Randall Flagg into the stable on air ahead of \"Clash of the Titans VI\" (9 May 2000); after the show's main event, the Silent Assassins run out to break up a beatdown of Flagg by Pagan, Mark Adams and Dementia."
+   }
+  ]
+ },
+ {
+  "id": "freebooters-hiwf-entity-e-1998",
+  "type": "unit",
+  "name": "Freebooters",
+  "unit_kind": "stable",
+  "caption": "A stable described on air as reforming when its members joined a post-match beatdown of a former World Heavyweight Championship challenger.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "members": [
+   "pagan-hiwf-entity-e-1998",
+   "mark-adams-hiwf-entity-e-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "hiwf-entity-e-1998",
+    "first_seen": "2000-05",
+    "last_seen": "2000-05",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "With Dementia, beats down Randall Flagg after \"Clash of the Titans VI\" (9 May 2000); commentary describes Pagan and Mark Adams as reforming the Freebooters, a prior pairing not otherwise attested in this record."
+   }
+  ]
+ },
+ {
+  "id": "insano-boys-hiwf-entity-e-1998",
+  "type": "unit",
+  "name": "Insano Boys",
+  "unit_kind": "tag-team",
+  "caption": "Kano and Johno Insano's own tag team, HIWF's World Tag Team Champions by September 2001.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "members": [
+   "kano-insano-hiwf-entity-e-1998",
+   "johno-insano-hiwf-entity-e-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "hiwf-entity-e-1998",
+    "first_seen": "2001-04",
+    "last_seen": "2001-09",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Kano and Miss Insano lose the new HIWF's first main event to Lance Heimrickh and Miss Header (27 April 2001); by the promotion's own 9 September 2001 broadcast are billed World Tag Team Champions, retaining the title over Johnny Pyro and The Stud by disqualification (7 September 2001)."
+   }
+  ]
+ },
+ {
+  "id": "elements-hiwf-entity-e-1998",
+  "type": "unit",
+  "name": "The Elements",
+  "unit_kind": "tag-team",
+  "caption": "Jim Floyd and Airk Thaughbaer's own tag team, winners of the new HIWF's first tag match by disqualification.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0,
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "members": [
+   "jim-floyd-hiwf-entity-e-1998",
+   "airk-thaughbaer-hiwf-entity-e-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "hiwf-entity-e-1998",
+    "first_seen": "2001-04",
+    "last_seen": "2001-04",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Win the new HIWF's opening tag match over El Cholo and Luke Kinsey by disqualification after Crusher Zubov's interference (27 April 2001)."
+   }
+  ]
+ }
+]

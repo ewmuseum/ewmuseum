@@ -1,0 +1,445 @@
+[
+ {
+  "id": "elite-guard-aawc",
+  "type": "unit",
+  "name": "The Elite Guard",
+  "members": [
+   {
+    "name": "Sgt. Flint M. Jacobs",
+    "character_id": "sgt-flint-m-jacobs"
+   },
+   {
+    "name": "Bloodhunt",
+    "character_id": "bloodhunt"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aawc",
+    "first_seen": "1996-10-25",
+    "last_seen": "1996-10-25",
+    "role": "tag team — Dr. Silver's own enforcers",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own Oktoberfest '96 (Night 1) card of 25 October 1996, republished whole in NFW's news archive (promotions/nfw/archive/news-1996-10-25-aawc-oktoberfest-96-night-1.html)",
+    "note": "First and last seen are the one surviving AAWC document; the fed's own record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "The AAWC World Heavyweight Champion's own enforcers, sent to the ring at Oktoberfest '96 to fill a tag match whose scheduled opponents had gone missing, and made to sing on the way down the aisle.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "vegas-connection",
+  "type": "unit",
+  "name": "The Vegas Connection",
+  "members": [
+   {
+    "name": "Aaron Reno",
+    "character_id": "aaron-reno"
+   },
+   {
+    "name": "Steven Gage",
+    "character_id": "steven-gage"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aawc",
+    "first_seen": "1996-10-25",
+    "last_seen": "1996-10-25",
+    "role": "tag team — former AAWC Universal Tag Team title contenders",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own Oktoberfest '96 (Night 1) card of 25 October 1996, republished whole in NFW's news archive (promotions/nfw/archive/news-1996-10-25-aawc-oktoberfest-96-night-1.html)",
+    "note": "First and last seen are the one surviving AAWC document; the fed's own record does not state a debut or a departure."
+   },
+   {
+    "promotion": "cswa",
+    "first_seen": "1996-02-15",
+    "last_seen": "1996-02-15",
+    "role": "tag team — both members worked the card in singles and the fed's own commentary named the team on the night",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card, CSWA SUPERPRIMETIME in Miami of 15 February 1996 (promotions/cswa/archive/cswa-superprimetime-in-miami-1996-02-15.html)",
+    "note": "Aaron Reno and Steven Gage each wrestled a singles match on that card and the fed's own commentator used the team's name for the pair, in the present tense, in its own ring. STATED PLAINLY: the CSWA never booked them AS a tag team in the held record — this is the team named and active in the wing, not a tag match. The one date is the only CSWA document that names the team; the fed's own record states no arrival and no departure."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "A Las Vegas tag team managed by Lady Luck, close enough to the AAWC Universal Tag Team titles to be billed for it and named by the CSWA's own commentary on a night both men won in Miami, whose return at Oktoberfest '96 lasted one match against opponents they had not been booked against.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "with": [
+     "connection"
+    ],
+    "grade": "presumed",
+    "note": "A separate entity from connection (NFW), not a merge. The mint guard flags the shared word; nothing else in the collision doctrine's four-signal test matches."
+   },
+   {
+    "assertion": "distinct",
+    "with": [
+     "vegas-connection-wwo"
+    ],
+    "grade": "primary-source",
+    "note": "A separate entity from vegas-connection-wwo (WWO), not a merge — reciprocal to that row's own guard, filed here 2026-09-02 after the PRODIGY diaspora's second wave flagged the pair as unguarded on this side. The identity-join test settles it from both feds' own text rather than from silence. MEMBERS: this team is Aaron Reno and Steven Gage — the AAWC's own Oktoberfest '96 (Night 1) ring announcer, \"along with their manager Lady Luck! They are making their return to the AAWC! Here are Aaron Reno and Steven Gage...THE VEGAS CONNECTION!\" WWO's team is a different two men entirely: that fed's own tag-team roster page bills \"Vegas Connection — 'Lounge Lizard' Lester Leary and Larry Lowbrow\", a lounge-act pairing managed by Rimshot, and each man's own bio card names the other as his tag partner. ERA AND PLATFORM: this team runs 1995-96 on the PRODIGY boards; WWO's holds that fed's World Tag Team titles in 2001 on a web-hosted site. PRIOR FEDS: WWO's own bio card for Larry Lowbrow lists where that team had been — the ECCWF, the STWF, the MBC and the PMCW/RCCW/BDCW — and names neither the AAWC nor the CSWA. Four different men, two different managers, five years and two platforms apart, with the WWO team's own travelogue excluding this one's feds. DISTINCT on the documents, not merely unjoined."
+   }
+  ]
+ },
+ {
+  "id": "ultra-violent",
+  "type": "unit",
+  "name": "Ultra Violent",
+  "members": [
+   {
+    "name": "Prizm",
+    "character_id": "prizm"
+   },
+   {
+    "name": "Spectrum",
+    "character_id": "spectrum-aawc"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aawc",
+    "first_seen": "1996-10-25",
+    "last_seen": "1996-10-25",
+    "role": "tag team — announced for Oktoberfest '96 but missing at the bell",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own Oktoberfest '96 (Night 1) card of 25 October 1996, republished whole in NFW's news archive (promotions/nfw/archive/news-1996-10-25-aawc-oktoberfest-96-night-1.html)",
+    "note": "First and last seen are the one surviving AAWC document; the fed's own record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Announced for Oktoberfest '96 and then not there — the AAWC World Champion took their match, and by the end of the night the pair were walking to the ring behind him.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "with": [
+     "ultra-violents"
+    ],
+    "grade": "presumed",
+    "note": "A separate entity from ultra-violents (XUW), not a merge. The mint guard flags the near-identical label; nothing else in the collision doctrine's four-signal test matches — different promotion, different decade, different membership."
+   }
+  ]
+ },
+ {
+  "id": "arrogance-aawc",
+  "type": "unit",
+  "name": "Arrogance",
+  "members": [
+   {
+    "name": "Joey Melton",
+    "character_id": "joey-melton"
+   },
+   {
+    "name": "Steven Flair",
+    "character_id": "steven-flair-cswa"
+   },
+   {
+    "name": "Peyton Wright",
+    "character_id": "peyton-wright"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aawc",
+    "first_seen": "1996-10-25",
+    "last_seen": "1996-10-25",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own Oktoberfest '96 (Night 1) card of 25 October 1996, republished whole in NFW's news archive (promotions/nfw/archive/news-1996-10-25-aawc-oktoberfest-96-night-1.html)",
+    "note": "First and last seen are the one surviving AAWC document; the fed's own record does not state a debut or a departure."
+   },
+   {
+    "promotion": "cswa",
+    "first_seen": "1994",
+    "last_seen": "1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served card archive, read show by show for the tier-3 crawl"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Joey Melton's tag banner, carried first with Steven Flair — good for a CSWA World Tag Team title reign that lasted one night at ELVIS LIVES VIII — and later with Peyton Wright, who challenged for the AAWC Universal Tag Team titles in 1995 and were jumped in the aisle at Oktoberfest '96, reduced to one man before the bell and beaten anyway despite a chain and a small package.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 1,
+    "appearances": 15,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "ARROGANCE"
+  ],
+  "notes": "Merged from arrogance-aawc. Receipt: the AAWC's own card of 5 August 1995 introduces \"Joey Melton and Peyton Wright, collectively known as ARROGANCE\" challenging for the AAWC Universal Tag Team titles and says \"these two teams have met before in the CSWA.\" The CSWA tenure above is folded in from that row; data/aliases.json redirects arrogance-cswa to this id. The CSWA record also carries the banner over an earlier pairing — Joey Melton with Steven Flair, World Tag Team champions at ELVIS LIVES VIII in 1994 — recorded in members[] below."
+ },
+ {
+  "id": "the-untouchables-aawc",
+  "type": "unit",
+  "name": "The Untouchables",
+  "members": [
+   {
+    "name": "Benjamin Palmer",
+    "character_id": "benjamin-palmer"
+   },
+   {
+    "name": "Jason Knight",
+    "character_id": "jason-knight"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aawc",
+    "first_seen": "1996-10-25",
+    "last_seen": "1996-10-25",
+    "role": "tag team — AAWC Universal Tag Team title challengers",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own Oktoberfest '96 (Night 1) card of 25 October 1996, republished whole in NFW's news archive (promotions/nfw/archive/news-1996-10-25-aawc-oktoberfest-96-night-1.html)",
+    "note": "First and last seen are the one surviving AAWC document; the fed's own record does not state a debut or a departure."
+   },
+   {
+    "promotion": "cswa",
+    "first_seen": "1996-07-12",
+    "last_seen": "1996-09-06",
+    "role": "tag team — half of the X-Change side in WAR GAMES: THE MATCH BEYOND",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served cards, BATTLE OF THE BELTS XIV of 12 July 1996 and FISH FUND XI of 6 September 1996 (promotions/cswa/archive/battle-of-the-belts-xiv-1996-07-12.html, promotions/cswa/archive/fish-fund-xi-night-one-1996.html, promotions/cswa/archive/fish-fund-xi-night-two-1996.html)",
+    "note": "BATTLE OF THE BELTS XIV runs Jason Palmer and Dr. Thomas Knight down the aisle into the CS Express/<> Cutters cage match — \"They're not in the CSWA!\" \"They are now, my boy!\" — and the broadcast closes the beat with \"Thomas Knight made his return, reuniting the Untouchables with the X-Change.\" FISH FUND XI books them in a match: night one's WAR GAMES: THE MATCH BEYOND has \"America's Team\" against \"the X-Change/Untouchables Team\", and night two ends with \"the <>Cutters, Nathan Storm, and the UnTouchables\" running into the cage. MEMBERSHIP DISAGREES ACROSS THE TWO FEDS AND IS NOT RESOLVED HERE: the AAWC's Oktoberfest '96 card wrestles Benjamin Palmer and Jason Knight as the Untouchables with Dr. Thomas Knight on the apron; the CSWA's cards wrestle Jason Palmer and Dr. Thomas Knight. Dr. Thomas Knight is the one man both feds name identically, and the <> X-Change is the stable both name around this team. The members[] list is left as the AAWC card states it, and the character-level joins are recorded open in data/review-queue.json rather than forced."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Ran down the aisle into a CSWA cage match to reunite with the X-Change, then took a side in WAR GAMES: THE MATCH BEYOND, and won an ugly one at Oktoberfest '96 to book themselves into the following night's AAWC Universal Tag Team title match.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-untouchables-bcw-newa"
+    ],
+    "note": "A separate entity from the-untouchables-bcw-newa (BCW/NEWA), not a merge. The mint guard flags the shared label; the collision doctrine's four-signal test finds nothing else in common — different promotion, different decade, different membership, and nothing in either fed's own record connecting them."
+   }
+  ]
+ },
+ {
+  "id": "the-x-change-aawc",
+  "type": "unit",
+  "name": "<> X-Change",
+  "members": [
+   {
+    "name": "Nathan Storm",
+    "character_id": "nathan-storm"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aawc",
+    "first_seen": "1996-10-25",
+    "last_seen": "1996-10-25",
+    "role": "stable — credited by the fed's own commentary with the aisle attack that opened the Untouchables/Arrogance match",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own Oktoberfest '96 (Night 1) card of 25 October 1996, republished whole in NFW's news archive (promotions/nfw/archive/news-1996-10-25-aawc-oktoberfest-96-night-1.html)",
+    "note": "First and last seen are the one card that names the group; the fed's own record does not state a founding or a break-up. Nathan Storm is the only member the card names outright — \"Nathan Storm has been the forgotten man in the <> X-Change lately.\" The Untouchables carried out the same aisle attack the commentary credits to the group, but the card never says they belong to it, so they are not listed as members."
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "Named twice by the AAWC's own broadcast at Oktoberfest '96 and never introduced: the group the commentary credited with the ambush that left one half of Arrogance in a pool of blood and table remnants before the bell.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "notes": "The UWA's own card of 24 February 1997 refers to \"<> X members\" without expanding the name; this card gives the group its full billing sixteen months earlier."
+ },
+ {
+  "id": "generation-x-press-aawc",
+  "type": "unit",
+  "name": "Generation X-Press",
+  "members": [
+   {
+    "name": "Kurt Taylor",
+    "character_id": "kurt-taylor"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aawc",
+    "first_seen": "1996-10-25",
+    "last_seen": "1996-10-25",
+    "role": "tag team — booked against 187 at Oktoberfest '96 (Night 1)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own Oktoberfest '96 (Night 1) card of 25 October 1996, republished whole in NFW's news archive (promotions/nfw/archive/news-1996-10-25-aawc-oktoberfest-96-night-1.html)",
+    "note": "First and last seen are the one card that names the team; the fed's own record does not state a founding or a break-up. Kurt Taylor is the only member the card names — \"Kurt Taylor has basically carried the Generation X-Press by himself since joining the team.\" The booked match is not in the surviving copy of the card, so the team has a billed appearance and no match."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Booked against 187 at Oktoberfest '96 and carried, by the broadcast booth's own account, by one man; the match is not in the surviving copy of the card.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-generation-x"
+    ],
+    "note": "A separate entity from euwc-generation-x (EUWC), not a merge. The mint guard flags the shared \"Generation X\" stem; the collision doctrine's four-signal test finds nothing else in common — different promotion, different decade, different membership, and nothing in either fed's own record connecting them."
+   }
+  ]
+ },
+ {
+  "id": "the-triple-threat-aawc",
+  "type": "unit",
+  "name": "The Triple Threat",
+  "members": [
+   {
+    "name": "Scotty Michaels",
+    "character_id": "scotty-michaels-cswa"
+   },
+   {
+    "name": "Javid Dones",
+    "character_id": "javid-dones"
+   },
+   {
+    "name": "Jett Broadway",
+    "character_id": "jett-broadway"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aawc",
+    "first_seen": "1997-07-09",
+    "last_seen": "1997-07-09",
+    "role": "stable — the AAWC World Heavyweight Champion's own group",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the Prodigy Wrestling BB's own FW Central league register of 9 July 1997 (promotions/prodigy/archive/fw-central-league-info-1997-07-09.html)",
+    "note": "First and last seen are the one document that names the group; the fed's own record does not state a founding or a break-up. Dr. Silver rode with them at World War Games 3 as \"their number one draft pick\" rather than as a named member, and is not listed here."
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "The AAWC World Heavyweight Champion's own group in the summer of 1997 — Scotty Michaels with \"Devil's Advocate\" Javid Dones and Jett Broadway — booked into a World War Games double-cage main event at Wembley Stadium with a fourth man drafted in beside them.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-triple-threat-lcw-1997",
+     "triple-threat-rwa-rugged",
+     "triple-threat-wwa"
+    ],
+    "note": "A separate entity from the same-named units in LCW (1997), RWA Rugged and the WWA, not a merge. The mint guard flags the shared label; the collision doctrine's four-signal test finds nothing else in common — different promotions, different membership, and nothing in any fed's own record connecting them."
+   }
+  ]
+ }
+]

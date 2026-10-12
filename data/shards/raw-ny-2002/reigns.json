@@ -1,0 +1,79 @@
+[
+ {
+  "id": "war-manhattan-championship-raw-ny-r1",
+  "title": "war-manhattan-championship-raw-ny",
+  "label": "Saul Akiva",
+  "holder": [
+   {
+    "id": "saul-akiva-raw-ny"
+   }
+  ],
+  "won": {
+   "date": "2002-04-12",
+   "precision": "exact",
+   "source": "Won a tournament final over Jason Charter to become the first Manhattan Champion."
+  },
+  "lost": {
+   "date": "2002-05-06",
+   "precision": "exact"
+  },
+  "how": "Title taken (not won in a match) by Talon Vickers after Akiva was hurt escaping a cage.",
+  "event": "raw-ny-2002-war-zone-2002-04-12",
+  "note": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "war-heavyweight-championship-raw-ny-r1",
+  "title": "war-heavyweight-championship-raw-ny",
+  "label": "Omega",
+  "holder": [
+   {
+    "id": "omega-raw-ny"
+   }
+  ],
+  "won": {
+   "date": "2002-06-12",
+   "precision": "exact",
+   "source": "Escaped a steel cage ahead of champion Richard Wyngarde, over interference from Morten Wyngarde at ringside."
+  },
+  "event": "raw-ny-2002-war-zone-2002-06-12",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "war-manhattan-championship-raw-ny-r2",
+  "title": "war-manhattan-championship-raw-ny",
+  "label": "Saul Akiva",
+  "holder": [
+   {
+    "id": "saul-akiva-raw-ny"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Held the title entering the 12 June 2002 broadcast, regained the previous week in a six-man elimination match; retained against Talon Vickers on this broadcast."
+  },
+  "event": null,
+  "note": "Not won on a held broadcast; retained, not crowned, on the 12 June 2002 card.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "war-tv-championship-raw-ny-r1",
+  "title": "war-tv-championship-raw-ny",
+  "label": "Hammerstein",
+  "holder": [
+   {
+    "id": "hammerstein-raw-ny"
+   }
+  ],
+  "won": {
+   "date": "2002-04-12",
+   "precision": "exact",
+   "source": "Won a battle royal to become the first TV Champion."
+  },
+  "event": "raw-ny-2002-war-zone-2002-04-12",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ }
+]

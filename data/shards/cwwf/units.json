@@ -1,0 +1,155 @@
+[
+ {
+  "id": "balls-brothers-cwwf",
+  "name": "The Balls Brothers",
+  "members": [
+   {
+    "character_id": "big-b-bob-cwwf",
+    "name": "Big B Bob"
+   },
+   {
+    "character_id": "little-b-joe-cwwf",
+    "name": "Little B Joe"
+   }
+  ],
+  "caption": "Big B Bob and Little B Joe, who won the CWWF Television Tag Team Championship at 'Nite of Living Hell' on 1 November 1996.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "cwwf",
+    "note": "Won the CWWF Television Tag Team Championship at 'Nite of Living Hell' (1 Nov 1996)."
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "id": "more-ice-cwwf",
+  "name": "More Ice",
+  "members": [
+   {
+    "character_id": "jc-ice-cwwf",
+    "name": "JC Ice"
+   },
+   {
+    "character_id": "hugh-morris-cwwf",
+    "name": "Hugh Morris"
+   }
+  ],
+  "caption": "JC Ice and Hugh Morris's own tag pairing, losing the CWWF Television Tag Team Championship at 'Nite of Living Hell' before turning on each other in the aftermath.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "cwwf",
+    "note": "Lost the CWWF Television Tag Team Championship at 'Nite of Living Hell', the partners turning on each other in the aftermath."
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "id": "mc-masters-cwwf",
+  "name": "MC Masters",
+  "members": [
+   {
+    "character_id": "chief-rocca-cwwf",
+    "name": "Chief Rocca"
+   },
+   {
+    "character_id": "funky-child-cwwf",
+    "name": "Funky Child"
+   }
+  ],
+  "caption": "A unit billed by CWWF in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "cwwf",
+    "note": "Unsuccessfully challenged for the CWWF World Tag Team Championship at 'Nite of Living Hell'."
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "id": "the-crusher-cwwf",
+  "name": "The Crusher",
+  "members": [
+   {
+    "character_id": "big-poppa-cwwf",
+    "name": "Big Poppa"
+   },
+   {
+    "character_id": "the-pimp-cwwf",
+    "name": "The Pimp"
+   }
+  ],
+  "caption": "Big Poppa and The Pimp, who retained the CWWF World Tag Team Championship against MC Masters at 'Nite of Living Hell,' the only such reign this corpus attests.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "cwwf",
+    "note": "Retained the CWWF World Tag Team Championship at 'Nite of Living Hell'."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; no identity join is asserted (bare-name match is insufficient)",
+    "with": [
+     "the-crusher-napw",
+     "the-crusher-rswa",
+     "the-crusher-uwow",
+     "the-crusher-wewf"
+    ]
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ }
+]

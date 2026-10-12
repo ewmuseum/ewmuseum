@@ -1,0 +1,81 @@
+[
+ {
+  "id": "hc-2000-uswf-1998",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "HC-2000",
+  "tenures": [
+   {
+    "promotion": "uswf-1998",
+    "first_seen": "1998-04-12",
+    "last_seen": "1998-04-29",
+    "source": "Formed on-air at the fed's own Promo Card (11 April 1998) as 'the hardcore wrestlers of the future,' managed by Scorp; fought through the Championship Tournament and the TV Title Battle Royal."
+   }
+  ],
+  "members": [
+   "spider-uswf-1998",
+   "sha-dog-uswf-1998",
+   "james-the-hitman-uswf-1998"
+  ],
+  "caption": "A self-declared 'hardcore' stable managed by Scorp, in a running feud with the wrestler Death throughout the fed's documented run.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "rail-road-express-uswf-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Rail Road Express",
+  "tenures": [
+   {
+    "promotion": "uswf-1998",
+    "first_seen": "1998-04-29",
+    "last_seen": "1998-05-10",
+    "source": "Competed at the TV Title Battle Royal (29 April) and won the fed's own first Tag Team Championship at its first pay-per-view (10 May), managed by Sammy."
+   }
+  ],
+  "members": [
+   "freight-uswf-1998",
+   "diesel-uswf-1998"
+  ],
+  "caption": "The fed's own first Tag Team Champions, managed by Sammy, who went on to co-found the larger stable Revolution Zero the night they won the belts.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "the-gods-uswf-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Gods",
+  "tenures": [
+   {
+    "promotion": "uswf-1998",
+    "first_seen": "1998-05-10",
+    "last_seen": "1998-05-10",
+    "source": "Competed for the fed's own first Tag Team Championship at its first pay-per-view, managed by Hades; lost to Rail Road Express."
+   }
+  ],
+  "members": [
+   "mars-uswf-1998",
+   "apollo-uswf-1998"
+  ],
+  "caption": "A tag team managed by Hades, defeated in the fed's own inaugural Tag Team Championship match.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ }
+]

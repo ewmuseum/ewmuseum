@@ -1,0 +1,118 @@
+[
+ {
+  "id": "zach-zagar-nmsewf",
+  "type": "character",
+  "name": "Zach Zagar",
+  "tenures": [
+   {
+    "promotion": "nmsewf-1998",
+    "first_seen": "1998-03-17",
+    "last_seen": "1998-03-17",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/nmsewf-1998/archive/nmsewf-tuesday-nights-main-event-1998-03-17.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Won a fourteen-man battle royal to become NMSEWF Heavyweight Champion, eliminating Eric Righteous last at 38:41 on Tuesday Night's Main Event.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "eric-righteous-nmsewf",
+  "type": "character",
+  "name": "Eric Righteous",
+  "tenures": [
+   {
+    "promotion": "nmsewf-1998",
+    "first_seen": "1998-03-17",
+    "last_seen": "1998-03-17",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/nmsewf-1998/archive/nmsewf-tuesday-nights-main-event-1998-03-17.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Reached the final two of a fourteen-man battle royal for the NMSEWF Heavyweight Championship before Zach Zagar threw him out to win it.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "eric-righteous-sbs"
+    ],
+    "note": "A different persona of the same name is recorded elsewhere; nothing links the two beyond the bare name."
+   }
+  ]
+ },
+ {
+  "id": "simon-mcquaid-nmsewf",
+  "type": "character",
+  "name": "Simon McQuaid",
+  "tenures": [
+   {
+    "promotion": "nmsewf-1998",
+    "first_seen": "1998-03-17",
+    "last_seen": "1998-03-17",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/nmsewf-1998/archive/nmsewf-tuesday-nights-main-event-1998-03-17.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Reached the final three of a fourteen-man NMSEWF Heavyweight Championship battle royal before being eliminated by Zach Zagar.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "simon-mcquaid-gpro98"
+    ],
+    "note": "A same-named wrestler is separately recorded, self-narrating tenures in other 1998-99 wings; nothing in this pass's own reading links that record to this one beyond the bare name."
+   }
+  ]
+ }
+]

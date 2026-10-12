@@ -1,0 +1,116 @@
+[
+ {
+  "id": "southern-tradition-avw-2001",
+  "type": "unit",
+  "name": "Southern Tradition",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Jack Diamonds",
+    "character_id": "jack-diamonds-avw-2001"
+   },
+   {
+    "name": "Tony Dunn",
+    "character_id": "tony-dunn-avw-2001"
+   }
+  ],
+  "caption": "\"Outlaw\" Jack Diamonds and \"The Rebel\" Tony Dunn, the local bar-room brawlers whose feud with the Board of Education ran from the promotion's first cards to a tag title match at Bluegrass Bash.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "avw-2001",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "role": "tag team",
+    "source": "the promotion's served cards of 5 and 26 February 2001, its March 2001 press conference and its Bluegrass Bash line-up",
+    "finisher": "Southern Hospitality"
+   }
+  ]
+ },
+ {
+  "id": "board-of-education-avw-2001",
+  "type": "unit",
+  "name": "Board of Education",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Tha' Dean",
+    "character_id": "tha-dean-avw-2001"
+   },
+   {
+    "name": "Tha' Professor",
+    "character_id": "tha-professor-avw-2001"
+   }
+  ],
+  "caption": "Tha' Dean and Tha' Professor, with their valet Ms. ABC, the promotion's first Tag Team Champions, crowned on 5 February 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "avw-2001",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "role": "tag team",
+    "source": "the promotion's served cards of 5 and 26 February 2001, its March 2001 press conference and its Bluegrass Bash line-up",
+    "finisher": "K-12 Dropout"
+   }
+  ]
+ },
+ {
+  "id": "football-hooligans-avw-2001",
+  "type": "unit",
+  "name": "Football Hooligans",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Dazzer",
+    "character_id": "dazzer-avw-2001"
+   },
+   {
+    "name": "Smithy",
+    "character_id": "smithy-avw-2001"
+   }
+  ],
+  "caption": "Dazzer and Smithy, the English football-shirted newcomers beaten by Mike Gillis and Laramee in a three-way elimination tag match on 26 February 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "avw-2001",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "role": "tag team",
+    "source": "the promotion's served card of 26 February 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "football-hooligans-wwa"
+    ],
+    "note": "A generic team name also used in another federation; no document links the two teams."
+   }
+  ]
+ }
+]

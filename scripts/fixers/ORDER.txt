@@ -1,0 +1,170 @@
+fix-tenureless-records.py
+# ORDER.txt — the standing preflight fixers, in the order scripts/ops/preflight.sh runs them.
+# One name per line; blank lines and # comments ignored. Every fixer here is idempotent and
+# safe to run on a clean tree. Adding a standing fix = one line here (the Janitor 2026-09-12:
+# "if we fix something once it needs to persist").
+
+fix-lost-records.py
+fix-alias-twins.py
+fix-shard-assignment.py
+fix-allow-follows-tenure.py
+# A-Z CARD ANCHORS (hook c280, 2026-10-11; board card az-bucket-allow-drift, gates 376/394): an allow's characters/a-z/<page>.html
+# scope becomes characters/a-z/#<id>, the roster card itself, which the privacy gate finds wherever a re-split moves it.
+fix-az-allow-cards.py
+fix-reign-event-wire.py
+strip-audit-claims.py
+fix-empty-evidence.py
+fill-title-award-pages.py
+stamp-document-lang.py
+fix-provenance-notes-shape.py
+fix-end-how.py
+refile-unassigned.py
+preflight91-fixes.py
+fix-matches-shape.py
+fix-match-order-winner-side.py
+fix-empty-match-strings.py
+fix-stub-shows.py
+gate81-validate-fixes.py
+scrub-registry-privacy.py
+check-memorial-exemption.py
+preflight126-fixes.py
+widen-persona-allows.py
+fix-community-presence.py
+fix-orphan-reign-events.py
+fix-remove-sentinel.py
+fix-tenure-promotion.py
+fix-closed-vs-years.py
+fix-served-prose.py
+fix-provenance-notes.py
+fix-provenance-summary-cap.py
+fix-pn-source-kinds.py
+apply-documents-missing.py
+fix-documents-orphan-rows.py
+fix-provenance-block.py
+fix-footer-legacy-prose.py
+fix-document-date-precision.py
+fix-doc-class-v109.py
+fix-redaction-marker-escape.py
+fix-bare-redaction-markers.py
+fix-redaction-marker-canon.py
+# THE MARKER NAMES NOTHING (hook c208, 2026-10-09; the Janitor's D480 "(a) plain rename"): the eight wordings that each
+# named the kind of detail withheld become "[name withheld]" and "[detail withheld]". Runs AFTER the canon fixer, which
+# folds any non-canonical wording into the two, so between them nothing else survives a preflight.
+fix-redaction-marker-rename.py
+# THE FIRST MARKER LINKS TO THE RULE (hook c185, 2026-10-09; the Janitor's D466, finding C04): runs AFTER the canon fixer, so
+# the marker it wraps has already been normalised. The wrap sits outside the span, so every other marker pass still matches.
+fix-redaction-marker-link.py
+fix-chrome-double-escape.py
+# LEGACY HOST SCRIPTS (hook c200, 2026-10-09; the Janitor: "Eh kill those legacy script tags"): takes the script tags a free host (Freewebs: the /i.js loader and the
+# Google Urchin call, whole or cut off at the end of the body) and one forum software (XenForo's inert lightbox phrase table) injected into recovered period
+# documents out of promotions/ and memorials/ .html, so a later capture never brings them back. Exact byte signatures only, nothing else in a page changes, the
+# museum's own scripts are never matched. Page cleanup, with the redaction and chrome fixers; before gen-wing-index.py. Idempotent.
+fix-legacy-host-scripts.py
+gen-wing-index.py
+fix-units-membership-unknown.py
+fix-orphan-entity-pages.py
+fix-promotion-sources-unknown.py
+fix-eliminations-shape.py
+fix-registry-enums.py
+fix-contact-lines.py
+fix-disclosure-counts.py
+fix-missing-shard-files.py
+fix-bestowals-retired.py
+fix-retired-rp-links.py
+fix-promotion-page-field.py
+stamp-promotion-dates.py
+fix-show-collected-flag.py
+fix-shard-duplicate-ids.py
+fix-champion-to-holder.py
+# 2026-10-08: also in preflight (was window-only, before merge-batch): a window's merge pass can leave a survivor's identity
+# naming its own folded-in ids (damien-stone-gxw-2001, preflight 331 red); this resolves them through aliases and drops self-links.
+fix-identity-unknown-ids.py
+fix-identity-shape.py
+fix-identity-grades.py
+fix-rp-unknown-date.py
+fix-sideless-matches.py
+fix-ungraded-authorship.py
+fix-title-event-shape.py
+apply-aliases-additions.py
+# ALIAS CORRECTIONS (hook c81, 2026-10-05): a wave's delta/data/aliases-corrections.json re-points an EXISTING aliases.json row
+# ({from, field: to, old, new, why}); lands only where the live field equals `old`, never deletes a row, refuses a chain, twin or
+# dangling target. After apply-aliases-additions, before fix-alias-chains.
+apply-aliases-corrections.py
+# ALIAS CHAINS (2026-10-03, lane GTT-PASS2-LANDPREP; D244 pass 2): an alias whose `to` a later merge retired
+# (munson-prime -> munson-ptc -> munson-prime-2003) is re-pointed through aliases.json and retired-ids.tsv "merged into"
+# rows to the live survivor. Only `to` values that do not resolve; own indent; idempotent; a cycle or a dead end is
+# refused loudly (row left, exit 3). After apply-aliases-additions so it sees every alias preflight adds.
+fix-alias-chains.py
+# RETIRED-ID REPOINT AFTER ALIASES (2026-09-29, preflight 216 red): repoint-retired ran only in window.sh B4, BEFORE this
+# preflight's apply-aliases-additions added wave-CARE-SEAN-0929's kenjiro-ito-team -> kenjiro-ito alias, so the fold's
+# four team-2005 show references (appearances + match sides) were never forwarded. It runs again here, after the alias
+# lands; references only, idempotent. Then the rp-catalog authors the same retirements leave dangling
+# (wave-PLACEHOLDERS-0929's mystery-opponent: re-credited in the uwf shard, not in data/rp-catalog.json).
+repoint-retired.py
+fix-catalog-authors.py
+fix-served-source-links-styles.py
+apply-relationships-append.py
+
+# J38b (2026-09-27): five shapes that waves had been filing for weeks with nothing reading them, and one applier that
+# was only ever reachable from a hand-copied per-cycle script. All six walk WAVE_TREES themselves and mark each file
+# they land, so they are no-ops on a clean tree. See the workshop's kit-j38b/README.md.
+apply-shard-enrich.py
+# 2026-10-08 (hook c141; preflight 348 red): an enrich file's identity_append can name an id a window's merge pass already retired
+# (wave-IDENTITY-LEADS-1008B: chris-titan-jolt-2001, problem-child-tww-2008, superstar-vince-jacobs-jolt-2001), and the one run of this
+# fixer above runs BEFORE this applier. Run it again here, with nothing after it that writes identity.
+fix-identity-unknown-ids.py
+apply-review-queue-append.py
+apply-affiliations-append.py
+apply-affiliations-corrections.py
+apply-frontier-leads-append.py
+# FRONTIER QUEUE YEAR (hook c146, 2026-10-08): queue_year / queue_year_basis on every frontier row — the row's EARLIEST
+# ATTESTED year and the field that produced it, the one key /frontier.html and the Wayback/Common Crawl queues both sort on
+# (the Janitor: "priority should be based on the earlier year we observed them"; the workshop's QUEUE-POLICY.md). Derived
+# from the workshop's tools/year_key.py so a census pass that adds rows, or dates an old one, never leaves the served order
+# stale; a clone with no workshop beside it is a no-op and the committed values stand. After the frontier appliers above, so
+# it reads the rows they just wrote.
+fix-frontier-queue-year.py
+apply-epitaph-authorship-append.py
+
+# J40b (2026-09-27): corrects a FIELD of a review-queue row that is already in the file — the one surface the old
+# bare-word repoint fixer damaged that no applier could repair (wave-REPOINT-REPAIR-0927-RQ's 113 tokens). Walks
+# WAVE_TREES, marks each file it lands, old-value-matched, so it is a no-op on a clean tree.
+# See the workshop's kit-j40b/README.md.
+apply-review-queue-corrections.py
+
+# 2026-09-27 (coordinator, preflight 203 red): review-queue candidates must name live records; a row appended weeks after
+# its candidates were merged away (or naming a reign id) is repointed here, after the queue appliers above. Rows whose
+# candidates all resolve are never touched.
+fix-review-queue-candidates.py
+
+# FORUM-MACHINERY (2026-09-28): a top-level field of an rps row that is already in a shard — `served_url` above all, the
+# field that links a served roleplay page to the row it documents (wave-PTC-FORUM-SERVE-1's 22 rp pages). Old-value
+# matched, one shard write in the shard's own indent, a per-file .APPLIED marker, exit 1 on a stale `old`, so a
+# correction whose premise has moved is left for a ruling instead of being stamped away. Walks WAVE_TREES itself.
+apply-rps-corrections.py
+# FIGURE ALIASES (2026-09-28, preflight 207 red): a character's portrays.figure / portrayal_of naming an external figure
+# since folded forward in data/aliases.json (taz-real -> tazz-real, wave-FIGURES-DEDUP-0927) is repointed to the alias's
+# target when it resolves; references only, own indent, idempotent. Any wave built before a figure fold lands clean.
+fix-figure-aliases.py
+fix-ebwf-iron-man-link.py
+# REIGN LOST SHAPE (2026-09-28, preflight 208 red): a reign whose `lost` is an object with no `precision` (wave-SCCW-REIGNS landed
+# five still-champion-at-record-end rows as {"source": ...}) gets the settled {"date": "unknown", "precision": "unknown", ...}.
+fix-reign-lost-shape.py
+
+# LIVING PULSE FEED (hook c100, 2026-10-06; the Janitor's D408 "(b) a public feed on the ungated path"): carries the workshop's
+# living-preservation/upcoming.ics (living-pulse.py, weekly) to crawler/upcoming.ics, served ungated at /crawler/upcoming.ics.
+# Shape-guarded (UID, DTSTAMP, DTSTART date, SUMMARY "Fed — Show", URL, the one fixed DESCRIPTION; anything else is refused and
+# the served copy left as it is); past dates drop off; writes only when the bytes change.
+sync-living-pulse-feed.py
+
+# PATH SCRUB (hook c111, 2026-10-07; the Janitor: the served registries must not expose the machine's local or workshop paths): takes each such path
+# out of the source shards and top-level registries (the path and its own separator; the description of the evidence stays), and logs what it removed in
+# the workshop (the workshop's path-scrub-ledger.tsv). LAST in this list, so every fixer above has written its source fields first; build:data runs after.
+scrub-workshop-paths.py
+
+# WHITESPACE (hook c160, 2026-10-08; the Janitor 2026-09-12: "If we fix something once it needs to persist"): strips trailing spaces and tabs, and a
+# blank line at the end of a file, from what THIS window changed (the lines a tracked file gained since HEAD; every line of an untracked file), so the
+# commit hook's `git diff --check` never halts a build on them. Skips every path .gitattributes exempts from the whitespace check (the served
+# promotions/*/archive and */rp documents, whose own bytes are the record; crawler/*.ics). LAST in this list, after scrub-workshop-paths.py and
+# every fixer above, because any of them can leave a trailing space behind. The gate's own sed still strips the touched .html after the regen.
+fix-whitespace.py

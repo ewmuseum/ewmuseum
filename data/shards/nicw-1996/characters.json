@@ -1,0 +1,186 @@
+[
+ {
+  "id": "falcon-nicw",
+  "type": "character",
+  "name": "Falcon",
+  "caption": "A three-time NICW World Champion, \"The Bird of Prey\" lost the title to challenger Mike D'Angelo in a thirty-minute Ironman main event, two falls to one.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "nicw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-05",
+    "last_seen": "1996-05",
+    "source": "The fed's own 'NICW Wrestlefest - RSP-WF Edition' main event (23 May 1996) and its own news bulletin (18 May 1996), which bills Falcon as a possible NICW departure after the show."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named character in another wing (falcon-mckenzie); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "falcon-mckenzie"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mike-dangelo-nicw",
+  "type": "character",
+  "name": "\"Masta Ace\" Mike D'Angelo",
+  "caption": "Won his first title, the NICW World Heavyweight Championship, upsetting three-time champion Falcon two falls to one in a thirty-minute Ironman match.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "nicw-1996",
+    "role": "wrestler -- NICW World Heavyweight Champion (1 reign)",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-05",
+    "last_seen": "1996-06",
+    "source": "The fed's own 'NICW Wrestlefest - RSP-WF Edition' main event (23 May 1996); subject of a separate four-part in-fiction career-tribute thread the same week (not served)."
+   }
+  ]
+ },
+ {
+  "id": "david-pietka-nicw-1996",
+  "type": "character",
+  "name": "\"The Unforgiven\" David Pietka",
+  "caption": "The NICW World Heavyweight Champion of the fed's own 1999 revival, undefeated at 6-0-0 by the promotion's own April rankings.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "nicw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — NICW World Heavyweight Champion",
+    "first_seen": "by 1999-04",
+    "last_seen": "1999-04-21",
+    "grade": "primary-source",
+    "source": "Billed the NICW World Heavyweight Champion (6-0-0) in the promotion's own \"NICW Official Rankings\" (21 April 1999)."
+   }
+  ]
+ },
+ {
+  "id": "dr-hate-nicw-1996",
+  "type": "character",
+  "name": "Dr. Hate",
+  "caption": "The NICW Transcontinental Champion of the fed's own 1999 revival, ranked 6-1-0 by the promotion's own April rankings.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "nicw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — NICW Transcontinental Champion",
+    "first_seen": "by 1999-04",
+    "last_seen": "1999-04-21",
+    "grade": "primary-source",
+    "source": "Billed the NICW Transcontinental Champion (6-1-0) in the promotion's own \"NICW Official Rankings\" (21 April 1999)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares the bare ring name \"Dr. Hate\" with an unrelated character in another held promotion (awmc, first attested August 1999) and an unrelated RSPWF Top 200 stub (tagged only to GEWA/CWLA/UCW, none of them this wing); no shared operator, roster or continuity evidence connects any of the three.",
+    "with": [
+     "dr-hate-awmc",
+     "dr-hate-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "big-stupid-tobias-rodland-rspwf",
+  "type": "character",
+  "name": "\"Big Stupid\" Tobias Rodland",
+  "aka": [
+   "Tobias Rodland",
+   "Toby"
+  ],
+  "notes": "Known from 2 posts to rec.sport.pro-wrestling.fantasy (12 May 1999 and 12 May 1999), served at /promotions/rspwf/archive/rp-please-critique-1999-05-12.html and /promotions/rspwf/archive/rp-please-critique-1999-05-12-2.html: a massive slow-witted man prodded to train by his cane-wielding father",
+  "caption": "A huge, simple-minded NICW wrestler who fights a muzzled bear and mourns his pet, May 1999.",
+  "tenures": [
+   {
+    "promotion": "nicw-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-05-12",
+    "last_seen": "1999-05-12",
+    "source": "/promotions/rspwf/archive/rp-please-critique-1999-05-12.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "toby-uwa"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ }
+]

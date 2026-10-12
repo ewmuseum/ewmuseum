@@ -1,0 +1,80 @@
+[
+ {
+  "id": "da-lench-mob-uscw-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Da Lench Mob",
+  "aka": [],
+  "members": [
+   "seagram-uscw-1998",
+   "mopreme-uscw-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "uscw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-05-04",
+    "last_seen": "1998-05-04",
+    "source": "Won the USCW Tag Team Title at Battle Bowl: May Day '98, though only Seagram wrestled the title match itself.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Won the USCW Tag Team Title at Battle Bowl, though only one member wrestled the title match itself.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "total-destruction-uscw-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Total Destruction",
+  "aka": [],
+  "members": [
+   "joe-mills-uscw-1998",
+   "dana-czech-uscw-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "uscw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-05-04",
+    "last_seen": "1998-05-04",
+    "source": "Lost the USCW Tag Team Title to Da Lench Mob at Battle Bowl: May Day '98.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "The reigning USCW Tag Team Champions, dethroned by Da Lench Mob at Battle Bowl.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A bare ring-name match against an unrelated entity elsewhere in the registry; no shared operator, URL, roster, or chronology axis found (acronym/name-alone is not a join). Recorded distinct per the collision doctrine's no-merge default.",
+    "with": [
+     "total-destruction-bcw-2008"
+    ]
+   }
+  ]
+ }
+]

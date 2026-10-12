@@ -1,0 +1,417 @@
+[
+  {
+    "id": "tim-worthington-ukwa",
+    "type": "character",
+    "name": "Tim Worthington",
+    "caption": "A two-time former MWA World Heavyweight Champion who returned to the ring for UKWA's own Champions League after the birth of his son.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Billed as a two-time former MWA World Heavyweight Champion making his UKWA in-ring return in the Champions League on the 5 April 2004 UpRising broadcast, where he lost to Cicatriz."
+      }
+    ]
+  },
+  {
+    "id": "cicatriz-ukwa",
+    "type": "character",
+    "name": "Cicatriz",
+    "caption": "A UKWA Champions League wrestler who won her opening-round match after a disqualification ruling against her was overturned by a contract clause.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Defeated Tim Worthington by pinfall (the Faisca) in the Champions League on the 5 April 2004 UpRising broadcast, after an initial disqualification against her was overturned under a clause in her own contract."
+      }
+    ],
+    "aka": [
+      "Cica"
+    ]
+  },
+  {
+    "id": "angelus-dellanuite-ukwa",
+    "type": "character",
+    "name": "Angelus Dellanuite",
+    "caption": "A UKWA Champions League wrestler who won his opening-round match by pinfall and is set for a grudge match the following week.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Defeated Synskin by pinfall (a spinning kick) in the Champions League on the 5 April 2004 UpRising broadcast; billed for a further match against Koahaka the following week."
+      }
+    ],
+    "aka": [
+      "Angel"
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (angel-aicw); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "angel-aicw"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (angel-iewae); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "angel-iewae"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (angel-inwi); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "angel-inwi"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (angel-nfw); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "angel-nfw"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (angel-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "angel-rspwf"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (angel-uwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "angel-uwf"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (mystique-wwa); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "mystique-wwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elysa-stone-ukwa",
+    "type": "character",
+    "name": "Elysa Stone",
+    "caption": "The on-screen manager of UKWA Champions League wrestlers Angelus Dellanuite and Cicatriz.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "manager"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Billed as Angelus Dellanuite and Cicatriz's manager on the 5 April 2004 UpRising broadcast."
+      }
+    ]
+  },
+  {
+    "id": "synskin-ukwa",
+    "type": "character",
+    "name": "Synskin",
+    "caption": "A UKWA Champions League wrestler who lost to Angelus Dellanuite by pinfall after a late kick.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Lost to Angelus Dellanuite by pinfall on the 5 April 2004 UpRising broadcast; billed for a further match against Ed Sharples the following week."
+      }
+    ]
+  },
+  {
+    "id": "mark-severed-ukwa",
+    "type": "character",
+    "name": "Mark Severed",
+    "caption": "The on-screen manager of UKWA Champions League wrestler Synskin.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "manager"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Billed as Synskin's manager on the 5 April 2004 UpRising broadcast."
+      }
+    ]
+  },
+  {
+    "id": "veronique-ukwa",
+    "type": "character",
+    "name": "Veronique",
+    "caption": "A UKWA Champions League wrestler pulled from the tournament after an in-story backstage attack.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Withdrawn from her scheduled Champions League match against Ed Sharples on the 5 April 2004 UpRising broadcast after an in-story attack by Koahaka, who took her place; the promotion rules her out of the tournament entirely rather than rescheduling her."
+      }
+    ],
+    "aka": [
+      "Marcie du Toit"
+    ]
+  },
+  {
+    "id": "ed-sharples-ukwa",
+    "type": "character",
+    "name": "\"The Man\" Ed Sharples",
+    "caption": "A UKWA Champions League wrestler who lost his opening-round match to a late replacement opponent.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Lost to Koahaka in the Champions League on the 5 April 2004 UpRising broadcast, after Koahaka was substituted in as a late replacement for the original opponent; billed for a further match against Synskin the following week."
+      }
+    ]
+  },
+  {
+    "id": "koahaka-ukwa",
+    "type": "character",
+    "name": "Koahaka",
+    "caption": "A UKWA wrestler added to the Champions League as a late replacement after attacking another competitor backstage.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Defeated \"The Man\" Ed Sharples in the Champions League on the 5 April 2004 UpRising broadcast, entering the match as a late replacement after attacking Veronique backstage; billed for a further match against Angelus Dellanuite the following week."
+      }
+    ]
+  },
+  {
+    "id": "steve-pinex-ukwa",
+    "type": "character",
+    "name": "Steve Pinex",
+    "caption": "A UKWA Champions League wrestler who lost the broadcast's main event by pinfall.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Lost to Protean by pinfall in the Champions League main event on the 5 April 2004 UpRising broadcast."
+      }
+    ]
+  },
+  {
+    "id": "richard-kendall-ukwa",
+    "type": "character",
+    "name": "\"The Major\" Richard Kendall",
+    "caption": "UKWA's own on-screen President, who oversees the promotion's Champions League tournament and, by the time of the promotion's 2005 relaunch bid, is rumoured to hold influence with a rival promotion.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "authority-figure"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2005-01",
+        "source": "Opens the 5 April 2004 UpRising broadcast as UKWA's own President; a January 2005 press release names him again, by then said to hold a position of power at the rival Millennium Wrestling Alliance that might let him restart UKWA himself."
+      }
+    ]
+  },
+  {
+    "id": "joe-kameeleihiwa-ukwa",
+    "type": "character",
+    "name": "Joe Kame'eleihiwa",
+    "caption": "A UKWA wrestler who won his debut match by submission and later joined Koahaka in confronting Angelus Dellanuite.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ukwa",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "Won a debut match by submission (the Ho'eha O Make Loa) on the 5 April 2004 UpRising broadcast, replacing an unnamed originally-scheduled wrestler; later confronts Angelus Dellanuite alongside Koahaka in a post-match angle."
+      }
+    ]
+  }
+]

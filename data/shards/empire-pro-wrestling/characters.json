@@ -1,0 +1,5739 @@
+[
+ {
+  "id": "mike-diamond-epw",
+  "type": "character",
+  "name": "Mike Diamond",
+  "caption": "An Empire Pro Wrestling competitor returning from a neck injury for the promotion's opening card.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with an existing character in the held GIWF wing. No document read this pass names both feds together or attests any shared history, roster, or operator connection between them; filed distinct on the no-auto-merge default pending contrary evidence.",
+    "with": [
+     "mike-diamond-giwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-01",
+    "last_seen": "2004-01",
+    "source": "\"Mike Diamond vs. Karl \\\"The Dragon\\\" Brown\" (10-18 January 2004), returning from a neck injury to face a new arrival on the promotion's opening card"
+   }
+  ]
+ },
+ {
+  "id": "beast-epw",
+  "type": "character",
+  "name": "Beast",
+  "caption": "A touring wrestler billed by both men's own words as headlining Empire Pro Wrestling's first-ever card against \"the Ego Buster\" Dan Ryan, later inducted into the fed's own Hall of Fame.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with three existing held characters. No document read this pass ties any of them to Empire Pro Wrestling; filed distinct on the no-auto-merge default pending contrary evidence.",
+    "with": [
+     "beast-lcw-1997",
+     "beast-usew",
+     "euwc-beast"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "beast-gxw-2001",
+     "beast-iga-2003",
+     "beast-lcw-1997",
+     "beast-rspwf",
+     "beast-usew",
+     "euwc-beast",
+     "monty-brown-uwf-uwow"
+    ],
+    "note": "The name or an alias is shared with an existing record on another wing; nothing in either source links the two, so they are kept apart."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-01",
+    "last_seen": "2004-01",
+    "source": "\"Ego Buster\" Dan Ryan vs. Beast (10-18 January 2004), billed by both men's own words as the main event of the promotion's first card; the document identifies him as also active in another wrestling promotion of the period"
+   },
+   {
+    "promotion": "team-2005",
+    "first_seen": "2005-10-31",
+    "last_seen": "2006-03-03",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own Complete Bracket document (31 October 2005) and its EPICENTER/GAMEDAY broadcast recaps of the TEAM Invitational Tournament"
+   },
+   {
+    "promotion": "ucw-2006",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'6\"",
+    "weight": "285 pounds",
+    "hometown": "Winnipeg, Manitoba, Canada",
+    "first_seen": "2006-07-01",
+    "last_seen": "2007-03-11",
+    "source": "Named in the fed's own forum posts, 1 July 2006 to 11 March 2007."
+   }
+  ],
+  "aka": [
+   "The Alpha Male",
+   "The Apex Predator"
+  ]
+ },
+ {
+  "id": "fusenshoff-epw",
+  "type": "character",
+  "name": "Fusenshoff",
+  "caption": "Empire Pro Wrestling's Television Champion defending the belt against a member of The Anthology at Aggression 41.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2008-08",
+    "last_seen": "2009-10",
+    "source": "\"AGGRESSION 41: TV Title Match: Fusenshoff (c) vs. Shawn Hart\" (5-14 January 2009), defending the Television Championship Also corroborated by: His own EPW roster profile (posted 11 August 2008) predates the previously recorded first appearance; the fed's own weekly sign-in threads show him active through 30 October 2009."
+   }
+  ]
+ },
+ {
+  "id": "the-first-epw",
+  "type": "character",
+  "name": "The First",
+  "caption": "A painted-face challenger for Empire Pro Wrestling's World Heavyweight Championship who also co-held the World Tag Team Championship as one half of Forsaken.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-01",
+    "last_seen": "2009-03",
+    "source": "\"AGGRESSION 42\" (29 January - 6 February 2009) and \"AGGRESSION 43: World Tag Title Match: Forsaken (c) vs. The Anthology\" (11-23 March 2009), challenging for the World Heavyweight Championship and co-holding the World Tag Team Championship as one half of Forsaken"
+   },
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2011-08",
+    "last_seen": "2012-08",
+    "source": "Wrestled masked as a second \"Dis\" persona from Wrestleverse IV (3 August 2011, pinning Ivan Dalkichev) through Aggression 60 (20 September 2011, a tag win over Anarky alongside Stalker) and Aggression 63 (2 January 2012, a six-man main event), winning the World Heavyweight Championship from Anarky at Russian Roulette 2012 (3 February) and revealing himself as The First in the same match (see reigns-corrections-empire-pro-wrestling.json, epw-whc-r11); held the title until losing it to Cameron Cruise at Black Dawn 2012 (13 August). These four 2011-12 shows were repointed from lindsay-troy to this record on primary-source confirmation that the masked, voice-distorted \"Dis\" of this run is a separate performer from Lindsay Troy's own 2004-2007 Dis (lindsay-troy, merged into lindsay-troy). Previously misfiled as two separate reign rows, epw-whc-r11/r12."
+   }
+  ],
+  "aka": [
+   "Brian Nadalny"
+  ]
+ },
+ {
+  "id": "felix-red-epw",
+  "type": "character",
+  "name": "Felix Red",
+  "caption": "One half of Forsaken, Empire Pro Wrestling's World Tag Team Champions defending against The Anthology at Aggression 43.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with an existing held character. No document read this pass names both together; filed distinct on the no-auto-merge default pending contrary evidence.",
+    "with": [
+     "felix-red"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-07",
+    "last_seen": "2009-05",
+    "source": "\"AGGRESSION 43: World Tag Title Match: Forsaken (c) vs. The Anthology\" (11-23 March 2009), billed as co-holder of the World Tag Team Championship as one half of Forsaken; named by his own tag partner and by the challengers in this document, though he carries no promo of his own in it Also corroborated by: The Forsaken tag-team roster profile (posted 9 July 2007) and the fed's own weekly sign-in threads predate the previously recorded first appearance; he appears live at Wrestleverse III (19 May 2009), extending the last appearance."
+   }
+  ]
+ },
+ {
+  "id": "paul-freeman-epw",
+  "type": "character",
+  "name": "Paul Freeman",
+  "caption": "Empire Pro Wrestling's on-screen Commissioner, an authority figure who rules on stipulation changes from behind his own mahogany desk.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "2006-05",
+    "last_seen": "2006-05",
+    "source": "\"From the office of Paul Freeman...\" (1 May 2006), an in-fiction office memo ruling on a World Tag Team Championship match stipulation, EPW Commissioner byline"
+   }
+  ]
+ },
+ {
+  "id": "aodhan-lorigan-epw",
+  "name": "\"Fist of Poseidon\" Aodhan Lorigan",
+  "caption": "A debuting wrestler billed from Ankara, Turkey, who won his Empire Pro Wrestling debut at Aggression 7.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-05",
+    "last_seen": "2004-05",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "pulsar-epw",
+  "name": "Pulsar",
+  "caption": "A wrestler who lost by submission on Aggression 12.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A different wrestler named Pulsar is recorded in the held WEWF wing; no corroborating evidence found this pass tying the two together.",
+    "with": [
+     "pulsar-wewf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-09",
+    "last_seen": "2004-09",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "c-4-epw",
+  "name": "C-4",
+  "caption": "A wrestler billed from Chicago who won his Aggression 12 outing by submission.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-09",
+    "last_seen": "2004-09",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "clapper-epw",
+  "name": "Clapper",
+  "caption": "A hardcore-style wrestler who advanced through the Russian Roulette Tournament on Aggression 15.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-12",
+    "last_seen": "2004-12",
+    "source": "Billed on the promotion's own cards."
+   }
+  ],
+  "aka": [
+   "Frank Ares"
+  ]
+ },
+ {
+  "id": "mojo-massey-epw",
+  "name": "Mojo Massey",
+  "caption": "A jobber pinned in Foxx's Empire Pro Wrestling debut match.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-07",
+    "last_seen": "2005-07",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "ron-artest-epw",
+  "name": "Ron Artest",
+  "caption": "One-third of Steve Savoy's D.A.M.N. stable, pinned in a tag match on Aggression 18.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-07",
+    "last_seen": "2005-07",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "ricky-williams-epw",
+  "name": "Ricky Williams",
+  "caption": "One-third of Steve Savoy's D.A.M.N. stable, pinned in a tag match on Aggression 18.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-07",
+    "last_seen": "2005-07",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "aj-cirrus-epw",
+  "name": "AJ Cirrus",
+  "caption": "A debuting wrestler who ran in on Lindsay Troy alongside Ken Cloverleaf on Aggression 18.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-07",
+    "last_seen": "2005-07",
+    "source": "Billed on the promotion's own cards."
+   },
+   {
+    "promotion": "ucw-2006",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-07-01",
+    "last_seen": "2006-07-01",
+    "source": "Named in the fed's own forum post of 1 July 2006."
+   }
+  ]
+ },
+ {
+  "id": "jack-owyns-epw",
+  "name": "Jack Owyns",
+  "caption": "A debuting wrestler who lost to John Doe on Aggression 20.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-09",
+    "last_seen": "2005-09",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "kenshiro-inogami-epw",
+  "name": "Kenshiro Inogami",
+  "caption": "A wrestler, also billed \"Ninja K,\" who locked Troy Douglas in the Imploding Star Submission on Aggression 27.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-11",
+    "last_seen": "2006-11",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "mike-c-epw",
+  "name": "Mike C",
+  "caption": "\"Classy\" Mike C, Adam Benjamin's tag partner, made to submit on Aggression 27 after Benjamin struck him by mistake.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-11",
+    "last_seen": "2012-06",
+    "source": "Billed on the promotion's own cards. Also corroborated by: His own updated roster profile (posted 4 June 2012) restates an active roster presence nearly six years after his previously recorded last appearance."
+   }
+  ]
+ },
+ {
+  "id": "james-irish-epw",
+  "name": "James Irish",
+  "caption": "A wrestler who teamed with The Sergeant to defeat Adam Benjamin and Mike C on Aggression 27.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-11",
+    "last_seen": "2007-05",
+    "source": "Billed on the promotion's own cards. Also corroborated by: His own EPW roster profile (posted 24 May 2007) extends the previously recorded last appearance."
+   }
+  ]
+ },
+ {
+  "id": "hans-the-incontinent-viking-epw",
+  "name": "Hans, the Incontinent Viking",
+  "caption": "A comedic Norwegian wrestler defeated by Irishred on Aggression 27.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Wrestlers billed simply \"Hans\" are recorded in other held wings; no corroborating evidence found this pass tying any of them to this specific comedic gimmick.",
+    "with": [
+     "hans-acwf",
+     "hans-wewf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-11",
+    "last_seen": "2006-11",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "mike-evers-epw",
+  "name": "\"Da Bomb\" Mike Evers",
+  "caption": "The Television Champion who lost the title to Shawn Hart on Aggression 27.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-11",
+    "last_seen": "2006-11",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "richard-farnswirth-epw",
+  "name": "Richard Farnswirth",
+  "caption": "A member of the Highland Park Social Club, Empire Pro Wrestling's World Tag Team Champions.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-11",
+    "last_seen": "2006-12",
+    "source": "Billed on the promotion's own cards. Also corroborated by: The Highland Park Social Club tag-team roster profile (posted 4 December 2006) extends the previously recorded last appearance."
+   }
+  ]
+ },
+ {
+  "id": "chip-friendly-epw",
+  "name": "Chip Friendly",
+  "caption": "A member of the Highland Park Social Club, Empire Pro Wrestling's World Tag Team Champions.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-11",
+    "last_seen": "2006-11",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "slambo-the-clown-epw",
+  "name": "Slambo the Clown",
+  "caption": "A member of the Highland Park Social Club, Empire Pro Wrestling's World Tag Team Champions.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-11",
+    "last_seen": "2006-11",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "ling-long-epw",
+  "name": "Ling-Long",
+  "caption": "A double amputee wrestler defeated by Dan Ryan in a pre-taped comedy match on Aggression 30.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-04",
+    "last_seen": "2007-04",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "arson-zanders-epw",
+  "name": "Arson Zanders",
+  "caption": "\"The Inferno,\" a wrestler who won by disqualification over Nikita Dahaka on Aggression 30.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A wrestler of the same full name is recorded in another held wing; no corroborating evidence found this pass tying the two together.",
+    "with": [
+     "arson-zanders-ff"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-01",
+    "last_seen": "2007-04",
+    "source": "Billed on the promotion's own cards. Also corroborated by: His own EPW roster profile (posted 4 January 2007) predates the previously recorded first appearance."
+   }
+  ]
+ },
+ {
+  "id": "c-e-augustus-epw",
+  "name": "C.E. Augustus",
+  "caption": "\"The Marxist Enforcer,\" one half of the Proletariat.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-04",
+    "last_seen": "2007-04",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "c-p-nero-epw",
+  "name": "C.P. Nero",
+  "caption": "One half of the Proletariat, and C.E. Augustus's ringside cornerman.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-04",
+    "last_seen": "2007-04",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "father-of-all-unholy-epw",
+  "name": "The Father of All UnHoly",
+  "caption": "A veteran wrestler who won his Empire Pro Wrestling debut, his first match in nearly four years, on Aggression 31.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-05",
+    "last_seen": "2007-05",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "steve-solex-epw",
+  "name": "Steve Solex",
+  "caption": "A debuting wrestler on Aggression 31, injured mid-match by the Father of All UnHoly.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-05",
+    "last_seen": "2007-05",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "tina-davis-epw",
+  "name": "Tina Davis",
+  "caption": "A debuting technical wrestler on Aggression 31.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-05",
+    "last_seen": "2007-05",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "sanket-desai-epw",
+  "name": "Sanket Desai",
+  "caption": "A wrestler who lost his Empire Pro Wrestling debut on Aggression 32.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-10",
+    "last_seen": "2007-10",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "the-raptor-epw",
+  "name": "The Raptor",
+  "caption": "A wrestler who won his Empire Pro Wrestling debut on Aggression 32.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-10",
+    "last_seen": "2007-10",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "chul-soo-epw",
+  "name": "Chul Soo",
+  "caption": "A debuting wrestler, billed as August De La Rossi's tag partner, who chokeslammed and pinned a nameless debuting duo on Aggression 35.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2008-03",
+    "last_seen": "2008-03",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "kendall-codine-epw",
+  "name": "Kendall Codine",
+  "caption": "A wrestler, making his return to the ring, eliminated in the first round of the 2008 King of the Cage Tag Team Tournament.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2008-07",
+    "last_seen": "2008-07",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "omega-epw",
+  "name": "Omega",
+  "caption": "A wrestler signed to an Empire Pro Wrestling contract by Owner Lindsay Troy, who carries a steel chair he treats as his own manager.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Wrestlers billed \"Omega\" are recorded in several other held wings; no corroborating evidence found this pass tying any of them to this signing.",
+    "with": [
+     "omega-ngw",
+     "omega-rspwf",
+     "omega-sewf",
+     "omega-swa-seltor",
+     "omega-wewf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "omega-wewf",
+     "omega-sewf",
+     "omega-ngw",
+     "omega-swa-seltor",
+     "omega"
+    ],
+    "note": "\"Omega\" is a generic archetype ring name independently reused across at least seven other held or frontier promotions; this row is qualified -acw at mint time per the generic-name minting rule and no merge is asserted with any of the others absent a shared roster, title or operator fact."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2008-09",
+    "last_seen": "2009-10",
+    "source": "Billed on the promotion's own cards. Also corroborated by: The fed's own weekly sign-in threads show him active through 30 October 2009, extending the previously recorded last appearance."
+   },
+   {
+    "promotion": "acw",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own fan board thread \"House Shows!\" (fwrestling.com forum id 541), posted 17 November 2011",
+    "first_seen": "2011-11-15",
+    "last_seen": "2012-02-01"
+   }
+  ]
+ },
+ {
+  "id": "gothopotamus-epw",
+  "name": "Gothopotamus",
+  "caption": "The Forsaken's ringside second, who moonsaulted off the top rope onto Sean Stevens and Craig Miles at ringside on Aggression 39.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2008-10",
+    "last_seen": "2009-05",
+    "source": "Billed on the promotion's own cards. Also corroborated by: He appears live at Wrestleverse III (19 May 2009), extending the previously recorded last appearance."
+   }
+  ]
+ },
+ {
+  "id": "marcus-westcott-epw",
+  "name": "Marcus Westcott",
+  "caption": "A former tag team competitor who feuded with Craig Miles after Miles betrayed him at Unleashed 2008.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-08",
+    "last_seen": "2009-08",
+    "source": "Billed on the promotion's own cards. Also corroborated by: The fed's own weekly sign-in threads show him active from 25 August 2007, well predating the previously recorded first appearance, through 18 August 2009."
+   },
+   {
+    "promotion": "team-2005",
+    "first_seen": "2009-03-15",
+    "last_seen": "2009-03-15",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "TEAM SuperShow X's own broadcast"
+   }
+  ],
+  "aka": [
+   "\"The Mecca\" Marcus Westcott"
+  ]
+ },
+ {
+  "id": "layne-winters-epw",
+  "name": "\"New School\" Layne Winters",
+  "caption": "A debuting wrestler out of Seattle who beat Olvir Arsvinnar on his first night in EPW.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-04",
+    "last_seen": "2009-10",
+    "source": "Billed on the promotion's own cards. Also corroborated by: The fed's own weekly sign-in threads show him active through 30 October 2009, extending the previously recorded last appearance."
+   }
+  ],
+  "notes": "PTCpedia's own Layne Winters article (/promotions/ptc/archive/ptcpedia-layne-winters.html, captured 19 Aug 2010) confirms this record's own Empire Pro Wrestling tenure directly — \"Layne Winters is an American professional wrestler currently competing in Empire Pro Wrestling\" — and its own claim that he \"made an immediate impact on EPW by winning the Television Title in only his fourth match with the company\" agrees in substance with this record's own held reign, though the held record does not independently confirm the fourth-match detail. The article's further career-and-personality narrative is the wiki's own account, not corroborated by the held EPW corpus beyond the tenure and title reign already on file."
+ },
+ {
+  "id": "drunken-tiger-epw",
+  "name": "Drunken Tiger",
+  "caption": "One half of Contradiction, a tag team out of parts unknown.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-07",
+    "last_seen": "2009-07",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "ricardo-silva-epw",
+  "name": "\"Lightning\" Ricardo Silva",
+  "caption": "A member of the Brazilian trio Jungle Storm, alongside his cousin Gabriel Carvalho and the injured Mauricio Dos Santos.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-07",
+    "last_seen": "2009-07",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "gabriel-carvalho-epw",
+  "name": "Gabriel Carvalho",
+  "caption": "A member of the Brazilian trio Jungle Storm, alongside his cousin Ricardo Silva and the injured Mauricio Dos Santos.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-07",
+    "last_seen": "2009-07",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "sean-edmunds-epw",
+  "name": "Sean Edmunds",
+  "caption": "The Anthology's newest signing, debuting in the six-man main event.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A wrestler billed \"Sean Edmunds\" is recorded in NFW's own held wing; no corroborating evidence found this pass tying that appearance to this Anthology signing.",
+    "with": [
+     "sean-edmunds"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-06",
+    "last_seen": "2009-07",
+    "source": "Billed on the promotion's own cards. Also corroborated by: His own EPW roster profile (posted 21 June 2009) predates the previously recorded first appearance."
+   }
+  ]
+ },
+ {
+  "id": "boogie-smallz-epw",
+  "name": "Boogie Smallz",
+  "caption": "A former World Champion who challenged Beast in the Wrestleverse I main event.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-10",
+    "last_seen": "2004-10",
+    "source": "Billed on the promotion's own cards."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (boogie-smallz); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "boogie-smallz"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gabriel-poe-epw",
+  "name": "Gabriel Poe",
+  "caption": "One half of the Dark Carnival, who debuted by attacking Boogie Smallz at ringside during the Wrestleverse I main event.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A wrestler billed \"Gabriel Poe\" is recorded in a separately held wing; no corroborating evidence found this pass tying that appearance to this debut.",
+    "with": [
+     "gabriel-poe"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-10",
+    "last_seen": "2004-10",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "derek-stoltz-epw",
+  "type": "character",
+  "name": "Derek Stoltz",
+  "caption": "A wrestler in Empire Pro Wrestling's opening pay-per-view's first match.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Black Dawn (2004)\" (18 March 2004), a triple-threat elimination opener"
+   }
+  ]
+ },
+ {
+  "id": "tyrone-walker-epw",
+  "type": "character",
+  "name": "Tyrone Walker",
+  "caption": "Winner of Empire Pro Wrestling's first pay-per-view opening match, later a World Heavyweight Championship contender.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name with an existing character in the held LCW (1997) wing. No document read this pass names both feds together or attests any shared history; filed distinct on the no-auto-merge default pending contrary evidence.",
+    "with": [
+     "tyrone-walker-lcw-1997"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-05",
+    "source": "\"Black Dawn (2004)\" (18 March 2004) and \"Unleashed (2004)\" (31 May 2004)"
+   }
+  ]
+ },
+ {
+  "id": "brien-cage-epw",
+  "type": "character",
+  "name": "\"Silent Assassin\" Brien Cage",
+  "caption": "A competitor in Empire Pro Wrestling's opening pay-per-view's first match.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Black Dawn (2004)\" (18 March 2004)"
+   }
+  ]
+ },
+ {
+  "id": "kevin-watson-epw",
+  "type": "character",
+  "name": "Kevin \"K-9\" Watson",
+  "caption": "Fought John Doe to a ruled tie at Empire Pro Wrestling's opening pay-per-view, then to a No Holds Barred rematch on Aggression.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Black Dawn (2004)\" (18 March 2004)"
+   }
+  ]
+ },
+ {
+  "id": "orion-epw",
+  "type": "character",
+  "name": "Orion",
+  "caption": "One half of The Assassins, eliminated from Empire Pro Wrestling's inaugural World Tag Team Championship match.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Black Dawn (2004)\" (18 March 2004)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (orion-bmw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "orion-bmw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (orion-newf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "orion-newf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "osiris-epw",
+  "type": "character",
+  "name": "Osiris",
+  "caption": "One half of The Assassins, eliminated from Empire Pro Wrestling's inaugural World Tag Team Championship match.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Black Dawn (2004)\" (18 March 2004)"
+   }
+  ]
+ },
+ {
+  "id": "max-epw",
+  "type": "character",
+  "name": "Max",
+  "caption": "One half of Blitz, Empire Pro Wrestling's first World Tag Team Champions, won at Black Dawn (2004).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2005-11",
+    "source": "\"Black Dawn (2004)\" (18 March 2004) through \"Black Dawn 2005\" (17 November 2005)"
+   },
+   {
+    "promotion": "cswa",
+    "first_seen": "2013",
+    "last_seen": "2013",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the held record, reading the CSWA Blue Moon relaunch (2012-06) through closure (2014-01-12)",
+    "note": "Wrestled as half of Blitz (with Jecht, managed by Leonard Johnson) in the relaunch's own Unified Tag Team Tournament, billed as 'former EPW tag standouts.'"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (max-aicw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "max-aicw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (max-faw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "max-faw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jecht-epw",
+  "type": "character",
+  "name": "Jecht",
+  "caption": "One half of Blitz, Empire Pro Wrestling's first World Tag Team Champions, won at Black Dawn (2004).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2005-11",
+    "source": "\"Black Dawn (2004)\" (18 March 2004) through \"Black Dawn 2005\" (17 November 2005)"
+   },
+   {
+    "promotion": "cswa",
+    "first_seen": "2013",
+    "last_seen": "2013",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the held record, reading the CSWA Blue Moon relaunch (2012-06) through closure (2014-01-12)",
+    "note": "Wrestled as half of Blitz (with Max, managed by Leonard Johnson) in the relaunch's own Unified Tag Team Tournament, billed as 'former EPW tag standouts.'"
+   }
+  ]
+ },
+ {
+  "id": "leonard-johnson-epw",
+  "type": "character",
+  "name": "Leonard Johnson",
+  "caption": "Manager of the tag team Blitz across Empire Pro Wrestling's early pay-per-views.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2005-11",
+    "source": "\"Black Dawn (2004)\" (18 March 2004) and \"Black Dawn 2005\" (17 November 2005)"
+   },
+   {
+    "promotion": "cswa",
+    "first_seen": "2013",
+    "last_seen": "2013",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "the held record, reading the CSWA Blue Moon relaunch (2012-06) through closure (2014-01-12)",
+    "note": "Managed Blitz (Max and Jecht) in the relaunch's own Unified Tag Team Tournament."
+   }
+  ]
+ },
+ {
+  "id": "cloak-epw",
+  "type": "character",
+  "name": "Cloak",
+  "caption": "One half of Covert Ops, eliminated from Empire Pro Wrestling's inaugural World Tag Team Championship match.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name with an existing character in the held IWF wing. No document read this pass ties the two together. Filed distinct on the no-auto-merge default.",
+    "with": [
+     "cloak"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Black Dawn (2004)\" (18 March 2004)"
+   }
+  ]
+ },
+ {
+  "id": "dagger-epw",
+  "type": "character",
+  "name": "Dagger",
+  "caption": "One half of Covert Ops, eliminated from Empire Pro Wrestling's inaugural World Tag Team Championship match.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Black Dawn (2004)\" (18 March 2004)"
+   }
+  ]
+ },
+ {
+  "id": "erik-black-epw",
+  "type": "character",
+  "name": "Erik Black",
+  "caption": "One half of The Crimson Calling, Empire Pro Wrestling's inaugural World Tag Team Champions.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2011-11",
+    "source": "\"Black Dawn (2004)\" (18 March 2004) Also corroborated by: A fellow wrestler's own roster profile (posted 8 November 2011) narrates his continuous singles run under this name and then as \"Dopesmoker\" -- a King of the Cage tournament run, an alliance in \"the Fallen,\" and a DEA arrest -- up to his own re-identification as Rezin at Aggression 61 (7 November 2011)."
+   },
+   {
+    "promotion": "nfw",
+    "first_seen": "2010-04-27",
+    "last_seen": "2010-07-10",
+    "grade": "presumed",
+    "source": "the fed's own per-segment roster links across its served results archive",
+    "note": "First and last seen are the earliest and latest served NFW document whose own per-segment roster link names this character; the fed's own record does not state a debut or a departure.",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Indianapolis, In",
+    "height": "5'10",
+    "weight": "227 lbs",
+    "finisher": "G.O.A.T."
+   },
+   {
+    "promotion": "new-era-of-wrestling",
+    "first_seen": "2010-01-31",
+    "last_seen": "2011-03-20",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "WFW:NE's own Destrucity II pay-per-view (posted 23 January 2010)"
+   },
+   {
+    "promotion": "gwa-gateway-2004",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'10\"",
+    "weight": "237 lbs",
+    "hometown": "Indianapolis, Indiana, USA",
+    "alignment": "heel",
+    "entrance_music": {
+     "title": "Stay In Shadow",
+     "artist": "Finger Eleven",
+     "verbatim": "\"Stay In Shadow\" by Finger Eleven"
+    },
+    "manager": "Nathan Fear",
+    "first_seen": "2004-10-01",
+    "last_seen": "2004-10-01",
+    "source": "Profiled in the fed's own forum, 1 October 2004."
+   },
+   {
+    "promotion": "pwc-fwrestling-2011",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2011-02-17",
+    "last_seen": "2011-03-29",
+    "source": "Named in the fed's own forum posts, 17 February 2011 to 29 March 2011."
+   },
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2011-11",
+    "last_seen": "2013-05",
+    "source": "His own roster profile (posted 8 November 2011) states plainly that he adopted this name at Aggression 61 (7 November 2011), predating the previously recorded first appearance by several months. Also corroborated by: His Empire Pro run from Russian Roulette 2012 through the vacant Intercontinental Championship match at Unleashed 2013."
+   },
+   {
+    "promotion": "lvw-2005",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "2006-01-17",
+    "last_seen": "2009-03-23",
+    "source": "LVW's own cards and forum roleplays (2006-01-17 to 2009-03-23)"
+   },
+   {
+    "promotion": "rlw",
+    "first_seen": "2015-01-18",
+    "last_seen": "2015-05-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "RLW's own house-roster listing (served, 18 January 2015), the Slamtrack 6 broadcast (8 February 2015) and the Slamtrack 10 broadcast (31 May 2015), all served under this wing."
+   },
+   {
+    "promotion": "team-2005",
+    "first_seen": "2007-08-17",
+    "last_seen": "2007-08-17",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own EPICENTER/GAMEDAY broadcast recaps of this era's own tournaments and shows"
+   }
+  ],
+  "aka": [
+   "\"the Druid\" Erik Black",
+   "Rezin",
+   "El Cabron",
+   "El Cabrón",
+   "The Escape Artist",
+   "Ol' Dopesmoker"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "el-cabron-iwf",
+     "el-cabron-ne"
+    ],
+    "note": "Kept apart, not ruled: a masked, goat-costumed El Cabron at IWF (February 2013) and an El Cabrón at New ERA (March to April 2015). This record's own 2011 and 2015 bios say he kept working the indie leagues as El Cabrón, so both are open leads for an identity read, not yet ruled."
+   }
+  ]
+ },
+ {
+  "id": "ivan-dalkichev-epw",
+  "type": "character",
+  "name": "Ivan Dalkichev",
+  "caption": "One half of The Crimson Calling, Empire Pro Wrestling's inaugural World Tag Team Champions.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2008-12",
+    "source": "\"Black Dawn (2004)\" (18 March 2004) and \"Unleashed 2008\" (9 December 2008)"
+   },
+   {
+    "promotion": "rlw",
+    "first_seen": "2014-08-22",
+    "last_seen": "2015-05-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "RLW's own Slamtrack 1 broadcast (22 August 2014) through its Slamtrack 10 broadcast (31 May 2015): billed \"The Last Titan\"/\"The Crimson Colossus,\" won RLW's own inaugural Red Crown Tournament at the fed's own Rush Hour iPPV (11 January 2015), all served under the RLW wing (Red Line Wrestling, rlw)."
+   },
+   {
+    "promotion": "gwa-gateway-2004",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "7'1\"",
+    "weight": "538 lbs",
+    "hometown": "St. Petersburg, Russia",
+    "alignment": "heel",
+    "entrance_music": {
+     "title": "Superbeast",
+     "artist": "Rob Zombie",
+     "verbatim": "\"Superbeast\" by Rob Zombie"
+    },
+    "manager": "Nathan Fear",
+    "first_seen": "2004-10-01",
+    "last_seen": "2004-10-01",
+    "source": "Profiled in the fed's own forum, 1 October 2004."
+   },
+   {
+    "promotion": "lvw-2005",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-03-23",
+    "last_seen": "2009-03-23",
+    "source": "LVW's own cards and forum roleplays (2009-03-23 to 2009-03-23)"
+   }
+  ],
+  "notes": "Also wrestled, roughly a decade after this row's own Empire Pro Wrestling tenure, for RLW (Red Line Wrestling, rlw), an unrelated fwrestling.com federation, billed there as \"Ivan Dalkichev\" and managed there by a \"Nathan Fear\" as well. RLW's own served roster document (a fellow wrestler's own character sheet, naming both men) independently narrates this same character and manager forming a tag team called \"The Crimson Calling\" in Japan and becoming, in its own words, \"the first team to win the EPW Tag Team Championship in 2004\" -- matching this row's own held Empire Pro Wrestling tenure and its own tag team's name exactly."
+ },
+ {
+  "id": "nathan-fear-epw",
+  "type": "character",
+  "name": "Nathan Fear",
+  "caption": "Manager of the tag team The Crimson Calling at Empire Pro Wrestling's opening pay-per-view.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Black Dawn (2004)\" (18 March 2004)"
+   },
+   {
+    "promotion": "rlw",
+    "first_seen": "2014-08-22",
+    "last_seen": "2015-05-31",
+    "roles": [
+     "manager"
+    ],
+    "source": "RLW's own Slamtrack 1 broadcast (22 August 2014) through its Slamtrack 10 broadcast (31 May 2015): manager of Red Crown Champion Ivan Dalkichev throughout, all served under the RLW wing (Red Line Wrestling, rlw)."
+   },
+   {
+    "promotion": "gwa-gateway-2004",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2004-10-01",
+    "last_seen": "2004-10-01",
+    "source": "Profiled in the fed's own forum, 1 October 2004."
+   }
+  ],
+  "notes": "Also managed, roughly a decade after this row's own Empire Pro Wrestling tenure, for RLW (Red Line Wrestling, rlw), an unrelated fwrestling.com federation -- see the companion finding filed against this wing's own \"ivan-dalkichev-epw\" row, which carries the full evidence (a fellow RLW wrestler's own served character sheet narrating both men forming EPW's own inaugural Tag Team Champions, \"The Crimson Calling\")."
+ },
+ {
+  "id": "adam-benjamin-epw",
+  "type": "character",
+  "name": "\"Yours Truly\" Adam Benjamin",
+  "caption": "Empire Pro Wrestling's first Intercontinental Champion and, at Black Dawn 2005, its first Television Champion.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name with existing characters in two held wings (CSWA, MCW 2006). No document read this pass ties this corpus's own Adam Benjamin to either held record. Filed distinct on the no-auto-merge default.",
+    "with": [
+     "adam-benjamin-cswa",
+     "euwc-adam-benjamin"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "adam-benjamin-cswa",
+     "adam-benjamin-wfw-worlds-finest-2003"
+    ],
+    "note": "The name or an alias is shared with an existing record on another wing; nothing in either source links the two, so they are kept apart."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "adam-benjamin-cswa",
+     "adam-benjamin-gxw-2001",
+     "adam-benjamin-wfw-worlds-finest-2003"
+    ],
+    "note": "The name or an alias is shared with an existing record on another wing; nothing in either source links the two, so they are kept apart."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2008-12",
+    "source": "\"Black Dawn (2004)\" (18 March 2004) and \"Black Dawn 2005\" (17 November 2005) Also corroborated by: His own EPW roster profile (posted 4 October 2007) and the fed's own weekly sign-in threads show him active through December 2008, extending the previously recorded last appearance."
+   },
+   {
+    "promotion": "gwa-gateway-2004",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "United Kingdom",
+    "alignment": "heel",
+    "finisher": "Shining wizard",
+    "entrance_music": {
+     "title": "Lose Yourself",
+     "artist": "Eminem",
+     "verbatim": "\"Lose Yourself\" by Eminem"
+    },
+    "first_seen": "2004-09-30",
+    "last_seen": "2004-09-30",
+    "source": "Profiled in the fed's own forum, 30 September 2004."
+   },
+   {
+    "promotion": "ucw-2006",
+    "roles": [
+     "wrestler"
+    ],
+    "style": "strong style tech",
+    "first_seen": "2006-06-27",
+    "last_seen": "2007-03-11",
+    "source": "Named in the fed's own forum posts, 27 June 2006 to 11 March 2007."
+   }
+  ],
+  "aka": [
+   "Adam Benjamin",
+   "Yours Truly"
+  ]
+ },
+ {
+  "id": "braden-kincaid-epw",
+  "type": "character",
+  "name": "\"The Thriller\" Braden Kincaid",
+  "caption": "Opened Empire Pro Wrestling's Unleashed (2004) against a debuting Sebastian Dodd.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-05",
+    "last_seen": "2004-05",
+    "source": "\"Unleashed (2004)\" (31 May 2004)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (euwc-braden-kincaid); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "euwc-braden-kincaid"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sebastian-dodd-epw",
+  "type": "character",
+  "name": "\"Your Hero\"/\"The Messiah\" Sebastian Dodd",
+  "caption": "Debuted at Unleashed (2004) and later won and defended the Empire Pro Wrestling Intercontinental Championship.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-05",
+    "last_seen": "2005-03",
+    "source": "\"Unleashed (2004)\" (31 May 2004) and \"Russian Roulette (2005)\" (12 March 2005)"
+   }
+  ]
+ },
+ {
+  "id": "x-epw",
+  "type": "character",
+  "name": "X",
+  "caption": "Defeated Brian Hale in a No Disqualification match at Unleashed (2004).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-05",
+    "last_seen": "2004-05",
+    "source": "\"Unleashed (2004)\" (31 May 2004)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (mr-x-cswa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "mr-x-cswa"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (x-cyberslam); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "x-cyberslam"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (x-ewa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "x-ewa"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (x-iwa-icon); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "x-iwa-icon"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (x-wcotw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "x-wcotw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (x-xcwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "x-xcwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "brian-hale-epw",
+  "type": "character",
+  "name": "\"Big Air\" Brian Hale",
+  "caption": "Lost to X in a No Disqualification match at Unleashed (2004).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-05",
+    "last_seen": "2004-05",
+    "source": "\"Unleashed (2004)\" (31 May 2004)"
+   }
+  ]
+ },
+ {
+  "id": "bryan-storms-epw",
+  "type": "character",
+  "name": "Bryan Storms",
+  "caption": "Defeated John Doe in an I Quit match at Unleashed (2004).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-05",
+    "last_seen": "2004-05",
+    "source": "\"Unleashed (2004)\" (31 May 2004)"
+   },
+   {
+    "promotion": "mcw-2006",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-03",
+    "last_seen": "2006-10",
+    "source": "MCW's own Center Stage match thread \"Storms vs. Marlay\" (20-28 March 2006); the \"Zero Hour\" pay-per-view (26 June 2006); the fed's own Title History document (dated entries 26 June and 10 October 2006). Folded in from the retired bryan-storms-epw row."
+   },
+   {
+    "promotion": "ucw-2006",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-07-12",
+    "last_seen": "2006-12-13",
+    "source": "Named in the fed's own forum posts, 12 July 2006 to 13 December 2006."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "note": "MBE's own 5 July 2007 roster profile (self-narrated by the handler) traces one continuous career: EPW's Second Coming tag team (with Matt Johansson, matching EPW's own held record) into the reborn MCW, where he won the World Championship tournament before \"ownership issues\" closed the company (matching MCW's own held Title History and closure record). Supersedes the earlier distinct/presumed filing. bryan-storms-epw retired into this row.",
+    "with": []
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bryan-storms-gxw-2001",
+     "bryan-storms-ptc"
+    ],
+    "note": "The name or an alias is shared with an existing record on another wing; nothing in either source links the two, so they are kept apart."
+   }
+  ]
+ },
+ {
+  "id": "x-ecutioner-epw",
+  "type": "character",
+  "name": "X-Ecutioner",
+  "caption": "Half of a tag team defeated by the Cameron Cruise Project in Empire Pro Wrestling's own second World Tag Team Championship match, Unleashed (2004).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-05",
+    "last_seen": "2004-05",
+    "source": "\"Unleashed (2004)\" (31 May 2004)"
+   }
+  ]
+ },
+ {
+  "id": "karla-starr-epw",
+  "type": "character",
+  "name": "Karla Starr",
+  "caption": "A competitor in the tournament to crown Empire Pro Wrestling's first Television Champion, Black Dawn 2005.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-11",
+    "last_seen": "2005-11",
+    "source": "\"Black Dawn 2005\" (17 November 2005)"
+   }
+  ]
+ },
+ {
+  "id": "tariq-ismail-epw",
+  "type": "character",
+  "name": "Tariq Ismail",
+  "caption": "A competitor in the tournament to crown Empire Pro Wrestling's first Television Champion, fired on-air by Dan Ryan the same night, Black Dawn 2005.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-11",
+    "last_seen": "2005-11",
+    "source": "\"Black Dawn 2005\" (17 November 2005)"
+   }
+  ]
+ },
+ {
+  "id": "foxx-epw",
+  "type": "character",
+  "name": "Foxx",
+  "caption": "Runner-up in the tournament to crown Empire Pro Wrestling's first Television Champion, Black Dawn 2005.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-11",
+    "last_seen": "2006-12",
+    "source": "\"Black Dawn 2005\" (17 November 2005) Also corroborated by: Her own EPW roster profile (posted 1 December 2006) restates her active kayfabe biography, corroborating continued roster presence into December 2006."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (sylvester-t-foxx-usew); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "sylvester-t-foxx-usew"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "priest-epw",
+  "type": "character",
+  "name": "Priest",
+  "caption": "A competitor in the tournament to crown Empire Pro Wrestling's first Television Champion, Black Dawn 2005.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-11",
+    "last_seen": "2005-11",
+    "source": "\"Black Dawn 2005\" (17 November 2005)"
+   }
+  ]
+ },
+ {
+  "id": "zoltan-epw",
+  "type": "character",
+  "name": "Zoltan",
+  "caption": "Half of The Entourage, defeated by Blitz in seconds at Black Dawn 2005.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-03",
+    "last_seen": "2005-11",
+    "source": "\"Presenting... The Entourage!\" (14 March 2005), the stable's own debut vignette, through \"Black Dawn 2005\" (17 November 2005)"
+   }
+  ],
+  "aka": [
+   "The Mysterious Zoltan"
+  ]
+ },
+ {
+  "id": "august-de-la-rossi-epw",
+  "type": "character",
+  "name": "August De La Rossi",
+  "caption": "Half of The Entourage, defeated by Blitz in seconds at Black Dawn 2005, then quit the promotion on-air.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler",
+     "manager"
+    ],
+    "first_seen": "2005-03",
+    "last_seen": "2005-11",
+    "source": "\"Presenting... The Entourage!\" (14 March 2005), the stable's own debut vignette naming his own in-ring debut and his role fronting for the absent Troy Windham, through \"Black Dawn 2005\" (17 November 2005)"
+   },
+   {
+    "promotion": "tww-2008",
+    "roles": [
+     "manager",
+     "wrestler"
+    ],
+    "first_seen": "2008-09-08",
+    "last_seen": "2008-09-19",
+    "source": "Named in the fed's own forum threads, 2008-09-08 to 2008-09-19."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (august-de-la-rossi); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "august-de-la-rossi"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "steven-shane-epw",
+  "type": "character",
+  "name": "\"Sensational\" Steven Shane",
+  "caption": "Defeated his former tag partner Ken Cloverleaf at Black Dawn 2005.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-11",
+    "last_seen": "2011-04",
+    "source": "\"Black Dawn 2005\" (17 November 2005) Also corroborated by: His own updated roster profile (posted 5 April 2011) restates an active roster presence more than five years after his previously recorded last appearance."
+   }
+  ]
+ },
+ {
+  "id": "ja-epw",
+  "type": "character",
+  "name": "JA",
+  "caption": "Also billed \"Jericoholic Anonymous\" and \"The Anglo Luchador,\" a two-time Empire Pro Wrestling World Heavyweight Champion.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-11",
+    "last_seen": "2008-12",
+    "source": "\"Black Dawn 2005\" (17 November 2005) through \"Unleashed 2008\" (9 December 2008)"
+   }
+  ]
+ },
+ {
+  "id": "cross-epw",
+  "type": "character",
+  "name": "Cross",
+  "caption": "A wrestler across Empire Pro Wrestling's early run, twice a #1 contender to the World Heavyweight Championship.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-11",
+    "last_seen": "2005-03",
+    "source": "\"Black Dawn 2005\" (17 November 2005) and \"Russian Roulette (2005)\" (12 March 2005)"
+   },
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-10",
+    "last_seen": "2007-10",
+    "source": "His own EPW roster profile (posted 3 October 2007), which describes him as a returning \"former A1E World Heavyweight and Cyber Champion\" continuing a \"previous tenure\" -- a later, separate stint from the single reign already on file, whose own recorded dates (first_seen 2005-11, last_seen 2005-03) run chronologically backwards and are not corrected here (outside this lane's own evidence)."
+   }
+  ],
+  "notes": "\"Cross\" is a generic archetype name independently likely to recur across federations. Filed distinct on the no-auto-merge default."
+ },
+ {
+  "id": "eric-davis-epw",
+  "type": "character",
+  "name": "Eric \"The Dragon\" Davis",
+  "caption": "Lost the Dragon nickname to Karl Brown at Russian Roulette (2005).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-03",
+    "last_seen": "2005-03",
+    "source": "\"Russian Roulette (2005)\" (12 March 2005)"
+   }
+  ]
+ },
+ {
+  "id": "isaac-byrne-epw",
+  "type": "character",
+  "name": "Isaac Byrne",
+  "caption": "A billing under which John Doe also competed in Empire Pro Wrestling's own Inferno Match at Russian Roulette (2005).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-03",
+    "last_seen": "2005-03",
+    "source": "\"Russian Roulette (2005)\" (12 March 2005)"
+   }
+  ]
+ },
+ {
+  "id": "steve-savoy-epw",
+  "type": "character",
+  "name": "Steve Savoy",
+  "caption": "Lost the cage portion of his own match to Cross at Russian Roulette (2005).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-03",
+    "last_seen": "2005-03",
+    "source": "\"Russian Roulette (2005)\" (12 March 2005)"
+   },
+   {
+    "promotion": "cswa",
+    "first_seen": "2005-05",
+    "last_seen": "2005-05",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "presumed",
+    "source": "the CSWA Unified World Championship tournament, forum 288, billed \"'The Phenom'\"",
+    "note": "Presumed the same performer as EPW's own Steve Savoy on the strength of the shared, uncommon name and the two feds' own established roster-sharing diaspora (dozens of other characters already carry tenures at both); his own EPW tenure (March 2005) sits weeks before this CSWA appearance (May 2005), consistent with one handler working both boards. No document names both feds together."
+   }
+  ]
+ },
+ {
+  "id": "olvir-epw",
+  "type": "character",
+  "name": "Olvir Arsvinnar",
+  "caption": "A Norse-billed wrestler across Empire Pro Wrestling's later run, from a pinfall win at Black Dawn 2008 to a chaotic six-man DQ at Unleashed 2008.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-10",
+    "last_seen": "2008-12",
+    "source": "\"Black Dawn 2008\" (21 April 2008) and \"Unleashed 2008\" (9 December 2008) Also corroborated by the fed's own weekly sign-in threads, which show him active from at least 16 October 2007 through January 2008 -- predating his own bio profile's own account of a 'recent return' in March 2008; the discrepancy is unresolved (a real gap the record does not date, or loosely-worded prose)."
+   }
+  ]
+ },
+ {
+  "id": "simply-beautiful-epw",
+  "type": "character",
+  "name": "\"Simply Beautiful\" (SB)",
+  "caption": "Lost to Beast by pinfall (a Gore) at Black Dawn 2008.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-10",
+    "last_seen": "2008-04",
+    "source": "\"Black Dawn 2008\" (21 April 2008)"
+   }
+  ],
+  "aka": [
+   "Andrew Rossi"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (andrew-rossi); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "andrew-rossi"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ice-tre-epw",
+  "type": "character",
+  "name": "Ice Tre",
+  "caption": "Won the King of the Cage match at Black Dawn 2008 and briefly held the Empire Pro Wrestling Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name with existing characters in two held wings (SVW 1995, Summit of e-Wrestling). No document read this pass ties this corpus's own Ice Tre to either held record. Filed distinct on the no-auto-merge default.",
+    "with": [
+     "ice-tre-svw",
+     "ice-tre-svw"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-03",
+    "last_seen": "2009-05",
+    "source": "\"Black Dawn 2008\" (21 April 2008) Also corroborated by: His own EPW roster profile (posted 22 March 2007) predates the previously recorded first appearance; he appears live at Wrestleverse III (19 May 2009), extending the previously recorded last appearance."
+   }
+  ]
+ },
+ {
+  "id": "stalker-epw",
+  "type": "character",
+  "name": "Stalker",
+  "caption": "Lost the King of the Cage match to Ice Tre at Black Dawn 2008, and later contested the vacant Television Championship at Unleashed 2008.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2008-04",
+    "last_seen": "2010-02",
+    "source": "\"Black Dawn 2008\" (21 April 2008), \"Unleashed 2008\" (9 December 2008), and this wing's era-2 documents through \"EPW & New ERA Present: Sin City Showdown\" (10 February 2010), leading The Fallen and ending Rocko Daymon's Empire Pro career in a Last Man Standing match"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (stalker-nfw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "stalker-nfw"
+    ]
+   }
+  ],
+  "aka": [
+   "Jason Reeves"
+  ]
+ },
+ {
+  "id": "craig-miles-epw",
+  "type": "character",
+  "name": "Craig Miles",
+  "caption": "Challenged for the Empire Pro Wrestling World Tag Team Championship alongside Beast at Unleashed 2008.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name with existing characters in two held wings (CSWA, NFW). The held record's \"Black Dawn (2004)\" text separately describes an in-fiction \"Craig Miles\" as a former NFW authority figure (\"Craig Miles isn't the Boss anymore\"), which may be the same figure as this wrestler or a distinct namesake; not resolved. Filed distinct on the no-auto-merge default pending a dedicated join pass.",
+    "with": [
+     "craig-miles-cswa",
+     "craig-miles-cswa"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2008-06",
+    "last_seen": "2009-05",
+    "source": "\"Unleashed 2008\" (9 December 2008) Also corroborated by: His own EPW roster profile (posted 13 June 2008) predates the previously recorded first appearance; he appears in a backstage segment at Wrestleverse III (19 May 2009), extending the previously recorded last appearance."
+   }
+  ]
+ },
+ {
+  "id": "eisenkreuz-epw",
+  "type": "character",
+  "name": "Eisenkreuz",
+  "caption": "Half of a tag team alongside Priest in Empire Pro Wrestling's World Tag Team Championship turmoil match, Russian Roulette (2005).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-03",
+    "last_seen": "2005-03",
+    "source": "\"Russian Roulette (2005)\" (12 March 2005)"
+   }
+  ]
+ },
+ {
+  "id": "mercedes-devon-epw",
+  "type": "character",
+  "name": "Mercedes Devon",
+  "caption": "Cameron Cruise's wife and manager, a ringside presence across his Empire Pro career.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2004-04",
+    "last_seen": "2006-07",
+    "source": "\"Aggression 8\" (14 May 2004) and \"Unleashed 2006\" (15 July 2006), interfering on behalf of her husband Cameron Cruise"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (mercedes-devon); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "mercedes-devon"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kazuo-shizaki-epw",
+  "type": "character",
+  "name": "Kazuo Shizaki",
+  "caption": "A wrestler defeated by Rocko Daymon at Wrestleverse II.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-01",
+    "last_seen": "2007-01",
+    "source": "\"Wrestleverse II\" (24 January 2007)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (kazuo-shizaki); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "kazuo-shizaki"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chandler-maxwell-epw",
+  "type": "character",
+  "name": "\"First Class\" Chandler Maxwell",
+  "caption": "Half of the Saviors of Wrestling with Adam Benjamin, defeated in a tag team three-way at Wrestleverse II.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-01",
+    "last_seen": "2007-01",
+    "source": "\"Wrestleverse II\" (24 January 2007)"
+   }
+  ]
+ },
+ {
+  "id": "max-mayhem-epw",
+  "type": "character",
+  "name": "Max Mayhem",
+  "caption": "Half of the Motor City Maniacs with Ripper Robertson, former GXW/NthWA/EWI World Tag Team Champions making their Empire Pro debut at Wrestleverse II.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-12",
+    "last_seen": "2007-01",
+    "source": "\"Wrestleverse II\" (24 January 2007) Also corroborated by: The Motor City Maniacs tag-team roster profile (posted 15 December 2006) predates the previously recorded first appearance."
+   }
+  ]
+ },
+ {
+  "id": "ripper-robertson-epw",
+  "type": "character",
+  "name": "Ripper Robertson",
+  "caption": "Half of the Motor City Maniacs with Max Mayhem, former GXW/NthWA/EWI World Tag Team Champions making their Empire Pro debut at Wrestleverse II.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-12",
+    "last_seen": "2007-01",
+    "source": "\"Wrestleverse II\" (24 January 2007) Also corroborated by: The Motor City Maniacs tag-team roster profile (posted 15 December 2006) predates the previously recorded first appearance."
+   }
+  ]
+ },
+ {
+  "id": "bloodhunt-epw",
+  "type": "character",
+  "name": "Bloodhunt",
+  "caption": "Fought \"Triple X\" Sean Stevens to a time-limit draw at Wrestleverse II, three weeks after taking Stevens out on Aggression.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-01",
+    "last_seen": "2007-01",
+    "source": "\"Wrestleverse II\" (24 January 2007)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (bloodhunt); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "bloodhunt"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (bloodhunt-cswa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "bloodhunt-cswa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "troy-windham-epw",
+  "type": "character",
+  "name": "Troy Windham",
+  "caption": "Lindsay Troy's estranged, on-screen husband, defeated by her in a ladder match at Wrestleverse II for their own divorce papers.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-01",
+    "last_seen": "2007-01",
+    "source": "\"Wrestleverse II\" (24 January 2007)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (troy-windham); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "troy-windham"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dope-epw",
+  "type": "character",
+  "name": "Dope",
+  "caption": "A new signee teaming with The First in a tag-team turmoil match at Russian Roulette II.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-07",
+    "last_seen": "2009-02",
+    "source": "\"Russian Roulette II\" (18 September 2007) Also corroborated by: The Forsaken tag-team roster profile (posted 9 July 2007 through 7 February 2009) both predates and extends the previously recorded single-month appearance."
+   }
+  ]
+ },
+ {
+  "id": "lollipop-epw",
+  "type": "character",
+  "name": "Lollipop",
+  "caption": "JA's fiancee, a recurring ringside presence who brawled with Caitlyn Daymon and arena security at Russian Roulette II.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2007-01",
+    "last_seen": "2007-09",
+    "source": "\"Wrestleverse II\" (24 January 2007) and \"Russian Roulette II\" (18 September 2007)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (lollipop-agw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "lollipop-agw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (lollipop-obw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "lollipop-obw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cassidy-stewart-epw",
+  "type": "character",
+  "name": "Cassidy Stewart",
+  "caption": "Ice Tre's talent representative, negotiating his contract on-screen at Russian Roulette II.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2007-09",
+    "last_seen": "2007-09",
+    "source": "\"Russian Roulette II\" (18 September 2007)"
+   }
+  ]
+ },
+ {
+  "id": "big-dog-epw",
+  "type": "character",
+  "name": "Big Dog",
+  "caption": "Dan Ryan's surprise tag partner in a losing World Tag Team Championship challenge at Russian Roulette III.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-10",
+    "last_seen": "2009-10",
+    "source": "\"Russian Roulette III\" (28 October 2009)"
+   }
+  ]
+ },
+ {
+  "id": "pamela-epw",
+  "type": "character",
+  "name": "Pamela",
+  "caption": "Layne Winters's manager, at ringside for his Television Championship defense at Russian Roulette III.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2009-10",
+    "last_seen": "2009-10",
+    "source": "\"Russian Roulette III\" (28 October 2009)"
+   }
+  ]
+ },
+ {
+  "id": "mauricio-dos-santos-epw",
+  "type": "character",
+  "name": "Mauricio Dos Santos",
+  "caption": "The third member of the Brazilian trio Jungle Storm, wrestling in their World Tag Team Championship challenge at Russian Roulette III.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-10",
+    "last_seen": "2009-10",
+    "source": "\"Russian Roulette III\" (28 October 2009)"
+   }
+  ]
+ },
+ {
+  "id": "killjoy-tommy-mayhem-epw",
+  "type": "character",
+  "name": "Killjoy Tommy Mayhem",
+  "caption": "Lost to Adam Benjamin on Empire Pro's opening show, Aggression 1.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-01",
+    "last_seen": "2004-01",
+    "source": "\"Aggression 1\" (20 January 2004)"
+   }
+  ]
+ },
+ {
+  "id": "suicide-epw",
+  "type": "character",
+  "name": "Suicide",
+  "caption": "Advanced through Empire Pro's opening World/Intercontinental tournament round at Aggression 2, eliminating Tommy Mayhem alongside Rob Sampson.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-02",
+    "last_seen": "2004-02",
+    "source": "\"Aggression 2\" (1 February 2004)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (stevie-rich-ihwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "stevie-rich-ihwf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (suicide-icew); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "suicide-icew"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (suicide-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "suicide-rspwf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (uea-suicide); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "uea-suicide"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cliff-young-epw",
+  "type": "character",
+  "name": "\"Youngblood\" Cliff Young",
+  "caption": "Won a tag match with Tyrone Walker against Derek Stoltz and Kevin Watson at Aggression 3.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-02",
+    "last_seen": "2004-02",
+    "source": "\"Aggression 3\" (17 February 2004)"
+   }
+  ]
+ },
+ {
+  "id": "spaz-epw",
+  "type": "character",
+  "name": "Spaz",
+  "caption": "Won a tag match alongside John Doe at Aggression 3.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-02",
+    "last_seen": "2004-02",
+    "source": "\"Aggression 3\" (17 February 2004)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (spaz-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "spaz-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "maelstrom-epw",
+  "type": "character",
+  "name": "Maelstrom",
+  "caption": "Defeated Rocko Daymon by submission at Aggression 3.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-02",
+    "last_seen": "2004-02",
+    "source": "\"Aggression 3\" (17 February 2004)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (maelstrom-dcwl); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "maelstrom-dcwl"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (maelstrom-nwl); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "maelstrom-glcw-2002"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "michael-gettis-epw",
+  "type": "character",
+  "name": "\"Big Time\" Michael Gettis",
+  "caption": "Lost to Tyrone Walker at Aggression 4.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Aggression 4\" (2 March 2004)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (michael-gettis-cswa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "michael-gettis-cswa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "terry-anderson-epw",
+  "type": "character",
+  "name": "Terry \"The Idol\" Anderson",
+  "caption": "Stephen Waltz's manager at Aggression 5.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Aggression 5\" (30 March 2004)"
+   },
+   {
+    "promotion": "gwa-gateway-2004",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2004-09-23",
+    "last_seen": "2004-09-23",
+    "source": "Named in Stephen Waltz's profile, 23 September 2004."
+   },
+   {
+    "promotion": "iwf-2011",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2011-11",
+    "last_seen": "2013-05",
+    "source": "The fed's own cards, notices and roleplays on its forum (2011-11-02 to 2013-05-19)"
+   }
+  ],
+  "aka": [
+   "Terry Anderson",
+   "The Idol"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bill-dynamite-ewo",
+     "the-idol-gcw-gcwonline-2001",
+     "the-idol-rspwf"
+    ],
+    "note": "The name or an alias is shared with an existing record on another wing; nothing in either source links the two, so they are kept apart."
+   }
+  ]
+ },
+ {
+  "id": "eric-dane-epw",
+  "type": "character",
+  "name": "\"The Only Star\" Eric Dane",
+  "caption": "A newly-debuted manager who cost Stephen Waltz a disqualification win in order to recruit Tyrone Walker at Aggression 5.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2004-03",
+    "last_seen": "2004-03",
+    "source": "\"Aggression 5\" (30 March 2004)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-only-star-eric-dane-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-only-star-eric-dane-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "blu-thundarous-epw",
+  "type": "character",
+  "name": "Blu Thundarous",
+  "caption": "Defeated \"Big Air\" Brian Hale in a debut match at Aggression 8.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-05",
+    "last_seen": "2004-05",
+    "source": "\"Aggression 8\" (14 May 2004)"
+   }
+  ]
+ },
+ {
+  "id": "ray-rock-epw",
+  "type": "character",
+  "name": "Ray Rock",
+  "caption": "Lost to X at Aggression 9.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-06",
+    "last_seen": "2004-06",
+    "source": "\"Aggression 9\" (26 June 2004)"
+   }
+  ]
+ },
+ {
+  "id": "big-johnny-mambo-epw",
+  "type": "character",
+  "name": "Big Johnny Mambo",
+  "caption": "Half of The Rockamambinators with Ray Rock, quickly beaten by Golem and X-Ecutioner at Aggression 13.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-10",
+    "last_seen": "2004-10",
+    "source": "\"Aggression 13\" (23 October 2004)"
+   }
+  ]
+ },
+ {
+  "id": "vladamir-vlachinko-epw",
+  "type": "character",
+  "name": "Vladamir Vlachinko",
+  "caption": "A Russian heel, managed by Natasha, whose short Empire Pro run ended in a loss to Priest at Aggression 17.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-04",
+    "last_seen": "2005-04",
+    "source": "\"Aggression 17\" (30 April 2005)"
+   }
+  ]
+ },
+ {
+  "id": "natasha-epw",
+  "type": "character",
+  "name": "Natasha",
+  "caption": "Vladamir Vlachinko's manager at Aggression 17.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2005-04",
+    "last_seen": "2005-04",
+    "source": "\"Aggression 17\" (30 April 2005)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (natasha-rspwwcw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "natasha-rspwwcw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bill-laimbeer-epw",
+  "type": "character",
+  "name": "Bill Laimbeer",
+  "caption": "Part of JA's entourage at Aggression 17.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "2005-04",
+    "last_seen": "2005-04",
+    "source": "\"Aggression 17\" (30 April 2005)"
+   }
+  ]
+ },
+ {
+  "id": "dis-ii-epw",
+  "type": "character",
+  "name": "Dis II",
+  "caption": "A second masked \"Dis\" wrestler, defeating Cross at Aggression 17 with help from a third masked ally, \"Dis III\".",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-04",
+    "last_seen": "2005-04",
+    "source": "\"Aggression 17\" (30 April 2005)"
+   }
+  ],
+  "identity": [],
+  "notes": "See the identity note on lindsay-troy."
+ },
+ {
+  "id": "dis-iii-epw",
+  "type": "character",
+  "name": "Dis III",
+  "caption": "A third masked \"Dis\" wrestler, aiding Dis II against Cross at Aggression 17.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2005-04",
+    "last_seen": "2005-04",
+    "source": "\"Aggression 17\" (30 April 2005)"
+   }
+  ],
+  "identity": [],
+  "notes": "See the identity note on lindsay-troy."
+ },
+ {
+  "id": "lane-stone-epw",
+  "type": "character",
+  "name": "Lane Stone",
+  "caption": "Debuted at Aggression 24 only to be mockingly booked against a midget wrestler, Beastlet, by Priest.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-04",
+    "last_seen": "2006-04",
+    "source": "\"Aggression 24\" (29 April 2006)"
+   }
+  ]
+ },
+ {
+  "id": "beastlet-epw",
+  "type": "character",
+  "name": "Beastlet",
+  "caption": "A diminutive wrestler sent out by Priest to mock debuting Lane Stone at Aggression 24.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-04",
+    "last_seen": "2006-04",
+    "source": "\"Aggression 24\" (29 April 2006)"
+   }
+  ]
+ },
+ {
+  "id": "promo-epw",
+  "type": "character",
+  "name": "Promo",
+  "caption": "Won a tag match with Foxx against Cameron Cruise and Mercedes Devon at Aggression 24.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-04",
+    "last_seen": "2006-04",
+    "source": "\"Aggression 24\" (29 April 2006)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "promo",
+     "promo",
+     "promo"
+    ],
+    "note": "Pending a verdict: the same name and one shared opponent (a tag match with Cameron Cruise) in the same circuit and years, but no page names both and the EPW card mentions no mask, no 'Underground Icon' and no Singapore cane, so the name-plus-moniker bar is not met; kept apart until a source ties them."
+   }
+  ]
+ },
+ {
+  "id": "wisconsin-bill-epw",
+  "type": "character",
+  "name": "Wisconsin Bill",
+  "caption": "Mike Evers's manager, who defeated Adam Benjamin at Aggression 24 to win Evers a Television Championship shot.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2006-04",
+    "last_seen": "2006-04",
+    "source": "\"Aggression 24\" (29 April 2006)"
+   }
+  ]
+ },
+ {
+  "id": "armando-montezuma-epw",
+  "type": "character",
+  "name": "Armando Montezuma",
+  "caption": "An entrant in the battle royal at Aggression 24.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-04",
+    "last_seen": "2006-04",
+    "source": "\"Aggression 24\" (29 April 2006)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (armando-montezuma); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "armando-montezuma"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "wong-pei-epw",
+  "type": "character",
+  "name": "Wong-Pei the Circus-Trained Monkey Boy",
+  "caption": "A comedic opponent IrishRed faced via satellite from Mongolia at Aggression 26.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-09",
+    "last_seen": "2006-09",
+    "source": "\"Aggression 26\" (22 September 2006)"
+   }
+  ]
+ },
+ {
+  "id": "akita-epw",
+  "type": "character",
+  "name": "Akita, the Ventriloquist Telepath",
+  "caption": "A comedic opponent defeated by IrishRed at Aggression 28.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-12",
+    "last_seen": "2006-12",
+    "source": "\"Aggression 28\" (12 December 2006)"
+   }
+  ]
+ },
+ {
+  "id": "otaku-epw",
+  "type": "character",
+  "name": "Otaku",
+  "caption": "Defeated The Raptor at Aggression 33.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-11",
+    "last_seen": "2011-10",
+    "source": "\"Aggression 33\" (28 November 2007) Also corroborated by: His own updated roster profile (last edited 8 October 2011) restates an active in-ring career and records his own World Tag Team Championship win (w/ Karl \"The Dragon\" Brown as Animezing Dragon), \"3rd August 2011 to present.\""
+   }
+  ]
+ },
+ {
+  "id": "rob-franklin-epw",
+  "type": "character",
+  "name": "Rob Franklin",
+  "caption": "Defeated Sanket Desai at Aggression 33.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-11",
+    "last_seen": "2007-11",
+    "source": "\"Aggression 33\" (28 November 2007)"
+   }
+  ]
+ },
+ {
+  "id": "ryoko-epw",
+  "type": "character",
+  "name": "Ryoko",
+  "caption": "A woman with a history with Felix Red who shocked Stalker with a stun device to help The Forsaken retain the World Tag Team Championship at Aggression 41.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2009-01",
+    "last_seen": "2009-02",
+    "source": "\"Aggression 41\" (27 January 2009); \"High Stakes Negotiations\" (5 February 2009), a contract dispute naming her The Forsaken's manager"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (ryoko); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "ryoko"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "arthur-epw",
+  "type": "character",
+  "name": "Arthur",
+  "caption": "Half of the Men of Constant Sorrow with Burnett, defeated by Contradiction at Aggression 44.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-06",
+    "last_seen": "2009-06",
+    "source": "\"Aggression 44\" (19 June 2009)"
+   }
+  ]
+ },
+ {
+  "id": "burnett-epw",
+  "type": "character",
+  "name": "Burnett",
+  "caption": "Half of the Men of Constant Sorrow with Arthur, defeated by Contradiction at Aggression 44.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-06",
+    "last_seen": "2009-06",
+    "source": "\"Aggression 44\" (19 June 2009)"
+   }
+  ]
+ },
+ {
+  "id": "the-sonic-titan-epw",
+  "type": "character",
+  "name": "\"The Sonic Titan\"",
+  "caption": "Erik Black's manager at Aggression 47.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2009-09",
+    "last_seen": "2009-09",
+    "source": "\"Aggression 47\" (8 September 2009)"
+   }
+  ]
+ },
+ {
+  "id": "muse-epw",
+  "type": "character",
+  "name": "Muse",
+  "caption": "The First's manager and valet, a recurring ringside presence in HOPE's faction war with Anthology.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2009-11",
+    "last_seen": "2009-12",
+    "source": "\"Aggression 48\" (25 November 2009) and \"Aggression 49\" (31 December 2009), managing The First"
+   }
+  ]
+ },
+ {
+  "id": "aran-dishon-epw",
+  "type": "character",
+  "name": "\"Reckless\" Aran Dishon",
+  "caption": "A young Empire Pro Wrestling newcomer who won his debut match and later fell just short of the Television Championship's number-one contendership.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-12",
+    "last_seen": "2010-02",
+    "source": "\"Aggression 49\" (31 December 2009), a debut win over John Doe, and \"Aggression 50\" (10 February 2010), a #1-contender's match loss to Erik Black"
+   }
+  ]
+ },
+ {
+  "id": "kenneth-williams-epw",
+  "type": "character",
+  "name": "Kenneth Williams",
+  "caption": "An Empire Pro Wrestling debutant pinned in a triple threat match by Michael Bastard at Aggression 50.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2010-02",
+    "last_seen": "2010-02",
+    "source": "\"Aggression 50\" (10 February 2010), a triple threat debut against John Doe and Michael Bastard"
+   }
+  ]
+ },
+ {
+  "id": "michael-bastard-epw",
+  "type": "character",
+  "name": "Michael Bastard",
+  "caption": "A debuting Empire Pro Wrestling competitor managed by The Amazing Logan, billed by his own manager as a coming impact player.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2010-02",
+    "last_seen": "2010-04",
+    "source": "\"Aggression 50\" (10 February 2010), a triple threat debut win over John Doe and Kenneth Williams, and \"Aggression 51\" (27 April 2010), teaming with Fusenshoff against the Heirs of Wrestling"
+   },
+   {
+    "promotion": "pwc-fwrestling-2011",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'11\"",
+    "weight": "228 lbs",
+    "hometown": "Flint, Michigan",
+    "alignment": "heel",
+    "finisher": "The Bastard Driver (scoop tombstone)",
+    "entrance_music": {
+     "verbatim": "All Secrets Known - Alice in Chains"
+    },
+    "manager": "The Amazing Logan",
+    "first_seen": "2011-02-17",
+    "last_seen": "2011-03-29",
+    "source": "Named in the fed's own forum posts, 17 February 2011 to 29 March 2011."
+   }
+  ],
+  "aka": [
+   "the Wrestler Your Favorite Wrestler Is Afraid of",
+   "the New Paradigm"
+  ]
+ },
+ {
+  "id": "the-amazing-logan-epw",
+  "type": "character",
+  "name": "The Amazing Logan",
+  "caption": "Michael Bastard's manager across his Empire Pro Wrestling run.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2010-02",
+    "last_seen": "2010-04",
+    "source": "\"Aggression 50\" (10 February 2010) and \"Aggression 51\" (27 April 2010), managing Michael Bastard"
+   },
+   {
+    "promotion": "pwc-fwrestling-2011",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2011-02-17",
+    "last_seen": "2011-03-01",
+    "source": "Named in the fed's own forum posts, 17 February 2011 to 1 March 2011."
+   }
+  ]
+ },
+ {
+  "id": "frank-pierce-epw",
+  "type": "character",
+  "name": "Frank Pierce",
+  "caption": "A member of the Heirs of Wrestling, a young stable managed by Alexandra Malone.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2010-01",
+    "last_seen": "2010-04",
+    "source": "\"Onslaught VII\" (19 January 2010), \"Aggression 50\" (10 February 2010) and \"Aggression 51\" (27 April 2010), wrestling for the Heirs of Wrestling"
+   }
+  ]
+ },
+ {
+  "id": "ryan-gallway-epw",
+  "type": "character",
+  "name": "Ryan Gallway",
+  "caption": "A member of the Heirs of Wrestling, a young stable managed by Alexandra Malone.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2010-01",
+    "last_seen": "2010-04",
+    "source": "\"Onslaught VII\" (19 January 2010), \"Aggression 50\" (10 February 2010) and \"Aggression 51\" (27 April 2010), wrestling for the Heirs of Wrestling"
+   },
+   {
+    "promotion": "sccw-2005",
+    "first_seen": "2009-04-04",
+    "last_seen": "2010-06-13",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "South Beach, Miami, Florida",
+    "height": "5'8'",
+    "weight": "180",
+    "nicknames": "Prince of Precision, The World Warrior, The Intergalactic Space Cowboy, The Hipster Heart Throb",
+    "entrance_music": {
+     "verbatim": "Singles: Major Tom, Coming Home, Tag: The Shit by Danger Mouse and Jemini"
+    },
+    "grade": "primary-source",
+    "source": "SCCW's own backstage database (lot 0159) — its own biography card and the federation's own appearance record: 4 match and 5 segment appearances",
+    "note": "Its own record here also carries: 2 roleplays of its own under this card."
+   },
+   {
+    "promotion": "gcw-gcwonline-2001",
+    "first_seen": "2011-05-22",
+    "last_seen": "2011-09-10",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Miami, Florida",
+    "height": "5'8",
+    "weight": "165 lbs",
+    "style": "Lucharesu Junior Heavyweight",
+    "finisher": "SUPERNOVA",
+    "nicknames": "'The Last Heir', 'Prince of Precision', 'Intergalactic Space Cowboy'",
+    "entrance_music": {
+     "verbatim": "\"All of the Lights\" by Kanye West Feat. Rihanna & Kid Cudi"
+    },
+    "grade": "primary-source",
+    "source": "Global Championship Wrestling's own backstage database (accession 0159) — its own biography card and its own appearance record: 4 match and 1 segment appearances over 5 of its cards",
+    "note": "Its whole period in this federation, from the federation's own record: 5 appearances over 5 shows, 2011-05-22 to 2011-09-10. 2 roleplay(s) of its own under this card."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The card names the federation and this record's own unit. Its Other Feds field reads \"Currently: EPW. Past: tSC, ACW, High Noon\" and its Other Fed Awards claim the ACW and tSC tag titles; this record is a member of the Heirs of Wrestling in EPW, Jan - Apr 2010, managed by Alexandra Malone, which is the same unit and manager this card's own stable card names. This card's bio names Frank Pierce as the partner he held multiple tag titles with, and this record's EPW unit carries Frank Pierce. The distinctive \"Gallway\" spelling stands on both. Fed 10 gives him 4 appearances and 2 roleplays, 25 Apr - 13 Jun 2010, concurrent with the EPW run."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Championship Wrestling's own biography card (accession 0159) is this record: the same character carried by its own hand into a fourth federation's record. Its Other Feds field on that card reads, verbatim: “Previously: All-Star Championship Wrestling, Sin City Championship Wrestling, Empire Pro Wrestling”."
+   }
+  ],
+  "notes": "SCCW's own biography card claims an ACW Tag Team Championship. ACW resolves to All-Star Championship Wrestling (acw), the only ACW-acronym wing on file carrying a registered ACW Tag Team Championship."
+ },
+ {
+  "id": "mac-brody-epw",
+  "type": "character",
+  "name": "Mac Brody",
+  "caption": "A member of the Heirs of Wrestling, a young stable managed by Alexandra Malone, also billed as \"Midas Mack Brody.\"",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2010-01",
+    "last_seen": "2010-04",
+    "source": "\"Onslaught VII\" (19 January 2010), \"Aggression 50\" (10 February 2010) and \"Aggression 51\" (27 April 2010), wrestling for the Heirs of Wrestling"
+   }
+  ]
+ },
+ {
+  "id": "alexandra-malone-epw",
+  "type": "character",
+  "name": "Alexandra Malone",
+  "caption": "The Heirs of Wrestling's manager, also billed as \"Alexandria Malone.\"",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2010-01",
+    "last_seen": "2010-04",
+    "source": "\"Onslaught VII\" (19 January 2010), \"Aggression 50\" (10 February 2010) and \"Aggression 51\" (27 April 2010), managing the Heirs of Wrestling"
+   }
+  ]
+ },
+ {
+  "id": "donovan-astros-epw",
+  "type": "character",
+  "name": "Donovan Astros",
+  "caption": "A Los Angeles wrestler who broke into the Television Championship picture during the 2010 King of the Cage tournament and held the title for most of a year.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2010-07",
+    "last_seen": "2012-02",
+    "source": "His Empire Pro run, from his King of the Cage tournament debut through his Television Championship win at Unleashed 2011 and his loss of the title before Russian Roulette 2012."
+   },
+   {
+    "promotion": "ngen-2010",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2010-02-22",
+    "last_seen": "2010-05-10",
+    "source": "The fed's own forum pages (first /promotions/ngen-2010/archive/donovan-astros-bio-2010-02-22.html and the pages after it on this fed's boards).",
+    "grade": "primary-source",
+    "note": "Donovan Astros' promo on Empire Pro's Aggression 56 page (/promotions/empire-pro-wrestling/archive/aggression-56-2011-03-08.html) calls him the \"uncrowned NGEN World Champion\" who won \"the only singles match in NGEN history\"; this fed's profile gives him a Los Angeles hometown, as this record does."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A same-named character is held elsewhere in the registry; no shared evidence found.",
+    "with": [
+     "donovan-astros"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rich-mahogany-epw",
+  "type": "character",
+  "name": "Rich Mahogany",
+  "caption": "An Austin, Texas wrestler who held the Television Championship for the first half of 2012.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-02",
+    "last_seen": "2012-08",
+    "source": "His Empire Pro run from winning the Television Championship at Russian Roulette 2012 through defending it into that year's King of the Cage tournament and the Television Anti-Championship match at Black Dawn 2012."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A same-named character is held in another wing's roster; no shared evidence found.",
+    "with": [
+     "rich-mahogany"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mister-sunshine-epw",
+  "type": "character",
+  "name": "Mister Sunshine",
+  "caption": "A returning Ann Arbor, Michigan wrestler, formerly billed as Rob Franklin.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-02",
+    "last_seen": "2012-02",
+    "source": "His Russian Roulette 2012 loss to Rezin."
+   }
+  ],
+  "aka": [
+   "Rob Franklin"
+  ]
+ },
+ {
+  "id": "christian-light-epw",
+  "type": "character",
+  "name": "Christian Light",
+  "caption": "A Garden City, New York wrestler.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2013-05",
+    "source": "His Aggression 69 appearance and his run in the vacant Intercontinental Championship match at Unleashed 2013."
+   }
+  ]
+ },
+ {
+  "id": "eli-flair-epw",
+  "type": "character",
+  "name": "Eli Flair",
+  "caption": "A wrestler introduced at Unleashed 2013 through an unexplained video vignette.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2013-05",
+    "last_seen": "2013-05",
+    "source": "His mysterious, static-and-red-text vignette debut and win over Aaron Jones at Unleashed 2013."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A same-named character is held in another wing's roster; no shared evidence found.",
+    "with": [
+     "eli-flair"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "syd-morgan-epw",
+  "type": "character",
+  "name": "Syd Morgan",
+  "caption": "Half of the Wolves of the Sea tag team.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2013-05",
+    "last_seen": "2013-05",
+    "source": "His Unleashed 2013 loss, teamed with Jameson Murdock as the Wolves of the Sea, to Team V.I.A.G.R.A."
+   }
+  ]
+ },
+ {
+  "id": "jameson-murdock-epw",
+  "type": "character",
+  "name": "Jameson Murdock",
+  "caption": "Half of the Wolves of the Sea tag team.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2013-05",
+    "last_seen": "2013-05",
+    "source": "His Unleashed 2013 loss, teamed with Syd Morgan as the Wolves of the Sea, to Team V.I.A.G.R.A."
+   }
+  ]
+ },
+ {
+  "id": "hank-epw",
+  "type": "character",
+  "name": "Hank",
+  "caption": "Half of the tag team billed as Dirk Dickwood Presents.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-11",
+    "last_seen": "2013-05",
+    "source": "His Empire Pro run from the 2012 King of the Cage tag tournament through his and Cecilworth J. Farthington's Unleashed 2013 loss of the World Tag Team Championship as Dirk Dickwood Presents."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (hank-lcw-1997); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "hank-lcw-1997"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "aaron-jones-epw",
+  "type": "character",
+  "name": "Aaron Jones",
+  "caption": "An Indianapolis, Indiana wrestler.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-08",
+    "last_seen": "2013-05",
+    "source": "His run in the Television Anti-Championship elimination match at Black Dawn 2012 and his Unleashed 2013 loss to the debuting Eli Flair."
+   }
+  ]
+ },
+ {
+  "id": "eddie-burns-epw",
+  "type": "character",
+  "name": "\"The Fire\" Eddie Burns",
+  "caption": "A wrestler who co-held the EPW World Tag Team Championship with The First from late 2011 into early 2012.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2011-11",
+    "last_seen": "2012-02",
+    "source": "His Aggression 62 win of the World Tag Team Championship alongside The First and his Russian Roulette 2012 loss of it, defending with a substitute partner after sabotaging The First's car."
+   }
+  ]
+ },
+ {
+  "id": "malcolm-joseph-jones-epw",
+  "type": "character",
+  "name": "Malcolm Joseph-Jones",
+  "caption": "A Jackson, Mississippi wrestler who won the Television Championship at Unleashed 2013.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2013-05",
+    "source": "His Aggression 69 appearance and his Unleashed 2013 win of the Television Championship from Anarky."
+   },
+   {
+    "promotion": "cswa",
+    "first_seen": "2013",
+    "last_seen": "2013",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the held record, reading the CSWA Blue Moon relaunch (2012-06) through closure (2014-01-12)",
+    "note": "Wrestled as half of Urban Legends (with Boogie Smallz) in the relaunch's own Unified Tag Team Tournament."
+   }
+  ]
+ },
+ {
+  "id": "sam-turner-jr-epw",
+  "type": "character",
+  "name": "Sam Turner Jr.",
+  "caption": "A wrestler, styled the \"Ragekill Redneck\" by Empire Pro's own broadcast team, who partnered Teddy Alexander to a King of the Cage: Tag Team Edition World Tag Team Championship reign.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-11",
+    "last_seen": "2013-02",
+    "source": "His Empire Pro run from the King of the Cage: Tag Team Edition tournament's second round through his and Teddy Alexander's Tag Team Championship reign and its loss in the tournament final."
+   }
+  ]
+ },
+ {
+  "id": "jason-murray-epw",
+  "type": "character",
+  "name": "Jason Murray",
+  "caption": "One half of the tag team Point of View, active in Empire Pro's undercard through 2012 and 2013.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-05",
+    "last_seen": "2013-07",
+    "source": "His Empire Pro run as one half of Point of View, from Aggression 66 through Aggression 73."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A same-named character is held elsewhere in the registry; no shared evidence found.",
+    "with": [
+     "jason-murray"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "eddie-beachy-epw",
+  "type": "character",
+  "name": "Eddie Beachy",
+  "caption": "One half of the tag team Point of View, active in Empire Pro's undercard through 2012 and 2013.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-05",
+    "last_seen": "2013-07",
+    "source": "His Empire Pro run as one half of Point of View, from Aggression 66 through Aggression 73."
+   }
+  ]
+ },
+ {
+  "id": "brian-grambueller-epw",
+  "type": "character",
+  "name": "\"Sergeant Hucker\" Brian Grambueller",
+  "caption": "A Denver-based wrestler who opened Aggression 67 against Gabriel Poe.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-06",
+    "last_seen": "2012-06",
+    "source": "His single appearance opening Aggression 67 against Gabriel Poe."
+   }
+  ]
+ },
+ {
+  "id": "umpiro-epw",
+  "type": "character",
+  "name": "Umpiro",
+  "caption": "One half of the tag team billed as the South and Central American Renegades of Fire, entered in the 2012 King of the Cage: Tag Team Edition tournament.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2012-09",
+    "source": "His King of the Cage: Tag Team Edition first-round appearance at Aggression 68."
+   }
+  ]
+ },
+ {
+  "id": "big-dave-barista-epw",
+  "type": "character",
+  "name": "Big Dave Barista",
+  "caption": "One half of the tag team billed as the South and Central American Renegades of Fire, entered in the 2012 King of the Cage: Tag Team Edition tournament.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2012-09",
+    "source": "His King of the Cage: Tag Team Edition first-round appearance at Aggression 68."
+   }
+  ]
+ },
+ {
+  "id": "michelle-laliberte-epw",
+  "type": "character",
+  "name": "Michelle Laliberte",
+  "caption": "A wrestler representing the Defiance promotion, teamed with Christian Light in the 2012 King of the Cage: Tag Team Edition tournament.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2012-09",
+    "source": "Her King of the Cage: Tag Team Edition first-round appearance at Aggression 68, partnered with Christian Light."
+   }
+  ]
+ },
+ {
+  "id": "curtis-penn-epw",
+  "type": "character",
+  "name": "Curtis Penn",
+  "caption": "One half of the Heatseekers, entered in the 2012 King of the Cage: Tag Team Edition tournament against the reigning World Tag Team Champions.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2012-09",
+    "source": "His King of the Cage: Tag Team Edition first-round title challenge at Aggression 68."
+   }
+  ]
+ },
+ {
+  "id": "tyson-burke-epw",
+  "type": "character",
+  "name": "Tyson Burke",
+  "caption": "One half of the Heatseekers, entered in the 2012 King of the Cage: Tag Team Edition tournament against the reigning World Tag Team Champions.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2012-09",
+    "source": "His King of the Cage: Tag Team Edition first-round title challenge at Aggression 68."
+   }
+  ]
+ },
+ {
+  "id": "bobby-steptoe-epw",
+  "type": "character",
+  "name": "Bobby Steptoe",
+  "caption": "One half of the Dreamstealers, who defeated Rich Mahogany's makeshift team in the 2012 King of the Cage: Tag Team Edition tournament.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2012-09",
+    "source": "His King of the Cage: Tag Team Edition first-round win at Aggression 69."
+   }
+  ]
+ },
+ {
+  "id": "saturday-night-kid-epw",
+  "type": "character",
+  "name": "\"The Saturday Night Kid\"",
+  "caption": "One half of the Dreamstealers, who defeated Rich Mahogany's makeshift team in the 2012 King of the Cage: Tag Team Edition tournament.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2012-09",
+    "source": "His King of the Cage: Tag Team Edition first-round win at Aggression 69."
+   }
+  ]
+ },
+ {
+  "id": "alceo-dentari-epw",
+  "type": "character",
+  "name": "Alceo Dentari",
+  "caption": "A Naples-born wrestler who partnered Boogie Smallz in the 2012 King of the Cage: Tag Team Edition tournament.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2012-09",
+    "source": "His King of the Cage: Tag Team Edition first-round appearance at Aggression 69, partnered with Boogie Smallz."
+   }
+  ]
+ },
+ {
+  "id": "fishman-deluxe-epw",
+  "type": "character",
+  "name": "Fishman Deluxe",
+  "caption": "One half of Los Luchas Fresca, a Mexico City lucha libre team that faced Team V.I.A.G.R.A. at Aggression 70.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-11",
+    "last_seen": "2012-11",
+    "source": "His appearance opposite Team V.I.A.G.R.A. at Aggression 70."
+   }
+  ]
+ },
+ {
+  "id": "mascara-de-muerte-iv-epw",
+  "type": "character",
+  "name": "Mascara De Muerte IV",
+  "caption": "One half of Los Luchas Fresca, a Mexico City lucha libre team that faced Team V.I.A.G.R.A. at Aggression 70.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-07",
+    "last_seen": "2012-11",
+    "source": "His own roster profile (posted 13 July 2012) predates the previously recorded first appearance. Also corroborated by: His appearance opposite Team V.I.A.G.R.A. at Aggression 70."
+   }
+  ]
+ },
+ {
+  "id": "james-haughton-epw",
+  "type": "character",
+  "name": "James \"Judgment\" Haughton",
+  "caption": "A London-born wrestler who made his Empire Pro debut in an exhibition match against Aaron Jones at Aggression 74.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2013-09",
+    "last_seen": "2013-09",
+    "source": "His Empire Pro debut against Aaron Jones at Aggression 74."
+   }
+  ]
+ },
+ {
+  "id": "darkness-epw",
+  "type": "character",
+  "name": "Darkness",
+  "caption": "A Charleston-based wrestler who made his Empire Pro debut alongside Aaron Jones in the three-way match that marked Kendall Codine's in-ring return, at Aggression 66.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-05",
+    "last_seen": "2012-06",
+    "source": "His Empire Pro debut at Aggression 66. Also corroborated by: His own roster profile (posted 4 June 2012), filed shortly after that debut, restating his own career in a prior, unheld federation."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Several unrelated same-named characters are held elsewhere in the registry; no shared evidence found.",
+    "with": [
+     "cwfpro-darkness",
+     "darkness-ewa-email",
+     "darkness-iwf1296",
+     "war-1995-darkness"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "castor-ve-strife-epw",
+  "type": "character",
+  "name": "Castor Ve Strife",
+  "caption": "An on-screen Interim President of Empire Pro Wrestling, drawn from outside the promotion, who booked and appeared on Aggression 74 through 76.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "authority-figure",
+     "wrestler"
+    ],
+    "first_seen": "2013-09",
+    "last_seen": "2014-03",
+    "source": "His run as on-screen Interim President from Aggression 74 through Aggression 76."
+   }
+  ]
+ },
+ {
+  "id": "calico-rose-epw",
+  "type": "character",
+  "name": "Calico Rose",
+  "caption": "A manager, seen at ringside for Impulse across several Empire Pro shows, who wrestled alongside him in a mixed tag match at Aggression 76.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager",
+     "wrestler"
+    ],
+    "first_seen": "2011-02",
+    "last_seen": "2014-03",
+    "source": "Impulse's own roster profile (posted 10 February 2011) predates the previously recorded first appearance. Also corroborated by: Her Empire Pro run at ringside for Impulse, including wrestling alongside him at Aggression 76."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A same-named character is held elsewhere in the registry; no shared evidence found.",
+    "with": [
+     "calico-rose"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "oblivion-epw",
+  "type": "character",
+  "name": "Oblivion",
+  "caption": "A wrestler who partnered Teddy Alexander to a dark-match win over Point of View in the 2012 King of the Cage: Tag Team Edition tournament's first round.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2012-09",
+    "last_seen": "2012-09",
+    "source": "His dark-match appearance, partnered with Teddy Alexander, reported by result only ahead of Aggression 69."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A same-named character is held elsewhere in the registry; no shared evidence found.",
+    "with": [
+     "oblivion-mwe"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jermaine-dawson-epw",
+  "type": "character",
+  "name": "Jermaine Dawson",
+  "caption": "A wrestler who lost to Mister Sunshine in the latter's Empire Pro debut, at Aggression 63.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2011-11",
+    "last_seen": "2012-01",
+    "source": "His own roster profile (posted 10 November 2011) predates the previously recorded first appearance. Also corroborated by: His appearance opposite Mister Sunshine at Aggression 63."
+   }
+  ]
+ },
+ {
+  "id": "haruka-suicide-epw",
+  "type": "character",
+  "name": "\"The Blazing Sun\" Haruka Suicide",
+  "caption": "A wrestler billed as \"The Blazing Sun,\" who partnered on-screen Interim President Castor Ve Strife in a mixed tag match at Aggression 76.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2014-03",
+    "last_seen": "2014-03",
+    "source": "Her appearance at Aggression 76, partnered with Castor Ve Strife."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A wing-held character carries the same billed name \"Suicide\" with no shared evidence of identity found.",
+    "with": [
+     "suicide-epw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dean-matthews-epw",
+  "type": "character",
+  "name": "\"The Show Stealer\" Dean Matthews",
+  "caption": "A self-styled talent manager who offered every undecided wrestler on the roster a free makeover, under the parody alter ego \"Strong Dean.\"",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with two existing held characters. No document read this pass ties any of them to Empire Pro Wrestling; filed distinct on the no-auto-merge default pending contrary evidence.",
+    "with": [
+     "dean-matthews-acw",
+     "dean-matthews-gxw-2001"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2004-02",
+    "last_seen": "2004-02",
+    "source": "\"The Makeover\" (7 February 2004), a comedic pitch offering managerial services to any wrestler on the roster, aimed at Rocko Daymon"
+   }
+  ]
+ },
+ {
+  "id": "jericoholic-anonymous-epw",
+  "type": "character",
+  "name": "Jericoholic Anonymous",
+  "aka": [
+   "JA",
+   "The Anglo Luchador"
+  ],
+  "caption": "A masked luchador who signed with the newly-launched Empire Pro after tenures at A1E and MBE, in a worked-shoot radio interview naming his own training at Stampede's Hart Family Dungeon.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-06",
+    "last_seen": "2004-06",
+    "source": "\"WON Live with Dave Meltzer... special guest, JA!\" (21-22 June 2004), a worked-shoot radio interview marking his signing with the promotion"
+   },
+   {
+    "promotion": "backyard-wrestling-2005",
+    "first_seen": "2005-04-23",
+    "last_seen": "2005-04-24",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "A self-posted roster bio card (23 April 2005) and a one-off crossover promo (24 April 2005) on the Backyard Wrestling: Live and UNCUT forum, billed there as \"JA\" and \"The Anglo Luchador,\" against Anarky in an advertised, never-completed match; the bio card claims an A1 Entertainment Cyber Championship (x2), an A1 Entertainment Tag Team Championship (x2), and an Empire Pro Wrestling Intercontinental Championship."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2008-06",
+    "last_seen": "2008-06",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — Infinite Gauntlet champion, winning the 45th round and defending it in the 46th against Chris Storm and Charlotte Ramone",
+    "grade": "primary-source",
+    "source": "PTC forum, PTC's Infinite Gauntlet, five posts in \"IG45 Trash Talk Open Invitation thread (all vs Chris Storm)\" (posts 268129-268273, topic 23318) and \"A First Hand Account of an Ill-Fated Glimpse into the Past\" (post 269533, topic 23452), 2-19 Jun 2008"
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2007-06-30",
+    "last_seen": "2007-06-30",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — a much earlier PTC stint, an Infinite Gauntlet 33 trash-talk entrant, over a year before this record's existing IG45 championship run",
+    "grade": "primary-source",
+    "source": "PTC forum, PTC Roleplays, \"IG 33 - Trash Talk Here!\" (post 236679, topic 21103), 30 Jun 2007",
+    "note": "A much earlier PTC stint than this record's existing IG45 championship run, over a year before it."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (ja-epw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "ja-epw"
+    ]
+   }
+  ],
+  "notes": "Also crossed over, for a single advertised card that was ultimately cancelled, to Backyard Wrestling: Live and UNCUT (backyard-wrestling-2005), an unrelated one-off fwrestling.com exhibition, self-posting a bio card there under this row's own exact name/moniker pair (\"JA\"/\"The Anglo Luchador\") roughly ten months after this row's own held tenure. This row's own existing identity note against the separately-held \"ja-epw\" row (whose tenure begins after this crossover appearance) is untouched by this finding."
+ },
+ {
+  "id": "the-whirlwind-epw",
+  "type": "character",
+  "name": "The Whirlwind",
+  "caption": "An Irish boxer-turned-wrestler teased in a hype video citing bouts in Irish boxing, Japanese shoot-fighting, and two other fwrestling.com federations.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-03",
+    "last_seen": "2006-03",
+    "source": "\"A Whirlwind Is Coming...\" (25 March 2006), a hype video ahead of an announced debut"
+   }
+  ]
+ },
+ {
+  "id": "vince-von-trap-epw",
+  "type": "character",
+  "name": "\"Hollywood Star\" Vince Von Trap",
+  "caption": "A self-promoting B-movie-actor gimmick wrestler profiled in an in-fiction magazine feature for his own overbearing self-regard.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-03",
+    "last_seen": "2006-03",
+    "source": "\"Vince Von Trap featured in Fighting Spirit Illustrated\" (22 March 2006), an in-fiction magazine profile"
+   }
+  ]
+ },
+ {
+  "id": "doc-silver-epw",
+  "type": "character",
+  "name": "Doc Silver",
+  "caption": "A recovering wrestler who came to Empire Pro Wrestling to look out for Felix Red, and for his own wife's affair with him.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-04",
+    "last_seen": "2009-04",
+    "source": "His own EPW roster profile (posted 2 April 2009)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Same-named entities exist in other wings (NFW's doc-silver, New ERA of Wrestling's doc-silver-ne); no shared operator, chronology or storyline evidence found in this wing's own documents linking this appearance to either.",
+    "with": [
+     "doc-silver",
+     "doc-silver"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ryan-oracle-epw",
+  "type": "character",
+  "name": "Ryan Oracle",
+  "caption": "Half of the tag team PowerGodz, claiming descent from the Greek gods.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-04",
+    "last_seen": "2009-05",
+    "source": "The PowerGodz tag-team roster profile (posted 10 April 2009); the pair debut live at Wrestleverse III (19 May 2009)."
+   },
+   {
+    "promotion": "nfw",
+    "first_seen": "2012-02-04",
+    "last_seen": "2013-01-19",
+    "grade": "presumed",
+    "source": "the fed's own per-segment roster links across its served results archive",
+    "note": "First and last seen are the earliest and latest served NFW document whose own per-segment roster link names this character; the fed's own record does not state a debut or a departure."
+   }
+  ]
+ },
+ {
+  "id": "gary-freedman-epw",
+  "type": "character",
+  "name": "Gary Freedman",
+  "caption": "Empire Pro Wrestling's on-screen Executive Vice President of Talent Relations, the front office's own liaison to the roster under Dan Ryan.",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "2013-05",
+    "last_seen": "2013-05",
+    "source": "\"Executive Vice President of Talent Relations Gary Freedman Speaks\" (20 May 2013), an in-fiction front-office announcement on tag-team reinstatements, a title contract, and a contract dispute, EPW Corporate sub-forum"
+   }
+  ]
+ }
+]

@@ -1,0 +1,90 @@
+[
+ {
+  "id": "luke-skywalker-avenger-deathmatch",
+  "type": "character",
+  "name": "Luke Skywalker",
+  "caption": "Billed under the Star Wars character's own name for the one surviving Avenger Deathmatch matchup, staged against Neo and never resolved in any held document.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": [
+   {
+    "figure": "luke-skywalker-star-wars",
+    "grade": "primary-source",
+    "note": "Named outright, twice, by the site's own text (the dedicated Deathmatch page and the front page's own restatement) — played straight as the canonical Star Wars figure, not a ring-name homage. CANONICAL-PORTRAYAL CLAUSE; renders \"Inspired by\" rather than \"Portrays\" because `portrayal_of` is reserved to real professional wrestlers and this figure is fictional."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "avenger-deathmatch",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "billed for the weekly Deathmatch feature's one surviving matchup, against Neo",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "promotions/avenger-deathmatch/archive/the-avenger-deathmatch.html; promotions/avenger-deathmatch/archive/the-front-page.html"
+   }
+  ]
+ },
+ {
+  "id": "neo-avenger-deathmatch",
+  "type": "character",
+  "name": "Neo",
+  "caption": "Billed under The Matrix character's own name for the one surviving Avenger Deathmatch matchup, staged against Luke Skywalker and never resolved in any held document.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": [
+   {
+    "figure": "neo-the-matrix",
+    "grade": "primary-source",
+    "note": "Named outright, twice, by the site's own text (the dedicated Deathmatch page and the front page's own restatement) — played straight as the canonical Matrix figure, not a ring-name homage. CANONICAL-PORTRAYAL CLAUSE; renders \"Inspired by\" rather than \"Portrays\" because `portrayal_of` is reserved to real professional wrestlers and this figure is fictional."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "neo-faw",
+     "neo-gmwe",
+     "neo-ngw"
+    ],
+    "note": "The bare name \"Neo\" collides exactly, case-insensitively, with neo-faw, neo-gmwe and neo-ngw, unrelated wrestlers in other promotions using the same generic pop-culture-derived name with no evident Matrix connection of their own. Nothing connects them; recorded distinct under the collision doctrine."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "avenger-deathmatch",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "billed for the weekly Deathmatch feature's one surviving matchup, against Luke Skywalker",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "promotions/avenger-deathmatch/archive/the-avenger-deathmatch.html; promotions/avenger-deathmatch/archive/the-front-page.html"
+   }
+  ]
+ }
+]

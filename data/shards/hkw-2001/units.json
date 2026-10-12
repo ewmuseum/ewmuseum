@@ -1,0 +1,152 @@
+[
+ {
+  "id": "state-club-boyz-hkw-2001",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "State Club Boyz",
+  "members": [
+   {
+    "name": "Curtis",
+    "character_id": "curtis-hkw-2001"
+   },
+   {
+    "name": "Tony",
+    "character_id": "tony-hkw-2001"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "hkw-2001",
+    "grade": "primary-source",
+    "first_seen": "2001-04-08",
+    "last_seen": "2001-07-21",
+    "source": "the promotion's own held broadcasts"
+   }
+  ],
+  "caption": "A preppy, self-styled 'best money can buy' duo who twice challenged for the Texas Outlaw Championship and lost the belt's own inaugural ladder match.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0
+   }
+  }
+ },
+ {
+  "id": "blue-light-special-hkw-2001",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Blue Light Special",
+  "members": [
+   {
+    "name": "Harry Palmer",
+    "character_id": "harry-palmer-30mc-2001"
+   },
+   {
+    "name": "Dean McQueen",
+    "character_id": "dean-mcqueen-hkw-2001"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "hkw-2001",
+    "grade": "primary-source",
+    "first_seen": "2001-04-01",
+    "last_seen": "2001-07-09",
+    "source": "the promotion's own held broadcasts"
+   }
+  ],
+  "caption": "A K-Mart-smocked duo who feuded with Pretty in Pink over discount wrestling schools and skincare products.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0
+   }
+  }
+ },
+ {
+  "id": "pretty-in-pink-hkw-2001",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Pretty in Pink",
+  "members": [
+   {
+    "name": "Lars",
+    "character_id": "lars-30mc-2001"
+   },
+   {
+    "name": "Backyard Billy",
+    "character_id": "billy-blaze-30mc-2001"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "hkw-2001",
+    "grade": "primary-source",
+    "first_seen": "2001-06-24",
+    "last_seen": "2001-07-21",
+    "source": "the promotion's own held broadcasts"
+   }
+  ],
+  "caption": "Lars and Backyard Billy's flamboyant pairing, formed after their feud ended, won the Hard Knocks Wrestling tag tournament's opening round over Blue Light Special.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "with": [
+     "pretty-in-pink-pwa-1992"
+    ],
+    "note": "A different Pretty in Pink, unrelated fed and era."
+   }
+  ]
+ },
+ {
+  "id": "ctd-hkw-2001",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "CTD",
+  "members": [
+   {
+    "name": "DJ Stiff",
+    "character_id": "dj-stiff-hkw-2001"
+   },
+   {
+    "name": "Mo",
+    "character_id": "mo-hkw-2001"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "hkw-2001",
+    "grade": "primary-source",
+    "first_seen": "2001-06-24",
+    "last_seen": "2001-06-24",
+    "source": "the promotion's own held broadcasts"
+   }
+  ],
+  "caption": "A tag team entered in the Hard Knocks Wrestling tag tournament; DJ Stiff lost his lone held match to newcomer Dustin Neal.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0
+   }
+  }
+ }
+]

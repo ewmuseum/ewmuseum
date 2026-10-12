@@ -1,0 +1,94 @@
+[
+ {
+  "id": "newcowf-1997-eliminators",
+  "type": "unit",
+  "name": "The Eliminators",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "John Kronus",
+    "character_id": "john-kronus-newcowf-1997"
+   },
+   {
+    "name": "Perry Saturn",
+    "character_id": "perry-saturn-newcowf-1997"
+   }
+  ],
+  "notes": "Debuted on the promotion's Tournament Finals by winning the vacant NEWCOWF Tag Team Title from Doug Furnas and Philip LaFon, John Kronus wrestling most of the match alone while Perry Saturn nursed a leg injury on the apron. Lost the title at Triple Threat '97 (29 June 1997), Kronus teaming with a substitute for the still-injured Saturn against Sabu and Rob Van Dam.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-eliminators-ewa-email",
+     "wpwf-eliminators",
+     "wwwf-1997-eliminators"
+    ],
+    "note": "A generic/real tag-team name several unrelated feds independently reuse for the same two real wrestlers; per CURATION.md v96 (the per-promotion portrayal doctrine) each fed's own portrayal is its own row, never merged across promotions."
+   }
+  ],
+  "caption": "The debuting tag team of John Kronus and Perry Saturn, winning the promotion's first NEWCOWF Tag Team Title at its Tournament Finals.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "newcowf-1997"
+   }
+  ]
+ },
+ {
+  "id": "newcowf-1997-harlem-heat",
+  "type": "unit",
+  "name": "Harlem Heat",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Booker T",
+    "character_id": "booker-t-newcowf-1997"
+   },
+   {
+    "name": "Stevie Ray",
+    "character_id": "stevie-ray-newcowf-1997"
+   }
+  ],
+  "notes": "Won a three-way brawl over the Gangstas and the Public Enemy at Triple Threat '97 (29 June 1997) to earn a NEWCOWF Tag Team Title shot, then challenged champions Sabu and Rob Van Dam for the title at Clash in the Champions House (13 July 1997) and lost when Insane Clown Posse interference let Sabu steal the pin. Went to a double-pin draw with the champions in a four-way title match at the Great Canadian Bash (24 August 1997) that saw the title held up.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "harlem-heat-ewa-email",
+     "harlem-heat-uwow",
+     "harlem-heat-xwf-uwow"
+    ],
+    "note": "A real tag team also portrayed by other promotions; each promotion's portrayal is its own record."
+   }
+  ],
+  "caption": "The tag team of Booker T and Stevie Ray, twice challenging Sabu and Rob Van Dam for the NEWCOWF Tag Team Title.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "newcowf-1997"
+   }
+  ]
+ }
+]

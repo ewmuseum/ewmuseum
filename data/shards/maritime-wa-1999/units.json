@@ -1,0 +1,166 @@
+[
+ {
+  "id": "team-richards-maritime-wa-1999",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "Team Richards",
+  "members": [
+   "jason-richards-maritime-wa-1999",
+   "judge-richards-maritime-wa-1999",
+   "silver-maritime-wa-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "maritime-wa-1999",
+    "first_seen": "1999-10-24",
+    "last_seen": "1999-10-24",
+    "source": "Lost to the DuMonts and Jem Moser on the promotion's own inaugural card."
+   }
+  ],
+  "caption": "A three-man team assembled at the last minute to cover for an injured champion.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "richards-wrecking-crew-maritime-wa-1999",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "the Richards Wrecking Crew",
+  "members": [
+   "jason-richards-maritime-wa-1999",
+   "judge-richards-maritime-wa-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "maritime-wa-1999",
+    "first_seen": "1999-11-07",
+    "last_seen": "1999-11-07",
+    "source": "Lost to the American Amazons in Moncton."
+   }
+  ],
+  "caption": "A recurring tag pairing of the Richards brothers, beaten in Moncton.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "dumonts-maritime-wa-1999",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "the DuMonts",
+  "members": [
+   "jean-paul-dumont-maritime-wa-1999",
+   "kyle-dumont-maritime-wa-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "maritime-wa-1999",
+    "first_seen": "1999-10-24",
+    "last_seen": "1999-11-07",
+    "source": "Won on the promotion's own inaugural card and again a week later in Moncton."
+   }
+  ],
+  "caption": "An undefeated tag team across the promotion's own opening two cards.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "team-canada-maritime-wa-1999",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Team Canada",
+  "members": [
+   "kevin-richards-maritime-wa-1999",
+   "snow-warrior-maritime-wa-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "maritime-wa-1999",
+    "first_seen": "1999-10-24",
+    "last_seen": "1999-10-24",
+    "source": "Named as a top tag contender in the promotion's own first bulletin; sidelined by injury before a match could take place."
+   }
+  ],
+  "caption": "A patriotically named pairing sidelined by injury before wrestling a match.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (team-canada-mwwa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "team-canada-mwwa"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (team-canada-uwf-mar96); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "team-canada-uwf-mar96"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "american-amazons-maritime-wa-1999",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "the American Amazons",
+  "members": [
+   "mathew-samuels-maritime-wa-1999",
+   "mark-samuels-maritime-wa-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "maritime-wa-1999",
+    "first_seen": "1999-11-07",
+    "last_seen": "1999-11-07",
+    "source": "Defeated the Richards Wrecking Crew in Moncton."
+   }
+  ],
+  "caption": "A brother tag team that beat the promotion's own Richards brothers in Moncton.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ }
+]

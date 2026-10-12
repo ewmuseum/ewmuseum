@@ -1,0 +1,105 @@
+[
+ {
+  "id": "cutting-edge-awi",
+  "type": "unit",
+  "name": "The Cutting Edge",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "“Bombin'” Bob Jones",
+    "character_id": "bombin-bob-jones-awi"
+   },
+   {
+    "name": "Terry “The Tactician” Jones",
+    "character_id": "terry-jones-awi"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "awi",
+    "source": "promotions/awi/archive/awi-mission-control-1995-08-13.html",
+    "note": "Fought the Super Titans to a time-limit draw on Mission Control."
+   }
+  ],
+  "caption": "St. Louis tag team who fought the Super Titans to a time-limit draw on Mission Control.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "An unrelated same-named unit is already on file for another wing (ICBINR). No shared operator, chronology or storyline evidence found. No-auto-merge default: distinct.",
+    "with": [
+     "the-cutting-edge-icbinr"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "super-titans-awi",
+  "type": "unit",
+  "name": "The Super Titans",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Giant Titan",
+    "character_id": "giant-titan-awi"
+   },
+   {
+    "name": "Jumbo Titan",
+    "character_id": "jumbo-titan-awi"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "awi",
+    "source": "promotions/awi/archive/awi-mission-control-1995-08-13.html",
+    "note": "Managed by Matt D. Tall; fought the Cutting Edge to a time-limit draw on Mission Control."
+   }
+  ],
+  "caption": "Atlantic City tag team, managed by Matt D. Tall, who fought the Cutting Edge to a time-limit draw on Mission Control.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "megaton-awi",
+  "type": "unit",
+  "name": "Megaton",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Heavy Duty",
+    "character_id": "heavy-duty-awi"
+   },
+   {
+    "name": "Mass Master",
+    "character_id": "mass-master-awi"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "awi",
+    "source": "promotions/awi/archive/awi-explosion-1995-07-28.html; promotions/awi/archive/awi-mission-control-1995-08-13.html",
+    "note": "Managed by Vinnie “the Mouth”; the reigning AWI World Tag Team Champions, per both documents, having won the titles at the Union supercard."
+   }
+  ],
+  "caption": "The reigning AWI World Tag Team Champions, managed by Vinnie “the Mouth,” shown touring world disaster sites on Mission Control while on hiatus from the road.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ }
+]

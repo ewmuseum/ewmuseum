@@ -1,0 +1,268 @@
+[
+  {
+    "id": "agw-world",
+    "type": "title",
+    "name": "AGW World Title",
+    "promotion": "agw",
+    "page": "/titles/agw-world.html",
+    "collection": "0077",
+    "epitaph": "AGW's flagship championship, first won 7 October 1997 at the fed's own founding and defended through 26 recorded reigns before the ledger's own last word, Mark Payne's reign beginning 30 January 2000, running into the fed's own hiatus. Kid Nitro's own reign ended not by a loss but by his death in a quadrangle Bridge match in the EEMWF, vacating the belt (the fed's own title-history ledger, footnote 2) -- the one reign this ledger records ending in kayfabe death rather than defeat.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 25
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-world-tag-team",
+    "type": "title",
+    "name": "AGW World Tag Team Titles",
+    "promotion": "agw",
+    "page": "/titles/agw-world-tag-team.html",
+    "collection": "0077",
+    "epitaph": "AGW's flagship tag championship, first won 7 October 1997 and defended through 38 recorded reigns before the ledger's own last word, E.H.B./McKnight's reign beginning 16 January 2000, running into the fed's own hiatus. One reign (Conveyors Of Pain over The Cowboys, 8 August 1998) lasted three hours -- the shortest recorded on this wing.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 39
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-intercontinental",
+    "type": "title",
+    "name": "AGW Intercontinental Title",
+    "promotion": "agw",
+    "page": "/titles/agw-intercontinental.html",
+    "collection": "0077",
+    "epitaph": "AGW's secondary singles championship, first won 7 October 1997 and defended through 37 recorded reigns before the ledger's own last word, Shawn Michaels's reign beginning 5 January 2000, running into the fed's own hiatus.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 37
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-tv",
+    "type": "title",
+    "name": "AGW TV Title",
+    "promotion": "agw",
+    "page": "/titles/agw-tv.html",
+    "collection": "0077",
+    "epitaph": "AGW's television championship, first won 7 October 1997 and defended through 55 recorded reigns before the ledger's own last word, Jason Star's reign beginning 9 January 2000, running into the fed's own hiatus. Won by Atlas on the fed's own earliest surviving results card, 15 September 1998 -- the one AGW title change this wing holds a served results document for.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 55
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-cruiserweight",
+    "type": "title",
+    "name": "AGW Cruiserweight Title",
+    "promotion": "agw",
+    "page": "/titles/agw-cruiserweight.html",
+    "collection": "0077",
+    "epitaph": "AGW's weight-limited championship (a 240-pound maximum per the ledger's own footnote 19), first won 7 October 1997 and defended through 55 recorded reigns before the ledger's own last word, Jason Star's reign beginning 30 January 2000, running into the fed's own hiatus. Matt Grendel's own reign (19 January 1999) was struck from a front-office scheduling error that gave the 247-pound Grendel a title shot over the weight limit; President Speed Racer stripped him days later and awarded him a TV Title shot instead, though the ledger still counts Grendel a past champion.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 55
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-super-heavyweight",
+    "type": "title",
+    "name": "AGW Super Heavyweight Title",
+    "promotion": "agw",
+    "page": "/titles/agw-super-heavyweight.html",
+    "collection": "0077",
+    "events": [
+      {
+        "type": "retired_by_fed",
+        "date": {
+          "date": "1998-01-17",
+          "precision": "exact"
+        },
+        "note": "the fed's own ledger marks the belt \"BELT DISCONTINUED\" after Brolly's reign beginning this date, with no further holder recorded."
+      }
+    ],
+    "epitaph": "AGW's heavyweight-division championship, first won 7 October 1997 and defended through 10 recorded reigns -- the shortest-lived of AGW's founding titles, discontinued outright after Brolly's final reign began 17 January 1998. Anaconda's own reign (1 November 1997) lasted five minutes: he already held the Intercontinental Title and asked for the belt to be handed back to Brolly (footnote 10).",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 10
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-us-tag-team",
+    "type": "title",
+    "name": "AGW U.S. Tag Team Titles",
+    "promotion": "agw",
+    "page": "/titles/agw-us-tag-team.html",
+    "collection": "0077",
+    "events": [
+      {
+        "type": "rename",
+        "date": {
+          "date": "1999-03-23",
+          "precision": "exact"
+        },
+        "title": "agw-anything-goes-tag-team",
+        "note": "the fed's own ledger, verbatim: \"The U.S. Tag Team Titles were dropped on 3/23/99 and replaced with the Anything Goes Tag Team Titles.\""
+      }
+    ],
+    "epitaph": "AGW's secondary tag championship, first won 7 October 1997 and defended through 33 recorded reigns until the fed's own ledger discontinued it 23 March 1999, replacing it with the Anything Goes Tag Team Titles.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 33
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-anything-goes-tag-team",
+    "type": "title",
+    "name": "AGW Anything Goes Tag Team Titles",
+    "promotion": "agw",
+    "page": "/titles/agw-anything-goes-tag-team.html",
+    "collection": "0077",
+    "events": [
+      {
+        "type": "rename",
+        "date": {
+          "date": "1999-03-27",
+          "precision": "exact"
+        },
+        "title": "agw-us-tag-team",
+        "note": "picks up the U.S. Tag Team Titles' own lineage per that title's discontinuation event."
+      }
+    ],
+    "epitaph": "AGW's tag championship successor to the discontinued U.S. Tag Team Titles, its first reign the finals of a 16-team tournament (footnote 22) beginning 27 March 1999; 21 recorded reigns follow before the ledger's own last word, New Death Sensation's reign beginning 30 January 2000, running into the fed's own hiatus.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 21
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-6-man-tag",
+    "type": "title",
+    "name": "AGW 6 Man Tag Titles",
+    "promotion": "agw",
+    "page": "/titles/agw-6-man-tag.html",
+    "collection": "0077",
+    "events": [
+      {
+        "type": "retired_by_fed",
+        "date": {
+          "date": "1999-07-04",
+          "precision": "exact"
+        },
+        "note": "the fed's own ledger marks the belts \"BELTS DISCONTINUED\" the day after Gris Lee and Ghetto Boyz's final recorded reign."
+      }
+    ],
+    "epitaph": "AGW's three-man trios championship, first won 11 October 1997 and defended through 32 recorded reigns until the fed's own ledger discontinued it outright, 4 July 1999.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 32
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-anything-goes",
+    "type": "title",
+    "name": "AGW Anything Goes Title",
+    "promotion": "agw",
+    "page": "/titles/agw-anything-goes.html",
+    "collection": "0077",
+    "epitaph": "AGW's namesake singles championship, first won 15 February 1998 (in a tournament final, footnote 11) and defended through 33 recorded reigns before the ledger's own last word, E.H. Brawler's reign beginning 30 January 2000, running into the fed's own hiatus. Its footnote 23 reign changed hands in a 4-way Flaming Barbed Wire Baseball Bat Match.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 33
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-women",
+    "type": "title",
+    "name": "AGW Women's Title",
+    "promotion": "agw",
+    "page": "/titles/agw-women.html",
+    "collection": "0077",
+    "epitaph": "AGW's women's championship, its earliest recorded reign (Tessa, a tournament final) undated in the fed's own ledger; 20 further recorded reigns follow before the ledger's own last word, Goth Chick's reign beginning 26 January 2000, running into the fed's own hiatus. The belt sat vacant from 13 January 2000 \"due to injury\" -- the only vacancy in this ledger the fed's own text attributes to a wrestler's health rather than a stripping, no-show, or administrative gap.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 21
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-womens-world",
+    "type": "title",
+    "name": "AGW Woman's World Title",
+    "promotion": "agw",
+    "page": "/titles/agw-womens-world.html",
+    "collection": "0077",
+    "epitaph": "Attested solely by Jessica Dawn's own bio card, which bills her a three-time \"Woman's World Champion\" -- a title name distinct from the \"AGW Women's Title\" the fed's own title-history ledger tracks through early 2000. No reign document for this title survives in the held record; whether it is that earlier belt under a later name, or a wholly separate later title, is not attested either way and is left unresolved rather than assumed.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 0
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-womens-tag-team",
+    "type": "title",
+    "name": "AGW Woman's Tag Team Title",
+    "promotion": "agw",
+    "page": "/titles/agw-womens-tag-team.html",
+    "collection": "0077",
+    "epitaph": "Attested solely by Jessica Dawn's own bio card, which bills her a \"Woman's Tag Team Champion.\" No reign document, no named co-holder, and no other mention survive in the held record.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 0
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "agw-unified-tag-team",
+    "type": "title",
+    "name": "AGW Unified Tag Team Title",
+    "promotion": "agw",
+    "page": "/titles/agw-unified-tag-team.html",
+    "collection": "0077",
+    "epitaph": "Attested solely by Nelson's own bio card, which names it as one of three belts making up his \"AGW Triple Crown Tag Champion\" distinction, alongside the World and Anything Goes tag titles. No reign document, no other mention, and no exact date survive in the held record.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 0
+      },
+      "author": "ai"
+    }
+  }
+]

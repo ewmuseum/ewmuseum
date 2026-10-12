@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fortune-thursday-stampede-2003-02-13",
+    "type": "show",
+    "name": "Thursday Stampede",
+    "promotion": "fortune-fwrestling",
+    "date": {
+      "date": "2003-02-13",
+      "precision": "exact",
+      "source": "The card itself: “Thursday Stampede Card for February 13th, 2003 / Live From The Huntington Civic Arena, Huntington, West Virginia.”"
+    },
+    "page": "/promotions/fortune-fwrestling/archive/thursday-stampede-card-2003-02-13.html",
+    "collection": "0046",
+    "venue": "the Huntington Civic Arena",
+    "city": "Huntington, West Virginia",
+    "appearances": [
+      { "who": "danny-saint-fortune", "kind": "match" },
+      { "who": "soutter-fortune", "kind": "match" },
+      { "who": "judas-brattigan-fortune", "kind": "match" },
+      { "who": "robert-hunglestein-iii-fortune", "kind": "match" },
+      { "who": "michael-stryfe-fortune", "kind": "match" },
+      { "who": "michael-stryfe-fortune", "kind": "angle" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["danny-saint-fortune"], ["soutter-fortune"]]
+      },
+      {
+        "order": 2,
+        "sides": [["judas-brattigan-fortune"], ["robert-hunglestein-iii-fortune"], ["michael-stryfe-fortune"]],
+        "stipulation": "Triple Threat Match"
+      }
+    ],
+    "notes": "Held as a card, not a results page. Every man on it is billed as making his debut, and the show was to end with an interview with Michael Stryfe and the unveiling of the fed’s own President — a woman, per the news post a week earlier, whose name is not recorded; the unveiling itself isn’t in the surviving record."
+  },
+  {
+    "id": "fortune-pressure-point-2003-03",
+    "type": "show",
+    "name": "Pressure Point",
+    "promotion": "fortune-fwrestling",
+    "date": {
+      "date": "2003-03",
+      "precision": "month",
+      "source": "The card's own header: “Pressure Point Card for March ?? 2003 / Live From ???” — the day and the venue are the page's own unfilled placeholders."
+    },
+    "page": "/promotions/fortune-fwrestling/archive/pressure-point-card-2003-03.html",
+    "collection": "0046",
+    "appearances": [],
+    "no_appearances_reason": "The page is an unfilled template: it names the pay-per-view and leaves its date, its venue, its referee and its one match — “Wrestler v. Wrestler v. Wrestler” — as placeholders. No entrant is named anywhere on it.",
+    "notes": "Recovered from the fed's own site (http://www.fwrestling.com/host/fortune/ppv.html) via the Wayback Machine, capture 6 March 2003."
+  }
+]

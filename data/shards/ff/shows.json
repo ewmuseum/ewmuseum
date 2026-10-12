@@ -1,0 +1,835 @@
+[
+  {
+    "id": "ff-fightshow-2003-02-06",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-02-06",
+      "precision": "exact",
+      "source": "The event's own address on the fed's own site, cgi-bin/events.cgi?fightSHOW+020603. SOURCES DISAGREE: the fed's own Events Archive lists its February fightSHOWs on the 5th, 12th and 19th and carries none on the 6th (/promotions/ff/archive/events-archive-2003-04.html); both readings are recorded."
+    },
+    "page": "/promotions/ff/archive/fightshow-2003-02-06.html",
+    "collection": "0046",
+    "notes": "Opens on the fed's own owner calling Jamie Pierce into his office and shoving a magazine at him with Takeo Brown on the cover. A press conference in the same show set the Pride & Victory contract signing between champion Liphe Gonne and challenger Javier Garcia.",
+    "appearances": [
+      {
+        "who": "jared-davidson-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "jamie-pierce-ff",
+        "kind": "match"
+      },
+      {
+        "who": "jacob-meyers-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "chester-ramis-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "kristofer-niedzwiedz-ff",
+        "kind": "match"
+      },
+      {
+        "who": "enrique-de-la-mora-ff",
+        "kind": "match"
+      },
+      {
+        "who": "shona-aun-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "umaga-reihana-ff",
+        "kind": "match"
+      },
+      {
+        "who": "xyler-vayin-ff",
+        "kind": "match"
+      },
+      {
+        "who": "andreas-odessa-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "adabi-tymier-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "pierre-krieve-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "takeo-brown-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "donnie-vincent-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "liphe-gonne-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "javier-garcia-ff",
+        "kind": "angle"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "kristofer-niedzwiedz-ff"
+          ],
+          [
+            "enrique-de-la-mora-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Enrique De La Mora won by submission (Kataha-Jime)."
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "xyler-vayin-ff"
+          ],
+          [
+            "umaga-reihana-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Umaga Reihana won by knockout, a rising knee he called \"The Last Resignation.\""
+      }
+    ]
+  },
+  {
+    "id": "ff-fightshow-2003-03-07",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-03-07",
+      "precision": "exact",
+      "source": "The event's own address on the fed's own site, cgi-bin/events.cgi?fightSHOW+030703. SOURCES DISAGREE: the fed's own Events Archive lists its March fightSHOWs on the 5th, 19th and 26th (/promotions/ff/archive/events-archive-2003-04.html); both readings are recorded."
+    },
+    "page": "/promotions/ff/archive/fightshow-2003-03-07.html",
+    "collection": "0046",
+    "city": "Atlantic City, New Jersey",
+    "notes": "Opens on the staff coming back from a week off, and on the road agent failing to enjoy it. Also carries Montgomery Benson's arrival at the arena under press scrutiny, and the aftermath of Amanda Ling's tournament booking a scheduling dispute with Christopher Broward over Alexander Morgan's third fight in a week.",
+    "appearances": [
+      {
+        "who": "amanda-ling-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "ijinza-yebanka-ff",
+        "kind": "match"
+      },
+      {
+        "who": "fejona-min-acw",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "montgomery-benson-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "kristofer-niedzwiedz-ff",
+        "kind": "match"
+      },
+      {
+        "who": "shona-aun-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "damon-d-jackson-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "synthia-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "yamaoka-kashima-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "jared-davidson-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "michael-donaldson-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "torrent-siscilian-ff",
+        "kind": "match"
+      },
+      {
+        "who": "jamie-pierce-ff",
+        "kind": "match"
+      },
+      {
+        "who": "graham-robinson-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "mark-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "alexander-morgan-ff",
+        "kind": "match"
+      },
+      {
+        "who": "christopher-broward-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "chester-ramis-ff",
+        "kind": "match"
+      },
+      {
+        "who": "miles-geronimo-ff",
+        "kind": "angle",
+        "capacity": "referee"
+      },
+      {
+        "who": "umaga-reihana-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "xyler-vayin-ff",
+        "kind": "angle"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "kristofer-niedzwiedz-ff"
+          ],
+          [
+            "ijinza-yebanka-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "First round, Lightweight Title tournament. Ijinza Yebanka's Flatlined debut; the fed's own writeup labels the finish \"via submission\" though it narrates a tornado kick knockout."
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "torrent-siscilian-ff"
+          ],
+          [
+            "jamie-pierce-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Torrent Siscilian substituted in for Yamaoka Kashima, released mid-show. Jamie Pierce won by submission."
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "chester-ramis-ff"
+          ],
+          [
+            "alexander-morgan-ff"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "First round, Lightweight Title tournament. Referee Miles Geronimo. Chester Ramis won by knockout (the \"Conspiracy Elbow\")."
+      }
+    ]
+  },
+  {
+    "id": "ff-fightshow-2003-03-27",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-03-27",
+      "precision": "exact",
+      "source": "The event's own address on the fed's own site, cgi-bin/events.cgi?fightSHOW+032703. SOURCES DISAGREE: the fed's own Events Archive dates its last March fightSHOW to the 26th (/promotions/ff/archive/events-archive-2003-04.html); both readings are recorded."
+    },
+    "page": "/promotions/ff/archive/fightshow-2003-03-27.html",
+    "collection": "0046",
+    "notes": "Opens on a press conference for Frank Minio, a month before he took the Heavyweight Championship. Opens on Frank Minio's own press conference, flanked by trainers Horendo Lorenza and Ramon Pirenzo, promising three straight first-round wins toward a Heavyweight Championship shot against Javier Garcia.",
+    "appearances": [
+      {
+        "who": "horendo-lorenza-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "ramon-pirenzo-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "frank-minio-ff",
+        "kind": "match"
+      },
+      {
+        "who": "umaga-reihana-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "seminalia-babakanu-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "alexander-morgan-ff",
+        "kind": "match"
+      },
+      {
+        "who": "christopher-broward-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "james-mckirkland-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "damon-d-jackson-ff",
+        "kind": "match"
+      },
+      {
+        "who": "neo-xealot-acw",
+        "kind": "match"
+      },
+      {
+        "who": "sly-dobbins-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "amanda-ling-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "jared-davidson-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "fejona-min-acw",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "graham-robinson-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "montgomery-benson-ff",
+        "kind": "match"
+      },
+      {
+        "who": "mark-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "kristofer-niedzwiedz-ff",
+        "kind": "match"
+      },
+      {
+        "who": "demond-wilson-ff",
+        "kind": "match"
+      },
+      {
+        "who": "danny-oakley-ff",
+        "kind": "angle",
+        "capacity": "referee"
+      },
+      {
+        "who": "shona-aun-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "ijinza-yebanka-ff",
+        "kind": "match"
+      },
+      {
+        "who": "chester-ramis-ff",
+        "kind": "match"
+      },
+      {
+        "who": "arson-zanders-ff",
+        "kind": "match"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "neo-xealot-acw"
+          ],
+          [
+            "damon-d-jackson-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Damon D. Jackson won by TKO (Heaven-Earth throw)."
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "alexander-morgan-ff"
+          ],
+          [
+            "montgomery-benson-ff"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Montgomery Benson's Flatlined debut. Alexander Morgan won by TKO after Benson injured his inner ear."
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "demond-wilson-ff"
+          ],
+          [
+            "kristofer-niedzwiedz-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Demond Wilson's Flatlined debut. Referee Danny Oakley. Kristofer Niedzwiedz won by submission (Kataha Jime)."
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "ijinza-yebanka-ff"
+          ],
+          [
+            "chester-ramis-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Final, Lightweight Title tournament, for the vacant Flatlined World Lightweight Championship. The fed's own writeup labels the finish \"via submission\" though it narrates an elbow-smash knockout (the \"Paradoxical Touch\"). Chester Ramis becomes the first Lightweight Champion."
+      },
+      {
+        "order": 5,
+        "sides": [
+          [
+            "arson-zanders-ff"
+          ],
+          [
+            "frank-minio-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "A tryout match for Zanders's re-signing, and the first of Minio's promised three straight first-round wins toward a title shot. Frank Minio won by knockout (\"The Phantom Pull\") at 4:12."
+      }
+    ]
+  },
+  {
+    "id": "ff-pride-and-victory-2003-02-23",
+    "type": "show",
+    "name": "Pride & Victory",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-02-23",
+      "precision": "exact",
+      "source": "The fed's own title history dates Javier Garcia's championship win to \"Sunday 23rd February 2003 (Pride & Victory)\" (/promotions/ff/archive/title-history-2003-04.html), and its own Events Archive files a PPV under 02/23/03 (/promotions/ff/archive/events-archive-2003-04.html)."
+    },
+    "evidence": [
+      {
+        "source": "/promotions/ff/archive/latest-ppv-2003-05.html",
+        "note": "The fed's own \"Latest PPV\" page carries this show's own full results, opening on Jared Davidson's own company history and closing on Javier Garcia's Heavyweight Championship win."
+      },
+      {
+        "source": "/promotions/ff/archive/title-history-2003-04.html",
+        "note": "The fed's own title history names the show as the place its Heavyweight Championship changed hands."
+      },
+      {
+        "source": "/promotions/ff/archive/events-archive-2003-04.html",
+        "note": "The fed's own Events Archive lists \"PPV: Pride & Victory 02/23/03\" under February 2003."
+      }
+    ],
+    "notes": "FLATLINEDfighting's own first pay-per-view. The fed's own \"Latest PPV\" page, captured 9 May 2003 with no later PPV to replace it, carries this show's own full results — the fed's own front page and title history both date the Heavyweight Championship change to this card, and the results text itself opens on a promo titled \"A History Lesson\" and closes on Javier Garcia's own title win, both proper to a first PPV rather than a later one. The fed's own May PPV, \"Clash,\" was announced for that month (/promotions/ff/archive/fightshow-2003-03-27.html) but never dated or captured, so nothing later ever supplanted this page.",
+    "page": "/promotions/ff/archive/latest-ppv-2003-05.html",
+    "appearances": [
+      {
+        "who": "michael-buffer-ff",
+        "kind": "angle",
+        "capacity": "ring-announcer"
+      },
+      {
+        "who": "jeff-collins-ff",
+        "kind": "angle",
+        "capacity": "referee"
+      },
+      {
+        "who": "alexander-morgan-ff",
+        "kind": "match"
+      },
+      {
+        "who": "christopher-broward-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "damon-d-jackson-ff",
+        "kind": "match"
+      },
+      {
+        "who": "john-lee-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "james-mckirkland-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "sly-dobbins-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "carl-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "ijinza-yebanka-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "fejona-min-acw",
+        "kind": "angle"
+      },
+      {
+        "who": "amanda-ling-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "roy-widrig-ff",
+        "kind": "angle",
+        "capacity": "authority"
+      },
+      {
+        "who": "enrique-de-la-mora-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "jared-davidson-ff",
+        "kind": "angle"
+      },
+      {
+        "who": "kristofer-niedzwiedz-ff",
+        "kind": "match"
+      },
+      {
+        "who": "shona-aun-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "frank-minio-ff",
+        "kind": "match"
+      },
+      {
+        "who": "horendo-lorenza-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "ramon-pirenzo-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "toby-mcadams-ff",
+        "kind": "angle",
+        "capacity": "referee"
+      },
+      {
+        "who": "gino-torrio-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "jamie-pierce-ff",
+        "kind": "match"
+      },
+      {
+        "who": "nathan-longstreet-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "chester-ramis-ff",
+        "kind": "match"
+      },
+      {
+        "who": "jacob-meyers-ff",
+        "kind": "match"
+      },
+      {
+        "who": "takeo-brown-ff",
+        "kind": "match"
+      },
+      {
+        "who": "liphe-gonne-ff",
+        "kind": "match"
+      },
+      {
+        "who": "javier-garcia-ff",
+        "kind": "match"
+      },
+      {
+        "who": "colonel-judge-harris-ff",
+        "kind": "angle",
+        "capacity": "manager"
+      },
+      {
+        "who": "gordon-claxton-ff",
+        "kind": "angle",
+        "capacity": "referee"
+      },
+      {
+        "who": "reijiro-aizawa-ff",
+        "kind": "angle"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "alexander-morgan-ff"
+          ],
+          [
+            "damon-d-jackson-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Announced by ring announcer Michael Buffer, refereed by Jeff Collins. Damon D. Jackson won by knockout."
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "kristofer-niedzwiedz-ff"
+          ],
+          [
+            "frank-minio-ff"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Referee Toby McAdams. Kristofer Niedzwiedz won by submission (Katahajimi), dislocating his own shoulder to lock it in."
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "jacob-meyers-ff"
+          ],
+          [
+            "chester-ramis-ff"
+          ]
+        ],
+        "note": "Ended in a no contest after three rounds, TKO."
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "takeo-brown-ff"
+          ],
+          [
+            "jamie-pierce-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Jamie Pierce won by knockout (the Dragon Kick)."
+      },
+      {
+        "order": 5,
+        "sides": [
+          [
+            "liphe-gonne-ff"
+          ],
+          [
+            "javier-garcia-ff"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Flatlined World Heavyweight Championship",
+        "note": "Referee Gordon Claxton. Liphe Gonne's trainer Colonel Judge Harris threw in the towel after Garcia dislocated Gonne's shoulder. Javier Garcia won the title by TKO."
+      }
+    ]
+  },
+  {
+    "id": "ff-fightshow-015-2003-04-23",
+    "type": "show",
+    "name": "fightSHOW: 015",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-04-23",
+      "precision": "exact",
+      "source": "The fed's own front-page news of 24 April 2003 reports Frank Minio's championship win \"last night on fightSHOW: 015\" (/promotions/ff/archive/front-page-2003-04.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/ff/archive/front-page-2003-04.html",
+        "note": "The fed's own front-page news carries the result of its main fight, the round it ended in and the challenge that followed it."
+      }
+    ],
+    "notes": "The last show FLATLINEDfighting is recorded as having staged. No card or results page for it is in the archive, and it is numbered past the last entry on the fed's own Events Archive."
+  },
+  {
+    "id": "ff-fightshow-2003-01-01",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-01-01",
+      "precision": "exact",
+      "source": "The fed's own Events Archive lists \"fightSHOW 01/01/03\" under January 2003 (/promotions/ff/archive/events-archive-2003-04.html). The fed's own title history also dates Takeo Brown's and Liphe Gonne's title reigns to this day (/promotions/ff/archive/title-history-2003-04.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/ff/archive/events-archive-2003-04.html",
+        "note": "The fed's own Events Archive lists this show under January 2003."
+      }
+    ],
+    "notes": "The fed's own first show. No card or results page for it is in the archive; the Heavyweight Championship changed hands on it twice, from Takeo Brown to Liphe Gonne, per the fed's own title history."
+  },
+  {
+    "id": "ff-fightshow-2003-01-08",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-01-08",
+      "precision": "exact",
+      "source": "The fed's own Events Archive lists \"fightSHOW 01/08/03\" under January 2003 (/promotions/ff/archive/events-archive-2003-04.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/ff/archive/events-archive-2003-04.html",
+        "note": "The fed's own Events Archive lists this show under January 2003."
+      }
+    ],
+    "notes": "No card or results page for it is in the archive."
+  },
+  {
+    "id": "ff-fightshow-2003-01-15",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-01-15",
+      "precision": "exact",
+      "source": "The fed's own Events Archive lists \"fightSHOW 01/15/03\" under January 2003 (/promotions/ff/archive/events-archive-2003-04.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/ff/archive/events-archive-2003-04.html",
+        "note": "The fed's own Events Archive lists this show under January 2003."
+      }
+    ],
+    "notes": "No card or results page for it is in the archive."
+  },
+  {
+    "id": "ff-fightshow-2003-01-22",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-01-22",
+      "precision": "exact",
+      "source": "The fed's own Events Archive lists \"fightSHOW 01/22/03\" under January 2003 (/promotions/ff/archive/events-archive-2003-04.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/ff/archive/events-archive-2003-04.html",
+        "note": "The fed's own Events Archive lists this show under January 2003."
+      }
+    ],
+    "notes": "No card or results page for it is in the archive."
+  },
+  {
+    "id": "ff-fightshow-2003-01-29",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-01-29",
+      "precision": "exact",
+      "source": "The fed's own Events Archive lists \"fightSHOW 01/29/03\" under January 2003 (/promotions/ff/archive/events-archive-2003-04.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/ff/archive/events-archive-2003-04.html",
+        "note": "The fed's own Events Archive lists this show under January 2003."
+      }
+    ],
+    "notes": "No card or results page for it is in the archive."
+  },
+  {
+    "id": "ff-fightshow-2003-04-02",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-04-02",
+      "precision": "exact",
+      "source": "The fed's own Events Archive lists \"fightSHOW 04/02/03\" under April 2003 (/promotions/ff/archive/events-archive-2003-04.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/ff/archive/events-archive-2003-04.html",
+        "note": "The fed's own Events Archive lists this show under April 2003."
+      }
+    ],
+    "notes": "No card or results page for it is in the archive."
+  },
+  {
+    "id": "ff-fightshow-2003-04-09",
+    "type": "show",
+    "name": "fightSHOW",
+    "promotion": "ff",
+    "date": {
+      "date": "2003-04-09",
+      "precision": "exact",
+      "source": "The fed's own Events Archive lists \"fightSHOW 04/09/03\" under April 2003 (/promotions/ff/archive/events-archive-2003-04.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/ff/archive/events-archive-2003-04.html",
+        "note": "The fed's own Events Archive lists this show under April 2003."
+      }
+    ],
+    "notes": "No card or results page for it is in the archive."
+  }
+]

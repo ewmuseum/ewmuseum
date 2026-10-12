@@ -1,0 +1,65 @@
+[
+  {
+    "id": "hwf-world-heavyweight-r001",
+    "title": "hwf-world-heavyweight",
+    "label": "Blade",
+    "holder": [
+      {
+        "id": "blade-hwf"
+      }
+    ],
+    "won": {
+      "date": "1997",
+      "precision": "year",
+      "source": "Promo claim only, msg_id Miy7yDbvy6IJ; no title-change document survives."
+    },
+    "days": null,
+    "lost": null,
+    "how": "Attested as reigning champion in a challenger's own promo; the title win itself is not narrated in any document this collection holds.",
+    "event": null,
+    "note": "No `event` link: no results document for a title change survives.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "hwf-television-r001",
+    "title": "hwf-television",
+    "label": "Bad Ass John",
+    "holder": [
+      {
+        "id": "bad-ass-john-hwf"
+      }
+    ],
+    "won": {
+      "date": "1997",
+      "precision": "year",
+      "source": "Promo claim, msg_id a2Hi4_07WJkJ: \"the real TV champ Bad Ass John\"."
+    },
+    "days": null,
+    "lost": null,
+    "how": "Attested by promo claim; not narrated as a title change.",
+    "event": null,
+    "note": "A separate promo (jhNkZy9uHRAJ) also bills \"Sir Johnathan (the Television Champion)\" -- restated as found, an unreconciled contradiction in this wing's own holdings, not resolved here.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "hwf-intercontinental-r001",
+    "title": "hwf-intercontinental",
+    "label": "Ken Davidson",
+    "holder": [
+      {
+        "id": "ken-davidson-hwf"
+      }
+    ],
+    "won": {
+      "date": "1997",
+      "precision": "year",
+      "source": "Promo claim, msg_id Ig814LqB_akJ."
+    },
+    "days": null,
+    "lost": null,
+    "how": "Attested by promo claim; not narrated as a title change.",
+    "event": null,
+    "note": "No `event` link: no results document survives.",
+    "end_how": "still-champion-at-record-end"
+  }
+]

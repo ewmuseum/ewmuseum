@@ -1,0 +1,111 @@
+[
+  {
+    "id": "the-mercenaries-sccw",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Mercenaries",
+    "members": [
+      {
+        "name": "\"Creation of Destruction\" Wolf",
+        "character_id": "wolf-sccw"
+      },
+      {
+        "name": "\"The Real Fucking Deal\" Mike Austin",
+        "character_id": "mike-austin-sccw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "sccw",
+        "grade": "primary-source",
+        "first_seen": "2005-02-27",
+        "last_seen": "2005-02-27",
+        "source": "SCCW's own 'Lightning Strikes' show-results post (27 February 2005 event date)"
+      }
+    ],
+    "caption": "A stable built around Wolf and his partner Mike Austin, at war with the rival Deaths Head faction on the promotion's 27 February 2005 show.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1
+      }
+    }
+  },
+  {
+    "id": "deaths-head-sccw",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Deaths Head",
+    "members": [
+      {
+        "name": "Viper",
+        "character_id": "viper-sccw"
+      },
+      {
+        "name": "Morpheus",
+        "character_id": "morpheus-sccw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "sccw",
+        "grade": "primary-source",
+        "first_seen": "2005-02-27",
+        "last_seen": "2005-02-27",
+        "source": "SCCW's own 'Lightning Strikes' show-results post (27 February 2005 event date)"
+      }
+    ],
+    "caption": "A stable led by Viper that pressured Dax Clark to join and clashed with The Mercenaries on the promotion's 27 February 2005 show.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1
+      }
+    }
+  },
+  {
+    "id": "snc-sccw",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "SNC",
+    "members": [
+      {
+        "name": "Dan Benson",
+        "character_id": "dan-benson-sccw"
+      },
+      {
+        "name": "Matt Hallowell",
+        "character_id": "matt-hallowell-sccw"
+      },
+      {
+        "name": "Terence Harris",
+        "character_id": "terence-harris-sccw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "sccw",
+        "grade": "primary-source",
+        "first_seen": "2005-02-27",
+        "last_seen": "2005-02-27",
+        "source": "SCCW's own 'Lightning Strikes' show-results post (27 February 2005 event date)"
+      }
+    ],
+    "caption": "A returning faction of Dan Benson, Matt Hallowell and Terence Harris, declared reborn on the promotion's 27 February 2005 show after Benson won the Barrie District Championship.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1
+      }
+    }
+  }
+]

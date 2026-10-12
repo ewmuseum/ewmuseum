@@ -1,0 +1,240 @@
+[
+ {
+  "id": "havoc-lcw-ltd",
+  "type": "unit",
+  "name": "HaVoC",
+  "unit_kind": "tag-team",
+  "caption": "Brutakis and Bones, tag partners who entered to Insane Clown Posse over the words \"you just have to take it,\" put Baine and Humpy through two tables at Winter's Wrath.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Brutakis",
+    "character_id": "brutakis-lcw-ltd"
+   },
+   {
+    "name": "Bones",
+    "character_id": "bones-lcw-ltd"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-ltd",
+    "first_seen": "2001",
+    "last_seen": "2002",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents (promotions/lcw-ltd/)",
+    "note": "Won a tag tables match against Humpy and Baine (Grevious Bodily Harm) at Winter's Wrath (11 January 2002). By 19 March 2002, wrestling with Maxx Vain added, billed Ruthless Inc. (see that row) and holding the LTD Tag Team Championship."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-havoc",
+     "havok-wwa",
+     "havoc-faw",
+     "havoc-iwf",
+     "havoc-cswa",
+     "havoc-pwf"
+    ],
+    "note": "Shares the name Havoc/HaVoC with individually-billed wrestlers in six unrelated federations (EUWC, WWA, FAW, IWF, CSWA, PWF); no document names any of them together, and a shared generic name across unrelated feds is never a merge on its own."
+   }
+  ]
+ },
+ {
+  "id": "ruthless-inc-lcw-ltd",
+  "type": "unit",
+  "name": "Ruthless Inc.",
+  "unit_kind": "stable",
+  "caption": "Brutakis and Bones (HaVoC) with Maxx Vain added, LTD Tag Team Champions by 19 March 2002, staked against Global Warning for both the LTD Championship and the tag titles.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Brutakis",
+    "character_id": "brutakis-lcw-ltd"
+   },
+   {
+    "name": "Bones",
+    "character_id": "bones-lcw-ltd"
+   },
+   {
+    "name": "Maxx Vain",
+    "character_id": "maxx-vain-lcw-ltd"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-ltd",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "trio",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents (promotions/lcw-ltd/)",
+    "note": "The March 2002 expansion of HaVoC (see that row) to a trio with Maxx Vain — the show's own commentary and card notation use both names for the same three men, sometimes in the same sentence. Lost the LTD Championship/Tag Team title six-man to Global Warning on 19 March 2002; the Genesis supercard preview reverts to billing the tag challengers as plain \"HaVoC (Bones and Brutakis),\" dropping Vain, an inconsistency kept as the source has it rather than resolved."
+   }
+  ]
+ },
+ {
+  "id": "grevious-bodily-harm-lcw-ltd",
+  "type": "unit",
+  "name": "Grevious Bodily Harm",
+  "unit_kind": "tag-team",
+  "caption": "Humpy and Baine, a short-lived pairing that lost a tag tables match to HaVoC at Winter's Wrath and had dissolved by the next Progression show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Humpy",
+    "character_id": "humpy-lcw-ltd"
+   },
+   {
+    "name": "Baine",
+    "character_id": "baine-lcw-ltd"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-ltd",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents (promotions/lcw-ltd/)",
+    "note": "Lost a tag tables match to HaVoC at Winter's Wrath (11 January 2002). By 19 March 2002 both men had moved on — Baine to Global Warning, Humpy to singles competition — with no reunion in the surviving record."
+   }
+  ]
+ },
+ {
+  "id": "global-warning-lcw-ltd",
+  "type": "unit",
+  "name": "Global Warning",
+  "unit_kind": "stable",
+  "caption": "Myrddin, Baine and Parker Louis, who won the LTD Championship and Tag Team Championship in one six-man against Ruthless Incorporated on 19 March 2002.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Myrddin",
+    "character_id": "myrddin-lcw-mercury"
+   },
+   {
+    "name": "Baine",
+    "character_id": "baine-lcw-ltd"
+   },
+   {
+    "name": "Parker Louis",
+    "character_id": "parker-louis-lcw-ltd"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-ltd",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "trio",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents (promotions/lcw-ltd/)",
+    "note": "Defeated Ruthless Inc./HaVoC (Bones, Brutakis and Maxx Vain) in a six-man defending both the LTD Championship (Myrddin, retained) and the LTD Tag Team Championship (won by Baine and Parker Louis) on 19 March 2002 — the promotion's own last Progression show before going independent."
+   }
+  ]
+ },
+ {
+  "id": "street-samurai-lcw-ltd",
+  "type": "unit",
+  "name": "Street Samurai",
+  "unit_kind": "tag-team",
+  "caption": "Kensuke Suzahara and Jin Akujin, who debuted together at Winter's Wrath by beating Willie Style and Michael Djin in the LTD Tag Tournament play-in.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Kensuke Suzahara",
+    "character_id": "kensuke-suzahara-lcw-ltd"
+   },
+   {
+    "name": "Jin Akujin",
+    "character_id": "jin-akujin-lcw-mercury"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-ltd",
+    "first_seen": "2001",
+    "last_seen": "2002",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents (promotions/lcw-ltd/)",
+    "note": "Won the LTD Tag Tournament play-in against Willie Style and Michael Djin at Winter's Wrath (11 January 2002). Billed for a tag semifinal against Bob Yobbo Jr. and Headbuster on the 1 February 2002 card, results uncaptured."
+   }
+  ]
+ }
+]

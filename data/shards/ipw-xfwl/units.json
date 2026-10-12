@@ -1,0 +1,336 @@
+[
+ {
+  "id": "the-russians-ipw-xfwl",
+  "type": "unit",
+  "name": "The Russians",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Pawel Trojakow",
+    "character_id": "pawel-trojakow-ipw-xfwl"
+   },
+   {
+    "name": "Igor Maskarow",
+    "character_id": "igor-maskarow-ipw-xfwl"
+   }
+  ],
+  "caption": "A tag team that challenged The Future for the IPW-XFWL Tag Team Championship in a chain match at Hardcore Holiday.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name shared with an unrelated team of the same generic name at another promotion; no evidence links the two.",
+    "with": [
+     "the-russians-pwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003",
+    "last_seen": "2003"
+   }
+  ]
+ },
+ {
+  "id": "pride-ipw-xfwl",
+  "type": "unit",
+  "name": "PRIDE",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Yoshihiro Toyama",
+    "character_id": "yoshihiro-toyama-ipw-xfwl"
+   },
+   {
+    "name": "Frenzy",
+    "character_id": "frenzy-ipw-xfwl"
+   },
+   {
+    "name": "J-Sleazy",
+    "character_id": "j-sleazy-ipw-xfwl"
+   },
+   {
+    "name": "Caramel",
+    "character_id": "caramel-ipw-xfwl"
+   },
+   {
+    "name": "The Hurrikat",
+    "character_id": "hurrikat-ipw-xfwl"
+   }
+  ],
+  "caption": "A stable defeated by Killmore, Rex, and The Funk Master in the North Pole Street Fight at Hardcore Holiday; Caramel wore its shirt to the ring for his own stretcher match the same night.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003",
+    "last_seen": "2003"
+   }
+  ]
+ },
+ {
+  "id": "the-future-ipw-xfwl",
+  "type": "unit",
+  "name": "The Future",
+  "unit_kind": "trio",
+  "members": [
+   {
+    "name": "Kevin J. Ridge",
+    "character_id": "kevin-j-ridge-ipw-xfwl"
+   },
+   {
+    "name": "Lance",
+    "character_id": "lance-ipw-xfwl"
+   },
+   {
+    "name": "Paul",
+    "character_id": "paul-ipw-xfwl"
+   }
+  ],
+  "caption": "The IPW-XFWL Tag Team Champions through 2003; their chain match against The Russians at Hardcore Holiday ended in a disputed double pinfall, and the title was declared vacant that same night.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name shared with an unrelated team of the same generic name at another promotion; no evidence links the two.",
+    "with": [
+     "travis-right-pwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003",
+    "last_seen": "2003"
+   }
+  ]
+ },
+ {
+  "id": "white-shadow-ipw-xfwl",
+  "type": "unit",
+  "name": "White Shadow",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Bobby White",
+    "character_id": "bobby-white-ipw-xfwl"
+   },
+   {
+    "name": "Aaron Briggs",
+    "character_id": "aaron-briggs-ipw-xfwl"
+   }
+  ],
+  "caption": "A tag team that came within a hair of taking the IPW-XFWL Tag Team Championship from The Future at Hardcore Holiday, then fell to The Russians the same night.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003",
+    "last_seen": "2003"
+   }
+  ]
+ },
+ {
+  "id": "the-two-dudes-ipw-xfwl",
+  "type": "unit",
+  "name": "The Two Dudes",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Big Daddy Cool Dudley",
+    "character_id": "big-daddy-cool-dudley-ipw-xfwl"
+   },
+   {
+    "name": "Molly Ringwald's Boyfriend",
+    "character_id": "molly-ringwalds-boyfriend-ipw-xfwl"
+   }
+  ],
+  "caption": "A tag team, accompanied to the ring by a mascot donkey, that won the right to challenge for the IPW-XFWL Tag Team Championship by beating Gangsta Heaven.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003",
+    "last_seen": "2003"
+   }
+  ]
+ },
+ {
+  "id": "gangsta-heaven-ipw-xfwl",
+  "type": "unit",
+  "name": "Gangsta Heaven",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Gotti",
+    "character_id": "gotti-ipw-xfwl"
+   },
+   {
+    "name": "Hoffa",
+    "character_id": "hoffa-ipw-xfwl"
+   }
+  ],
+  "caption": "A tag team defeated by The Two Dudes in a number-one contender's match for the IPW-XFWL Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003",
+    "last_seen": "2003"
+   }
+  ]
+ },
+ {
+  "id": "heel-busters-ipw-xfwl",
+  "type": "unit",
+  "name": "Heel Busters",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Firestrike",
+    "character_id": "firestrike-ipw-xfwl"
+   },
+   {
+    "name": "Razor",
+    "character_id": "razor-ipw-xfwl"
+   },
+   {
+    "name": "Chester McDoogle",
+    "character_id": "chester-mcdoogle-ipw-xfwl"
+   }
+  ],
+  "caption": "A stable also billed once as the Anti-Heel Team; Firestrike challenged for the IPW-XFWL Junior Heavyweight Championship at Funhouse while Razor pursued his own feud with Roadkill.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003",
+    "last_seen": "2003"
+   }
+  ]
+ },
+ {
+  "id": "money-clique-ipw-xfwl",
+  "type": "unit",
+  "name": "Money Clique",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "D Money",
+    "character_id": "d-money-ipw-xfwl"
+   },
+   {
+    "name": "Boom",
+    "character_id": "boom-ipw-xfwl"
+   }
+  ],
+  "caption": "D Money's own faction; Boom was ejected from ringside for interfering in D Money's Funhouse match against Killmore.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003",
+    "last_seen": "2003"
+   }
+  ]
+ },
+ {
+  "id": "pimpslap-ipw-xfwl",
+  "type": "unit",
+  "name": "Pimpslap",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Rex",
+    "character_id": "rex-ipw-xfwl"
+   },
+   {
+    "name": "The Funk Master",
+    "character_id": "funk-master-ipw-xfwl"
+   }
+  ],
+  "caption": "A new pairing that beat PRIDE's own Frenzy and J-Sleazy in its debut, then repeatedly ran interference to protect Cix Killmore from PRIDE's numbers.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003-11",
+    "last_seen": "2003-11"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (funk-master-ipw-xfwl); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "funk-master-ipw-xfwl"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "thryce-ipw-xfwl",
+  "type": "unit",
+  "name": "Thryce",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "JuggaØ",
+    "character_id": "jugga0-ipw-xfwl"
+   },
+   {
+    "name": "Akira",
+    "character_id": "akira-ipw-xfwl"
+   },
+   {
+    "name": "Everest",
+    "character_id": "everest-ipw-xfwl"
+   }
+  ],
+  "caption": "JuggaØ's own anti-Joey Gots faction, unveiled when hired gun Everest turned on World Champion Tyrant mid-match to join JuggaØ and the returning Akira.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ipw-xfwl",
+    "first_seen": "2003-11-08",
+    "last_seen": "2003-11-08"
+   }
+  ]
+ }
+]

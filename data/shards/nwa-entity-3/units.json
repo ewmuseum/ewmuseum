@@ -1,0 +1,49 @@
+[
+ {
+  "type": "unit",
+  "unit_kind": "stable",
+  "id": "nod-nwa-entity-3",
+  "name": "NOD (Nation Of Devastation)",
+  "members": [
+   {
+    "name": "Viper",
+    "character_id": "viper-nwa-entity-3"
+   },
+   {
+    "name": "Nic Nyce",
+    "character_id": "nic-nyce-nwa-entity-3"
+   },
+   {
+    "name": "The Brotherhood",
+    "character_id": "the-brotherhood-nwa-entity-3"
+   },
+   {
+    "name": "Zack Sharp",
+    "character_id": "zack-sharp-nwa-entity-3"
+   }
+  ],
+  "caption": "The folded NWA's own stable, remembered by a community thread as one of the fed's two best-loved acts alongside its NWA home.",
+  "notes": "Viper is named directly as \"Leader of the NOD\" (msg_id cyMvtialBAUJ); Nic Nyce, The Brotherhood and Zack Sharp are named in the same post as former NWA members recalled \"along with the NOD\" rather than explicitly placed inside the stable's own roster — membership beyond Viper himself is the packet's own reading of that grouping, not a document that names all four as stablemates outright.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "nwa-entity-3",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "role": "unit — stable",
+    "source": "msg_id cyMvtialBAUJ (RSPWF thread \"VIPER and THE NWA\", 15 Jul 1997)"
+   }
+  ]
+ }
+]

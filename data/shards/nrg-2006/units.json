@@ -1,0 +1,111 @@
+[
+  {
+    "id": "the-bonecrushers-nrg",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Bonecrushers",
+    "members": [
+      {
+        "name": "Bonecrusher E",
+        "character_id": "bonecrusher-e-nrg"
+      },
+      {
+        "name": "Bonecrusher D",
+        "character_id": "bonecrusher-d-nrg"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nrg-2006",
+        "grade": "primary-source",
+        "first_seen": "2006-07-31",
+        "last_seen": "2006-07-31",
+        "source": "NRG's own show-recap post, 'NRG TV @ Hammerstein Ballroom' (31 July 2006)"
+      }
+    ],
+    "caption": "A twin-brother tag team who opened NRG's return show with a win over Girlz On Film.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1
+      }
+    }
+  },
+  {
+    "id": "girlz-on-film-nrg",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Girlz On Film",
+    "members": [
+      {
+        "name": "Dr. Detroit",
+        "character_id": "dr-detroit-nrg"
+      },
+      {
+        "name": "Chuck E. Bauersox",
+        "character_id": "chuck-e-bauersox-nrg"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nrg-2006",
+        "grade": "primary-source",
+        "first_seen": "2006-07-31",
+        "last_seen": "2006-07-31",
+        "source": "NRG's own show-recap post, 'NRG TV @ Hammerstein Ballroom' (31 July 2006)"
+      }
+    ],
+    "caption": "A cheating heel tag team that opened NRG's return show against the Bonecrushers and lost.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1
+      }
+    }
+  },
+  {
+    "id": "team-rumble-fish-nrg",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Team Rumble Fish",
+    "members": [
+      {
+        "name": "Crimson Daisuke",
+        "character_id": "crimson-daisuke-nrg"
+      },
+      {
+        "name": "Roach Hanamizu",
+        "character_id": "roach-hanamizu-nrg"
+      },
+      {
+        "name": "Toro Zombie",
+        "character_id": "toro-zombie-nrg"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nrg-2006",
+        "grade": "primary-source",
+        "first_seen": "2006-07-31",
+        "last_seen": "2006-07-31",
+        "source": "NRG's own show-recap post, 'NRG TV @ Hammerstein Ballroom' (31 July 2006)"
+      }
+    ],
+    "caption": "A trio that won a six-man, two-out-of-three-falls bout on NRG's return show.",
+    "caption_asof": {
+      "written": "2026-09-08",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1
+      }
+    }
+  }
+]

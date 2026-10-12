@@ -1,0 +1,95 @@
+[
+ {
+  "id": "eef-european-heavyweight-championship-reign-1-tadeuscz",
+  "type": "reign",
+  "title": "eef-european-heavyweight-championship",
+  "holder": [
+   {
+    "id": "josef-tadeuscz-eef"
+   }
+  ],
+  "won": {
+   "date": "1997-08-18",
+   "precision": "exact",
+   "source": "Won a 15-man tournament at The Grand European."
+  },
+  "lost": {
+   "date": "1997-12",
+   "precision": "circa",
+   "source": "Title is vacant by the December PPV; no document shows how or when it was vacated."
+  },
+  "note": "The fed's first attested European Heavyweight Champion.",
+  "event": "eef-grand-european-1997-08-18",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "eef-european-heavyweight-championship-reign-2-lehman",
+  "type": "reign",
+  "title": "eef-european-heavyweight-championship",
+  "holder": [
+   {
+    "id": "klaus-lehman-eef"
+   }
+  ],
+  "won": {
+   "date": "1997-12-16",
+   "precision": "exact",
+   "source": "Won a twelve-man battle royal at Survival of the Fittest."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No later document survives in the held record."
+  },
+  "note": "Won a twelve-man battle royal at Survival of the Fittest to fill the vacant title.",
+  "event": "eef-survival-of-the-fittest-1997-12-16",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "eef-german-championship-reign-1-archer",
+  "type": "reign",
+  "title": "eef-german-championship",
+  "holder": [
+   {
+    "id": "andrew-archer-eef"
+   }
+  ],
+  "won": {
+   "date": "1997-08-18",
+   "precision": "circa",
+   "source": "Won a bye into the Grand European semi-finals after winning the Royal Rumble, then the German Championship."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "A rival claimant bills himself the 'Real GERMAN CHAMPION' by December; the disputed lineage is carried, not resolved."
+  },
+  "note": "Disputed lineage: carried, not resolved (see the December rival-claimant document).",
+  "event": "eef-grand-european-1997-08-18",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "eef-tag-team-championship-reign-1-the-monarchy",
+  "type": "reign",
+  "title": "eef-tag-team-championship",
+  "holder": [
+   {
+    "name": "the-monarchy-eef",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "1997-08-18",
+   "precision": "exact",
+   "source": "Won the Grand European's own tag team tournament final over the Italian Stallions."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No later document survives in the held record."
+  },
+  "note": "The fed's first attested Tag Team Champions.",
+  "event": "eef-grand-european-1997-08-18",
+  "end_how": "lost-in-match"
+ }
+]

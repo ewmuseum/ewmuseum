@@ -1,0 +1,147 @@
+[
+ {
+  "id": "john-hotstuff-kelly-law1998",
+  "type": "character",
+  "name": "John \"Hotstuff\" Kelly",
+  "caption": "Billed in L.A.W.'s own founding handbook as the fed's in-fiction Vice-President and one of its play-by-play announcers.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "law-losangeles-1998",
+    "roles": [
+     "authority-figure",
+     "commentator"
+    ],
+    "role": "authority-figure/commentator — Vice-President and play-by-play announcer (Face)",
+    "first_seen": "1998-08",
+    "last_seen": "1998-08",
+    "source": "The fed's own founding-history handbook (msg_id 4CeEW-exhBMJ, 11 August 1998), \"L.A.W Staff / Fictional Staff\" list."
+   }
+  ]
+ },
+ {
+  "id": "martin-taylor-law1998",
+  "type": "character",
+  "name": "Martin Taylor",
+  "caption": "Billed in L.A.W.'s own founding handbook as one of the fed's two in-fiction ring announcers.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "law-losangeles-1998",
+    "roles": [
+     "other"
+    ],
+    "role": "other — ring announcer (Face)",
+    "first_seen": "1998-08",
+    "last_seen": "1998-08",
+    "source": "The fed's own founding-history handbook (msg_id 4CeEW-exhBMJ, 11 August 1998), \"L.A.W Staff / Fictional Staff\" list; also given as the sample ring-announcer name in the handbook's own application-form template."
+   }
+  ]
+ },
+ {
+  "id": "devon-case-law-losangeles-1998",
+  "type": "character",
+  "name": "\"Dangerous\" Devon Case",
+  "tenures": [
+   {
+    "promotion": "law-losangeles-1998",
+    "first_seen": "1999-09-14",
+    "last_seen": "1999-09-30",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/law-losangeles-1998/archive/law-drake-case-skyweight-title-1999-09-14.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "The reigning L.A.W. Skyweight Champion, said to be departing for the UWF, who escaped a title defense against \"The Cornerstone\" Jeffrey Drake rather than risk the belt.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "devon-case-wet-1999",
+     "devon-case-wet-1999",
+     "devon-case-ilpw-1999",
+     "devon-case-twl-1998"
+    ],
+    "note": "Shares a common ring name with several other held wrestlers of unrelated promotions; no operator, roster or storyline axis ties this record to any of them."
+   }
+  ]
+ },
+ {
+  "id": "scotty-drake-law-rspwf",
+  "type": "character",
+  "name": "Scotty Drake",
+  "notes": "Known from four roleplays posted to rec.sport.pro-wrestling.fantasy from December 1998 to March 1999, served at /promotions/rspwf/archive/roleplay-judge-it-dammit-let-s-try-this-again-1998-12-08.html (8 December 1998), /promotions/rspwf/archive/scotty-drake-not-really-a-free-agent-1998-12-15.html (15 December 1998), /promotions/rspwf/archive/roleplay-critique-las-1999-01-30.html (30 January 1999) and /promotions/rspwf/archive/rp-2-critique-scotty-drake-1999-03-22.html (22 March 1999). A black-haired oil-rig worker from Atlanta who trained two years in the L.A.W. House of Wrestling, wears a \"Traffik Jam\" T-shirt, debuts against Boltz on 13 December 1998 and finishes with the Traffik Jam; by January 1999 he is the L.A.W. Pacific Coast Champion after a Jawbreaker on Steve Houston, and by March he is a boaster in the VAW. His handler's signature also lists the DSWA, the BFTW and \"The Lethal Injection\" Darren Scott.",
+  "caption": "An L.A.W. rookie from an oil rig who is Pacific Coast Champion by January 1999, after a Jawbreaker on Steve Houston, and boasts for the VAW by March.",
+  "tenures": [
+   {
+    "promotion": "law-losangeles-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-12-08",
+    "last_seen": "1999-01-30",
+    "source": "/promotions/rspwf/archive/roleplay-judge-it-dammit-let-s-try-this-again-1998-12-08.html (a debut roleplay posted 8 December 1998), /promotions/rspwf/archive/scotty-drake-not-really-a-free-agent-1998-12-15.html (15 December 1998) and /promotions/rspwf/archive/roleplay-critique-las-1999-01-30.html (30 January 1999)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 4,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scotty-drake-owe-philadelphia-2002",
+     "scotty-drake-wet-1999"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ }
+]

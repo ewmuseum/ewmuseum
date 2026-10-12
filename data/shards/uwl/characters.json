@@ -1,0 +1,1561 @@
+[
+ {
+  "id": "masked-menace-uwl",
+  "type": "character",
+  "name": "Masked Menace",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — founding World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-01",
+    "last_seen": "1997-03",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   }
+  ],
+  "caption": "Held the UWL World Championship's own opening reign from 11 January 1997, weeks after the fed's own founding on America Online, before dropping it to the Moonbeam Kid.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "masked-icw-pweboard",
+     "menace-xcwf"
+    ],
+    "note": "Decorated-substring matches against two other feds' own \"Masked\"/\"Menace\"-named wrestlers, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer; a generic masked-wrestler gimmick name independently reused. Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "chris-jericho-uwl",
+  "type": "character",
+  "name": "Chris Jericho",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion (won 29 Oct 1999); at Summer Blast '99 (20 Jun 1999) held both the Hardcore and Cruiserweight Championships and defended each",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-10",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html); The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Won the UWL World Championship on 29 October 1999, the belt's own last-held reign before the fed's own record shows it vacant from 1 January 2000; months earlier, at Summer Blast '99, he defended both the Hardcore and Cruiserweight Championships on the same card.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chris-jericho-nwwa-1998",
+     "christopher-chaos-pwf"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. All three named rows are separately-billed portrayals of the same real performer (chris-jericho-real), each its own fed's own record. christopher-chaos-pwf is a further decorated-substring near-name match from the standing sweep, unrelated to the portrayal question."
+   }
+  ],
+  "portrays": {
+   "figure": "chris-jericho-real",
+   "grade": "primary-source",
+   "note": "The fed's own title-history and Summer Blast '99 pages bill this character under the real performer's own name."
+  },
+  "portrayal_of": "chris-jericho-real"
+ },
+ {
+  "id": "moonbeam-kid-uwl",
+  "type": "character",
+  "name": "Moonbeam Kid",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-03",
+    "last_seen": "1997-04",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   }
+  ],
+  "caption": "Beat the Masked Menace for the UWL World Championship on 3 March 1997, the belt's own second reign, before dropping it to Black Shadow seven weeks later.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "black-shadow-uwl",
+  "type": "character",
+  "name": "Black Shadow",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion (two reigns)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-04",
+    "last_seen": "1997-09",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   }
+  ],
+  "caption": "Held the UWL World Championship twice in 1997 — a four-day reign in April sandwiched around the Guy in a Gorilla Suit's own belt, then a longer reign from July to September, when he dropped it to Trasher.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "guy-in-a-gorilla-suit-uwl",
+  "type": "character",
+  "name": "Guy in a Gorilla Suit",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-04",
+    "last_seen": "1997-07",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   }
+  ],
+  "caption": "Beat Black Shadow for the UWL World Championship on 28 April 1997 and held it three months before Black Shadow reclaimed it.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "trasher-uwl",
+  "type": "character",
+  "name": "Trasher",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-09",
+    "last_seen": "1998-08",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   }
+  ],
+  "caption": "Held the UWL World Championship from 27 September 1997 to 17 August 1998, the longest-standing reign on record, before losing it to Lightning.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "big-daddy-cool-zader-uwl",
+  "type": "character",
+  "name": "Big Daddy Cool Zader",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-02",
+    "last_seen": "1999-04",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   }
+  ],
+  "caption": "Beat Bret Hart for the UWL World Championship on 8 February 1999 and held it a little over two months before Psycho took it.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ashe-pwa-pioneer",
+     "big-daddy",
+     "big-daddy-cool",
+     "daddy-rspwf",
+     "euwc-big-daddy"
+    ],
+    "note": "A generic \"Big Daddy\"-family ring name independently reused across several unrelated feds, surfaced by the standing near-name sweep (the aka-collision guard's decorated-aka check). No document on any side names another fed or claims a shared performer. Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "eric-sharpe-uwl",
+  "type": "character",
+  "name": "Eric Sharpe",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-07",
+    "last_seen": "1999-08",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   }
+  ],
+  "caption": "Beat Punishing One for the UWL World Championship on 26 July 1999 and held it just over a month before dropping it to Acid.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "acid-uwl",
+  "type": "character",
+  "name": "Acid",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-08",
+    "last_seen": "1999-10",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   }
+  ],
+  "caption": "Beat Eric Sharpe for the UWL World Championship on 29 August 1999 and held it six weeks before Tommy Dreamer took it.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-acid"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer.  Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "lightning-uwl",
+  "type": "character",
+  "name": "Lightning",
+  "aka": [
+   "Silver Lightning"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion (17 Aug 1998 – 1 Jan 1999); by Summer Blast '99 (20 Jun 1999) allied with the fed's own authority figure against the rWo, billed \"Silver Lightning\"",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1998-08",
+    "last_seen": "1999-06",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html); The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Held the UWL World Championship from 17 August 1998 to 1 January 1999; by Summer Blast '99 he ran off the rWo alongside the fed's own authority figure and Hot Stuff.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lightning-faw",
+     "lightning-icbinr"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer. The reign-era \"Lightning\" and the Summer Blast '99 \"Silver Lightning\" are treated as one character on the strength of the shared promotion, shared bare name, and a plausible champion-to-enforcer arc across the sixteen months between the two documents — presumed, not confirmed by any document naming the connection outright. Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "psycho-uwl",
+  "type": "character",
+  "name": "Psycho",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion (18 Apr – 20 Jun 1999); defended the title at Summer Blast '99 against Punishing One, in the card's own final segment",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-04",
+    "last_seen": "1999-06",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html); The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Beat Big Daddy Cool Zader for the UWL World Championship on 18 April 1999 and lost it to Punishing One at Summer Blast '99, though the served card's own text breaks off at a link-out before showing the match itself.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "psycho-giwf",
+     "psycho-uwf",
+     "euwc-psycho"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer.  Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "punishing-one-uwl",
+  "type": "character",
+  "name": "Punishing One",
+  "aka": [
+   "P-1"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion (won 20 Jun 1999, at Summer Blast '99, challenging Psycho); the fed's own title-history ledger names him the winner though the Summer Blast card's own text never shows the finish",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-07",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html); The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Won the UWL World Championship from Psycho on 20 June 1999 at Summer Blast '99 — though the results page for that match itself breaks off before the finish — and held it a little over a month before Eric Sharpe took it.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "time-bomb-uwl",
+  "type": "character",
+  "name": "Time Bomb",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "manager — seconded Taz at Summer Blast '99",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Seconded Taz to ringside for the Hardcore, Falls Count Anywhere opener of Summer Blast '99.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "time-bomb-ngw"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer.  Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "anaconda-uwl",
+  "type": "character",
+  "name": "Anaconda",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — one half of the Double \"A\" Express, UWL Tag-Team Champions",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Wrestled as one half of the Double \"A\" Express, defending the UWL Tag-Team Championship at Summer Blast '99.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "anaconda-agw",
+     "anaconda-newf"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer.  Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "aftershock-uwl",
+  "type": "character",
+  "name": "Aftershock",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — one half of the Double \"A\" Express, UWL Tag-Team Champions",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Wrestled as one half of the Double \"A\" Express, scoring both of the team's Summer Blast '99 title defenses himself — a figure-four leglock submission and a powerslam pin.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "frost-uwl",
+  "type": "character",
+  "name": "Frost",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — won the UWL United States Championship at Summer Blast '99",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Pinned Stone Cold Steve Austin with the Frostbite at Summer Blast '99 to win the UWL United States Championship.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "frost-moa",
+     "frost-swa-seltor",
+     "derek-frost-wcwf-world-class-2000"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer.  Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "winter-uwl",
+  "type": "character",
+  "name": "Winter",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "manager — seconded Frost at Summer Blast '99",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Seconded Frost to ringside for the United States Championship match at Summer Blast '99.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "winter-sewf"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer.  Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ],
+  "notes": "Staged gender per the show's own running text (\"Frost goes over and pats Winter on her ass\")."
+ },
+ {
+  "id": "pez-uwl",
+  "type": "character",
+  "name": "PEZ",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "the rWo's own mouthpiece/manager, unveiled its three members at Summer Blast '99, then was beaten down by them",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Presented the rWo's own newest arrivals at Summer Blast '99 — and was beaten down by them for his trouble.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hot-fluff-uwl",
+  "type": "character",
+  "name": "Hot Fluff",
+  "aka": [
+   "the Rainbow Meanie"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — rWo member, billed at Summer Blast '99 as \"the best damn cruiserweight in the business\"; unveiled as the rWo's \"Rainbow Meanie\"",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Unveiled at Summer Blast '99 as one of the rWo's three new arrivals, billed under the ring name Hot Fluff after wrestling as the rWo's own \"Rainbow Meanie.\"",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "The show's own text billed this character under two names inside one segment — a mid-card reveal ties the rWo persona to a second ring name — modeled here as one character with the reveal recorded as an aka, rather than as two rows, on the strength of the fed's own direct \"X is Y\" phrasing."
+ },
+ {
+  "id": "stevie-p-uwl",
+  "type": "character",
+  "name": "Stevie P.",
+  "aka": [
+   "Thudder"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — challenged Chris Jericho for the UWL Cruiserweight Championship at Summer Blast '99; unveiled earlier the same card as the rWo's \"Thudder\"",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Unveiled at Summer Blast '99 as one of the rWo's three new arrivals under the ring name Thudder, then challenged Chris Jericho for the UWL Cruiserweight Championship later the same card as Stevie P.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "The show's own text billed this character under two names inside one segment — a mid-card reveal ties the rWo persona to a second ring name — modeled here as one character with the reveal recorded as an aka, rather than as two rows, on the strength of the fed's own direct \"X is Y\" phrasing."
+ },
+ {
+  "id": "liter-uwl",
+  "type": "character",
+  "name": "Liter",
+  "aka": [
+   "Headache"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — rWo member at Summer Blast '99, unveiled as the rWo's own \"Headache\"",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Unveiled at Summer Blast '99 as one of the rWo's three new arrivals, billed under the ring name Liter after wrestling as the rWo's own \"Headache.\"",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "The show's own text billed this character under two names inside one segment — a mid-card reveal ties the rWo persona to a second ring name — modeled here as one character with the reveal recorded as an aka, rather than as two rows, on the strength of the fed's own direct \"X is Y\" phrasing."
+ },
+ {
+  "id": "rc-jones-ii-uwl",
+  "type": "character",
+  "name": "R.C. Jones II",
+  "aka": [
+   "the Prez"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "authority figure — set the stipulation for and named himself referee of the Summer Blast '99 main event",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Set Summer Blast '99's main event to no-DQ and named himself its referee, in the fed's own on-page authority-figure voice the rules page calls simply \"Prez.\"",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "The \"the Prez\" aka is a presumed identification, not a document naming them outright as one: rules.html's own text refers to the fed's boss throughout only as \"Prez,\" never by a proper name, and Summer Blast '99 separately shows \"the PREZ\" running out to chase off the rWo in the same segment R.C. Jones II later claims the main event's own referee assignment — the same authority role, twice in one document, under two labels."
+ },
+ {
+  "id": "hot-stuff-uwl",
+  "type": "character",
+  "name": "Hot Stuff",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "allied with the fed's own authority figure, ran off the rWo at Summer Blast '99",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Ran out alongside the fed's own authority figure and Thunder and Lightning to chase off the rWo at Summer Blast '99.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "thunder-uwl",
+  "type": "character",
+  "name": "Thunder",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "allied with the fed's own authority figure, ran off the rWo at Summer Blast '99",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Ran out alongside the fed's own authority figure and Hot Stuff and Lightning to chase off the rWo at Summer Blast '99.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "thunder-icbinr",
+     "jimmy-thunder-hayes"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer.  Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "ripper-uwl",
+  "type": "character",
+  "name": "Ripper",
+  "aka": [
+   "The Ripper"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — UWL Television Champion, retained at Summer Blast '99",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Retained the UWL Television Championship at Summer Blast '99, submitting Johnny Hays to the Ripp Gripp.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ripper-ngw",
+     "jack-lcw-1997"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer.  Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "johnny-hays-uwl",
+  "type": "character",
+  "name": "Johnny Hays",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — challenged for the UWL Television Championship at Summer Blast '99",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Challenged Ripper for the UWL Television Championship at Summer Blast '99, losing to the Ripp Gripp.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "rebel-rouser-uwl",
+  "type": "character",
+  "name": "Rebel Rouser",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — challenged Chris Jericho for the UWL Hardcore Championship at Summer Blast '99",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Challenged Chris Jericho for the UWL Hardcore Championship at Summer Blast '99, losing to a power bomb after a brawl that ranged through the whole arena.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "crusher-uwl",
+  "type": "character",
+  "name": "Crusher",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "seconded Rebel Rouser at Summer Blast '99, repeatedly interfering against Chris Jericho",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Interfered repeatedly on Rebel Rouser's behalf during the Hardcore Championship match at Summer Blast '99.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-crusher-uwow",
+     "the-crusher-wewf",
+     "crusher-ucwf"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer.  Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "pink-uwl",
+  "type": "character",
+  "name": "Pink",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — challenged for the UWL Tag-Team Championship at Summer Blast '99",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Challenged for the UWL Tag-Team Championship at Summer Blast '99 alongside Phoenix, pinned by Aftershock after a powerslam.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "phoenix-uwl",
+  "type": "character",
+  "name": "Phoenix",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — challenged for the UWL Tag-Team Championship at Summer Blast '99",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Challenged for the UWL Tag-Team Championship at Summer Blast '99 alongside Pink, the pair billed by the fed's own results text as both \"Pink & Phoenix\" and \"The Bash Brothers.\"",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jay-phoenix",
+     "phoenix-wwa",
+     "phoenix-cswa"
+    ],
+    "note": "A generic ring name independently reused across unrelated feds, surfaced by the standing near-name sweep. No document on either side names the other fed or claims a shared performer. jay-phoenix (GIWF/UWF) carries its own akas — Firestorm, Inferno, Meltdown, the Eternal Flame, Aquilia De Flagaro — none of which is the bare \"Phoenix\" this row carries, and a memorial-linked character (handled by Jaymes Faulkner); no evidence ties the two beyond the shared common ring word. Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "dean-malenko-uwl",
+  "type": "character",
+  "name": "Dean Malenko",
+  "aka": [
+   "\"The Man of a Thousand Holds\" Dean Malenko"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — Summer Blast '99 opener, lost to Taz by submission",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Opened Summer Blast '99 in a Hardcore, Falls Count Anywhere match against Taz, submitting to the Tazmission.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dean-malenko-uwow",
+     "dean-malenko-icwc"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. Both named rows are separately-billed portrayals of the same real performer, each its own fed's own record."
+   }
+  ],
+  "portrays": {
+   "figure": "dean-malenko-real",
+   "grade": "primary-source",
+   "note": "The fed's own Summer Blast '99 results page bills this character under the real performer's own name."
+  },
+  "portrayal_of": "dean-malenko-real"
+ },
+ {
+  "id": "taz-uwl",
+  "type": "character",
+  "name": "Taz",
+  "aka": [
+   "\"The Human Suplex Machine\" Taz"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — Summer Blast '99 opener, beat Dean Malenko by submission",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Opened Summer Blast '99 against Dean Malenko in a Hardcore, Falls Count Anywhere match, winning by the Tazmission.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "taz-wcotw"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. Both named rows are separately-billed portrayals of the same real performer, each its own fed's own record."
+   }
+  ],
+  "portrays": {
+   "figure": "tazz-real",
+   "grade": "primary-source",
+   "note": "The fed's own Summer Blast '99 results page bills this character \"Taz,\" the single-Z spelling the real performer used before his own 2000 WWF rebranding to \"Tazz\" — the same real broadcaster the museum's existing tazz-real row already carries."
+  },
+  "portrayal_of": "tazz-real"
+ },
+ {
+  "id": "shawn-michaels-uwl",
+  "type": "character",
+  "name": "Shawn Michaels",
+  "aka": [
+   "\"Heartbreak Kid\" Shawn Michaels"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — challenged for the UWL Tag-Team Championship at Summer Blast '99, alongside Triple H",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Challenged for the UWL Tag-Team Championship at Summer Blast '99 alongside Triple H, submitting to a figure-four leglock.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "shawn-michaels-uwow",
+     "shawn-michaels-agw"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. Both named rows are separately-billed portrayals of the same real performer, each its own fed's own record."
+   }
+  ],
+  "portrays": {
+   "figure": "shawn-michaels-real",
+   "grade": "primary-source",
+   "note": "The fed's own Summer Blast '99 results page bills this character under the real performer's own name."
+  },
+  "portrayal_of": "shawn-michaels-real"
+ },
+ {
+  "id": "triple-h-uwl",
+  "type": "character",
+  "name": "Triple H",
+  "aka": [
+   "Hunter Hearst Hemsley"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — challenged for the UWL Tag-Team Championship at Summer Blast '99, alongside Shawn Michaels",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Challenged for the UWL Tag-Team Championship at Summer Blast '99 alongside Shawn Michaels, billed by the fed's own results text under both \"Triple H\" and \"Hunter Hearst Hemsley.\"",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "triple-h-uwow",
+     "hhh-faw"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. Both named rows are separately-billed portrayals of the same real performer, each its own fed's own record."
+   }
+  ],
+  "portrays": {
+   "figure": "triple-h-real",
+   "grade": "primary-source",
+   "note": "The fed's own Summer Blast '99 results page bills this character under the real performer's own ring names."
+  },
+  "portrayal_of": "triple-h-real"
+ },
+ {
+  "id": "chyna-uwl",
+  "type": "character",
+  "name": "Chyna",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "seconded Shawn Michaels and Triple H at Summer Blast '99",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Seconded Shawn Michaels and Triple H to ringside for the UWL Tag-Team Championship match at Summer Blast '99.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chyna-uwow",
+     "chyna-czwf-2005"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. Both named rows are separately-billed portrayals of the same real performer, each its own fed's own record."
+   }
+  ],
+  "portrays": {
+   "figure": "chyna-real",
+   "grade": "primary-source",
+   "note": "The fed's own Summer Blast '99 results page bills this character under the real performer's own name."
+  },
+  "portrayal_of": "chyna-real"
+ },
+ {
+  "id": "steve-austin-uwl",
+  "type": "character",
+  "name": "Steve Austin",
+  "aka": [
+   "Stone Cold Steve Austin"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — UWL United States Champion, lost the title at Summer Blast '99",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Lost the UWL United States Championship to Frost at Summer Blast '99, pinned by the Frostbite.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "steve-austin-wcotw"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. Both named rows are separately-billed portrayals of the same real performer, each its own fed's own record."
+   }
+  ],
+  "portrays": {
+   "figure": "stone-cold-steve-austin-real",
+   "grade": "primary-source",
+   "note": "The fed's own Summer Blast '99 results page bills this character under the real performer's own ring name."
+  },
+  "portrayal_of": "stone-cold-steve-austin-real"
+ },
+ {
+  "id": "bret-hart-uwl",
+  "type": "character",
+  "name": "Bret Hart",
+  "aka": [
+   "Bret \"Hitman\" Hart"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion (1 Jan – 8 Feb 1999)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-01",
+    "last_seen": "1999-02",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   },
+   {
+    "promotion": "uwl",
+    "role": "wrestler — battled Scott Steiner to a double pin at Summer Blast '99",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Held the UWL World Championship for five weeks over the 1998–99 turn, then battled Scott Steiner to a double pin at Summer Blast '99 that June.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bret-hart-uwow",
+     "bret-hart-zwf"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. Both named rows are separately-billed portrayals of the same real performer, each its own fed's own record."
+   }
+  ],
+  "portrays": {
+   "figure": "bret-hart-real",
+   "grade": "primary-source",
+   "note": "The fed's own title-history and Summer Blast '99 pages bill this character under the real performer's own name."
+  },
+  "portrayal_of": "bret-hart-real"
+ },
+ {
+  "id": "scott-steiner-uwl",
+  "type": "character",
+  "name": "Scott Steiner",
+  "aka": [
+   "\"Big Poppa Pump\" Scott Steiner"
+  ],
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — battled Bret Hart to a double pin at Summer Blast '99",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06",
+    "last_seen": "1999-06",
+    "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+   }
+  ],
+  "caption": "Battled Bret Hart to a double pin at Summer Blast '99, both men's shoulders down at once on referee Earl Hebner's own count.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scott-steiner-tpg",
+     "scott-steiner-uwow"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. Both named rows are separately-billed portrayals of the same real performer, each its own fed's own record."
+   }
+  ],
+  "portrays": {
+   "figure": "scott-steiner-real",
+   "grade": "primary-source",
+   "note": "The fed's own Summer Blast '99 results page bills this character under the real performer's own ring name."
+  },
+  "portrayal_of": "scott-steiner-real"
+ },
+ {
+  "id": "tommy-dreamer-uwl",
+  "type": "character",
+  "name": "Tommy Dreamer",
+  "tenures": [
+   {
+    "promotion": "uwl",
+    "role": "wrestler — World Champion (10–29 Oct 1999)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-10",
+    "last_seen": "1999-10",
+    "source": "The fed's own served World Championship title-history page (promotions/uwl/archive/world-title-history.html)"
+   }
+  ],
+  "caption": "Held the UWL World Championship for nineteen days in October 1999, beating Acid and losing it to Chris Jericho.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tommy-dreamer-icwc"
+    ],
+    "note": "Per the per-promotion portrayal doctrine, a real wrestler's character row is always a per-fed row, never merged with another fed's own portrayal of the same person — this collision is the doctrine working as designed, not a duplicate to resolve. Both named rows are separately-billed portrayals of the same real performer, each its own fed's own record."
+   }
+  ],
+  "portrays": {
+   "figure": "tommy-dreamer-real",
+   "grade": "primary-source",
+   "note": "The fed's own title-history page bills this character under the real performer's own name."
+  },
+  "portrayal_of": "tommy-dreamer-real"
+ }
+]

@@ -1,0 +1,728 @@
+[
+ {
+  "id": "xhcw-1998-world-heavyweight-title-juice",
+  "title": "xhcw-1998-world-heavyweight-title",
+  "label": "The Juice",
+  "holder": [
+   {
+    "id": "the-juice-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2001-11-26",
+   "precision": "exact",
+   "source": "Won from \"Sadistic\" Steve Liermann at Awakening, 26 November 2001 (the promotion's own already-served broadcast)."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-03-16",
+   "precision": "exact"
+  },
+  "how": "Won the title from \"Sadistic\" Steve Liermann at Awakening.",
+  "event": "xhcw-1998-awakening-2001-11-26",
+  "note": "Retained against Duff Man at Retribution, 7 January 2002, with outside help from Absolute Power; lost to Adam Simon at Unleashed, 16 March 2002, when Ramsus Palantiri distracted him.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-heavyweight-title-simon",
+  "title": "xhcw-1998-world-heavyweight-title",
+  "label": "Adam Simon",
+  "holder": [
+   {
+    "id": "adam-simon-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-03-16",
+   "precision": "exact",
+   "source": "Won from The Juice at Unleashed, 16 March 2002, after Ramsus Palantiri (aligned with DeX) distracted Juice."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-04-28",
+   "precision": "exact"
+  },
+  "how": "Won the World Heavyweight Championship from The Juice at Unleashed.",
+  "event": "xhcw-1998-unleashed-2002-03-16",
+  "note": "Retained over Vincent Lyons at Assault, 7 April 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-hardcore-title-dehib",
+  "title": "xhcw-1998-world-hardcore-title",
+  "label": "The Dehibilitator",
+  "holder": [
+   {
+    "id": "the-dehibilitator-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2001-11",
+   "precision": "circa",
+   "source": "The Dehibilitator's own words at Retribution, 7 January 2002: he had held the title \"two months\", his \"entire XHCW tenure\"."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-03-16",
+   "precision": "exact"
+  },
+  "event": null,
+  "note": "Retained against \"Ironman\" James Loyal in a Last Man Standing Match at Retribution, and again through the winter, before losing to Nailz at Unleashed, 16 March 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-tag-team-title-sebastion-fitzpatrick",
+  "title": "xhcw-1998-world-tag-team-title",
+  "label": "John Sebastion and Scotty Fitzpatrick",
+  "holder": [
+   {
+    "id": "john-sebastion-xhcw-1998"
+   },
+   {
+    "id": "scotty-fitzpatrick-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-01-07",
+   "precision": "exact",
+   "source": "Retribution, 7 January 2002."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-02-09",
+   "precision": "exact"
+  },
+  "how": "Won a Double Dog Collar Match over Jolted and Frost, made a title match on the spot.",
+  "event": "xhcw-1998-retribution-2002-01-07",
+  "note": "Retained once by leaving the arena with the belts, 19 January 2002; lost to Adam Simon and 2Short at Counterstrike, 9 February 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-tag-team-title-simon-twoshort",
+  "title": "xhcw-1998-world-tag-team-title",
+  "label": "Adam Simon and 2Short",
+  "holder": [
+   {
+    "id": "adam-simon-xhcw-1998"
+   },
+   {
+    "id": "2short-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-02-09",
+   "precision": "exact",
+   "source": "Won from John Sebastion and Scotty Fitzpatrick in a Weapons Match at Counterstrike, 9 February 2002, billed as \"Short and Long.\""
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the World Tag Team Championship from John Sebastion and Scotty Fitzpatrick at Counterstrike.",
+  "event": "xhcw-1998-counterstrike-2002-02-09",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-light-heavyweight-title-kletus",
+  "title": "xhcw-1998-world-light-heavyweight-title",
+  "label": "Kletus Casady",
+  "holder": [
+   {
+    "id": "kletus-casady-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-01-07",
+   "precision": "exact",
+   "source": "Retribution, 7 January 2002."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-01-19",
+   "precision": "exact"
+  },
+  "how": "Won a Cage Match over 2Short.",
+  "event": "xhcw-1998-retribution-2002-01-07",
+  "note": "Lost to Chris Cage in a Weapons Match, 19 January 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-light-heavyweight-title-cage",
+  "title": "xhcw-1998-world-light-heavyweight-title",
+  "label": "Chris Cage",
+  "holder": [
+   {
+    "id": "chris-cage-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-01-19",
+   "precision": "exact",
+   "source": "Won from Kletus Casady in a Weapons Match, 19 January 2002."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the World Light Heavyweight Championship from Kletus Casady.",
+  "event": "xhcw-1998-assault-2002-01-19",
+  "note": "Retained over Kletus Casady in a Roofed Cage Match, 2 February 2002, and over Kletus Casady and Skullberry in a 3-way \"Wood, Steel and Wire\" Match at Counterstrike, 9 February 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-television-title-jacobson",
+  "title": "xhcw-1998-world-television-title",
+  "label": "Chris Jacobson",
+  "holder": [
+   {
+    "id": "chris-jacobson-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-01-07",
+   "precision": "exact",
+   "source": "Retribution, 7 January 2002."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-01-13",
+   "precision": "exact"
+  },
+  "how": "Beat Chris Cage.",
+  "event": "xhcw-1998-retribution-2002-01-07",
+  "note": "Lost to Moose in a Dog Collar Match, 13 January 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-television-title-moose",
+  "title": "xhcw-1998-world-television-title",
+  "label": "Moose",
+  "holder": [
+   {
+    "id": "moose-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-01-13",
+   "precision": "exact",
+   "source": "Won from Chris Jacobson in a Dog Collar Match, 13 January 2002."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-02-09",
+   "precision": "exact"
+  },
+  "how": "Won the World Television Championship from Chris Jacobson.",
+  "event": "xhcw-1998-assault-2002-01-13",
+  "note": "A battle-royal announcer at Counterstrike also called him champion again mid-show, but the same night's separately staged \"Final Battleground Match\" is the documented transition to Steve Liermann.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-transatlantic-title-simon",
+  "title": "xhcw-1998-transatlantic-title",
+  "label": "Adam Simon",
+  "holder": [
+   {
+    "id": "adam-simon-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-01-07",
+   "precision": "exact",
+   "source": "Retribution, 7 January 2002."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-02-02",
+   "precision": "exact"
+  },
+  "how": "Won a Texas Death Match over Pico Flush.",
+  "event": "xhcw-1998-retribution-2002-01-07",
+  "note": "Lost a 3-way Falls Count Anywhere Match to Brad Jones and John Sebastion at the Silverdome, 2 February 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-transatlantic-title-bradjones",
+  "title": "xhcw-1998-transatlantic-title",
+  "label": "Brad Jones",
+  "holder": [
+   {
+    "id": "brad-jones-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-02-02",
+   "precision": "exact",
+   "source": "Won a 3-way Falls Count Anywhere Match from Adam Simon and John Sebastion at the Silverdome, 2 February 2002, eliminating Sebastion first."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the TransAtlantic Championship from Adam Simon and John Sebastion.",
+  "event": "xhcw-1998-assault-2002-02-02",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-heavyweight-title-bradjones",
+  "title": "xhcw-1998-world-heavyweight-title",
+  "label": "Brad Jones",
+  "holder": [
+   {
+    "id": "brad-jones-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-04-28",
+   "precision": "exact",
+   "source": "Won from Adam Simon at Affliction, 28 April 2002, with a Sharpshooter and Steve Liermann's help."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the World Heavyweight Championship from Adam Simon at Affliction.",
+  "event": "xhcw-1998-affliction-2002-04-28",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-heavyweight-title-duffman",
+  "title": "xhcw-1998-world-heavyweight-title",
+  "label": "Duff Man",
+  "holder": [
+   {
+    "id": "duff-man-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-10-24",
+   "precision": "exact",
+   "source": "Won from Vincent Lyons, wrestling as \"Aftermath,\" at Hardcore Harvest, 24 October 2002, after Steve Liermann's own betrayal — a bat shot — turned the match his way."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won the World Heavyweight Championship from Vincent Lyons at Hardcore Harvest.",
+  "event": "xhcw-1998-hardcore-harvest-2002-11-24",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "xhcw-1998-world-heavyweight-title-liermann",
+  "title": "xhcw-1998-world-heavyweight-title",
+  "label": "\"Sadistic\" Steve Liermann",
+  "holder": [
+   {
+    "id": "steve-liermann-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Already champion on the promotion's own Assault of 1 November 2001, retaining there against Scotty Fitzpatrick."
+  },
+  "days": null,
+  "lost": {
+   "date": "2001-11-26",
+   "precision": "exact"
+  },
+  "how": "Lost the title to The Juice at Awakening, 26 November 2001.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-heavyweight-title-lyons",
+  "title": "xhcw-1998-world-heavyweight-title",
+  "label": "Vincent Lyons",
+  "holder": [
+   {
+    "id": "vincent-lyons-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Took the title from Brad Jones in a match no surviving document records, sometime before Hardcore Harvest."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-10-24",
+   "precision": "exact"
+  },
+  "how": "Took the World Heavyweight Championship from Brad Jones.",
+  "event": null,
+  "note": "Wrestled under the alter-ego \"Aftermath\" when he lost the title to Duff Man at Hardcore Harvest, 24 October 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-hardcore-title-nailz",
+  "title": "xhcw-1998-world-hardcore-title",
+  "label": "Nailz",
+  "holder": [
+   {
+    "id": "nailz-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-03-16",
+   "precision": "exact",
+   "source": "Won from The Dehibilitator in a Roofed Glass Cage Match at Unleashed, 16 March 2002."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the World Hardcore Championship from The Dehibilitator at Unleashed.",
+  "event": "xhcw-1998-unleashed-2002-03-16",
+  "note": "Retained over The Scorpio at Assault, 7 April 2002; a Scaffold Match against The Dehibilitator at Affliction, 28 April 2002, ended without a pinfall when The Dehibilitator fell through a broken railing, so the title did not change hands there.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-hardcore-title-revdeath",
+  "title": "xhcw-1998-world-hardcore-title",
+  "label": "Reverend Death",
+  "holder": [
+   {
+    "id": "reverend-death-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Took the title from Nailz in a match no surviving document records, sometime before Hardcore Harvest."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Took the World Hardcore Championship from Nailz.",
+  "event": null,
+  "end_how": "still-champion-at-record-end",
+  "note": "Retained over Micheal Graves in an Xtreme Tables, Ladders and Chairs Match at Hardcore Harvest, 24 October 2002."
+ },
+ {
+  "id": "xhcw-1998-world-tag-team-title-moose-dolarhyde",
+  "title": "xhcw-1998-world-tag-team-title",
+  "label": "Moose and Anthony Dolarhyde",
+  "holder": [
+   {
+    "id": "moose-xhcw-1998"
+   },
+   {
+    "id": "anthony-dolarhyde-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-10-24",
+   "precision": "exact",
+   "source": "Won a four-way dance at Hardcore Harvest, 24 October 2002, with manager Paul Wade's interference."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won the World Tag Team Championship in a four-way dance at Hardcore Harvest.",
+  "event": "xhcw-1998-hardcore-harvest-2002-11-24",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "xhcw-1998-world-tag-team-title-jolted-frost",
+  "title": "xhcw-1998-world-tag-team-title",
+  "label": "Jolted and Frost",
+  "holder": [
+   {
+    "id": "jolted-xhcw-1998"
+   },
+   {
+    "id": "frost-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No surviving document dates their own win."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-01-07",
+   "precision": "exact"
+  },
+  "how": "Lost to John Sebastion and Scotty Fitzpatrick in a Double Dog Collar Match at Retribution.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-light-heavyweight-title-spiral",
+  "title": "xhcw-1998-world-light-heavyweight-title",
+  "label": "Spiral",
+  "holder": [
+   {
+    "id": "spiral-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-10-24",
+   "precision": "exact",
+   "source": "Won the World Light Heavyweight Championship from Chris Cage at Hardcore Harvest, 24 October 2002, appearing already in possession of the belt as a mystery opponent."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won the title from Chris Cage at Hardcore Harvest.",
+  "event": "xhcw-1998-hardcore-harvest-2002-11-24",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "xhcw-1998-world-light-heavyweight-title-twoshort",
+  "title": "xhcw-1998-world-light-heavyweight-title",
+  "label": "2Short",
+  "holder": [
+   {
+    "id": "2short-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No surviving document dates her own win."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-01-07",
+   "precision": "exact"
+  },
+  "how": "Lost to Kletus Casady in a Cage Match at Retribution.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-light-heavyweight-title-palantiri",
+  "title": "xhcw-1998-world-light-heavyweight-title",
+  "label": "Ramsus Palantiri",
+  "holder": [
+   {
+    "id": "ramsus-palantiri-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Took the title from Chris Cage in a match no surviving document records, sometime before Unleashed."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Took the World Light Heavyweight Championship from Chris Cage.",
+  "event": null,
+  "note": "Retained over Super Skit at Unleashed, 16 March 2002, and over The Scorpio in a Steel Cage main event, 30 March 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-light-heavyweight-title-cage-2",
+  "title": "xhcw-1998-world-light-heavyweight-title",
+  "label": "Chris Cage",
+  "holder": [
+   {
+    "id": "chris-cage-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Took the title back from Ramsus Palantiri in a match no surviving document records, sometime before Hardcore Harvest."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-10-24",
+   "precision": "exact"
+  },
+  "how": "Took the World Light Heavyweight Championship back from Ramsus Palantiri.",
+  "event": null,
+  "note": "Lost the title at Hardcore Harvest, 24 October 2002, to a mystery opponent revealed as a new challenger, Spiral, who somehow already held his belt.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-television-title-liermann",
+  "title": "xhcw-1998-world-television-title",
+  "label": "\"Sadistic\" Steve Liermann",
+  "holder": [
+   {
+    "id": "steve-liermann-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-02-09",
+   "precision": "exact",
+   "source": "Won from Moose in Counterstrike's own \"Final Battleground Match,\" 9 February 2002, with a debuting Khan turning on Moose to help him."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-04-28",
+   "precision": "exact"
+  },
+  "how": "Won the World Television Championship from Moose at Counterstrike.",
+  "event": "xhcw-1998-counterstrike-2002-02-09",
+  "note": "Retained over Duff Man in a Roofed Cage Match at Unleashed, 16 March 2002, and over Trevor Finnell and Chris Cage in a 3-way Match, 30 March 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-television-title-duffman",
+  "title": "xhcw-1998-world-television-title",
+  "label": "Duff Man",
+  "holder": [
+   {
+    "id": "duff-man-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-04-28",
+   "precision": "exact",
+   "source": "Won a \"Career vs. Title\" Match from Steve Liermann at Affliction, 28 April 2002, with The Juice turning on Liermann to help him."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the World Television Championship from Steve Liermann at Affliction.",
+  "event": "xhcw-1998-affliction-2002-04-28",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-television-title-mcglone",
+  "title": "xhcw-1998-world-television-title",
+  "label": "Fudgey McGlone",
+  "holder": [
+   {
+    "id": "fudgey-mcglone-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-10-24",
+   "precision": "exact",
+   "source": "Won the World Television Championship from Kryptonic at Hardcore Harvest, 24 October 2002."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won the title from Kryptonic at Hardcore Harvest.",
+  "event": "xhcw-1998-hardcore-harvest-2002-11-24",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "xhcw-1998-world-television-title-cage",
+  "title": "xhcw-1998-world-television-title",
+  "label": "Chris Cage",
+  "holder": [
+   {
+    "id": "chris-cage-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No surviving document dates his own win."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-01-07",
+   "precision": "exact"
+  },
+  "how": "Lost to Chris Jacobson at Retribution.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-world-television-title-kryptonic",
+  "title": "xhcw-1998-world-television-title",
+  "label": "Kryptonic",
+  "holder": [
+   {
+    "id": "kryptonic-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Took the title from Duff Man in a match no surviving document records, sometime before Hardcore Harvest."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-10-24",
+   "precision": "exact"
+  },
+  "how": "Took the World Television Championship from Duff Man.",
+  "event": null,
+  "note": "Lost the title to Fudgey McGlone at Hardcore Harvest, 24 October 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-transatlantic-title-lyons",
+  "title": "xhcw-1998-transatlantic-title",
+  "label": "Vincent Lyons",
+  "holder": [
+   {
+    "id": "vincent-lyons-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "2002-04-28",
+   "precision": "exact",
+   "source": "Won an eight-man tournament final over Fear at Affliction, 28 April 2002, for the vacant title."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the vacant TransAtlantic Championship in an eight-man tournament at Affliction.",
+  "event": "xhcw-1998-affliction-2002-04-28",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-transatlantic-title-flush",
+  "title": "xhcw-1998-transatlantic-title",
+  "label": "Pico Flush",
+  "holder": [
+   {
+    "id": "pico-flush-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No surviving document dates his own win."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-01-07",
+   "precision": "exact"
+  },
+  "how": "Lost a Texas Death Match to Adam Simon at Retribution.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "xhcw-1998-transatlantic-title-palantiri",
+  "title": "xhcw-1998-transatlantic-title",
+  "label": "Ramsus Palantiri",
+  "holder": [
+   {
+    "id": "ramsus-palantiri-xhcw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Took the title from Vincent Lyons in a match no surviving document records, sometime before Hardcore Harvest."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-10-24",
+   "precision": "exact"
+  },
+  "how": "Took the TransAtlantic Championship from Vincent Lyons.",
+  "event": null,
+  "end_how": "vacated",
+  "note": "Dropped the title to the mat himself at the opening of Hardcore Harvest, 24 October 2002, declaring it beneath him; no document shows anyone taking it up afterward."
+ }
+]

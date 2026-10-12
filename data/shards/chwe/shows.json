@@ -1,0 +1,241 @@
+[
+  {
+    "id": "chwe-round-robin",
+    "type": "show",
+    "name": "CHWE Round Robin",
+    "promotion": "chwe",
+    "date": {
+      "date": "1999-02",
+      "precision": "circa",
+      "source": "the file's own last-modified timestamp in the geocities-extracted capture"
+    },
+    "page": "/promotions/chwe/archive/round-robin.html",
+    "collection": "0089",
+    "note": "File timestamp reads 2009, clearly a re-touch by later archival handling rather than the page's own original date; dated instead from context — the fed's own home page frames it as the seeding event immediately preceding the Ladder Tournament (Feb 1999).",
+    "appearances": [
+      { "who": "archangel-chwe", "kind": "match" },
+      { "who": "rob-van-dam-chwe", "kind": "match" },
+      { "who": "howard-finkel-chwe", "kind": "angle", "capacity": "ring-announcer" },
+      { "who": "anderson-chwe", "kind": "angle", "capacity": "commentary" },
+      { "who": "poulin-chwe", "kind": "angle", "capacity": "commentary" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["archangel-chwe"], ["rob-van-dam-chwe"]],
+        "note": "The surviving capture's own recap cuts off mid-sentence before any fall, cover, or count — genuinely unresolved in the source itself, not a parsing gap."
+      }
+    ]
+  },
+  {
+    "id": "chwe-ladder-tournament-match-1",
+    "type": "show",
+    "name": "CHWE Ladder Tournament, Match 1: The Rock vs. Bishop",
+    "promotion": "chwe",
+    "date": {
+      "date": "1999-02-19",
+      "precision": "circa",
+      "source": "the file's own last-modified timestamp in the geocities-extracted capture"
+    },
+    "page": "/promotions/chwe/archive/ladder-tournament-match-1.html",
+    "collection": "0089",
+    "appearances": [
+      { "who": "the-rock-chwe", "kind": "match" },
+      { "who": "bishop-chwe", "kind": "match" },
+      { "who": "archangel-chwe", "kind": "angle" },
+      { "who": "howard-finkel-chwe", "kind": "angle", "capacity": "ring-announcer" },
+      { "who": "anderson-chwe", "kind": "angle", "capacity": "commentary" },
+      { "who": "poulin-chwe", "kind": "angle", "capacity": "commentary" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["the-rock-chwe"], ["bishop-chwe"]],
+        "winner_side": 1,
+        "note": "Bishop wins by pinfall with the X-Bomb, 25:26. Archangel runs in from the crowd with a chair mid-match, striking The Rock — the tournament's only documented interference."
+      }
+    ]
+  },
+  {
+    "id": "chwe-ladder-tournament-match-2",
+    "type": "show",
+    "name": "CHWE Ladder Tournament, Match 2: X-Pac vs. Bishop",
+    "promotion": "chwe",
+    "date": {
+      "date": "1999-02-19",
+      "precision": "circa",
+      "source": "the file's own last-modified timestamp in the geocities-extracted capture"
+    },
+    "page": "/promotions/chwe/archive/ladder-tournament-match-2.html",
+    "collection": "0089",
+    "appearances": [
+      { "who": "x-pac-chwe", "kind": "match" },
+      { "who": "bishop-chwe", "kind": "match" },
+      { "who": "howard-finkel-chwe", "kind": "angle", "capacity": "ring-announcer" },
+      { "who": "anderson-chwe", "kind": "angle", "capacity": "commentary" },
+      { "who": "poulin-chwe", "kind": "angle", "capacity": "commentary" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["x-pac-chwe"], ["bishop-chwe"]],
+        "winner_side": 1,
+        "note": "Bishop wins by pinfall, 30:49. Bishop advances to face Rob Van Dam."
+      }
+    ]
+  },
+  {
+    "id": "chwe-ladder-tournament-match-3",
+    "type": "show",
+    "name": "CHWE Ladder Tournament, Match 3: Bishop vs. Rob Van Dam",
+    "promotion": "chwe",
+    "date": {
+      "date": "1999-02-19",
+      "precision": "circa",
+      "source": "the file's own last-modified timestamp in the geocities-extracted capture"
+    },
+    "page": "/promotions/chwe/archive/ladder-tournament-match-3.html",
+    "collection": "0089",
+    "appearances": [
+      { "who": "bishop-chwe", "kind": "match" },
+      { "who": "rob-van-dam-chwe", "kind": "match" },
+      { "who": "howard-finkel-chwe", "kind": "angle", "capacity": "ring-announcer" },
+      { "who": "anderson-chwe", "kind": "angle", "capacity": "commentary" },
+      { "who": "poulin-chwe", "kind": "angle", "capacity": "commentary" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["bishop-chwe"], ["rob-van-dam-chwe"]],
+        "winner_side": 1,
+        "note": "Rob Van Dam wins by submission — Bishop taps to a boston crab, 25:03. Rob Van Dam advances to face Archangel."
+      }
+    ]
+  },
+  {
+    "id": "chwe-ladder-tournament-match-4",
+    "type": "show",
+    "name": "CHWE Ladder Tournament, Match 4: Rob Van Dam vs. Archangel",
+    "promotion": "chwe",
+    "date": {
+      "date": "1999-02-19",
+      "precision": "circa",
+      "source": "the file's own last-modified timestamp in the geocities-extracted capture"
+    },
+    "page": "/promotions/chwe/archive/ladder-tournament-match-4.html",
+    "collection": "0089",
+    "appearances": [
+      { "who": "rob-van-dam-chwe", "kind": "match" },
+      { "who": "archangel-chwe", "kind": "match" },
+      { "who": "howard-finkel-chwe", "kind": "angle", "capacity": "ring-announcer" },
+      { "who": "anderson-chwe", "kind": "angle", "capacity": "commentary" },
+      { "who": "poulin-chwe", "kind": "angle", "capacity": "commentary" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["rob-van-dam-chwe"], ["archangel-chwe"]],
+        "winner_side": 0,
+        "note": "Rob Van Dam wins by submission — Archangel taps to a sleeper hold, 33:43. Rob Van Dam advances to face Phantom for the CHWE Heavyweight Championship."
+      }
+    ]
+  },
+  {
+    "id": "chwe-ladder-tournament-match-5",
+    "type": "show",
+    "name": "CHWE Ladder Tournament, Match 5 (Heavyweight Title): Rob Van Dam vs. Phantom",
+    "promotion": "chwe",
+    "date": {
+      "date": "1999-02-19",
+      "precision": "circa",
+      "source": "the file's own last-modified timestamp in the geocities-extracted capture"
+    },
+    "page": "/promotions/chwe/archive/ladder-tournament-match-5.html",
+    "collection": "0089",
+    "appearances": [
+      { "who": "rob-van-dam-chwe", "kind": "match" },
+      { "who": "phantom-chwe", "kind": "match" },
+      { "who": "howard-finkel-chwe", "kind": "angle", "capacity": "ring-announcer" },
+      { "who": "anderson-chwe", "kind": "angle", "capacity": "commentary" },
+      { "who": "poulin-chwe", "kind": "angle", "capacity": "commentary" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["rob-van-dam-chwe"], ["phantom-chwe"]],
+        "winner_side": 1,
+        "note": "For the CHWE Heavyweight Championship. Phantom wins by submission — Rob Van Dam taps to a sleeper hold, 32:28, becoming the new CHWE Heavyweight Champion."
+      }
+    ]
+  },
+  {
+    "id": "chwe-king-of-the-ring",
+    "type": "show",
+    "name": "CHWE King of the Ring Tournament",
+    "promotion": "chwe",
+    "date": {
+      "date": "1999-02-22",
+      "precision": "circa",
+      "source": "the file's own last-modified timestamp in the geocities-extracted capture"
+    },
+    "page": "/promotions/chwe/archive/king-of-the-ring.html",
+    "collection": "0089",
+    "appearances": [
+      { "who": "the-rock-chwe", "kind": "match" },
+      { "who": "viscera-chwe", "kind": "match" },
+      { "who": "bishop-chwe", "kind": "match" },
+      { "who": "x-pac-chwe", "kind": "match" },
+      { "who": "archangel-chwe", "kind": "match" },
+      { "who": "hhh-chwe", "kind": "match" },
+      { "who": "rob-van-dam-chwe", "kind": "match" },
+      { "who": "the-undertaker-chwe", "kind": "match" },
+      { "who": "howard-finkel-chwe", "kind": "angle", "capacity": "ring-announcer" },
+      { "who": "anderson-chwe", "kind": "angle", "capacity": "commentary" },
+      { "who": "poulin-chwe", "kind": "angle", "capacity": "commentary" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["the-rock-chwe"], ["viscera-chwe"]],
+        "winner_side": 1,
+        "note": "First round. Viscera wins by count-out, 31:54 — The Rock never beats the referee's ten-count outside the ring after Viscera strikes him with an undisclosed object pulled from his trunks."
+      },
+      {
+        "order": 2,
+        "sides": [["bishop-chwe"], ["x-pac-chwe"]],
+        "winner_side": 0,
+        "note": "First round. Bishop wins by pinfall (roll-up), 32:48."
+      },
+      {
+        "order": 3,
+        "sides": [["archangel-chwe"], ["hhh-chwe"]],
+        "winner_side": 0,
+        "note": "First round. Archangel wins with the Drop From The Heavens, 25:52."
+      },
+      {
+        "order": 4,
+        "sides": [["rob-van-dam-chwe"], ["the-undertaker-chwe"]],
+        "winner_side": 1,
+        "note": "First round. The Undertaker wins by count-out, 33:50 — Rob Van Dam never beats the referee's ten-count outside the ring after The Undertaker strikes him with an undisclosed object pulled from his trunks."
+      },
+      {
+        "order": 5,
+        "sides": [["viscera-chwe"], ["bishop-chwe"]],
+        "winner_side": 0,
+        "note": "Semifinal. Viscera wins with the Big Splash, 24:15."
+      },
+      {
+        "order": 6,
+        "sides": [["archangel-chwe"], ["the-undertaker-chwe"]],
+        "winner_side": 0,
+        "note": "Semifinal. Archangel wins with the Drop From The Heavens, 24:44."
+      },
+      {
+        "order": 7,
+        "sides": [["viscera-chwe"], ["archangel-chwe"]],
+        "winner_side": 1,
+        "note": "Final. Archangel wins with the Drop From The Heavens, 29:05, becoming the new CHWE King of the Ring Champion."
+      }
+    ]
+  }
+]

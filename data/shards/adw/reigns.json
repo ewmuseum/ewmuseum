@@ -1,0 +1,49 @@
+[
+ {
+  "id": "adw-baja-blast-r001",
+  "title": "adw-baja-blast",
+  "label": "Hot Mask",
+  "holder": [
+   {
+    "name": "Hot Mask",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "2021",
+   "precision": "year",
+   "source": "No document date survives (the ADW wing's own placard gives no reign dates); year-precision per the promoter's own recall, 2026-08-17 — 'ADW was all 2021' — user-attested, not a primary-source document date."
+  },
+  "days": null,
+  "lost": {
+   "date": "2021",
+   "precision": "year",
+   "source": "promotions/adw/archive/season-recap.html — the title opens the surviving record already vacant after Hot Mask's own sudden exit from the territory; no in-fiction title-loss match is described, only the vacancy."
+  },
+  "how": "Held the Baja Blast Championship Sponsored by Taco Bell (ADW); title left vacant after Hot Mask's own sudden exit from the territory, per the season recap's own opening line — no in-fiction loss is depicted",
+  "event": null,
+  "note": "The only structured fact known about this reign until W9 served the show corpus itself (see the new won/lost/how fields above, sourced to promotions/adw/archive/).",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "adw-baja-blast-r002",
+  "title": "adw-baja-blast",
+  "label": "El Triton",
+  "holder": [
+   {
+    "id": "el-triton"
+   }
+  ],
+  "won": {
+   "date": "2021",
+   "precision": "year",
+   "source": "promotions/adw/archive/season-recap.html"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won the vacant title in a three-way (with El Professor and Rory Borealis) after the 6-way tag match's own winning team — El Professor pinning The Void — set up the contendership; The Void interfered, pulling El Triton over El Professor for the pin. Successfully defended against Gavin Firebrand at Run for the Border (stakes: the title and El Triton's own kidnapped son) — still champion at the record's own last word.",
+  "event": "adw-season-recap-2021",
+  "note": "El Professor and The Void fought to a Steel Cage draw the same night for the #1 contendership, then rematched at Run for the Border (El Professor won, first out of the collapsing cage) — no challenger match against El Triton for the title itself has occurred within the surviving record.",
+  "end_how": "still-champion-at-record-end"
+ }
+]

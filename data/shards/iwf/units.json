@@ -1,0 +1,994 @@
+[
+ {
+  "id": "bigfoot-and-sasquatch",
+  "type": "unit",
+  "name": "Bigfoot and Sasquatch",
+  "members": [
+   {
+    "name": "Bigfoot",
+    "character_id": "bigfoot-iwf"
+   },
+   {
+    "name": "Sasquatch",
+    "character_id": "sasquatch-wewf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "role": "tag team",
+    "source": "IWF show corpus census, verified against served show text"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "notes": "\"Here are your winners, the team of Bigfoot, and Sasquatch\" — the show's own ring announcer.",
+  "caption": "Introduced by the show's own ring announcer as simply \"the team of Bigfoot, and Sasquatch\" — the whole of what the record keeps.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "black-gloved-assassins",
+  "type": "unit",
+  "name": "Black Gloved Assassins",
+  "members": [
+   {
+    "name": "DVS",
+    "character_id": "dvs"
+   },
+   {
+    "name": "Dutch Dempsey",
+    "character_id": "dutch-dempsey"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "DVS and Dutch Dempsey's own tag team, a name on the IWF's roster page and little else.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brotherhood-iwf",
+  "type": "unit",
+  "name": "Brotherhood",
+  "members": [
+   {
+    "name": "Johnny Paine",
+    "character_id": "johnny-paine"
+   },
+   {
+    "name": "Rocko Grunge",
+    "character_id": "rocko-grunge"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Johnny Paine and Rocko Grunge's tag team, a name on the IWF's roster page.",
+  "caption_asof": {
+   "written": "2026-10-09",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brute-force",
+  "type": "unit",
+  "name": "Brute Force",
+  "members": [
+   {
+    "name": "Force",
+    "character_id": "force"
+   },
+   {
+    "name": "Surge",
+    "character_id": "surge"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Force and Surge's own pairing, named on the IWF's own 1999 roster page and little more.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "clearance-iwf",
+  "type": "unit",
+  "name": "Clearance",
+  "members": [
+   {
+    "name": "Jack Blarny",
+    "character_id": "jo-daddy-jack"
+   },
+   {
+    "name": "Shawn O'Shady",
+    "character_id": "shawn-oshady"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Jack Blarny and Shawn O'Shady's own tag team, known only from the IWF's roster page.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "crash-team",
+  "type": "unit",
+  "name": "Crash Team",
+  "members": [
+   {
+    "name": "Coma",
+    "character_id": "coma"
+   },
+   {
+    "name": "\"The Assassin\" Ashley Ward",
+    "character_id": "ashley-ward"
+   },
+   {
+    "name": "\"Red Hot\" Neil Scott",
+    "character_id": "neil-scott"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "stable — led by Coma"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "Coma's own stable, built around the North American Championship reign that made his name.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "el-dan-and-el-tom",
+  "type": "unit",
+  "name": "El Dan and El Tom",
+  "members": [
+   {
+    "name": "El Dan",
+    "character_id": "el-dan-iwf"
+   },
+   {
+    "name": "El Tom",
+    "character_id": "el-tom-iwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "role": "tag team",
+    "source": "IWF show corpus census, verified against served show text"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "notes": "\"The team of El Dan, and El Tom\" — the show's own ring announcer.",
+  "caption": "The third of the IWF's plainly-announced pairings: \"the team of El Dan, and El Tom.\"",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "fx-stable",
+  "type": "unit",
+  "name": "FX",
+  "members": [
+   {
+    "name": "Wolf X",
+    "character_id": "wolf-x-iwf"
+   },
+   {
+    "name": "Pyro",
+    "character_id": "pyro"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "stable"
+   }
+  ],
+  "notes": "The roster page's own catalogue prose pairs Wolf X and Pyro as \"the FX stable\"; the IWF titles ledger's Intercontinental Championship row separately credits Cerberus as \"of the crew's own stable FX\" with no membership overlap given. A genuine source disagreement, recorded rather than resolved.",
+  "unit_kind": "stable",
+  "caption": "Wolf X and Pyro's own stable by the roster page's account — though the title record separately credits Cerberus to the same name with no overlapping membership, a disagreement the record keeps rather than resolves.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "gods-of-war-iwf",
+  "type": "unit",
+  "name": "Gods of War",
+  "members": [
+   {
+    "name": "Mars",
+    "character_id": "mars-iwf"
+   },
+   {
+    "name": "Saturn",
+    "character_id": "saturn-iwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Mars and Saturn's own pairing, named for exactly the kind of cosmic bravado 1999 tag teams ran on.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ice-pack",
+  "type": "unit",
+  "name": "ICE PACK",
+  "members": [
+   {
+    "name": "ICE",
+    "character_id": "ice-iwf"
+   },
+   {
+    "name": "Freeze",
+    "character_id": "freeze-iwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "ICE and Freeze's own pairing, a cold-themed tag team named on the IWF's roster page and little more.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "insane-crew",
+  "type": "unit",
+  "name": "Insane Crew",
+  "members": [
+   {
+    "name": "Alien",
+    "character_id": "chris-phillips-alien"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "stable"
+   }
+  ],
+  "notes": "Only Alien is confirmed by name in the surviving record; other members not recovered.",
+  "unit_kind": "stable",
+  "caption": "Alien's own stable, the only member the surviving record actually names.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jo-daddy-jack-busta-rap-shawn",
+  "type": "unit",
+  "name": "Jo Daddy Jack & Busta Rap Shawn",
+  "members": [
+   {
+    "name": "Jo Daddy Jack",
+    "character_id": "jo-daddy-jack"
+   },
+   {
+    "name": "Busta Rap Shawn",
+    "character_id": "busta-rap-shawn"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "tag team — billed as \"AmericaZ MosT WanteD TeaM\" per jackblar.htm/shawn.htm (two of the IWF's 27 dedicated bio pages); the pairing's own on-page stable name, not previously recovered"
+   },
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team — billed \"AmWt\" and \"America's most wanted Team\" on the GIWF's own 1999 cards (\"Jack and Shawn of AmWt\", 6 April 1999)"
+   }
+  ],
+  "aka": [
+   "AmericaZ MosT WanteD TeaM",
+   "AmWt"
+  ],
+  "unit_kind": "stable",
+  "caption": "Jo Daddy Jack and Busta Rap Shawn's self-billed \"AmericaZ MosT WanteD TeaM\" (AmWt), which held the IWF's North American Tag Team titles and in 1999 challenged the GIWF's Dreamwarriors for its World Tag Team titles.",
+  "caption_asof": {
+   "written": "2026-09-29",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mexican-marauders",
+  "type": "unit",
+  "name": "Mexican Marauders",
+  "members": [
+   {
+    "name": "Rico Rodriguez",
+    "character_id": "rico-rodriguez"
+   },
+   {
+    "name": "Juan Rodriguez",
+    "character_id": "juan-rodriguez"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Rico and Juan Rodriguez's own tag team, named on the IWF's roster page and nowhere else.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "omega",
+  "type": "unit",
+  "name": "Omega",
+  "members": [
+   {
+    "name": "Curt Raines",
+    "character_id": "curt-raines"
+   },
+   {
+    "name": "Scott Maestol",
+    "character_id": "scott-maestol"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "tag team — Tag Champions"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "IWF Tag Team Champions, Curt Raines and Scott Maestol's own pairing before Raines went on to a much longer career alone.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "psychotic-clownz",
+  "type": "unit",
+  "name": "Psychotic Clownz",
+  "members": [
+   {
+    "name": "Doc Revenge",
+    "character_id": "doc-revenge"
+   },
+   {
+    "name": "Da Loon",
+    "character_id": "da-loon"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Doc Revenge and Da Loon's own tag team, known only from the IWF's roster page.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "shades-of-gray",
+  "type": "unit",
+  "name": "Shades of Gray",
+  "members": [
+   {
+    "name": "Salvador Bobbitt",
+    "character_id": "salvador-bobbitt"
+   },
+   {
+    "name": "Monkey Guerrero",
+    "character_id": "monkey-guerrero"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Salvador Bobbitt and Monkey Guerrero's own pairing, named on the IWF's roster page and nowhere else.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "team-x-treme",
+  "type": "unit",
+  "name": "Team X-treme",
+  "members": [
+   {
+    "name": "Phoenix",
+    "character_id": "phoenix-iwf"
+   },
+   {
+    "name": "Jazon Parzon",
+    "character_id": "jazon-parzon"
+   },
+   {
+    "name": "MaK",
+    "character_id": "mak-iwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "stable"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "Phoenix, Jazon Parzon, and MaK's own stable, the group MaK's own IWF World Title reign grew out of.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-bladerunners",
+  "type": "unit",
+  "name": "The Bladerunners",
+  "members": [
+   {
+    "name": "Cage",
+    "character_id": "cage-iwf"
+   },
+   {
+    "name": "Blade",
+    "character_id": "blade-iwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "tag team"
+   }
+  ],
+  "aka": [
+   "Bladerunners"
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Cage and Blade's own tag pairing, named for exactly what each man's own finisher promised.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-hellraisers",
+  "type": "unit",
+  "name": "The Hellraisers",
+  "members": [
+   {
+    "name": "Mad Bull",
+    "character_id": "mad-bull"
+   },
+   {
+    "name": "Dark Beast",
+    "character_id": "dark-beast-iwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": null,
+    "last_seen": null,
+    "role": "tag team — on the fed's own roster page (roster.htm, a Wayback capture from Oct 1999 — see the wing's own drive-snapshot caveat)"
+   }
+  ],
+  "aka": [
+   "Hellraisers"
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Mad Bull and Dark Beast's own pairing, managed together by Havoc.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-youngbloods",
+  "type": "unit",
+  "name": "The Youngbloods",
+  "members": [
+   {
+    "name": "Richard Ray Vaughn",
+    "character_id": "richard-ray-vaughn",
+    "eras": [
+     "iwf"
+    ]
+   },
+   {
+    "name": "Lew Spectre",
+    "character_id": "lew-spectre",
+    "eras": [
+     "iwf",
+     "giwf"
+    ]
+   },
+   {
+    "name": "Bob \"Monkey\" Charlie",
+    "character_id": "bob-monkey-charlie",
+    "eras": [
+     "iwf"
+    ]
+   },
+   {
+    "name": "Psycho",
+    "character_id": "psycho-iwf",
+    "eras": [
+     "iwf"
+    ]
+   },
+   {
+    "name": "Tank",
+    "character_id": "tank",
+    "eras": [
+     "iwf"
+    ]
+   },
+   {
+    "name": "Cardiac",
+    "character_id": "cardiac",
+    "eras": [
+     "iwf"
+    ]
+   },
+   {
+    "name": "Cloak",
+    "character_id": "cloak",
+    "eras": [
+     "iwf"
+    ]
+   },
+   {
+    "name": "BBA",
+    "character_id": "big-bob-alien",
+    "eras": [
+     "iwf"
+    ]
+   },
+   {
+    "name": "Curt Raines",
+    "character_id": "curt-raines",
+    "eras": [
+     "giwf"
+    ]
+   },
+   {
+    "name": "Corporal Punishment",
+    "character_id": "corporal-punishment",
+    "eras": [
+     "giwf",
+     "uwf"
+    ]
+   },
+   {
+    "name": "The Phenomenons",
+    "character_id": null,
+    "unit_id": "the-phenomenons",
+    "eras": [
+     "giwf"
+    ]
+   },
+   {
+    "name": "Lyle Wile",
+    "character_id": "lyle-wile",
+    "eras": [
+     "giwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "stable — 1998 Stable of the Year"
+   },
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable — billed \"'New' Youngbloods\"; Stable Wars winners (2 Jun 1999); Lew Spectre & Lyle Wile held a 24-day GIWF World Tag Team Championship reign under this billing, managed by Richard Ray Vaughn"
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "2002-03",
+    "last_seen": "2002-03",
+    "role": "stable — Corporal Punishment its member and enforcer, loyal to Lew Spectre",
+    "source": "/promotions/uwf/rp/corporal-punishment-corporal-style-2002-03-19.html (\"A heel he will remain, and a Youngblood he was destined to be\"; \"more loyal to Lew Spectre and the Youngblood stable, than he ever was before\")",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "tag team — Tag Champions; UWF-era lineup not recovered"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "user-attested",
+    "note": "User gavel, 2026-08-16: \"I honestly didn't remember using the Youngbloods in the IWF, but if the primary source supports that then yes, same Youngbloods. It was my stable, with other members (Raines, Cpl. Punishment, etc.).\" Supported by primary sources: the IWF 1998 roster/Stable-of-the-Year record, and the GIWF's own Stable Wars honor-roll listing (2 Jun 1999) on the GIWF North American Tag Team title page.",
+    "with": []
+   },
+   {
+    "assertion": "merged",
+    "grade": "user-attested",
+    "note": "VERDICT, THE IDENTITY WAVE (2026-08-22), verbatim: \"merge the New Youngbloods.\" new-youngbloods-giwf (Lew Spectre & Lyle Wile, GIWF, 1999-2001, a 24-day World Tag Team Championship reign) folded into the-youngbloods — Lew Spectre already an IWF-era Youngblood, the GIWF billing scare-quoting itself \"'New'\" as a deliberate in-fiction continuity marker rather than an unrelated coincidence. Lyle Wile added to the roster as the GIWF-era member; the existing GIWF tenure entry (already on file, same 1999-2001 window) enriched with the reign detail rather than duplicated.",
+    "with": []
+   }
+  ],
+  "notes": "One long-running stable with evolving membership across three feds — not a revival or a coincidence. Membership lists are era-tagged where sourced; the UWF-era (2004) lineup is not recovered. \"The most dominant stable ever in the IWF.\" Psycho, Cloak and Hercules/Tank were largely one handler writing against himself, in the IWF era. The GIWF-era billing scare-quoted itself \"'New' Youngbloods\" — not a coincidental revival but this same stable's own membership continuing forward: Lew Spectre (an IWF-era Youngblood) paired with new member Lyle Wile, managed by Richard Ray Vaughn (another IWF-era Youngblood), holding a 24-day GIWF World Tag Team Championship reign under the name.",
+  "aka": [
+   "Youngbloods"
+  ],
+  "unit_kind": "stable",
+  "caption": "One long-running stable across three federations and a decade, from IWF Stable of the Year through a GIWF Stable Wars win and a 24-day GIWF World Tag Team Championship reign to a UWF tag reign whose own lineup was never recovered.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 3,
+    "reigns": 2,
+    "appearances": 26,
+    "rps": 6,
+    "awards": 4,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/bio/theyoungbloods",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "bio",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "towers-of-power",
+  "type": "unit",
+  "name": "Towers of Power",
+  "members": [
+   {
+    "name": "Tank",
+    "character_id": "tank"
+   },
+   {
+    "name": "Hercules",
+    "character_id": "hercules"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "tag team"
+   }
+  ],
+  "notes": "Both run through the invented \"Robert Harvell\" sockpuppet persona.",
+  "unit_kind": "tag-team",
+  "caption": "Tank and Hercules's own pairing, part of the IWF's 1998 roster.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "warrior-clan",
+  "type": "unit",
+  "name": "Warrior Clan",
+  "members": [
+   {
+    "name": "Cerberus",
+    "character_id": "cerberus"
+   },
+   {
+    "name": "Hades",
+    "character_id": "hades"
+   },
+   {
+    "name": "Akira",
+    "character_id": "akira"
+   },
+   {
+    "name": "Black Dragon",
+    "character_id": "black-dragon"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "role": "stable"
+   }
+  ],
+  "notes": "Members per the roster's Ral Blackheart/Cerberus/Hades grouping (\"the Hellraisers\") are not cleanly separable from the title ledger alone; membership here is provisional.",
+  "unit_kind": "stable",
+  "caption": "IWF Tag Team Champions built around Cerberus and Hades, with the unit's fuller membership left provisional since the record and roster prose don't cleanly agree.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "wild-child-and-wild-man",
+  "type": "unit",
+  "name": "Wild Child and Wild Man",
+  "members": [
+   {
+    "name": "Wild Child",
+    "character_id": "wild-child-iwf"
+   },
+   {
+    "name": "Wild Man",
+    "character_id": "wild-man-iwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "iwf",
+    "role": "tag team",
+    "source": "IWF show corpus census, verified against served show text"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "notes": "\"The team of Wild Child, and Wild Man\" — the show's own ring announcer.",
+  "caption": "Introduced in the same flat cadence as Bigfoot and Sasquatch: \"the team of Wild Child, and Wild Man.\"",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

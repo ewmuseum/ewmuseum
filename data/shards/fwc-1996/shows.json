@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fwc-1996-us-air-arena-1996-07-14",
+    "type": "show",
+    "name": "FWC House Card (US Air Arena)",
+    "promotion": "fwc-1996",
+    "date": {
+      "date": "1996-07-14",
+      "precision": "exact",
+      "source": "The fed's own booking post (8A8OLScWv-QJ, 12 July 1996), which dates the card 14 July, and its own results post (7NGCCI0ZJZoJ, 14 July 1996)."
+    },
+    "page": "/promotions/fwc-1996/archive/fwc-first-house-card-results-1996-07-14.html",
+    "collection": "0148",
+    "venue": "US Air Arena",
+    "city": "Landover, Maryland",
+    "appearances": [
+      {
+        "who": "fwc-1996-serial-killa",
+        "kind": "match"
+      },
+      {
+        "who": "fwc-1996-gangsta-of-love",
+        "kind": "match"
+      },
+      {
+        "who": "fwc-1996-harry-gofigre",
+        "kind": "match"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "fwc-1996-serial-killa"
+          ],
+          [
+            "fwc-1996-gangsta-of-love"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Serial Killa won with a dragon suplex."
+      }
+    ],
+    "notes": "Booked by a member (real name redacted per the privacy rule) and run by the fed's single operator; five further bouts on the same card paired an invented FWC persona against a real-wrestler fantasy booking (Barry Horowitz, Shawn Michaels, The Giant, Ron Garvin, The Outsiders/Road Warriors, Jimmy Powers/The Daredevil) and stay in this page's own text rather than the matches[] table, since the real-wrestler side of each bout is not minted as a museum entity."
+  }
+]

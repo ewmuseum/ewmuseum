@@ -1,0 +1,248 @@
+[
+ {
+  "id": "funicide-igc",
+  "type": "unit",
+  "name": "Funicide",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "id": "litherland-igc"
+   },
+   {
+    "id": "scalzo-igc"
+   }
+  ],
+  "caption": "Cliff Litherland and Keith Scalzo's tag team, which beat Monsters of the Pacific in an Intergalactic Team Championships of the Universe qualifying match at IGC's Unlucky For Some 2013 tour opener.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "reigns": 0,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "igc",
+    "first_seen": "2013-02-28",
+    "last_seen": "2013-02-28",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The full show script for \"Unlucky For Some 2013, Show I: Louisville\" (28 February 2013)"
+   }
+  ]
+ },
+ {
+  "id": "monsters-of-the-pacific-igc",
+  "type": "unit",
+  "name": "Monsters of the Pacific",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "id": "captain-justice"
+   },
+   {
+    "id": "ultrajira"
+   }
+  ],
+  "caption": "Captain Justice and Ultrajira's masked tag team, beaten by Funicide in an Intergalactic Team Championships of the Universe qualifying match at IGC's Unlucky For Some 2013 tour opener.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "reigns": 0,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "igc",
+    "first_seen": "2013-02-28",
+    "last_seen": "2013-02-28",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The full show script for \"Unlucky For Some 2013, Show I: Louisville\" (28 February 2013)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "presumed-same",
+    "grade": "presumed",
+    "note": "A character of the same bare name (\"Monsters of the Pacific,\" filed as a single persona rather than a two-member unit) is already held under nfw, with a 2009-2010 tenure. The type mismatch (character vs. unit) and the absence of corroborating vitals mean the ordinary merge test cannot run cleanly; filed as a new, separate row rather than merged.",
+    "with": [
+     "monsters-of-the-pacific"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "triangle-of-tyranny-igc",
+  "type": "unit",
+  "name": "Triangle of Tyranny",
+  "unit_kind": "trio",
+  "members": [
+   {
+    "name": "Magnus Destructo",
+    "character_id": "magnus-destructo-nlw-next-level-2009"
+   },
+   {
+    "name": "Gollomach",
+    "character_id": "gollomach-igc"
+   },
+   {
+    "name": "El Cabron",
+    "character_id": "el-cabron-igc"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "igc",
+    "source": "The fed's own tour sign-up list and the Hot Springs roleplay thread"
+   }
+  ],
+  "caption": "Magnus Destructo's trio of tyrants with Gollomach and El Cabron, entered on the Unlucky For Some 2013 tour roster and booked against Point of View at Hot Springs.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "los-planetarios-igc",
+  "type": "unit",
+  "name": "Los Planetarios",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Leyenda de Ocho",
+    "character_id": "leyenda-de-ocho"
+   },
+   {
+    "name": "Steve Jackson",
+    "character_id": "steve-jackson-iwf"
+   },
+   {
+    "name": "Normalidad",
+    "character_id": "normalidad-igc"
+   },
+   {
+    "name": "Harmattan",
+    "character_id": "harmattan-igc"
+   },
+   {
+    "name": "April Monday",
+    "character_id": "april-monday-igc"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "igc",
+    "source": "The fed's own team bio for Los Planetarios (thread 25155) and tour sign-up list"
+   }
+  ],
+  "caption": "A five-man masked team of Heart, Earth, Wind, Water and Fire that formed out of the touring-roster revolt in the Wrestlesaurus Rex spin-off and fights Monsters of the Pacific at Hot Springs.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-haughty-troupe-igc",
+  "type": "unit",
+  "name": "The Haughty Troupe",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Munchy Man",
+    "character_id": "munchy-man-igc"
+   },
+   {
+    "name": "The Bullseye Kid",
+    "character_id": "the-bullseye-kid-igc"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "igc",
+    "source": "The fed's own Wrestlesaurus Rex pilot thread and V for Victoralicious results"
+   }
+  ],
+  "caption": "The ageing tag team of Munchy Man and the Bullseye Kid, who work the Commission's touring roster, were booked against the Sons of Tradition on the Wrestlesaurus Rex pilot and filled in on the V for Victoralicious commentary desk.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "haughty-troupe-rlw"
+    ],
+    "note": "The name or an alias is shared with an existing record on another wing; the two may be one handler's character, but no source read here ties them, so they are kept apart."
+   }
+  ]
+ },
+ {
+  "id": "sons-of-tradition-igc",
+  "type": "unit",
+  "name": "Sons of Tradition",
+  "unit_kind": "tag-team",
+  "members": [],
+  "tenures": [
+   {
+    "promotion": "igc",
+    "source": "The fed's own Wrestlesaurus Rex pilot thread"
+   }
+  ],
+  "caption": "The tag team booked against the Haughty Troupe on the Wrestlesaurus Rex pilot, whose members the surviving record does not name.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sons-of-tradition"
+    ],
+    "note": "The name or an alias is shared with an existing record on another wing; nothing in either source links the two, so they are kept apart."
+   }
+  ]
+ }
+]

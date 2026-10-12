@@ -1,0 +1,1372 @@
+[
+ {
+  "id": "jackson-kable-bdw",
+  "type": "character",
+  "name": "Jackson Kable",
+  "caption": "Jackson Kable, BDW's own heel powerhouse out of Chicago, beat The Rebel in the first round of the fed's World Heavyweight Championship tournament before being booked against Sean McClancy for the second round.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "hometown": "Chicago",
+    "height": "6'5\"",
+    "weight": "260 lbs",
+    "finisher": "Breaking the Kable (Sit Out Powerbomb)",
+    "entrance_music": {
+     "title": "St. Anger",
+     "artist": "Metallica",
+     "verbatim": "'St. Anger' by Metallica",
+     "corrected": "\"St. Anger\" by Metallica"
+    },
+    "source": "bio.php?username=kable; topstory.php?id=9,10; roleplays/messages/11.shtml",
+    "note": "The fed's own news (topstory.php?id=9) recaps his first-round win over The Rebel without staging it directly; topstory.php?id=10 books his second-round match against Sean McClancy, which McClancy won (the 6th Static's own results page). Eliminated first from The Return I's Hardcore Elimination Match, pinned by Arik Caine on the outside."
+   }
+  ]
+ },
+ {
+  "id": "brock-rockhard-bdw",
+  "type": "character",
+  "name": "Brock RockHard",
+  "caption": "Brock RockHard debuted against Jeremy “The One” Page in a disputed finish, won BDW's Broken Championship in a multi-man match at the fed's first pay-per-view, and defended it against Rob Zone on both that show and BDW's own 7th Static.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 7,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "wrestler — Broken Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Austin, Texas",
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); roleplays/messages/10-16.shtml; topstory.php?id=9; static_results.php?id=2; BDW's own 2004 roster card (/promotions/bdw/archive/brock-rockhard-roster-card.html)",
+    "note": "Won the Broken Championship (called the “Platinum” title in his own roleplays #15–16) in a multi-man match at BDW's first pay-per-view, The Return I (30 May 2004) — the held record's build-up names Jeremy Page, Methid, Rob Zone and Pretty Boy Evans as the contested field, with Rob Zone the last opponent standing per Brock's own retrospective roleplay; no dedicated results page for the show survives. Retained against Rob Zone on BDW's own 7th Static (6 Jun 2004, submission via a kneeling Dragon Sleeper). The 6th Static's own results page stages his win over Jeremy Page, with Co-Owner Jeffery's chair; at The Return I he pinned Rob Zone with a set-up inverted DDT for the Broken Championship.",
+    "height": "6'4\"",
+    "weight": "260",
+    "alignment": "Face",
+    "style": "All-Arounder",
+    "entrance_music": {
+     "verbatim": "\"Burn\" Finch"
+    },
+    "finisher": "Boston Crab",
+    "signature_moves": [
+     "Falling Inverted DDT"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "arik-caine-bdw",
+  "type": "character",
+  "name": "Arik Caine",
+  "caption": "Arik Caine won BDW's Hardcore Championship in a Hardcore Elimination Match at The Return I, threatened to sue Co-Owner Jeffery over his booking, and refused to defend the title against Methid on the fed's 7th Static.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "wrestler — Hardcore Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "New York, New York",
+    "height": "6'2\"",
+    "weight": "228",
+    "finisher": "Stir of Echoes/Dust to Dust",
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); static_results.php?id=2; BDW's own 2004 roster card (/promotions/bdw/archive/arik-caine-roster-card.html)",
+    "note": "Already Hardcore Champion by BDW's own 7th Static (6 Jun 2004) — how he won the title is not preserved in the held record. On that show he threatened to sue Co-Owner Jeffery (over a booking grievance, backed by Bruce) and then refused to defend the Hardcore title against Methid, citing the litigation; BDW's own later champions.cgi snapshot shows the Hardcore title with no listed champion, so the title changed hands or went vacant off-page at some point after. BDW's own 2004 roster card reads differently: finisher Stir Of Echoes. Won the Hardcore Championship at The Return I (30 May 2004) in a Hardcore Elimination Match, pinning Jackson Kable, The Rebel and finally Andrew Irving; fought JJ Jarone to a draw in the World Title tournament's second round on the 6th Static.",
+    "alignment": "Neutral",
+    "style": "All-Rounder",
+    "entrance_music": {
+     "verbatim": "\"I Am\" by Godsmack"
+    },
+    "signature_moves": [
+     "Nail In The Coffin (Fall away slam into a soman drop.)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chris-rock-bdw",
+  "type": "character",
+  "name": "Chris Rock",
+  "caption": "Chris Rock, billed as “the Ultimate Sensation” returning from a near career-ending spinal injury, entered BDW's own battle royal for a co-owner's chair and was the final man eliminated, by JJ Jarone.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Boston, MA",
+    "height": "6'0\"",
+    "weight": "235",
+    "finisher": "Rock Drop",
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); static_results.php?id=2; BDW's own 2004 roster card (/promotions/bdw/archive/chris-rock-roster-card.html)",
+    "note": "The 7th Static's own commentary bills him returning from a near career-ending spinal injury before signing to BDW. BDW's own 2004 roster card reads differently: height 6'; finisher Rock Drop (Impaler).",
+    "alignment": "Face",
+    "style": "Technical",
+    "entrance_music": {
+     "verbatim": "\"Head like a hole\" by Nine Inch Nails"
+    },
+    "signature_moves": [
+     "Sharpshooter"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jeffery-bdw",
+  "type": "character",
+  "name": "Jeffery",
+  "caption": "BDW's own founder and Co-Owner, Jeffery signed the fed's own first roster, brought Shawn Veto in as a second co-owner in May 2004, and was busted open with a chair by UnderGround King after crowning JJ Jarone a third co-owner off a battle royal.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2003-10",
+    "last_seen": "2005",
+    "role": "wrestler; Co-Owner",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "hometown": "Haughton, Louisiana",
+    "height": "6'4\"",
+    "weight": "268",
+    "finisher": "Rising Empire",
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); topstory.php?id=2,3,5,6,8,9; static_results.php?id=2; roleplays/messages/18.shtml",
+    "note": "On the 7th Static (6 Jun 2004) he retained a lawyer against a threatened Arik Caine lawsuit, booked and hosted a battle royal that crowned JJ Jarone BDW's third named co-owner, cancelled a non-title Sean McClancy/Emilio Dervante match mid-chaos and rebooked it as a ladder match, and was struck with a chair by UnderGround King. Roleplay #18 (6 Jan 2005) shows BDW returning to shows after a gap, with Jeffery booking a title shot for a crossover wrestler, “The King” Steve Owens. Co-Owner Jeffery runs BDW's first run too: the fed's own news of 14 October 2003 (/promotions/bdw/archive/new-site-launched-2003-10-14.html) and 7 January 2004 (/promotions/bdw/archive/scheduled-to-re-open-2004-01-07.html), and Revelation's 2003 roleplay."
+   }
+  ]
+ },
+ {
+  "id": "dippy-bdw",
+  "type": "character",
+  "name": "Dippy",
+  "caption": "Dippy was on BDW's own active singles roster; no further bio fields survive in the held record.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster)"
+   }
+  ]
+ },
+ {
+  "id": "emilio-dervante-bdw",
+  "type": "character",
+  "name": "Emilio Dervante",
+  "caption": "Emilio Dervante was BDW's own World Heavyweight Championship #1 contender, booked into a ladder match against champion Sean McClancy after his own non-title match with McClancy was cancelled mid-chaos on the fed's 7th Static.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 2
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name match against BOTH ccw-cyberspace's own emilio-dervante-ccw and low's own emilio-dervante; no corroborating detail found. Filed to data/review-queue.json as a three-way open question.",
+    "with": []
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "emilio-dervante"
+    ],
+    "note": "Shares a full ring name only; nothing held names both federations for this character, so the records stay apart until a document does (a lead, not a finding)."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "emilio-dervante-ccw"
+    ],
+    "note": "Shares a full ring name only; nothing held names both federations for this character, so the records stay apart until a document does (a lead, not a finding)."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "emilio-dervante-ngw"
+    ],
+    "note": "Shares a full ring name only; nothing held names both federations for this character, so the records stay apart until a document does (a lead, not a finding)."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-emilio"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this record; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Mexico City, Mexico",
+    "height": "5'11\"",
+    "weight": "241",
+    "finisher": "Montezuma's Revenge",
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); roleplays/messages/9.shtml; static_results.php?id=2",
+    "note": "Won BDW's own Static the week before the 7th Static (per his own roleplay #9's own framing) and, per that same roleplay, was arrested for the rape of a named victim afterward — released in time to wrestle. On the 7th Static he attacked champion Sean McClancy pre-bell over the World title, worked with a groupie to keep McClancy's manager Annie away from ringside, and was booked into a ladder match against McClancy for 27 June 2004 (Anger & Rage) after the scheduled non-title match was called off. Beat UnderGround King in the World Title tournament's second round on the 6th Static; at The Return I he was framed by Annie Leanan for an assault backstage, held by police, released on a lawyer's word, and pinned by Sean McClancy in the triple-threat final."
+   },
+   {
+    "promotion": "epw-exevent",
+    "first_seen": "2004-07-05",
+    "last_seen": "2004-07-16",
+    "source": "EPW's own pages, captured by the Wayback Machine (lot 0177)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own captured pages (lot 0177): first the fed's news post of 5 July 2004; last the Aggression page for 16 July 2004. Its bio in the fed's database (lot 0159), bio 11292, is a name only and holds no dated appearance, so no span comes from it. The roster page captured 29 October 2004 lists Emilio Dervante among its Inactive Superstars. Billed Emilio Dervante; the id keeps the map's short name."
+   }
+  ],
+  "aka": [
+   "Emilio"
+  ]
+ },
+ {
+  "id": "flawless-bdw",
+  "type": "character",
+  "name": "Flawless",
+  "caption": "Flawless entered BDW's own battle royal for a co-owner's chair on the fed's 7th Static and was the first man eliminated, by Apocalypse.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name match against giwf's own flawless-giwf; no corroborating detail found. Filed to data/review-queue.json.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); static_results.php?id=2; BDW's own 2004 roster card (/promotions/bdw/archive/flawless-roster-card.html)",
+    "hometown": "Chicage, IL",
+    "height": "6'2\"",
+    "weight": "245",
+    "alignment": "Heel",
+    "style": "Technical",
+    "entrance_music": {
+     "verbatim": "\"Many Men\" 50 Cent"
+    },
+    "finisher": "Game Over",
+    "signature_moves": [
+     "Big Boot"
+    ],
+    "note": "Lost to Andrew Irving on the 6th Static; eliminated by Irving from The Return I's Hardcore Elimination Match."
+   }
+  ]
+ },
+ {
+  "id": "jj-jarone-bdw",
+  "type": "character",
+  "name": "JJ Jarone",
+  "caption": "JJ Jarone came through BDW's World Heavyweight Championship tournament to its triple-threat final at The Return I, lost it to Sean McClancy, and won a battle royal on the fed's 7th Static to become BDW's third co-owner.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "wrestler; Co-Owner (from 6 Jun 2004)",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "hometown": "Boston, MA",
+    "height": "6'4\"",
+    "weight": "258",
+    "finisher": "Perfect Package",
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); topstory.php?id=9,10; static_results.php?id=2; BDW's own 2004 roster card (/promotions/bdw/archive/jj-jarone-roster-card.html)",
+    "note": "Won his World Heavyweight Championship tournament first-round match against Pretty Boy Evans, on the evidence of his own advance to the second round (topstory.php?id=10); won an over-the-top battle royal on the 7th Static (eliminating Methid, Jeremy Page, Pretty Boy Evans and, finally, Chris Rock) to become BDW's own third named co-owner alongside Jeffery and Shawn Veto. BDW's own 2004 roster card reads differently: hometown Boston, Massachusetts; height 6'3\"; weight 260; finisher Perfect Package (DVD). The 6th Static's own results page (23 May 2004) has him in the World Title tournament's second round, a draw with Arik Caine, and The Return I's in its triple-threat final, which Sean McClancy won.",
+    "alignment": "Heel",
+    "style": "Power/Technical",
+    "entrance_music": {
+     "verbatim": "\"Body Crumbles\" by Adema"
+    },
+    "signature_moves": [
+     "Jarone-plex (Elevated Fisherman Suplex)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kuff-mcslade-bdw",
+  "type": "character",
+  "name": "Kuff McSlade",
+  "caption": "Kuff McSlade was on BDW's own active singles roster, billed out of Atlanta with the finisher The Jagged X.",
+  "caption_asof": {
+   "written": "2026-08-25",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name match against dwo's own kuff-mcslade; no corroborating detail found. Filed to data/review-queue.json.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Atlanta, GA",
+    "height": "6'7\"",
+    "weight": "286",
+    "finisher": "The Jagged X",
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); BDW's own 2004 roster card (/promotions/bdw/archive/kuff-mcslade-roster-card.html)",
+    "alignment": "Face",
+    "style": "Powerhouse",
+    "entrance_music": {
+     "verbatim": "\"Wherever I May Roam\" by Metallica"
+    },
+    "note": "BDW's own 2004 roster card reads differently: hometown Atlanta, Georgia; weight 287."
+   }
+  ]
+ },
+ {
+  "id": "rob-zone-bdw",
+  "type": "character",
+  "name": "Rob Zone",
+  "caption": "Rob Zone, a former NGW wrestler, challenged Brock RockHard for BDW's Broken Championship at both the fed's first pay-per-view and its own 7th Static, losing the second to a kneeling Dragon Sleeper.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 4,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Brooklyn, New York",
+    "height": "7'1\"",
+    "weight": "328",
+    "finisher": "End Zone",
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); roleplays/messages/12,13,15,16.shtml; static_results.php?id=2; BDW's own 2004 roster card (/promotions/bdw/archive/rob-zone-roster-card.html)",
+    "note": "Brock RockHard's own roleplays bill him as a former NGW wrestler. Challenged Brock RockHard for the Broken Championship at BDW's first pay-per-view, The Return I, and again on the 7th Static (6 Jun 2004), losing the second by submission to a kneeling Dragon Sleeper. BDW's own 2004 roster card reads differently: weight 315. Pinned by Brock Rockhard in The Return I's five-way Broken Title match, after taking out Methid with the End Zone on the ramp.",
+    "alignment": "Face",
+    "style": "Powerhouse",
+    "entrance_music": {
+     "verbatim": "\"Step Up\" by Drowning Pool"
+    },
+    "signature_moves": [
+     "Big Boot"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-rebel-bdw",
+  "type": "character",
+  "name": "The Rebel",
+  "caption": "The Rebel lost to Jackson Kable in the first round of BDW's own World Heavyweight Championship tournament.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name match against 4ww's own rebel-4ww; a generic archetype name, per the generic-name doctrine, independent reuse is expected, but the two-fed aogames.net host overlap is worth a look. Filed to data/review-queue.json.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); topstory.php?id=9; BDW's own 2004 roster card (/promotions/bdw/archive/the-rebel-roster-card.html)",
+    "note": "The fed's own news (topstory.php?id=9) recaps a first-round tournament match against Jackson Kable without staging the finish directly; Kable's own advance to round 2 (topstory.php?id=10) is the held record's evidence he won. Eliminated from The Return I's Hardcore Elimination Match by Arik Caine, pinned down with Bruce's 2x4.",
+    "hometown": "South Philadelphia",
+    "height": "6'2\"",
+    "weight": "238",
+    "alignment": "Neutral",
+    "style": "Hardcore",
+    "entrance_music": {
+     "verbatim": "\"My Own Prison\" by Creed"
+    },
+    "finisher": "The Confederate Drop"
+   }
+  ]
+ },
+ {
+  "id": "methid-bdw",
+  "type": "character",
+  "name": "Methid",
+  "caption": "Methid, billed by rivals as a reformed addict running a grocery store, entered BDW's own battle royal for a co-owner's chair and was billed against Hardcore Champion Arik Caine on the fed's 7th Static, a title match Caine refused to wrestle.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "wrestler — Hardcore Championship #1 contender",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "cgi-bin/genroster.cgi?cat=singles&disp=active (BDW's own singles roster); static_results.php?id=2; roleplays/messages/12.shtml; BDW's own 2004 roster card (/promotions/bdw/archive/methid-roster-card.html)",
+    "note": "Brock RockHard's own roleplay #12 characterizes him, skeptically, as a reformed crack addict who now runs a grocery store. Billed for a Hardcore title shot on the 7th Static; Arik Caine refused to defend against him and the match never happened. Also entered that show's own battle royal for a co-owner's chair. Won the 6th Static's four-way battle royal for the Broken Championship #1 contendership, eliminating Julio Faustus and Revelation; at The Return I Rob Zone's End Zone flattened him on the ramp in the Broken Title match. Co-Owner Jeffery's address on that show says he had sent Methid to rehab.",
+    "hometown": "Oakland, California",
+    "height": "6'5\"",
+    "weight": "240",
+    "alignment": "Neutral",
+    "style": "Technical",
+    "entrance_music": {
+     "verbatim": "\"Game Over\" by Lil Flip"
+    },
+    "finisher": "Methodikal (Fisherman's DDT)",
+    "signature_moves": [
+     "Methodizer (Angle Slam)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jeremy-page-bdw",
+  "type": "character",
+  "name": "Jeremy “The One” Page",
+  "caption": "Jeremy “The One” Page lost to Brock RockHard's debut in a disputed finish tied to co-owner interference, then entered BDW's own battle royal for a co-owner's chair on the fed's 7th Static.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 3,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name match against 4ww's own jeremy-page-4ww — 4WW is a sibling aogames.net tenant to both BDW and CCWA per this campaign's own census. No receipt joins them. Filed to data/review-queue.json. NOTE: a served BDW roleplay (bdw-invitation-2004-05-24, message #10) carries an in-page entity-link to jeremy-page-4ww for a mention that the roleplay's own text plainly means BDW's own Jeremy Page (“watch tape on Jeremy Page from last week's static”) — the mislink is presentation only (an auto-linker artifact on served text, not an edit to the document's own words) and does not reopen this identity call.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "topstory.php?id=9; roleplays/messages/10-16.shtml; static_results.php?id=2; BDW's own 2004 roster card (/promotions/bdw/archive/jeremy-page-roster-card.html)",
+    "note": "Brock RockHard's own roleplay #12 confirms Page lost the debut match to RockHard, and that Bill (a recurring figure in RockHard's own roleplays) attributes the finish to Co-Owner Jeffery having “some beef” with Page — the held record's basis for calling the finish disputed. Entered the 7th Static's own battle royal for a co-owner's chair, eliminated by JJ Jarone. Lost to Brock Rockhard on the 6th Static after Co-Owner Jeffery's chair shot; pushed off the top rope into the security barrier in The Return I's Broken Title match.",
+    "hometown": "San Francisco, California",
+    "height": "6'1\"",
+    "weight": "230",
+    "alignment": "Heel",
+    "style": "Technical",
+    "entrance_music": {
+     "verbatim": "\"Ambush\" by Sepultura"
+    },
+    "finisher": "The Last Page (Elevated Texas Cloverleaf, while putting his knee on his opponents head)",
+    "signature_moves": [
+     "Almost There (Out of nowhere Superkick)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bridget-matthews-bdw",
+  "type": "character",
+  "name": "Bridget Matthews",
+  "caption": "Bridget Matthews called BDW's own Sunday Night Static broadcasts alongside Lane Scotts.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "commentator"
+    ],
+    "source": "static_results.php?id=2; content.php?id=oocstaff"
+   }
+  ]
+ },
+ {
+  "id": "lane-scotts-bdw",
+  "type": "character",
+  "name": "Lane Scotts",
+  "caption": "Lane Scotts called BDW's own Sunday Night Static broadcasts alongside Bridget Matthews.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "commentator"
+    ],
+    "source": "static_results.php?id=2; content.php?id=oocstaff"
+   }
+  ]
+ },
+ {
+  "id": "shawn-veto-bdw",
+  "type": "character",
+  "name": "Shawn Veto",
+  "caption": "Shawn Veto joined BDW as its second co-owner in May 2004, the fed's own news framing him — in-fiction — as a 36-year-old Massachusetts native brought in by founder Jeffery.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Bare first-name match against giwf's own shawn-giwf, a 1999 tag-battle-royal entrant known only as “Shawn.” Decorated-substring match on the bare first name only, no corroborating detail found (filed to data/review-queue.json as “Shawn Veto (BDW) vs Shawn (GIWF)” during the CCWA/BDW accession, lot 0055) — a different promotion, five years apart, one full surname on file and one bare first name, read as a real coincidence rather than a lead.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "Co-Owner",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "topstory.php?id=8,9,10",
+    "note": "Named co-owner 15 May 2004 (topstory.php?id=8, correcting this tenure's earlier misattribution to topstory.php?id=11, which is an unrelated later news item); bylined as the news poster on topstory.php?id=9 and 10 as well."
+   }
+  ]
+ },
+ {
+  "id": "jack-mahoney-bdw",
+  "type": "character",
+  "name": "“The Big Ugly” Jack Mahoney",
+  "caption": "“The Big Ugly” Jack Mahoney beat Pretty Boy Evans on BDW's 7th Static to become the #1 contender for the Broken Championship.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The decorated-aka mint guard's own soft warning flags ewa's own honey-ewa (\"Honey\") — a mechanical substring match on \"mahoney\" containing \"honey,\" not a real name collision. Read as a false positive, no receipt needed.",
+    "with": [
+     "honey-ewa"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "wrestler — Broken Championship #1 contender",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "static_results.php?id=2 (7th Static, 6 Jun 2004)"
+   }
+  ]
+ },
+ {
+  "id": "apocalypse-bdw",
+  "type": "character",
+  "name": "Apocalypse",
+  "caption": "Apocalypse, Revelation's tag partner in BDW's 2003 first run, signed the fed's first contract when it came back in April 2004 and bid the federation farewell at The Return I, yet entered the 7th Static's battle royal a week later.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "\"Apocalypse\" is a generic gimmick name already carried, independently, by ccw-cyberspace's own apocalypse-ccw, cwf-continental's own apocalypse-cwf-continental, and dwo's own apocalypse-dwo — no corroborating detail joins any of them to this BDW wrestler. Read as ordinary independent reuse of a common name, per the generic-name doctrine.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2003-10",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "topstory.php?id=2 (signing the fed's first contract, 6 Apr 2004); topstory.php?id=7 (\"went crazy on Pretty Boy Evans\"); static_results.php?id=2 (battle royal entrant); BDW's own 2004 roster card (/promotions/bdw/archive/apocalypse-roster-card.html)",
+    "hometown": "Haughton, LA",
+    "height": "6'4\"",
+    "weight": "280",
+    "alignment": "Neutral",
+    "style": "Powerhouse",
+    "entrance_music": {
+     "verbatim": "\"Fireproof\" by Pillar"
+    },
+    "finisher": "End of the World (Inverted Jackhammer)",
+    "note": "In BDW's first run he is Revelation's tag partner, back from weeks of injury (/promotions/bdw/rp/bdw-roleplays-1-2003.html); his own 2004 card says he later joined a stable with Revelation and The Underground King and that BDW broke up under him before its return. At The Return I (30 May 2004) he withdrew from the Hardcore match before the bell and bid the federation farewell, citing \"Haley\"; the 7th Static a week later still has him in the battle royal for a co-owner's chair."
+   }
+  ]
+ },
+ {
+  "id": "underground-king-bdw",
+  "type": "character",
+  "name": "UnderGround King",
+  "caption": "UnderGround King, fired from BDW earlier in 2004 after losing to Emilio Dervante, returned on the fed's 7th Static to bust a chair over Co-Owner Jeffery's head.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Underground King"
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2003-10",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "topstory.php?id=7 (\"Co-Owner Jeffery had a huge talk with Underground King\"); roleplays/messages/9.shtml (\"Emilio Dervante had just defeated the Underground King and even participated in the farewell party for him\"); static_results.php?id=2; BDW's own 2004 roster card (/promotions/bdw/archive/underground-king-roster-card.html)",
+    "note": "The fed's own commentary on the 7th Static treats him as previously fired (\"I thought he was fired?\") before he attacks Co-Owner Jeffery with a chair; security removes him from the arena. Named in Revelation's 2003 roleplay (/promotions/bdw/rp/bdw-roleplays-1-2003.html) as the man who hurt Apocalypse and who was to face Chezina on Sanitarium; his own 2004 card says the company closed after he had signed with it, and that he went back to prize fighting before returning. Lost to Emilio Dervante in the World Title tournament's second round on the 6th Static (23 May 2004) and was fired by Co-Owner Jeffery after the match.",
+    "hometown": "Compton, California",
+    "height": "6'6\"",
+    "weight": "236",
+    "alignment": "Heel",
+    "style": "High-Flyer",
+    "entrance_music": {
+     "verbatim": "\"Meant To Live\" by Switchfoot"
+    },
+    "finisher": "Oblivion (Flying Elbow Drop)",
+    "signature_moves": [
+     "Death's Touch (Super Kick)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pretty-boy-evans-bdw",
+  "type": "character",
+  "name": "Pretty Boy Evans",
+  "caption": "Pretty Boy Evans lost to JJ Jarone in the first round of BDW's World Heavyweight Championship tournament, beat Apocalypse on the 6th Static, and lost the Broken Championship's #1 contendership to “The Big Ugly” Jack Mahoney on the fed's 7th Static.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "topstory.php?id=7,9; static_results.php?id=2; roleplays/messages/12.shtml; BDW's own 2004 roster card (/promotions/bdw/archive/pretty-boy-evans-roster-card.html)",
+    "note": "Targeted by Apocalypse per topstory.php?id=7 (\"Apocalypse went crazy on Pretty Boy Evans\"); the fed's own news (topstory.php?id=9) recaps a first-round tournament match with JJ Jarone without staging the finish directly; Jarone's own advance to the second round (topstory.php?id=10, and the 6th Static's own results page) is the held record's evidence that Jarone won it. Lost the #1 contendership for the Broken Championship to Jack Mahoney on the 7th Static (via a low blow and a fluke pin) and is discussed, unflatteringly, in Brock RockHard's own roleplay #12. On the 6th Static he beat Apocalypse outside the tournament; at The Return I he was clotheslined by Methid on the ramp and never reached the ring in the Broken Title match.",
+    "hometown": "Beverly Hills, CA",
+    "height": "6'3\"",
+    "weight": "275",
+    "alignment": "Heel",
+    "style": "Technical",
+    "entrance_music": {
+     "verbatim": "\"Porno Creep\" by KoRn"
+    },
+    "finisher": "Figure Four Leglock",
+    "signature_moves": [
+     "Knee Breaker"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bruce-bdw",
+  "type": "character",
+  "name": "Bruce",
+  "caption": "Bruce backed Arik Caine's staged lawsuit against Co-Owner Jeffery on BDW's 7th Static, accusing Jeffery of discrimination and defamation on Caine's behalf.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "\"Bruce\" is a bare first name only, no surname ever given in the held record. The decorated-aka mint guard flags a wave of unrelated wrestlers who each carry \"Bruce\" as part of a full, distinct billed name (Bruce Blade, Bruce DeAula, Bruce Gordy, Bruce King, Bruce Pepin, Bruce Phillips, Bruce Richards, Bruce Saotome, Bruce Waltkins, Curiously Bruce, Bruce Kinto) — a common first name independently reused, per the generic-name doctrine, not a lead on any one of them.",
+    "with": [
+     "bruce-blade-xcwf",
+     "bruce-deaula-lcw-mercury",
+     "bruce-gordy",
+     "bruce-king-wwa",
+     "bruce-pepin",
+     "bruce-phillips",
+     "bruce-richards",
+     "bruce-saotome-rspwf",
+     "bruce-waltkins-cswa",
+     "curiously-bruce-cswa",
+     "kinto-wwa"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "manager (to Arik Caine)",
+    "roles": [
+     "manager"
+    ],
+    "source": "static_results.php?id=2 (7th Static, 6 Jun 2004)",
+    "note": "At The Return I he backed Arik Caine's lawsuit threat in Co-Owner Jeffery's office and handed Caine the 2x4 in the Hardcore match."
+   }
+  ]
+ },
+ {
+  "id": "james-austin-bdw",
+  "type": "character",
+  "name": "James Austin",
+  "caption": "James Austin was Co-Owner Jeffery's own lawyer, retained on-air on BDW's 7th Static against a threatened lawsuit from Arik Caine.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "other (Jeffery's lawyer, staged)",
+    "roles": [
+     "other"
+    ],
+    "source": "static_results.php?id=2 (7th Static, 6 Jun 2004)"
+   }
+  ]
+ },
+ {
+  "id": "claudio-coronado-bdw",
+  "type": "character",
+  "name": "Claudio Coronado",
+  "caption": "Claudio Coronado worked the phones for Emilio Dervante backstage on BDW's 7th Static.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "aka": [
+   "Cladio Coronado"
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "manager (to Emilio Dervante)",
+    "roles": [
+     "manager"
+    ],
+    "source": "static_results.php?id=2 (7th Static, 6 Jun 2004)",
+    "note": "The served show script spells the name two ways in consecutive lines (\"Claudio\" in Emilio Dervante's own dialogue, \"Cladio Coronado\" in the narration); \"Claudio Coronado\" is used as the registered form since it appears first and reads as the intended spelling."
+   }
+  ]
+ },
+ {
+  "id": "bill-bdw",
+  "type": "character",
+  "name": "Bill",
+  "caption": "Bill, Brock RockHard's late father's closest friend, appears across two of Brock's own roleplays trying to talk him out of signing with BDW.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "other (Brock RockHard's mentor, staged; never seen on a BDW broadcast)",
+    "roles": [
+     "other"
+    ],
+    "source": "roleplays/messages/10,12.shtml"
+   }
+  ]
+ },
+ {
+  "id": "james-hunes-bdw",
+  "type": "character",
+  "name": "James Hunes",
+  "caption": "James Hunes refereed on BDW's own Sunday Night Static, named on the fed's own staff page and in the ring for the fed's 7th-Static battle royal.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "referee"
+    ],
+    "source": "content.php?id=oocstaff; static_results.php?id=2"
+   }
+  ]
+ },
+ {
+  "id": "owen-steel-bdw",
+  "type": "character",
+  "name": "Owen Steel",
+  "caption": "Owen Steel was injured on BDW's second Sunday Night Static in April 2004; the surviving record holds nothing else of him.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The decorated-aka mint guard flags uwf's own steel-uwf (\"Steel\") — a bare-surname substring match, not a name collision (Owen Steel carries a full given name; Steel-uwf doesn't). Read as a false positive, no receipt needed.",
+    "with": [
+     "steel-uwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "topstory.php?id=2,5; BDW's own 2004 roster card (backups/8 June/roster/owensteel.htm in the operator's 8 June 2004 site backup)",
+    "hometown": "Duncan, Oklahoma",
+    "height": "6'1\"",
+    "weight": "241",
+    "alignment": "Neutral",
+    "style": "All-Rounder",
+    "entrance_music": {
+     "verbatim": "\"Tear Away\" by Drowning Pool"
+    },
+    "finisher": "The Sooner Slam; Steel Trap (Angle Slam; Liontamer (WCW Style))",
+    "signature_moves": [
+     "The Defacer (Full Nelson Front Russian Leg Sweep)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "andrew-irving-bdw",
+  "type": "character",
+  "name": "Andrew Irving",
+  "caption": "Andrew Irving, a technical heel who bought his way through wrestling school, beat Flawless on BDW's 6th Static and was the last man Arik Caine pinned to take the Hardcore Championship at The Return I.",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004-05-23",
+    "last_seen": "2004-05-30",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "hometown": "Miami, Florida",
+    "height": "6'0\"",
+    "weight": "245",
+    "alignment": "Heel",
+    "style": "Technical",
+    "entrance_music": {
+     "verbatim": "\"Princes of the Universe\" by Queen"
+    },
+    "finisher": "The Irvingizer (Moonsault off the top rope)",
+    "signature_moves": [
+     "The Pre-Irvingizer (Kick to the midsection, followed by a DDT)"
+    ],
+    "source": "BDW's own 2004 roster card (/promotions/bdw/archive/andrew-irving-roster-card.html); the 6th Static (/promotions/bdw/archive/sunday-night-static-6-2004-05-23.html) and The Return I (/promotions/bdw/archive/the-return-i-2004-05-30.html) results pages",
+    "note": "Beat Flawless with The Irvingizer on the 6th Static; eliminated Flawless from The Return I's Hardcore Elimination Match and was the last man standing against Arik Caine."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A decorated-substring hit only (AICW's Andre inside the first name Andrew); different federations, no shared detail.",
+    "with": [
+     "andre-aicw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "adam-white-bdw",
+  "type": "character",
+  "name": "Adam White",
+  "aka": [
+   "Mr. Essential"
+  ],
+  "caption": "Adam White, billed “Mr. Essential,” went out first in a four-way battle royal on BDW's 6th Static and was fired on camera by Co-Owner Jeffery a week later, before The Return I's Hardcore match.",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004-05-23",
+    "last_seen": "2004-05-30",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "hometown": "Boston, Massachusetts",
+    "height": "6'2\"",
+    "weight": "245",
+    "alignment": "Heel",
+    "style": "All-Rounder",
+    "entrance_music": {
+     "verbatim": "\"Sic Transit Gloria...Glory Fades\" by Brand New"
+    },
+    "finisher": "The Essential",
+    "signature_moves": [
+     "Must Have Always (Double Arm DDT)"
+    ],
+    "source": "BDW's own 2004 roster card (/promotions/bdw/archive/adam-white-roster-card.html); the 6th Static (/promotions/bdw/archive/sunday-night-static-6-2004-05-23.html) and The Return I (/promotions/bdw/archive/the-return-i-2004-05-30.html) results pages",
+    "note": "Eliminated first, by Revelation, from the 6th Static's four-way battle royal for the Broken Championship #1 contendership; billed into The Return I's Hardcore match and fired by Co-Owner Jeffery before it, with Julio Faustus and Judas Romonov, for breaking the fed's rules."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A decorated-substring hit only (INWI's White, a bare surname in another wing); no shared detail.",
+    "with": [
+     "white-inwi"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "julio-faustus-bdw",
+  "type": "character",
+  "name": "Julio Faustus",
+  "caption": "Julio Faustus, a hardcore heel from The Belfry, was thrown out of a four-way battle royal by Methid on BDW's 6th Static and fired on camera a week later, before The Return I's Hardcore match.",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004-05-23",
+    "last_seen": "2004-05-30",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "hometown": "The Belfry",
+    "height": "6'1\"",
+    "weight": "262",
+    "alignment": "Heel",
+    "style": "Hardcore",
+    "entrance_music": {
+     "verbatim": "\"Serenity\" Godsmack"
+    },
+    "finisher": "Tongan Death Grip (Submission) (Chokeslam onto Knee Clothesline from hell)",
+    "signature_moves": [
+     "Last Breath (Tongan Death Grip (Submission))"
+    ],
+    "source": "BDW's own 2004 roster card (/promotions/bdw/archive/julio-faustus-roster-card.html); the 6th Static (/promotions/bdw/archive/sunday-night-static-6-2004-05-23.html, billed \"Julio\") and The Return I (/promotions/bdw/archive/the-return-i-2004-05-30.html) results pages",
+    "note": "Billed \"Julio\" on the 6th Static, where Methid eliminated him from the four-way battle royal; the fed's own roster of the time carries one Julio. Fired by Co-Owner Jeffery before The Return I's Hardcore match, with Adam White and Judas Romonov."
+   }
+  ]
+ },
+ {
+  "id": "revelation-bdw",
+  "type": "character",
+  "name": "Revelation",
+  "caption": "Revelation lost a title to Chezina in BDW's 2003 first run and came back with the fed in 2004, eliminating Adam White from a battle royal on the 6th Static before Methid threw him out last.",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2003-10",
+    "last_seen": "2004-05-23",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "BDW Roleplays #1 (/promotions/bdw/rp/bdw-roleplays-1-2003.html); the 6th Static results page (/promotions/bdw/archive/sunday-night-static-6-2004-05-23.html); the fed's own top-five list of 14 October 2003 (top5.htm, the operator's 8 June 2004 site backup; not served)",
+    "note": "In the 2003 run his own roleplay has him losing his title to Chezina and patching things up with his tag partner Apocalypse, and the fed's 14 October 2003 top five ranks him second behind Chezina. In the 2004 run he eliminated Adam White from the 6th Static's four-way battle royal before Methid dropkicked him off the top rope to win it."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A generic ring name shared across unrelated federations and eras; no shared detail with any of these.",
+    "with": [
+     "revelation-cyberslam",
+     "revelation-uga",
+     "revelations-aicw",
+     "revelations-avw-2001",
+     "revelation-ryan-valtorro-rspwf",
+     "the-revelation-chase-maxim-pcw-paradise-2005"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "brian-lasiner-bdw",
+  "type": "character",
+  "name": "Brian Lasiner",
+  "caption": "Brian Lasiner refereed the World Title main event of BDW's first pay-per-view, The Return I, until a chair meant for Sean McClancy put him on the mat.",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "bdw",
+    "first_seen": "2004-05-30",
+    "last_seen": "2004-05-30",
+    "roles": [
+     "referee"
+    ],
+    "grade": "primary-source",
+    "source": "The Return I results page (/promotions/bdw/archive/the-return-i-2004-05-30.html), where he is named \"Brian\" (and \"Brain\"); the fed's own staff page lists him among its referees",
+    "note": "Refereed the triple-threat World Title match at The Return I and was knocked down when Sean McClancy drove Emilio Dervante into the chair Dervante was holding."
+   }
+  ]
+ }
+]

@@ -1,0 +1,748 @@
+[
+ {
+  "id": "ghost-dancers-uwf-mar96",
+  "type": "unit",
+  "name": "The Ghost Dancers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Screaming Drillbit\" Jason Keening",
+    "character_id": "screaming-drillbit-jason-keening-rspwf"
+   },
+   {
+    "name": "\"Banshee\" Michael Keening",
+    "character_id": "michael-keening-uwf-mar96"
+   }
+  ],
+  "caption": "Brothers billed as descendants of the Paiute nation, the reigning UWF World Tag Team Champions, who retained by default when their three-way title defense on 9 August 2003 was thrown out as a no-contest.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2003-08-09",
+    "last_seen": "2004-06-05"
+   }
+  ]
+ },
+ {
+  "id": "team-canada-uwf-mar96",
+  "type": "unit",
+  "name": "Team Canada",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"The Hammer\" Trevor Hextall",
+    "character_id": "trevor-hextall-uwf-mar96"
+   },
+   {
+    "name": "\"Bonebreaker\" Bob Jablonski",
+    "character_id": "bob-jablonski-uwf-mar96"
+   }
+  ],
+  "caption": "The reigning UWF North American Tag Team Champions, whose interference cost Tom Landis a Rampage Championship match before the pair joined the main event's three-way brawl.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2003-08-09",
+    "last_seen": "2004-10-06"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (team-canada-mwwa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "team-canada-mwwa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sons-of-cacaphony-uwf-mar96",
+  "type": "unit",
+  "name": "The Sons of Cacaphony",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Erik Grimsson",
+    "character_id": "erik-grimsson-uwf-mar96"
+   },
+   {
+    "name": "Chad Grimsson",
+    "character_id": "chad-grimsson-uwf-mar96"
+   }
+  ],
+  "caption": "A headbanging brother tag team who upset the former champion tag team the Harlequins on Meltdown, 24 September 2003.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2003-09-24",
+    "last_seen": "2007-04-28",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2005-08-03.html; /promotions/uwf-mar96/archive/uwf-brawl-from-the-mall-6-2005-08-06.html; /promotions/uwf-mar96/archive/uwf-meltdown-2006-06-07.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2007-04-28.html",
+    "note": "Teamed with Corey Irons to beat the Hands of Death and Trey DaMann by pinfall on 3 August 2005; called out the Hands of Death at Brawl From The Mall 6 on 6 August 2005, answered only by a taunting Unitron segment, Erik Grimsson singed by Serge Annis's own pyrotechnics. Retained the UWF World Tag Team Championship over the Amazing Romanis by pinfall (the Sky Hammer) on 7 June 2006. Beat the Prophets of Rage by pinfall on 28 April 2007, evening a best-of-three tag title unification series at one match apiece ahead of a deciding match at Gold Rush X.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "the-harlequins-uwf-mar96",
+  "type": "unit",
+  "name": "The Harlequins",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Chaos",
+    "character_id": "chaos-uwf-mar96"
+   },
+   {
+    "name": "Terror",
+    "character_id": "terror-uwf-mar96"
+   }
+  ],
+  "caption": "A former UWF tag team champion duo, upset by the Sons of Cacaphony on Meltdown, 24 September 2003.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2003-09-24",
+    "last_seen": "2004-05-19"
+   }
+  ]
+ },
+ {
+  "id": "the-arcana-uwf-mar96",
+  "type": "unit",
+  "name": "The Arcana",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Niklos Romani",
+    "character_id": "niklos-ricochet-romani-rspwf"
+   },
+   {
+    "name": "Ravnos Romani",
+    "character_id": "the-wild-card-ravnos-romani-rspwf"
+   }
+  ],
+  "caption": "The Romani brothers of Sabbat Justice, wrestling as a duo billed the Arcana alongside their stablemate Avanter.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2003-10-04",
+    "last_seen": "2003-10-04"
+   }
+  ]
+ },
+ {
+  "id": "fury-uwf-mar96",
+  "type": "unit",
+  "name": "Fury",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Rage",
+    "character_id": "rage-uwf-mar96"
+   },
+   {
+    "name": "Spice",
+    "character_id": "spice-uwf-mar96"
+   }
+  ],
+  "caption": "The One-Winged Angel's tag team stablemates in the Amity faction, debuting with a win over the Universal Powers.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2003-10-22",
+    "last_seen": "2004-10-06"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (chris-fury-jwa-ajfa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "chris-fury-jwa-ajfa"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (flying-fury-ewa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "flying-fury-ewa"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (fury-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "fury-rspwf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (fury-summit); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "fury-summit"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (fury-swa-seltor); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "fury-swa-seltor"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (fury-wmw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "fury-wmw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-universal-powers-uwf-mar96",
+  "type": "unit",
+  "name": "The Universal Powers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Bobby Lincoln",
+    "character_id": "bobby-lincoln-uwf-mar96"
+   },
+   {
+    "name": "Todd Franklin",
+    "character_id": "todd-franklin-uwf-mar96"
+   }
+  ],
+  "caption": "A brother tag team signed by Vice-President Jessica Marshall and ordered to target the Keenings, the Fraternity Boys, and Youth Gone Wild.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2003-10-22",
+    "last_seen": "2004-10-20"
+   }
+  ]
+ },
+ {
+  "id": "the-coven-uwf-mar96",
+  "type": "unit",
+  "name": "The Coven",
+  "aka": [
+   "The Furies"
+  ],
+  "unit_kind": "trio",
+  "members": [
+   {
+    "name": "Tigress",
+    "character_id": "tigress-rspwf"
+   },
+   {
+    "name": "Leslie Hernandez",
+    "character_id": "leslie-wildfire-hernandez-uwf-mar96"
+   },
+   {
+    "name": "Angel",
+    "character_id": "angel-rspwf"
+   }
+  ],
+  "caption": "The women's arm of Sabbat Justice, beating the Love Sisters and Comedy in a six-person tag.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2003-09-24",
+    "last_seen": "2003-10-22",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2003-09-24.html; /promotions/uwf-mar96/archive/uwf-meltdown-2003-10-22.html"
+   }
+  ]
+ },
+ {
+  "id": "the-misfits-uwf-mar96",
+  "type": "unit",
+  "name": "The Misfits",
+  "unit_kind": "trio",
+  "members": [
+   {
+    "name": "Marissa Monet",
+    "character_id": "marissa-monet-gdwa"
+   },
+   {
+    "name": "\"The Show\" Sierra Browne",
+    "character_id": "sierra-browne-rsp-ringside-seat-2002"
+   },
+   {
+    "name": "Dalbello Rage",
+    "character_id": "dalbello-rage-uwf-mar96"
+   }
+  ],
+  "caption": "A trio of women debuting together with a win over Fantasy Girl, Tesla St. James, and Arielle Starr.",
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2004-03-21",
+    "last_seen": "2006-03-18",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2004-03-21.html; /promotions/uwf-mar96/archive/uwf-brawl-from-the-mall-6-2005-08-06.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2006-03-18.html",
+    "grade": "primary-source",
+    "note": "Introduced together as a formal trio for the first time; beat Fantasy Girl, Tesla St. James, and \"Alluring\" Arielle Starr in a six-woman tag when Sierra Browne's Showstopper legdrop finished Fantasy Girl. Marissa Monet was attacked by Tigress at ringside after the match. Marissa Monet and Dalbello Rage won the Women's Tag Team Championship from the Psychommunity by pinfall on 6 August 2005 with interference from the Prophets of Rage; third member Sierra Browne, by now estranged from the trio, refused to join the celebration and superkicked her own sister Indigo Browne for pressing her to. Marissa Monet and Dalbello Rage celebrated alongside the Prophets of Rage on 18 March 2006 and issued an open Women's Tag Team title challenge."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "misfits-gdwa"
+    ],
+    "note": "A wholly unrelated held wing already carries a tag team of the identical name from 1996-97, whose own roster included a wrestler named Dalbello Rage -- the same name this trio's own third member uses. This is a stronger match shape than a bare team-name coincidence (team name plus a shared member name across two unrelated promotions, echoing this same wing's own Privateers/cswa pairing); no shared roster, dates, or URL was found beyond the two names, and the two promotions' own active years do not overlap."
+   }
+  ]
+ },
+ {
+  "id": "the-hands-of-death-uwf-mar96",
+  "type": "unit",
+  "name": "The Hands of Death",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Epitome of Evil\" Serge Annis",
+    "character_id": "epitome-of-evil-serge-annis-emwc"
+   },
+   {
+    "name": "Caliban",
+    "character_id": "caliban-uwf-mar96"
+   }
+  ],
+  "caption": "A pairing of Serge Annis and Caliban billed together under this name on a 29 May 2004 card banner, having already teamed once before beating Fury on 21 March 2004.",
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2004-03-21",
+    "last_seen": "2005-08-06",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2004-03-21.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2004-05-29.html; /promotions/uwf-mar96/archive/uwf-gold-rush-2004-2004-06-05.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2004-08-28.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2004-10-02.html; /promotions/uwf-mar96/archive/uwf-meltdown-2005-07-20.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2005-07-23.html; /promotions/uwf-mar96/archive/uwf-meltdown-2005-08-03.html; /promotions/uwf-mar96/archive/uwf-brawl-from-the-mall-6-2005-08-06.html",
+    "grade": "primary-source",
+    "note": "First teamed on 21 March 2004, beating Fury (Rage and Spice). Billed together under this name on a 29 May 2004 card banner, beating the Fraternity Boys in a tag confrontation, then fighting the Ghost Dancers to a double countout in a formal tag match later the same card. Challenged for the UWF World Tag Team Championship in a Gold Rush triple threat on 5 June 2004 against champions the Privateers and the Ghost Dancers, taken out of the match by a triple Conchairto from the Fraternity Boys (Chris O'Brien and Brian McKenzie) before the Privateers stole the pinfall. Beat Kyle Lee and Alex Kidd in a steel cage main event on 28 August 2004, Caliban pinning Kidd with a Near Death Experience superplex-and-slam combination after Lee escaped the cage but could not return in time to help. Lost to Strictly Business (Andrew Tucker, Mike Sebastian) by pinfall on 2 October 2004 after Tucker's frozen-fish distraction; beaten down afterward by the returning Prophets of Rage with their own tag title belts. Billed as the new World Tag Team Champions as of 20 July 2005, having taken the titles from the Sons of Cacophony on the previous week's own unread Rampage (9 July 2005); no surviving document in the held record states the match itself. Caliban was kidnapped and chained up inside the Descent Into Hell structure by Erik Grimsson on 23 July 2005, who challenged the team to defend the titles there at Gold Rush. Lost with Trey DaMann to the Sons of Cacaphony and Corey Irons by pinfall on 3 August 2005, Irons pinning Caliban; recorded a Descent Into Hell promo, assaulted Nina Grimsson, and brutalized a non-competing Alex Extreme on 6 August 2005, then answered the Sons of Cacaphony's own ringside challenge with a taunting Unitron segment rather than a confrontation, singeing Erik Grimsson with pyrotechnics."
+   }
+  ]
+ },
+ {
+  "id": "strictly-business-uwf-mar96",
+  "type": "unit",
+  "name": "Strictly Business",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Andrew \"Flash\" Tucker",
+    "character_id": "andrew-flash-tucker-rspwf"
+   },
+   {
+    "name": "\"Money Driven\" Mike Sebastian",
+    "character_id": "mike-sebastian-emwc"
+   }
+  ],
+  "caption": "A pair of former tag champions returning from retirement to beat Team Canada at Gold Rush 2004, having staged a wheelchair-bound retirement angle beforehand.",
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2004-06-05",
+    "last_seen": "2004-11-17",
+    "source": "/promotions/uwf-mar96/archive/uwf-gold-rush-2004-2004-06-05.html; /promotions/uwf-mar96/archive/uwf-meltdown-2004-08-25.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2004-10-02.html; /promotions/uwf-mar96/archive/uwf-meltdown-2004-10-06.html",
+    "grade": "primary-source",
+    "note": "First formal in-ring appearance under this name in this wing: staged a wheelchair-bound retirement announcement, were mocked by Team Canada (Trevor Hextall and Bob Jablonski), then revealed the ruse and beat the team by pinfall, Tucker scoring the fall on Hextall with a top-rope Frog Splash. Teamed with Quinn Brown in a Meltdown main event loss to Tom Landis and Team Canada on 25 August 2004, Tucker pinned after Landis and Trevor Hextall's own Game Misconduct heart-punch combination. Beat the Hands of Death (Serge Annis, Caliban) by pinfall on 2 October 2004, Tucker distracting Caliban with a thrown frozen fish and tripping Annis off a superplex attempt for Sebastian's own cover. Challenged the Privateers for the UWF World Tag Team Championship by pinfall on 6 October 2004, Sebastian pinned off a DDT while Tucker was held down by an illegal grip on his own feet from Jacob Drake."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "strictly-business-rcw-royal"
+    ],
+    "note": "An unrelated held wing already carries a tag team of the identical name; no shared roster, dates, or URL found between the two."
+   }
+  ]
+ },
+ {
+  "id": "team-battle-dream-uwf-mar96",
+  "type": "unit",
+  "name": "Team BATTLE*DREAM",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Reona Yoshida",
+    "character_id": "reona-yoshida-uwf-mar96"
+   },
+   {
+    "name": "Misaki Ishikawa",
+    "character_id": "misaki-ishikawa-dsw"
+   }
+  ],
+  "caption": "A first formal pairing in this wing for countrywomen Reona Yoshida and Misaki Ishikawa, winning a four corners women's tag war to earn a title shot.",
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2004-08-25",
+    "last_seen": "2004-10-02",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2004-08-25.html; /promotions/uwf-mar96/archive/uwf-meltdown-2004-09-08.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2004-10-02.html",
+    "grade": "primary-source",
+    "note": "First formal in-ring appearance under this name in this wing, winning a four corners women's tag war over Melody and Comedy, the Love Sisters, and Extreme Measures, Yoshida's own double DDT setting up the pinfall on Melody; earned a UWF Women's Tag Team Championship match against the Bod Squad the following week. Misaki Ishikawa's own earlier one-off uwf-mar96 appearance (19 May 2004) billed her representing \"Project BATTLE*DREAM,\" her own home stable's name at DSW; this pairing reuses that same branding for her formal in-ring team with Reona Yoshida specifically in this wing. Challenged the Bod Squad (Tara \"Sunburst\" Marshall and Brianna Landis) for the UWF Women's Tag Team Championship on 8 September 2004 and lost by disqualification after Marshall drove a chair into Ishikawa's spine to save Landis from a spike piledriver; the title stayed with the champions. Teamed with Sierra Browne to beat Donna Tetreault and the Bod Squad in a non-title six-woman tag on 2 October 2004, Sierra Browne's own Truth Superkick finishing Brianna Landis for the pin. Reona Yoshida departed the UWF for Joshi Puroresu STARDOM by 11 June 2005; Misaki Ishikawa continued the pairing's own Women's Tag Team Championship reign under a new name, the Psychommunity, with older sister Naomi Ishikawa as her new partner."
+   }
+  ]
+ },
+ {
+  "id": "bod-squad-uwf-mar96",
+  "type": "unit",
+  "name": "the Bod Squad",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Tara \"Sunburst\" Marshall",
+    "character_id": "tara-marshall-ffa-toc-2002"
+   },
+   {
+    "name": "Brianna Landis",
+    "character_id": "brianna-landis-uwf-mar96"
+   }
+  ],
+  "caption": "A sister-in-law tag pairing holding the UWF Women's Tag Team Championship, retaining it by disqualification over Team BATTLE*DREAM.",
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2004-09-08",
+    "last_seen": "2005-08-06",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2004-09-08.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2004-10-02.html; /promotions/uwf-mar96/archive/uwf-meltdown-2005-05-25.html; /promotions/uwf-mar96/archive/uwf-meltdown-2005-07-20.html; /promotions/uwf-mar96/archive/uwf-brawl-from-the-mall-6-2005-08-06.html",
+    "grade": "primary-source",
+    "note": "Sisters-in-law Tara \"Sunburst\" Marshall and Brianna Landis, already billed together as UWF Women's Tag Team Champions in the held record's prior broadcasts without any surviving document naming the match in which they won the title from its own last recorded holders, the Love Sisters. Retained the championship over Team BATTLE*DREAM (Reona Yoshida and Misaki Ishikawa) by disqualification on 8 September 2004, Marshall driving a chair into Ishikawa's spine to save Landis from a spike piledriver. Wrestled a non-title six-woman tag alongside a late-arriving Donna Tetreault against Sierra Browne and Team BATTLE*DREAM on 2 October 2004 and lost, Tara \"Sunburst\" Marshall tased mid-match by Misaki Ishikawa before Sierra Browne's Truth Superkick finished Brianna Landis for the pin. Lost a non-title match to \"Tornado\" Tara Smith and Alicia Powers by pinfall (a 450 splash) on 25 May 2005. Ran in during the Wind Walkers' own women's tag match against Amazing Grace and Kari Stevens on 20 July 2005, manager John DeWolfe directing the interference until security separated everyone; the match was declared a no-decision. Teamed with manager John DeWolfe to beat Lisa Drake and the Wind Walkers by pinfall on 6 August 2005, Brianna Landis handing DeWolfe the ring bell to strike Drake from behind for the winning fall."
+   }
+  ]
+ },
+ {
+  "id": "the-damned-uwf-mar96",
+  "type": "unit",
+  "name": "The Damned",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Hellhound",
+    "character_id": "hellhound-uwf-mar96"
+   },
+   {
+    "name": "Overkill",
+    "character_id": "overkill-uwf-mar96"
+   }
+  ],
+  "caption": "An enhancement tag team from the UWF's own Rising Stars newcomer pipeline, lost to the Amazing Romanis in its own only appearance on record.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2005-05-25",
+    "last_seen": "2005-05-25",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2005-05-25.html",
+    "grade": "primary-source",
+    "note": "Lost a non-title match to the Amazing Romanis by pinfall on 25 May 2005."
+   }
+  ]
+ },
+ {
+  "id": "the-psychommunity-uwf-mar96",
+  "type": "unit",
+  "name": "The Psychommunity",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Battle Princess\" Misaki Ishikawa",
+    "character_id": "misaki-ishikawa-dsw"
+   },
+   {
+    "name": "\"Queen of Kawaii\" Naomi Ishikawa",
+    "character_id": "naomi-ishikawa-dsw"
+   }
+  ],
+  "caption": "Misaki Ishikawa's own new pairing with older sister Naomi, continuing the Women's Tag Team Championship reign after Reona Yoshida's own departure.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2005-06-11",
+    "last_seen": "2005-08-06",
+    "source": "/promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2005-06-11.html; /promotions/uwf-mar96/archive/uwf-brawl-from-the-mall-6-2005-08-06.html",
+    "grade": "primary-source",
+    "note": "Formed on 11 June 2005 when Misaki Ishikawa signed a UWF contract and introduced older sister Naomi as her new tag partner in place of the departing Reona Yoshida, continuing the Women's Tag Team Championship reign the promotion had billed since Rise to Power; beat the Love Sisters by pinfall (a Death Valley Bomb on Lolita Love) in the new pairing's own first defense the same night, after the Love Sisters had been ambushed backstage beforehand by Moira Faith and \"Poison Bliss\" Myra Benedict. Lost the Women's Tag Team Championship to the Misfits (Marissa Monet, Dalbello Rage) by pinfall (a Spiked Mischief Maker on Naomi Ishikawa) on 6 August 2005, Prophets of Rage member Shadoe Rage interfering to help finish the fall."
+   }
+  ]
+ },
+ {
+  "id": "the-kindred-uwf-mar96",
+  "type": "unit",
+  "name": "The Kindred",
+  "unit_kind": "duo",
+  "members": [
+   {
+    "name": "Moira Faith",
+    "character_id": "moira-faith-uwf-mar96"
+   },
+   {
+    "name": "\"Poison Bliss\" Myra Benedict",
+    "character_id": "myra-benedict-uwf-mar96"
+   }
+  ],
+  "handler": {
+   "name": "Caine Tainer",
+   "character_id": "caine-tainer-uwf-mar96"
+  },
+  "caption": "A women's tag pairing debuting together in a loss to the Misfits, directed backstage by the unseen Caine Tainer.",
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2005-07-06",
+    "last_seen": "2006-06-07",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2005-07-06.html; /promotions/uwf-mar96/archive/uwf-meltdown-2006-06-07.html",
+    "grade": "primary-source",
+    "note": "Debuted as a formal pairing, losing to the Misfits (Dalbello Rage, Marissa Monet) when Myra Benedict was pinned with the Mischief Maker; held Lolita Love's own kidnapped cat, Mr. Boo Boo, hostage beforehand at Caine Tainer's own direction. Lost to \"Firebird\" Katie Smith and \"Tornado\" Tara Smith by pinfall (the Arizona Rattler, on Myra Benedict) on 7 June 2006."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-kindred-ewa-email); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-kindred-ewa-email"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "wind-walkers-uwf-mar96",
+  "type": "unit",
+  "name": "The Wind Walkers",
+  "unit_kind": "duo",
+  "members": [
+   {
+    "name": "\"Tornado\" Tara Smith",
+    "character_id": "tara-smith-bra-1999"
+   },
+   {
+    "name": "Alicia Powers",
+    "character_id": "alicia-powers-uwf-mar96"
+   }
+  ],
+  "caption": "A women's tag pairing of Tara Smith and Alicia Powers, fighting to a no-decision against Amazing Grace and Kari Stevens after the Bod Squad ran in.",
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2005-07-20",
+    "last_seen": "2005-08-06",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2005-07-20.html; /promotions/uwf-mar96/archive/uwf-brawl-from-the-mall-6-2005-08-06.html",
+    "grade": "primary-source",
+    "note": "Billed together under this name in a women's tag team match on 20 July 2005 against Amazing Grace and Kari Stevens, declared a draw after the Bod Squad (John DeWolfe, Brianna Landis) ran in and brawled with both teams until Arielle Starr and Leslie Hernandez joined in and security separated everyone. Backed debuting Samantha Daniels and clashed with Kari Stevens backstage on 3 August 2005; teamed with Lisa Drake in a losing six-person tag against the Bod Squad and John DeWolfe by pinfall on 6 August 2005 after Brianna Landis handed DeWolfe the ring bell."
+   }
+  ],
+  "identity": []
+ },
+ {
+  "id": "cornerstones-uwf-mar96",
+  "type": "unit",
+  "name": "The Cornerstones",
+  "unit_kind": "duo",
+  "members": [
+   {
+    "name": "Daniel Kidd",
+    "character_id": "daniel-kidd-uwf-mar96"
+   },
+   {
+    "name": "\"Hellraiser\" Tom Landis",
+    "character_id": "hellraiser-tom-landis-rspwf"
+   }
+  ],
+  "handler": {
+   "name": "Kari Stevens",
+   "character_id": "kari-stevens-uwf-mar96"
+  },
+  "caption": "The Pride's own replacement for the departed Team Canada, pairing returning veteran Daniel Kidd with \"Hellraiser\" Tom Landis.",
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2005-07-23",
+    "last_seen": "2006-03-18",
+    "source": "/promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2005-07-23.html; /promotions/uwf-mar96/archive/uwf-meltdown-2005-08-03.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2006-03-18.html",
+    "grade": "primary-source",
+    "note": "Introduced by Kari Stevens on 23 July 2005 as the Pride's own replacement for Team Canada; Tom Landis challenged Shaun Borders to a Gold Rush match afterward, and both men interfered at ringside during the main event tag match without officially entering it. Interfered in the Alex Martinez/Daniel Kidd match on 3 August 2005, costing Martinez the win by disqualification before Youth Gone Wild ran the pair off; Kidd retaliated with a low blow and piledriver on the returning Wild. Interfered in a North American Tag Team Championship defense and in Juan Vasquez's own debut match on 18 March 2006, both attempts backfiring."
+   }
+  ],
+  "identity": []
+ },
+ {
+  "id": "the-outlaws-uwf-mar96",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Outlaws",
+  "members": [
+   "doc-holliday-rspwf",
+   "brent-maverick-uwf-mar96"
+  ],
+  "caption": "A gunslinger-gimmicked tag team billed in from the recently closed River City Wrestling to become the Illuminati's newest muscle.",
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2006-05-06",
+    "last_seen": "2006-05-27",
+    "source": "/promotions/uwf-mar96/archive/uwf-meltdown-2006-05-06.html; /promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2006-05-27.html",
+    "grade": "primary-source",
+    "note": "Ambushed Team Canada before their scheduled match could start on 6 May 2006. Introduced formally as the Illuminati's newest members at a press conference on 27 May 2006, then lost a main event by disqualification to Alex Extreme and Jason Keening after Team Canada interfered."
+   }
+  ]
+ },
+ {
+  "id": "amity-uwf-mar96",
+  "type": "unit",
+  "name": "Amity",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "\"Supervixen\" Ami Tran",
+    "character_id": "ami-tran-ffa-toc-2002"
+   },
+   {
+    "name": "Rage",
+    "character_id": "rage-uwf-mar96"
+   },
+   {
+    "name": "Spice",
+    "character_id": "spice-uwf-mar96"
+   },
+   {
+    "name": "One-Winged Angel",
+    "character_id": "one-winged-angel-rspwf"
+   },
+   {
+    "name": "\"Poison Bliss\" Myra Benedict",
+    "character_id": "myra-benedict-uwf-mar96"
+   }
+  ],
+  "caption": "The One-Winged Angel's own long-running stable, welcoming Myra Benedict as its newest member.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2003-10-22",
+    "last_seen": "2007-04-28",
+    "source": "/promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2007-04-28.html",
+    "grade": "primary-source",
+    "note": "Named repeatedly across earlier UWF broadcasts going back to 2003 as the One-Winged Angel's own stable alongside Rage, Spice, and later \"Supervixen\" Ami Tran, but not previously registered under its own record. Introduced \"Poison Bliss\" Myra Benedict as its newest member on 28 April 2007, Ami Tran citing her as the toughest woman on the roster; Myra Benedict then joined Tran in accepting a future title challenge from Women's North American Champion Sonya Benedict, her own cousin."
+   }
+  ]
+ },
+ {
+  "id": "dont-go-there-uwf-mar96",
+  "type": "unit",
+  "name": "Don't Go There",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Nighthawk\" Michael Bonn",
+    "character_id": "nighthawk-michael-bonn-rspwf"
+   },
+   {
+    "name": "\"Hentai\" Ryu Osawa",
+    "character_id": "ryu-osawa-uwf-mar96"
+   }
+  ],
+  "caption": "Michael Bonn and Ryu Osawa's own forced tag team, formed after a career-paths stipulation match.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2004-09-18",
+    "last_seen": "2007-04-28",
+    "source": "/promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2007-04-28.html",
+    "grade": "primary-source",
+    "note": "Formed under the stipulation of Ryu Osawa's own win over Michael Bonn in a no-disqualification Career Paths match, then named by Osawa's own choice of naming rights; referenced repeatedly across earlier UWF broadcasts but not previously registered under its own record. Michael Bonn challenged for the UWF Heavyweight Championship of the World on 28 April 2007 with Ryu Osawa at ringside fending off Outlaws interference; the match ended in a double countout."
+   }
+  ]
+ },
+ {
+  "id": "war-hounds-uwf-mar96",
+  "type": "unit",
+  "name": "The War Hounds",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Smiling Pitbull\" Jacen Benedict",
+    "character_id": "smiling-pitbull-jacen-benedict-rspwf"
+   },
+   {
+    "name": "\"Preying Wolf\" Ronan Benedict",
+    "character_id": "ronan-benedict-uwf-mar96"
+   }
+  ],
+  "caption": "Myra Benedict's own estranged brothers, still waiting for their in-ring UWF debut.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwf-mar96",
+    "first_seen": "2007-04-28",
+    "last_seen": "2007-04-28",
+    "source": "/promotions/uwf-mar96/archive/uwf-saturday-night-rampage-2007-04-28.html",
+    "grade": "primary-source",
+    "note": "Cornered sister Myra Benedict in a Madison Square Garden skybox before her own match, urging her to leave Darrin Kisler's Bloodhorn faction; she held a knife to brother Jacen's throat without following through, and the brothers left without a resolution. Neither man has wrestled in the UWF yet."
+   }
+  ]
+ }
+]

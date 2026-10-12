@@ -1,0 +1,125 @@
+<!-- chrome:head:start -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EWN (eWrestling Network) &mdash; Introduction to PHP &mdash; E-WRESTLING MUSEUM</title>
+<script src="/js/theme.js?v=5"></script>
+<link rel="stylesheet" href="/style.css?v=22">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://ewmuseum.org/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="masthead">
+  <div class="inner">
+    <a class="wordmark" href="/"><svg class="ringmark-lg" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><use href="/ringmark.svg#ewm"/></svg><svg class="ringmark" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect class="m-apron" width="16" height="16" rx="2"/><rect class="m-rope" x="2.5" y="2.5" width="11" height="11"/><path class="m-pad" d="M0 0h4v4H0zM12 0h4v4h-4zM0 12h4v4H0zM12 12h4v4h-4z"/><rect class="m-core" x="6" y="6" width="4" height="4"/><rect class="m-edge" x=".5" y=".5" width="15" height="15" rx="1.5"/></svg><span class="wm-text">THE E-WRESTLING <span class="nw">MUSEUM<span class="dot">.</span></span></span></a>
+    <div class="tagline">a museum of fantasy wrestling, built one collection at a time</div>
+    <nav class="gallery">
+      <a class="here" href="/promotions.html" aria-current="true">Wings</a>
+      <a href="/characters.html">Characters</a>
+      <a href="/units.html">Units</a>
+      <a href="/relationships.html">Relationships</a>
+      <a href="/shows.html">Shows</a>
+      <a href="/matches.html">Matches</a>
+      <a href="/appearances.html">Appearances</a>
+      <a href="/rps.html">Roleplays</a>
+      <a href="/championships.html">Championships</a>
+      <a href="/reigns.html">Reigns</a>
+      <a href="/awards.html">Awards</a>
+      <a href="/bestowals.html">Bestowals</a>
+      <a href="/halloffame.html">Halls of Fame</a>
+      <a href="/in-memoriam.html">In Memoriam</a>
+      <a href="/essays.html">Essays</a>
+    </nav>
+  </div>
+  <span id="main-content" tabindex="-1"></span>
+</header>
+<!-- chrome:head:end -->
+
+<main class="wrap">
+  <p class="crumb"><a href="/">Museum</a> &nbsp;/&nbsp; <a href="/promotions.html">Wings</a> &nbsp;/&nbsp; <a href="/promotions/ewn-ewnweb/">EWN (eWrestling Network, 2004–2006)</a> &nbsp;/&nbsp; <a href="/promotions/ewn-ewnweb/holdings.html">Card Archive</a> &nbsp;/&nbsp; Introduction to PHP</p>
+
+  <span class="kicker">EWN (eWrestling Network) &mdash; Craft tutorial</span>
+  <div class="doc-head">
+    <h1>Introduction to PHP</h1>
+    <span class="doc-date">10 January 2005</span>
+  </div>
+
+  <div class="archival-notice"><span class="flag">Content notice</span>A period document, served unedited. It carries the humor, language, and content typical of its era and community &mdash; some of it crude, dated, or offensive, including material that wouldn&#x27;t be written today. See <a href="/curation.html">Curation</a>.</div>
+
+  <div class="document"><b><font face="tahoma" size="2" color="#EEEEEE">Introduction to PHP (The first thing you should know: PHP format.)
+
+    </font></b><font face="tahoma" size="2" color="#EEEEEE">PHP is becoming a very versatile and complex language, used by loads of different people. Web developers and scripters who have become adapted into many different languages are beginning to learn PHP as one of their primary languages; mainly because of it's ease of use and various useful functions.<br>
+
+    When combined with the back-end power of MySQL (you'll learn about that a little later), PHP can put together complete communities and hosts of different people. The one thing that you'll learn about in this introduction is the standard format for using PHP.<br>
+
+    Unlike HTML, PHP isn't <i>what-you-see-is-what-you-get</i>. PHP can be a bit difficult sometimes, and without including the smallest detail, such as a semi-colon or parenthesis, the entire script can go awry.<br>
+
+    <b><u>Standard Format</u></b>
+
+    The standard format for all PHP scripts comes in the documentation such as this:
+	<br><table width="100%" border="0" cellpadding="3" cellspacing="0"><tr><td bgcolor="#FFFFFF"><pre class="code">&lt;?PHP
+	echo &quot;This is php code.&quot;;
+?&gt;</pre></td></tr></table>
+	If you were to use that on a page on your server, the output would be:
+
+	This is php code.
+
+	The <font color="#BBBBBB">&lt;?PHP</font> begins the PHP code, the '<font color="#BBBBBB">echo "this is php code";</font>' tells the PHP script to echo the output into the browser, and then finally, the script is closed with <font color="#BBBBBB">?&gt;</font>.<br>
+
+	Remember that whenever you use echo's, the only two parenthesis that you can have are the ones starting and ending the text inside the echo. That is, unless you trick the PHP language, and include a small \ before each parenthesis mark that you want to actually be displayed. So, for instance:<br>
+	<br><table width="100%" border="0" cellpadding="3" cellspacing="0"><tr><td bgcolor="#FFFFFF"><pre class="code">&lt;?PHP
+	echo &quot;This is &quot;php&quot; code.&quot;;
+?&gt;</pre></td></tr></table>
+	...would produce errors. But, this:
+	<br><table width="100%" border="0" cellpadding="3" cellspacing="0"><tr><td bgcolor="#FFFFFF"><pre class="code">&lt;?PHP
+	echo &quot;This is \&quot;php\&quot; code.&quot;;
+?&gt;</pre></td></tr></table>
+	Would produce:
+
+	This is "php" code.
+
+	Understand? Good. Another thing to remember is that if you are going to want to begin coding in regular HTML again, you can either echo every line and worry about parenthesis, or you can do your page like this:<br>
+
+	<br><table width="100%" border="0" cellpadding="3" cellspacing="0"><tr><td bgcolor="#FFFFFF"><pre class="code">&lt;?PHP
+	// These are where we declare the variables.
+	// All variables MUST start out with the $ symbol.
+	// Variables also follow the same format of the &quot;echo&quot; function, with the &quot;;&quot; at the end of the line.
+	$name = &quot;Rick&quot;;
+	$age = &quot;18&quot;;
+	$haircolor = &quot;Brown&quot;;
+
+	// After we delcare the variables, now, we can use them!
+	echo &quot;Hello, my name is &quot;.$name.&quot; and I am &quot;.$age.&quot; with &quot;.$haircolor.&quot; hair!&quot;;
+
+	// You&#x27;ll notice that the variables in the sentence are separated like so: &quot;Hello, my name is &quot;.$name.&quot; and I am &quot;.$age.&quot; with &quot;.$haircolor.&quot; hair!&quot;
+	// We do this because if we were to do it like this: &quot;Hello, my name is $name and I am $age with $haircolor!&quot;, then the script wouldn&#x27;t read the variables, and it would literally print $name, $age and $hair color instead of what we stored inside the actual variable.
+?&gt;</pre></td></tr></table>
+	This is going to produce not only the PHP code, but it's also going to print out the HTML. Read the comments if you aren't quite sure on how this works...</font></div>
+
+<dl class="muted small provenance" data-doc-class="column">
+    <dt>Collection</dt><dd><a href="/collections/0170.html">Accession 0170</a></dd>
+    <dt>Source</dt><dd><a href="http://www.ewnweb.net/phptuts_introduction.php">Recovered directly</a></dd>
+    <dt>Document date</dt><dd>10 January 2005</dd>
+    <dt>Redactions</dt><dd>carries no redactions</dd>
+    <dt>Served since</dt><dd>26 September 2026</dd>
+</dl>
+
+<!-- chrome:footer:start -->
+  <footer role="contentinfo">
+THE E-WRESTLING MUSEUM <span class="rule">/</span> EWN (eWrestling Network, 2004–2006) Card Archive <span class="rule">/</span>
+    <a href="/promotions/ewn-ewnweb/holdings.html">back to the archive</a>
+    <!-- footernav:start --><nav class="footnav" aria-label="Elsewhere"><a href="/search.html">Search</a> <span class="rule">/</span> <a href="https://forum.ewmuseum.org">The forum</a> <span class="rule">/</span> <a href="https://e-wrestling.org">e-wrestling.org</a></nav><!-- footernav:end -->
+  </footer>
+</main>
+</body>
+</html>
+<!-- chrome:footer:end -->

@@ -1,0 +1,89 @@
+[
+ {
+  "id": "icwc-world",
+  "type": "title",
+  "name": "ICWC World Heavyweight Championship",
+  "promotion": "icwc",
+  "page": "/titles/icwc-world.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Vacant at the January 2008 launch, filled when Dean Malenko won an eight-man tournament final over Owen Hart. Hulk Hogan, Jeff Jarrett and Kurt Angle held it in turn, before Edge defeated champion Kurt Angle, Sid Vicious and Jeff Jarrett in a Fatal Four Way. Edge's second reign unified in the XWF World Heavyweight Championship, defeating XWF Champion Brock Lesnar and Hulk Hogan in a Triple Threat at ICWC Capital Combat (2009).",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 6
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "icwc-tag",
+  "type": "title",
+  "name": "ICWC World Tag Team Championship",
+  "promotion": "icwc",
+  "page": "/titles/icwc-tag.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Established when the Nasty Boys won a six-team elimination bout over Nikita Koloff & Jim Duggan, Alex Shelley & Chris Sabin, Sean Waltman & Justin Credible, Christopher Daniels & Elix Skipper and the Samoan Swat Team. Chris Sabin & Alex Shelley, Sean Waltman & Justin Credible, Doom and finally the Powers of Pain held it on the surviving ledger.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 6
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "icwc-intercontinental",
+  "type": "title",
+  "name": "ICWC Intercontinental Championship",
+  "promotion": "icwc",
+  "page": "/titles/icwc-intercontinental.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Named for Ultimate Warrior at the January 2008 launch, carried over from the discontinued UWF Intercontinental Championship. British Bulldog and Ricky Steamboat traded it before Edge won it on the surviving ledger.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 5
+   },
+   "author": "ai"
+  },
+  "restarted_from": "uwf-uwow-intercontinental"
+ },
+ {
+  "id": "icwc-us",
+  "type": "title",
+  "name": "ICWC United States Championship",
+  "promotion": "icwc",
+  "page": "/titles/icwc-us.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Established when Alpha Male won a tournament final over Ricky Steamboat. The served ledger's own table continues past that final with an unlabeled name sequence (Steamboat, Rey Mysterio, Tank Abbott, Steamboat, Finlay, Finlay, Chavo Guerrero Jr., Chavo Guerrero Jr., Alpha Male, Alpha Male, Rhyno, Alpha Male, X-Pac) whose WON BY/WON FROM/WHEN columns did not survive extraction cleanly and are not structured into reigns here.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  },
+  "notes": "The served title-history page's own United States Championship table breaks down after the tournament-final reign — a run of names with no surviving column structure. Left unstructured rather than guessed; see the epitaph."
+ },
+ {
+  "id": "icwc-womens",
+  "type": "title",
+  "name": "ICWC World Women's Championship",
+  "promotion": "icwc",
+  "page": "/titles/icwc-womens.html",
+  "collection": "0080",
+  "cadence": "standing",
+  "epitaph": "Vacant at the January 2008 launch, filled when Gail Kim won a five-woman elimination match. Awesome Kong, Mickie James and Awesome Kong again held it on the surviving ledger.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 4
+   },
+   "author": "ai"
+  }
+ }
+]

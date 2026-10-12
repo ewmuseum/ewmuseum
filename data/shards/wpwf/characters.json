@@ -1,0 +1,1952 @@
+[
+ {
+  "id": "bret-hart-wpwf",
+  "type": "character",
+  "name": "Bret Hart",
+  "portrays": {
+   "figure": "bret-hart-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "bret-hart-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Lost to Dan Severn at Battle of the Titans (attacked him before the bell, but Severn kicked out of a backslide and won with a belly-to-belly suplex after the referee was knocked out). Teamed with Steve Austin against Lex Luger and Chris Benoit at We Ain't Role Models."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with bret-hart-agw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "bret-hart-agw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "dan-severn-wpwf",
+  "type": "character",
+  "name": "Dan Severn",
+  "portrays": {
+   "figure": "dan-severn-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "dan-severn-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Beat Bret Hart at Battle of the Titans with a belly-to-belly suplex after the referee, James Beard, was knocked out mid-match."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with dan-severn-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "dan-severn-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-02).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ken-shamrock-wpwf",
+  "type": "character",
+  "name": "Ken Shamrock",
+  "portrays": {
+   "figure": "ken-shamrock-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "ken-shamrock-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Beat Ric Flair at Battle of the Titans with a kick and a short-arm scissors submission."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with ken-shamrock-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "ken-shamrock-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-02).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ric-flair-wpwf",
+  "type": "character",
+  "name": "Ric Flair",
+  "portrays": {
+   "figure": "ric-flair-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "ric-flair-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Lost to Ken Shamrock at Battle of the Titans (managed by Woman). Cut a promo in the 13 April interview issue announcing his move into Killer Inc. (managed by Jim Cornette, alongside Roddy Piper and the Midnight Express) after the Great Muta's departure."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with ric-flair-dreamcard (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "ric-flair-dreamcard"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "woman-wpwf",
+  "type": "character",
+  "name": "Woman",
+  "portrays": {
+   "figure": "woman-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "woman-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Managed Ric Flair at Battle of the Titans and Lex Luger at that same show, then Arn Anderson at We Ain't Role Models."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with woman-uwf-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "woman-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "A manager billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "saturn-wpwf",
+  "type": "character",
+  "name": "Saturn",
+  "portrays": {
+   "figure": "perry-saturn-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "perry-saturn-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Half of the Eliminators (with Kronus, managed by Francine); dominated Demolition's Ax with strikes before Kronus's Superplex finished the match."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with perry-saturn-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "perry-saturn-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-02).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kronus-wpwf",
+  "type": "character",
+  "name": "Kronus",
+  "portrays": {
+   "figure": "john-kronus-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "john-kronus-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Half of the Eliminators (with Saturn); pinned Smash with a top-rope Superplex at Battle of the Titans -- the show's own text spells the name 'Kronos.'"
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-02).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ax-wpwf",
+  "type": "character",
+  "name": "Ax",
+  "portrays": {
+   "figure": "ax-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "ax-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Half of Demolition (with Smash, managed by Sunny); lost to the Eliminators at Battle of the Titans."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with ax-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "ax-uwow"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-02).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "smash-wpwf",
+  "type": "character",
+  "name": "Smash",
+  "portrays": {
+   "figure": "smash-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "smash-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-02",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Half of Demolition (with Ax); pinned by Kronus's Superplex at Battle of the Titans."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with sergeant-smash (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "sergeant-smash"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-02).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "francine-wpwf",
+  "type": "character",
+  "name": "Francine",
+  "portrays": {
+   "figure": "francine-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "francine-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Managed the Eliminators and Vader at Battle of the Titans; cut a promo for her own stable (renamed the Ruthless Posse by 13 April) in both interview issues."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with francine-nwwa-1998 (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "francine-nwwa-1998"
+    ]
+   }
+  ],
+  "caption": "A manager billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sunny-wpwf",
+  "type": "character",
+  "name": "Sunny",
+  "portrays": {
+   "figure": "tammy-sytch-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "tammy-sytch-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-02",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Managed Demolition and Shawn Michaels, both at Battle of the Titans."
+   }
+  ],
+  "aka": [
+   "Sunny"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with tammy-sytch-uwf-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "tammy-sytch-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "A manager billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-02).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lex-luger-wpwf",
+  "type": "character",
+  "name": "Lex Luger",
+  "portrays": {
+   "figure": "lex-luger-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "lex-luger-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Lost to Vader at Battle of the Titans (managed by Woman; powerbombed on the concrete floor). Teamed with Chris Benoit to beat Bret Hart and Steve Austin at We Ain't Role Models."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with lex-luger-agw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "lex-luger-agw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "vader-wpwf",
+  "type": "character",
+  "name": "Vader",
+  "portrays": {
+   "figure": "big-van-vader-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "big-van-vader-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Beat Lex Luger at Battle of the Titans with a sunset flip (managed by Francine). Cut a Texas Death Match challenge promo against Terry Funk in the 13 April interview issue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with big-van-vader-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "big-van-vader-uwow"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "taz-wpwf",
+  "type": "character",
+  "name": "Taz",
+  "portrays": {
+   "figure": "tazz-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "tazz-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Beat Dean Malenko at Battle of the Titans with a fireman's carry after a baseball-bat brawl (managed by Francine). Cut promos in both interview issues and holds an open contract for Sunday Extreme."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with taz-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "taz-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dean-malenko-wpwf",
+  "type": "character",
+  "name": "Dean Malenko",
+  "portrays": {
+   "figure": "dean-malenko-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "dean-malenko-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Lost to Taz at Battle of the Titans. Teamed with Owen Hart against the Head Hunters at We Ain't Role Models (lost by countout)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with dean-malenko-agw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "dean-malenko-agw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "shawn-michaels-wpwf",
+  "type": "character",
+  "name": "Shawn Michaels",
+  "portrays": {
+   "figure": "shawn-michaels-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "shawn-michaels-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Lost to Sabu at Battle of the Titans (managed by Sunny; knocked out with a microphone). Cut a tag-team promo with Kevin Nash in the 13 April interview issue as part of Jimmy Hart's stable."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with shawn-michaels-agw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "shawn-michaels-agw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sabu-wpwf",
+  "type": "character",
+  "name": "Sabu",
+  "portrays": {
+   "figure": "sabu-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "sabu-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Beat Shawn Michaels at Battle of the Titans (a fire extinguisher, a moonsault; managed by Paul E. Dangerously). Beat Bam Bam Bigelow at We Ain't Role Models off Paul E.'s own interference."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with sabu-iwa-icon (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "sabu-iwa-icon"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "paul-e-dangerously-wpwf",
+  "type": "character",
+  "name": "Paul E. Dangerously",
+  "portrays": {
+   "figure": "paul-heyman-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "paul-heyman-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Managed Sabu at both Battle of the Titans and We Ain't Role Models (also managing the Head Hunters there), and cut promos for his own Extreme Team stable in both interview issues."
+   }
+  ],
+  "caption": "A manager billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hunter-hearst-helmsley-wpwf",
+  "type": "character",
+  "name": "Hunter Hearst Helmsley",
+  "portrays": {
+   "figure": "triple-h-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "triple-h-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-04-02",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-battle-of-the-titans-1997-04-02.html",
+    "note": "Cut a Diamond Club promo with Rick Rude challenging the Giant at Battle of the Titans; lost to the Giant in a Falls Count Anywhere match at We Ain't Role Models (managed by Kimberly). Cut a formation promo for the New Elite Horsemen in the 13 April interview issue."
+   }
+  ],
+  "aka": [
+   "HHH"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with hhh-faw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "hhh-faw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-04-02 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-giant-wpwf",
+  "type": "character",
+  "name": "The Giant",
+  "portrays": {
+   "figure": "paul-wight-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "paul-wight-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-info-1997-03-30.html",
+    "note": "Named on the fed's own 30 March roster; beat Hunter Hearst Helmsley in a Falls Count Anywhere match at We Ain't Role Models (managed by Mr. Fuji), countering a Pedigree attempt with a backdrop for the pin."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with the-giant-wcotw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "the-giant-wcotw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "yokozuna-wpwf",
+  "type": "character",
+  "name": "Yokozuna",
+  "portrays": {
+   "figure": "yokozuna-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "yokozuna-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-we-ain-t-role-models-card-1997-04-07.html",
+    "note": "Beat Arn Anderson in a No Disqualification match at We Ain't Role Models (managed by Mr. Fuji, whose own cane throw turned the finish)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with yokozuna-uwf-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "yokozuna-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mr-fuji-wpwf",
+  "type": "character",
+  "name": "Mr. Fuji",
+  "portrays": {
+   "figure": "mr-fuji-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "mr-fuji-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-info-1997-03-30.html",
+    "note": "Named on the fed's own manager roster; managed both Yokozuna and the Giant at We Ain't Role Models, throwing his own cane in to help Yokozuna win."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with mr-fuji-uwf-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "mr-fuji-uwf-uwow"
+    ]
+   }
+  ],
+  "caption": "A manager billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "owen-hart-wpwf",
+  "type": "character",
+  "name": "Owen Hart",
+  "portrays": {
+   "figure": "owen-hart-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "owen-hart-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-we-ain-t-role-models-card-1997-04-07.html",
+    "note": "Teamed with Dean Malenko against the Head Hunters at We Ain't Role Models (busted open by a baseball bat, counted out). Part of Jimmy Hart's stable in both interview issues, and cut a promo against Vader in the 13 April issue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with owen-hart-icwc (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "owen-hart-icwc"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "head-hunter-1-wpwf",
+  "type": "character",
+  "name": "Head Hunter #1",
+  "portrays": {
+   "figure": "head-hunter-1-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "head-hunter-1-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html",
+    "note": "Named on the fed's own 30 March roster and previewed for a 10 April card against Owen Hart and Dean Malenko; the served We Ain't Role Models card (7 April) has the Head Hunters (managed by Paul E. Dangerously) winning that match by countout after busting Owen Hart open with a baseball."
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "head-hunter-2-wpwf",
+  "type": "character",
+  "name": "Head Hunter #2",
+  "portrays": {
+   "figure": "head-hunter-2-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "head-hunter-2-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html",
+    "note": "Named on the fed's own 30 March roster; at We Ain't Role Models, brawled Dean Malenko to the outside and threw him back in for the Head Hunters' countout win."
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ahmed-johnson-wpwf",
+  "type": "character",
+  "name": "Ahmed Johnson",
+  "portrays": {
+   "figure": "ahmed-johnson-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "ahmed-johnson-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-we-ain-t-role-models-card-1997-04-07.html",
+    "note": "Half of the Powerhouses (with Davey Boy Smith); lost to the Legion of Doom at We Ain't Role Models."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with ahmed-johnson-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "ahmed-johnson-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "davey-boy-smith-wpwf",
+  "type": "character",
+  "name": "Davey Boy Smith",
+  "portrays": {
+   "figure": "british-bulldog-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "british-bulldog-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-we-ain-t-role-models-card-1997-04-07.html",
+    "note": "Half of the Powerhouses (with Ahmed Johnson); knocked out cold by Hawk's Doomsday Device at We Ain't Role Models."
+   }
+  ],
+  "aka": [
+   "The Bulldog"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with davey-boy-smith-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "davey-boy-smith-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "hawk-wpwf",
+  "type": "character",
+  "name": "Hawk",
+  "portrays": {
+   "figure": "road-warrior-hawk-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "road-warrior-hawk-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-07",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-we-ain-t-role-models-card-1997-04-07.html",
+    "note": "Part of the Legion of Doom (billed as the Road Warriors in the same result); pinned Davey Boy Smith with the Doomsday Device at We Ain't Role Models, managed by Mr. Fuji. Animal is named on the same roster but never individually credited acting in the servable corpus."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with hawk-icw-pweboard (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "hawk-icw-pweboard"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-07).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "arn-anderson-wpwf",
+  "type": "character",
+  "name": "Arn Anderson",
+  "portrays": {
+   "figure": "arn-anderson-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "arn-anderson-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-we-ain-t-role-models-card-1997-04-07.html",
+    "note": "Lost to Yokozuna in a No Disqualification match at We Ain't Role Models (managed by Woman; DDT'd Yokozuna on the floor but was hit with Mr. Fuji's cane). Cut the New Elite Horsemen's own formation promo in the 13 April interview issue."
+   }
+  ],
+  "aka": [
+   "Double A"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with arn-anderson-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "arn-anderson-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "chris-benoit-wpwf",
+  "type": "character",
+  "name": "Chris Benoit",
+  "portrays": {
+   "figure": "chris-benoit-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "chris-benoit-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-we-ain-t-role-models-card-1997-04-07.html",
+    "note": "Teamed with Lex Luger to beat Bret Hart and Steve Austin at We Ain't Role Models (a Tombstone Piledriver and Dragon Suplex on Austin). Joined the New Elite Horsemen in the 13 April interview issue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with chris-benoit-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "chris-benoit-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "steve-austin-wpwf",
+  "type": "character",
+  "name": "Steve Austin",
+  "portrays": {
+   "figure": "stone-cold-steve-austin-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "stone-cold-steve-austin-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-we-ain-t-role-models-card-1997-04-07.html",
+    "note": "Lost, teamed with Bret Hart, to Lex Luger and Chris Benoit at We Ain't Role Models (busted open by a Tombstone Piledriver). Joined the New Elite Horsemen in the 13 April interview issue, cutting a lengthy promo naming Arn Anderson and Shawn Michaels."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with steve-austin-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "steve-austin-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "al-snow-wpwf",
+  "type": "character",
+  "name": "Al Snow",
+  "portrays": {
+   "figure": "al-snow-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "al-snow-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-04-11",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/rp/wpwf-interviews-4-11-97-1997-04-11.html",
+    "note": "Part of Jimmy Hart's stable in both interview issues; cut a promo challenging Chris Benoit to a Texas Death Match in the 13 April issue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with al-snow-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "al-snow-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-04-11 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kevin-nash-wpwf",
+  "type": "character",
+  "name": "Kevin Nash",
+  "portrays": {
+   "figure": "kevin-nash-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "kevin-nash-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-04-11",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/rp/wpwf-interviews-4-11-97-1997-04-11.html",
+    "note": "Part of Jimmy Hart's stable in both interview issues; cut a tag-team promo with Shawn Michaels in the 13 April issue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with kevin-nash-ewa-email (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "kevin-nash-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-04-11 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "terry-gordy-wpwf",
+  "type": "character",
+  "name": "Terry Gordy",
+  "portrays": {
+   "figure": "terry-gordy-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "terry-gordy-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-04-11",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/rp/wpwf-interviews-4-11-97-1997-04-11.html",
+    "note": "Part of Francine's stable (renamed the Ruthless Posse by 13 April) in both interview issues; cut a promo as part of that group's own challenge to the Midnight Express in the 13 April issue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with terry-gordy-rswa (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "terry-gordy-rswa"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-04-11 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "steve-williams-wpwf",
+  "type": "character",
+  "name": "Steve Williams",
+  "portrays": {
+   "figure": "steve-williams-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "steve-williams-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-04-11",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/rp/wpwf-interviews-4-11-97-1997-04-11.html",
+    "note": "Part of Francine's stable (renamed the Ruthless Posse by 13 April) in both interview issues; billed as 'Doc,' cut a promo challenging the Midnight Express in the 13 April issue."
+   }
+  ],
+  "aka": [
+   "Dr. Death",
+   "Doc"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with steve-williams-lcw-1997 (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "steve-williams-lcw-1997"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-04-11 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jimmy-hart-wpwf",
+  "type": "character",
+  "name": "Jimmy Hart",
+  "portrays": {
+   "figure": "jimmy-hart-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "jimmy-hart-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-04-11",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/wpwf/rp/wpwf-interviews-4-11-97-1997-04-11.html",
+    "note": "Named manager of his own stable (Al Snow, Shawn Michaels, Kevin Nash, Owen Hart) in both interview issues; cut promos in the 13 April issue backing Owen Hart and Al Snow."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with jimmy-hart-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "jimmy-hart-uwow"
+    ]
+   }
+  ],
+  "caption": "A manager billed by WPWF in the surviving 1997 Usenet record (1997-04-11 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brian-pillman-wpwf",
+  "type": "character",
+  "name": "Brian Pillman",
+  "portrays": {
+   "figure": "brian-pillman-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "brian-pillman-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-04-11",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/rp/wpwf-interviews-4-11-97-1997-04-11.html",
+    "note": "Part of the New Elite Horsemen (chart-listed in both interview issues); cut a 'loose cannon' promo in the 13 April issue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with brian-pillman-dreamcard (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "brian-pillman-dreamcard"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-04-11 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "terry-funk-wpwf",
+  "type": "character",
+  "name": "Terry Funk",
+  "portrays": {
+   "figure": "terry-funk-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "terry-funk-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-04-11",
+    "last_seen": "1997-04-13",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/rp/wpwf-interviews-4-11-97-1997-04-11.html",
+    "note": "Part of Paul E. Dangerously's Extreme Team in both interview issues; cut a hardcore promo in the 11 April issue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with terry-funk-agw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "terry-funk-agw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-04-11 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "raven-wpwf",
+  "type": "character",
+  "name": "Raven",
+  "portrays": {
+   "figure": "raven-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "raven-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-11",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html; promotions/wpwf/archive/wpwf-info-1997-03-30.html",
+    "note": "Named on the fed's own 30 March roster; cut a promo billing himself 'former ECW World Champion' as part of the Extreme Team in the 11 April interview issue."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with euwc-raven (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "euwc-raven"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-11).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mr-perfect-wpwf",
+  "type": "character",
+  "name": "Mr. Perfect",
+  "portrays": {
+   "figure": "curt-hennig-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "curt-hennig-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-27",
+    "last_seen": "1997-03-30",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-27.html",
+    "note": "Named a taken wrestler in the 27 March recruitment ad and again on the full 30 March roster; no match or roleplay appearance survives in the held record's WPWF holdings."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with curt-hennig-dreamcard (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "curt-hennig-dreamcard"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-27 1997-03-30).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sting-wpwf",
+  "type": "character",
+  "name": "Sting",
+  "portrays": {
+   "figure": "sting-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "sting-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html",
+    "note": "Named on the fed's own 30 March roster and again (zero interviews) in the 13 April interview-count chart, alongside Glacier, Sid and the Undertaker; no match or roleplay appearance survives in the held record's WPWF holdings."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with sting-action-extreme-wrestling (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "sting-action-extreme-wrestling"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "undertaker-wpwf",
+  "type": "character",
+  "name": "The Undertaker",
+  "portrays": {
+   "figure": "the-undertaker-real",
+   "grade": "primary-source",
+   "note": "Billed under this real ring name in WPWF's own served card text."
+  },
+  "portrayal_of": "the-undertaker-real",
+  "tenures": [
+   {
+    "promotion": "wpwf",
+    "first_seen": "1997-03-30",
+    "last_seen": "1997-04-13",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wpwf/archive/wpwf-info-1997-03-30.html",
+    "note": "Named on the fed's own 30 March roster and again (zero interviews) in the 13 April interview-count chart, alongside Glacier, Sid and Sting; no match or roleplay appearance survives in the held record's WPWF holdings."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with the-undertaker-apw (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per the per-promotion portrayal rule. The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "the-undertaker-apw"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by WPWF in the surviving 1997 Usenet record (1997-03-30 1997-04-13).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

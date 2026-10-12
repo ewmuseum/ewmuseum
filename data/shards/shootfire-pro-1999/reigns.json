@@ -1,0 +1,111 @@
+[
+ {
+  "id": "shootfire-pro-1999-heavyweight-championship-r1",
+  "title": "shootfire-pro-1999-heavyweight-championship",
+  "label": "\"Flaming\" Bob Muretic",
+  "holder": [
+   {
+    "id": "bob-muretic-shootfire-pro-1999"
+   }
+  ],
+  "won": {
+   "date": "1999-10-31",
+   "precision": "exact",
+   "source": "the federation's own 1 December 1999 update bulletin, recapping its 31 October 1999 Halloween Scream event"
+  },
+  "days": null,
+  "lost": null,
+  "event": "shootfire-pro-1999-halloween-scream-1999",
+  "end_how": "still-champion-at-record-end",
+  "note": "Still billed as champion in the federation's own 1 December 1999 update, with a title defense pending against a since-injured top contender."
+ },
+ {
+  "id": "shootfire-pro-1999-diamond-title-lucchesi",
+  "title": "shootfire-pro-1999-diamond-title",
+  "label": "Todd Lucchesi",
+  "holder": [
+   {
+    "id": "todd-lucchesi-shootfire-pro-1999"
+   }
+  ],
+  "won": {
+   "date": "2002-03-27",
+   "precision": "exact",
+   "source": "Legacy, posted 27 March 2002."
+  },
+  "days": null,
+  "lost": null,
+  "how": "House of Anarchy three-way over Andrew Davis and Eric Henry",
+  "event": "shootfire-pro-1999-legacy-2002-03-27",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "shootfire-pro-1999-diamond-title-henry-davis",
+  "title": "shootfire-pro-1999-diamond-title",
+  "label": "Eric Henry and Andrew Davis (co-champions)",
+  "holder": [
+   {
+    "id": "eric-henry-iga-2003"
+   },
+   {
+    "id": "andrew-davis-rspwf"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Andrew Davis's own Legacy promo: the two won it from Dylan Dice at Endgame."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-03-27",
+   "precision": "exact"
+  },
+  "how": "won from Dylan Dice at Endgame",
+  "event": null,
+  "note": "Held jointly as co-champions; the date of Endgame is not given.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "shootfire-pro-1999-platinum-title-brians",
+  "title": "shootfire-pro-1999-platinum-title",
+  "label": "Gregory Brians",
+  "holder": [
+   {
+    "id": "gregory-brians-shootfire-pro-1999"
+   }
+  ],
+  "won": {
+   "date": "2002-03-27",
+   "precision": "exact",
+   "source": "Legacy, posted 27 March 2002."
+  },
+  "days": null,
+  "lost": null,
+  "how": "half-hour Ironman match over AsH, five falls to four",
+  "event": "shootfire-pro-1999-legacy-2002-03-27",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "shootfire-pro-1999-platinum-title-ash",
+  "title": "shootfire-pro-1999-platinum-title",
+  "label": "AsH",
+  "holder": [
+   {
+    "id": "ash-shootfire-pro-1999"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Legacy introduces AsH as the Platinum Champion; how and when he won it is not given."
+  },
+  "days": null,
+  "lost": {
+   "date": "2002-03-27",
+   "precision": "exact"
+  },
+  "event": null,
+  "end_how": "lost-in-match"
+ }
+]

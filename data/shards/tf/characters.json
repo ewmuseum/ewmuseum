@@ -1,0 +1,669 @@
+[
+ {
+  "id": "adriano-kaitos",
+  "type": "character",
+  "name": "Adriano Kaitos",
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-03",
+    "last_seen": "2003-04",
+    "role": "C.E.O. — the promotion's own in-character owner, founder and newsdesk byline",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "the fed's own members page, which lists him under \"In Character Staff\" as \"C.E.O: Adriano Kaitos\" (promotions/tf/archive/members-2003.html); its Concept page (promotions/tf/archive/concept-2003.html); and both Chapters (promotions/tf/archive/chapters-1.html, chapters-2.html)",
+    "note": "The Concept page bills him as a Greek fighter who \"has won many championships among Greece and other countries\" and established the promotion with financial help. The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "TRAUMA:fighting's own C.E.O. — a Greek fighter who bought a steel cage, hauled it across New Jersey on a borrowed lumber truck and installed it in a warehouse before the promotion had staged a single fight.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "carson-nash",
+  "type": "character",
+  "name": "Carson Nash",
+  "aka": [
+   "Chris Nash"
+  ],
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "fighter — fought “Hysteria” Tony Anderson on House Show 1; the results post records both men fired",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'7",
+    "weight": "271 lbs",
+    "hometown": "Vancouver, Alberta, Canada",
+    "alignment": "Neutral",
+    "style": "Trained",
+    "source": "the fighter's own roster card, http://tf.ewmania.com/cgi-bin/roster.cgi?name=daniel (promotions/tf/archive/roster-card-carson-nash.html)",
+    "note": "The card's own bio reads \"Information Coming Soon!\"; its Nicknames field repeats his ring name; its hometown places Vancouver in Alberta. All three stand as the fed wrote them. The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   },
+   {
+    "promotion": "threat",
+    "first_seen": "2003-08-02",
+    "last_seen": "2003-08-23",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "height": "6 feet, 7 inches.",
+    "weight": "271 pounds.",
+    "source": "thReat's show pages name it from Sunday Night Flaw 25 (2 August 2003) to Double Or Nothing 2003 (23 August 2003); its roster card, threat.theewe.net/cgi-bin/profile.cgi?carsonna"
+   },
+   {
+    "promotion": "action-2002",
+    "first_seen": "2003-10-07",
+    "last_seen": "2003-11-10",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Born in Vancouver, BC, Canada. Resides in Ventura, California",
+    "height": "6'7'",
+    "weight": "271",
+    "style": "Hardcore Technician whom shows no mercy",
+    "finisher": "1.",
+    "nicknames": "'Untouchable', 'Give Up On Me'",
+    "entrance_music": {
+     "verbatim": "Black Label Society's 'Counterfeit God'"
+    },
+    "grade": "primary-source",
+    "source": "Action! Wrestling's own backstage database (accession 0159), bio 9949 — its own biography card and its own appearance record: 3 match and 8 segment appearances over 5 of its cards",
+    "note": "Its whole period in this federation, from the federation's own record: 11 appearances over 5 shows, 2003-10-07 to 2003-11-10.",
+    "alignment": "Heel"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 6-foot-7 Canadian whose card was filled in everywhere but the bio, and who was fired alongside “Hysteria” Tony Anderson after their fight on House Show 1.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "carson-nash-kcw-knoxville-2001"
+    ],
+    "note": "Shares the name; no document names both."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Action! Wrestling's own biography card (accession 0159) is this record: the same character carried by its own hand into this federation's record."
+   }
+  ]
+ },
+ {
+  "id": "colin-gear",
+  "type": "character",
+  "name": "Colin Gear",
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "fighter — won the main event of House Show 1 over Phoenix Rose",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6' 0'",
+    "weight": "227 lbs",
+    "hometown": "Glasgow, Scotland",
+    "alignment": "Neutral",
+    "manager": "Phil Atken",
+    "style": "Brawler",
+    "finisher": "Screw This! (Suplex into inverted piledriver (Screwdriver))",
+    "entrance_music": {
+     "verbatim": "Perfect Stranger- Deep Purple",
+     "title": "Perfect Stranger",
+     "artist": "Deep Purple",
+     "corrected": "\"Perfect Strangers\" by Deep Purple"
+    },
+    "signature_moves": [
+     "Left Punch",
+     "Right Punch",
+     "Left Kick",
+     "Right Kick",
+     "Shin Kick of Doom",
+     "Front Face Lock",
+     "Elbows to the face"
+    ],
+    "source": "the fighter's own roster card, http://tf.ewmania.com/cgi-bin/roster.cgi?name=Colin (promotions/tf/archive/roster-card-colin-gear.html)",
+    "note": "Billed with the nickname \"'Hey you! You suck!'\"; his set-up move is Best. Move. EVER (Kick in the nuts). His card names cWo, IWO, DML and IWO Black among his previous federations, and his own roleplay has cWo shutting down on his booking. The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A Glasgow brawler who arrived at TRAUMA:fighting jobless, his own roleplay blaming his booking for closing the promotion he came from, and won its only main event.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "criminal-intent-tf",
+  "type": "character",
+  "name": "Criminal Intent",
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-03",
+    "last_seen": "2003-04",
+    "role": "fighter — lost the opening fight of House Show 1 to DaShea Strong",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'4",
+    "weight": "250 lbs",
+    "hometown": "NY City, NY",
+    "alignment": "Neutral",
+    "style": "Street Fighter",
+    "finisher": "The Electric Chair (F-5 into a Neck-Braker)",
+    "entrance_music": {
+     "verbatim": "'Kill You' by Eminem",
+     "title": "Kill You",
+     "artist": "Eminem",
+     "corrected": "\"Kill You\" by Eminem"
+    },
+    "signature_moves": [
+     "Know for his punching"
+    ],
+    "source": "the fighter's own roster card, http://tf.ewmania.com/cgi-bin/roster.cgi?name=intent (promotions/tf/archive/roster-card-criminal-intent.html)",
+    "note": "The card gives his real name as \"With-held By Police\" and writes his whole bio with the name struck out — \"*censored by police*\" — as part of the gimmick. The bio also has the owner of Trauma Fighting personally visiting the penitentiary to take him out of a life sentence. The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A street fighter serving life for manslaughter, taken out of prison to fight in the Cage, whose bio censors his own name in every sentence it uses it.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "damon-washington",
+  "type": "character",
+  "name": "Damon “The Black Panther” Washington",
+  "aka": [
+   "The Black Panther"
+  ],
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "fighter",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6`3",
+    "weight": "235 lbs",
+    "hometown": "Chicago",
+    "alignment": "Face",
+    "manager": "Sam Rock",
+    "style": "Freestyle wrestling and Street fighting",
+    "finisher": "The Fury (As his opponent lays on the ground Damon straddles there chest with there arms pinned to there side so they cannot get out. Damon then begins to slam his elbows into his opponents face until they pass out or tap out)",
+    "entrance_music": {
+     "verbatim": "Murder Rap-Insane Clown Posse",
+     "title": "Murder Rap",
+     "artist": "Insane Clown Posse"
+    },
+    "signature_moves": [
+     "shoulder tackle",
+     "running elbow",
+     "grab head and knee to face",
+     "step side kick to chin",
+     "right hook",
+     "uppercut",
+     "punch to throat",
+     "arm bar",
+     "rear naked choke",
+     "choke hold"
+    ],
+    "source": "the fighter's own roster card, http://tf.ewmania.com/cgi-bin/roster.cgi?name=DW (promotions/tf/archive/roster-card-damon-washington.html)",
+    "note": "His set-up move is The Beginning of the End. His bio has him adopted, searching the United States for his birth parents, trained by Sam Rock and holding the championship of an underground fighting promotion called Stix. The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A Chicago freestyle wrestler and reigning champion of an underground promotion called Stix, searching the country for the parents who gave him up.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dashea-strong",
+  "type": "character",
+  "name": "DaShea Strong",
+  "aka": [
+   "DaShea Takeo Strong"
+  ],
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-03",
+    "last_seen": "2003-04",
+    "role": "fighter — won the opening fight of House Show 1 over Criminal Intent",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'4'",
+    "weight": "317 lbs",
+    "hometown": "Johnstown, Pennsylvania",
+    "alignment": "Heel",
+    "style": "Judo Specialist/Submissionist/Brawler",
+    "finisher": "Uncontrolled RAGE (Uppercut followed by a right-left hook combo)",
+    "entrance_music": {
+     "verbatim": "'Thugz Mansion' by TuPac",
+     "title": "Thugz Mansion",
+     "artist": "TuPac",
+     "corrected": "\"Thugz Mansion\" by 2Pac"
+    },
+    "signature_moves": [
+     "Morote Seoinage - Two Arm Shoulder Throw",
+     "Uchi Mata - Inner Thigh Throw",
+     "Yoko Guruma - Side Wheel",
+     "Yama Arashi - Mountain Storm",
+     "Hane Goshi - Spring Hip Throw",
+     "Harai Goshi - Sweeping Hip Throw",
+     "Ashi Guruma - Leg Wheel",
+     "Triangle Choke",
+     "Half-Nelson Choke",
+     "Ankle Lock",
+     "Shoulder Wrench",
+     "Reverse Triangle Choke",
+     "Mune tsuki - Straight thrust (punch) to the chest",
+     "Men tsuki - Straight thrust (punch) to the face",
+     "Atemi - Strike to a vital point"
+    ],
+    "source": "the fighter's own roster card, http://tf.ewmania.com/cgi-bin/roster.cgi?name=DStrong (promotions/tf/archive/roster-card-dashea-strong.html)",
+    "note": "The fed's own results post spells him \"Dashea Strong\"; his card spells him \"DaShea\". His set-up move is repeated shoulders to the opponent's ribcage. The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A 317-pound judo specialist out of Johnstown, Pennsylvania, carrying fifteen named throws and a rage his own bio traces to his parents' murder, who won the first fight TRAUMA:fighting ever staged.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "joe-wise",
+  "type": "character",
+  "name": "Joe Wise",
+  "aka": [
+   "Joseph Wise",
+   "The Rookie",
+   "Wise Guy"
+  ],
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "fighter — lost to Wednesday on House Show 1",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'11",
+    "weight": "225 lbs",
+    "hometown": "East St. Louis, IL",
+    "alignment": "Neutral",
+    "style": "Aikido elements mixed with Submission/Street Fighting.",
+    "finisher": "The Wise Choice (Joe tackles his opponent to the ground so that they are lying on their stomach. He then applies a full nelson Whilst raising the victims torso off the ground as in a camel clutch. (Back Mounted Full Nelson))",
+    "entrance_music": {
+     "verbatim": "'Backwards' Apartment 26",
+     "title": "Backwards",
+     "artist": "Apartment 26",
+     "corrected": "\"Backwards\" by Apartment 26"
+    },
+    "source": "the fighter's own roster card, http://tf.ewmania.com/cgi-bin/roster.cgi?name=joewise (promotions/tf/archive/roster-card-joe-wise.html)",
+    "note": "His bio has him discovering \"tF: traumaFIGHTING\" on television as a child, alongside the WWF, and being scouted by it on 12 January 2003 the day he lost an amateur final. The card's own \"Other Federation Awards\" field reads \"Can't Remember:)\". The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "An East St. Louis amateur wrestler whose bio has him watching TRAUMA:fighting on television as a child and being scouted by it the day he lost an amateur final.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mr-blaze-tf",
+  "type": "character",
+  "name": "Mr. Blaze",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "with": [
+     "blaze"
+    ],
+    "note": "A TRAUMA:fighting competitor and in-character staff member listed on the fed's own members page of April 2003. A separate character from the GIWF/UWF wrestler billed Blaze; the shared word is the whole of the resemblance."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "fighter, and in-character staff — \"Position to be announced\"",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own members page, which lists him seventh among its competitors and again under \"In Character Staff\" as \"Position to be announced: Mr.Blaze\" (promotions/tf/archive/members-2003.html)",
+    "note": "His roster card was captured on 20 April 2003 with every field on it empty and its bio reading \"Information Coming Soon!\", so it is not served. The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "caption": "Listed twice on TRAUMA:fighting's own members page — once among its competitors, once as in-character staff with a position still to be announced.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "nick-davis",
+  "type": "character",
+  "name": "Nick Davis",
+  "aka": [
+   "William Nick Davis"
+  ],
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "fighter",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'1",
+    "weight": "223 lbs",
+    "hometown": "Los Angeles, CA",
+    "alignment": "Neutral",
+    "style": "Boxing/Kickboxing",
+    "finisher": "'Random At Best' (The victim is bent over whilst standing. The attacker stands over the bent victim and simultaneously drives his knee to the face and elbow to the back of the head knocking the victim unconscious)",
+    "signature_moves": [
+     "haymaker to crown of the skull",
+     "elbow to crown of the skull",
+     "punching down between the shoulder blades to opponent on their stomach",
+     "opponent on their back he hits them with a double axe handle to the heart",
+     "repeated jabs to the cheek bone",
+     "repeated kicks to the thighs"
+    ],
+    "source": "the fighter's own roster card, http://tf.ewmania.com/cgi-bin/roster.cgi?name=Davis (promotions/tf/archive/roster-card-nick-davis.html)",
+    "note": "Billed \"All Natural\"; his set-up move is 'Strange Plan' (Superkick). The card's own bio reads \"Information Coming Soon!\", and his roleplay is titled \"test\". The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A Los Angeles boxer-kickboxer billed “All Natural”, whose finisher drives a knee and an elbow into a bent opponent at once.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "phoenix-rose-tf",
+  "type": "character",
+  "name": "Phoenix Rose",
+  "aka": [
+   "Marcus Steiner",
+   "Rosey"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "with": [
+     "jay-phoenix",
+     "phoenix-iwf",
+     "phoenix-ewa-extreme",
+     "stein-napw"
+    ],
+    "note": "A TRAUMA:fighting fighter billed out of Manchester, England and resident in Tampa Bay, with a career his own card traces through FWF, DWF, EyE and OWL and a kayfabe real name of Marcus Steiner. He is a separate character from every other Phoenix on file, and from Stein; the shared word is the whole of the resemblance, and nothing in TRAUMA:fighting's own record connects him to any of them."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-03",
+    "last_seen": "2003-04",
+    "role": "fighter — lost the main event of House Show 1 to Colin Gear",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5 feet 10",
+    "weight": "220 lbs",
+    "hometown": "Manchester, England (currently resides in Tampa Bay, Florida)",
+    "alignment": "Face",
+    "style": "Brawling athleticism. A mix of professional and amature wrestling moves along with a twist of Jiu-Jitsu",
+    "finisher": "Rosearana (Opponent standing, Phoenix jumps up, pulling opponents right arm, he wraps his legs around the head and armpit of opponent in a guillotine choke hold before pulling himself up to be sat on opponents shoulder, he dives off the shoulders and pulls opponent in to single arm DDT, then locks in full body scissors.)",
+    "entrance_music": {
+     "verbatim": "Private eye - Alkaline trio",
+     "title": "Private eye",
+     "artist": "Alkaline trio",
+     "corrected": "\"Private Eye\" by Alkaline Trio"
+    },
+    "source": "the fighter's own roster card, http://tf.ewmania.com/cgi-bin/roster.cgi?name=phoenix (promotions/tf/archive/roster-card-phoenix-rose.html)",
+    "note": "The card's own \"Current Teams\" field carries a move description rather than a team, and its \"Signature Moves\" field is empty — the description appears to have been entered in the wrong slot. Its \"Set Up Move\" is The Ash Tray (Bicep curl toss). The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A Manchester thief turned Tampa Bay headliner, billed as returning from a death staged in another promotion, who lost TRAUMA:fighting's only main event to Colin Gear.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tony-anderson-tf",
+  "type": "character",
+  "name": "“Hysteria” Tony Anderson",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "with": [
+     "anderson-uwf"
+    ],
+    "note": "A TRAUMA:fighting fighter billed out of Manchester, England in March–April 2003, named on the fed's own members page, its House Show 1 results and its roleplay index. A separate character from the UWF commentator billed Anderson; the shared surname is the whole of the resemblance."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "fighter — fought Carson Nash on House Show 1; the results post records both men fired",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own members page, which bills him third among its competitors (promotions/tf/archive/members-2003.html), its House Show 1 results (promotions/tf/archive/house-show-1-2003-04-19.html), and its roleplay index, which lists his \"An Introduction\", roleplay #8, located in \"Machester, England\"",
+    "note": "His roster card, at cgi-bin/roster.cgi?name=hysteria, was never captured; everything held about him comes from the fed's own listings rather than a bio of his own. The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed out of Manchester as “Hysteria”, he fought Carson Nash on TRAUMA:fighting's only staged card and the promotion's own results announced both men fired.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "wednesday-tf",
+  "type": "character",
+  "name": "Wednesday",
+  "aka": [
+   "Wednesday Adam Hill"
+  ],
+  "tenures": [
+   {
+    "promotion": "tf",
+    "first_seen": "2003-04",
+    "last_seen": "2003-05",
+    "role": "fighter — beat Joe Wise on House Show 1",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'11'",
+    "weight": "200 lbs",
+    "hometown": "Dallas, Tx",
+    "alignment": "Heel",
+    "style": "Aggressive Brawler",
+    "finisher": "Shock the Monkey (With opponent is chest first on the ground, Wednesday gets on their back, and delivers several punches to opponents kidneys. Wednesday will do this until opponent tapes out.)",
+    "entrance_music": {
+     "verbatim": "'Shock the Monkey' by Coal Chamber",
+     "title": "Shock the Monkey",
+     "artist": "Coal Chamber",
+     "corrected": "\"Shock the Monkey\" by Coal Chamber"
+    },
+    "signature_moves": [
+     "punches to the nose",
+     "jabs",
+     "uppercut",
+     "kick to the neck",
+     "sidekick",
+     "inside crescent kick",
+     "roundhouse kick",
+     "step kick",
+     "thrust kick",
+     "axe kick",
+     "lift-and-drop",
+     "spear",
+     "running superkick",
+     "running high kick to the face",
+     "mounted punches",
+     "mounted knuckle arrow",
+     "rear naked choke",
+     "figure-four arm bar",
+     "eye-gouging",
+     "choke-out"
+    ],
+    "source": "the fighter's own roster card, http://tf.ewmania.com/cgi-bin/roster.cgi?name=wednesday (promotions/tf/archive/roster-card-wednesday.html)",
+    "note": "His card lists four roleplays, two of them — #23, \"what the f*ck happened?\", and #25, \"beautiful and ugly\" — numbered past everything on the fed's own roleplay index of 20 April 2003, which stops at #13 — the only evidence in the held record of TRAUMA:fighting still producing content after that date. The card's own \"Other Federations\" field names FW and \"UwF\". The dates span the earliest and the latest held document that names this character; the promotion's own record is bounded by the archive's capture window (18 March – 29 May 2003), not by anything it said about itself."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A Dallas pit fighter named for the day he was born, who beat Joe Wise on TRAUMA:fighting's only staged card and wrote four of its roleplays, more than anyone else on its roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

@@ -1,0 +1,57 @@
+# THE E-WRESTLING MUSEUM — mirror job.
+#
+# Redundancy upon redundancy, everything built to outlast us: every push to
+# main is mirrored, whole (all branches, all tags, full history), to every
+# configured mirror remote. The museum's canonical home is wherever the most
+# people can reach a complete copy — which is to say: everywhere.
+#
+# To add a mirror:
+#   1. Create an empty repo on the far host (GitLab, Codeberg, anywhere git).
+#   2. Make a token there with write/push scope.
+#   3. `gh secret set MIRROR_URL_GITLAB` (or _CODEBERG, or add a new step
+#      below) with the full authenticated URL, e.g.
+#      https://oauth2:TOKEN@gitlab.com/USER/REPO.git
+# A missing/empty secret skips its step harmlessly — mirrors activate the
+# moment their secret exists. Nothing else to configure.
+
+name: Mirror
+# hook c161 (2026-10-08): weekly instead of on every push (each run clones the full history: 6-15 minutes of Actions time).
+# The mirror stays whole; it is at most a week behind. Run it by hand from the Actions tab when wanted.
+on:
+  schedule:
+    - cron: "17 11 * * 0"
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    # secrets aren't readable inside step `if:` expressions — map them to
+    # job env once, gate steps on env (the 2026-08-17 every-push-failure).
+    env:
+      GITLAB_URL: ${{ secrets.MIRROR_URL_GITLAB }}
+      CODEBERG_URL: ${{ secrets.MIRROR_URL_CODEBERG }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Not --mirror: an Actions checkout carries remote-tracking refs
+      # (refs/remotes/origin/*) that hosts reject as hidden refs — the
+      # 2026-08-23 first-arming failure. Branches and tags are the mirror.
+      - name: Mirror to GitLab
+        if: ${{ env.GITLAB_URL != '' }}
+        run: git push --force "$GITLAB_URL" 'refs/heads/*:refs/heads/*' 'refs/tags/*:refs/tags/*'
+
+      # CODEBERG STEP NON-BLOCKING (2026-08-26): every push has been rejected
+      # by Codeberg's pre-receive hook since the repo's pack crossed ~690MB
+      # (their free-tier size neighborhood) — the museum outgrew the mirror,
+      # and each red run emailed the Janitor. continue-on-error keeps the
+      # attempt (and its log) without failing the workflow, until either
+      # Codeberg grants an archival-project exemption (the Janitor's errand:
+      # their support is friendly to preservation projects) or the mirror
+      # moves to a roomier host. GitLab (10GB limit) continues to mirror
+      # every push successfully and is the live redundancy.
+      - name: Mirror to Codeberg
+        if: ${{ env.CODEBERG_URL != '' }}
+        continue-on-error: true
+        run: git push --force "$CODEBERG_URL" 'refs/heads/*:refs/heads/*' 'refs/tags/*:refs/tags/*'

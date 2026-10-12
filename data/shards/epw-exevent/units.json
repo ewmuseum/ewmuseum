@@ -1,0 +1,193 @@
+[
+ {
+  "id": "total-mayhem-epw-exevent",
+  "type": "unit",
+  "name": "Total Mayhem",
+  "tenures": [
+   {
+    "promotion": "epw-exevent",
+    "first_seen": "2004-08-02",
+    "last_seen": "2004-08-20",
+    "source": "EPW's own pages, captured by the Wayback Machine (lot 0177)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own captured pages (lot 0177): first the fed's news post of 2 August 2004; last the Aggression page for 20 August 2004. Its bio in the fed's database (lot 0159), bio 11319, is a name only and holds no dated appearance, so no span comes from it. The roster page captured 29 October 2004 lists Total Mayhem among its Tag Teams."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "total-mayhem-ewa-empire"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this record; recurring gimmick names were common across independent federations in this era."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "Total Mayhem, listed on EPW's roster as a tag team, was booked to debut in the week of 2 August 2004 and to face Shawn Singleton in a Handicap Match on 20 August 2004.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mephisto-and-showstopper-epw-exevent",
+  "type": "unit",
+  "name": "Mephisto and Showstopper",
+  "tenures": [
+   {
+    "promotion": "epw-exevent",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "EPW's own pages, captured by the Wayback Machine (lot 0177)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Named in the fed's own captured title history (lot 0177) with no date. Its bio in the fed's database (lot 0159), bio 11322, is a name only and holds no dated appearance, so no span comes from it."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "mephisto-epw-exevent"
+   },
+   {
+    "character_id": "showstopper-epw-exevent"
+   }
+  ],
+  "caption": "Mephisto and Show Stopper held the EPW Tag Team Championship in the title's fourth reign, which its history page records without a date.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "stryker-and-devildriver-epw-exevent",
+  "type": "unit",
+  "name": "Stryker and Devildriver",
+  "tenures": [
+   {
+    "promotion": "epw-exevent",
+    "first_seen": "2003-08-28",
+    "last_seen": "2003-08-28",
+    "source": "EPW's own pages, captured by the Wayback Machine (lot 0177)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own captured pages (lot 0177): the Tag Team Championship history (won 28 August 2003). Its bio in the fed's database (lot 0159), bio 11324, is a name only and holds no dated appearance, so no span comes from it."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Mike Stryker",
+    "character_id": "mike-stryker-epw-exevent"
+   },
+   {
+    "name": "Devildriver",
+    "character_id": "devildriver-epw-exevent"
+   }
+  ],
+  "caption": "Mike Stryker and Devildriver won the EPW Tag Team Championship on 28 August 2003, in the title's second reign.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "soa-epw-exevent",
+  "type": "unit",
+  "name": "SOA",
+  "tenures": [
+   {
+    "promotion": "epw-exevent",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "EPW's own biography list, in Argyle's backstage database (lot 0159)",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Named only by its bio in the fed's database (lot 0159), bio 11323, which Argyle's answer of 1 October 2026 (1452Z) gives as original to the fed; no captured page names it, so no date is given."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "SOA is on EPW's own biography list as a tag team, with no date.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tna-epw-exevent",
+  "type": "unit",
+  "name": "TNA",
+  "tenures": [
+   {
+    "promotion": "epw-exevent",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "source": "EPW's own biography list, in Argyle's backstage database (lot 0159)",
+    "grade": "billing",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Named only by its bio in the fed's database (lot 0159), bio 11325, which Argyle's answer of 1 October 2026 (1452Z) gives as original to the fed; no captured page names it, so no date is given."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "TNA is on EPW's own biography list as a tag team, with no date.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

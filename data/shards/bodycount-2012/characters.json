@@ -1,0 +1,711 @@
+[
+ {
+  "id": "viktor-reise-bodycount-2012",
+  "type": "character",
+  "name": "Viktor Reise",
+  "caption": "A German heavyweight billed as BodyCount's own national hero, who won every bout of the first Warrior Grand Prix by knockout or stoppage to become its first champion.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-10-21",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012) and its round-by-round Warrior Grand Prix results columns, all served"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (viktor-reise-cswa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "viktor-reise-cswa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jakob-alexander-bodycount-2012",
+  "type": "character",
+  "name": "Jakob Alexander",
+  "aka": [
+   "Weapon X"
+  ],
+  "caption": "A middleweight billed 'Weapon X,' who won three straight Warrior Grand Prix bouts by decision, submission-defense and knockout before falling to Viktor Reise in the tournament's final.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-10-21",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012), its round-by-round Warrior Grand Prix results columns and a hype promo exchange with Mike Sodo (22-23 September 2012), all served"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (weapon-x-mff); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "weapon-x-mff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dave-hendrix-bodycount-2012",
+  "type": "character",
+  "name": "Dave Hendrix",
+  "caption": "A middleweight who upset the tournament's largest competitor with a leg-lock submission in the Warrior Grand Prix's third round, then lost his place in the final after the fed's own finals recap says he failed a drug test.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-10-21",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012) and its Round 1-3 and finals Warrior Grand Prix results columns, all served"
+   }
+  ]
+ },
+ {
+  "id": "jonathan-stark-bodycount-2012",
+  "type": "character",
+  "name": "Jonathan Stark",
+  "aka": [
+   "Mutant X"
+  ],
+  "caption": "A middleweight billed 'Mutant X,' who won his first two Warrior Grand Prix bouts by knockout before losing a back-and-forth third-round decision to Jakob Alexander.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-10-06",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012), its Round 2-3 Warrior Grand Prix results columns, and a cancelled qualifying-match notice (6 October 2012) not served"
+   }
+  ]
+ },
+ {
+  "id": "michael-vayne-bodycount-2012",
+  "type": "character",
+  "name": "Michael Vayne",
+  "caption": "A heavyweight boxer-wrestler who won his Warrior Grand Prix debut by knockout and advanced directly to the semifinals on the strength of it.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-09-05",
+    "last_seen": "2012-10-06",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own entrance-music thread (5 September 2012) and its Round 1 Warrior Grand Prix results column, served; a semifinal promo thread against Dave Hendrix (opening 6 October 2012) survives but is not served, and no result for that bout survives anywhere in the held record"
+   }
+  ]
+ },
+ {
+  "id": "mike-sodo-bodycount-2012",
+  "type": "character",
+  "name": "Mike Sodo",
+  "aka": [
+   "The Torch"
+  ],
+  "caption": "A middleweight submission specialist billed 'The Torch,' who broke an opponent's arm in thirty seconds to open the Warrior Grand Prix before falling to Jakob Alexander on a split decision in round two.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-22",
+    "last_seen": "2012-09-23",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own tournament-information post (22 August 2012, naming him as an early entrant), its Round 1-2 Warrior Grand Prix results columns, and a hype promo exchange with Jakob Alexander (22-23 September 2012), all served"
+   }
+  ]
+ },
+ {
+  "id": "johannes-antonious-de-castonovo-bodycount-2012",
+  "type": "character",
+  "name": "Johannes Antonious de Castonovo",
+  "aka": [
+   "The Adriatic Gargoyle",
+   "JAC"
+  ],
+  "caption": "A heavyweight billed 'the Adriatic Gargoyle,' eliminated in the Warrior Grand Prix's first round but reinstated on a golden ticket, then knocked out in the second round by a front kick.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-09-22",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012), a backstory roleplay ('A Chronicle of the Adriatic Gargoyle,' 13 September 2012) and its Round 1-2 Warrior Grand Prix results columns, all served"
+   },
+   {
+    "promotion": "nbw-no-brand-2013",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2013-10-04",
+    "last_seen": "2013-12-28",
+    "source": "Named in the fed's own forum posts, 4 October 2013 to 28 December 2013."
+   }
+  ]
+ },
+ {
+  "id": "brendan-dean-bodycount-2012",
+  "type": "character",
+  "name": "Brendan Dean",
+  "caption": "A middleweight mixed-martial-arts hybrid fighter, eliminated in the Warrior Grand Prix's second round by Viktor Reise.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-09-22",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012) and its Round 2 Warrior Grand Prix results column, served"
+   }
+  ]
+ },
+ {
+  "id": "pat-gordon-jr-bodycount-2012",
+  "type": "character",
+  "name": "Pat Gordon Jr.",
+  "caption": "A heavyweight eliminated in the Warrior Grand Prix's first round but reinstated on a golden ticket, then submitted in the second round.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-09-22",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012) and its Round 1-2 Warrior Grand Prix results columns, served"
+   },
+   {
+    "promotion": "nbw-no-brand-2013",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2018-08-03",
+    "last_seen": "2019-09-16",
+    "source": "Named in the fed's own forum posts, 3 August 2018 to 16 September 2019."
+   }
+  ],
+  "aka": [
+   "Pat Gordon Jr"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pat-gordon-jr-ne"
+    ],
+    "note": "The name or an alias is shared with an existing record on another wing; nothing in either source links the two, so they are kept apart."
+   }
+  ]
+ },
+ {
+  "id": "john-st-abraham-bodycount-2012",
+  "type": "character",
+  "name": "John St. Abraham",
+  "aka": [
+   "2nd Son of God, Last of the Templars"
+  ],
+  "caption": "A heavyweight billed as a religious zealot, eliminated in the Warrior Grand Prix's first round after refusing, in character, to fight.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-09-15",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012) and its Round 1 Warrior Grand Prix results column, served"
+   }
+  ]
+ },
+ {
+  "id": "aleczander-the-great-bodycount-2012",
+  "type": "character",
+  "name": "Aleczander the Great",
+  "caption": "A heavyweight submitted by armbar in under thirty seconds in the Warrior Grand Prix's opening round.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-09-15",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012) and its Round 1 Warrior Grand Prix results column, served"
+   }
+  ]
+ },
+ {
+  "id": "teddy-alexander-bodycount-2012",
+  "type": "character",
+  "name": "Teddy Alexander",
+  "caption": "A heavyweight power striker who signed for the first Warrior Grand Prix; no result for his own bout survives in the held record.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-09-02",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012) and its entrance-music thread, in which his handler posts on his behalf (2 September 2012), served"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (teddy-alexander); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "teddy-alexander"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "marisol-hawkes-bodycount-2012",
+  "type": "character",
+  "name": "Marisol Hawkes",
+  "caption": "A lightweight judo specialist and one of the first Warrior Grand Prix's two debut female entrants; no result for her own bout survives in the held record.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-09-01",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012) and its entrance-music thread (1 September 2012), served"
+   }
+  ]
+ },
+ {
+  "id": "jessica-harmony-bodycount-2012",
+  "type": "character",
+  "name": "Jessica Harmony",
+  "caption": "A lightweight and one of the first Warrior Grand Prix's two debut female entrants; no result for her own bout survives in the held record.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-23",
+    "last_seen": "2012-08-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own list of participants (23 August 2012) and its entrance-music thread (31 August 2012), served"
+   }
+  ]
+ },
+ {
+  "id": "frank-dylan-james-bodycount-2012",
+  "type": "character",
+  "name": "Frank Dylan James",
+  "aka": [
+   "The Mastodon"
+  ],
+  "caption": "A heavyweight billed 'the Mastodon,' entered from West Virginia; no result for his own bout survives in the held record.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-08-25",
+    "last_seen": "2012-09-06",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own sign-up thread (his handler entering him 25 August 2012) and a hype vignette introducing him (6 September 2012), served"
+   }
+  ]
+ },
+ {
+  "id": "blasta-bodycount-2012",
+  "type": "character",
+  "name": "Blasta",
+  "caption": "A middleweight catch wrestler who signed for the first Warrior Grand Prix under the self-given name 'Blasta'; no result for his own bout survives in the held record.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2012-09-01",
+    "last_seen": "2012-09-01",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own entrance-music thread (1 September 2012), served; which of the tournament's sixteen listed entrants he corresponds to is not stated anywhere in the held record"
+   }
+  ]
+ },
+ {
+  "id": "ernie-french-bodycount-2012",
+  "type": "character",
+  "name": "Ernie French",
+  "caption": "A giant heavyweight signed for a planned second Warrior Grand Prix in 2015, which never reached a result.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2015-05-12",
+    "last_seen": "2015-05-12",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own 2015 second-tournament sign-up thread, served"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (ernie-french-acw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "ernie-french-acw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (ernie-french-uwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "ernie-french-uwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-fellaway-bodycount-2012",
+  "type": "character",
+  "name": "The Fellaway",
+  "caption": "A lightweight billed 'the Fellaway,' signed for a planned second Warrior Grand Prix in 2015, which never reached a result.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2015-05-19",
+    "last_seen": "2015-05-19",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own 2015 second-tournament sign-up thread, served"
+   }
+  ]
+ },
+ {
+  "id": "jason-natas-bodycount-2012",
+  "type": "character",
+  "name": "Jason Natas",
+  "caption": "A heavyweight wrestler-kickboxer signed for a planned second Warrior Grand Prix in 2015, which never reached a result.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2015-05-28",
+    "last_seen": "2015-05-28",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own 2015 second-tournament sign-up thread, served"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (jason-natas-prime); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "jason-natas-prime"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "damon-rose-bodycount-2012",
+  "type": "character",
+  "name": "Damon Rose",
+  "aka": [
+   "The Black Knight"
+  ],
+  "caption": "A heavyweight kickboxer billed 'the Black Knight,' signed for a planned second Warrior Grand Prix in 2015, which never reached a result.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "bodycount-2012",
+    "first_seen": "2015-05-20",
+    "last_seen": "2015-05-20",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "BodyCount's own 2015 second-tournament sign-up thread, served"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-black-knight-incwcw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-black-knight-incwcw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-black-knight-summit); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-black-knight-summit"
+    ]
+   }
+  ]
+ }
+]

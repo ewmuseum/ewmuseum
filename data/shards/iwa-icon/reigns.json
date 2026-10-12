@@ -1,0 +1,489 @@
+[
+  {
+    "id": "iwa-icon-cruiserweight-r002",
+    "title": "iwa-icon-cruiserweight",
+    "label": "Chaos",
+    "holder": [
+      {
+        "id": "chaos-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999",
+      "precision": "unknown",
+      "source": "The fed's own served Saturday Night Massacre broadcast bills Chaos \"the current Crusierweight Champ and European Champion\" ahead of his own European Title defense — the earliest-attested state, its own winning match not present."
+    },
+    "how": "Not documented in the held record; the earliest-attested holder after X-Pac.",
+    "note": "Retained the title by no-show at Barbed Wire (both Jeff Halesz and Hardcore Tom failed to appear) — the held record's last-attested Cruiserweight Champion.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-cruiserweight-r001",
+    "title": "iwa-icon-cruiserweight",
+    "label": "X-Pac",
+    "holder": [
+      {
+        "id": "x-pac-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-06-27",
+      "precision": "exact",
+      "source": "The fed's own served Sweet Surrender broadcast, part 3: X-Pac pins HBK with the X-Factor in the four-corners match — \"X-PAC is your Crusierweight Champion!\""
+    },
+    "how": "Won a four-corners match over HBK, Chaos and Mr. Fro Chuck Brown at Sweet Surrender.",
+    "event": "iwa-icon-sweet-surrender-1999-06-27",
+    "note": "By Saturday Night Massacre, Chaos is billed the \"current Cruiserweight Champ\" — an unstaged change of hands (see the next reign).",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-european-r001",
+    "title": "iwa-icon-european",
+    "label": "X-Pac",
+    "holder": [
+      {
+        "id": "x-pac-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999",
+      "precision": "unknown",
+      "source": "The fed's own served Sweet Surrender broadcast, part 1, describes X-Pac entering \"as he holds the European Title in the air high\" against challenger Raven — the earliest-attested title state, its own winning match not present."
+    },
+    "lost": {
+      "date": "1999-06-27",
+      "precision": "exact"
+    },
+    "how": "Not documented in the held record; the earliest-attested holder.",
+    "event": "iwa-icon-sweet-surrender-1999-06-27",
+    "note": "Lost the title to Raven the same night (see the next reign).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "iwa-icon-european-r003",
+    "title": "iwa-icon-european",
+    "label": "Chaos",
+    "holder": [
+      {
+        "id": "chaos-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999",
+      "precision": "unknown",
+      "source": "The fed's own served Saturday Night Massacre broadcast bills Chaos \"the current Crusierweight Champ and European Champion\" ahead of his own title defense — the earliest-attested state after Raven, its own winning match not present."
+    },
+    "lost": {
+      "date": "1999-08-14",
+      "precision": "exact"
+    },
+    "how": "Not documented in the held record.",
+    "event": "iwa-icon-massacre-1999-08-14",
+    "note": "Lost the title the same night to a masked arrival revealed as Raditz (see the next reign).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "iwa-icon-european-r002",
+    "title": "iwa-icon-european",
+    "label": "Raven",
+    "holder": [
+      {
+        "id": "raven-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-06-27",
+      "precision": "exact",
+      "source": "The fed's own served Sweet Surrender broadcast, part 1: Raven hits the Evenflow through a table for the pin — \"Raven is your new European Champ!\""
+    },
+    "how": "Pinned X-Pac in a Ravens Rules match at Sweet Surrender.",
+    "event": "iwa-icon-sweet-surrender-1999-06-27",
+    "note": "By Saturday Night Massacre, Chaos is billed the \"current... European Champion\" — an unstaged change of hands (see the next reign).",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-european-r005",
+    "title": "iwa-icon-european",
+    "label": "Freebird Michael Hayes",
+    "holder": [
+      {
+        "id": "freebird-michael-hayes-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-08",
+      "precision": "circa",
+      "source": "The fed's own served Barbed Wire broadcast, part 1, bills Freebird Michael Hayes defending as \"Still European Champion\" against a no-show Death Angel — the earliest-attested state after Raditz, its own winning match not present."
+    },
+    "how": "Not documented in the held record.",
+    "note": "Retained the title by no-show at Barbed Wire — the held record's last-attested European Champion.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-european-r004",
+    "title": "iwa-icon-european",
+    "label": "Raditz",
+    "holder": [
+      {
+        "id": "raditz-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-08-14",
+      "precision": "exact",
+      "source": "The fed's own served Saturday Night Massacre broadcast: a masked Raditz, having knocked out billed challenger Unforgiven, wrestles Chaos himself and pins him with the Krionic Kick — \"Raditz is handed the belt.\""
+    },
+    "how": "Pinned Chaos at Saturday Night Massacre after knocking his own billed challenger, Unforgiven, out cold before the bell.",
+    "event": "iwa-icon-massacre-1999-08-14",
+    "note": "Freebird Michael Hayes is the attested champion by Barbed Wire — an unstaged change of hands (see the next reign).",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-hardcore-r001",
+    "title": "iwa-icon-hardcore",
+    "label": "Mankind",
+    "holder": [
+      {
+        "id": "mankind-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-04-18",
+      "precision": "exact",
+      "source": "The fed's own served \"Survivor Series\" broadcast, part 1: Mankind pulls out Mr. Socko and finishes Mad Stoner for the vacant Hardcore Title — \"Winner and NEW IWA Hardcore Champion: Mankind.\""
+    },
+    "how": "Defeated Mad Stoner in a dumpster brawl for the vacant title at \"Survivor Series.\"",
+    "event": "iwa-icon-survivor-series-1999-04-18",
+    "note": "The fed's own earliest-attested Hardcore Champion. By \"Saturday Night Massacre\" (14 August 1999) the title had passed to O.G. Chunk (see the next reign) — the handoff itself is not staged in the held record.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-hardcore-r003",
+    "title": "iwa-icon-hardcore",
+    "label": "Raditz",
+    "holder": [
+      {
+        "id": "raditz-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-08",
+      "precision": "circa",
+      "source": "The fed's own served \"Barbed Wire\" broadcast, part 1: Raditz (accompanied by Nappa) hits O.G. Chunk with \"THE UNKNOWN POWER\" for the pin — \"Winner by pinfall, New IWA Hardcore Champion, Raditz.\""
+    },
+    "how": "Pinned O.G. Chunk at \"Barbed Wire,\" Nappa factoring into the beatdown.",
+    "event": "iwa-icon-barbed-wire-1999-08",
+    "note": "The held record's last-attested Hardcore Champion.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-hardcore-r002",
+    "title": "iwa-icon-hardcore",
+    "label": "O.G. Chunk",
+    "holder": [
+      {
+        "id": "og-chunk-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-08-14",
+      "precision": "exact",
+      "source": "The fed's own served \"Saturday Night Massacre\" broadcast: a mystery masked man (later revealed as Raditz) drops from the ceiling and takes out three of the four combatants in a Hardcore Title four-corners match, leaving O.G. Chunk to pin Hardcore Tom — \"OG Chuck is your new Hardcore Champion!\""
+    },
+    "how": "Won a four-corners scramble (Lex Luger, Hardcore Tom, Canyon also entered) at \"Saturday Night Massacre,\" a masked Raditz clearing the ring first.",
+    "event": "iwa-icon-massacre-1999-08-14",
+    "note": "Entered \"Barbed Wire\" with the title \"strapped around his waist\"; lost it there to Raditz (see the next reign).",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-intercontinental-r002",
+    "title": "iwa-icon-intercontinental",
+    "label": "DoggFather",
+    "holder": [
+      {
+        "id": "doggfather-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999",
+      "precision": "unknown",
+      "source": "The fed's own served Sweet Surrender broadcast, part 3, bills him \"the current and 2 time IC Champion\" walking into his own title defense against Steel — a second, undocumented reign implied by the billing itself."
+    },
+    "lost": {
+      "date": "1999-06-27",
+      "precision": "exact"
+    },
+    "how": "Not documented in the held record.",
+    "event": "iwa-icon-sweet-surrender-1999-06-27",
+    "note": "Lost the title to Steel the same night (see the next reign).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "iwa-icon-intercontinental-r004",
+    "title": "iwa-icon-intercontinental",
+    "label": "Raven",
+    "holder": [
+      {
+        "id": "raven-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999",
+      "precision": "unknown",
+      "source": "The fed's own served Saturday Night Massacre broadcast bills Raven defending the Intercontinental Title against Ringmaster — the earliest-attested state after Steel, its own winning match not present."
+    },
+    "how": "Not documented in the held record.",
+    "event": "iwa-icon-massacre-1999-08-14",
+    "note": "Retained over Ringmaster at Massacre (Ravens Rules), Sycho Sid and a masked Raditz both factoring into the finish. Sycho Sid is the attested champion by Barbed Wire, pinning Chaos rather than Raven — Raven's own loss of the title is never itself staged (see the next reign).",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-intercontinental-r001",
+    "title": "iwa-icon-intercontinental",
+    "label": "DoggFather",
+    "holder": [
+      {
+        "id": "doggfather-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-04-18",
+      "precision": "exact",
+      "source": "The fed's own served Survivor Series broadcast, part 2: Badd Ass Billy Gunn and Roaddogg Jesse James help revive DoggFather, who climbs the ladder for the belt — \"DoggFather wins! Winner and NEW IWA Intercontinental Champion, DoggFather.\""
+    },
+    "how": "Won the vacant title in a ladder match over Mr. Fro Chuck Brown at Survivor Series, Badd Ass Billy Gunn and Roaddogg Jesse James running in to help him.",
+    "event": "iwa-icon-survivor-series-1999-04-18",
+    "note": "Billed a two-time champion by Sweet Surrender — an unstaged loss and regain in between (see the next reign).",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-intercontinental-r003",
+    "title": "iwa-icon-intercontinental",
+    "label": "Steel",
+    "holder": [
+      {
+        "id": "steel-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-06-27",
+      "precision": "exact",
+      "source": "The fed's own served Sweet Surrender broadcast, part 3: Steel hits Death From Above twice for the pin — \"Steel is the new IC Champion!\""
+    },
+    "how": "Pinned DoggFather at Sweet Surrender.",
+    "event": "iwa-icon-sweet-surrender-1999-06-27",
+    "note": "By Saturday Night Massacre, Raven is the attested champion — an unstaged change of hands (see the next reign).",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-intercontinental-r005",
+    "title": "iwa-icon-intercontinental",
+    "label": "Sycho Sid",
+    "holder": [
+      {
+        "id": "sycho-sid-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-08",
+      "precision": "circa",
+      "source": "The fed's own served Barbed Wire broadcast, part 2: Sid powerbombs Chaos for the pin — \"Winner by pinfall NEW IWA Intercontinental Champion Sycho Sid.\""
+    },
+    "how": "Pinned Chaos at Barbed Wire, O.G. Chunk pulled from the scheduled three-way by injury; the champion he dethroned is not named in the held record.",
+    "event": "iwa-icon-barbed-wire-1999-08",
+    "note": "The held record's last-attested Intercontinental Champion.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-stables-r003",
+    "title": "iwa-icon-stables",
+    "label": "nWo Turney",
+    "holder": [
+      {
+        "id": "nwo-turney-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999",
+      "precision": "unknown",
+      "source": "The fed's own served Barbed Wire broadcast, part 2, bills nWo Turney \"the IWA Stables Champions\" defending against Degeneration-X — the earliest-attested state after Corporate-SDH, its own winning match not present."
+    },
+    "how": "Not documented in the held record.",
+    "event": "iwa-icon-barbed-wire-1999-08",
+    "note": "Retained the titles over Degeneration-X at Barbed Wire, Turney elevating Triple H with the Turney Bomb for the pin — the held record's last-attested Stables Champions.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-stables-r001",
+    "title": "iwa-icon-stables",
+    "label": "Degeneration-X",
+    "holder": [
+      {
+        "id": "degeneration-x-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-04-18",
+      "precision": "exact",
+      "source": "The fed's own served Survivor Series broadcast, part 2: Rob Van Dam covers a knocked-out Mankind for the pin — \"Winners and NEW IWA Stables Champions: Degeneration-X.\""
+    },
+    "lost": {
+      "date": "1999-06-27",
+      "precision": "exact"
+    },
+    "how": "Won the vacant titles over the Dungeon of Doom in a Hell in a Cell at Survivor Series.",
+    "event": "iwa-icon-survivor-series-1999-04-18",
+    "note": "Lost the titles to Corporate-SDH at Sweet Surrender (see the next reign).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "iwa-icon-stables-r002",
+    "title": "iwa-icon-stables",
+    "label": "Corporate-SDH",
+    "holder": [
+      {
+        "id": "corporate-sdh-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-06-27",
+      "precision": "exact",
+      "source": "The fed's own served Sweet Surrender broadcast, part 2: President NateDogg chairs Ringmaster and counts his own pin — \"Your winners and new IWA Stables Champions, Corporate-SDH.\""
+    },
+    "how": "Beat Degeneration-X and House of Pain in a three-way steel cage match at Sweet Surrender, President NateDogg fast-counting the winning pin himself.",
+    "event": "iwa-icon-sweet-surrender-1999-06-27",
+    "note": "By Barbed Wire, nWo Turney holds the titles — an unstaged change of hands (see the next reign).",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-tag-team-r001",
+    "title": "iwa-icon-tag-team",
+    "label": "Mr. Fro Chuck Brown and Mad Stoner",
+    "holder": [
+      {
+        "id": "mr-fro-chuck-brown-iwa-icon"
+      },
+      {
+        "id": "mad-stoner-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-04-18",
+      "precision": "exact",
+      "source": "The fed's own served Survivor Series broadcast: Mad Stoner covers a masked-figure-battered Triple H for the pin — \"Winners and NEW IWA Tag Team Champions: Mr. Fro Chuck Brown and Mad Stoner.\""
+    },
+    "lost": {
+      "date": "1999-06-27",
+      "precision": "exact"
+    },
+    "how": "Won the vacant title over Triple H and Steel at Survivor Series, a masked figure staged with Sting's own moveset factoring into the finish.",
+    "event": "iwa-icon-survivor-series-1999-04-18",
+    "note": "Lost the titles to Shawn Michaels and Orge Lambart at Sweet Surrender (see the next reign).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "iwa-icon-tag-team-r002",
+    "title": "iwa-icon-tag-team",
+    "label": "Shawn Michaels and Orge Lambart",
+    "holder": [
+      {
+        "id": "shawn-michaels-iwa-icon"
+      },
+      {
+        "id": "orge-lambart-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-06-27",
+      "precision": "exact",
+      "source": "The fed's own served Sweet Surrender broadcast, part 1: Orge Lambart rolls up Mad Stoner for the pin after a fan's ringside interference — \"Winners by pinfall and NEW IWA Tag Team Champions: Shawn Michaels and Orge Lambart.\""
+    },
+    "how": "Pinned Mr. Fro Chuck Brown and Mad Stoner at Sweet Surrender after an unnamed fan struck Mad Stoner with a foreign object.",
+    "event": "iwa-icon-sweet-surrender-1999-06-27",
+    "note": "Turney and Stone Cold Steve Austin are billed \"former champions\" walking into Barbed Wire, an unstaged change of hands from Michaels and Lambart, and are themselves not champions by that show (the vacant-title match there names no reigning holder) — an intervening reign this ledger does not structure, per the honest-decline standard.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-tag-team-r003",
+    "title": "iwa-icon-tag-team",
+    "label": "Freebird Michael Hayes and Triple H",
+    "holder": [
+      {
+        "id": "freebird-michael-hayes-iwa-icon"
+      },
+      {
+        "id": "triple-h-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-08",
+      "precision": "circa",
+      "source": "The fed's own served Barbed Wire broadcast, part 1: Triple H covers Turney for the pin, Chyna having dragged Stone Cold Steve Austin's leg off the ropes — \"Winners by pinfall NEW IWA Tag Champions: Freebird and Triple H.\""
+    },
+    "how": "Won the vacant titles over Turney and Stone Cold Steve Austin at Barbed Wire.",
+    "event": "iwa-icon-barbed-wire-1999-08",
+    "note": "The held record's last-attested Tag Team Champions.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-world-r001",
+    "title": "iwa-icon-world",
+    "label": "Triple H",
+    "holder": [
+      {
+        "id": "triple-h-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999",
+      "precision": "unknown",
+      "source": "The fed's own served \"Sweet Surrender\" broadcast names him \"the champion, Triple H,\" defending \"against the challenger for the second straight month, Sting\" — the earliest-attested title state in the held record, its own winning match not itself present."
+    },
+    "lost": {
+      "date": "1999-06-27",
+      "precision": "exact"
+    },
+    "how": "Not documented in the held record; the earliest-attested holder.",
+    "event": "iwa-icon-sweet-surrender-1999-06-27",
+    "note": "Lost the title to Sting the same night, in the steel-cage main event President NateDogg worked as special guest referee (see the next reign).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "iwa-icon-world-r002",
+    "title": "iwa-icon-world",
+    "label": "Sting",
+    "holder": [
+      {
+        "id": "sting-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-06-27",
+      "precision": "exact",
+      "source": "The fed's own served \"Sweet Surrender\" broadcast, part 3: the steel cage locks in, Sting hits the Scorpion Death Drop, and special guest referee President NateDogg counts the pin — \"Sting is your new WORLD CHAMPION!\""
+    },
+    "how": "Pinned Triple H via Scorpion Death Drop inside a steel cage at \"Sweet Surrender,\" President NateDogg working as special guest referee.",
+    "event": "iwa-icon-sweet-surrender-1999-06-27",
+    "note": "By the fed's own next served broadcast, \"Saturday Night Massacre\" (14 August 1999), Shawn Michaels is billed as champion against Turney — an attested but undocumented change of hands; neither Michaels nor Turney is minted as a titleholder on this ledger, since no document stages either transition directly.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "iwa-icon-world-r003",
+    "title": "iwa-icon-world",
+    "label": "Canyon",
+    "holder": [
+      {
+        "id": "canyon-iwa-icon"
+      }
+    ],
+    "won": {
+      "date": "1999-08",
+      "precision": "circa",
+      "source": "The fed's own served \"Barbed Wire\" broadcast: \"Canyon wins the title,\" pinning Turney after interference from two masked men, revealed as Chaos and Shawn Michaels."
+    },
+    "how": "Pinned Turney at \"Barbed Wire\" after masked-man interference (Chaos and Shawn Michaels).",
+    "event": "iwa-icon-barbed-wire-1999-08",
+    "note": "The held record's last-attested titleholder.",
+    "end_how": "still-champion-at-record-end"
+  }
+]

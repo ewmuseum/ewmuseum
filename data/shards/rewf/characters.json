@@ -1,0 +1,48 @@
+[
+ {
+  "id": "johnny-star-rewf",
+  "type": "character",
+  "name": "Johnny Star",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "rewf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-05",
+    "source": "promotions/rewf/rp/rewf-johnny-star-application-1997-05-07.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "An original applicant persona; no primary-source evidence connects it to any similarly-named registry entry (checked against data/characters.json, no match).",
+    "with": []
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; no identity join is asserted (bare-name match is insufficient)",
+    "with": [
+     "johnny-star-piwa"
+    ]
+   }
+  ],
+  "notes": "An applicant's own wrestler application, billed styled after Shawn Michaels with the finisher \"Sweeeeeeeeeeeet Chin Music,\" stabled as \"The Star Corporation\" with kayfabe manager/wife Amanda Star (not separately minted, no further appearance evidence). Never confirmed to have wrestled an actual REWF card in the surviving corpus.",
+  "caption": "An applicant's own Shawn-Michaels-styled persona submitted to REWF's own open call, with no confirmed match in the surviving record.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

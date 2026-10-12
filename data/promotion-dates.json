@@ -1,0 +1,8977 @@
+{
+ "_schema_version": 1,
+ "dates": {
+  "30mc-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "3dw-2010": {
+   "added": "2026-09-09",
+   "updated": "2026-10-08"
+  },
+  "4ww": {
+   "added": "2026-08-23",
+   "updated": "2026-10-11"
+  },
+  "5sw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "96-2009-04": {
+   "added": "2026-10-06",
+   "updated": "2026-10-08"
+  },
+  "aaew": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "aaiwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "aapw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "aapw-june1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "aapw-version54-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "aaw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "aaw-aboveaverage-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "aawa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "aawc": {
+   "added": "2026-08-23",
+   "updated": "2026-09-21"
+  },
+  "aawc-jan-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "aawf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "abf-primetime-2002": {
+   "added": "2026-09-23",
+   "updated": "2026-10-04"
+  },
+  "abwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "accw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-20"
+  },
+  "ace-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "acew-atlantic": {
+   "added": "2026-09-04",
+   "updated": "2026-09-06"
+  },
+  "acewf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "aciw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "action-2002": {
+   "added": "2026-09-28",
+   "updated": "2026-10-11"
+  },
+  "action-extreme-wrestling": {
+   "added": "2026-08-26",
+   "updated": "2026-08-26"
+  },
+  "acw": {
+   "added": "2026-08-23",
+   "updated": "2026-10-10"
+  },
+  "acw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "acw-2000-06": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "acw-alpha-2004": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "acw-american-championship-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "acw-atlantic-coast-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "acw-atlanticcity-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "acw-bravehost-2006": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "acw-buffaloedu-1996": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "acwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "acwa-atlantic-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-10"
+  },
+  "acwa-charlotte-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "acwa-jul-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "acwa-realfake-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "acwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-13"
+  },
+  "adw": {
+   "added": "2026-08-22",
+   "updated": "2026-08-22"
+  },
+  "adw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "aew-attitude-era-2015": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "aewa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "aewc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "aewf-1997a": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "aewf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "aewo-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "afw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "afw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "afwp-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "agw": {
+   "added": "2026-08-27",
+   "updated": "2026-09-20"
+  },
+  "aicw": {
+   "added": "2026-08-26",
+   "updated": "2026-10-09"
+  },
+  "aipw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "aiw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "aiw-imaginary-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "aiw-internet-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "aiwa": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "aiwf-awesome-1997": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "aiwl-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-26"
+  },
+  "ajwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "alliance-crown-wrestling": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "alpha-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-10-09"
+  },
+  "alpha-pro-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "alpha-wrestling-alliance-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "alternate-wrestling-alliance-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "alternative-wrestling-association-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "alw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "amc-mondiale-2020": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "amcw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "american-wrestling-association-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "amll-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "aolwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "aolwf-wildcard-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "aopw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "aowf": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "apcw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "apocalypse-wrestling-association-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "apw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "apw-absolute-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "apw-actionpacked-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "apw-sep-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "apwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "apwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "apwa-pbm-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-10"
+  },
+  "apwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "apwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "apwi": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "apww-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "arwa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ascw-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ase-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "asw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "asw-all-star-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "asw-arizona-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "asw-geocities-2001": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "aswa-sanfrancisco-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "aswa-utah-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-10"
+  },
+  "aswf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "aswf-rspwf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "aswl-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "avenger-deathmatch": {
+   "added": "2026-08-29",
+   "updated": "2026-09-02"
+  },
+  "avw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "aw-anarchy-2005": {
+   "added": "2026-10-06",
+   "updated": "2026-10-10"
+  },
+  "aw-anarchy-2008": {
+   "added": "2026-10-06",
+   "updated": "2026-10-07"
+  },
+  "aw-animosity-2002": {
+   "added": "2026-10-11",
+   "updated": "2026-10-11"
+  },
+  "aw-apocalypse-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "awa-allstar-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "awa-apex-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-09"
+  },
+  "awa-arizona-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "awa-awawrestling-1999": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "awa-ewcentral-2007": {
+   "added": "2026-09-25",
+   "updated": "2026-10-10"
+  },
+  "awa-hkstar-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-12"
+  },
+  "awa-jun-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "awa-lasvegas-2005": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "awa-loge2143-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "awa-mondaymeltdown-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "awa-nov-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "awa-park8081-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "awa-steelcity-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "awc-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "awc-2005": {
+   "added": "2026-10-02",
+   "updated": "2026-10-10"
+  },
+  "awe": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "awe-aerial-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "awe-enterprise-1994": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "awe-thursday-night-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-23"
+  },
+  "awf-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "awf-action-1997": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "awf-alliance-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "awf-american-1998": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "awf-axion-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "awf-cruiserweight-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "awf-federations-2005": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "awf-revolution-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "awi": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "awl-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "awl-mat-masters": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "awmc": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "awna-1998": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "awo-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "awp": {
+   "added": "2026-09-09",
+   "updated": "2026-10-10"
+  },
+  "awr-rampage-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "awr-revolution-1997": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "aws-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "aws-apex-2014": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "aws99-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "aww-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "backyard-wrestling-2005": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "bad-boys-of-wrestling-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "bahw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "battle-academy-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "baw-bayarea-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "baw-british-american-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "bawf-1997a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "bawf-1997b": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "bbcw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "bbf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "bbw": {
+   "added": "2026-08-22",
+   "updated": "2026-08-22"
+  },
+  "bbw-hellcage-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "bbwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "bbwf-badboy-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "bcfw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "bcw-2008": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "bcw-blackcat-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "bcw-newa": {
+   "added": "2026-08-29",
+   "updated": "2026-10-10"
+  },
+  "bcw-philadelphia-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "bcw-starchat-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "bcwf-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "bdw": {
+   "added": "2026-08-25",
+   "updated": "2026-10-09"
+  },
+  "bew": {
+   "added": "2026-08-29",
+   "updated": "2026-09-21"
+  },
+  "bew-backyard-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "bew-beyond-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "bew-blackheart-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "bftw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "bfw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "bifw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "bjpw-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "bjwc-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "bkn": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "blackmarket-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "blaze-joshi-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "blw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "blwa-2007": {
+   "added": "2026-10-06",
+   "updated": "2026-10-08"
+  },
+  "blwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "bmw": {
+   "added": "2026-08-25",
+   "updated": "2026-10-09"
+  },
+  "bmwa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "bodycount-2012": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "bra-1999": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "brandwrestling": {
+   "added": "2026-09-25",
+   "updated": "2026-09-25"
+  },
+  "brawl-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "bscw": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "bswc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "bswf": {
+   "added": "2026-08-29",
+   "updated": "2026-09-01"
+  },
+  "buwe-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "bwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "bwa-apr-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "bwa-bayou-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "bwa-british-alliance-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-21"
+  },
+  "bwc": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "bwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "bwf-blackjacks-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "bwf-bloodlust-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "bwf-el-paso-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "bwfe-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "bwo-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "bwo-british-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "bxwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "bzwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "cal-coalition-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cawa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "cawo": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "cbwf": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "ccw-caliber-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-10"
+  },
+  "ccw-california-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ccw-canadian-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "ccw-capitolcity-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ccw-carolina-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "ccw-classic-1996": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "ccw-creatures-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "ccw-crosscontinental-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-10"
+  },
+  "ccw-cyber-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "ccw-cyberspace": {
+   "added": "2026-08-23",
+   "updated": "2026-10-11"
+  },
+  "ccw-realwrestler-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "ccw-wednesdaynightfight-1995": {
+   "added": "2026-09-04",
+   "updated": "2026-09-06"
+  },
+  "ccwa": {
+   "added": "2026-08-25",
+   "updated": "2026-10-07"
+  },
+  "ccwa-dc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "ccwf-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "ccwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cdmc": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "cdwf": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cdwl-cyberdream-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-10-11"
+  },
+  "cew-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "cew-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "cew-central-florida-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "cew-mar-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cew-may-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cewa-feb-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "cewf-1994": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cewf-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cewf-entity-c1": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cfpw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-13"
+  },
+  "cfw-1997d": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cfw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "cfwf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cgo-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cgwl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "championship-wrestling-council-2008": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "chaos-wrestling-alliance-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "chw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "chwe": {
+   "added": "2026-08-28",
+   "updated": "2026-08-28"
+  },
+  "chwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "chz": {
+   "added": "2026-08-25",
+   "updated": "2026-10-11"
+  },
+  "cin-hollywood-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "ciw-canadian-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "ciw-caribbean-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "ciwa-2001": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "ciwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ciwf-canadian": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ciwf-championship": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "clash-of-the-indies-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "clfm": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "clll": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cmll-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-10-09"
+  },
+  "cnw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "cnwl-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "colosseum-1998": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "core-wrestling-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "cow-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "cow-championsofwrestling-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "cpw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "cpw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cpw-iwf-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-09-13"
+  },
+  "crow": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "crw-1996": {
+   "added": "2026-09-04",
+   "updated": "2026-09-11"
+  },
+  "crwe-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "csw": {
+   "added": "2026-08-28",
+   "updated": "2026-09-21"
+  },
+  "csw-catscratch-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-21"
+  },
+  "csw-continental-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cswa": {
+   "added": "2026-08-25",
+   "updated": "2026-10-10"
+  },
+  "ctwa-central-texas-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cuw-underground-2009": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "cwa-alliance-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwa-angelfire-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwa-association-2003": {
+   "added": "2026-10-06",
+   "updated": "2026-10-06"
+  },
+  "cwa-canadaworld-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "cwa-canadian-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cwa-championship2-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "cwa-chaotic-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwa-computerized": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwa-continental-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cwa-cwa2k-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cwa-cyber-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "cwa-d-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "cwa-e-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwa-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwa-entity-f": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwa-entity-i": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwa-g-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "cwa-hollywood-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "cwa-j-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwa-jan-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cwa-jun-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cwa-k-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwa-online-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwa-originals-2006": {
+   "added": "2026-10-06",
+   "updated": "2026-10-10"
+  },
+  "cwa-owz-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cwa-reopening-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "cwa-revival-2007": {
+   "added": "2026-10-06",
+   "updated": "2026-10-06"
+  },
+  "cwa-tnt-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwaa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwc-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "cwc-championship-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "cwc-chicago-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "cwc-coalition-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwc-confederacy": {
+   "added": "2026-09-04",
+   "updated": "2026-09-05"
+  },
+  "cwc-continental-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "cwf": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "cwf-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "cwf-baja-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwf-chaotic": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "cwf-circuit-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "cwf-classic-1997": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "cwf-computerized-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "cwf-continental": {
+   "added": "2026-08-29",
+   "updated": "2026-09-01"
+  },
+  "cwf-crossover-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwf-cwfwrestling-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "cwf-cyber-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cwf-cybrsports-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwf-flamewar-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwf-franchise-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "cwf-jan-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cwf-jan-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "cwf-loaded-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "cwf-mainevent-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwf-marshalledu-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwf-municipal-arena-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwf-newfed-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "cwf-oct-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cwf-realmsofdespair-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwf-realwrestlers-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "cwf-sep-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "cwf-serial-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwf-timessquare-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwfpro": {
+   "added": "2026-08-28",
+   "updated": "2026-08-28"
+  },
+  "cwi-carnage-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cwi-iowa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cwl-2001": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "cwl-angelfire-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "cwmc": {
+   "added": "2026-09-25",
+   "updated": "2026-09-25"
+  },
+  "cwn": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwo": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "cwo-angelfire-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "cwo-efed-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cwo-efed16-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cwp-connecticut-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cwp-continental-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "cwu-feb-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "cww-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "cwwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cwwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-12"
+  },
+  "cwwo-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "cwww-1995": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "cyberslam": {
+   "added": "2026-08-24",
+   "updated": "2026-08-24"
+  },
+  "czwf-2005": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "damage-1997": {
+   "added": "2026-09-10",
+   "updated": "2026-09-10"
+  },
+  "dave-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "dcw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "dcwl": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "dcwl-demented-2002": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "dead-wrestlers-inc-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "decw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "decwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "defiant": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "dewf-dipstick": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "dewf-motor-city-1994": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "dfk-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "dfl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "dhw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "dhw-2004": {
+   "added": "2026-09-09",
+   "updated": "2026-09-20"
+  },
+  "dhwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "dpw-1996": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "dpw-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-12"
+  },
+  "dragons-wrestling-2010": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "dreamcard": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "drwf-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "dsw": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "dsw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "dsw-atlanta-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "dswa": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "dswf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "duwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "dvw": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "dwa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "dwa-digital-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "dwa-dynamic-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "dwa-dynamite-2018": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "dwf-death-wrestling-federation": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "dwf-deathow-1998": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "dwf-defiantwrestling-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "dwf-deranged-wrestling-federation": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "dwf-dominant-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-22"
+  },
+  "dwf-halfpipe-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "dwf-motr": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "dwf-superslams-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "dwi-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "dwo": {
+   "added": "2026-08-23",
+   "updated": "2026-10-09"
+  },
+  "dwo-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-10-10"
+  },
+  "dwo-damage-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "dynasty-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "dzw-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "e-pro-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "eapw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "east-wrestling-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "eaw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "eaw-fwrestling": {
+   "added": "2026-08-25",
+   "updated": "2026-10-08"
+  },
+  "ebw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "ebw-extreme-breed-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "ebwf-2001": {
+   "added": "2026-09-27",
+   "updated": "2026-09-28"
+  },
+  "eccw-cyber-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ecew": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "eclw-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "ecsf-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "ecw-carnage-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "ecw-commish-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ecw-gfed-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ecw-sundaymania-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "ecw-tnmarena-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "ecw-worldwide-nevermore": {
+   "added": "2026-10-06",
+   "updated": "2026-10-10"
+  },
+  "ecw98-1998sim-2005": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "ecwa": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "ecwa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ecwa-eventcenter-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "ecwa-extreme-carnage-2008": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "ecwf-eastcoast-1996": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ecwf-fantasy-1995": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ecwp-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ecwwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "edf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "edge-wrestling-league": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "eee-triple-e-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-10-11"
+  },
+  "eef": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "eemw-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "eeol-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "eew-eagleeye-2011": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "eew-wrestling-fed": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "eewf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "efg": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "efw-1-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "efw-2": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "efw-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "efw-3": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "efwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "efwo-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "egpw-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "egw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-21"
+  },
+  "egw-global-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "egwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ehw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ehw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "ehwa-entity-a": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "ehwa-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ehwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ehwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "eiw-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "eiw-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "eiw-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "eiw-jan-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "eiwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "eiwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "eiwf-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "eiwf-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "eiwl-ehw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "eiwz": {
+   "added": "2026-08-29",
+   "updated": "2026-09-02"
+  },
+  "elite-wrestling-federation-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "elw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "elw-east-league-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "empire-pro-wrestling": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "empire-sports-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "empire-state-1997": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "empire-wrestling-federation-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "empress-cup-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "emw-madness-2009": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "emwa": {
+   "added": "2026-08-25",
+   "updated": "2026-09-04"
+  },
+  "emwc": {
+   "added": "2026-09-07",
+   "updated": "2026-10-11"
+  },
+  "emwo": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "enwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "enwo": {
+   "added": "2026-09-04",
+   "updated": "2026-09-15"
+  },
+  "eoiaw-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "eow-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "epic-2001": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "epw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "epw-excite-2002": {
+   "added": "2026-10-11",
+   "updated": "2026-10-11"
+  },
+  "epw-exevent": {
+   "added": "2026-09-25",
+   "updated": "2026-10-05"
+  },
+  "epwa-1997b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ereview": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "erw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "erw-extreme-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "erwi-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "esw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "esw-2003": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "eswa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "eswf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "eswf-eastern-seaboard-1998": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "eswp-1996": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "etwf-2004": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "eulw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "euwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-20"
+  },
+  "euwc": {
+   "added": "2026-08-25",
+   "updated": "2026-10-08"
+  },
+  "euwf-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "ev-evolution-of-violence-2008": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "evo-2002": {
+   "added": "2026-10-02",
+   "updated": "2026-10-11"
+  },
+  "ew-empire-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ew-extreme-wrestling-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "ew-global-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ew-news-2002": {
+   "added": "2026-10-05",
+   "updated": "2026-10-05"
+  },
+  "ewa-1995": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewa-1998": {
+   "added": "2026-08-26",
+   "updated": "2026-10-09"
+  },
+  "ewa-1999": {
+   "added": "2026-09-15",
+   "updated": "2026-09-21"
+  },
+  "ewa-alliance-2003": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "ewa-angelfire-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewa-apr-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewa-aug1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "ewa-barbwirecity-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-21"
+  },
+  "ewa-elite-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "ewa-email": {
+   "added": "2026-08-29",
+   "updated": "2026-09-06"
+  },
+  "ewa-empire": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "ewa-epic-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ewa-euro-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-09"
+  },
+  "ewa-extreme": {
+   "added": "2026-08-23",
+   "updated": "2026-09-08"
+  },
+  "ewa-homestead-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewa-hypermart-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewa-jan-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewa-jul1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "ewa-jun-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewa-mar1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "ewa-mar1998b": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "ewa-oct1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "ewa-oct1998b": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "ewa-rspwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-11"
+  },
+  "ewa-sep1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "ewc": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewc-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "ewc-dex5-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ewc-english-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "ewc-groundzero-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "ewca-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "ewcw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "ewcw-worldwide-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "ewe-extreme-2005": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "ewf": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "ewf-anakin-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewf-death-warrant-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "ewf-electronic-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ewf-electronic-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "ewf-elimination-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ewf-emailwrestling-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-14"
+  },
+  "ewf-established-feb-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewf-european-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ewf-extream-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewf-extreme-oct-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewf-naming-claimant-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewf-os-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ewf-pl": {
+   "added": "2026-09-06",
+   "updated": "2026-09-06"
+  },
+  "ewf-simplenet-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewf-swa-1994": {
+   "added": "2026-09-05",
+   "updated": "2026-09-14"
+  },
+  "ewf-wrestleweb-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewff-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "ewg": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewl-email-1995": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewl-nov-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewn-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "ewn-ewnweb": {
+   "added": "2026-09-26",
+   "updated": "2026-10-11"
+  },
+  "ewn-oct-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "ewo": {
+   "added": "2026-08-23",
+   "updated": "2026-10-08"
+  },
+  "ewo-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ewo-angelfire-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "ewo-eastern-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewo-extremeworldorder-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "ewp-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "ewp-aug-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ewuk": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewwa-1994": {
+   "added": "2026-09-04",
+   "updated": "2026-09-13"
+  },
+  "ewwa-extremewarfare-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "ewwa-freeserve-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ewwf-alliance-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "ewwf-alliance-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-10"
+  },
+  "ewwf-east-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-08"
+  },
+  "ewwf-electronic-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "ewwf-reaper-coachb-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewwf-surrender-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-10"
+  },
+  "ewwf-woodsong-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewwo": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ewz-zenith-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "extreme-fed-2006": {
+   "added": "2026-09-10",
+   "updated": "2026-10-10"
+  },
+  "extreme-wrestling-orginization": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "fantasy-wwf-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "fasw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-05"
+  },
+  "fasw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-07"
+  },
+  "faw": {
+   "added": "2026-08-23",
+   "updated": "2026-10-11"
+  },
+  "faw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "fbw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "fbw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "fcw-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "fcw-crazy-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "fcw-creatures-2003": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "fcw-entity-a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "fcw-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "fcw-entity-d": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "fcw-entity-e": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "fcw-faithweb-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "fcw-flanagan-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "fcw-fourcorners-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "fcw-jan-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "fear-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "few": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "fews": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ff": {
+   "added": "2026-08-23",
+   "updated": "2026-10-10"
+  },
+  "ffa-toc-2002": {
+   "added": "2026-09-23",
+   "updated": "2026-10-10"
+  },
+  "ffew-1996": {
+   "added": "2026-09-11",
+   "updated": "2026-09-14"
+  },
+  "ffw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "ffw-florida-2005": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "fhw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-11"
+  },
+  "fire-and-ice-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "first-rate-wrestling": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "fiwf-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "fjpw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "flecw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "flw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "flw-2003": {
+   "added": "2026-09-25",
+   "updated": "2026-09-25"
+  },
+  "fmll-2009": {
+   "added": "2026-10-07",
+   "updated": "2026-10-08"
+  },
+  "fmw-fullmetal-2006": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "fnwa-1998": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "fob": {
+   "added": "2026-08-24",
+   "updated": "2026-08-24"
+  },
+  "fopew-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "fortune-fwrestling": {
+   "added": "2026-08-23",
+   "updated": "2026-10-08"
+  },
+  "fpw": {
+   "added": "2026-08-28",
+   "updated": "2026-09-02"
+  },
+  "frontier-wrestling-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "fsw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "fsw-fivestar-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-22"
+  },
+  "fsw-florida-2005": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "fsw-thefsw-2000": {
+   "added": "2026-10-01",
+   "updated": "2026-10-10"
+  },
+  "ftr-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "fu57-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "fwa": {
+   "added": "2026-08-27",
+   "updated": "2026-08-27"
+  },
+  "fwa-america-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "fwa-angelfire-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "fwa-apr-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "fwa-association": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "fwa-dec-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "fwa-dice-claimant-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "fwa-firebird-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "fwa-globalnet-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "fwa-hypermart-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "fwa-jun-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "fwa-mar-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "fwa-pbm-1989": {
+   "added": "2026-09-13",
+   "updated": "2026-09-13"
+  },
+  "fwa-tripod-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "fwa-wpw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-21"
+  },
+  "fwc-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "fwc-aug-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "fwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "fwf-1992": {
+   "added": "2026-08-25",
+   "updated": "2026-10-09"
+  },
+  "fwf-frontier-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "fwf-geeksoft-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "fwf-nyc-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "fwg-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "fwl-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "fwl-entity-2": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "fwli": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "fwo-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "fwo-fans-1998": {
+   "added": "2026-10-03",
+   "updated": "2026-10-10"
+  },
+  "fwrestling": {
+   "added": "2026-09-07",
+   "updated": "2026-10-07"
+  },
+  "fww-fire-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "fww-freelance-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "fww-web-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "fwwa-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "fwwa-pbm-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "fwwf-recruitment-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "fwwf-tournament-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "g-pro-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "gamma-sapporo-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "gapw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gatame-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "gawa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gawa-1996": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gawa-great-american-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "gcw-1992": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "gcw-apr-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "gcw-chaos-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "gcw-dmv-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gcw-fortworth-1999": {
+   "added": "2026-09-13",
+   "updated": "2026-10-09"
+  },
+  "gcw-gateway-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "gcw-gcwonline-2001": {
+   "added": "2026-09-25",
+   "updated": "2026-10-10"
+  },
+  "gcw-georgia-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-21"
+  },
+  "gcw-global-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "gcw-jan-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "gcw-livewire-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-11"
+  },
+  "gcw-oct-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gcw-restart-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gcw-webtv-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "gcw-xoom-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "gcwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "gcwa-association-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "gcwf": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "gcwf-1997-a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gcwf-1997-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gcwo-jan-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "gcwo-mar-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "gdwa": {
+   "added": "2026-08-24",
+   "updated": "2026-10-10"
+  },
+  "gewa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-20"
+  },
+  "gewa-soulplayer-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "gewf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-20"
+  },
+  "gfwa": {
+   "added": "2026-09-04",
+   "updated": "2026-10-11"
+  },
+  "gfwa-toms-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "gfwwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-15"
+  },
+  "ghwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "giw-galveston-2010": {
+   "added": "2026-10-04",
+   "updated": "2026-10-10"
+  },
+  "giw-global-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "giw-oct1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "giw-writers-guild": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "giwa-entity-a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "giwf": {
+   "added": "2026-08-22",
+   "updated": "2026-10-10"
+  },
+  "giwf-jun-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "giwf-titans-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "giwf-weeklywar-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "glcw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "glcw-2002": {
+   "added": "2026-10-08",
+   "updated": "2026-10-09"
+  },
+  "glhw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "glow-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "glw": {
+   "added": "2026-08-26",
+   "updated": "2026-08-31"
+  },
+  "glw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "gmwe": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "gnw-generationnext-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-11"
+  },
+  "gnw-global-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "gnwc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "gotham-world-order": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gpw-bayarea-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "gpw-global-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "gpw-grindpro-2021": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "gpwa": {
+   "added": "2026-09-07",
+   "updated": "2026-09-11"
+  },
+  "gr8-wwf-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "grand-ole-wrasslin-2016": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "grw": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "gsw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "gsw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "gsw-georgia-1998": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "gswa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gswp-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "gvwl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gw": {
+   "added": "2026-08-23",
+   "updated": "2026-10-11"
+  },
+  "gw-global-inc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "gw-global-warfare-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "gwa-0catch-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "gwa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "gwa-angelfire-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "gwa-aol-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "gwa-dustylove-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "gwa-gateway-2004": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "gwa-wrestling-com-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "gwc-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "gwc-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "gwc-connection-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "gwc-grand-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "gwe-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "gwf-1995": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "gwf-1996-02": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "gwf-1996-08": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "gwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gwf-2006": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "gwf-colosseum-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-14"
+  },
+  "gwf-gold-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "gwf-mar-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "gwf-psyberia-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "gwf-sep-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "gwf-terrordome-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "gwl-1997a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gwl-1997b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "gwl-german-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "gwl-may-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "gwnw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-20"
+  },
+  "gwo-global-2004": {
+   "added": "2026-10-06",
+   "updated": "2026-10-06"
+  },
+  "gwo-homestead-2001": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "gww-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "gxw-2001": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "gyeah": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "gyeah-wrestling-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "gzw": {
+   "added": "2026-08-29",
+   "updated": "2026-09-01"
+  },
+  "hammer-wrestling-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "hammerlock-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "hbw-iwf-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-09-13"
+  },
+  "hccw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hccw-highcaliber-2018": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "hcw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "hcw-hardcore-1997": {
+   "added": "2026-09-11",
+   "updated": "2026-10-08"
+  },
+  "hcw-hardcore-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "hcw-hcw4ever-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "hcw-house-of-champions-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "hcw-jun-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "hcwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hcwf": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "hcwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "hel": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hew-2017": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "hewf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hfc-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "hfwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hhwo": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "hiw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "hiw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "hiwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-11"
+  },
+  "hiwf-1997-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hiwf-entity-a-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "hiwf-entity-c-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hiwf-entity-e-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "hkw-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "hmcw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "how-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "how-heritage-2000": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "howf-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-14"
+  },
+  "hpw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hrw-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "huge-hellfire-2000": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "hw-hellfire-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "hwa-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "hwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "hwa-aug-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "hwa-entity-a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwa-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwa-entity-d": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "hwa-entity-e": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "hwa-entity-f": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwa-entity-g": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "hwa-homeless-1998": {
+   "added": "2026-09-15",
+   "updated": "2026-09-21"
+  },
+  "hwa-homicidal-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "hwa-jul-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "hwa-jun-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "hwa-mar-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "hwa-resurrection-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "hwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-07"
+  },
+  "hwf-acwdwfmerger-1996": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "hwf-b-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwf-c-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "hwf-d-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "hwf-dec-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "hwf-e-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwf-f-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwf-g-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwf-h-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwf-hells-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "hwf-i-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwf-j-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "hwf-jan-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "hwf-jul-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "hwf-mar-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "hwi-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "hwl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-05"
+  },
+  "hwo-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "hwo-2005": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "hwwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "hyper": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "iafw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "iaw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-20"
+  },
+  "ibw-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "icbinr": {
+   "added": "2026-08-29",
+   "updated": "2026-09-14"
+  },
+  "iccw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "ice-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "icew": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "icewf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "icewf-jul-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "icon-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "icpw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "ictc": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "icw-2000-nov1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "icw-2012": {
+   "added": "2026-10-09",
+   "updated": "2026-10-09"
+  },
+  "icw-adrenaline-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "icw-arena9321-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "icw-bloodspread-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "icw-dec1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "icw-ewrestling-1999": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "icw-feb-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "icw-illinois-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "icw-imaginary-2006": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "icw-insane-dec1997": {
+   "added": "2026-09-05",
+   "updated": "2026-10-08"
+  },
+  "icw-insane-jan2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "icw-intense-pittsburgh-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "icw-jul-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "icw-jul1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "icw-jun1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "icw-nextgen-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "icw-online-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "icw-pweboard": {
+   "added": "2026-08-24",
+   "updated": "2026-08-24"
+  },
+  "icw-rebirth-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "icw-spwa-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "icw-strategies-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "icw-tacoma-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "icw-uk-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-22"
+  },
+  "icw-webtv-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "icw-wls-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "icwa": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "icwa-alliance-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "icwa-fantasy-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "icwa-feb-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "icwc": {
+   "added": "2026-08-27",
+   "updated": "2026-08-28"
+  },
+  "icwf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-14"
+  },
+  "icwf-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "icwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "icwf-2000-04": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "icwf-apr-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "icwf-eznet-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "icwf-freewebs-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "icwf-wls-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "icwl-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "icwo-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "idgbdw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "iea-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ieuw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "iew-angelfire-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "iew-entity-a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "iew-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "iew-frenzy-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-22"
+  },
+  "iew-monday-metal-2002": {
+   "added": "2026-09-15",
+   "updated": "2026-09-22"
+  },
+  "iew-tripod-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "iewa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-05"
+  },
+  "iewa-electronic-1997": {
+   "added": "2026-09-07",
+   "updated": "2026-09-12"
+  },
+  "iewa-international-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "iewa-mclaren-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "iewc-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "iewf-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "iewf-lwc": {
+   "added": "2026-09-04",
+   "updated": "2026-10-11"
+  },
+  "iewl-extreme-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "ifw-1997-uk": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ifwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "ifwf-apr-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ifwf-gwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "iga-2003": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "igc": {
+   "added": "2026-09-07",
+   "updated": "2026-10-07"
+  },
+  "ihw-backyard-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "ihwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "ihwf": {
+   "added": "2026-08-29",
+   "updated": "2026-09-01"
+  },
+  "iicw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-20"
+  },
+  "iiew-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-10-10"
+  },
+  "iiwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "iiwa-1-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "iiwa-2-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "iiwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-11"
+  },
+  "ijcw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "il": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "iliw": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "iloc-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-10-09"
+  },
+  "ilpw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "ilw-1998": {
+   "added": "2026-09-10",
+   "updated": "2026-10-09"
+  },
+  "ilwa-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "imac-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "imac-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "iml": {
+   "added": "2026-08-26",
+   "updated": "2026-08-26"
+  },
+  "imwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "imwa-2004": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "incwcw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "international-allied-wrestling-federation-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "internet-elite-wrestling-cup": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "inwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "inwa-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "inwi": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "iow-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "iow-online-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iowf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-10-09"
+  },
+  "ipw-impact-pro-2005": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "ipw-indianapolis-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ipw-international": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "ipw-xfwl": {
+   "added": "2026-09-08",
+   "updated": "2026-09-09"
+  },
+  "ipwa": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "irccw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "irw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "issw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "isw-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iswl": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "iuw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "iw-2005": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "iw-corporation-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "iwa-1996-11": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "iwa-1996-pbem": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "iwa-1996-web": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "iwa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "iwa-alliance-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwa-angelfire-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "iwa-atlantis": {
+   "added": "2026-08-29",
+   "updated": "2026-09-01"
+  },
+  "iwa-colosseum-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwa-copresidents-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "iwa-entertheiwa-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwa-gin-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwa-global-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwa-icon": {
+   "added": "2026-08-29",
+   "updated": "2026-09-01"
+  },
+  "iwa-iewa-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwa-intense-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwa-intensive-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwa-internet": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "iwa-internetchampionship-2001": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwa-nov-1999": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwa-onlythestrong-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "iwa-sundaysacrifice-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwa-tnm-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwa-ucwa-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwa-ultramania-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwa-umbrella-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwa-vianet-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwa-wednesdaywarfare-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "iwa-xoom-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwa2-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwc-coalition": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "iwc-colbycup-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "iwc-dec-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "iwc-fwrestling-2008": {
+   "added": "2026-09-25",
+   "updated": "2026-09-25"
+  },
+  "iwc-international-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "iwc-network-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "iwe": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwf": {
+   "added": "2026-08-22",
+   "updated": "2026-08-25"
+  },
+  "iwf-1996-06": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "iwf-1996-08": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "iwf-1996-09": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "iwf-1996-10": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "iwf-1999-geocities": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwf-2011": {
+   "added": "2026-09-07",
+   "updated": "2026-10-08"
+  },
+  "iwf-amsterdam-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwf-angelfire-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "iwf-aug1999-xoom": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "iwf-beseen-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwf-envy-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwf-geocities-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwf-hostiletakeover-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwf-icehomepage-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-06"
+  },
+  "iwf-independent-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "iwf-interuniversal-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwf-may1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "iwf-netomia-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "iwf-nov1999-uk": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "iwf-ordinary-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "iwf-pbm-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-09-13"
+  },
+  "iwf-ring4675": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "iwf-roleplay-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwf-tripod-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwf-wow-1997": {
+   "added": "2026-09-10",
+   "updated": "2026-10-10"
+  },
+  "iwf-wow-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-09"
+  },
+  "iwinwf-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "iwl-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwl-geeksoft-2000": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwl-international-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-09-14"
+  },
+  "iwl-internet-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "iwo-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "iwo-geocities-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwo-handbook-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "iwo-jan-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iwo-jps-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwo-jun-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwo-xoom-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "iwr-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "iws-no-limits-2007": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "iws-slurpee-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "iws-superstars-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "iww": {
+   "added": "2026-09-04",
+   "updated": "2026-09-07"
+  },
+  "iww-immortal-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "iwwc-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "iwwf-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "iwwl-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-14"
+  },
+  "ixwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-20"
+  },
+  "jcdf": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "jcwf-1994": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "jew-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "jiwwa-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "jjg-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "jolt-2001": {
+   "added": "2026-10-08",
+   "updated": "2026-10-08"
+  },
+  "jpa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "jpw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "jrmc": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "jwa-ajfa": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "jwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "jwl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-05"
+  },
+  "jwo-2007": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "kawf": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "kcw-knoxville-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "kew": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "kfw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "king-wrestling-association-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "kni-1998": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "kombat-pro-2009": {
+   "added": "2026-09-10",
+   "updated": "2026-10-10"
+  },
+  "kscw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "kwf-2004": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "kwf-jan1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "kwf-keystone-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "kwf-knuckles-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "kwf-krazy-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "lavalle-cup": {
+   "added": "2026-09-06",
+   "updated": "2026-09-06"
+  },
+  "law-liveaction-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "law-losangeles-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "law-ottawa-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "lcw": {
+   "added": "2026-08-25",
+   "updated": "2026-10-10"
+  },
+  "lcw-1997": {
+   "added": "2026-08-27",
+   "updated": "2026-10-08"
+  },
+  "lcw-evo": {
+   "added": "2026-08-25",
+   "updated": "2026-10-09"
+  },
+  "lcw-legends-2005": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "lcw-ltd": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "lcw-mercury": {
+   "added": "2026-08-25",
+   "updated": "2026-10-09"
+  },
+  "league-of-champions-2007": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "legacy-of-champions-2014": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "legends-1998": {
+   "added": "2026-09-12",
+   "updated": "2026-09-21"
+  },
+  "legends-of-wrestling-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "legion-2008": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "lew": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "lewa-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "lli-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "lol-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-09-21"
+  },
+  "lotr-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "low": {
+   "added": "2026-08-23",
+   "updated": "2026-10-09"
+  },
+  "lpea-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "lpw-legend-1998": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "lscw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "lsw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "lswu": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "lvpw": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "lvpwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "lvw-2005": {
+   "added": "2026-09-07",
+   "updated": "2026-10-08"
+  },
+  "lvwf-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-10-10"
+  },
+  "lvwf-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "lwa-anarchy-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "lwa-lambo-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "lwa-larose-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "lwa-london-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "lwf-jul-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "lwf-legends-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "lwo-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "lwo-latino-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "lwo-theewu-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "lwwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "lwwa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "m15-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "machoking-championship-wrestling": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "maritime-wa-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "marks-championship-wrestling": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "maw-10-simple-rules": {
+   "added": "2026-10-07",
+   "updated": "2026-10-10"
+  },
+  "mawa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "mawl-philadelphia-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "mbc-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-08"
+  },
+  "mbe": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "mbwf-1992": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "mbwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-13"
+  },
+  "mcmw-1995": {
+   "added": "2026-09-10",
+   "updated": "2026-09-10"
+  },
+  "mcw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "mcw-2006": {
+   "added": "2026-09-07",
+   "updated": "2026-10-07"
+  },
+  "mcw-jul-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "mcw-malacian-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "mcw-manitoba-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "mcw-mentally-challenged-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "mcw-mentally-challenged-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "mcw-mentally-challenged-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-22"
+  },
+  "mcw-midwest-2004": {
+   "added": "2026-09-09",
+   "updated": "2026-09-22"
+  },
+  "mcw-millennium-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "mcw-motor-city": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "mcw-thirdgen-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "mcwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "mcwf-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "mcwf-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "mcwf-matts-1996": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "mcwf-midcanada-1999": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "mdw-a-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "mdw-b-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "mdw-c-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "mecw-main-event-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "memphis-pro-2003": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "mew-madness-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "mew-main-event-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "mew-tournament-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "mff": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "mfw-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "mhw-machri": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "mhw-mile-high-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-10"
+  },
+  "miw": {
+   "added": "2026-09-09",
+   "updated": "2026-09-22"
+  },
+  "miwa-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "miwa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "miwf-1996-07": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "mkwf-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "mlw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "mlw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "mlw-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "mlwo-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-11"
+  },
+  "mmow-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "moa": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "motsc-apr-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "mpw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "mpw-des-moines-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "mpw-mega-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "mrw-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "mscw": {
+   "added": "2026-09-07",
+   "updated": "2026-09-21"
+  },
+  "msew": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "msw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "mswa-memphis-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "mswf-mountain-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "mvw": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "mvwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-10-09"
+  },
+  "mwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "mwa-malicious-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "mwa-maze-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "mwa-midget": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "mwa-midwest-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "mwa-millenium-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "mwa-minooka-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "mwa-moderndaywa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "mwa-nwc-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-11"
+  },
+  "mwc-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-22"
+  },
+  "mwc-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "mwc-modern-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "mwcw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "mwe": {
+   "added": "2026-08-22",
+   "updated": "2026-08-22"
+  },
+  "mwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "mwf-quebec-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "mwl-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "mwwa": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "mwwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "mwwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "mwwf-mar-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "mwwf-my-world-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "naaw": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "nacw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "nacwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "naew-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "naiwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "napw": {
+   "added": "2026-08-22",
+   "updated": "2026-10-09"
+  },
+  "napw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "napwo": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "naw": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "naw-1998": {
+   "added": "2026-09-10",
+   "updated": "2026-10-10"
+  },
+  "nawa-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "nawa-angelfire-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "nawa-efeduniverse-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "nawa-fallout-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "nawa-heartland": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nawa-northamerican-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "nawa-track2898-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nawc-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nawc-2005": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "nawc-council-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-10"
+  },
+  "nawf": {
+   "added": "2026-08-29",
+   "updated": "2026-09-02"
+  },
+  "nawf-1997a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "nawf-1997b": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "nawf-1997c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nawf-1997d": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nawf-1998a": {
+   "added": "2026-09-07",
+   "updated": "2026-09-08"
+  },
+  "nawf-1998b": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "nawf-jul-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "nawf-jun-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "nawf-mastersofthemat-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "nawl-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "nbw-minneapolis-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "nbw-newbreed-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "nbw-no-brand-2013": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "nbw-washington-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "nccw-1998": {
+   "added": "2026-09-04",
+   "updated": "2026-10-08"
+  },
+  "nccw-utm-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "ncnw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "ncw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "ncw-california-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-10"
+  },
+  "ncw-nashville-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "ncw-national-1999": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ncw-net-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "ncwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "ncwa-anarchy-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "ncwa-aug-1997": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ncwa-newclassic-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ncwa-newcomputer-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ncwa-nocal-2003": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "ndw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "necw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "necw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "necw-national-elite-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "necw-northeast-2004": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "nefw": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "neo-alberta-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "neo-international-2006": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "neo-j-2005": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "neo-pro-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "neojapan-puroresu-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "nepw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "nepw-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "net-wrestling-alliance-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "network-wrestling-alliance-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "new-2000": {
+   "added": "2026-09-15",
+   "updated": "2026-10-10"
+  },
+  "new-blood-wrestling-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-21"
+  },
+  "new-breed-wrestling-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "new-era-of-wrestling": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "new-extreme-1996": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "new-generation-attitude-2019": {
+   "added": "2026-10-07",
+   "updated": "2026-10-10"
+  },
+  "new-networkextreme-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "new-york-state-wrestling-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "newa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "newa-1992": {
+   "added": "2026-08-25",
+   "updated": "2026-09-21"
+  },
+  "newa-hub-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-09-22"
+  },
+  "newa-jul-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "newa-mid-atlantic": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "newa-new-england-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "newc": {
+   "added": "2026-09-08",
+   "updated": "2026-09-10"
+  },
+  "newc-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "newcowf-1997": {
+   "added": "2026-09-10",
+   "updated": "2026-09-10"
+  },
+  "newf": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "newf-concordnh-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "newf-netcomuk-1996": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "newf-newengland-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "newf-northeast-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "newf-pressbox-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "nfw": {
+   "added": "2026-08-23",
+   "updated": "2026-10-10"
+  },
+  "ngen-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "ngen-2010": {
+   "added": "2026-10-08",
+   "updated": "2026-10-08"
+  },
+  "ngf-mondaynightmayham-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "ngowf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ngw": {
+   "added": "2026-08-23",
+   "updated": "2026-10-10"
+  },
+  "ngw-carnage-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "ngw-slam-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "nhbwa-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "nicw-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "nicwf-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "nifw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "niwa": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "niwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "niwf-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "niwf-national-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "niwt": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "njiw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "njwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "njwc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "nlw-apr-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "nlw-next-level-2009": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "nlw-northren-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "nlwe-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "nlwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "nlwf-2009": {
+   "added": "2026-10-06",
+   "updated": "2026-10-06"
+  },
+  "nlwp": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "nmsewf-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "nmw": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "nmw-hypermart-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "nmw-jan-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "nmw-monroe-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "nnew-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "nnw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "nop-nagoya-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "nor-cal-wrestling-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "now": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "nowl-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "npw": {
+   "added": "2026-08-22",
+   "updated": "2026-08-22"
+  },
+  "npw-newpower-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "npw-northeastern": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "npwa-nanet": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "npwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "nrg-2006": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "nrw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "nrw-fandemonium-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "nrwf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "nrwl-newrevolution-2011": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "nspw-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "nsw": {
+   "added": "2026-08-23",
+   "updated": "2026-10-09"
+  },
+  "nswa-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "nticw": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "nticw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "nwa-dec-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "nwa-entity-3": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nwa-entity-4": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "nwa-entity-5": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nwa-jan-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "nwa-jul-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "nwa-north-american-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "nwa-tna-geocities-2004": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "nwc-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "nwcj-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "nwcw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "nwcw-north-western-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "nwf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "nwf-dec-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "nwf-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nwf-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-13"
+  },
+  "nwf-entity-d": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nwf-entity-e": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nwf-entity-f": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nwf-entity-g": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nwf-rpg-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-05"
+  },
+  "nwi": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "nwl-2003": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "nwl-2004": {
+   "added": "2026-09-07",
+   "updated": "2026-10-07"
+  },
+  "nwn-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "nwp-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "nwp-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "nwpw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "nww": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "nwwa-1998": {
+   "added": "2026-08-26",
+   "updated": "2026-09-22"
+  },
+  "nwwa-newwave-1998": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "nwwa-northwest-1998": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "nwwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "nwwf-national-1997": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "nwwwwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "nyswf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "nywa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "obw": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "ocw-b": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "ocw-outlaw-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-10"
+  },
+  "oefo-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "olwa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "osf-2003": {
+   "added": "2026-10-09",
+   "updated": "2026-10-10"
+  },
+  "osw": {
+   "added": "2026-08-22",
+   "updated": "2026-10-10"
+  },
+  "osw-online": {
+   "added": "2026-09-06",
+   "updated": "2026-10-09"
+  },
+  "osw-steubenville-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ovwl-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "ow-outlaw-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "owa-greensboro-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "owa-online": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "owa-orlando": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "owc-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "owe-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "owe-philadelphia-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-10"
+  },
+  "owf-2000-03": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "owf-angelfire-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "owf-aug-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "owf-hypermart-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "owf-netfirms-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "owf-ohio-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-10-10"
+  },
+  "owf-ontario-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "owf-owf2k-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "owl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-13"
+  },
+  "owl-dec-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "owo": {
+   "added": "2026-09-04",
+   "updated": "2026-09-20"
+  },
+  "oww": {
+   "added": "2026-08-26",
+   "updated": "2026-08-26"
+  },
+  "oww-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "owwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "owwa-online-1998": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "paw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "paw-public-access-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-22"
+  },
+  "paw-pure-american-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-10"
+  },
+  "pccw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-20"
+  },
+  "pcw": {
+   "added": "2026-08-22",
+   "updated": "2026-10-11"
+  },
+  "pcw-2007": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "pcw-8253": {
+   "added": "2026-08-26",
+   "updated": "2026-09-21"
+  },
+  "pcw-grapplearium-1996": {
+   "added": "2026-09-11",
+   "updated": "2026-10-11"
+  },
+  "pcw-jul-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "pcw-paradise-2005": {
+   "added": "2026-09-08",
+   "updated": "2026-09-22"
+  },
+  "pcw-parliament-city-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "pcw-poughkeepsie-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "pcw-premiere-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "pcwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "pcwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "pcwf-productions-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "pewa-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "pez": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "pfw-professional-fantasy-1997": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "pfwl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ph-projecthonor-2020": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "phw": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "phwa-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "pic-pittsburgh-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "pico-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "piw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "piw-phoenix-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "piw-politically-incorrect-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "piwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-13"
+  },
+  "pjg": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "pjw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-14"
+  },
+  "plw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "pmw-1997": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "portuguese-wrestling-booking-2009": {
+   "added": "2026-09-10",
+   "updated": "2026-10-10"
+  },
+  "pow-powerhouse-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "pow-professional-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "ppow": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ppw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ppw-2005": {
+   "added": "2026-09-08",
+   "updated": "2026-09-21"
+  },
+  "ppw-pan-pacific-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ppwo": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "premier-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-22"
+  },
+  "prime-2003": {
+   "added": "2026-09-24",
+   "updated": "2026-10-11"
+  },
+  "pro-wrestling-glory-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "prodigy": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "psw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "ptc": {
+   "added": "2026-08-22",
+   "updated": "2026-10-11"
+  },
+  "ptpw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ptw-pure-talent-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ptwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ptwl": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "pure": {
+   "added": "2026-08-23",
+   "updated": "2026-10-11"
+  },
+  "pvwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "pw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pw-fusion-2009": {
+   "added": "2026-09-10",
+   "updated": "2026-10-10"
+  },
+  "pwa-1992": {
+   "added": "2026-08-25",
+   "updated": "2026-09-21"
+  },
+  "pwa-pacific-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "pwa-perfect-1996": {
+   "added": "2026-09-07",
+   "updated": "2026-09-20"
+  },
+  "pwa-phantasy-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "pwa-pioneer": {
+   "added": "2026-08-29",
+   "updated": "2026-09-21"
+  },
+  "pwa-power-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pwa-premier-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pwa-primetime": {
+   "added": "2026-09-26",
+   "updated": "2026-10-09"
+  },
+  "pwa-psychopathic-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pwa-secondgen-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pwc-caribbean-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-09"
+  },
+  "pwc-circuit": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "pwc-coalition-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "pwc-fwrestling-2011": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "pwc-wrestleonline-2003": {
+   "added": "2026-10-01",
+   "updated": "2026-10-11"
+  },
+  "pwe-inc": {
+   "added": "2026-08-23",
+   "updated": "2026-08-24"
+  },
+  "pwe-projectefed": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "pwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "pwf-ab3-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pwf-pacific-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "pwf-peoples-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "pwf-pepper-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pwf-power-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "pwf-powersite": {
+   "added": "2026-08-27",
+   "updated": "2026-08-28"
+  },
+  "pwf-pro-1996b": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "pwh-honor": {
+   "added": "2026-09-25",
+   "updated": "2026-09-25"
+  },
+  "pwl-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "pwl-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pwl-professional-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "pwo-premier-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pwp-2000-1": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "pwr": {
+   "added": "2026-09-08",
+   "updated": "2026-09-21"
+  },
+  "pwr-fed-2008": {
+   "added": "2026-09-10",
+   "updated": "2026-10-10"
+  },
+  "pwr-renaissance-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "pwt-apr-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "pwu-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "pww": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "pww-worldwide-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-24"
+  },
+  "pwx-2005": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "qwf": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "r4ge-fwrestling-2004": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "rage-2006": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "rage-wrestling-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-10-09"
+  },
+  "rampage-pro-2004": {
+   "added": "2026-10-06",
+   "updated": "2026-10-06"
+  },
+  "raw-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-22"
+  },
+  "raw-calvada-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "raw-carolina-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "raw-ewu-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "raw-florida-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "raw-ny-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "raw-really-awesome-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-22"
+  },
+  "raw-red-alert-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "raw-stralia-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "raw-uk-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "raw2k-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "rawf": {
+   "added": "2026-08-27",
+   "updated": "2026-09-22"
+  },
+  "rawf-radical-american-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "rbf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "rbw-riverboat-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "rccw-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "rcw-nz-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "rcw-oct-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "rcw-portland-2006": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "rcw-robert": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "rcw-royal": {
+   "added": "2026-08-29",
+   "updated": "2026-09-21"
+  },
+  "rcwf-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "rdw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "rdw-real-deal-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "rdwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "re-raw": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "rebel-pro-2007": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "rec-games-pbm": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "revolution-wrestling": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "rewf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "rewf-jul-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "rewf-revolution-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "rfhw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "rfw-directory-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "rfw-webtv-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "rhw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "ripwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "rkwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "rlw": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "rmwa-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-14"
+  },
+  "row-2012": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "rpca-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "rpw-rushpro-2003": {
+   "added": "2026-10-01",
+   "updated": "2026-10-11"
+  },
+  "rsll-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-09"
+  },
+  "rsp-ringside-seat-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "rspcw-1994": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "rspw": {
+   "added": "2026-08-25",
+   "updated": "2026-10-09"
+  },
+  "rspw-federation-1990": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "rspwf": {
+   "added": "2026-08-23",
+   "updated": "2026-10-10"
+  },
+  "rspwf-parody-1994": {
+   "added": "2026-10-10",
+   "updated": "2026-10-11"
+  },
+  "rspwwcw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "rspwwwf": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "rsw-red-star-2009": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "rsw-rising-star-2002": {
+   "added": "2026-09-23",
+   "updated": "2026-10-09"
+  },
+  "rswa": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "rumble-pro-wrestling-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-09"
+  },
+  "rush-2002": {
+   "added": "2026-09-28",
+   "updated": "2026-10-09"
+  },
+  "ruswa-mail-companion": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "rvrl-2006": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "rwa-rabid-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "rwa-rockem-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "rwa-rugged": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "rwf-dice-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "rwf-favorites-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "rwf-juno-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "rwf-qnet-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "rwf-radical-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "rwf-reapers-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-06"
+  },
+  "rwf-redemption-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "rwf-redemptionwrestling-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "rwf-revolutionary-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "rwf-revolutionary-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "rwl-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "rww": {
+   "added": "2026-08-29",
+   "updated": "2026-09-22"
+  },
+  "rwwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "s-pro-s": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "sacred-heart": {
+   "added": "2026-10-09",
+   "updated": "2026-10-09"
+  },
+  "saints-haven": {
+   "added": "2026-09-25",
+   "updated": "2026-09-25"
+  },
+  "sapw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "saw-southern-alliance-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "sbs": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "sccw": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "sccw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "sccw-2005": {
+   "added": "2026-09-24",
+   "updated": "2026-10-09"
+  },
+  "sccw-nwc-1999": {
+   "added": "2026-09-13",
+   "updated": "2026-10-09"
+  },
+  "sccw-simcoe-2009": {
+   "added": "2026-10-06",
+   "updated": "2026-10-10"
+  },
+  "scoops": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "scra": {
+   "added": "2026-09-04",
+   "updated": "2026-10-11"
+  },
+  "scw-1995-12": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "scw-dec-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "scw-entity-a": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "scw-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "scw-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "scw-entity-d": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "scw-entity-e": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "scw-jun-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "scw-may-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "scw-oct-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "scw-southern-cross-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "scw-southwestern-2019": {
+   "added": "2026-09-27",
+   "updated": "2026-09-27"
+  },
+  "scw-steel-city-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-09-21"
+  },
+  "scw-suicidal-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "scw-survival": {
+   "added": "2026-08-29",
+   "updated": "2026-09-21"
+  },
+  "scwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "scwa-socal-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "scwa-southern-collegiate-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "scwf": {
+   "added": "2026-08-22",
+   "updated": "2026-09-21"
+  },
+  "scwf-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "scwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "scwf-nov-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "scwf-socal-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "scwf-steelcage-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "scwf-supreme-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "sdwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "seew": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "seewa-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "sefw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "sew-sharpshooter-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "sewa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "sewer": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "sewf": {
+   "added": "2026-08-27",
+   "updated": "2026-10-10"
+  },
+  "sewf-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "sewf-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "sewf-southern-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "sft-strike-towers-1998": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "sfw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "sfw-seattle-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "shootclub-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "shootfire-pro-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "show-2-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "shvf-1998": {
+   "added": "2026-09-12",
+   "updated": "2026-09-13"
+  },
+  "shw-2000-02": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "shw-angelfire-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "shw-simply-hardcore-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "sica-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "siw-supreme-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "sjp-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "sjpw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "sjwl-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "slwa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "sow-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-21"
+  },
+  "sow-dec-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "sowf-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "spring-classic-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "spw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "spw-nz-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "spw-shootfire-2006": {
+   "added": "2026-09-08",
+   "updated": "2026-09-22"
+  },
+  "spwo": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "srw-2009": {
+   "added": "2026-09-10",
+   "updated": "2026-10-10"
+  },
+  "sscw-seattle-2004": {
+   "added": "2026-09-09",
+   "updated": "2026-10-10"
+  },
+  "ssdrr-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "ssgc": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "ssw-florida-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "ssw-sunshine-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "sswa-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "stewart-wf-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "stw-iwf-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-09-13"
+  },
+  "stw-southeasttexas-2003": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "summit-of-e-wrestling": {
+   "added": "2026-09-02",
+   "updated": "2026-10-11"
+  },
+  "superleague-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "superleague-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "superslam-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "svw-siliconvalley-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "svw-southernvirtual-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "svw-steelvalley-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "sw-storm-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "swa-2008": {
+   "added": "2026-09-09",
+   "updated": "2026-09-21"
+  },
+  "swa-action-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "swa-hypermart-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "swa-oct-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "swa-seltor": {
+   "added": "2026-08-29",
+   "updated": "2026-09-21"
+  },
+  "swa-super-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "swa-superior-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-10"
+  },
+  "swa-superstar-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "swa-supreme-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "swa-survival-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "swa-tripod-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "swat-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "swc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "sweet-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "swf-1997c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "swf-1997d": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "swf-1997e": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "swf-1997f": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "swf-baltimore-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-11"
+  },
+  "swf-generation-supreme": {
+   "added": "2026-10-06",
+   "updated": "2026-10-10"
+  },
+  "swf-pettingzoo-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "swf-seattle-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "swf-shaneo-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "swf-signature-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "swf-smackdown-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "swf-strikezone-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "swf-superior-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "swf-superior-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "swf-supreme-swf500-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "swf-supreme-tripod-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "swift-mma": {
+   "added": "2026-09-07",
+   "updated": "2026-10-08"
+  },
+  "swl-1992": {
+   "added": "2026-08-25",
+   "updated": "2026-09-21"
+  },
+  "swl-1997a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "swl-1997b": {
+   "added": "2026-09-10",
+   "updated": "2026-10-10"
+  },
+  "swl-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "swo-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "swp-arizona-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "swp-southern-wisconsin-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-10"
+  },
+  "swp-sundevil": {
+   "added": "2026-09-07",
+   "updated": "2026-09-21"
+  },
+  "swt-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-10"
+  },
+  "swwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "swwe-fed-2007": {
+   "added": "2026-09-10",
+   "updated": "2026-09-10"
+  },
+  "swwf-claimant-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "sxw-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "sxw-solid-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "sych-ewa-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "taewf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "taw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "taw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "taw-totally-awesome-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "taw-true-attitude-2008": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "tbwo-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "tcef": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "tcff-carnage-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "tcw-a-quiet-retirement": {
+   "added": "2026-10-07",
+   "updated": "2026-10-10"
+  },
+  "tcw-bucknell-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "tcw-carnage-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "tcw-dec-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "tcw-tcw2-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "tcw-tincan-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "tcw-traditional-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "tcw-twincities-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "tcwa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "tdw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "team-2005": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "tewf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "tewf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "tewf-twiggs-1999": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "tewn-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "tf": {
+   "added": "2026-08-23",
+   "updated": "2026-10-11"
+  },
+  "tfw-total-fantasy-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "tga-was": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "the-death-collective": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "the-show-2003": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "the-x": {
+   "added": "2026-08-22",
+   "updated": "2026-08-22"
+  },
+  "threat": {
+   "added": "2026-09-24",
+   "updated": "2026-10-09"
+  },
+  "tirw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "titan-zone": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "tiw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "tna-total-nonstop-2006": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "tna-total-nonstop-action-2008": {
+   "added": "2026-10-07",
+   "updated": "2026-10-08"
+  },
+  "tnbt": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "tnl-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "total-pro-wrestling-2006": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "towl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "tpg": {
+   "added": "2026-08-24",
+   "updated": "2026-08-24"
+  },
+  "tppwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-10-09"
+  },
+  "tpw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "tpwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "tra-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "triumph-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "tropical-wrestling-association": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "trw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "tsc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "tsc-may-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "tslams": {
+   "added": "2026-08-24",
+   "updated": "2026-08-25"
+  },
+  "tsw-apr-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "tsw-jan-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "tsw-tristate-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "tswf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ttswf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-20"
+  },
+  "ttw-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "ttwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "ttwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ttwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "twa-total-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "twc": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "twc-takeley-2004": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "twf-e-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "twf-entity-a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-05"
+  },
+  "twf-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "twf-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "twf-texas-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "twf-titan-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "twf-triad-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "twg-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "twl-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "twl-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "tww-2008": {
+   "added": "2026-10-07",
+   "updated": "2026-10-08"
+  },
+  "twwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "uawa-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "uawf-1995": {
+   "added": "2026-09-04",
+   "updated": "2026-09-13"
+  },
+  "ubc-wrestleonline-2002": {
+   "added": "2026-10-01",
+   "updated": "2026-10-11"
+  },
+  "ubf": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "uca-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "ucw-2002": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "ucw-2006": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "ucw-dallas-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ucw-dec-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ucw-jan-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ucw-pelham-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ucw-pweboard": {
+   "added": "2026-08-24",
+   "updated": "2026-09-21"
+  },
+  "ucw-ultimate-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-22"
+  },
+  "ucw-underground-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "ucw-united": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "ucwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "ucwf": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "ucwf-1996-07": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "ucwf-1996-10": {
+   "added": "2026-09-05",
+   "updated": "2026-09-14"
+  },
+  "ucwf-aol": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ucwf-aug-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "ucwp": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "uea": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "uecw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uemw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "uew-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-10-10"
+  },
+  "uew-owensound-2005": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "uewa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uewa-huckster-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "uewa-mindspring-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uewc-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "uewf": {
+   "added": "2026-08-25",
+   "updated": "2026-09-02"
+  },
+  "uewf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "uewf-colosseum-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "uewf-drysdale-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "uewf-may-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "uewf-universal-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "uff-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "uff-aol-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "uffml-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "ufw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ufw-ultimatefantasy-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ufw-ultra-2000": {
+   "added": "2026-09-25",
+   "updated": "2026-09-25"
+  },
+  "ufwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ufwf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "ufwf-entity-1": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "ufwf-entity-2": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "ufws": {
+   "added": "2026-08-25",
+   "updated": "2026-09-02"
+  },
+  "uga": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "ugw-nightclub": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ugw-uncensored": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uhwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "uhwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "uicw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "uicw-dec-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "uiw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uiw-aol": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uiwa-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "uiwf": {
+   "added": "2026-08-22",
+   "updated": "2026-10-09"
+  },
+  "uiwf-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "uiwo": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ujp-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "ujpw-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "ukcw-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "ukwa": {
+   "added": "2026-09-09",
+   "updated": "2026-09-21"
+  },
+  "ukwa-nov-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ukwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "ulwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "united-extreme-wrestling-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "universal-professional-wrestling-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "universal-wrestling-alliance": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "unwf": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "upw": {
+   "added": "2026-08-25",
+   "updated": "2026-10-09"
+  },
+  "upw-universalpro-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "urw": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "urwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uscw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "uscw-2000-01": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "uscw-jan-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "uscwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "usew": {
+   "added": "2026-09-02",
+   "updated": "2026-09-02"
+  },
+  "usiw-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "usiwwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "usjp": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "uspw-65-and-older": {
+   "added": "2026-10-07",
+   "updated": "2026-10-10"
+  },
+  "usw-iwf-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-09-13"
+  },
+  "uswa-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "uswa-97a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "uswa-97b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uswa-alliance-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "uswf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uswf-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-08"
+  },
+  "uswf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "uswf-collins-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "uswf-microserve-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "uswf-silkk-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "uswf-unixstew-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "usx": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "uuw-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "uvwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uwa": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "uwa-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "uwa-angelfire-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "uwa-geocities-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "uwa-monday-night-moon-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "uwa-new-generation-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "uwa-oct-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "uwa-sep-1998": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "uwa-superstar7-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "uwa-ultra-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "uwa-underground-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "uwa-united-jun-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "uwa-united-may-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "uwc-beyondreason-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "uwc-circuit-2005": {
+   "added": "2026-10-10",
+   "updated": "2026-10-10"
+  },
+  "uwc-conference-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-10-09"
+  },
+  "uwc-underground-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-21"
+  },
+  "uwc-unified-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "uwc-universal-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "uwc-unlawful-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "uwcoe": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uwcwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uwe-universal-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "uwf": {
+   "added": "2026-08-22",
+   "updated": "2026-10-11"
+  },
+  "uwf-1996-03": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "uwf-arena-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-10"
+  },
+  "uwf-eliterp-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "uwf-fwrestling-2009": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "uwf-mar-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "uwf-mar96": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "uwf-may98-ad": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "uwf-oct97": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "uwf-presidentsabu-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-10-09"
+  },
+  "uwf-quickening-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-10-09"
+  },
+  "uwf-slam-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-09-19"
+  },
+  "uwf-teesa-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "uwf-uwow": {
+   "added": "2026-08-27",
+   "updated": "2026-08-28"
+  },
+  "uwf-wrestlinginfo-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "uwl": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "uwl-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uwl-underground-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "uwo": {
+   "added": "2026-08-25",
+   "updated": "2026-08-25"
+  },
+  "uwo-email-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-21"
+  },
+  "uwo-liquid2k-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-10"
+  },
+  "uwow": {
+   "added": "2026-08-27",
+   "updated": "2026-08-28"
+  },
+  "uwp-coalition-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "uws-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "uwwa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "uwwa-spree-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "uwwc-unified-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "uwwf-entity-a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uwwf-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "uxwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "vaw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "vaw-violence-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "vbw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "vcw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-13"
+  },
+  "vcw-online-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "vcw-victory-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "vcw-voodoo-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "venus-2006": {
+   "added": "2026-10-07",
+   "updated": "2026-10-09"
+  },
+  "vfwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "virtualfdwe-2007": {
+   "added": "2026-09-10",
+   "updated": "2026-09-10"
+  },
+  "vpwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "vrw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "vsw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "vw-sacramento-2003": {
+   "added": "2026-10-09",
+   "updated": "2026-10-09"
+  },
+  "vwa-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-13"
+  },
+  "vwa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "vwa-malicious-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "vwa-video-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "vwa-virtual-1995": {
+   "added": "2026-09-11",
+   "updated": "2026-09-14"
+  },
+  "vwf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-22"
+  },
+  "vwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "vwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "vwf-vegas-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "vwf-virtual-1999": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "vwfu-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "vwwa-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "vwwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "vxw": {
+   "added": "2026-09-08",
+   "updated": "2026-09-09"
+  },
+  "w3-2007": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "w316": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "w4f-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-22"
+  },
+  "w4f-www-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "waew": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "waiwa-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "wao-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-20"
+  },
+  "wao-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "war-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-10-09"
+  },
+  "war-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "war-2006-women": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "warfare-2010": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "wav-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "wave": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "wawf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "wawf-worldamateur-1998": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "wc-raw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wca": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "wccw": {
+   "added": "2026-08-27",
+   "updated": "2026-08-27"
+  },
+  "wccw-cyber-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "wce": {
+   "added": "2026-08-22",
+   "updated": "2026-08-22"
+  },
+  "wciwf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "wcl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wcoiw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wcotw": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "wcow-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-14"
+  },
+  "wcw-nitro-2001": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "wcw-world-class-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "wcwa-entity-1": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wcwa-entity-2": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wcwf-1994-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-14"
+  },
+  "wcwf-dainja": {
+   "added": "2026-09-04",
+   "updated": "2026-09-14"
+  },
+  "wcwf-world-class-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-10"
+  },
+  "wcwl-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "wecw": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wecwa": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "wecwf-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wet-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-09"
+  },
+  "wew-97a": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wew-superslam-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-13"
+  },
+  "wewa-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wewa-alliance-2010": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "wewf": {
+   "added": "2026-08-25",
+   "updated": "2026-10-10"
+  },
+  "wewf-newemail-1995": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wewf-worldefed": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "wfc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "wfew-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wfi-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "wfsw-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "wfw-1995-usenet": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "wfw-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "wfw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wfw-apr-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "wfw-jul-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "wfw-worlds-finest-2003": {
+   "added": "2026-10-08",
+   "updated": "2026-10-10"
+  },
+  "wfwa-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "wfwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wfwl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-15"
+  },
+  "wgc": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "whcw-1996": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "whip-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "whoo": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "whq": {
+   "added": "2026-08-22",
+   "updated": "2026-08-22"
+  },
+  "whw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wia": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "wia-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-10-09"
+  },
+  "wic": {
+   "added": "2026-09-04",
+   "updated": "2026-09-11"
+  },
+  "wicew": {
+   "added": "2026-08-27",
+   "updated": "2026-08-28"
+  },
+  "wicked-voodoo-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wicw-format-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "wicw-scripts-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "wif": {
+   "added": "2026-09-04",
+   "updated": "2026-09-05"
+  },
+  "wild-destruction-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-10"
+  },
+  "wiw-1997": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "wiw-geocities-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "wiw-independence-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-10-09"
+  },
+  "wiw-ng": {
+   "added": "2026-09-08",
+   "updated": "2026-10-11"
+  },
+  "wiw-warfare-1997": {
+   "added": "2026-09-13",
+   "updated": "2026-10-09"
+  },
+  "wiwa-usiw-alliance": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wiwa-uwa-alliance": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wiwa-wildside": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wiwc": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wiwf-1995": {
+   "added": "2026-09-14",
+   "updated": "2026-10-09"
+  },
+  "wiwf-1997-nov-dec": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wiwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wiwf-mar-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wiwf-simplenet-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wiwf-worldinternet-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "wiwo-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-11"
+  },
+  "wlc-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-20"
+  },
+  "wlcwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "wlw-1995": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "wlw-council-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wlw-tnm-hawaii-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wlw-worldleague-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "wlwa-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "wmw": {
+   "added": "2026-08-23",
+   "updated": "2026-10-09"
+  },
+  "wmw-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wna-2006": {
+   "added": "2026-09-09",
+   "updated": "2026-09-09"
+  },
+  "wnwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "woa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wod-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wolf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "wopw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "world-cyber-wrestling-organization-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "world-net-wrestling-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "world-wrestling-addicts-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "world-wrestling-carnage": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "worldwide-newsgroup-wrestling-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "wow-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-21"
+  },
+  "wow-1998": {
+   "added": "2026-09-09",
+   "updated": "2026-09-21"
+  },
+  "wow-daily-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wow-jul-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wow-warriors-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "wowa": {
+   "added": "2026-09-04",
+   "updated": "2026-09-11"
+  },
+  "wpcw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "wpw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-21"
+  },
+  "wpw-professional-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wpwf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wpwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "wrestle-rpg": {
+   "added": "2026-08-28",
+   "updated": "2026-08-28"
+  },
+  "wrestling-internet-association-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wrf": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wrl-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "wrx-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "wsew-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wsw-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-22"
+  },
+  "wsw-world-superstars-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "wtr2-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wtw-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "wtwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "wu-2008": {
+   "added": "2026-10-06",
+   "updated": "2026-10-08"
+  },
+  "wvw-1998": {
+   "added": "2026-09-10",
+   "updated": "2026-10-09"
+  },
+  "wvw-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "ww2-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "wwa": {
+   "added": "2026-08-22",
+   "updated": "2026-10-11"
+  },
+  "wwa-1996-08": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "wwa-1997": {
+   "added": "2026-09-10",
+   "updated": "2026-10-09"
+  },
+  "wwa-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-11"
+  },
+  "wwa-2000-04": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wwa-asociation-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "wwa-chicago-2003": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "wwa-entity-b": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wwa-entity-c": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wwa-entity-d": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wwa-entity-f": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "wwa-mwoxtreme-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wwa-online": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wwa-ptc-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "wwa-tn2sc2-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wwa-wlssim-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "wwa-wwarocks-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "wwc-conference-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "wwc-corp-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-22"
+  },
+  "wwc-council": {
+   "added": "2026-08-27",
+   "updated": "2026-09-22"
+  },
+  "wwc-global-2007": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "wwc-interfed-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "wwc-whenworldscollide-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wwca": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "wwcarnage": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "wwcf-weizal-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "wwcw-chaos-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wwcwf-infochase-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "wwe-chaos-division": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  },
+  "wwef-e-federation-2000": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "wwef-hudsons": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "wwef-saqnet": {
+   "added": "2026-09-04",
+   "updated": "2026-09-22"
+  },
+  "wwew-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "wwf-brad-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wwfl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-08"
+  },
+  "wwi-wicked-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wwif-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "wwiw-1998": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "wwl-1995": {
+   "added": "2026-09-08",
+   "updated": "2026-10-09"
+  },
+  "wwl-jun-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wwl-wwlnet-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-09-21"
+  },
+  "wwo": {
+   "added": "2026-08-25",
+   "updated": "2026-10-10"
+  },
+  "wwo-online-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wwo-sim-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-10-10"
+  },
+  "wwo-toronto-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-09-12"
+  },
+  "wwo-wild-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wwp-wichzini-2004": {
+   "added": "2026-09-08",
+   "updated": "2026-09-08"
+  },
+  "wwpa-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-10-09"
+  },
+  "wwsf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-10"
+  },
+  "wwsw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "www-carl-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "www-jun-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "wwwa-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wwwa-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-09"
+  },
+  "wwwa-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wwwa-jul-1999": {
+   "added": "2026-09-12",
+   "updated": "2026-10-09"
+  },
+  "wwwa-proposal-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "wwwcw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wwwf-1995": {
+   "added": "2026-09-05",
+   "updated": "2026-09-21"
+  },
+  "wwwf-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "wwwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-21"
+  },
+  "wwwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "wwwf-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wwwwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "wwx-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "wwz-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "wxw-1996": {
+   "added": "2026-09-14",
+   "updated": "2026-09-14"
+  },
+  "wxw-angelfire-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "wxw-geocities-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "xbooker-efed-2008": {
+   "added": "2026-09-10",
+   "updated": "2026-10-08"
+  },
+  "xbwl": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "xchw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "xcw": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "xcw-thegym-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "xcw-xtreme-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-10-10"
+  },
+  "xcwf": {
+   "added": "2026-08-25",
+   "updated": "2026-10-09"
+  },
+  "xcwf-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "xcwf-buffalo-2001": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "xfw-1996": {
+   "added": "2026-09-15",
+   "updated": "2026-09-15"
+  },
+  "xgw-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-09"
+  },
+  "xhcw-1998": {
+   "added": "2026-09-21",
+   "updated": "2026-10-10"
+  },
+  "xhl": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "xhwf": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "xiew-1996": {
+   "added": "2026-09-05",
+   "updated": "2026-09-05"
+  },
+  "xpw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-10-09"
+  },
+  "xrd-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-09-22"
+  },
+  "xrw-1999": {
+   "added": "2026-09-11",
+   "updated": "2026-09-11"
+  },
+  "xsw": {
+   "added": "2026-09-04",
+   "updated": "2026-09-04"
+  },
+  "xuw": {
+   "added": "2026-08-22",
+   "updated": "2026-10-10"
+  },
+  "xvwo-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-11"
+  },
+  "xwa-apr-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "xwa-association-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "xwa-entity-a": {
+   "added": "2026-09-04",
+   "updated": "2026-10-09"
+  },
+  "xwa-icon-1998": {
+   "added": "2026-09-07",
+   "updated": "2026-09-07"
+  },
+  "xwa-jul-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "xwa-jul-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "xwa-lintex-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "xwa-xtreme-tv-2002": {
+   "added": "2026-09-23",
+   "updated": "2026-09-23"
+  },
+  "xwc": {
+   "added": "2026-09-04",
+   "updated": "2026-09-20"
+  },
+  "xwec-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "xwf": {
+   "added": "2026-08-23",
+   "updated": "2026-08-23"
+  },
+  "xwf-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-11"
+  },
+  "xwf-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "xwf-2001": {
+   "added": "2026-08-29",
+   "updated": "2026-09-02"
+  },
+  "xwf-jan-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-10-09"
+  },
+  "xwf-massacre-anarchy-2008": {
+   "added": "2026-10-07",
+   "updated": "2026-10-07"
+  },
+  "xwf-uwow": {
+   "added": "2026-08-27",
+   "updated": "2026-08-28"
+  },
+  "xwo-1997": {
+   "added": "2026-09-04",
+   "updated": "2026-09-20"
+  },
+  "xww-2000": {
+   "added": "2026-09-20",
+   "updated": "2026-10-10"
+  },
+  "xwwa-2001": {
+   "added": "2026-09-21",
+   "updated": "2026-10-09"
+  },
+  "xxx-first": {
+   "added": "2026-08-28",
+   "updated": "2026-08-28"
+  },
+  "xxxwf-2000": {
+   "added": "2026-09-21",
+   "updated": "2026-09-21"
+  },
+  "ywa-2010": {
+   "added": "2026-10-10",
+   "updated": "2026-10-11"
+  },
+  "zdw-2002": {
+   "added": "2026-09-22",
+   "updated": "2026-09-22"
+  },
+  "zwf": {
+   "added": "2026-08-29",
+   "updated": "2026-08-29"
+  }
+ }
+}

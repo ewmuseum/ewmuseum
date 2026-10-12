@@ -1,0 +1,31 @@
+[
+    {
+        "id": "the-commish-wwiw-1998",
+        "type": "character",
+        "name": "The Commish",
+        "aka": [
+            "DarkManX",
+            "WiCkeD ClOwN"
+        ],
+        "caption": "The league's own recurring on-screen operator persona, signing every recruitment and status bulletin and steering its relaunch toward a dated first card and a cruiserweight-and-heavyweight tournament slate.",
+        "caption_asof": {
+            "written": "2026-09-11",
+            "author": "ai",
+            "evidence": {
+                "tenures": 1
+            }
+        },
+        "tenures": [
+            {
+                "promotion": "wwiw-1998",
+                "roles": [
+                    "authority-figure"
+                ],
+                "first_seen": "1999-01",
+                "last_seen": "1999-06",
+                "source": "the federation's own three status bulletins (4 January, 2 April and 30 June 1999)",
+                "grade": "primary-source"
+            }
+        ]
+    }
+]

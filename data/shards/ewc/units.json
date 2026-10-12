@@ -1,0 +1,101 @@
+[
+ {
+  "id": "cosmic-commandos-ewc",
+  "type": "unit",
+  "name": "Cosmic Commandos",
+  "unit_kind": "tag-team",
+  "members": [
+   "corporal-comet-ewc",
+   "lieutenant-laser-ewc"
+  ],
+  "caption": "A laser-and-pyro gimmick tag team who won the federation's own 1 April 1996 return show over the Gershwin Brothers.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "gershwin-brothers-ewc",
+  "type": "unit",
+  "name": "The Gershwin Brothers",
+  "unit_kind": "tag-team",
+  "members": [
+   "ivan-gershwin-ewc",
+   "greg-gershwin-ewc"
+  ],
+  "caption": "A musician-gimmick tag team who lost the federation's own 1 April 1996 return show to the Cosmic Commandos.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "triple-threat-ewc",
+  "type": "unit",
+  "name": "Triple Threat",
+  "unit_kind": "stable",
+  "members": [
+   "justin-shimodo-ewc",
+   "prof-dino-crippler-ewc"
+  ],
+  "caption": "A managed stable of EWC wrestlers under Tamara; two of its three members wrestled and won on the federation's own 1 April 1996 return show.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "notes": "A third member is billed but not named in this collection's own held record; not invented here.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "triple-threat-rwa-rugged",
+     "triple-threat-wwa"
+    ]
+   }
+  ]
+ }
+]

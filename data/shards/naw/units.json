@@ -1,0 +1,79 @@
+[
+ {
+  "id": "the-hitmen-naw",
+  "type": "unit",
+  "name": "The Hitmen",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Renegade",
+    "character_id": "renegade-naw"
+   },
+   {
+    "name": "Nightmare",
+    "character_id": "nightmare-naw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "naw",
+    "first_seen": "2003-03",
+    "last_seen": "2003-04",
+    "role": "tag team — NAW Tag Team Champions",
+    "source": "the fed’s own tag team roster (promotions/naw/archive/tag-team-roster-2003-05.html) and title histories page"
+   }
+  ],
+  "caption": "The only Tag Team Champions New Age Wrestling ever names, and a team its own opponent accused of being a fake Bret and Owen Hart.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kuruption-naw",
+  "type": "unit",
+  "name": "Kuruption",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Cereal",
+    "character_id": "cereal-naw"
+   },
+   {
+    "name": "Main Event",
+    "character_id": "main-event-naw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "naw",
+    "first_seen": "2003-05",
+    "last_seen": "2003-05",
+    "role": "tag team",
+    "source": "the fed’s own tag team roster (promotions/naw/archive/tag-team-roster-2003-05.html)",
+    "note": "The only source naming Kuruption as a pairing is this single roster page; neither man is billed as the other's partner anywhere else in what survives."
+   }
+  ],
+  "caption": "One of the two tag teams on New Age Wrestling’s own roster, and the one with no match anywhere in what the fed left behind.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

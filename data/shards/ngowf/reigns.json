@@ -1,0 +1,72 @@
+[
+ {
+  "id": "ngowf-world-heavyweight-championship-reign-1-doug-milne",
+  "type": "reign",
+  "title": "ngowf-world-heavyweight-championship",
+  "holder": [
+   {
+    "id": "doug-milne-ngowf"
+   }
+  ],
+  "won": {
+   "date": "1997-12-06",
+   "precision": "exact",
+   "source": "Won the tournament final over Joel Gutman on Must Bleed TV."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No later document survives in the held record."
+  },
+  "note": "The fed's first World Heavyweight Champion.",
+  "event": "ngowf-must-bleed-tv-1997-12-06",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ngowf-world-tag-team-championship-reign-1-damage-control",
+  "type": "reign",
+  "title": "ngowf-world-tag-team-championship",
+  "holder": [
+   {
+    "name": "damage-control-ngowf",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "1997-12-02",
+   "precision": "exact",
+   "source": "Awarded by forfeit on Monday Night Carnage after Mikey Dobson of Little & Large was jumped backstage."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No later document survives in the held record."
+  },
+  "note": "The fed's first World Tag Team Champions, crowned without a match.",
+  "event": "ngowf-monday-night-carnage-1997-12-02",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ngowf-television-championship-reign-1-lucien-champion",
+  "type": "reign",
+  "title": "ngowf-television-championship",
+  "holder": [
+   {
+    "id": "lucien-champion-ngowf"
+   }
+  ],
+  "won": {
+   "date": "1997-11-25",
+   "precision": "exact",
+   "source": "Won a twenty-man battle royal on the Monday Night Carnage premiere."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Retained by disqualification against Bradley Fine on 28 November 1997; no later document survives."
+  },
+  "note": "The fed's first Television Champion.",
+  "event": "ngowf-monday-night-carnage-premiere-1997-11-25",
+  "end_how": "lost-in-match"
+ }
+]

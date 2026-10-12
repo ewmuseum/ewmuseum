@@ -1,0 +1,353 @@
+[
+  {
+    "id": "ihwf-world-r001",
+    "title": "ihwf-world",
+    "label": "Apocalypse",
+    "holder": [
+      {
+        "id": "apocalypse-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-02-18",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Apocalypse — February 18th, 2001-March 25th, 2001 — Beginning of an Era (Defeated the Godfather with the Bloody Mary).\""
+    },
+    "end": {
+      "date": "2001-03-25",
+      "precision": "exact",
+      "source": "The same page's next entry: Vaughn defeats Apocalypse (and the Godfather) in a Triple Threat Match, 25 March 2001."
+    },
+    "how": "Defeated the Godfather with the Bloody Mary; the belt's own founding reign, out of a prior vacancy.",
+    "note": null,
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ihwf-world-r002",
+    "title": "ihwf-world",
+    "label": "Vaughn",
+    "holder": [
+      {
+        "id": "vaughn-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-03-25",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Vaughn -- March 25th, 2001-March 31st, 2001 -- Reckless Behavior(Defeated Apocalypse and Godfather in Triple Threat Match).\""
+    },
+    "end": {
+      "date": "2001-03-31",
+      "precision": "exact",
+      "source": "The same page's next entry: the Godfather defeats Vaughn one on one at Saturday Night Slaughter, 31 March 2001."
+    },
+    "end_how": "lost-in-match",
+    "how": "Defeated Apocalypse and the Godfather in a Triple Threat Match at Reckless Behavior.",
+    "note": null
+  },
+  {
+    "id": "ihwf-world-r003",
+    "title": "ihwf-world",
+    "label": "Godfather",
+    "holder": [
+      {
+        "id": "godfather-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-03-31",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Godfather — March 31st, 2001-Close — Defeated Vaughn one on one at Saturday Night Slaughter.\""
+    },
+    "end": {
+      "date": "2001-03-31",
+      "precision": "unknown",
+      "source": "The fed's own ledger marks this reign \"Close\" rather than giving an end date — the belt's own last-attested reign in the held record, consistent with the fed's own served \"should the IHWF reopen?\" poll."
+    },
+    "how": "Won a one-on-one match at Saturday Night Slaughter; the belt's own closing reign.",
+    "note": "Reign #2 (Vaughn, 25-31 March 2001, won in a Triple Threat over Apocalypse and the Godfather) is recorded on the fed's own served Champions page but not individually structured.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "ihwf-ic-r001",
+    "title": "ihwf-intercontinental",
+    "label": "Stevie Greene",
+    "holder": [
+      {
+        "id": "stevie-greene-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-02-03",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Stevie Greene -- February 3rd, 2001-February 18th, 2001 -- SNS-Stevie Greene vs Godfather(pinned Godfather after he nailed the Game Over).\""
+    },
+    "end": {
+      "date": "2001-02-18",
+      "precision": "exact",
+      "source": "The same page's next entry: Chaos defeats Stevie Greene, \"Beginning of an Era,\" 18 February 2001."
+    },
+    "how": "Pinned the Godfather after nailing the Game Over, at SNS.",
+    "note": null,
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ihwf-ic-r002",
+    "title": "ihwf-intercontinental",
+    "label": "Chaos",
+    "holder": [
+      {
+        "id": "chaos-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-02-18",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Chaos -- February 18th, 2001-March 17th, 2001 -- Beginning of an Era(Defeteated Stevie Greene).\""
+    },
+    "end": {
+      "date": "2001-03-17",
+      "precision": "exact",
+      "source": "The same page's next entry: Trent Ulrich defeats Chaos (among others), SNS in Peoria, 17 March 2001."
+    },
+    "how": "Defeated Stevie Greene at Beginning of an Era.",
+    "note": null,
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ihwf-ic-r003",
+    "title": "ihwf-intercontinental",
+    "label": "Trent Ulrich",
+    "holder": [
+      {
+        "id": "trent-ulrich-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-03-17",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Trent Ulrich -- March 17th, 2001-close -- SNS in Peoria(Pinned Vaughn in a triple threat match for the IC Title).\""
+    },
+    "end": {
+      "date": null,
+      "precision": "unknown",
+      "source": "The fed's own ledger marks this reign \"Close\" rather than giving an end date -- the belt's own last-attested reign in the held record."
+    },
+    "how": "Pinned Vaughn in a triple threat match for the IC Title, at SNS in Peoria.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "ihwf-associate-r001",
+    "title": "ihwf-associate",
+    "label": "Enforcer",
+    "holder": [
+      {
+        "id": "enforcer-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-01-27",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Enforcer -- January 27th, 2001-February 18th, 2001 -- SNS--Enforcer vs Mullet vs Blaze vs Enigma(Pinned Mullet).\""
+    },
+    "end": {
+      "date": "2001-02-18",
+      "precision": "exact",
+      "source": "The same page's next entry: Max Powers defeats Enforcer and Mayhem, \"Beginning of an Era,\" 18 February 2001."
+    },
+    "how": "Pinned Mullet in a four-way over Blaze and Enigma, at SNS.",
+    "note": null,
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ihwf-associate-r002",
+    "title": "ihwf-associate",
+    "label": "Max Powers",
+    "holder": [
+      {
+        "id": "max-powers-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-02-18",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Max Powers -- February 18th, 2001-March 17th, 2001 -- (Beginning of an Era)Defeated Enforcer and Mayhem in a Bat Match.\""
+    },
+    "end": {
+      "date": "2001-03-17",
+      "precision": "exact",
+      "source": "The same page's next entry: Hellraisin Holly defeats Max Powers, SNS in Peoria, 17 March 2001."
+    },
+    "how": "Defeated Enforcer and Mayhem in a Bat Match, at Beginning of an Era.",
+    "note": null,
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ihwf-associate-r003",
+    "title": "ihwf-associate",
+    "label": "Hellraisin Holly",
+    "holder": [
+      {
+        "id": "hellraisin-holly-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-03-17",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Hellraisin Holly -- March 17th, 2001-close -- Defeated Max Powers at SNS in Peoria, IL.\""
+    },
+    "end": {
+      "date": null,
+      "precision": "unknown",
+      "source": "The fed's own ledger marks this reign \"Close\" rather than giving an end date -- the belt's own last-attested reign in the held record."
+    },
+    "how": "Defeated Max Powers at SNS in Peoria, Illinois.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "ihwf-extreme-r001",
+    "title": "ihwf-extreme",
+    "label": "Mercenary",
+    "holder": [
+      {
+        "id": "mercenary-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-01-27",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Mercenary -- January 27th, 2001-February 18th, 2001 -- SNS-Mercenary vs Max Powers vs Killer K(Pinned Max Powers).\""
+    },
+    "end": {
+      "date": "2001-02-18",
+      "precision": "exact",
+      "source": "The same page's next entry: Impulse defeats Mercenary, \"Beginning of an Era,\" 18 February 2001."
+    },
+    "how": "Pinned Max Powers in a three-way over Killer K, at SNS.",
+    "note": null,
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ihwf-extreme-r002",
+    "title": "ihwf-extreme",
+    "label": "Impulse",
+    "holder": [
+      {
+        "id": "impulse-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-02-18",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Impulse -- February 18th, 2001-March 25th, 2001 -- Beginning of an Era(Defeated Mercenary by Submission).\""
+    },
+    "end": {
+      "date": "2001-03-25",
+      "precision": "exact",
+      "source": "The same page's next entry: Outcast defeats Impulse (among others), Reckless Behavior, 25 March 2001."
+    },
+    "how": "Defeated Mercenary by submission, at Beginning of an Era.",
+    "note": null,
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ihwf-extreme-r003",
+    "title": "ihwf-extreme",
+    "label": "Outcast",
+    "holder": [
+      {
+        "id": "outcast-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-03-25",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Outcast -- March 25th, 2001-close -- Reckless Behavior(Survived the Sanitarium Match in Chicago with eight other opponents, including the Extreme Champion, Impulse).\""
+    },
+    "end": {
+      "date": null,
+      "precision": "unknown",
+      "source": "The fed's own ledger marks this reign \"Close\" rather than giving an end date -- the belt's own last-attested reign in the held record."
+    },
+    "how": "Survived a nine-man Sanitarium Match in Chicago, including the reigning champion Impulse, at Reckless Behavior.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "ihwf-tag-team-r001",
+    "title": "ihwf-tag-team",
+    "label": "187/Max Powers",
+    "holder": [
+      {
+        "id": "187-ihwf"
+      },
+      {
+        "id": "max-powers-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-02-18",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"187/Max Powers -- February 18th, 2001-March 25th, 2001 -- Beginning of an Era(Defeated Slade/Apocalypse vs Black Gun/Godfather vs Killer K/Strife).\""
+    },
+    "end": {
+      "date": "2001-03-25",
+      "precision": "exact",
+      "source": "The same page's next entry: Black Gunn/Mercenary defeat the former champions, Reckless Behavior, 25 March 2001."
+    },
+    "how": "Defeated Slade/Apocalypse and Black Gunn/Godfather in a three-way, with Killer K/Strife also contesting, at Beginning of an Era.",
+    "note": null,
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ihwf-tag-team-r002",
+    "title": "ihwf-tag-team",
+    "label": "Black Gunn/Mercenary",
+    "holder": [
+      {
+        "id": "black-gunn-ihwf"
+      },
+      {
+        "id": "mercenary-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-03-25",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Black Gunn/Mercenary -- March 25th, 2001-March 31st, 2001 -- Reckless Behavior(Defeated Former Tag Champs with a Gunsmoke performed by Black Gunn).\""
+    },
+    "end": {
+      "date": "2001-03-31",
+      "precision": "exact",
+      "source": "The same page's own next entry: Plop & Splash defeat Black Gunn/Mercenary, Saturday Night Slaughter -- both reigns are dated to the same 25-31 March window on the page's own ledger."
+    },
+    "how": "Defeated the former Tag Team Champions with a Gunsmoke performed by Black Gunn, at Reckless Behavior.",
+    "note": "The page's own dates for this reign and the next overlap (both read \"March 25th-31st\"); read here as the page's own imprecision rather than a documented double-booking, since the \"how\" text for each names the other as opponent in sequence.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ihwf-tag-team-r003",
+    "title": "ihwf-tag-team",
+    "label": "Plop & Splash",
+    "holder": [
+      {
+        "id": "plop-splash-ihwf"
+      }
+    ],
+    "won": {
+      "date": "2001-03-25",
+      "precision": "exact",
+      "source": "The fed's own served Champions page: \"Plop & Splash -- March 25th, 2001-March 31st, 2001 -- Defeated Black Gunn/Mercenary as Saturday Night Slaughter.\""
+    },
+    "end": {
+      "date": "2001-03-31",
+      "precision": "exact",
+      "source": "The page's own two dates for this reign are the only reign on this belt's ledger given a full range instead of \"Close\" -- read here as the page's own last-updated snapshot (31 March 2001, the same date the World Title's own closing reign is dated) rather than a declared handoff."
+    },
+    "how": "Defeated Black Gunn/Mercenary at Saturday Night Slaughter.",
+    "note": "Billed under a joined team name rather than the individually-named pairings the page uses for every other tag reign; no individual identities survive.",
+    "end_how": "still-champion-at-record-end"
+  }
+]

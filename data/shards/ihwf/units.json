@@ -1,0 +1,77 @@
+[
+  {
+    "id": "plop-splash-ihwf",
+    "type": "unit",
+    "name": "Plop & Splash",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "ihwf",
+        "role": "unit -- Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2001-03-25",
+        "last_seen": "2001-03-31",
+        "source": "the fed's own served Champions page (promotions/ihwf/archive/champions.html)"
+      }
+    ],
+    "caption": "Won the IHWF Tag Team Title from Black Gunn/Mercenary at Saturday Night Slaughter -- the belt's own last-attested reign, billed under a joined team name rather than the individually-named pairings the fed's own page uses for every other tag reign, so no individual identities survive.",
+    "caption_asof": {
+      "written": "2026-09-01",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "ultimate-justice-ihwf",
+    "type": "unit",
+    "name": "Ultimate Justice",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Godfather",
+        "character_id": "godfather-ihwf"
+      },
+      {
+        "name": "Mercenary",
+        "character_id": "mercenary-ihwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ihwf",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2003",
+        "last_seen": "2003",
+        "source": "the fed's own served Saturday Night Slaughter broadcast, Hour Three (promotions/ihwf/archive/saturday-night-slaughter-3.html)"
+      }
+    ],
+    "caption": "A stable named on-air by the fed's own announcers at its later reopening -- \"both members of Ultimate Justice\" (the Godfather and Mercenary) ran in together to put Jason Slade through a table; Max Powers is separately mocked as its \"chump\" in the same broadcast, but the corpus never states his membership outright.",
+    "caption_asof": {
+      "written": "2026-09-01",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

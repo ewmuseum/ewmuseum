@@ -1,0 +1,417 @@
+[
+ {
+  "id": "antitrust-ucwf",
+  "type": "unit",
+  "name": "ANTItrust",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Bobby Linken",
+    "character_id": "bobby-linken-ucwf"
+   },
+   {
+    "name": "Mumrat",
+    "character_id": "mumrat-ucwf"
+   },
+   {
+    "name": "Wes Easton",
+    "character_id": "wes-easton-ucwf"
+   },
+   {
+    "name": "Violator",
+    "character_id": "violator-ucwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ucwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "role": "stable",
+    "source": "the fed’s own stable roster (promotions/ucwf/archive/stable-roster-2003-06.html)"
+   }
+  ],
+  "caption": "A four-man stable on UCWF’s own roster, the first of the three it listed and the only one whose name reads like a company rather than a gang.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "american-bad-boyz-ucwf",
+  "type": "unit",
+  "name": "American Bad Boyz",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Blaze",
+    "character_id": "qbz-finest-blaze-ucwf"
+   },
+   {
+    "name": "Scorpion",
+    "character_id": "scorpion-ucwf"
+   },
+   {
+    "name": "Crusher",
+    "character_id": "crusher-ucwf"
+   },
+   {
+    "name": "Notorious",
+    "character_id": "notorious-ucwf"
+   },
+   {
+    "name": "James Hunter Cameron",
+    "character_id": "james-hunter-cameron-ucwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ucwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "role": "stable",
+    "source": "the fed’s own stable roster (promotions/ucwf/archive/stable-roster-2003-06.html)"
+   }
+  ],
+  "caption": "The largest of the three stables UCWF listed, five men deep, and the one its own singles roster carries most of.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-gs-ucwf",
+  "type": "unit",
+  "name": "The G's",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Homefry",
+    "character_id": "homefry-ucwf"
+   },
+   {
+    "name": "Playa 69",
+    "character_id": "playa-69-ucwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ucwf",
+    "first_seen": "2002-09",
+    "last_seen": "2002",
+    "role": "tag-team",
+    "source": "won the UCWF Tag Team titles by disqualification over the Krazy-Wacko Connection at Fury 2002-09-08, then ran in on a non-title three-way at Immortality 2002 to beat down its participants (promotions/ucwf/archive/fury-2002-09-08.html; promotions/ucwf/archive/immortality-2002.html)"
+   }
+  ],
+  "caption": "Won the UCWF Tag Team titles by disqualification at Fury 2002, then ran in on a three-way at Immortality the same year.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "krazy-wacko-connection-ucwf",
+  "type": "unit",
+  "name": "The Krazy-Wacko Connection",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "The Krazy Kid",
+    "character_id": "the-krazy-kid-ucwf"
+   },
+   {
+    "name": "Mr. Wacko",
+    "character_id": "mr-wacko-ucwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ucwf",
+    "first_seen": "2002-09",
+    "last_seen": "2003",
+    "role": "tag-team",
+    "source": "loses the UCWF Tag Team titles by disqualification to The G's at Fury 2002-09-08, wins them back from Dark Carnival at Immortality 2002, and retains them over Italian Organized Crime at Resurrection 2003 (promotions/ucwf/archive/fury-2002-09-08.html; promotions/ucwf/archive/immortality-2002.html; promotions/ucwf/archive/resurrection-2003.html)"
+   }
+  ],
+  "caption": "UCWF Tag Team Champions across three of the fed's own surviving shows, on and off.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "connection"
+    ],
+    "note": "The mint guard flags a normalized substring match against the existing unit named bare 'Connection'. Nothing connects them: this tag team is billed The Krazy Kid and Mr. Wacko across UCWF's own show scripts. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "dark-carnival-ucwf",
+  "type": "unit",
+  "name": "Dark Carnival",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Crush",
+    "character_id": "crush-ucwf"
+   },
+   {
+    "name": "Brent Hunter",
+    "character_id": "brent-hunter-ucwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ucwf",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "tag-team",
+    "source": "loses the UCWF Tag Team titles to the Krazy-Wacko Connection at Immortality 2002 (promotions/ucwf/archive/immortality-2002.html)"
+   }
+  ],
+  "caption": "Lost the UCWF Tag Team titles to the Krazy-Wacko Connection at Immortality 2002.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dark-carnival-faw"
+    ],
+    "note": "The mint guard flags a normalized substring match against dark-carnival-faw's own aka Dark Carnival eVolution. Nothing connects them: this Dark Carnival is billed on UCWF's own Immortality 2002 show script as Crush and Brent Hunter, a different fed. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "italian-organized-crime-ucwf",
+  "type": "unit",
+  "name": "Italian Organized Crime",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "The Notorious Don Joe Giovanni",
+    "character_id": "the-notorious-don-joe-giovanni-ucwf"
+   },
+   {
+    "name": "Mr. Mafia",
+    "character_id": "mr-mafia-ucwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ucwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "role": "tag-team",
+    "source": "loses the UCWF Tag Team titles to the Krazy-Wacko Connection at Resurrection 2003 (promotions/ucwf/archive/resurrection-2003.html)"
+   }
+  ],
+  "caption": "Challenged for the UCWF Tag Team titles at Resurrection 2003 and lost.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "money-train-ucwf",
+  "type": "unit",
+  "name": "Money Train",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Rich Bitch",
+    "character_id": "rich-bitch-ucwf"
+   },
+   {
+    "name": "Assout Poor",
+    "character_id": "assout-poor-ucwf"
+   },
+   {
+    "name": "Big Poppa Pimp",
+    "character_id": "big-poppa-pimp-ucwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ucwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "role": "stable",
+    "source": "the fed's own stable roster (promotions/ucwf/archive/stable-roster-2003-06.html)"
+   }
+  ],
+  "caption": "The third and last of the three stables UCWF's own June 2003 roster listed.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "money",
+     "wayne-rothschild-ewa"
+    ],
+    "note": "The mint guard flags a decorated-aka substring match against the bare unit 'Money' and against wayne-rothschild-ewa's own aka 'The Train'. Nothing connects them: this Money Train is UCWF's own three-man stable of Rich Bitch, Assout Poor and Big Poppa Pimp, named on the fed's own June 2003 stable roster. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ },
+ {
+  "id": "a-c-e-ucwf",
+  "type": "unit",
+  "name": "A.C.E.",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Ace Of Spades",
+    "character_id": "ace-of-spades-ucwf"
+   },
+   {
+    "name": "Crash Paradise",
+    "character_id": "crash-paradise-ucwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ucwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "role": "tag-team",
+    "source": "won the UCWF Tag Team titles from the Krazy-Wacko Connection at Wrestle Insanity 2003 (promotions/ucwf/archive/wrestle-insanity-2003.html)"
+   }
+  ],
+  "caption": "Won the UCWF Tag Team titles from the Krazy-Wacko Connection at Wrestle Insanity 2003, the last team the surviving record shows holding them.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "unforeseen-vengeance-ucwf",
+  "type": "unit",
+  "name": "Unforeseen Vengeance",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Brax",
+    "character_id": "brax-ucwf"
+   },
+   {
+    "name": "The Fox",
+    "character_id": "the-fox-ucwf"
+   },
+   {
+    "name": "Solidus",
+    "character_id": "solidus-ucwf"
+   },
+   {
+    "name": "Coley Walsh",
+    "character_id": "coley-walsh-ucwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ucwf",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "stable",
+    "source": "formed mid-match during Immortality 2002's own Extreme/World Hell in a Cell, when a masked Solidus unmasks and Coley Walsh returns to join Brax and The Fox (promotions/ucwf/archive/immortality-2002.html)"
+   }
+  ],
+  "caption": "Formed mid-match at Immortality 2002 when a masked Solidus unmasked and a returning Coley Walsh joined Brax and The Fox; never named on the fed's own later stable roster.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "vengeance-cswa"
+    ],
+    "note": "The mint guard flags a decorated-aka substring match against vengeance-cswa's own aka 'Vengeance'. Nothing connects them: this Unforeseen Vengeance is UCWF's own stable, formed mid-match at Immortality 2002 by Brax, The Fox, Solidus and a returning Coley Walsh, a different fed. Recorded distinct under the collision doctrine, not merged."
+   }
+  ]
+ }
+]

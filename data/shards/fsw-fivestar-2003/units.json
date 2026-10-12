@@ -1,0 +1,149 @@
+[
+ {
+  "id": "americas-least-wanted-fsw-fivestar-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "America's Least Wanted",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "fsw-fivestar-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2003-08",
+    "last_seen": "2003-08",
+    "source": "A contemporaneous third-party recap of Day of Reckoning, 21 September 2003."
+   }
+  ],
+  "caption": "Eliminated first, without landing a move, in a five-way gauntlet match for the vacant FSW Tag Team Championship on the federation's own debut supercard.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "youth-gone-wild-fsw-fivestar-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Youth Gone Wild",
+  "members": [
+   {
+    "name": "Extasy",
+    "character_id": "extasy-fsw-fivestar-2003"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "fsw-fivestar-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2003-08",
+    "last_seen": "2003-08",
+    "source": "A contemporaneous third-party recap of Day of Reckoning, 21 September 2003."
+   }
+  ],
+  "caption": "Won the vacant FSW Tag Team Championship in a gauntlet-turned-ladder match on the federation's own debut supercard; the second member is not named in this record's own holdings.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "youth-gone-wild-rspwf"
+    ],
+    "note": "An existing record of the same name is held as a single character (not a team) known only from the RSPWF Top 200 poll (best placing #27 in 1999, tagged UWF/EMWC in 1998-99, UWF in 2003 -- a different federation). The type mismatch and the differing federation tag both weigh against a join; recorded distinct per the museum's no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "heavent-hunted-fsw-fivestar-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Heaven't Hunted",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "fsw-fivestar-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2003-08",
+    "last_seen": "2003-08",
+    "source": "A contemporaneous third-party recap of Day of Reckoning, 21 September 2003."
+   }
+  ],
+  "caption": "Fell to Youth Gone Wild in a five-way gauntlet match for the vacant FSW Tag Team Championship on the federation's own debut supercard.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "fire-and-ice-fsw-fivestar-2003",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Fire and Ice",
+  "members": [
+   {
+    "name": "\"Fire\" Perkins",
+    "character_id": "fire-perkins-fsw-fivestar-2003"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "fsw-fivestar-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2003-08",
+    "last_seen": "2003-08",
+    "source": "A contemporaneous third-party recap of Day of Reckoning, 21 September 2003."
+   }
+  ],
+  "caption": "Interrupted Youth Gone Wild's Tag Team Championship celebration on the federation's own debut supercard; the second member (\"Ice\") is not named beyond that in this record's own holdings.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "fire-and-ice-wewf",
+     "fire-and-ice-wwo"
+    ],
+    "note": "Fire and Ice is a common tag-team name; two unrelated held federations already carry teams of this exact name. Nothing links any of the three beyond the shared name; recorded distinct per the museum's no-merge default."
+   }
+  ]
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "austin-aries-aew-attitude-era-2015",
+  "type": "character",
+  "name": "Austin Aries",
+  "aka": [
+   "The Greatest Man That Ever Lived"
+  ],
+  "caption": "A wrestler of the AEW's 2015 roleplay pages: billed 'THE GREATEST MAN THAT EVER LIVED' in his own roleplay, eliminated from the Wrestle War match by Goldust and then booked on Monday Night Concussion against Luke Bryan, his sheet naming The Miz as tag partner and the Brainbuster as finisher.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-05-03",
+    "last_seen": "2015-05-27",
+    "finisher": "Brainbuster",
+    "source": "/promotions/aew-attitude-era-2015/rp/aries-the-greatest-man-that-ever-lived-2015-05-27.html"
+   }
+  ],
+  "portrays": {
+   "figure": "austin-aries-real",
+   "grade": "primary-source",
+   "note": "The fed's own roleplay pages stage this character under the real performer's own name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "austin-aries-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "austin-aries-ebwf-2001",
+     "austin-aries-ecw-worldwide-nevermore",
+     "austin-aries-uwf-uwow"
+    ],
+    "note": "An exact name match across other promotions' own portrayals of the same real performer. Each is filed as its own per-promotion row, never merged, and linked only through the shared external-figures record (austin-aries-real)."
+   }
+  ]
+ },
+ {
+  "id": "steve-corino-aew-attitude-era-2015",
+  "type": "character",
+  "name": "Steve Corino",
+  "aka": [
+   "The King Of Old School"
+  ],
+  "caption": "A wrestler of the AEW's 2015 roleplay pages: 'The King Of Old School', who in the roleplay headed 'AEW - #01' goes to Wrestle War for the match for the AEW World Heavyweight Championship, billed against everyone, with Jack Victory in tow.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-04-30",
+    "last_seen": "2015-04-30",
+    "source": "/promotions/aew-attitude-era-2015/rp/corino-all-hail-the-king-2015-04-30.html"
+   }
+  ],
+  "portrays": {
+   "figure": "steve-corino-real",
+   "grade": "primary-source",
+   "note": "The fed's own roleplay pages stage this character under the real performer's own name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "steve-corino-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "steve-corino-ecw-worldwide-nevermore",
+     "steve-corino-icwc"
+    ],
+    "note": "An exact name match across other promotions' own portrayals of the same real performer. Each is filed as its own per-promotion row, never merged, and linked only through the shared external-figures record (steve-corino-real)."
+   }
+  ]
+ },
+ {
+  "id": "jack-victory-aew-attitude-era-2015",
+  "type": "character",
+  "name": "Jack Victory",
+  "aka": [
+   "Old School's Biggest Fan"
+  ],
+  "caption": "A figure of the AEW's 2015 roleplay pages: Steve Corino's companion in the 'All Hail the King!' roleplay, driver, bag carrier and source of the 'high spot?' joke.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-04-30",
+    "last_seen": "2015-04-30",
+    "source": "/promotions/aew-attitude-era-2015/rp/corino-all-hail-the-king-2015-04-30.html"
+   }
+  ]
+ },
+ {
+  "id": "miss-tessmacher-aew-attitude-era-2015",
+  "type": "character",
+  "name": "Miss Tessmacher",
+  "aka": [
+   "One Sexy Secretary"
+  ],
+  "caption": "A figure of the AEW's 2015 roleplay pages: 'ONE SEXY SECRETARY' to Austin Aries in his Monday Night Concussion roleplay, fetching his food and screening the interviewer.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-05-27",
+    "last_seen": "2015-05-27",
+    "source": "/promotions/aew-attitude-era-2015/rp/aries-the-greatest-man-that-ever-lived-2015-05-27.html"
+   }
+  ]
+ },
+ {
+  "id": "renee-young-aew-attitude-era-2015",
+  "type": "character",
+  "name": "Renee Young",
+  "aka": [
+   "AEW's Own Interviewer"
+  ],
+  "caption": "A figure of the AEW's 2015 roleplay pages: the interviewer billed as AEW's own, who questions Austin Aries after Wrestle War in his roleplay.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-05-27",
+    "last_seen": "2015-05-27",
+    "source": "/promotions/aew-attitude-era-2015/rp/aries-the-greatest-man-that-ever-lived-2015-05-27.html"
+   }
+  ]
+ },
+ {
+  "id": "luke-bryan-aew-attitude-era-2015",
+  "type": "character",
+  "name": "Luke Bryan",
+  "caption": "A wrestler of the AEW's 2015 roleplay pages: left the Wyatt Family for the Sons of Sandow at Wrestle War per the Aries roleplay, and is booked against Austin Aries on Monday Night Concussion.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-05-03",
+    "last_seen": "2015-05-27",
+    "source": "/promotions/aew-attitude-era-2015/rp/aries-the-greatest-man-that-ever-lived-2015-05-27.html"
+   }
+  ]
+ },
+ {
+  "id": "kevin-owens-aew-attitude-era-2015",
+  "type": "character",
+  "name": "Kevin Owens",
+  "aka": [
+   "The Leader Of New School"
+  ],
+  "caption": "A wrestler of the AEW's 2015 roleplay pages: named as Austin Aries's first-round opponent in the sixteen-man Road to Superclash and, in Steve Corino's roleplay, as a former protege of Corino's now under Paul Heyman's wing.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-04-30",
+    "last_seen": "2015-05-27",
+    "source": "/promotions/aew-attitude-era-2015/rp/corino-all-hail-the-king-2015-04-30.html; /promotions/aew-attitude-era-2015/rp/aries-the-greatest-man-that-ever-lived-2015-05-27.html"
+   }
+  ],
+  "portrays": {
+   "figure": "kevin-steen-real",
+   "grade": "primary-source",
+   "note": "The fed's own roleplay pages stage this character under the real performer's 2015 ring name; the figure's own row carries Kevin Owens as its aka, and the Corino roleplay itself speaks of the name change ('you can change your name to whatever you like'), per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "kevin-steen-real"
+ },
+ {
+  "id": "roman-reigns-aew-attitude-era-2015",
+  "type": "character",
+  "name": "Roman Reigns",
+  "caption": "A wrestler of the AEW's 2015 roleplay pages: won the AEW World Heavyweight Championship at Wrestle War, per the Aries roleplay.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-05-03",
+    "last_seen": "2015-05-03",
+    "source": "/promotions/aew-attitude-era-2015/rp/aries-the-greatest-man-that-ever-lived-2015-05-27.html"
+   }
+  ],
+  "portrays": {
+   "figure": "roman-reigns-real",
+   "grade": "primary-source",
+   "note": "The fed's own roleplay pages stage this character under the real performer's own name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "roman-reigns-real"
+ },
+ {
+  "id": "candice-michelle-aew-attitude-era-2015",
+  "type": "character",
+  "name": "Candice Michelle",
+  "caption": "A wrestler of the AEW's 2015 roleplay pages: one of the three new champions crowned at Wrestle War per the Aries roleplay, which does not name her title.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-05-03",
+    "last_seen": "2015-05-03",
+    "source": "/promotions/aew-attitude-era-2015/rp/aries-the-greatest-man-that-ever-lived-2015-05-27.html"
+   }
+  ],
+  "portrays": {
+   "figure": "candice-michelle-real",
+   "grade": "primary-source",
+   "note": "The fed's own roleplay pages stage this character under the real performer's own name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "candice-michelle-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "candice-michelle-pwr-fed-2008",
+     "candice-michelle-xwf-uwow"
+    ],
+    "note": "An exact name match across other promotions' own portrayals of the same real performer. Each is filed as its own per-promotion row, never merged, and linked only through the shared external-figures record (candice-michelle-real)."
+   }
+  ]
+ },
+ {
+  "id": "the-miz-aew-attitude-era-2015",
+  "type": "character",
+  "name": "The Miz",
+  "caption": "A wrestler of the AEW's 2015 roleplay pages: named as Austin Aries's tag partner on his character sheet.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aew-attitude-era-2015",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2015-05-27",
+    "last_seen": "2015-05-27",
+    "source": "/promotions/aew-attitude-era-2015/rp/aries-the-greatest-man-that-ever-lived-2015-05-27.html"
+   }
+  ],
+  "portrays": {
+   "figure": "the-miz-real",
+   "grade": "primary-source",
+   "note": "The fed's own roleplay pages stage this character under the real performer's own name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "the-miz-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-miz-ebwf-2001",
+     "the-miz-pwr-fed-2008"
+    ],
+    "note": "An exact name match across other promotions' own portrayals of the same real performer. Each is filed as its own per-promotion row, never merged, and linked only through the shared external-figures record (the-miz-real)."
+   }
+  ]
+ }
+]

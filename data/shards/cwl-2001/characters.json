@@ -1,0 +1,138 @@
+[
+ {
+  "id": "the-don-cwl-2001",
+  "type": "character",
+  "name": "The Don",
+  "aka": [
+   "Tony Patzianni"
+  ],
+  "tenures": [
+   {
+    "promotion": "cwl-2001",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "grade": "primary-source",
+    "source": "/promotions/cwl-2001/archive/cwl-2001-the-don-biography.html; /promotions/cwl-2001/archive/cwl-2001-help-history.html",
+    "note": "The CWL's own biography card, 'Autobiography Of Crime by The Don', and its history help page, which he presents.",
+    "hometown": "Brooklyn, New York",
+    "height": "6\"11",
+    "weight": "302 lbs.",
+    "style": "Barwler, Technical",
+    "finisher": "Reverse Emerald Fusion — Whack'Em",
+    "entrance_music": {
+     "verbatim": "The Don Giovanni Ouvertyr by Mozart"
+    }
+   }
+  ],
+  "caption": "A Brooklyn mafia boss turned wrestler in his own telling, trained by Big Vito, who came to the CWL after an fWo Survivor contest.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-don-jolt-2001",
+     "cwfpro-the-don",
+     "don-cicinni",
+     "don-valentino-wwa"
+    ],
+    "note": "A bare shared name. This Don is the CWL's Tony Patzianni of Brooklyn, of the fWo's Survivor contest; no document of the CWL names any of the others, and jOlt's half-owner The Don of late 2001 carries no receipt joining him to this one."
+   }
+  ]
+ },
+ {
+  "id": "m-u-d-rspwf",
+  "type": "character",
+  "name": "M.U.D.",
+  "notes": "Known only from the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll. Placings and the poll's own federation tags, verbatim — 2001: #159, tagged CWL. Carries no tenure entry: none of the tagged federations is a held promotion, and the poll records where a wrestler was tagged, never a run this record could date.",
+  "caption": "Came in at #159 in the RSPWF Top 200 for 2001.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "cwl-2001",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "grade": "primary-source",
+    "source": "/promotions/cwl-2001/archive/cwl-2001-m-u-d-biography.html",
+    "note": "The CWL's own biography card, Mortimer Ulysses Dredrick, managed by Toad. The RSPWF Top 200 of 2001 tags this record's M.U.D. with the CWL.",
+    "hometown": "Unknown",
+    "height": "6'4",
+    "weight": "239",
+    "style": "Spontaneous High Flyer",
+    "manager": "Toad",
+    "finisher": "Mud Stomp",
+    "entrance_music": {
+     "verbatim": "My Name is Mud - Primus"
+    }
+   }
+  ]
+ },
+ {
+  "id": "kaid-mann-rspwf",
+  "type": "character",
+  "name": "Kaid \"Gonad\" Mann",
+  "notes": "Known from one free-agent post to rec.sport.pro-wrestling.fantasy on 1 August 1999, titled \"Looking for a fed...\", served at /promotions/rspwf/archive/looking-for-a-fed-1999-08-01.html. The handler describes Kaid Mann as a typical young Australian who comes to matches drunk, grows marijuana in his living room and challenges wrestlers to drinking contests. In the sample, set at the CWI head office, the tattooed, pierced, dreadlocked Mann throws himself down a staircase for a camera, is refused a hardcore title shot by Mr. Gower, and gives an interview from the driver's seat of a Dodge Viper on the way to a bar, saying he has a match at Fusion against Mike Burns and a Lightweight title match at Deep Cover and intends to be Grand Slam champion.",
+  "caption": "A stoned, tattooed Australian who tumbles down a staircase for the camera and gives his interview from a Dodge Viper, in an August 1999 free-agent sample.",
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "cwl-2001",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "grade": "presumed",
+    "source": "/promotions/cwl-2001/archive/cwl-2001-kaid-mann-biography.html",
+    "note": "The CWL's own biography card: a young Australian hardcore wrestler who drinks, formerly Bongo the clown, signed for the 're-opening CWL'. Joined to this record on a presumed reading: the same distinctive name and the same drunken Australian hardcore character as the August 1999 free-agent post; no document names both.",
+    "hometown": "Melbourne, Australia",
+    "height": "6'2",
+    "weight": "211 lbs",
+    "style": "Hardcore Brawler / High Flyer",
+    "finisher": "Top Rope Brain Buster — Mad Hangover",
+    "entrance_music": {
+     "verbatim": "'Rip it up' by 28 days"
+    }
+   }
+  ]
+ }
+]

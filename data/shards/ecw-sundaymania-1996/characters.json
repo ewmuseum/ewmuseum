@@ -1,0 +1,363 @@
+[
+ {
+  "id": "hack-myers-ecw-sundaymania-1996",
+  "type": "character",
+  "name": "Hack Myers",
+  "caption": "Outlasted seven others in an eight-man battle royal to become the first ECW Television Champion in this simulation.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ecw-sundaymania-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1996-02-18",
+    "last_seen": "1996-02-18",
+    "source": "promotions/ecw-sundaymania-1996/archive/extreme-sunday-mania-1996-02-18.html, msg_id 6hcx5U4z7n0J"
+   }
+  ],
+  "portrays": {
+   "figure": "hack-myers-real",
+   "grade": "primary-source",
+   "note": "The broadcast of 18 February 1996 bills this character under the real performer's own ring name in its real-roster ECW battle royal, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "hack-myers-real"
+ },
+ {
+  "id": "2-cold-scorpio-ecw-sundaymania-1996",
+  "type": "character",
+  "name": "2 Cold Scorpio",
+  "caption": "Eliminated by Dick Dudley during a three-way brawl in the battle royal for the vacant ECW Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This character recreates a real-world wrestler's own name and persona as this real-roster simulation federation's own in-fiction usage of him; other, unrelated fantasy federations elsewhere in the registry separately cast the same real wrestler under their own rosters, with no operator or story link to this one.",
+    "with": [
+     "2-cold-scorpio-ccw-wnf95"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ecw-sundaymania-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1996-02-18",
+    "last_seen": "1996-02-18",
+    "source": "promotions/ecw-sundaymania-1996/archive/extreme-sunday-mania-1996-02-18.html, msg_id IoK7zatGKKwJ"
+   }
+  ],
+  "portrays": {
+   "figure": "2-cold-scorpio-real",
+   "grade": "primary-source",
+   "note": "The broadcast of 18 February 1996 bills this character under the real performer's own ring name in its real-roster ECW battle royal, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "2-cold-scorpio-real"
+ },
+ {
+  "id": "taz-ecw-sundaymania-1996",
+  "type": "character",
+  "name": "Taz",
+  "caption": "Eliminated Rob Van Dam, then was eliminated himself alongside Dick Dudley by the eventual winner, Hack Myers, in the battle royal for the vacant ECW Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This character recreates a real-world wrestler's own name and persona as this real-roster simulation federation's own in-fiction usage of him; other, unrelated fantasy federations elsewhere in the registry separately cast the same real wrestler under their own rosters, with no operator or story link to this one.",
+    "with": [
+     "taz-ewa-email",
+     "taz-iwa-icon",
+     "taz-newcowf-1997",
+     "taz-rspwf",
+     "taz-uwl",
+     "taz-wcotw",
+     "taz-wcwf-dainja",
+     "taz-wpwf",
+     "taz-wwwf-1997",
+     "taz-ecw98-1998sim-2005"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ecw-sundaymania-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1996-02-18",
+    "last_seen": "1996-02-18",
+    "source": "promotions/ecw-sundaymania-1996/archive/extreme-sunday-mania-1996-02-18.html, msg_id IoK7zatGKKwJ"
+   }
+  ],
+  "portrays": {
+   "figure": "tazz-real",
+   "grade": "primary-source",
+   "note": "The broadcast of 18 February 1996 bills this character under the real performer's own ring name (Taz) in its real-roster ECW battle royal, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "tazz-real"
+ },
+ {
+  "id": "dick-dudley-ecw-sundaymania-1996",
+  "type": "character",
+  "name": "Dick Dudley",
+  "caption": "Eliminated 2 Cold Scorpio during a brawl, then was eliminated himself by Hack Myers in the closing moments of the battle royal for the vacant ECW Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ecw-sundaymania-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1996-02-18",
+    "last_seen": "1996-02-18",
+    "source": "promotions/ecw-sundaymania-1996/archive/extreme-sunday-mania-1996-02-18.html, msg_id IoK7zatGKKwJ"
+   }
+  ],
+  "portrays": {
+   "figure": "big-dick-dudley-real",
+   "grade": "primary-source",
+   "note": "The broadcast of 18 February 1996 bills this character as Dick Dudley, the real performer's own ECW ring name, in its real-roster ECW battle royal, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "big-dick-dudley-real"
+ },
+ {
+  "id": "chris-jericho-ecw-sundaymania-1996",
+  "type": "character",
+  "name": "Chris Jericho",
+  "caption": "Eliminated Rey Mysterio Jr., then was eliminated himself by Hack Myers in the battle royal for the vacant ECW Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This character recreates a real-world wrestler's own name and persona as this real-roster simulation federation's own in-fiction usage of him; other, unrelated fantasy federations elsewhere in the registry separately cast the same real wrestler under their own rosters, with no operator or story link to this one.",
+    "with": [
+     "chris-jericho-ewa-email",
+     "chris-jericho-extreme-fed-2006",
+     "chris-jericho-faw",
+     "chris-jericho-fob",
+     "chris-jericho-icwc",
+     "chris-jericho-nwwa-1998",
+     "chris-jericho-pwr-fed-2008",
+     "chris-jericho-uwf-uwow",
+     "chris-jericho-uwl",
+     "chris-jericho-uwow",
+     "chris-jericho-zwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ecw-sundaymania-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1996-02-18",
+    "last_seen": "1996-02-18",
+    "source": "promotions/ecw-sundaymania-1996/archive/extreme-sunday-mania-1996-02-18.html, msg_id N8TdSFHwRN4J"
+   }
+  ],
+  "portrays": {
+   "figure": "chris-jericho-real",
+   "grade": "primary-source",
+   "note": "The broadcast of 18 February 1996 bills this character under the real performer's own ring name in its real-roster ECW battle royal, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "chris-jericho-real"
+ },
+ {
+  "id": "rey-mysterio-jr-ecw-sundaymania-1996",
+  "type": "character",
+  "name": "Rey Mysterio Jr.",
+  "caption": "The first entrant eliminated in the battle royal for the vacant ECW Television Championship, shoved from the top turnbuckle by Chris Jericho.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This character recreates a real-world wrestler's own name and persona (billed here, and in the source document, as \"Ray Misterio Jr.\") as this real-roster simulation federation's own in-fiction usage of him; other, unrelated fantasy federations elsewhere in the registry separately cast the same real wrestler under their own rosters, with no operator or story link to this one.",
+    "with": [
+     "rey-mysterio-czwf-2005",
+     "rey-mysterio-eiwz",
+     "rey-mysterio-icwc",
+     "rey-mysterio-pwr-fed-2008"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ecw-sundaymania-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1996-02-18",
+    "last_seen": "1996-02-18",
+    "source": "promotions/ecw-sundaymania-1996/archive/extreme-sunday-mania-1996-02-18.html, msg_id N8TdSFHwRN4J"
+   }
+  ],
+  "portrays": {
+   "figure": "rey-mysterio-real",
+   "grade": "primary-source",
+   "note": "The broadcast of 18 February 1996 bills this character as Ray Misterio Jr., the real performer's own ring name as the document spells it, in its real-roster ECW battle royal, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "rey-mysterio-real"
+ },
+ {
+  "id": "jt-smith-ecw-sundaymania-1996",
+  "type": "character",
+  "name": "JT Smith",
+  "caption": "Clotheslined over the top rope and eliminated by Hack Myers, the eventual winner, in the battle royal for the vacant ECW Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ecw-sundaymania-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1996-02-18",
+    "last_seen": "1996-02-18",
+    "source": "promotions/ecw-sundaymania-1996/archive/extreme-sunday-mania-1996-02-18.html, msg_id dA_JPtm7MZUJ"
+   }
+  ],
+  "portrays": {
+   "figure": "jt-smith-real",
+   "grade": "primary-source",
+   "note": "The broadcast of 18 February 1996 bills this character under the real performer's own ring name in its real-roster ECW battle royal, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "jt-smith-real"
+ },
+ {
+  "id": "rob-van-dam-ecw-sundaymania-1996",
+  "type": "character",
+  "name": "Rob Van Dam",
+  "caption": "Eliminated by Taz in the battle royal for the vacant ECW Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This character recreates a real-world wrestler's own name and persona as this real-roster simulation federation's own in-fiction usage of him; other, unrelated fantasy federations elsewhere in the registry separately cast the same real wrestler under their own rosters, with no operator or story link to this one.",
+    "with": [
+     "rob-van-dam-chwe",
+     "rob-van-dam-ecw98-1998sim-2005",
+     "rob-van-dam-ewa-email",
+     "rob-van-dam-extreme-fed-2006",
+     "rob-van-dam-icwc",
+     "rob-van-dam-iwa-icon",
+     "rob-van-dam-newcowf-1997",
+     "rob-van-dam-uwf-uwow",
+     "rob-van-dam-uwow",
+     "rob-van-dam-xwf-uwow"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ecw-sundaymania-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1996-02-18",
+    "last_seen": "1996-02-18",
+    "source": "promotions/ecw-sundaymania-1996/archive/extreme-sunday-mania-1996-02-18.html, msg_id IoK7zatGKKwJ"
+   }
+  ],
+  "portrays": {
+   "figure": "rob-van-dam-real",
+   "grade": "primary-source",
+   "note": "The broadcast of 18 February 1996 bills this character under the real performer's own ring name in its real-roster ECW battle royal, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "rob-van-dam-real"
+ }
+]

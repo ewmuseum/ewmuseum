@@ -1,0 +1,63 @@
+[
+ {
+  "id": "nawf-1998a-world-heavyweight-r001",
+  "title": "nawf-1998a-world-heavyweight",
+  "label": "Lasher",
+  "holder": [
+   {
+    "id": "lasher-nawf-1998a"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "note": "Lasher holds the title entering March Madness; no document in this pass's corpus shows him winning it."
+  },
+  "lost": null,
+  "days": null,
+  "note": "Still champion at the held record's end; retained the Tag Team Championship the same night and survived a Best of the Best battle royal in which a challenger (Chaos) earned a future shot.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nawf-1998a-intercontinental-r001",
+  "title": "nawf-1998a-intercontinental",
+  "label": "\"Chicken Hawking\" Hustler",
+  "holder": [
+   {
+    "id": "hustler-nawf-1998a"
+   }
+  ],
+  "won": {
+   "date": "1998-04-01",
+   "precision": "exact",
+   "source": "Defeated Eldar \"The Crusher\" Markovich for the vacant title at March Madness, following its vacancy after the previous holder's departure from the fed."
+  },
+  "lost": null,
+  "days": null,
+  "event": "nawf-1998a-march-madness-1998-04-01",
+  "how": "Defeated Eldar \"The Crusher\" Markovich for the vacant title.",
+  "note": "Still champion at the held record's end.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "nawf-1998a-hardcore-r001",
+  "title": "nawf-1998a-hardcore",
+  "label": "Chaos",
+  "holder": [
+   {
+    "id": "chaos-nawf-1998a"
+   }
+  ],
+  "won": {
+   "date": "1998-04-01",
+   "precision": "circa",
+   "source": "Announced in the March Madness broadcast as having won the newly-created title by forfeit ahead of the show, after an opponent's retirement."
+  },
+  "lost": null,
+  "days": null,
+  "event": "nawf-1998a-march-madness-1998-04-01",
+  "how": "Won by forfeit after his scheduled opponent retired from the fed.",
+  "note": "Still champion at the held record's end; entered the Best of the Best battle royal the same night.",
+  "end_how": "still-champion-at-record-end"
+ }
+]

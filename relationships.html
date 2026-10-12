@@ -1,0 +1,132 @@
+
+<!-- chrome:head:start -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Relationships &mdash; E-WRESTLING MUSEUM</title>
+<script src="/js/theme.js?v=5"></script>
+<link rel="stylesheet" href="/style.css?v=22">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://ewmuseum.org/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="masthead">
+  <div class="inner">
+    <a class="wordmark" href="/"><svg class="ringmark-lg" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><use href="/ringmark.svg#ewm"/></svg><svg class="ringmark" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect class="m-apron" width="16" height="16" rx="2"/><rect class="m-rope" x="2.5" y="2.5" width="11" height="11"/><path class="m-pad" d="M0 0h4v4H0zM12 0h4v4h-4zM0 12h4v4H0zM12 12h4v4h-4z"/><rect class="m-core" x="6" y="6" width="4" height="4"/><rect class="m-edge" x=".5" y=".5" width="15" height="15" rx="1.5"/></svg><span class="wm-text">THE E-WRESTLING <span class="nw">MUSEUM<span class="dot">.</span></span></span></a>
+    <div class="tagline">a museum of fantasy wrestling, built one collection at a time</div>
+    <nav class="gallery">
+      <a href="/promotions.html">Wings</a>
+      <a href="/characters.html">Characters</a>
+      <a href="/units.html">Units</a>
+      <a class="here" href="/relationships.html" aria-current="page">Relationships</a>
+      <a href="/shows.html">Shows</a>
+      <a href="/matches.html">Matches</a>
+      <a href="/appearances.html">Appearances</a>
+      <a href="/rps.html">Roleplays</a>
+      <a href="/championships.html">Championships</a>
+      <a href="/reigns.html">Reigns</a>
+      <a href="/awards.html">Awards</a>
+      <a href="/bestowals.html">Bestowals</a>
+      <a href="/halloffame.html">Halls of Fame</a>
+      <a href="/in-memoriam.html">In Memoriam</a>
+      <a href="/essays.html">Essays</a>
+    </nav>
+  </div>
+  <span id="main-content" tabindex="-1"></span>
+</header>
+<!-- chrome:head:end -->
+
+
+<main class="wrap">
+  <p class="crumb"><a href="/">Museum</a> &nbsp;/&nbsp; Relationships</p>
+
+  <span class="kicker">Relationships</span>
+  <h1>Every relationship</h1>
+  <p class="lede">All relationship ties that link two characters, one row per edge: feuds, alliances, managers, family, spouses, mentors, shared handlers, and more.</p>
+
+  <p>
+    <label class="label-offscreen" for="q">Search by either name</label>
+    <input id="q" class="filter-input filter-input--search" type="text" placeholder="Search by either name" autocomplete="off" spellcheck="false">
+    <label class="label-offscreen" for="filter">Add a filter</label>
+    <input id="filter" class="filter-input" type="text" list="filter-options" placeholder="Add a filter&hellip;" autocomplete="off" spellcheck="false">
+    <datalist id="filter-options"></datalist>
+  </p>
+  <p class="query-examples"><span class="query-examples-label">Start with</span><button type="button" class="query-chip" data-q="nature:feud">Feuds</button><button type="button" class="query-chip" data-q="nature:manager-of">Managers</button><button type="button" class="query-chip" data-q="nature:ally">Allies</button></p>
+  <div id="query-hint"></div>
+  <p id="status" class="muted small" aria-live="polite"></p>
+  <div id="fields-help"></div>
+  <p class="muted small">
+    <!-- register:start -->
+    <span class="az-row"><span class="az-label">Browse by letter</span><span class="az-letters"><a href="/relationships.html?q=letter:0-9">0&ndash;9</a><a href="/relationships.html?q=letter:a">A</a><a href="/relationships.html?q=letter:b">B</a><a href="/relationships.html?q=letter:c">C</a><a href="/relationships.html?q=letter:d">D</a><a href="/relationships.html?q=letter:e">E</a><a href="/relationships.html?q=letter:f">F</a><a href="/relationships.html?q=letter:g">G</a><a href="/relationships.html?q=letter:h">H</a><a href="/relationships.html?q=letter:i">I</a><a href="/relationships.html?q=letter:j">J</a><a href="/relationships.html?q=letter:k">K</a><a href="/relationships.html?q=letter:l">L</a><a href="/relationships.html?q=letter:m">M</a><a href="/relationships.html?q=letter:n">N</a><a href="/relationships.html?q=letter:o">O</a><a href="/relationships.html?q=letter:p">P</a><a href="/relationships.html?q=letter:q">Q</a><a href="/relationships.html?q=letter:r">R</a><a href="/relationships.html?q=letter:s">S</a><a href="/relationships.html?q=letter:t">T</a><a href="/relationships.html?q=letter:u">U</a><a href="/relationships.html?q=letter:v">V</a><a href="/relationships.html?q=letter:w">W</a><a href="/relationships.html?q=letter:x">X</a><a href="/relationships.html?q=letter:y">Y</a><a href="/relationships.html?q=letter:z">Z</a></span></span>
+    <!-- register:end -->
+  </p>
+
+  <noscript><p class="muted">Every relationship is listed on both sides' own pages, through <a href="/characters.html">Characters</a> and <a href="/units.html">Units</a>.</p></noscript>
+  <div id="results"></div>
+
+<script src="/js/query.js?v=7"></script>
+<script src="/js/list.js?v=14"></script>
+<script>
+(function () {
+  "use strict";
+  // THE SLIM-INDEX WAVE, THIRD HALF (hook c174, adversarial review
+  // 2026-10-09, finding B01): this page used to fetch
+  // data/relationships.json, data/characters.json, data/units.json and
+  // data/promotions.json — 64.9 MB measured — to print 812 rows, and it built
+  // every row in the browser before it showed one. It never wanted the
+  // registries: it wanted both sides' NAMES and each era's ACRONYM, both
+  // known at build time. Every row is now rendered server-side
+  // (cross-reference.mjs's relRowHtml) into data/relationships-index.json,
+  // with its own query fields as data, and wireIndexList builds only the rows
+  // in the current window. Same rows, same alphabetical order, same chips and
+  // wing links; who:/nature:/grade:/promotion: are the typed fields, and both
+  // sides of every edge still resolve by name or by id.
+  // The A-Z row is baked too (cross-reference.mjs patches it into this page's
+  // own register marker above), so a letter with no edges behind it is dimmed
+  // instead of offered, and the row is no longer a hand-kept list.
+  var input = document.getElementById("q");
+  MuseumList.wireIndexList({
+    url: "/data/relationships-index.json",
+    container: document.getElementById("results"),
+    input: input,
+    filterInput: document.getElementById("filter"),
+    filterDatalist: document.getElementById("filter-options"),
+    status: document.getElementById("status"),
+    fieldsHelp: document.getElementById("fields-help"),
+    hintEl: document.getElementById("query-hint"),
+    hint: { showing: "names with", plural: "relationships" },
+    windowSize: 200,
+    prefill: function () {
+      // a character or unit page's own Relationships link lands here as
+      // /relationships.html?who=<id>; the token has to be in the box before
+      // the first window is painted, not after.
+      var whoParam = new URLSearchParams(location.search).get("who");
+      if (whoParam) input.value = "who:" + whoParam;
+    }
+  });
+  // the A-Z row filters this list in place (a `letter:` token in the box; the links keep their own ?q= hrefs as the
+  // no-script fallback) - see js/list.js, THE IN-PLACE LETTER / YEAR FILTER
+  MuseumList.wireLetterLinks({ input: input });
+})();
+</script>
+
+<!-- chrome:footer:start -->
+  <footer role="contentinfo">
+THE E-WRESTLING MUSEUM <span class="rule">/</span> Relationships <span class="rule">/</span>
+    <a href="/">back to the museum</a><br>
+    Written 2026 &mdash; not backdated. See <a href="/curation.html">Curation</a>.
+    <!-- footernav:start --><nav class="footnav" aria-label="Elsewhere"><a href="/search.html">Search</a> <span class="rule">/</span> <a href="https://forum.ewmuseum.org">The forum</a> <span class="rule">/</span> <a href="https://e-wrestling.org">e-wrestling.org</a></nav><!-- footernav:end -->
+  </footer>
+</main>
+</body>
+</html>
+<!-- chrome:footer:end -->

@@ -1,0 +1,386 @@
+[
+ {
+  "id": "furious-styles-awp",
+  "type": "unit",
+  "name": "Furious Styles",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Sinister",
+    "character_id": "sinister-rspwf"
+   },
+   {
+    "name": "The Professional",
+    "character_id": "the-professional-awp"
+   }
+  ],
+  "caption": "Sinister and the Professional, lifelong friends managed by the Professional's father, who drifted apart in late 2001 until they met for Sinister's AWP Heavyweight title.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awp",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-06-10",
+    "last_seen": "2001-11-25",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 cards, roleplays and bulletins, 10 June 2001 to 25 November 2001."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "furious-styles-gdwa"
+    ],
+    "note": "Shares a name with a GDWA wrestler; no document names both."
+   }
+  ]
+ },
+ {
+  "id": "the-conceptuals-awp",
+  "type": "unit",
+  "name": "The Conceptuals",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Neil",
+    "character_id": "neil-awp"
+   },
+   {
+    "name": "Janice",
+    "character_id": "janice-awp"
+   }
+  ],
+  "caption": "Neil and Janice, an art-studio couple whose Yorkshire accents surface when they turn violent, AWP Tag Team Champions in late 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 3,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awp",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-06",
+    "last_seen": "2001-12-03",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 cards, roleplays and bulletins, 6 November 2001 to 3 December 2001."
+   }
+  ]
+ },
+ {
+  "id": "mexican-mafia-200-awp",
+  "type": "unit",
+  "name": "The Mexican Mafia 200",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "El Loco",
+    "character_id": "el-loco-awp"
+   },
+   {
+    "name": "Enrique",
+    "character_id": "enrique-awp"
+   }
+  ],
+  "caption": "El Loco and Enrique, beaten by the Conceptuals on Total Darkness in November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awp",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-06",
+    "last_seen": "2001-11-06",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 documents of 6 November 2001."
+   }
+  ]
+ },
+ {
+  "id": "young-rich-and-infamous-awp",
+  "type": "unit",
+  "name": "Young, Rich, and Infamous",
+  "aka": [
+   "Y.R.I."
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Steve \"Snuff\" Sexton",
+    "character_id": "steve-snuff-sexton-iga-2003"
+   },
+   {
+    "name": "Kendall Trapp",
+    "character_id": "kendall-trapp-awp"
+   }
+  ],
+  "caption": "Steve Sexton and Kendall Trapp, a squabbling pair of rich young heels disqualified with the champions in their AWP Tag Team title match of November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awp",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-14",
+    "last_seen": "2001-12-03",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 cards, roleplays and bulletins, 14 November 2001 to 3 December 2001."
+   }
+  ]
+ },
+ {
+  "id": "cheat-to-win-awp",
+  "type": "unit",
+  "name": "Cheat to Win",
+  "aka": [
+   "C.T.W."
+  ],
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "The Emerald City Kidd",
+    "character_id": "emerald-city-kidd-iga-2003"
+   },
+   {
+    "name": "Kendall Trapp",
+    "character_id": "kendall-trapp-awp"
+   },
+   {
+    "name": "Steve \"Snuff\" Sexton",
+    "character_id": "steve-snuff-sexton-iga-2003"
+   }
+  ],
+  "caption": "The Emerald City Kidd's stable with Young, Rich, and Infamous, formed in November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awp",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-14",
+    "last_seen": "2001-11-25",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 cards, roleplays and bulletins, 14 November 2001 to 25 November 2001."
+   }
+  ]
+ },
+ {
+  "id": "the-prizefighters-awp",
+  "type": "unit",
+  "name": "The Prizefighters",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Orion Massacre",
+    "character_id": "orion-massacre-awp"
+   },
+   {
+    "name": "Blackjack",
+    "character_id": "blackjack-awp"
+   }
+  ],
+  "caption": "Orion Massacre and Blackjack, self-appointed big brothers of the roster, sidelined on Orion's injury in November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awp",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-06-10",
+    "last_seen": "2001-12-03",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 cards, roleplays and bulletins, 10 June 2001 to 3 December 2001."
+   }
+  ]
+ },
+ {
+  "id": "reign-of-terror-awp",
+  "type": "unit",
+  "name": "Reign of Terror",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Sinister",
+    "character_id": "sinister-rspwf"
+   },
+   {
+    "name": "The Big Chill",
+    "character_id": "the-big-chill-awp"
+   },
+   {
+    "name": "Trey Lawrenze",
+    "character_id": "trey-lawrenze-awmc"
+   }
+  ],
+  "caption": "Sinister, The Big Chill and Trey Lawrenze, a stable The Big Chill traces to a five-man founding, reunited in November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awp",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-25",
+    "last_seen": "2001-12-03",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 cards, roleplays and bulletins, 25 November 2001 to 3 December 2001."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "reign-of-terror-aicw"
+    ],
+    "note": "Shares a name with an AICW tag team of other members; no document names both."
+   }
+  ]
+ },
+ {
+  "id": "down-south-connection-awp",
+  "type": "unit",
+  "name": "The Down South Connection",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Kenneth Morlock",
+    "character_id": "kenneth-morlock-wet-1999"
+   },
+   {
+    "name": "Matt Allen",
+    "character_id": "the-expert-matt-allen-rspwf"
+   }
+  ],
+  "notes": "The same two wrestlers are billed as the South Syndicate Soldiers in the federation's Weekly Update of 10 June 2001.",
+  "caption": "Kenneth Morlock and Matt Allen, called the uncrowned champions because they were never pinned for the titles, who lost their AWP Tag Team title shot to the Conceptuals in December 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awp",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-25",
+    "last_seen": "2001-12-03",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 cards, roleplays and bulletins, 25 November 2001 to 3 December 2001."
+   },
+   {
+    "promotion": "wwa-wwarocks-2000",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-09-21",
+    "last_seen": "2001-09-23",
+    "grade": "primary-source",
+    "source": "The federation's War of the Words packet of 21 September 2001 and its newsflash of 23 September 2001.",
+    "note": "Kenneth Morlock and Matt Allen, billed as the WWA's newest tag team and scheduled against the Dark Ages for WWA Live of 28 September 2001."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-down-south-connection-upw"
+    ],
+    "note": "Shares a name with a UPW tag team; no document names both."
+   }
+  ]
+ }
+]

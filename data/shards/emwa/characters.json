@@ -1,0 +1,98 @@
+[
+  {
+    "id": "john-girder-emwa",
+    "type": "character",
+    "name": "John Girder",
+    "tenures": [
+      {
+        "promotion": "emwa",
+        "first_seen": "1992",
+        "last_seen": "1992",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "role": "wrestler — World Heavyweight Champion",
+        "source": "the Dreamcard V card and the FWF's own singles ledger (promotions/dreamcard/archive/dreamcard-v-the-rising-sun-final-lineup-1992-04-16.html, promotions/fwf-1992/archive/fwf-singles-record-1993-01-08.html)"
+      },
+      {
+        "promotion": "ufws",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "role": "wrestler — one of the Mage's Gallery; winner of the second SuperCard's battle royal and World Heavyweight title challenger",
+        "source": "the UFWS's own broadcasts, 18 July – 26 August 1991 (promotions/ufws/archive/pwgea-report-10-1991-07-18.html onward)",
+        "note": "EXTENDED RATHER THAN DUPLICATED. The join is primary-source two ways: this federation's own ring announcer bills him at the second SuperCard as \"the former EMWA World Champion and the winner of the Battle Royal,\" and the WeWF's own Summit of E-Wrestling update of 14 June 1991 lists \"John Girder & Warren Hammer\" under EMWA in its own by-federation entry list. Same man, two wings, one row."
+      },
+      {
+        "promotion": "summit-of-e-wrestling",
+        "first_seen": "1991",
+        "last_seen": "1991",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "the Summit of E-Wrestling's own broadcasts, served under that wing (promotions/summit-of-e-wrestling/holdings.html)"
+      }
+    ],
+    "caption": "The EMWA's own World Heavyweight Champion, put on the line against the FWF's at Dreamcard V and beaten by a disqualification his opponent engineered with a set of brass knuckles.",
+    "notes": "Billed at Dreamcard V with a second, the Magician, whom no other held document names.",
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 3,
+        "reigns": 1,
+        "appearances": 14,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "brewster-cogburn-emwa",
+    "type": "character",
+    "name": "Brewster Cogburn",
+    "caption": "An EMWA-original star credited by the community's own 1996 Hall of Fame process as one of the wing's earliest headliners, carrying the EMWA Intercontinental Championship before a long run through several other 1990s e-wrestling federations.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "emwa",
+        "first_seen": "1990",
+        "last_seen": "1994",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "The rec.sport.pro-wrestling.fantasy community Hall of Fame and Museum's own 1996 nomination and inductee record (served under promotions/rspwf/archive/, msg_ids sXkgSjUeOHYJ 7 Jun 1996, lN8iu-CZGzEJ 30 May 1996, wYldxWD1A0IJ 10 Jun 1996, xofQ0iIY1akJ 30 Jun 1996 first-inductees announcement): \"Cogburn got his start in the EMWA, the first e-wrestling federation, and remained a star for several years... He held titles in the EMWA and UFWS.\"",
+        "grade": "primary-source"
+      }
+    ],
+    "notes": "A first-ballot 1996 Hall of Fame inductee (unanimous, all seven votes) per the same community record; also held the UFWS World Title, the EWC World Title and won the first Slick Ric Tournament at Summit Two, per the same documents — those other federations' own tenures are not re-derived here. The player who created and handled this character is named in the same source documents; that name is a standing, unrelated denial on the tree-wide ledger and is not repeated here (role only: \"the character's own creator/handler\").",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Same ring name as the held brewster-cogburn record in another wing; minted here from EMWA's own 1996 community Hall of Fame record with no evidence read this pass of the same handler or continuity — kept distinct pending a join test (coordinator, 2026-09-04).",
+        "with": [
+          "brewster-cogburn"
+        ]
+      }
+    ]
+  }
+]

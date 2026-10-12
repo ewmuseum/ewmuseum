@@ -1,0 +1,442 @@
+[
+  {
+    "caption": "Masta Gangsta and Gangsta New Jack's own H.N.I.C., WICeW's own World Tag Team Champions under a second, unbilled name.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "id": "original-gangstaz-wicew",
+    "members": [
+      {
+        "name": "Masta Gangsta",
+        "character_id": "masta-gangsta-wicew"
+      },
+      {
+        "name": "Gangsta New Jack",
+        "character_id": "gangsta-new-jack-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "name": "Original Gangstaz",
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "notes": "Both wrestlers' bio cards independently list this title and describe themselves as co-leaders of the H.N.I.C. — Original Gangstaz reads as a second, unbilled name for the same crew, not a separate team."
+  },
+  {
+    "caption": "WICeW's own North American Tag Team Champions as of its 10 December 1998 championship snapshot.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-27"
+    },
+    "id": "hickerson-brothers-wicew",
+    "members": [
+      {
+        "name": "Denny Hickerson",
+        "character_id": "denny-hickerson-wicew"
+      },
+      {
+        "name": "Luke Hickerson",
+        "character_id": "luke-hickerson-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "name": "Hickerson Brothers",
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "notes": "Membership resolved from Denny Hickerson's and Luke Hickerson's own bio cards, each independently listing the WICeW North American Tag Team Title (Denny's own card dated “10/04/98 – present”), matching this unit's own currently-held reign."
+  },
+  {
+    "id": "old-rogues-wicew",
+    "type": "unit",
+    "name": "Old Rogues",
+    "unit_kind": "tag-team",
+    "caption": "A WICeW tag team, Steven Fletcher and Marcus Prichard's own dominant 8 November 1998 pairing against the Killers.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [
+      {
+        "name": "Steven Fletcher",
+        "character_id": "steven-fletcher-wicew"
+      },
+      {
+        "name": "Marcus Prichard",
+        "character_id": "marcus-prichard-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Billed as the Old Rogues, defeated the Killers on 8 November 1998 (promotions/wicew/archive/results-1998-11-08.html); no further appearance under this team name on file."
+  },
+  {
+    "id": "killers-wicew",
+    "type": "unit",
+    "name": "Killers",
+    "unit_kind": "tag-team",
+    "caption": "A WICeW tag team, Scorpion and Thunder-Bolt's own Dominion of War-aligned pairing.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [
+      {
+        "name": "Scorpion",
+        "character_id": "scorpion-wicew"
+      },
+      {
+        "name": "Thunder-Bolt",
+        "character_id": "thunder-bolt-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Lost the North American Tag Team Title match to the Hickerson Brothers on 4 October 1998 and lost again to the Old Rogues on 8 November 1998 (promotions/wicew/archive/results-1998-10-04.html; promotions/wicew/archive/results-1998-11-08.html).",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A decorated-name substring match against unrelated feds' own \"Killer\"/\"Killers\"-named entities; no corroborating link found.",
+        "with": [
+          "killer-ngw",
+          "csw-kennel-killers",
+          "euwc-killers-inc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "demon-knights-wicew",
+    "type": "unit",
+    "name": "Demon Knights",
+    "unit_kind": "tag-team",
+    "caption": "A WICeW tag team, Luther and Lucifer's own World Tag Team Championship pairing, driven out of the promotion in a loser-leaves-WICeW match.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [
+      {
+        "name": "Luther",
+        "character_id": "luther-wicew"
+      },
+      {
+        "name": "Lucifer",
+        "character_id": "lucifer-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Billed defending the World Tag Team Title against the Agents of War on 4 October 1998, retained via disqualification; lost their North American Tag Team Title challenge to the Hickerson Brothers in a loser-leaves-WICeW match on 8 November 1998, their last appearance on file. Their own loss of the World Tag Team Title to Original Gangstaz is not itself captured (see titles.json's wicew-world-tag-team notes).",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A decorated-name substring match against unrelated feds' own \"Demon\"/\"Night\"-named entities; no corroborating link found.",
+        "with": [
+          "demon-ewa",
+          "demon-pwf",
+          "night-oww"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "traditional-wrestling-order-wicew",
+    "type": "unit",
+    "name": "Traditional Wrestling Order",
+    "unit_kind": "stable",
+    "aka": [
+      "T.W.O."
+    ],
+    "caption": "A WICeW stable built around \"Superstar\" Steve Taylor, fractured when Sean \"Iceman\" Stevens turned on him mid-match.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [
+      {
+        "name": "\"Superstar\" Steve Taylor",
+        "character_id": "steve-taylor-wicew"
+      },
+      {
+        "name": "Sean \"Iceman\" Stevens",
+        "character_id": "sean-iceman-stevens-wicew"
+      },
+      {
+        "name": "Jon Northcross",
+        "character_id": "jon-northcross-wicew"
+      },
+      {
+        "name": "Jupiter",
+        "character_id": "jupiter-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Billed as \"T.W.O.\" throughout. Taylor and Stevens teamed as the Traditional Wrestling Order against Original Gangstaz on 8 November 1998, a match Stevens cost his own partner with a chair shot; Jupiter's own bio card states outright that \"he has joined the stable T.W.O.\"; Duke Puzo defeated Jon Northcross in a 5 December 1998 match stipulated to induct the winner into T.W.O., and Northcross duly joined (promotions/wicew/archive/results-1998-11-08.html; promotions/wicew/archive/results-1998-12-05.html; promotions/wicew/archive/bio-card-jupiter.html)."
+  },
+  {
+    "id": "no-limit-soldiers-wicew",
+    "type": "unit",
+    "name": "No Limit Soldiers",
+    "unit_kind": "stable",
+    "aka": [
+      "N.L.S."
+    ],
+    "caption": "A WICeW stable revealed intact on 8 November 1998 when TRU crashed a title match wearing its own colors.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [
+      {
+        "name": "TRU",
+        "character_id": "tru-wicew"
+      },
+      {
+        "name": "DaLinkwent",
+        "character_id": "dalinkwent-wicew"
+      },
+      {
+        "name": "Max A. Million",
+        "character_id": "max-a-million-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "TRU interrupted DaLinkwent's own Internet Title celebration on 8 November 1998 wearing a shirt reading \"No Limit Soldiers\"; Max A. Million ran in to separate them, and the broadcast names all three as the No Limit Soldiers leaving together (promotions/wicew/archive/results-1998-11-08.html). WICeW President Gregory Joseph banned N.L.S. members from the U.S. Title Tournament, a ban the broadcast connects to the reveal that the tournament's masked \"Eclipse\" entrant was Darkstar (promotions/wicew/archive/results-1998-12-05.html) -- suggestive of Darkstar's own N.L.S. membership, but not stated outright, so he is not added to this unit's own members[].",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "An unrelated CSWA stable independently billed under the same real-world hip-hop-derived name; no corroborating link found between the two.",
+        "with": [
+          "no-limit-soldiers-cswa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mid-south-syndicate-wicew",
+    "type": "unit",
+    "name": "Mid South Syndicate",
+    "unit_kind": "stable",
+    "aka": [
+      "M.S.S."
+    ],
+    "caption": "A WICeW stable founded by Down South Hustla, joined on-air by \"The Colonel\" Percy Miller.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [
+      {
+        "name": "Down South Hustla",
+        "character_id": "down-south-hustla-wicew"
+      },
+      {
+        "name": "\"The Colonel\" Percy Miller",
+        "character_id": "percy-miller-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Down South Hustla's own bio card names him \"Founder of the Mid South Syndicate,\" the same stable billed only as \"the M.S.S.\" on WICeW's own results text. Percy Miller accepted an on-air offer to join \"the most dominant stable in the WICeW\" on 5 December 1998 after TRU attacked him (promotions/wicew/archive/bio-card-down-south-hustla.html; promotions/wicew/archive/results-1998-12-05.html)."
+  },
+  {
+    "id": "sob-wicew",
+    "type": "unit",
+    "name": "S.o.B.",
+    "unit_kind": "stable",
+    "caption": "A WICeW stable led by $oulja, its full name never spelled out in the surviving record.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [
+      {
+        "name": "$oulja",
+        "character_id": "soulja-wicew"
+      },
+      {
+        "name": "Dominique",
+        "character_id": "dominique-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Named only by the abbreviation \"the SoB\" in the fed's own results text, never expanded. $oulja and his own valet Dominique wrestled together as a mixed tag team on 7 December 1998; the broadcast credits \"the SoB\" with attacking \"The Machine\" Matt Gavin on 5 December 1998, an attack $oulja personally carried out (promotions/wicew/archive/results-1998-12-05.html; promotions/wicew/archive/results-1998-12-07.html). Electra and Kael appear alongside $oulja on 5 December 1998 but are not named as SoB members and are not added here."
+  },
+  {
+    "id": "black-mafia-wicew",
+    "type": "unit",
+    "name": "Black Mafia",
+    "unit_kind": "stable",
+    "caption": "A WICeW faction that won a disqualification brawl against Darkstar and Red Dogg.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [],
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Billed defeating Darkstar & Red Dogg by disqualification on 10 December 1998 after Darkstar produced a baseball bat; the same paragraph names \"Nemesis\" fighting Red Dogg and mentions \"DS Hustla\" being attacked, without cleanly resolving either name to a Black Mafia member -- no membership is asserted (promotions/wicew/archive/results-1998-12-10.html)."
+  },
+  {
+    "id": "benjamins-squad-wicew",
+    "type": "unit",
+    "name": "Benjamins $quad",
+    "unit_kind": "stable",
+    "caption": "A WICeW faction carrying \"Mad Man\" Max Marshall's own finisher's name.",
+    "caption_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "\"Mad Man\" Max Marshall",
+        "character_id": "max-marshall-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Billed defeating the Dangers of the Ocean \"with the Decapitator\" on 12 December 1998 (promotions/wicew/archive/results-1998-12-12.html) -- the Decapitator is \"Mad Man\" Max Marshall's own bio-carded finisher, and no other WICeW wrestler is recorded using it; membership recorded at presumed grade on this move-signature match, since no roster page names the team directly.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A decorated-name substring match against an unrelated real-name-carrying entity's own \"Benjamin\"; no corroborating link found.",
+        "with": [
+          "benjamin-el-puta-hernandez"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dangers-of-the-ocean-wicew",
+    "type": "unit",
+    "name": "Dangers of the Ocean",
+    "unit_kind": "stable",
+    "caption": "A WICeW faction, Tidal Wave among its ranks, twice defeated in December 1998.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [
+      {
+        "name": "Tidal Wave",
+        "character_id": "tidal-wave-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Lost to Total Carnage on 10 December 1998 (Tidal Wave took the Guillotine) and to Benjamins $quad on 12 December 1998 (promotions/wicew/archive/results-1998-12-10.html; promotions/wicew/archive/results-1998-12-12.html); only Tidal Wave is individually named."
+  },
+  {
+    "id": "nuclear-disaster-wicew",
+    "type": "unit",
+    "name": "Nuclear Disaster",
+    "unit_kind": "stable",
+    "caption": "A WICeW faction, Nuke among its ranks, defeated by Original Gangstaz.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [
+      {
+        "name": "Nuke",
+        "character_id": "nuke-wicew"
+      }
+    ],
+    "membership_unknown": false,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Lost to Original Gangstaz on 10 December 1998, the Harlem Hangover landing on Nuke for the finish (promotions/wicew/archive/results-1998-12-10.html); only Nuke is individually named."
+  },
+  {
+    "id": "total-carnage-wicew",
+    "type": "unit",
+    "name": "Total Carnage",
+    "unit_kind": "stable",
+    "caption": "A WICeW faction whose Guillotine put away the Dangers of the Ocean's own Tidal Wave.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "members": [],
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "wicew"
+      }
+    ],
+    "notes": "Defeated the Dangers of the Ocean on 10 December 1998 (promotions/wicew/archive/results-1998-12-10.html); no individual member is named.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A decorated-name substring match against several unrelated feds' own bare \"Carnage\"; no corroborating link found.",
+        "with": [
+          "carnage",
+          "carnage-fob",
+          "carnage-icw-pweboard",
+          "carnage-pwf"
+        ]
+      }
+    ]
+  }
+]

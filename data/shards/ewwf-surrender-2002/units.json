@@ -1,0 +1,116 @@
+[
+  {
+    "id": "new-apocalypse-ewwf-surrender-2002",
+    "type": "unit",
+    "name": "New Apocalypse",
+    "unit_kind": "stable",
+    "caption": "A heel stable of four wrestlers who swept the SEWF Championship tournament's opening round on 2 October and confronted Simon Solkoff the same night.",
+    "caption_asof": {
+      "written": "2026-09-22",
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Ragnarok",
+        "character_id": "ragnarok-ewwf-surrender-2002"
+      },
+      {
+        "name": "Rocky Camarelli",
+        "character_id": "rocky-camarelli-ewwf-surrender-2002"
+      },
+      {
+        "name": "Sammy Paulison",
+        "character_id": "sammy-paulison-ewwf-surrender-2002"
+      },
+      {
+        "name": "Vinnie Cepacelli",
+        "character_id": "vinnie-cepacelli-ewwf-surrender-2002"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewwf-surrender-2002",
+        "first_seen": "2002-10-02",
+        "last_seen": "2002-10-02",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "The EWWF's own 2 October 2002 Surrender broadcast (/promotions/ewwf-surrender-2002/archive/surrender-2002-10-02.html)."
+      }
+    ]
+  },
+  {
+    "id": "seventh-seal-ewwf-surrender-2002",
+    "type": "unit",
+    "name": "The Seventh Seal",
+    "unit_kind": "tag-team",
+    "caption": "A tag team, Anatoly Kosygin and Minh-Dao Tung, brought into the EWWF by Nick Demola; won their debut match and helped take the Tag Team Championship the same night.",
+    "caption_asof": {
+      "written": "2026-09-22",
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Anatoly Kosygin",
+        "character_id": "anatoly-kosygin-ewwf-surrender-2002"
+      },
+      {
+        "name": "Minh-Dao Tung",
+        "character_id": "minh-dao-tung-ewwf-surrender-2002"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewwf-surrender-2002",
+        "first_seen": "2002-12-05",
+        "last_seen": "2002-12-05",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "The EWWF's own 5 December 2002 Surrender broadcast (/promotions/ewwf-surrender-2002/archive/surrender-2002-12-05.html)."
+      }
+    ]
+  },
+  {
+    "id": "chain-gang-ewwf-surrender-2002",
+    "type": "unit",
+    "name": "The Chain Gang",
+    "unit_kind": "tag-team",
+    "caption": "A debuting tag team, Victor Garza and Markee De Sade, pinned by the Seventh Seal in their first EWWF match.",
+    "caption_asof": {
+      "written": "2026-09-22",
+      "author": "ai"
+    },
+    "members": [
+      {
+        "name": "Victor Garza",
+        "character_id": "victor-garza-ewwf-surrender-2002"
+      },
+      {
+        "name": "Markee De Sade",
+        "character_id": "markee-de-sade-ewwf-surrender-2002"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewwf-surrender-2002",
+        "first_seen": "2002-12-05",
+        "last_seen": "2002-12-05",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "The EWWF's own 5 December 2002 Surrender broadcast (/promotions/ewwf-surrender-2002/archive/surrender-2002-12-05.html)."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-chain-gang-czwf"
+        ],
+        "note": "A same-named tag team in an unrelated, much later federation (2004-05), with no surviving roster; nothing ties it to this run."
+      }
+    ]
+  }
+]

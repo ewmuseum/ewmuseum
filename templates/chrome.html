@@ -1,0 +1,109 @@
+<!--
+  THE MUSEUM — canonical page chrome (masthead + footer).
+
+  Single source of truth. Changing the site-wide nav, wordmark, tagline,
+  or footer pattern is a THREE-STEP workflow, always — never hand-edit
+  chrome on individual pages:
+    1. Edit this file.
+    2. Run `npm run chrome` (scripts/stamp-chrome.mjs) to re-stamp every
+       page in the repository from the new version. Safe and idempotent
+       — running it twice in a row produces no further diff.
+    3. Commit and push. CI (`npm run check`) fails the build if any
+       page's chrome doesn't match what this template would stamp, so a
+       hand-edited or missed page can't silently drift back out of sync.
+  This comment is the first thing a future curator should read before
+  touching a header link, a nav item, or the footer pattern.
+
+  Why stamped into every file instead of injected at runtime by a
+  shared layout/router: this is a plain static site with no build step
+  and no server-side templating — the repo's own files ARE the served
+  site, and every one of them has to stand alone as a complete HTML
+  document. A page that only makes sense assembled behind a router
+  isn't a complete document; a git diff of a chrome change should be
+  able to show, in the page itself, exactly what a visitor's browser
+  will receive. Consistency comes from stamping the same source into
+  every file and using the validator to catch drift after that, not
+  from a runtime include no diff can see.
+
+  Placeholders (plain string substitution, no template engine):
+    {{title}}        the page's own full <title> text, INCLUDING
+                      whatever " — E-WRESTLING MUSEUM"-style suffix the
+                      caller wants; the chrome adds no suffix of its own.
+    {{footer_line}}   the page-specific sentence(s) that follow the
+                      "back to X" link in the footer (e.g. a Source: /
+                      Written 2026 line). Everything else in both marked
+                      blocks is identical, byte-for-byte, on every page.
+    {{lang}}          THE CHROME I18N STEP (THE ECOSYSTEM EXPANSION GAVEL,
+                      2026-09-05, step 2; CURATION.md v112(a)) — the page's
+                      own language, resolved by scripts/stamp-chrome.mjs's
+                      resolvePageLang() from the wing's registry `language`
+                      and the served document's own `lang`. "en" everywhere
+                      until a non-English wing lands.
+    {{chrome_lang}}   ' lang="en"' on a page whose own language is NOT
+                      English, and the empty string otherwise. The chrome is
+                      the museum's English voice; left unmarked inside a
+                      Polish page it is fed through a Polish-to-English
+                      translator by every browser that offers to translate
+                      the page, and comes back as nonsense. Marking it is
+                      not decoration.
+
+  The crumb line (<p class="crumb">…</p>) and the "back to X" link text/
+  href inside the footer are NOT part of this template — they are
+  genuinely page-specific navigation content, not shared chrome, and
+  live in each page's own <main>/<footer> alongside its title/document.
+-->
+<!-- chrome:head:start -->
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>{{title}}</title>
+<script src="/js/theme.js?v=5"></script>
+<link rel="stylesheet" href="/style.css?v=22">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://ewmuseum.org/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip-link" href="#main-content"{{chrome_lang}}>Skip to main content</a>
+<header class="masthead"{{chrome_lang}}>
+  <div class="inner">
+    <a class="wordmark" href="/"><svg class="ringmark-lg" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><use href="/ringmark.svg#ewm"/></svg><svg class="ringmark" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect class="m-apron" width="16" height="16" rx="2"/><rect class="m-rope" x="2.5" y="2.5" width="11" height="11"/><path class="m-pad" d="M0 0h4v4H0zM12 0h4v4h-4zM0 12h4v4H0zM12 12h4v4h-4z"/><rect class="m-core" x="6" y="6" width="4" height="4"/><rect class="m-edge" x=".5" y=".5" width="15" height="15" rx="1.5"/></svg><span class="wm-text">THE E-WRESTLING <span class="nw">MUSEUM<span class="dot">.</span></span></span></a>
+    <div class="tagline">a museum of fantasy wrestling, built one collection at a time</div>
+    <nav class="gallery">
+      <a href="/promotions.html">Wings</a>
+      <a href="/characters.html">Characters</a>
+      <a href="/units.html">Units</a>
+      <a href="/relationships.html">Relationships</a>
+      <a href="/shows.html">Shows</a>
+      <a href="/matches.html">Matches</a>
+      <a href="/appearances.html">Appearances</a>
+      <a href="/rps.html">Roleplays</a>
+      <a href="/championships.html">Championships</a>
+      <a href="/reigns.html">Reigns</a>
+      <a href="/awards.html">Awards</a>
+      <a href="/bestowals.html">Bestowals</a>
+      <a href="/halloffame.html">Halls of Fame</a>
+      <a href="/in-memoriam.html">In Memoriam</a>
+      <a href="/essays.html">Essays</a>
+    </nav>
+  </div>
+  <span id="main-content" tabindex="-1"></span>
+</header>
+<!-- chrome:head:end -->
+<!-- chrome:footer:start -->
+  <footer role="contentinfo"{{chrome_lang}}>
+{{footer_line}}
+    <!-- footernav:start --><nav class="footnav" aria-label="Elsewhere"><a href="/search.html">Search</a> <span class="rule">/</span> <a href="https://forum.ewmuseum.org">The forum</a> <span class="rule">/</span> <a href="https://e-wrestling.org">e-wrestling.org</a></nav><!-- footernav:end -->
+  </footer>
+</main>
+</body>
+</html>
+<!-- chrome:footer:end -->

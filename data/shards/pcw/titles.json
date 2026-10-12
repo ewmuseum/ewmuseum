@@ -1,0 +1,169 @@
+[
+ {
+  "id": "pcw-continental",
+  "type": "title",
+  "name": "Continental Championship",
+  "promotion": "pcw",
+  "page": "/titles/pcw-continental.html",
+  "collection": "0006",
+  "epitaph": "PCW's Continental Championship was first won by Alan Kriegman on 22 October 2000. The fed's own record carries 36 reigns on it, across 31 different champions. The longest is Totally Tubular Tommy's, 84 days from 22 December 2002. Four of its reigns ended outside a match — handed over, stripped from the holder or vacated. Skitzo held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "reigns": 36
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "pcw-cruiserweight",
+  "type": "title",
+  "name": "Cruiserweight Championship",
+  "promotion": "pcw",
+  "page": "/titles/pcw-cruiserweight.html",
+  "collection": "0006",
+  "epitaph": "PCW's Cruiserweight Championship was first won by Nick Taylor on 22 October 2000. The fed's own record carries 44 reigns on it, across 30 different champions. The longest is Chris Chase's, 56 days from 9 January 2002. Three of its reigns ended outside a match — handed over, stripped from the holder or vacated. Miss Moonlight held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "reigns": 44
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "pcw-extreme",
+  "type": "title",
+  "name": "Extreme Championship",
+  "promotion": "pcw",
+  "page": "/titles/pcw-extreme.html",
+  "collection": "0006",
+  "epitaph": "PCW's Extreme Championship was first won by Scott Naket on 6 October 2000. The fed's own record carries 72 reigns on it, across 54 different champions. The longest is Skitzo's, 65 days from 14 February 2003. Shaun Styles held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "reigns": 72
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "pcw-rising-star",
+  "type": "title",
+  "name": "Rising Star Championship",
+  "promotion": "pcw",
+  "page": "/titles/pcw-rising-star.html",
+  "collection": "0006",
+  "epitaph": "PCW's Rising Star Championship was first won by Dan Hollywood on 26 November 2000. The fed's own record carries 36 reigns on it, across 35 different champions. The longest is Dorn Tracer's, 58 days from 21 February 2003. Six of its reigns ended outside a match — stripped from the holder or vacated. PCW scrapped it for the European Championship on 6 March 2001 and brought it back a month afterwards. PCW merged it into the Cruiserweight Championship on 17 September 2002, and revived it four months later. James 'Lunar' Edwards held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "reigns": 36
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "rename",
+    "date": {
+     "date": "2001-03-06",
+     "precision": "exact"
+    },
+    "note": "PCW scrapped the Rising Star Championship for the European Championship, in its own on-air voice: Tyler Nelson — \"the Rising Star Title was caught in a numbers game. With our addition to the Euro TV Satellite Networks, it only seemed natural to create a European title, so the decision was made to scrap the Rising Star strap.\" The belt came back thirty-three days later, at Spring Fling 2001 of 8 Apr 2001: \"the European Belt is retired, and the Rising Star Title has been reinstated in PCW!\" TWO READINGS, recorded both (#sources-disagree): in period the fed staged a SCRAP-AND-CREATE (two belts, the Rising Star champion Slade still billed \"the current PCW Rising Star Champion\" on Turmoil 27 of 3 Apr 2001 while The Chef carried the European belt), while the fed's own later newsdesk trivia line — carried on its site from 2002 on — calls it a RENAME: \"That PCW once renamed it's Rising Star title to the European title, and was mostly held by Hall of Famer, the Chef?\" The event is filed as the later voice names it and the in-period staging is recorded here; the European Championship carries its one reign either way, and the Rising Star reigns are unchanged. Source: PCW's own results page for Turmoil 24, 6 Mar 2001.",
+    "title": "pcw-european"
+   },
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2002-09-17",
+     "precision": "exact"
+    },
+    "note": "PCW merged the Rising Star Championship into the Cruiserweight Championship on this night and said so in its own voice: \"the Cruiserweight and Rising Star titles are merged\", \"This is the last match ever where the Rising Star title will be seen\", and \"The following match is scheduled for one fall! And will crown the undisputed Primetime Championship Wrestling Cruiserweight Champion!\". Anarchy (Rising Star) beat Brandi (Cruiserweight) and left with one belt. The fed's own title log carries no row for the merge. PCW REVIVED the Rising Star Championship four months later — Shanghaied 2003 of 26 Jan 2003 crowns \"the first Rising Star Champion in a very long time\" and Fusion 108 of 7 Feb 2003 calls it \"the newly revived Rising Star division\" — so this records a dated event, not a final state. Source: PCW's own results page for Turmoil 96, 17 Sep 2002.",
+    "title": "pcw-cruiserweight"
+   }
+  ]
+ },
+ {
+  "id": "pcw-tag-team",
+  "type": "title",
+  "name": "Tag Team Championship",
+  "promotion": "pcw",
+  "page": "/titles/pcw-tag-team.html",
+  "collection": "0006",
+  "epitaph": "PCW's Tag Team Championship was first won by Goovil on 22 October 2000. The fed's own record carries 51 reigns on it, across 35 different champions. The longest is E2's, 274 days from 25 May 2003. Three of its reigns ended outside a match — stripped from the holder or vacated. Mega Soaring Arrows held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "reigns": 51
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "pcw-television",
+  "type": "title",
+  "name": "Television Championship",
+  "promotion": "pcw",
+  "page": "/titles/pcw-television.html",
+  "collection": "0006",
+  "epitaph": "PCW's Television Championship was first won by Revenant on 22 October 2000. The fed's own record carries 46 reigns on it, across 38 different champions. The longest is Teresa Tomas's, 84 days from 22 December 2002. Four of its reigns ended outside a match — handed over or vacated. Tessa Windsor held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "reigns": 46
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "pcw-world",
+  "type": "title",
+  "name": "World Championship",
+  "promotion": "pcw",
+  "page": "/titles/pcw-world.html",
+  "collection": "0006",
+  "epitaph": "PCW's World Championship was first won by Kremmen on 22 October 2000. The fed's own record carries 35 reigns on it, across 28 different champions. The longest is Skylar Green's, 265 days from 25 May 2003. Two of its reigns ended outside a match — stripped from the holder or vacated. The belt left Inphino Blitz on 23 February 2004, stripped from the holder, and the surviving record carries no later change.",
+  "epitaph_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "reigns": 35
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "pcw-european",
+  "type": "title",
+  "name": "European Championship",
+  "promotion": "pcw",
+  "page": "/titles/pcw-european.html",
+  "collection": "0006",
+  "epitaph": "PCW's European Championship was first won by The Chef on 9 March 2001. PCW retired it on 8 April 2001, under its only champion.",
+  "epitaph_asof": {
+   "written": "2026-09-22",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "retired_by_fed",
+    "date": {
+     "date": "2001-04-08",
+     "precision": "exact"
+    },
+    "note": "Alan Kriegman, on the fed's own authority: \"by order of Commissioner Naket, I am pleased to announce that effective immediately, the European Belt is retired, and the Rising Star Title has been reinstated in PCW!\" — said in the same segment as The Chef's own successful defence that night, so the belt is retired under its only champion rather than lost. The fed's own title log has no row for the belt at all, let alone for its retirement. Source: PCW's own results page for Spring Fling 2001, 8 Apr 2001."
+   }
+  ],
+  "notes": "A belt PCW ran for thirty days in the spring of 2001 and that his database holds no row for anywhere: PCW's own title list lists the other seven and nothing else, and all three of its matches carry title_id 0 on their own match record. Created when the fed scrapped the Rising Star Championship for it and retired when the fed brought the Rising Star Championship back, so its lineage is recorded as restarted from title 13. Receipts: PCW's own results pages for March Madness 2001 (4 Mar 2001), Turmoil 24 (6 Mar 2001, 442.txt), Fusion 25 (9 Mar 2001, 375.txt), Sabotage 1 (11 Mar 2001, 305.txt), Fusion 26 (16 Mar 2001, 376.txt), Turmoil 26 (20 Mar 2001, 444.txt), Sabotage 3 (25 Mar 2001, 299.txt) and Spring Fling 2001 (8 Apr 2001, 511.txt)."
+ }
+]

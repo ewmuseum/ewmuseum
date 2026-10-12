@@ -1,0 +1,239 @@
+[
+ {
+  "id": "ipw-xfwl-e-championship-r2",
+  "title": "ipw-xfwl-e-championship",
+  "label": "Bouncer",
+  "holder": [
+   {
+    "id": "bouncer-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "2003-12-14",
+   "precision": "exact",
+   "source": "Hardcore Holiday, 14 December 2003."
+  },
+  "event": "ipw-xfwl-hardcore-holiday-2003-12-14",
+  "days": null,
+  "how": "Won a three-way Triangle Turbulence match at Hardcore Holiday whose own pinning rule (each man had to pin a specific opponent) was overridden when the referee counted a pin on the champion regardless of who was pinning whom; the ring announcer declared Bouncer the new champion.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ipw-xfwl-e-championship-r1",
+  "title": "ipw-xfwl-e-championship",
+  "label": "Hazzard",
+  "holder": [
+   {
+    "id": "hazzard-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed as the reigning E-Champion on Impact Xtreme, 27 September 2003; no origin document for this reign survives in the held record."
+  },
+  "lost": {
+   "date": "2003-12-14",
+   "precision": "exact"
+  },
+  "days": null,
+  "event": null,
+  "how": "Pinned by Bouncer in a three-way Triangle Turbulence match at Hardcore Holiday.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ipw-xfwl-junior-heavyweight-r2",
+  "title": "ipw-xfwl-junior-heavyweight",
+  "label": "Mark Prohibition",
+  "holder": [
+   {
+    "id": "mark-prohibition-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "2003-07",
+   "precision": "month",
+   "source": "Won from Bouncer at an event called Burnout, referenced on Impact Xtreme, 27 September 2003; Burnout is not itself served in the held record."
+  },
+  "lost": {
+   "date": "2003-12-14",
+   "precision": "exact"
+  },
+  "event": null,
+  "days": null,
+  "how": "Lost the deciding fall of a two-out-of-three-falls match to Venom at Hardcore Holiday via submission (Dragon Clutch).",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ipw-xfwl-junior-heavyweight-r3",
+  "title": "ipw-xfwl-junior-heavyweight",
+  "label": "Venom",
+  "holder": [
+   {
+    "id": "venom-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "2003-12-14",
+   "precision": "exact",
+   "source": "Hardcore Holiday, 14 December 2003."
+  },
+  "event": "ipw-xfwl-hardcore-holiday-2003-12-14",
+  "days": null,
+  "how": "Won the deciding fall of a two-out-of-three-falls match against Mark Prohibition via submission (Dragon Clutch) at Hardcore Holiday.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ipw-xfwl-junior-heavyweight-r1",
+  "title": "ipw-xfwl-junior-heavyweight",
+  "label": "Bouncer",
+  "holder": [
+   {
+    "id": "bouncer-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Referenced on Impact Xtreme, 27 September 2003, as a past champion; no origin document survives in the held record."
+  },
+  "lost": {
+   "date": "2003-07",
+   "precision": "month"
+  },
+  "event": null,
+  "days": null,
+  "how": "Lost the title to Mark Prohibition at an event called Burnout, not itself served in the held record.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ipw-xfwl-womens-r2",
+  "title": "ipw-xfwl-womens",
+  "label": "Peaches",
+  "holder": [
+   {
+    "id": "peaches-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "2003-10-04",
+   "precision": "exact",
+   "source": "Fallout featuring War Games, 4 October 2003."
+  },
+  "lost": {
+   "date": "2003-12-14",
+   "precision": "exact"
+  },
+  "event": "ipw-xfwl-fallout-war-games-2003-10-04",
+  "days": null,
+  "how": "Lost the title to Amanda Clark in a ladder match at Hardcore Holiday after suffering a leg injury; the fed's own text describes Amanda retrieving \"both titles\" from the ladder, though only this one championship is otherwise attested in the surviving record.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ipw-xfwl-womens-r3",
+  "title": "ipw-xfwl-womens",
+  "label": "Amanda Clark",
+  "holder": [
+   {
+    "id": "amanda-clark-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "2003-12-14",
+   "precision": "exact",
+   "source": "Hardcore Holiday, 14 December 2003."
+  },
+  "event": "ipw-xfwl-hardcore-holiday-2003-12-14",
+  "days": null,
+  "how": "Won a ladder match against Peaches at Hardcore Holiday after Peaches was injured.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ipw-xfwl-womens-r1",
+  "title": "ipw-xfwl-womens",
+  "label": "Mistress Of Light",
+  "holder": [
+   {
+    "id": "mistress-of-light-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed as the reigning Women's Champion on Impact Xtreme, 27 September 2003; no origin document survives in the held record."
+  },
+  "lost": {
+   "date": "2003-10-04",
+   "precision": "exact"
+  },
+  "event": null,
+  "days": null,
+  "how": "Lost the title to Peaches at Fallout featuring War Games via a Texas Cloverleaf submission.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ipw-xfwl-tag-team-r1",
+  "title": "ipw-xfwl-tag-team",
+  "label": "The Future",
+  "holder": [
+   {
+    "id": "the-future-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed as the reigning Tag Team Champions on Impact Xtreme, 27 September 2003; no origin document survives in the held record."
+  },
+  "lost": {
+   "date": "2003-12-14",
+   "precision": "exact"
+  },
+  "event": null,
+  "days": null,
+  "how": "Their chain match against The Russians at Hardcore Holiday ended with two referees counting simultaneous pinfalls for opposite sides; the promotion's own on-air authority figure declared the title vacant that same night, pending a tournament in January.",
+  "end_how": "vacated"
+ },
+ {
+  "id": "ipw-xfwl-world-r2",
+  "title": "ipw-xfwl-world",
+  "label": "411",
+  "holder": [
+   {
+    "id": "411-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "2003-12-14",
+   "precision": "exact",
+   "source": "Hardcore Holiday, 14 December 2003."
+  },
+  "event": "ipw-xfwl-hardcore-holiday-2003-12-14",
+  "days": null,
+  "how": "Pinned champion Tyrant in a triple-threat Bring Your Own Weapon match also involving JuggaØ at Hardcore Holiday.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ipw-xfwl-world-r1",
+  "title": "ipw-xfwl-world",
+  "label": "Tyrant",
+  "holder": [
+   {
+    "id": "tyrant-ipw-xfwl"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed as the reigning World Champion on Impact Xtreme, 27 September 2003; no origin document survives in the held record."
+  },
+  "lost": {
+   "date": "2003-12-14",
+   "precision": "exact"
+  },
+  "event": null,
+  "days": null,
+  "how": "Pinned by 411 in a triple-threat Bring Your Own Weapon match against 411 and JuggaØ at Hardcore Holiday.",
+  "end_how": "lost-in-match"
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "id": "brotherhood-nwf-1995",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Brotherhood",
+  "members": [
+   "michael-jones-nwf-1995",
+   "curtis-mcgriff-nwf-1995"
+  ],
+  "tenures": [
+   {
+    "promotion": "nwf-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1995-08-01",
+    "last_seen": "1995-08-04",
+    "source": "the promotion's own 1 August 1995 tapings recap and 4 August 1995 results card"
+   }
+  ],
+  "caption": "Won the vacant NWF Tag Team Championship in a five-team elimination match at TV tapings and retained it against the Masked Destroyers on 4 August 1995, the last tag title defense in this record's own read window.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A same-named entity is already elsewhere in the held record under an unrelated federation; no document ties the two records together.",
+    "with": [
+     "the-brotherhood-nwa-entity-3"
+    ]
+   }
+  ]
+ }
+]

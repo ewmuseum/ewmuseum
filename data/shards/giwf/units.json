@@ -1,0 +1,1946 @@
+[
+ {
+  "id": "cybernetic-hardcore-luchadores",
+  "type": "unit",
+  "name": "Cybernetic Hardcore Luchadores",
+  "members": [
+   {
+    "name": "CHL #1",
+    "character_id": null
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "A World Tag Team Championship-winning stable known almost entirely by its own acronym — only one member, billed simply CHL #1, is named in the surviving record.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "forces-of-darkness",
+  "type": "unit",
+  "name": "Forces of Darkness",
+  "members": [
+   {
+    "name": "Jared Crafter",
+    "character_id": "jared-crafter"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "unit_kind": "stable",
+  "aka": [
+   "The Forces of Darkness"
+  ],
+  "caption": "Jared Crafter's own stable, credited with a thirty-five-day World Tag Team Championship reign the standing title record doesn't independently confirm.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "law-and-order",
+  "type": "unit",
+  "name": "Law & Order",
+  "members": [
+   {
+    "name": "Studog Escobar",
+    "character_id": "studog-escobar"
+   },
+   {
+    "name": "Corporal Punishment",
+    "character_id": "corporal-punishment"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "tag team"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Studog Escobar and Corporal Punishment's own pairing, taking the World Tag Team Championship off the Fomorians and Tropical Storm in a triple threat.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 10,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "misled-youth",
+  "type": "unit",
+  "name": "Misled Youth",
+  "members": [
+   {
+    "name": "Pyro",
+    "character_id": "pyro"
+   },
+   {
+    "name": "Freak",
+    "character_id": "freak-iwf"
+   },
+   {
+    "name": "Shinru",
+    "character_id": "shinru"
+   },
+   {
+    "name": "Wan Chun Hai",
+    "character_id": "wan-chun-hai"
+   },
+   {
+    "name": "Flammable",
+    "character_id": "flammable-giwf"
+   },
+   {
+    "name": "Mad Jack Manson",
+    "character_id": "jack-manson-giwf"
+   },
+   {
+    "name": "Iron Priest",
+    "character_id": "twiztid"
+   },
+   {
+    "name": "Ace Thunder",
+    "character_id": "ace-thunder"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "role": "tag team",
+    "source": "GIWF show corpus census, verified against served show text"
+   }
+  ],
+  "unit_kind": "stable",
+  "notes": "Pyro is named the group's leader in the corpus's own commentary (\"the Misled Youth leader\"); not linked as a character_id member here since the corpus never lists a full roster, only the leader by name. Members as the stable's own roleplay of 2 June 1999 (/promotions/giwf/archive/misled-youth-stable-wars-tape-review-1999-06-02.html) stages them in \"the Misled Youth warehouse\": \"Everyone is present except Ace Thunder\" (Flammable, Freak, Mad Jack Manson, Pyro and the Iron Priest), the cards agreeing (/promotions/giwf/archive/global-1999-06-15.html: \"Ace Thunder was quick to join Misled Youth on his arrival into the GIWF\"; /promotions/giwf/archive/global-1999-09-15.html: \"their split with Ace Thunder and Twiztid many months ago\"). In that roleplay Flammable, reviewing the Stable Wars tape, names Freak and Mad Jack Manson the number-two contenders for the tag team titles behind the Dreamwarriors, Pyro the number-two contender for the Television title behind E-Razor, and the Iron Priest the number-one contender for the Intercontinental title, and lays down two challenges for Sunday Afternoon Suicide: Pyro against Ice J, falls count anywhere, and Misled Youth against the Mighty Israelites for the World Tag Team titles.",
+  "caption": "Pyro's stable, built on Flammable and Freak's tag team in the spring of 1999 and joined by Mad Jack Manson, the Iron Priest and Ace Thunder by June, before the last two split away later that year.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 21,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 2
+   }
+  }
+ },
+ {
+  "id": "rabid-hamsters-inc",
+  "type": "unit",
+  "name": "Rabid Hamsters Inc",
+  "members": [
+   {
+    "name": "Insano",
+    "character_id": "insano"
+   },
+   {
+    "name": "Chomps",
+    "character_id": "chomps"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "role": "tag team",
+    "source": "GIWF show corpus census, verified against served show text"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "Insano and Chomps' own GIWF pairing, five recovered appearances under a memorably odd name.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "serial-thrillers",
+  "type": "unit",
+  "name": "Serial Thrillers",
+  "members": [
+   {
+    "name": "Gabriel Talbot",
+    "character_id": "gabriel-talbot"
+   },
+   {
+    "name": "Adrian Devlin",
+    "character_id": "adrian-devlin"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "role": "tag team",
+    "source": "GIWF show corpus census, verified against served show text"
+   }
+  ],
+  "unit_kind": "stable",
+  "notes": "Also seen as \"The Serial Thrillers\" in the same corpus — one entity, two name-forms.",
+  "caption": "A GIWF pairing, Gabriel Talbot and Adrian Devlin, recorded under two name-forms, \"Serial Thrillers\" and \"The Serial Thrillers.\"",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 12,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "swinging-hipsters",
+  "type": "unit",
+  "name": "Swinging Hipsters",
+  "members": [
+   {
+    "name": "Mike Powers",
+    "character_id": "mike-powers"
+   },
+   {
+    "name": "Austin Myers",
+    "character_id": "austin-myers"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "role": "tag team",
+    "source": "GIWF show corpus census, verified against served show text"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Mike Powers and Austin Myers' own GIWF pairing from the fed's founding year, led to the ring by Miss Piccadilly across eight recovered appearances.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "team-esco",
+  "type": "unit",
+  "name": "Team Esco",
+  "members": [
+   {
+    "name": "Henrique Escobar",
+    "character_id": "henrique-escobar"
+   },
+   {
+    "name": "\"The Greatest Footballer Alive\" John Barnes",
+    "character_id": "john-barnes-giwf"
+   },
+   {
+    "name": "Studog Escobar",
+    "character_id": "studog-escobar"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "Henrique Escobar and John Barnes's own tag pairing, with Studog Escobar riding alongside them, taking the World Tag Team Championship off the Mighty Israelites.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 11,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-bringers-of-darkness",
+  "type": "unit",
+  "name": "The Bringers of Darkness",
+  "members": [
+   {
+    "name": "Venom",
+    "character_id": "venom-giwf"
+   },
+   {
+    "name": "Onslaught",
+    "character_id": "onslaught-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "aka": [
+   "Bringers of Darkness"
+  ],
+  "unit_kind": "stable",
+  "caption": "Venom and Onslaught's own pairing, led to the ring by the Watcher, taking the North American Tag Team Championship off the Dragoons.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 15,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-dark-lords",
+  "type": "unit",
+  "name": "The Dark Lords",
+  "members": [
+   {
+    "name": "Gabriel",
+    "character_id": "gabriel-giwf"
+   },
+   {
+    "name": "Evil",
+    "character_id": "evil-giwf"
+   },
+   {
+    "name": "Luca the Imp",
+    "character_id": "luca-the-imp"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "tag team — Hall of Fame; only three-time Tag Champions in the surviving span"
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "UWF's own backstage database (lot 0159), bio 7584",
+    "grade": "billing",
+    "note": "On the UWF's own roster in its backstage database; no card in the fed's own record credits an appearance. Joined to this record on the evidence of the identity read of UWF bio 7584 (presumed)."
+   }
+  ],
+  "notes": "\"The Fallen Angel\" & \"The Demon\"; mascot Luca the Imp, who grows into a main-event heel and Jay Phoenix's Feud-of-the-Year rival. Gabriel is later killed off in-fiction.",
+  "aka": [
+   "Dark Lords"
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Hall of Famers built around Gabriel's Fallen Angel and Evil's Demon, with mascot Luca the Imp growing into a main-event star of his own — the only three-time Tag Champions the surviving span records.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 4,
+    "appearances": 24,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-dont-brothers",
+  "type": "unit",
+  "name": "The Don't Brothers",
+  "members": [
+   {
+    "name": "Dave Don't",
+    "character_id": "dave-dont"
+   },
+   {
+    "name": "Dudley Don't",
+    "character_id": "dudley-dont"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "tag team"
+   }
+  ],
+  "aka": [
+   "Don't Brothers"
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Held the World Tag Team Championship for twenty-one days as Dave and Dudley Don't, a pun act whose own GIWF run survived a staged \"death\" by gardening accident.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-dragoons",
+  "type": "unit",
+  "name": "The Dragoons",
+  "members": [
+   {
+    "name": "Eiji Kanatsu",
+    "character_id": "eiji-kanatsu"
+   },
+   {
+    "name": "Bahamut",
+    "character_id": "bahamut"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "tag team"
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "2003-05-22",
+    "last_seen": "2003-05-22",
+    "note": "Appearance-derived tenure: dated from 1 receipted show appearance in data/shows.json (the W6 match-prose extraction), not any bio/roster source.",
+    "source": "data/shows.json appearances",
+    "grade": "primary-source"
+   }
+  ],
+  "aka": [
+   "Dragoons"
+  ],
+  "unit_kind": "tag-team",
+  "notes": "Members per uwf.org.uk's own Sunday Afternoon Suicide script (10 Mar 2002), lined up as \"'Tiamat' Eiji Kanatsu and Bahamut.\"",
+  "caption": "\"Tiamat\" Eiji Kanatsu and Bahamut's own pairing, three tag title reigns across the GIWF whose UWF-era appearance is attested by a single 2003 card.",
+  "caption_asof": {
+   "written": "2026-08-19",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 3,
+    "appearances": 41,
+    "rps": 2,
+    "awards": 2,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/bio/thedragoons",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "bio",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "the-dream-warriors",
+  "type": "unit",
+  "name": "The Dreamwarriors",
+  "aka": [
+   "The Dream Warriors",
+   "Dreamwarriors"
+  ],
+  "members": [
+   {
+    "name": "The Sandman",
+    "character_id": "the-sandman-dream-warriors"
+   },
+   {
+    "name": "John Constantine",
+    "character_id": "john-constantine-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team — 1999 Hall of Fame"
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "unknown",
+    "last_seen": "unknown",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "UWF's own backstage database (lot 0159), bio 7587",
+    "grade": "billing",
+    "note": "On the UWF's own roster in its backstage database; no card in the fed's own record credits an appearance. Joined to this record on the evidence of the identity read of UWF bio 7587 (presumed)."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Sandman and John Constantine's tag team, GIWF World Tag Team Champions for 35 days after beating the Dark Lords at March Maelstrom 1999, and inducted into the GIWF Hall of Fame that December.",
+  "caption_asof": {
+   "written": "2026-09-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 16,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-fomorians",
+  "type": "unit",
+  "name": "The Fomorians",
+  "members": [
+   {
+    "name": "Tethra",
+    "character_id": "tethra",
+    "eras": [
+     "giwf"
+    ]
+   },
+   {
+    "name": "Eriu",
+    "character_id": "eriu",
+    "eras": [
+     "giwf"
+    ]
+   },
+   {
+    "name": "Fey",
+    "character_id": "fey-fomorian",
+    "eras": [
+     "giwf"
+    ]
+   },
+   {
+    "name": "Thomas McClancy",
+    "character_id": "thomas-mcclancy",
+    "eras": [
+     "uwf"
+    ]
+   },
+   {
+    "name": "Patrick McClancy",
+    "character_id": "patrick-mcclancy",
+    "eras": [
+     "uwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "tag team — won the World Tag Titles off Pete Steele & Al Crud at Extinction, held 80 days"
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "2004",
+    "last_seen": "2004-07-11",
+    "note": "The UWF-era pairing is Sean McClancy's own younger twin brothers, billed on-screen as Thomas and Patrick McClancy — kayfabe kin to sean-the-irish-bastard-mcclancy, not the GIWF era's own Eriu/Tethra performers (whether they are the same individuals behind the ring names is not established by the record). Previously dated from 4 receipted show appearances in data/shows.json (the W6 match-prose extraction) with no bio/roster source; the primary-source billing text above now grades this tenure directly rather than by appearance-derivation alone.",
+    "source": "promotions/uwf/archive/sas-2004-05-16.html",
+    "grade": "primary-source"
+   }
+  ],
+  "notes": "Irish myth theming; Fey is the reader-of-weather.",
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "user-attested",
+    "note": "VERDICT, second rider on THE IDENTITY WAVE (2026-08-22), verbatim: \"THE FOMORIANS ARE CONFIRMED CONTINUOUS ACROSS GIWF AND UWF\" — same unit, same continuity, both eras, ruling the review-queue's own open unit-membership entry (GIWF trio Tethra/Eriu/Fey, 1999-2001, vs. the UWF 2004 billing of Sean McClancy's twin brothers Thomas and Patrick McClancy wrestling under the same Eriu/Tethra ring names). Membership recorded by era per members[].eras, the same shape as the-youngbloods.",
+    "with": []
+   }
+  ],
+  "aka": [
+   "Fomorians",
+   "The Formorians"
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Tethra, Eriu, and Fey's Irish-myth-themed trio, GIWF World Tag Team Champions off Pete Steele and Al Crud at Extinction, who returned under the same ring names in a 2004 UWF revival as Sean McClancy's own younger twin brothers.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 1,
+    "appearances": 29,
+    "rps": 9,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/bio/thefomorians",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "bio",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "the-hardcore-elements",
+  "type": "unit",
+  "name": "The Hardcore Elements",
+  "members": [
+   {
+    "name": "Roadkill Grill",
+    "character_id": "roadkill-grill"
+   },
+   {
+    "name": "Overturned Car",
+    "character_id": "overturned-car"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "aka": [
+   "Hardcore Elements"
+  ],
+  "unit_kind": "stable",
+  "caption": "Held the North American Tag Team Championship for thirty-two days as \"Meathead\" Roadkill Grill and Overturned Car, one half of the pairing a literal wrestling car.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 18,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-hooded-perverts",
+  "type": "unit",
+  "name": "The Hooded Perverts",
+  "members": [
+   {
+    "name": "Tommo",
+    "character_id": "tommo"
+   },
+   {
+    "name": "Ched",
+    "character_id": "ched"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "aka": [
+   "Hooded Perverts"
+  ],
+  "unit_kind": "stable",
+  "caption": "A North American Tag Team Championship-winning pairing, Tommo and Ched, led to the ring by Dirty Dave.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 19,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-mighty-israelites",
+  "type": "unit",
+  "name": "The Mighty Israelites",
+  "members": [
+   {
+    "name": "Shylock",
+    "character_id": "shylock-giwf"
+   },
+   {
+    "name": "Solomon",
+    "character_id": "solomon-giwf"
+   },
+   {
+    "name": "Righteous Ronnie Rosenthal",
+    "character_id": "righteous-ronnie-rosenthal",
+    "role": "manager"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "aka": [
+   "Mighty Israelites"
+  ],
+  "unit_kind": "stable",
+  "caption": "Shylock and Solomon's tag team, managed by Righteous Ronnie Rosenthal, dethroned as World Tag Team Champions by Team Esco after a twenty-five-day reign, with Rosenthal standing in for an injured Shylock.",
+  "caption_asof": {
+   "written": "2026-10-09",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 13,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 2
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-new-renegades",
+  "type": "unit",
+  "name": "The New Renegades",
+  "members": [
+   {
+    "name": "Gary Clark",
+    "character_id": "gary-clark"
+   },
+   {
+    "name": "Justin Arnold",
+    "character_id": "justin-arnold"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "aka": [
+   "New Renegades",
+   "The Renegades"
+  ],
+  "unit_kind": "stable",
+  "caption": "A World Tag Team Championship-winning pairing of Gary Clark and Justin Arnold, built around Clark's own habitual tricks.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-phenomenons",
+  "type": "unit",
+  "name": "The Phenomenons",
+  "members": [
+   {
+    "name": "Shane Stone",
+    "character_id": "shane-stone"
+   },
+   {
+    "name": "Eric Cameron",
+    "character_id": "eric-cameron"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "tag team — \"Seven-time GIWF Tag Team Champions... the only ever Inter-Promotional Tag Team Champions\"; 2000 Hall of Fame",
+    "note": "Previously undocumented gap between this run and the UWF tenure below: a UWF news item (\"A Phenomenal Return!\", uwf.org.uk, 8 Jun 2002) reports the team \"fresh off their stint into the Land of Evil (the EWA)\" ahead of a UWF appearance — a brief tenure in the unheld/frontier EWA (European Wrestling Alliance), which this same receipt also newly corroborates (see data/frontier.json). Grade: primary-source for the stint itself (the fed's own contemporary reporting); not folded into a formal tenure entry since EWA is not a held promotion."
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "2001",
+    "last_seen": "2005",
+    "role": "tag team — old-guard comedy act billed as washed-up ex-champs"
+   },
+   {
+    "promotion": "napw",
+    "first_seen": "2014-05",
+    "last_seen": "2014-12",
+    "role": "tag team — NAPW World Tag Team Champions (won Tagstravaganza, 28 Jun 2014; lost Flavour Explosion, 27 Oct 2014) — a four-month reign, card-verified start to finish",
+    "note": "The Robosaurus incident (Beach Blanket Bodyslams, 29 Jul 2014): the Phenomenons' own account (Eric Cameron, \"Phenoms Corky\") says they spent their Tagstravaganza purse renting Robosaurus and wrecked the arena driving it; independently corroborated by NAPW's own 2014 Year End Awards — \"#1 Jack Jones 'HOLY HELL' Moment,\" 21% of the vote, \"ROBOSAURUS (Beach Blanket Bodyslams).\" Card-by-card, the reign ran Tagstravaganza (won) → Beach Blanket Bodyslams (def. The A-Team) → Heritage Havoc (def. Those That Would Inflict Ill) → Sole Survivor '14 (def. The Rabble) → Flavour Explosion (lost). After dropping the belts, they kept wrestling non-title through Dominion (Nov) and a Battlebowl hardcore match (28 Dec) before fading from NAPW's active roster by the Jan 2015 snapshot.",
+    "source": "NAPW's own show corpus; the team's own application, 21 April 2014 (accession 0244)",
+    "alignment": "Bad guy",
+    "hometown": "Eric Cameron: Philadelphia, PA, USA; Shane Stone: Chicago, IL, USA",
+    "entrance_music": {
+     "title": "Original Prankster",
+     "artist": "The Offspring",
+     "verbatim": "\"Original Prankster\" by the Offspring",
+     "corrected": "\"Original Prankster\" by The Offspring"
+    },
+    "manager": "The Phenomenal Army",
+    "finisher": "The Phenomenal Ending (Shane Stone lifts the opponent, Eric Cameron kicks them in the face any way he can, usually a superkick off the top rope, and Shane turns the opponent's momentum into a slam or suplex)",
+    "signature_moves": [
+     "Shane Stone suplex into an Eric Cameron kick, splash or leg drop at the end or halfway",
+     "Shane Stone suplex in the ring while Eric Cameron flips over the top rope to a leg drop",
+     "Eric Cameron cheap shots while Shane Stone has a submission hold on"
+    ]
+   },
+   {
+    "promotion": "uiwf",
+    "first_seen": "c. 2008",
+    "last_seen": "c. 2010",
+    "role": "art only — no recovered script text of their own in this fed",
+    "note": "Appears as team art in the surviving drive material; no roleplay or show text confirms an actual in-fiction UiWF appearance.",
+    "source": "promotions/uiwf/ (the promoters own drives — cover/team art)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "user-attested",
+    "note": "GIWF roster: \"Carries forward: Into the UWF as an old-guard comedy team billed as washed-up ex-champs; this run is their missing championship-era backstory.\"",
+    "with": []
+   }
+  ],
+  "notes": "Shane Stone (finisher: the Phenomenal Ending) and Eric Cameron (finisher: the Showstopper), managed by the Phenomenal Army — see the Managers line below for the full, shifting roster, per the team's own 2014 NAPW application. Toured New Alberta Pro eWrestling May–Dec 2014 (see the NAPW wing) as this same billed pairing — Wayback-mined 2014 cards confirm the run start to finish, dated and carded. The team's own claim to being \"7-time GIWF tag team champions\" doesn't reconcile with the registry's own count of 6 real reigns (3x World Tag Team + 3x North American Tag Team, all in data/reigns.json) — the seventh is the foam \"Universal Tag Team\" belt they gave themselves and, per the user's own account, glorified above all 6 of their actual title wins. Receipted: their own GIWF bio page describes each man as \"always\" wearing his \"Universal Tag Team Title belt\" in the physical-appearance prose — conspicuously absent from the SAME bio's own Accomplishments list a few paragraphs later, which sticks to the 6 real reigns. A joke worn with a completely straight face, in-fiction and in the bio copy alike.",
+  "aka": [
+   "Phenomenons"
+  ],
+  "unit_kind": "tag-team",
+  "caption": "GIWF Hall of Famers who carried a comedy \"washed-up ex-champs\" gimmick from the GIWF through the UWF and into a card-verified 2014 NAPW tag title reign — six real championships across three federations, plus a seventh, self-awarded foam belt worn with a completely straight face.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 4,
+    "reigns": 7,
+    "appearances": 100,
+    "rps": 17,
+    "awards": 3,
+    "relationships": 12
+   }
+  },
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/bio/thephenomenons",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "bio",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "the-r-p-a",
+  "type": "unit",
+  "name": "The R.P.A",
+  "members": [
+   {
+    "name": "Skull",
+    "character_id": "skull-giwf"
+   },
+   {
+    "name": "Deck",
+    "character_id": "deck"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "aka": [
+   "R.P.A",
+   "Revolution Protection Agency",
+   "The Revolution"
+  ],
+  "unit_kind": "stable",
+  "notes": "The GIWF's own served scripts name the R.P.A. as Skull and Deck throughout — global-2001-01-11 (\"Skull raises his hands in triumph… The Winner… The R.P.A\"; \"Skull and Deck pull out their stash\"), suicide-2001-01-07 (\"the R.P.A. Skull and Deck just look at each other\"), and regal-rumble-2001 (the Phenomenons, GIWF World Tag Champions, defend against The R.P.A — Skull vs. Eric Cameron, Deck vs. Shane Stone; the Phenomenons win). \"The Revolution\" is the R.P.A.'s own established shorthand, not a separate act (march-maelstrom-3-2001: \"the Revolution Protection Agency… the Revolution in particular\"; regal-rumble-2001: \"the Revolution or RPA\"); a single one-off appearance of \"The Revelation\" in global-2001-01-11's own stage direction (\"The Revelation wait in the ring for whoever they shall face\") is presumed the same scribal slip, made in the same episode that otherwise already used the full \"Revolution Protection Agency\" name.",
+  "caption": "Skull and Deck's own pairing under the R.P.A banner, taking the World Tag Team Championship off the Wimp & Chimp Connection.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-vallhallans",
+  "type": "unit",
+  "name": "The Vallhallans",
+  "members": [
+   {
+    "name": "Vespasien",
+    "character_id": "vespasien"
+   },
+   {
+    "name": "Angelus",
+    "character_id": "angelus-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "stable"
+   }
+  ],
+  "aka": [
+   "Vallhallans"
+  ],
+  "unit_kind": "stable",
+  "caption": "Vespasien and Angelus's own pairing, challenging the Bringers of Darkness for the North American Tag Team Championship within a week of debuting before taking the World Tag Team Championship off the Don't Brothers that November.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "tropical-storm",
+  "type": "unit",
+  "name": "Tropical Storm",
+  "members": [
+   {
+    "name": "Miguel Lanza",
+    "character_id": "miguel-lanza"
+   },
+   {
+    "name": "Jaime Dermont",
+    "character_id": "jaime-dermont"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000",
+    "last_seen": "2000",
+    "role": "tag team — 2000 Hall of Fame"
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "2004-07-18",
+    "last_seen": "2004-08-15",
+    "note": "Appearance-derived tenure: dated from 3 receipted show appearances in data/shows.json (the W6 match-prose extraction), not any bio/roster source.",
+    "source": "data/shows.json appearances",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "gw",
+    "first_seen": "2005-10-31",
+    "last_seen": "2005-11-15",
+    "source": "Global Wrestling's own backstage database (accession 0159), bio 4422: the fed's own appearance record",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (2 shows, every kind of appearance counted). Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Miguel Lanza and Jaime Dermont's own pairing, 2000 Hall of Fame Tag Team Champions whose name resurfaces, unrostered, in a stretch of 2004 UWF appearances.",
+  "caption_asof": {
+   "written": "2026-08-19",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 2,
+    "appearances": 18,
+    "rps": 7,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/bio/tropicalstorm",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "bio",
+    "checked": "2026-09-27"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Wrestling's biography card (accession 0159), bio 4422, is this record: Both members, both invented surnames, the same honours, from the two databases. The held unit is 'Miguel Lanza and Jaime Dermont's own pairing, 2000 Hall of Fame Tag Team Champions', with the member rows miguel-lanza and jaime-dermont and a giwf tenure in 2000. Fed-12 bio 4422's own members are bios 4428 (Miguel Lanza) and 4426 (Jamie Dermont), its finisher description names them - 'Miguel picks them up for a crusifix powerbomb while Jaime comes off the top ropes with a somersault neckbreaker' - and its `Other Feds` read 'GIWF North American Tag Team Champions, GIWF World Tag Team Champions, PWW World Tag Team Champoins' with `Other Fed Awards` 'GIWF Hall of Fame for the year 2000, GIWF Tag Team of the year for 1999'. The held row's own Hall of Fame year is 2000. Recorded: the held row also carries unrostered 2004 UWF appearances."
+   }
+  ]
+ },
+ {
+  "id": "wimp-and-chimp-connection",
+  "type": "unit",
+  "name": "Wimp & Chimp Connection",
+  "members": [
+   {
+    "name": "Maurice",
+    "character_id": "maurice"
+   },
+   {
+    "name": "Pete the PG Tips Chimp",
+    "character_id": "pete-the-pg-tips-chimp"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999",
+    "last_seen": "2001",
+    "role": "tag team (comedy)"
+   },
+   {
+    "promotion": "uwf",
+    "first_seen": "2003-01-15",
+    "last_seen": "2003-06-15",
+    "note": "Appearance-derived tenure: dated from 3 receipted show appearances in data/shows.json (the W6 match-prose extraction), not any bio/roster source.",
+    "source": "data/shows.json appearances",
+    "grade": "primary-source"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "aka": [
+   "Wimp and Chimp Connection"
+  ],
+  "caption": "Maurice and Pete the PG Tips Chimp's own comedy pairing, an eighteen-day World Tag Team Championship reign that somehow made it into the record as seriously as any other.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 1,
+    "appearances": 11,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/bio/wimpchimpconnection",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "bio",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "freestyle-giwf",
+  "type": "unit",
+  "name": "Freestyle",
+  "members": [
+   {
+    "name": "Steve Sanders",
+    "character_id": "steve-sanders-giwf"
+   },
+   {
+    "name": "Michael Kambell",
+    "character_id": "michael-kambell-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000",
+    "last_seen": "2000",
+    "role": "tag team"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "A skateboard-gimmick tag team that recurred through GIWF's 2000 tag ranks.",
+  "caption_asof": {
+   "author": "ai"
+  }
+ },
+ {
+  "id": "nrg-giwf",
+  "type": "unit",
+  "name": "NRG",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000",
+    "last_seen": "2000",
+    "role": "tag team"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "A recurring 2000 GIWF tag contender, chasing Tropical Storm's own hold on the World Tag Titles.",
+  "caption_asof": {
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-4th-reich-giwf",
+  "type": "unit",
+  "name": "The 4th Reich",
+  "membership_unknown": null,
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000",
+    "last_seen": "2000",
+    "role": "stable"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "A German-gimmick GIWF stable that drew notoriety chasing the Law & Order tag pairing in 2000.",
+  "caption_asof": {
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Wolfgang Einenfaust",
+    "character_id": "wolfgang-einhurst-giwf"
+   },
+   {
+    "name": "Gunta Steinmarch",
+    "character_id": "gunta-steinmarch-giwf"
+   },
+   {
+    "name": "Henrich Olberson",
+    "character_id": "henrich-olberson-giwf"
+   }
+  ]
+ },
+ {
+  "id": "violent-new-breed-giwf",
+  "type": "unit",
+  "name": "Violent New Breed",
+  "membership_unknown": null,
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000",
+    "last_seen": "2000",
+    "role": "stable"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "A GIWF stable that shared a 2000 undercard slot alongside Ace Thunder against the Knightmare Brigade.",
+  "caption_asof": {
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Lojack",
+    "character_id": "lojack-giwf"
+   },
+   {
+    "name": "Devin Ryan"
+   }
+  ]
+ },
+ {
+  "id": "large-in-charge-giwf",
+  "type": "unit",
+  "name": "Large in Charge",
+  "members": [
+   {
+    "name": "Rocky Silenko",
+    "character_id": "rocky-silenko-giwf"
+   },
+   {
+    "name": "David Jackson",
+    "character_id": "david-jackson-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000",
+    "last_seen": "2000",
+    "role": "tag team"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "A GIWF tag team run over by the skateboard-gimmick duo Freestyle in a 2000 undercard bout.",
+  "caption_asof": {
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-dervishes-giwf",
+  "type": "unit",
+  "name": "The Dervishes",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000",
+    "last_seen": "2000",
+    "role": "stable"
+   }
+  ],
+  "unit_kind": "other",
+  "caption": "A GIWF faction that recurred through the fed's 2000 stable-vs-stable undercard.",
+  "caption_asof": {
+   "author": "ai"
+  }
+ },
+ {
+  "id": "krushing-time-giwf",
+  "type": "unit",
+  "name": "Krushing Time",
+  "aka": [
+   "Krushin Time"
+  ],
+  "members": [
+   {
+    "name": "Krush",
+    "character_id": "krush-giwf"
+   },
+   {
+    "name": "Maximus",
+    "character_id": "maximus-giwf"
+   },
+   {
+    "name": "Max Damage",
+    "character_id": "max-damage"
+   },
+   {
+    "name": "Kilo Jones",
+    "character_id": "kilo-jones"
+   },
+   {
+    "name": "Luca the Imp",
+    "character_id": "luca-the-imp"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000-10-15",
+    "last_seen": "2001-06-06",
+    "role": "tag team",
+    "source": "the served show texts (14 cards, 2000-10-15 to 2001-06-06): /promotions/giwf/archive/suicide-2000-10-15.html; ...; /promotions/giwf/archive/global-2001-06-06.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Also on card(s) dated to the year or month only, or undated: stable-wars-3-2001; the first_seen/last_seen above rest on the exactly-dated cards."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Krush and Maximus's tag team, beaten by the Don't Brothers on 15 October 2000 and by the Inmates in the North American Tag Team Title tournament on 4 February 2001, grouped with Max Damage until he quit, made by Luca the Imp into a stable with Kilo Jones for Stable Wars 3, and beaten by the Cybernetic Hardcore Luchadores in a World Tag Team Title match on 6 June 2001.",
+  "caption_asof": {
+   "written": "2026-09-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "apocalypse-giwf",
+  "type": "unit",
+  "name": "Apocalypse",
+  "aka": [
+   "The Apocalypse"
+  ],
+  "members": [
+   {
+    "name": "Steven Fredericks",
+    "character_id": "steven-fredericks-giwf"
+   },
+   {
+    "name": "Richard Gordon",
+    "character_id": "richard-gordon-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000-07-06",
+    "last_seen": "2000-12-03",
+    "role": "tag team",
+    "source": "the served show texts (11 cards, 2000-07-06 to 2000-12-03): /promotions/giwf/archive/global-2000-07-06.html; ...; /promotions/giwf/archive/suicide-2000-12-03.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "apoc-iga-2003",
+     "apocalypse-agw",
+     "apocalypse-apcw-1999",
+     "apocalypse-apw",
+     "apocalypse-awe",
+     "apocalypse-bdw",
+     "apocalypse-ccw",
+     "apocalypse-cswa",
+     "apocalypse-cwf-continental",
+     "apocalypse-dwo",
+     "apocalypse-eswp-1996",
+     "apocalypse-faw",
+     "apocalypse-fwa-pbm-1989",
+     "apocalypse-hiwf-entity-e-1998",
+     "apocalypse-ihwf",
+     "apocalypse-inwi",
+     "apocalypse-new-extreme-1996",
+     "apocalypse-ngw",
+     "apocalypse-uwf-arena-1998",
+     "apocalypse-whcw-1996",
+     "apocalypse-wiw-1997",
+     "apocalypse-wwa",
+     "apocalypse-wwa-wwarocks-2000",
+     "euwc-apocalypse",
+     "gabriel-poe-cswa",
+     "gabriel-poe-gxw-2001",
+     "the-apocalypse-ewa-email",
+     "the-apocalypse-iwf1296",
+     "apocalypse-bbwf-rspwf",
+     "apocalypse-ecw-worldwide-nevermore",
+     "apocalypse-uscw-rspwf"
+    ],
+    "note": "Shares the name \"Apocalypse\" (or an aka) with these records of other promotions; no document links them and a shared name alone joins nothing."
+   }
+  ],
+  "caption": "Steven Fredericks and Richard Gordon's tag team, which beat Irish Hood on 6 July 2000, met the Dark Lords at Global Warming 2000, beat the Don't Brothers, Whip-Lash and Hollywood Heat, and lost to the Dragoons on 3 December 2000.",
+  "caption_asof": {
+   "written": "2026-09-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "notes": "A singles newcomer billed Apocalypse wrestled the Masked Man #69 on 21 November 1999 (/promotions/giwf/archive/suicide-1999-11-21.html); no card says he is this 2000 tag team. Riggs's finisher is also called the Apocalypse (2001)."
+ },
+ {
+  "id": "whip-lash-giwf",
+  "type": "unit",
+  "name": "Whip-Lash",
+  "members": [
+   {
+    "name": "Stitch"
+   },
+   {
+    "name": "Scab"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000-07-23",
+    "last_seen": "2000-09-17",
+    "role": "tag team",
+    "source": "the served show texts: /promotions/giwf/archive/suicide-2000-07-23.html; /promotions/giwf/archive/global-warming-2000.html; /promotions/giwf/archive/global-2000-08-09.html; /promotions/giwf/archive/suicide-2000-09-17.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "manager": "Miss Tress"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Stitch and Scab's tag team, managed by Miss Tress, which debuted on 23 July 2000 with a win over Natural Terror, beat the Manglers at Global Warming 2000, faced the Dragoons in a Cat-o-Nine-Tails on a pole match left unfinished on 9 August 2000 and, broken away from Miss Tress, lost to Apocalypse on 17 September 2000.",
+  "caption_asof": {
+   "written": "2026-09-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-manglers-giwf",
+  "type": "unit",
+  "name": "The Manglers",
+  "aka": [
+   "The Maulers"
+  ],
+  "members": [
+   {
+    "name": "Smash"
+   },
+   {
+    "name": "Crunch"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000-07-19",
+    "last_seen": "2000-07-31",
+    "role": "tag team",
+    "source": "the served show texts: /promotions/giwf/archive/global-2000-07-19.html; /promotions/giwf/archive/global-warming-2000.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-maulers-sjpw"
+    ],
+    "note": "Shares the name \"The Manglers\" (or an aka) with these records of other promotions; no document links them and a shared name alone joins nothing."
+   }
+  ],
+  "caption": "Smash and Crunch's tag team, Marc Wolper and Benjamin Lewis in the match reports, which lost its debut to the Vallhallans on 19 July 2000 and then lost to Whip-Lash at Global Warming 2000.",
+  "caption_asof": {
+   "written": "2026-09-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "suicidal-youth-giwf",
+  "type": "unit",
+  "name": "Suicidal Youth",
+  "members": [
+   {
+    "name": "Ben Jackson",
+    "character_id": "ben-jericho"
+   },
+   {
+    "name": "Tremor",
+    "character_id": "tremor"
+   },
+   {
+    "name": "Jaxx",
+    "character_id": "jaxx"
+   },
+   {
+    "name": "The Firestarter",
+    "character_id": "the-firestarter-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "2000-04-02",
+    "last_seen": "2000-06-25",
+    "role": "stable",
+    "source": "the served show texts (9 cards, 2000-04-02 to 2000-06-25): /promotions/giwf/archive/suicide-2000-04-02.html; ...; /promotions/giwf/archive/suicide-2000-06-25.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "Ben Jackson, Tremor and Jaxx's stable, later joined by the Firestarter, which lost a North American Tag-Team Title match to the Phenomenons on 24 April 2000, had its World Tag Team Title match with Tropical Storm wrecked by Random Acts of Violence on 31 May 2000 and was beaten by the Vallhallans on 25 June 2000.",
+  "caption_asof": {
+   "written": "2026-09-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "cossack-warriors-giwf",
+  "type": "unit",
+  "name": "Cossack Warriors",
+  "aka": [
+   "The Cossack Warriors",
+   "Cossacks"
+  ],
+  "members": [
+   {
+    "name": "Ivan Kickabollockov",
+    "character_id": "ivan-kickabollockov-giwf"
+   },
+   {
+    "name": "Yuri Kickabollockov",
+    "character_id": "yuri-kickabollockov-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999-05-18",
+    "last_seen": "1999-06-30",
+    "role": "tag team",
+    "source": "the served show texts: /promotions/giwf/archive/global-1999-05-18.html; /promotions/giwf/archive/global-1999-05-25.html; /promotions/giwf/archive/suicide-1999-05-29.html; /promotions/giwf/archive/global-1999-06-15.html; /promotions/giwf/archive/suicide-1999-06-19.html; /promotions/giwf/archive/highland-games.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "manager": "'The Mad Monk' Rasputin"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Ivan and Yuri Kickabollockov's tag team, managed by Rasputin, which won the triple threat on 18 May 1999, beat the Swinging Hipsters on 29 May 1999 and the Phenomenons on 19 June 1999, and challenged for the titles at Highland Games on 30 June 1999.",
+  "caption_asof": {
+   "written": "2026-09-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 2
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "gangster-power-giwf",
+  "type": "unit",
+  "name": "Gangster Power",
+  "aka": [
+   "Ganster Power"
+  ],
+  "members": [
+   {
+    "name": "Nails Zanetti",
+    "character_id": "nails-zanetti-giwf"
+   },
+   {
+    "name": "Franky Devlan",
+    "character_id": "franky-devlan-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999-05-04",
+    "last_seen": "1999-06-30",
+    "role": "tag team",
+    "source": "the served show texts (10 cards, 1999-05-04 to 1999-06-30): /promotions/giwf/archive/global-1999-05-04.html; ...; /promotions/giwf/archive/highland-games.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Nails Zanetti and Franky Devlan's tag team, David Rico's backers, which lost its debut to the Phenomenons on 4 May 1999, beat Armageddon on 8 May 1999, helped the Mighty Israelites take the Dark Lords' tag team titles on 11 May 1999, lost to the Dark Lords on 15 May 1999 and to the Mighty Israelites on 22 June 1999, and lost a tables-and-ladder match to Misled Youth at Highland Games on 30 June 1999.",
+  "caption_asof": {
+   "written": "2026-09-29",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 4
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "rimjob-giwf",
+  "type": "unit",
+  "name": "RIMJOB",
+  "members": [
+   {
+    "name": "J. Harold Christ",
+    "character_id": "j-harold-christ-giwf"
+   },
+   {
+    "name": "Triple J",
+    "character_id": "triple-j-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999-06-19",
+    "last_seen": "1999-11-24",
+    "role": "tag team",
+    "source": "the served show texts (28 cards, 1999-06-19 to 1999-11-24): /promotions/giwf/archive/joshua-dillinger-tv-interview-1999-09.html; ...; /promotions/giwf/archive/global-1999-11-24.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Also on card(s) dated to the year or month only, or undated: joshua-dillinger-tv-interview-1999-09, global-warming, redemption; the first_seen/last_seen above rest on the exactly-dated cards."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "J. Harold Christ and Triple J's tag team, billed at 627 pounds combined, which beat Team Esco in the 1999 World Tag Team Title tournament and the North/South Express in the North American Tag Team tournament, and challenged Deke Aurora and Nephilim for the World Tag Team Titles at Halloween Hell 1999.",
+  "caption_asof": {
+   "written": "2026-10-09",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "underground-giwf",
+  "type": "unit",
+  "name": "Underground",
+  "aka": [
+   "The Underground"
+  ],
+  "members": [
+   {
+    "name": "Da Heat",
+    "character_id": "da-heat-giwf"
+   },
+   {
+    "name": "Abdul Rahaman",
+    "character_id": "abdul-rahaman-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999-07-13",
+    "last_seen": "1999-09-26",
+    "role": "tag team",
+    "source": "the served show texts (11 cards, 1999-07-13 to 1999-09-26): /promotions/giwf/archive/global-warming.html; ...; /promotions/giwf/archive/suicide-1999-09-26.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Also on card(s) dated to the year or month only, or undated: global-warming, redemption; the first_seen/last_seen above rest on the exactly-dated cards."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-underground-fwo-1998"
+    ],
+    "note": "Shares the name \"Underground\" (or an aka) with these records of other promotions; no document links them and a shared name alone joins nothing."
+   }
+  ],
+  "caption": "Da Heat and Abdul Rahaman's tag team, led by Carl Big and billed at 522 pounds combined; debuted on 13 July 1999 and beat the Dreamwarriors and RIMJOB in the 1999 World Tag Team Title tournament.",
+  "caption_asof": {
+   "written": "2026-10-09",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brotherhood-giwf",
+  "type": "unit",
+  "name": "The Brotherhood",
+  "members": [
+   {
+    "name": "Phoenix"
+   },
+   {
+    "name": "Raven",
+    "character_id": "raven-giwf"
+   },
+   {
+    "name": "David Rico",
+    "character_id": "david-rico",
+    "eras": [
+     "1999-07"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999-07-07",
+    "last_seen": "1999-09-08",
+    "role": "tag team",
+    "source": "the served show texts: /promotions/giwf/archive/global-1999-07-07.html (\"David Rico and Phoenix come flying out of the back of the arena wielding baseball bats.\"); /promotions/giwf/archive/global-1999-07-13.html (\"Misled Youth -v- Raven/Phoenix\" / \"The Brotherhood\"); /promotions/giwf/archive/global-1999-08-17.html (\"Well I do think that the Brotherhood work a lot better as Phoenix and Raven rather than Rico and Phoenix\"); /promotions/giwf/archive/suicide-1999-08-29.html (\"The winners are The Brotherhood.\"); /promotions/giwf/archive/suicide-1999-09-05.html (\"The Brotherhood (Phoenix and Raven)\"); /promotions/giwf/archive/global-1999-09-08.html (\"The winners are The Brotherhood.\")",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "First billed as the Brotherhood, Phoenix and Raven, on 13 July 1999. On 7 July 1999 David Rico and Phoenix, the pairing the 17 August commentary names as the team before Raven, ran in for the Dark Lords."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brotherhood-iwf",
+     "brotherhood-nwf-1995",
+     "brotherhood-vcw",
+     "brotherhood-war-1995",
+     "brotherhood-wwa",
+     "the-brotherhood-nwa-entity-3",
+     "the-brotherhood-ubc-wrestleonline-2002",
+     "the-brotherhood-wewa-alliance-2010"
+    ],
+    "note": "Shares the name \"Brotherhood\" with these records; no document links them and a shared name alone joins nothing. brotherhood-iwf is the IWF roster's Johnny Paine and Rocko Grunge, whom no GIWF card names."
+   }
+  ],
+  "caption": "Phoenix's tag team, first with David Rico and from July 1999 with his brother Raven, which beat Misled Youth to reach the 1999 World Tag Team Title tournament final at Redemption and, after losing it, left the GIWF, Phoenix telling Raven they had failed in their quest for the Navaho people.",
+  "caption_asof": {
+   "written": "2026-10-09",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "fan-tastics-giwf",
+  "type": "unit",
+  "name": "Fan-Tastics",
+  "aka": [
+   "The Fan-Tastics"
+  ],
+  "members": [
+   {
+    "name": "Stalker",
+    "character_id": "stalker-giwf"
+   },
+   {
+    "name": "Obsessed",
+    "character_id": "obsessed-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999-09-19",
+    "last_seen": "1999-10-24",
+    "role": "tag team",
+    "source": "the served show texts: /promotions/giwf/archive/suicide-1999-09-19.html; /promotions/giwf/archive/global-1999-09-22.html; /promotions/giwf/archive/suicide-1999-09-26.html; /promotions/giwf/archive/quake.html; /promotions/giwf/archive/global-1999-10-06.html; /promotions/giwf/archive/suicide-1999-10-10.html; /promotions/giwf/archive/suicide-1999-10-24.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "fantastics-cswa"
+    ],
+    "note": "Shares the name \"Fantastics\" (or an aka) with these records of other promotions; no document links them and a shared name alone joins nothing."
+   }
+  ],
+  "caption": "Stalker and Obsessed's tag team, led by Hyper Girl and billed at 493 pounds combined; they beat the Rylance Ladz on 22 September 1999 and went out of the North American Tag Team tournament on a double countout with the Fomorians on 26 September 1999.",
+  "caption_asof": {
+   "written": "2026-10-09",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "asylum-giwf",
+  "type": "unit",
+  "name": "Asylum",
+  "aka": [
+   "The Asylum"
+  ],
+  "members": [
+   {
+    "name": "Black Dragon",
+    "character_id": "black-dragon-giwf"
+   },
+   {
+    "name": "Darkside",
+    "character_id": "darkside-giwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "giwf",
+    "first_seen": "1999-08-14",
+    "last_seen": "1999-09-15",
+    "role": "tag team",
+    "source": "the served show texts: /promotions/giwf/archive/suicide-1999-08-14.html; /promotions/giwf/archive/global-1999-08-25.html; /promotions/giwf/archive/suicide-1999-08-29.html; /promotions/giwf/archive/suicide-1999-09-05.html; /promotions/giwf/archive/global-1999-09-08.html; /promotions/giwf/archive/global-1999-09-15.html",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "asylum-awa-apex-1999",
+     "asylum-ehwa-entity-a",
+     "asylum-ewf-swa-1994",
+     "asylum-gw",
+     "asylum-gwcg",
+     "asylum-hatebreeders-rspwf",
+     "asylum-pcw",
+     "asylum-swa-seltor",
+     "asylum-wiw-1997",
+     "asylum-xwf-ma-2008",
+     "the-asylum-lcw",
+     "the-asylum-nlwf-2009"
+    ],
+    "note": "Shares the name \"Asylum\" (or an aka) with these records of other promotions; no document links them and a shared name alone joins nothing."
+   }
+  ],
+  "caption": "Darkside and Black Dragon's tag team, which beat the Golden Drifter and Big Mac Guyver on 14 August 1999, lost to Misled Youth in the first round of the World Tag Team Title tournament on 25 August 1999 and to the debuting Fomorians on 5 September 1999, and went out of the North American Tag Team tournament on a double countout with Misled Youth on 15 September 1999.",
+  "caption_asof": {
+   "written": "2026-10-09",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

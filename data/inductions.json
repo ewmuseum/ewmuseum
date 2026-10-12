@@ -1,0 +1,1796 @@
+{
+ "_schema_version": 1,
+ "_note": "Every row names the PROMOTION THAT RAN THE HALL — the inducting institution, not the fed the inductee is best known for. Most rows are UWF Hall of Fame inductions; UWOW and CSW rows have since joined them. IWF and GIWF never ran a hall of their own; the UWF's hall inherited and honored figures from the whole line's history, but the inducting institution was always UWF's (user gavel, 2026-08-16). The five-sub-hall structure this file replaces (\"IWF Hall of Fame\", \"GIWF Hall of Fame\" x2, \"UWF Hall of Fame\" x2) was a museum invention, not the fed's own record, and is dissolved. CLASS YEAR MAY BE UNKNOWN (founder's gavel, 2026-09-02, on the CSW Hall of Fame): where a hall is attested but no document dates it, \"class_year\" is null and \"observed_by\" carries the year by which the induction is attested — the honest upper bound, never a guessed class. OUT-OF-CHARACTER INDUCTIONS ARE CARRIED BY THE CHARACTER (founder's gavel, 2026-09-02; CURATION v108): a community hall that inducts real handlers under their own names is filed here by the characters those handlers wrote, with a per-row note saying so — the recognition is carried, the name is withheld. Where no character can be established from the record, the seat itself is recorded as \"a handler (name withheld under the privacy rule)\" with the federation the inducting document credits, so the seat is not lost. `inductee` may therefore be an entity id or the honest { name, unminted: true, fed? } shape reigns.json and awards.json already use.",
+ "inductions": [
+  {
+   "inductee": "coma",
+   "promotion": "uwf",
+   "class_year": 1998,
+   "source": "hall index page"
+  },
+  {
+   "inductee": "rob-williams",
+   "promotion": "uwf",
+   "class_year": 1998,
+   "source": "hall index page"
+  },
+  {
+   "inductee": "omega",
+   "promotion": "uwf",
+   "class_year": 1998,
+   "source": "hall index page"
+  },
+  {
+   "inductee": "hamish-mcgrubber",
+   "promotion": "uwf",
+   "class_year": 1999,
+   "source": "hall index page",
+   "note": "dated 29 Dec 1999",
+   "citation_url": "/promotions/uwf/archive/hamish-mcgrubber-induction.html"
+  },
+  {
+   "inductee": "lew-spectre",
+   "promotion": "uwf",
+   "class_year": 1999,
+   "source": "hall index page",
+   "note": "dated 29 Dec 1999",
+   "citation_url": "/promotions/uwf/archive/lew-spectre-induction.html"
+  },
+  {
+   "inductee": "the-dark-lords",
+   "promotion": "uwf",
+   "class_year": 1999,
+   "source": "hall index page",
+   "note": "dated 29 Dec 1999",
+   "citation_url": "/promotions/uwf/archive/the-dark-lords-induction.html"
+  },
+  {
+   "inductee": "the-dream-warriors",
+   "promotion": "uwf",
+   "class_year": 1999,
+   "source": "hall index page",
+   "note": "dated 29 Dec 1999",
+   "citation_url": "/promotions/uwf/archive/the-dream-warriors-induction.html"
+  },
+  {
+   "inductee": "al-crud",
+   "promotion": "uwf",
+   "class_year": 2000,
+   "source": "hall index page",
+   "note": "dated 24 Dec 2000",
+   "citation_url": "/promotions/uwf/archive/al-crud-induction.html"
+  },
+  {
+   "inductee": "lyle-wile",
+   "promotion": "uwf",
+   "class_year": 2000,
+   "source": "hall index page",
+   "note": "dated 24 Dec 2000",
+   "citation_url": "/promotions/uwf/archive/lyle-wile-induction.html"
+  },
+  {
+   "inductee": "the-phenomenons",
+   "promotion": "uwf",
+   "class_year": 2000,
+   "source": "hall index page",
+   "note": "dated 24 Dec 2000",
+   "citation_url": "/promotions/uwf/archive/the-phenomenons-induction.html"
+  },
+  {
+   "inductee": "tropical-storm",
+   "promotion": "uwf",
+   "class_year": 2000,
+   "source": "hall index page",
+   "note": "dated 24 Dec 2000",
+   "citation_url": "/promotions/uwf/archive/tropical-storm-induction.html"
+  },
+  {
+   "inductee": "deke-aurora",
+   "promotion": "uwf",
+   "class_year": 2002,
+   "source": "hall index page",
+   "note": "dated 6 Oct 2002",
+   "citation_url": "/promotions/uwf/archive/deke-aurora-induction.html"
+  },
+  {
+   "inductee": "digital-mortality",
+   "promotion": "uwf",
+   "class_year": 2002,
+   "source": "hall index page",
+   "note": "dated 6 Oct 2002",
+   "citation_url": "/promotions/uwf/archive/digital-mortality-induction.html"
+  },
+  {
+   "inductee": "local-nva-company",
+   "promotion": "uwf",
+   "class_year": 2002,
+   "source": "hall index page",
+   "note": "dated 6 Oct 2002",
+   "citation_url": "/promotions/uwf/archive/local-nva-company-induction.html"
+  },
+  {
+   "inductee": "tsunami-oni",
+   "promotion": "uwf",
+   "class_year": 2003,
+   "source": "hall index page",
+   "note": "12 Oct 2003, at Live and Loud 3",
+   "citation_url": "/promotions/uwf/archive/tsunami-oni-induction.html"
+  },
+  {
+   "inductee": "luca-the-imp",
+   "promotion": "uwf",
+   "class_year": 2003,
+   "source": "hall index page",
+   "note": "12 Oct 2003, at Live and Loud 3, w/ L.U.C.A.B.O.T."
+  },
+  {
+   "inductee": "jamie-shock",
+   "promotion": "uwf",
+   "class_year": 2003,
+   "source": "hall index page",
+   "note": "12 Oct 2003, at Live and Loud 3 — Achievements/Notable Moments/Description blank in every surviving copy"
+  },
+  {
+   "inductee": "the-dragoons",
+   "promotion": "uwf",
+   "class_year": 2003,
+   "source": "hall index page",
+   "note": "12 Oct 2003, at Live and Loud 3"
+  },
+  {
+   "inductee": "jay-phoenix",
+   "promotion": "uwf",
+   "class_year": 2003,
+   "source": "hall index page",
+   "note": "12 Oct 2003, at Live and Loud 3 — Achievements/Notable Moments/Description blank in every surviving copy; narrative page written 2026, see essays.json"
+  },
+  {
+   "inductee": "gurgles",
+   "promotion": "uwf",
+   "class_year": 2003,
+   "source": "hall index page",
+   "note": "12 Oct 2003, at Live and Loud 3"
+  },
+  {
+   "inductee": "curt-raines",
+   "promotion": "uwf",
+   "class_year": 2003,
+   "source": "hall index page",
+   "note": "12 Oct 2003, at Live and Loud 3"
+  },
+  {
+   "inductee": "studog-escobar",
+   "promotion": "uwf",
+   "class_year": 2003,
+   "source": "recovered ceremony script, not the hall index page",
+   "note": "The ceremony script and the hall's own index page disagree on the 2003 class; by the founder's ruling the ceremony script is the truth. Studog Escobar is named from the podium as that night's first inductee."
+  },
+  {
+   "inductee": "seymour-almasy",
+   "promotion": "uwf",
+   "class_year": 2003,
+   "source": "recovered ceremony script, not the hall index page",
+   "note": "The ceremony script and the hall's own index page disagree on the 2003 class; by the founder's ruling the ceremony script is the truth. Almasy is named from the podium as that night's second inductee, after Studog Escobar.",
+   "citation_url": "/promotions/uwf/archive/seymour-almasy-induction.html"
+  },
+  {
+   "inductee": "rocky-stevens",
+   "promotion": "mwe",
+   "class_year": 2008,
+   "source": "promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (topic 574107)",
+   "note": "The Crowning Glory II ceremony's own first induction, posthumous — a plaque presented in the name of the fed's founder, accepted on his behalf by Brian Michaels, D.C., and other roster members. The memorial subject is Tim Fitzgerald (data/memorials.json), whose own on-camera MWE persona is this entity; the inductee id here is his own character, per the entity-vs-real-name discipline, not the memorial id."
+  },
+  {
+   "inductee": "katherine-tenaud-mwe",
+   "promotion": "mwe",
+   "class_year": 2008,
+   "source": "promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (topic 574107)",
+   "note": "Inducted by D.C. as the first MWE Women's Champion; unable to attend in person, per the ceremony's own staging."
+  },
+  {
+   "inductee": "david-whitman-mwe",
+   "promotion": "mwe",
+   "class_year": 2008,
+   "source": "promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (topic 574107)",
+   "note": "Inducted as MWE's first-ever MWE World Champion, by Alejandro Rodriguez and Sonny Williams."
+  },
+  {
+   "inductee": "paige-mwe",
+   "promotion": "mwe",
+   "class_year": 2009,
+   "source": "promotions/mwe/archive/hall-of-fame-ceremony-2009-08-31.html (topic 7762519)",
+   "note": "Inducted by D.C. and Lindsey; the ceremony's own first induction of the Class of 2009."
+  },
+  {
+   "inductee": "sonny-williams-mwe",
+   "promotion": "mwe",
+   "class_year": 2009,
+   "source": "promotions/mwe/archive/hall-of-fame-ceremony-2009-08-31.html (topic 7762519)",
+   "note": "Inducted by Sinc Mercier."
+  },
+  {
+   "inductee": "alejandro-rodriguez-mwe",
+   "promotion": "mwe",
+   "class_year": 2009,
+   "source": "promotions/mwe/archive/hall-of-fame-ceremony-2009-08-31.html (topic 7762519)",
+   "note": "Inducted by David Whitman, himself a Class of 2008 inductee."
+  },
+  {
+   "inductee": "brian-michaels-mwe",
+   "promotion": "mwe",
+   "class_year": 2009,
+   "source": "promotions/mwe/archive/hall-of-fame-ceremony-2009-08-31.html (topic 7762519)",
+   "note": "Inducted by Mason Resoan, citing three MWE World Heavyweight Championship reigns and one XCW Intercontinental Championship reign."
+  },
+  {
+   "inductee": "shane-southern-cswa",
+   "promotion": "nfw",
+   "class_year": 2007,
+   "source": "The fed's own Hall of Fame page (promotions/nfw/archive/nfw-hall-of-fame.html), which carries a dated class list with a dossier for each inductee."
+  },
+  {
+   "inductee": "bloodhunt",
+   "promotion": "nfw",
+   "class_year": 2008,
+   "source": "The fed's own Hall of Fame page (promotions/nfw/archive/nfw-hall-of-fame.html), which carries a dated class list with a dossier for each inductee."
+  },
+  {
+   "inductee": "michael-manson",
+   "promotion": "nfw",
+   "class_year": 2009,
+   "source": "The fed's own Hall of Fame page (promotions/nfw/archive/nfw-hall-of-fame.html), which carries a dated class list with a dossier for each inductee."
+  },
+  {
+   "inductee": "craig-miles-cswa",
+   "promotion": "nfw",
+   "class_year": 2010,
+   "source": "The fed's own Hall of Fame page (promotions/nfw/archive/nfw-hall-of-fame.html), which carries a dated class list with a dossier for each inductee. This entry is marked on that page as a PRESIDENTIAL INDUCTION."
+  },
+  {
+   "inductee": "nova-team",
+   "promotion": "nfw",
+   "class_year": 2011,
+   "source": "The fed's own Hall of Fame page (promotions/nfw/archive/nfw-hall-of-fame.html), which carries a dated class list with a dossier for each inductee."
+  },
+  {
+   "inductee": "felix-red",
+   "promotion": "nfw",
+   "class_year": 2012,
+   "source": "The fed's own Hall of Fame page (promotions/nfw/archive/nfw-hall-of-fame.html), which carries a dated class list with a dossier for each inductee."
+  },
+  {
+   "inductee": "the-benster-obw",
+   "promotion": "obw",
+   "class_year": 2006,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "gangkill-obw",
+   "promotion": "obw",
+   "class_year": 2006,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "dorkster-obw",
+   "promotion": "obw",
+   "class_year": 2007,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "eagle-obw",
+   "promotion": "obw",
+   "class_year": 2007,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "mr-sweden-obw",
+   "promotion": "obw",
+   "class_year": 2007,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "isolater-obw",
+   "promotion": "obw",
+   "class_year": 2007,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "papa-obw",
+   "promotion": "obw",
+   "class_year": 2008,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "hardcore-heaven-obw",
+   "promotion": "obw",
+   "class_year": 2008,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "sammy-steel-obw",
+   "promotion": "obw",
+   "class_year": 2008,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "the-candy-men-obw",
+   "promotion": "obw",
+   "class_year": 2008,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "drake-claw-obw",
+   "promotion": "obw",
+   "class_year": 2008,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "ice-obw",
+   "promotion": "obw",
+   "class_year": 2012,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "naven-v1-obw",
+   "promotion": "obw",
+   "class_year": 2012,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "kronk-obw",
+   "promotion": "obw",
+   "class_year": 2012,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "ben-obw",
+   "promotion": "obw",
+   "class_year": 2012,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "nathan-obw",
+   "promotion": "obw",
+   "class_year": 2012,
+   "source": "the federation's own Hall of Fame table on its wiki front page (promotions/obw/archive/obwrestling-wiki.html)"
+  },
+  {
+   "inductee": "ax-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "smash-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "ted-dibiase-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "jim-ross-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "wendy-richter-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "scott-hall-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "kevin-nash-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "eric-bischoff-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "dick-the-bruiser-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "the-crusher-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "andy-kaufman-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "greg-the-hammer-valentine-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "nikolai-volkoff-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "iron-sheik-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "killer-kowalski-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "bobby-eaton-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "stan-lane-uwow",
+   "promotion": "uwow",
+   "class_year": 2008,
+   "source": "UWOW Ultimate Supercard 2008's own served induction ceremony"
+  },
+  {
+   "inductee": "cwfpro-jenny-love",
+   "promotion": "csw",
+   "class_year": null,
+   "observed_by": 2009,
+   "source": "her own served wrestler-bio card, its Titles Won list reading \"CSW Hall of Fame\" (/promotions/cwfpro/archive/jenny-love.html) — carried on the acquiring CWF-Pro's own site",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2009. No document in this collection lists, dates or otherwise records the CSW's own Hall of Fame: the induction is attested only as a line on the wrestler's own Titles Won card, which is itself undated, so the honest upper bound is the site that carries it — CWF-Pro's own GeoCities pages, whose own last dated update reads 20 April 2009 and whose host closed that year. The CSW itself ran 1996–2004 by its own ledgers (and, by twenty of the fed's own bios, only six to eight months of 1997), so the induction falls in or after that promotion's own life and at or before 2009. Added on the founder's gavel of 2026-09-02, which reversed an honest decline: a Hall of Fame belongs in the Hall of Fame section even with no known year, carried with an \"observed by\" note rather than a guessed one."
+  },
+  {
+   "inductee": "cwfpro-the-icon-miguel-sanchez",
+   "promotion": "csw",
+   "class_year": null,
+   "observed_by": 2009,
+   "source": "his own served wrestler-bio card, its Titles Won list reading \"CSW Hall of Fame\" (/promotions/cwfpro/archive/the-icon-miguel-sanchez.html) — carried on the acquiring CWF-Pro's own site",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2009, on the same footing as Jenny Love's: an undated Titles Won line on an undated bio card, upper-bounded by the CWF-Pro site's own last dated update of 20 April 2009. These two cards are the only two documents in 381 that name a CSW Hall of Fame at all, and neither lists a class, a ceremony or a date. Added on the founder's gavel of 2026-09-02."
+  },
+  {
+   "inductee": "brewster-cogburn",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CHARACTERS, unanimous — all seven votes, the only unanimous character inductee. The citation: started in the EMWA, \"the first e-wrestling federation\", held titles in the EMWA and the UFWS, won the first Slick Ric Tournament at Summit Two and reached the semi-finals at Summit Six. JOIN RECEIPTED (v104): this record already carries UFWS and Summit of E-Wrestling tenures, a UFWS North American Heavyweight Championship and the second Summit's own Ultimate Heavyweight Championship — the same federations and the same titles the citation names, not a bare name match."
+  },
+  {
+   "inductee": "bobby-windsor-ufws",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CHARACTERS, unanimous — six of a possible six. The citation: a star in the UFWS and ESW, \"Best Male Face\" at the 1994 This Week in e-Wrestling awards, winner of the Tiger Mask Invitational and of the Slick Ric Tournament at Summit Six, and a repeat holder of the UFWS Junior Heavyweight and ESW Lightheavyweight titles. JOIN RECEIPTED (v104): this record is billed by the UFWS's own broadcasts as a two-time All-Jobber (Junior Heavyweight) Champion — same federation, same belt, same years. THIS ROW ALSO CARRIES A HANDLER SEAT: the second of the two Contributors inducted in this class was honoured for the newsgroup's own FAQ, the e-wrestling home page and the FastMatch! rules, and the hall's own later nomination roster of 22 November 1997 (msg_id T-Nttbz2M_8J) names this character first among the ones he wrote. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108)."
+  },
+  {
+   "inductee": {
+    "name": "Wild Hazard",
+    "unminted": true,
+    "fed": "Summit of E-Wrestling"
+   },
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html",
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CHARACTERS, six of seven votes. A tag team, in the citation's own words \"a very entertaining face team, often imitated but never duplicated\", named \"Best Face Tag Team\" at both interfederational awards shows (1993 and 1994) and winner of the Road Warriors Cup at Summit Five. UNMINTED: the registry holds no row for this team, and the citation is the only document in this collection that names it; the federation tag is the Summit, whose own trophy it won, because no home federation is given. The hall's own 1997 class credits it to the same handler as the Frisco Kid."
+  },
+  {
+   "inductee": "the-headbangers-wewf",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CHARACTERS, five of a possible six. The citation: \"former UeWF and MIW stars\", named \"Male Tag Team of the Year\" in 1994, Road Warriors Cup semi-finalists at Summit Five and winners at Summit Six, and it names both members — \"Mosh and Thrash also won multiple titles in the UeWF individually\". JOIN RECEIPTED (v104): the held unit is the same team by both members' names, its own WeWF document has it run in for Fender Marshall, and its member row mosh-wewf is staged by the UeWF for that federation's own Atlantic Heavyweight Championship on 19 February 1992 — the individual UeWF title record the citation describes."
+  },
+  {
+   "inductee": "ace-diamond-wewf",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CHARACTERS — the only manager inducted in this class, five votes. The citation: managed the face stable TNT Enterprises in the UeWF, the UFWS, ESW \"and a few other feds\", was called \"the best manager character ever created\" by one of the judges, and was active in the Keystone Wrestling Federation at the time of writing. JOIN RECEIPTED (v104): the held record leads TnT Enterprises in the WeWF and at the Summit and holds a UeWF manager tenure settled on his own signing-and-withdrawing of that federation's wrestlers — same stable, same federations."
+  },
+  {
+   "inductee": "fender-marshall-wewf",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "PLAYERS — this class's only Players induction, five of a possible six votes, and the citation is of a handler: \"created many memorable characters (four of whom were nominated), and was one of the top players in just about every league from 1991 to 1995\". The hall's own 1997 class names three of those characters in its parenthetical handler credits, and this is one of them. JOIN RECEIPTED (v104): the 1997 citation calls him \"the manager of Hall of Famers The Headbangers\", and the held record has exactly that — a WeWF document of 13 April 1992 in which the Headbangers run in on his behalf, and a UeWF manager tenure. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108). The hall's own second class, 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ), which names character by character which handler wrote whom."
+  },
+  {
+   "inductee": "barry-bromowitz-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html",
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "PLAYERS, carrying the same handler seat. The hall's own 1997 class inducts this character in its own right and credits it to the same handler: a slow start, then \"one of the top heels when he joined the EWF\", named \"Best Heel\" and \"Mr. Congeniality\" at the 1994 TWiW Awards. It was also nominated and seconded in this 1996 election and drew one vote. UNMINTED: no row in the registry, and no held wing bills it. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108). The hall's own second class, 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ), which names character by character which handler wrote whom."
+  },
+  {
+   "inductee": {
+    "name": "Satan's Little Helpers",
+    "unminted": true
+   },
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html",
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "PLAYERS, carrying the same handler seat. Nominated and seconded in this election and three votes short; inducted in the hall's own 1997 class as \"the pre-eminent ladies' tag team\" and \"the only candidate to be named on all nine ballots\", credited there to the same handler. UNMINTED, and no federation tag: neither citation names a home federation. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108). The hall's own second class, 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ), which names character by character which handler wrote whom."
+  },
+  {
+   "inductee": "eddie-awesome",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "FEDHEADS, four votes — the handler who ran the UeWF \"during its heyday\" and, in the citation's words, \"built the UeWF into the flagship fed of e-wrestling\". The hall's own 1997 class inducts this character and credits it to the same handler. JOIN RECEIPTED (v104): the 1997 citation gives \"a long and storied career in the UeWF 1991-2\", and the held record's UeWF tenure rests on that federation's own published weekly rankings, reprinted in the WeWF newsdesk of 30 January, 15 and 25 February 1992 — same federation, same years. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108). The hall's own second class, 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ), which names character by character which handler wrote whom."
+  },
+  {
+   "inductee": "baron-von-klaw",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CONTRIBUTORS, unanimous — named on every ballot, one of three unanimous selections in this class. The citation is of a handler: a WeWF player who created the first announcers and the magazine This Week in e-Wrestling, wrote the OWCH rules set, suggested the Summit of e-wrestling and coined the term \"e-wrestling\". The hall's own 1997 class lists the characters he wrote and this is the first of them. JOIN RECEIPTED (v104): the 1997 citation has him \"a goose-stepping Nazi in the UFWS and UeWF in 1991-2\", and the held record carries UFWS, Summit and WeWF tenures and two UFWS All-Jobber Championship reigns across exactly those years. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108). The hall's own second class, 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ), which names character by character which handler wrote whom."
+  },
+  {
+   "inductee": "johann-great-dane-svenson-wewf",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CONTRIBUTORS, carrying the same handler seat — the second of the characters the hall's own 1997 class names as his. JOIN RECEIPTED (v104): the 1997 citation calls him one of this handler's \"old-timers\", and the held record is a WeWF wrestler standing in that wing's own turn-6 standings of 31 January 1991 — the same federation the Contributors citation credits him as a player in. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108). The hall's own second class, 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ), which names character by character which handler wrote whom."
+  },
+  {
+   "inductee": "mathie-man-riemann-savage-wewf",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CONTRIBUTORS, carrying the same handler seat — the third of the characters the hall's own 1997 class names as his. JOIN RECEIPTED (v104): another of the named \"old-timers\", and the held record wrestles eight bouts in the WeWF's own surviving reports of April 1991, the same federation and era. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108). The hall's own second class, 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ), which names character by character which handler wrote whom."
+  },
+  {
+   "inductee": "ugly-jim-study-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html",
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CONTRIBUTORS, carrying the same handler seat. The hall's own 1997 class names this among the same handler's \"relatively recent characters: VCW's Ugly Jim Study and Johnny Dominant\". UNMINTED: the registry holds no VCW wing and no row for this character. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108). The hall's own second class, 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ), which names character by character which handler wrote whom."
+  },
+  {
+   "inductee": "johnny-dominant-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html",
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CONTRIBUTORS, carrying the same handler seat, and named in the same 1997 sentence as Ugly Jim Study. UNMINTED: no VCW wing and no row. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108). The hall's own second class, 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ), which names character by character which handler wrote whom."
+  },
+  {
+   "inductee": "william-the-conqueror-ewf-swa-1994",
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html",
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CONTRIBUTORS, four of a possible six votes — the handler honoured for creating and maintaining the newsgroup's own FAQ and the e-wrestling home page, writing the FastMatch! rules and writing a history of e-wrestling. The characters he wrote are named in the hall's own nomination roster of 22 November 1997 (thread 0iEJWnceOgE, msg_id T-Nttbz2M_8J; not served): \"From Bobby 'The Cavalier' Windsor ..., to William the Conqueror (One of the best mat wrestling heels), to the Spanish Inquisition (The best interviewing tag team in EWF history)\". This is the second of the three; the first is inducted in its own right in this same class and carries the seat on its own row. UNMINTED. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108)."
+  },
+  {
+   "inductee": {
+    "name": "the Spanish Inquisition",
+    "unminted": true,
+    "fed": "EWF"
+   },
+   "promotion": "rspwf",
+   "class_year": 1996,
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html",
+   "source": "The community's own announcement of its first Hall of Fame class, 30 June 1996, served whole at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html (Google Groups thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html), voted by a seven-member committee on seconded nominations — and not any one federation's hall.",
+   "note": "CONTRIBUTORS, carrying the same handler seat — the third of the three characters the 22 November 1997 nomination roster names as his, \"The best interviewing tag team in EWF history\". UNMINTED. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108)."
+  },
+  {
+   "inductee": "baron-von-klaw",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class — named as itself, its own citation: \"Von Klaw was a goose-stepping Nazi in the UFWS and UeWF in 1991-2,\" one committee member calling it more fun to have in a fed than anyone but Club Anarchy, another crediting it as the best-ever take on the Nazi stereotype. This is the same character already inducted in the 1996 class's Contributors category, carrying a handler seat there; the 1997 committee names it directly this time. THIS ROW ALSO CARRIES A SECOND HANDLER SEAT: the 1997 class's own Players category separately honours the same handler, credited as \"the creator of old-timers Baron Von Klaw, Johann 'Great Dane' Svenson, 'Mathie Man' Riemann Savage and others, as well as relatively recent characters: VCW's Ugly Jim Study and Johnny Dominant\" — the community honouring this handler a second time, one class apart, across two categories at once. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108)."
+  },
+  {
+   "inductee": "barry-bromowitz-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class — named as itself this time: \"Barry got off to a slow start, but became one of the top heels when he joined the EWF. At the 1994 TWiW Awards he was named 'Best Heel' and 'Mr. Congeniality'.\" This is the same unminted character already carrying a 1996 Players handler seat for the same person (see the 1996 row); the 1997 committee inducts the character directly rather than the handler, so this row is an in-character induction in its own right, not a second handler seat. UNMINTED, same as 1996: no held row or wing bills it.",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "derek-machismo-usew",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class. The citation: \"a successful wrestler in ESW and the USeW (including a world championship).\" UNMINTED: the registry holds no row for this character, and no document in this collection names the handler who wrote it, so there is no cross-class seat to track.",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "eddie-awesome",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class — named as itself this time: \"had a long and storied career in the UeWF 1991-2.\" This is the same character already carrying a 1996 Fedheads handler seat for the same person (the 1996 row's own join receipt: the UeWF tenure resting on that federation's own published weekly rankings); the 1997 committee inducts the character directly, so this row is an in-character induction in its own right, not a second handler seat."
+  },
+  {
+   "inductee": "fender-marshall-wewf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class — named as itself this time: \"the manager of Hall of Famers The Headbangers and others. Only the second manager to be inducted into the Hall.\" This is the same character already carrying a 1996 Players handler seat for the same person; the 1997 committee inducts the character directly, so this row is an in-character induction in its own right, not a second handler seat."
+  },
+  {
+   "inductee": "grim-weibaq-ewc",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class. The citation: \"held the EWC World Title, feuded with Hall of Famer Brewster Cogburn and held the RRtR interfed title for quite a while. A huge star as a face in EWC with a few guest appearances elsewhere.\" UNMINTED: the registry holds no row for this character, and no document names the handler who wrote it.",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "irish-whip-rick-omalley-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class. The citation: \"five time ESW World Champion,\" praised by a committee member as one of the quintessential ESW faces. UNMINTED: the registry's own O'Malley rows (Anthony, Chris and Marcus) are all different first names and no document ties any of them to this character; a shared surname alone is never sufficient (no-auto-merge doctrine), so this stands as its own unminted row.",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "powerhouse-pruitt-wewf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class. The citation: \"wrestled in the UFWS, UeWF (where he held the world title twice) and the KWF. Managed by the Hall of Famer Ace Diamond, and married to commentator Misty Raddison.\" JOIN RECEIPTED (v104): the held record's own UeWF tenure note already quotes Ace Diamond by his own ring name, in the WeWF's own 15 February 1992 newsdesk, naming Powerhouse Pruitt as the one wrestler he keeps in the UeWF while pulling the rest of his stable — the same federation and the same manager the 1997 citation credits, not a bare name match."
+  },
+  {
+   "inductee": "roker-showtime-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class. The citation: \"one of the most successful wrestlers of the EWC-EWF era (1994-6) and still going strong. Held both the EWC and EWF World Titles and also the EWF Lightheavyweight Title.\" UNJOINED (coordinator's ruling, 2026-09-02): the registry's held \"roker-showtime\" is a Summit of E-Wrestling manager of 1995 (Death Warmed Over), already recorded as presumed-distinct from every other \"Showtime\"-named record in the registry on no-auto-merge grounds. Different federation, different role (manager, not wrestler), different years, and no title, stable or partner receipt ties the two — a shared name alone is never sufficient, so this 1997 EWC/EWF wrestler stays its own unminted row rather than joining the held manager.",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "club-anarchy",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class — named as itself: \"a very entertaining heel team, Club Anarchy won the UeWF Tag Team Titles and fared well in the UFWS as well, winning the titles at least once. Captain Necropolis and Dr. Lethe were known far and wide for their entertaining flashes.\" JOIN RECEIPTED (v104): the held record's own reigns.json carries exactly that UFWS win — the fourth UFWS World Tag Team Championship reign, won 16 June 1991 — the same federation and the same title receipt the citation names. THIS ROW ALSO CARRIES A HANDLER SEAT: the 1997 class's own Players category separately honours the same handler as \"the creator of Club Anarchy and others.\" Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108)."
+  },
+  {
+   "inductee": {
+    "name": "Tropical Storm",
+    "unminted": true,
+    "fed": "ESW"
+   },
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class. The citation, three real handler names redacted: \"three of the top face lightheavyweights in ESW (Harry 'Head Hunter' Harris, 'California Kid' Key Atkinson and L.T. Hurricane) joined to form a rotating tag team,\" praised for winning the ESW tag titles and never looking back, and for bringing the rotating-tag-team idea to the forefront. UNMINTED, and DISTINCT from the registry's held \"tropical-storm\" (GIWF, 2000, and a 2004 UWF appearance run, members Miguel Lanza and Jaime Dermont): different federation, different decade, different named members — a shared name alone is never sufficient (no-auto-merge doctrine), so this ESW trio stands as its own unminted row.",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": {
+    "name": "Satan's Little Helpers",
+    "unminted": true
+   },
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "CHARACTERS, 1997 class — named as itself this time: \"the pre-eminent ladies' tag team, and the only candidate to be named on all nine ballots.\" This is the same unminted team already carrying a 1996 Players handler seat for the same person; the 1997 committee inducts the team directly, so this row is an in-character induction in its own right, not a second handler seat. UNMINTED, same as 1996: no federation given in either citation and no held wing bills it.",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "johann-great-dane-svenson-wewf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying the same handler seat as Baron Von Klaw above — the citation names this among the same handler's \"old-timers\": \"the creator of old-timers Baron Von Klaw, Johann 'Great Dane' Svenson, 'Mathie Man' Riemann Savage and others, as well as relatively recent characters: VCW's Ugly Jim Study and Johnny Dominant.\" This is the same handler already inducted in the 1996 class's Contributors category, credited there for the same character; the community honours this handler again in 1997, this time in Players. JOIN RECEIPTED (v104), carried from the 1996 row: the held record is a WeWF wrestler standing in that wing's own turn-6 standings of 31 January 1991, the same federation and era the citation describes. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108)."
+  },
+  {
+   "inductee": "mathie-man-riemann-savage-wewf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying the same handler seat as Baron Von Klaw and Johann 'Great Dane' Svenson above — one of the same handler's named \"old-timers\" in this class's Players citation. Inducted in the 1996 class's Contributors category for the same character; the community honours this handler again in 1997, this time in Players. JOIN RECEIPTED (v104), carried from the 1996 row: the held record wrestles eight bouts in the WeWF's own surviving reports of April 1991, the same federation and era the citation describes. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108)."
+  },
+  {
+   "inductee": "ugly-jim-study-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying the same handler seat as Baron Von Klaw above — the citation's own words: \"relatively recent characters: VCW's Ugly Jim Study and Johnny Dominant.\" This is the same unminted character already carrying the 1996 class's Contributors handler seat for the same person; the community honours this handler again in 1997, this time in Players. UNMINTED, same as 1996: no held VCW wing and no row for this character. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108).",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "johnny-dominant-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying the same handler seat as Baron Von Klaw and Ugly Jim Study above, named in the same 1997 sentence: \"relatively recent characters: VCW's Ugly Jim Study and Johnny Dominant.\" This is the same unminted character already carrying the 1996 class's Contributors handler seat for the same person; the community honours this handler again in 1997, this time in Players. UNMINTED, same as 1996: no held VCW wing and no row for this character. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108).",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "sly-foxx-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying the same handler seat as Animal Instinct below — the citation: \"the creator of manager Sly Foxx and the tag team Animal Instinct,\" praised by a committee member's own words as one of e-wrestling's great heel managers who \"revolutionized extreme angles.\" UNMINTED: the registry holds no row for this manager, and the citation names no home federation. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108).",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": {
+    "name": "Animal Instinct",
+    "unminted": true
+   },
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying the same handler seat as Sly Foxx above — the citation: \"the creator of manager Sly Foxx and the tag team Animal Instinct.\" UNMINTED: the registry holds no row for this team, and the citation names no home federation. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108).",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": {
+    "name": "Wild Hazard",
+    "unminted": true,
+    "fed": "Summit of E-Wrestling"
+   },
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying a handler seat — the citation: \"creator of Wild Hazard (inducted in June), the Frisco Kid and assorted others,\" naming the same team already inducted in its own right in the 1996 class's Characters category (this is the very citation the 1996 row itself points to). The community's 1997 committee honours the same handler again, one class apart, this time for the body of work rather than the single character — Wild Hazard now carries a seat in both classes. UNMINTED, same as 1996: no held Summit-of-E-Wrestling row, and no home federation beyond the one the 1996 citation already gave. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108).",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "the-frisco-kid-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying the same handler seat as Wild Hazard above — the citation's own second name: \"the Frisco Kid.\" UNMINTED: the registry holds no row for this character, and the citation names no home federation. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108).",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": {
+    "name": "Steve the Insane",
+    "unminted": true
+   },
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying the same handler seat as Intensive Care below — the citation: \"creator of Steve the Insane, Intensive Care, and others,\" praised by a committee member's own words for a range \"from the crafty veteran to the diabolical manager to... the Insane One.\" UNMINTED: the registry holds no row for this character, and the citation names no home federation. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108).",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "intensive-care-rspwf",
+   "promotion": "rspwf",
+   "class_year": 1997,
+   "source": "The community's own second Hall of Fame class, announced 12 February 1997, served whole at /promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html (Google Groups thread mTP1vg-3s1A, msg_id PbKckaFBCYoJ). The hall is the newsgroup's own institution — proposed on 29 April 1996 (thread 05PHZJA8Vbg, msg_id CvWmNdsC9ToJ, served at /promotions/rspwf/archive/community-hall-of-fame-proposal-1996-04-29.html) and first seated on 30 June 1996 (thread lcOdbQyPp-4, msg_id xofQ0iIY1akJ, served at /promotions/rspwf/archive/community-hall-of-fame-first-inductees-1996-06-30.html) — and not any one federation's hall.",
+   "note": "PLAYERS, 1997 class, carrying the same handler seat as Steve the Insane above — the citation: \"creator of Steve the Insane, Intensive Care, and others.\" UNMINTED: the registry holds no row for this character, and the citation names no home federation. Inducted by the community under the handler's own name; the museum carries the recognition through the character(s) they wrote, and withholds the name under the privacy rule (the founder's gavel, 2026-09-02; CURATION v108).",
+   "citation_url": "/promotions/rspwf/archive/community-hall-of-fame-results-1997-02-12.html"
+  },
+  {
+   "inductee": "tommy-smith-aewa",
+   "promotion": "aewa",
+   "class_year": 1996,
+   "source": "The AEWA's own first Hall of Fame ceremony (Hall Of Fame Show, 6 October 1996, msg_id qUzUqnaW9cUJ, already served): inducted first, credited by the on-air hosts as the fed's founding president."
+  },
+  {
+   "inductee": "mister-crowley-aewa",
+   "promotion": "aewa",
+   "class_year": 1996,
+   "source": "The AEWA's own first Hall of Fame ceremony (Hall Of Fame Show, 6 October 1996, msg_id qUzUqnaW9cUJ, already served): inducted second."
+  },
+  {
+   "inductee": "cardinal-chaos-aewa",
+   "promotion": "aewa",
+   "class_year": 1996,
+   "source": "The AEWA's own first Hall of Fame ceremony (Hall Of Fame Show, 6 October 1996, msg_id qUzUqnaW9cUJ, already served): inducted third, introduced on-air as \"the first ever AEWA World champion\" -- a characterization at odds with this wing's own dated reign chronology, which has Mister Crowley (inducted moments earlier on the same broadcast) winning the inaugural title tournament. Recorded as the document states it; not resolved."
+  },
+  {
+   "inductee": "phoenix-mike-mccarey-shootfire-pro-1999",
+   "promotion": "shootfire-pro-1999",
+   "class_year": 2002,
+   "source": "Shootfire Icons, the promotion's own pay-per-view of 12 June 2002 (/promotions/shootfire-pro-1999/archive/shootfire-icons-2002-06-12.html): Won the second-round match in the Thunder Dragon mask of Chris Caranova and was unmasked as Mike McCarey."
+  },
+  {
+   "inductee": "vile-vince-viper-spring-classic-2002",
+   "promotion": "shootfire-pro-1999",
+   "class_year": 2002,
+   "source": "Shootfire Icons, the promotion's own pay-per-view of 12 June 2002 (/promotions/shootfire-pro-1999/archive/shootfire-icons-2002-06-12.html): Won the second-round match over Ryan Delaney and Thomas DiArgo."
+  },
+  {
+   "inductee": "ash-shootfire-pro-1999",
+   "promotion": "shootfire-pro-1999",
+   "class_year": 2002,
+   "source": "Shootfire Icons, the promotion's own pay-per-view of 12 June 2002 (/promotions/shootfire-pro-1999/archive/shootfire-icons-2002-06-12.html): Chosen by the judges Andy Simmons, Roddy Taylor and Andrew Davis."
+  },
+  {
+   "inductee": "jeff-keenan-shootfire-pro-1999",
+   "promotion": "shootfire-pro-1999",
+   "class_year": 2002,
+   "source": "Shootfire Icons, the promotion's own pay-per-view of 12 June 2002 (/promotions/shootfire-pro-1999/archive/shootfire-icons-2002-06-12.html): Won the main event over Donovan Keltrane and Gregory Brians."
+  },
+  {
+   "inductee": "tommy-dreamer-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #1).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. The citation credits this handler with running \"the first person to successfully run a PPV caliber storyline with himself, using all three of his characters in a dynamic feud\" -- Tommy Dreamer, Mike Awesome, The Sandman, Jerry Lynn and Jeff Jarrett, one seat filed on each of the five (Jerry Lynn unminted, no other held record establishing the character; the registry holds no reign or card billing for it beyond this citation)."
+  },
+  {
+   "inductee": "mike-awesome-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #1).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Tommy Dreamer above (Entry #1)."
+  },
+  {
+   "inductee": "sandman-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #1).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Tommy Dreamer above (Entry #1); billed as \"The Sandman\" in the citation, the-sandman-ebwf-2001's own registered name is \"Sandman\"."
+  },
+  {
+   "inductee": {
+    "name": "Jerry Lynn",
+    "unminted": true
+   },
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "citation_url": "/promotions/ebwf-2001/archive/hof.html",
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #1).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Tommy Dreamer above (Entry #1). UNMINTED: no reign, no served card and no other EBWF page bills a \"Jerry Lynn\" -- this citation is the only held document naming the character, so no character record is minted from a bare Hall of Fame mention alone (contrast Jeff Jarrett and Scott Hall below, minted because the show cards independently stage them)."
+  },
+  {
+   "inductee": "jeff-jarrett-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #1).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Tommy Dreamer above (Entry #1). Newly minted: 17 of EBWF's 38 held shows independently stage this character."
+  },
+  {
+   "inductee": "raven-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #2).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. The citation: this handler \"has done almost everything in the EBWF,\" here \"since the days of the EWF,\" one of the two longest-tenured members, having \"held almost every title\" -- Raven, Cactus Jack, Mick Foley, Stevie Richards, Scott Steiner, Shaggy 2 Dope and Violent J, one seat filed on each (Shaggy 2 Dope and Violent J unminted; the registry holds no reign, card billing or other EBWF page naming either)."
+  },
+  {
+   "inductee": "cactus-jack-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #2).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Raven above (Entry #2)."
+  },
+  {
+   "inductee": "mick-foley-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #2).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Raven above (Entry #2). EBWF's own Title History bills Cactus Jack and Mick Foley as two distinct champions of the same real performer; this citation crediting one handler with both is not read as a merge."
+  },
+  {
+   "inductee": "stevie-richards-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #2).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Raven above (Entry #2)."
+  },
+  {
+   "inductee": "scott-steiner-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #2).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Raven above (Entry #2)."
+  },
+  {
+   "inductee": {
+    "name": "Shaggy 2 Dope",
+    "unminted": true
+   },
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "citation_url": "/promotions/ebwf-2001/archive/hof.html",
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #2).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Raven above (Entry #2). UNMINTED: no reign, no served card and no other EBWF page bills this name; this citation is the only held document naming it."
+  },
+  {
+   "inductee": {
+    "name": "Violent J",
+    "unminted": true
+   },
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "citation_url": "/promotions/ebwf-2001/archive/hof.html",
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #2).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Raven above (Entry #2). UNMINTED: no reign, no served card and no other EBWF page bills this name; this citation is the only held document naming it."
+  },
+  {
+   "inductee": "triple-h-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entries #3 and #11).",
+   "note": "Inducted by the community under the handler's own name, TWICE, under two distinct handler seats the hall's own separate entries carry (the schema files one row per inductee per hall, so both citations are combined on this one row rather than the second silently overwriting the first): Entry #3 credits an Intercontinental Championship run \"among the best if not the best\" in the fed's history and loyalty through its slow times and good; Entry #11 (a different handler again) credits \"results would pretty much always be about ten days late\" without them and calls them an amazing writer and friend. The seat is carried through the character, with both handlers' names withheld under the privacy rule."
+  },
+  {
+   "inductee": "eric-bischoff-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #4).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. The citation: a \"top notch competitor,\" a regular Royal Rumble and King/Queen of the Ring contender, praised most for storyline ideas -- Eric Bischoff, Victoria, Lita, Commissioner Chaotic Christina, Montanna Bischoff and Christina Hancock, one seat filed on each (the last two unminted; the registry holds no reign, card billing or other EBWF page naming either)."
+  },
+  {
+   "inductee": "victoria-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #4).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Eric Bischoff above (Entry #4)."
+  },
+  {
+   "inductee": "lita-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entries #4 and #10).",
+   "note": "Inducted by the community under the handler's own name, TWICE, under two distinct handler seats the hall's own separate entries carry (the schema files one row per inductee per hall, so both citations are combined on this one row rather than the second silently overwriting the first): Entry #4 credits the same handler seat as Eric Bischoff above; Entry #10 credits the same handler seat as Wes Ikeda below, one of the fed's own owners, a self-insert. The seat is carried through the character, with both handlers' names withheld under the privacy rule."
+  },
+  {
+   "inductee": "montanna-bischoff-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #4).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Eric Bischoff above (Entry #4)."
+  },
+  {
+   "inductee": {
+    "name": "Commissioner Chaotic Christina",
+    "unminted": true
+   },
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "citation_url": "/promotions/ebwf-2001/archive/hof.html",
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #4).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Eric Bischoff above (Entry #4). UNMINTED: no reign, no served card and no other EBWF page bills this name; this citation is the only held document naming it."
+  },
+  {
+   "inductee": {
+    "name": "Christina Hancock",
+    "unminted": true
+   },
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "citation_url": "/promotions/ebwf-2001/archive/hof.html",
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #4).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Eric Bischoff above (Entry #4). UNMINTED: no reign, no served card and no other EBWF page bills this name; this citation is the only held document naming it."
+  },
+  {
+   "inductee": "bret-hart-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #5).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. The citation credits this handler with using Bret Hart to hold every EBWF championship offered at one time, wearing four belts at once, and with the 2004 Royal Rumble and King of the Ring double -- Bret Hart and HBK Shawn Michaels, one seat filed on each."
+  },
+  {
+   "inductee": "shawn-michaels-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entries #5 and #11).",
+   "note": "Inducted by the community under the handler's own name, TWICE, under two distinct handler seats the hall's own separate entries carry (the schema files one row per inductee per hall, so both citations are combined on this one row rather than the second silently overwriting the first): Entry #5 credits the same handler seat as Bret Hart above, billed there as \"HBK Shawn Michaels\"; Entry #11 credits \"the first and only female rper to hold the EBWF World Title,\" and the first to form a tag team and win titles with two characters, same handler seat as Triple H below. The seat is carried through the character, with both handlers' names withheld under the privacy rule."
+  },
+  {
+   "inductee": "the-undertaker-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #6).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. The citation: a multiple Hardcore, People's, Intercontinental, Tag Team and World Heavyweight Champion, and \"a staple of the EBWF from its beginning\" -- The Undertaker, Kane, Ultimate Warrior and Christy Hemme, one seat filed on each (Ultimate Warrior unminted; the registry holds no reign, card billing or other EBWF page naming it)."
+  },
+  {
+   "inductee": "kane-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #6).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as The Undertaker above (Entry #6)."
+  },
+  {
+   "inductee": {
+    "name": "Ultimate Warrior",
+    "unminted": true
+   },
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "citation_url": "/promotions/ebwf-2001/archive/hof.html",
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #6).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as The Undertaker above (Entry #6). UNMINTED: this character is billed on several of EBWF's own held show cards but not on any reign; not minted here, along with the other card-only billings left unminted."
+  },
+  {
+   "inductee": "christy-hemme-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entries #6 and #11).",
+   "note": "Inducted by the community under the handler's own name, TWICE, under two distinct handler seats the hall's own separate entries carry (the schema files one row per inductee per hall, so both citations are combined on this one row rather than the second silently overwriting the first): Entry #6 credits the same handler seat as The Undertaker above; Entry #11 credits the same handler seat as Triple H below. The seat is carried through the character, with both handlers' names withheld under the privacy rule."
+  },
+  {
+   "inductee": "chris-jericho-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entries #7 and #8).",
+   "note": "Inducted by the community under the handler's own name, TWICE, under two distinct handler seats the hall's own separate entries carry (the schema files one row per inductee per hall, so both citations are combined on this one row rather than the second silently overwriting the first): Entry #7 credits several years' tenure, starting as Chris Jericho and picking up Jeff Hardy \"as he matured as an RPer\"; Entry #8 (a different handler) credits the longest-reigning World Champion at 112 straight days and a Tag Team Championship run alongside Bret Hart -- the Title History's own The Hart Foundation (Bret Hart & Chris Jericho) tag reign. The seat is carried through the character, with both handlers' names withheld under the privacy rule."
+  },
+  {
+   "inductee": "jeff-hardy-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #7).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Chris Jericho above (Entry #7)."
+  },
+  {
+   "inductee": "alex-shelley-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #9).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. The citation credits this handler's Alex Shelley with the longest People's/TV Championship reign in the fed's history and the youngest World Championship win, and this handler's Syxx with \"a huge... part in the nWo invasion of 2007\" -- Alex Shelley, Syxx and Scott Hall, one seat filed on each."
+  },
+  {
+   "inductee": "syxx-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #9).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Alex Shelley above (Entry #9)."
+  },
+  {
+   "inductee": "scott-hall-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #9).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Alex Shelley above (Entry #9). Newly minted: three of EBWF's 38 held shows independently stage this character."
+  },
+  {
+   "inductee": "wes-ikeda-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #10).",
+   "note": "Inducted by the community under the handler's own name (a self-insert: this entry states outright that the handler behind Wes Ikeda founded and still owns the EBWF); the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. The citation: \"without [this handler] there wouldn't be an EBWF Hall of Fame, or even an EBWF\"; one of very few efed owners never to put the world title on herself -- Wes Ikeda, Trish Stratus, Chyna, Lita and Teddy Hart, one seat filed on each (Teddy Hart unminted, see findings)."
+  },
+  {
+   "inductee": "trish-stratus-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #10).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Wes Ikeda above (Entry #10)."
+  },
+  {
+   "inductee": "chyna-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #10).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Wes Ikeda above (Entry #10)."
+  },
+  {
+   "inductee": {
+    "name": "Teddy Hart",
+    "unminted": true
+   },
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "citation_url": "/promotions/ebwf-2001/archive/hof.html",
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #10).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Wes Ikeda above (Entry #10). UNMINTED: this character is billed on several of EBWF's own held show cards (paired with Bret Hart as the card's own Hart Foundation) but not on any reign; not minted here, along with the other card-only billings left unminted."
+  },
+  {
+   "inductee": "david-flair-ebwf-2001",
+   "promotion": "ebwf-2001",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "EBWF's own Hall of Fame, undated (/promotions/ebwf-2001/archive/hof.html, Entry #11).",
+   "note": "Inducted by the community under the handler's own name; the seat is carried through the character(s) written, with the handler's name withheld under the privacy rule. Same handler seat as Triple H above (Entry #11)."
+  },
+  {
+   "inductee": "the-jhub-gcw-gcwonline-2001",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2003,
+   "source": "the federation's own Hall of Fame field on his biography card, which reads 2003 (no citation survives for this seat); its news of 18 May 2007, which lists him among the members already in the Hall (/promotions/gcw-gcwonline-2001/news/2007-hall-of-fame-details-announced-2007-05-18.html)",
+   "note": "In-character induction into the GCW Hall of Fame; the year is the federation's own Hall of Fame field's, and no card stages the ceremony."
+  },
+  {
+   "inductee": "octavian-gcw-gcwonline-2001",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2005,
+   "source": "NC-17 III, 27 November 2005, where the announcer opens the Hall of Fame Induction Ceremony and Octavian's own promo says he is scheduled to be inducted that night (/promotions/gcw-gcwonline-2001/archive/gcw-gcwonline-2001-nc-17-iii-2005-11-27.html); its news of 18 May 2007, which says only Octavian of four members had a true induction ceremony (/promotions/gcw-gcwonline-2001/news/2007-hall-of-fame-details-announced-2007-05-18.html); the federation's own Hall of Fame field on his card reads 2003 and his card's Fed Awards line reads “Hall of Fame” (/promotions/gcw-gcwonline-2001/archive/octavian-gcw-gcwonline-2001-bio.html)",
+   "note": "In-character induction into the GCW Hall of Fame, staged on the card of 27 November 2005. The federation's own Hall of Fame field for his card reads 2003; both readings stand and the staged card sets the class year."
+  },
+  {
+   "inductee": "jason-dread-ccw",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2005,
+   "source": "WorldWide 100, whose announcer says he “was inducted to the Hall of Fame in 2005” (/promotions/gcw-gcwonline-2001/archive/gcw-gcwonline-2001-worldwide-100-2008-10-09.html); the federation's own Hall of Fame field on his card reads 2005; its news of 18 May 2007 lists him among the members (/promotions/gcw-gcwonline-2001/news/2007-hall-of-fame-details-announced-2007-05-18.html)",
+   "note": "In-character induction into the GCW Hall of Fame; no card stages the ceremony."
+  },
+  {
+   "inductee": "badger-benandanti-gcw-gcwonline-2001",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2005,
+   "source": "ACWF, 6 April 2005, where the Hall of Fame Induction Ceremony's newest inductee is announced as Badger Benandanti, honoured for a career ended in the ACWF III main event (/promotions/gcw-gcwonline-2001/archive/gcw-gcwonline-2001-acwf-2005-2005-04-06.html); the federation's own Hall of Fame field on his card reads 2005",
+   "note": "In-character induction into the GCW Hall of Fame, staged at ACWF. His citation calls him the second man enshrined, and the news of 18 May 2007 does not list him among the four members it names; both are as written."
+  },
+  {
+   "inductee": "the-renegade-rich-rollins",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": null,
+   "source": "ACWF, 6 April 2005, where Caldera's induction video says the honour was given to Rich ‘The Renegade’ Rollins “over two years ago” (/promotions/gcw-gcwonline-2001/archive/gcw-gcwonline-2001-acwf-2005-2005-04-06.html); its news of 18 May 2007 lists him among the members (/promotions/gcw-gcwonline-2001/news/2007-hall-of-fame-details-announced-2007-05-18.html); his card's Fed Awards line reads “Hall of Famer” (/promotions/gcw-gcwonline-2001/archive/the-renegade-rich-rollins-bio.html)",
+   "note": "In-character induction into the GCW Hall of Fame; the federation's own Hall of Fame field on his card reads 2007, which the 2005 card contradicts, so the seat is filed by the year it is attested and both readings stand. His citation calls him the first man inducted before his retirement.",
+   "observed_by": 2005
+  },
+  {
+   "inductee": "lestatt-knight-prime",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2007,
+   "source": "Warpath, 3 June 2007, whose Hall of Fame Induction Ceremony enshrines LeStatt Knight after the fans' vote for Twizzy is overturned (/promotions/gcw-gcwonline-2001/archive/gcw-gcwonline-2001-warpath-2007-2007-06-03.html); Tsunami, 12 August 2007, which says he “was enshrined instead” (/promotions/gcw-gcwonline-2001/archive/gcw-gcwonline-2001-tsunami-07-2007-08-12.html); his card's Fed Awards line reads “GCW Hall of Fame inductee (2007)” (/promotions/gcw-gcwonline-2001/archive/lestatt-knight-prime-bio.html)",
+   "note": "In-character induction into the GCW Hall of Fame, staged at Warpath. His citation calls him only the second man inducted while still on active duty."
+  },
+  {
+   "inductee": "twizzy-threat",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2007,
+   "source": "NC-17 V, 23 December 2007, where the announcer says GCW is proud to induct Twizzy into the Hall of Fame (/promotions/gcw-gcwonline-2001/archive/gcw-gcwonline-2001-nc-17-v-2007-12-23.html); its news of 3 January 2008 congratulating him on the induction (/promotions/gcw-gcwonline-2001/news/gcw-enters-new-year-2008-01-03.html); the fans' vote for him at Warpath in June is described in its news of 18 May 2007 and on Tsunami (/promotions/gcw-gcwonline-2001/news/2007-hall-of-fame-details-announced-2007-05-18.html)",
+   "note": "In-character induction into the GCW Hall of Fame, staged at NC-17 V after the Warpath vote for him was overturned."
+  },
+  {
+   "inductee": "jason-oneil-prime",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2009,
+   "source": "NC-17 VI, whose commentary announces that Jason O'Neil is in the Hall of Fame (/promotions/gcw-gcwonline-2001/archive/gcw-gcwonline-2001-nc-17-vi-2009-02-04.html); its news of 4 February 2009 reporting the induction at NC-17 (/promotions/gcw-gcwonline-2001/news/hall-of-famer-o-neil-to-return-to-gcw-2009-02-04.html); its news of 19 January 2011, which counts it as two years before (/promotions/gcw-gcwonline-2001/news/nc-17-to-highlight-hall-of-fame-2011-01-19.html)",
+   "note": "In-character induction into the GCW Hall of Fame, staged at NC-17 VI. The federation's own Hall of Fame field for his card reads 2008, and the card's own heading and NC-17 VII call it a year earlier or later than the date the registry gives it; the registry's date for the card sets the class year."
+  },
+  {
+   "inductee": "jordan-white-prime",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2011,
+   "source": "NC-17 VIII, 13 March 2011, where LeStatt Knight inducts Jordan White into the Hall of Fame (/promotions/gcw-gcwonline-2001/archive/gcw-gcwonline-2001-nc-17-viii-2011-03-13.html); the federation's own Hall of Fame field on his card reads 2011",
+   "note": "In-character induction into the GCW Hall of Fame, staged at NC-17 VIII and presented by LeStatt Knight."
+  },
+  {
+   "inductee": "vivica-j-valentine-prime",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2012,
+   "source": "the federation's news of 29 May 2012, the first of its final Hall of Fame inductions (/promotions/gcw-gcwonline-2001/news/hall-of-fame-vivica-j-valentine-2012-05-29.html); the federation's own Hall of Fame field on her card reads 2012",
+   "note": "In-character induction into the GCW Hall of Fame, announced as the first of its final class."
+  },
+  {
+   "inductee": "andy-murray-pcw",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2012,
+   "source": "the federation's news of 3 June 2012, the second of its final Hall of Fame inductions (/promotions/gcw-gcwonline-2001/news/hall-of-fame-andy-murray-2012-06-03.html); the federation's own Hall of Fame field on his card reads 2012",
+   "note": "In-character induction into the GCW Hall of Fame, announced as the second of its final class."
+  },
+  {
+   "inductee": "jay-terror-gcw-gcwonline-2001",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2012,
+   "source": "the federation's news of 16 June 2012, the third of its final Hall of Fame inductions (/promotions/gcw-gcwonline-2001/news/hall-of-fame-jay-terror-2012-06-16.html); the federation's own Hall of Fame field on his card reads 2012",
+   "note": "In-character induction into the GCW Hall of Fame, announced as the third of its final class."
+  },
+  {
+   "inductee": "bryan-mayhem-gcw-gcwonline-2001",
+   "promotion": "gcw-gcwonline-2001",
+   "class_year": 2012,
+   "source": "the federation's news of 2 July 2012, the fourth of its final Hall of Fame inductions (/promotions/gcw-gcwonline-2001/news/hall-of-fame-bryan-mayhem-2012-07-02.html); the federation's own Hall of Fame field on his card reads 2012",
+   "note": "In-character induction into the GCW Hall of Fame, announced as the fourth of its final class."
+  },
+  {
+   "inductee": "smitty-t-duluth-prime",
+   "promotion": "sccw-2005",
+   "class_year": 2010,
+   "source": "the federation's Hall of Fame page, “Inducted at Defiance 3” (/promotions/sccw-2005/archive/sccw-hall-of-fame.html); Defiance III, 7 March 2010 (/promotions/sccw-2005/archive/sccw-2005-defiance-iii-2010-03-07.html); its lineup news of 3 March 2010 (/promotions/sccw-2005/news/defiance-3-2010-03-03.html)",
+   "note": "In-character induction into the SCCW Hall of Fame at Defiance III, named by the commentary as the founding father of Sin City and the first man announced for the class."
+  },
+  {
+   "inductee": "jason-cruise-sccw-2005",
+   "promotion": "sccw-2005",
+   "class_year": 2010,
+   "source": "the federation's Hall of Fame page, “Inducted at Defiance 3” (/promotions/sccw-2005/archive/sccw-hall-of-fame.html); Defiance III, 7 March 2010 (/promotions/sccw-2005/archive/sccw-2005-defiance-iii-2010-03-07.html); its lineup news of 3 March 2010 (/promotions/sccw-2005/news/defiance-3-2010-03-03.html)",
+   "note": "In-character induction into the SCCW Hall of Fame at Defiance III, named the second inductee, as the most dominant LiveWire Champion of all time, and inducted before the broadcast with Duluth."
+  },
+  {
+   "inductee": "clinton-sage-sccw-2005",
+   "promotion": "sccw-2005",
+   "class_year": 2010,
+   "source": "the federation's Hall of Fame page, “Inducted at Defiance 3” (/promotions/sccw-2005/archive/sccw-hall-of-fame.html); Defiance III, 7 March 2010 (/promotions/sccw-2005/archive/sccw-2005-defiance-iii-2010-03-07.html); its lineup news of 3 March 2010 (/promotions/sccw-2005/news/defiance-3-2010-03-03.html)",
+   "note": "In-character induction into the SCCW Hall of Fame at Defiance III, the third inductee, presented on the broadcast by Barry Kitna; the commentary calls it the final induction of the inaugural class."
+  },
+  {
+   "inductee": "hunter-jones-sccw-2005",
+   "promotion": "sccw-2005",
+   "class_year": 2007,
+   "source": "the federation's news of 5 August 2007, which announces an induction “the first in FUSE History” for “former XOW Champion and current FUSE Announcer Hunter Jones” (/promotions/sccw-2005/news/hall-of-fame-induction-announced-for-ppv-2007-08-05.html); War in Washington, 3 September 2007, whose commentary says his induction “was recorded earlier in the day” (/promotions/sccw-2005/archive/sccw-2005-war-in-washington-2007-2007-09-03.html)",
+   "note": "In-character induction into the FUSE Hall of Fame, announced for the pay-per-view and staged off the broadcast. The federation's own 2010 class is called the first of the SCCW Hall of Fame."
+  },
+  {
+   "inductee": {
+    "name": "Jacob Jackson (\"The Idol\")",
+    "unminted": true,
+    "fed": "Five Star Wrestling"
+   },
+   "promotion": "fsw-thefsw-2000",
+   "class_year": 2000,
+   "citation_url": "/promotions/fsw-thefsw-2000/archive/hall-of-fame-december-2001-2001-12-26.html",
+   "source": "The fed's own Hall of Fame page, which dates the entry 12/28/00 and calls him the first entry to the Hall (captured 8 April 2001, /promotions/fsw-thefsw-2000/archive/hall-of-fame-april-2001-2001-04-08.html; captured 26 December 2001, /promotions/fsw-thefsw-2000/archive/hall-of-fame-december-2001-2001-12-26.html).",
+   "note": "In-character induction into the fed's own Hall of Fame, dated 28 December 2000 on the page; the citation says he retired on 12 December 2000 holding the Intercontinental title and names his tag-team reign with the Can-Am Connection. UNMINTED until the wing's roster is read: the character is not yet a registry row, and the registry join waits on the roster reading."
+  },
+  {
+   "inductee": {
+    "name": "Creature",
+    "unminted": true,
+    "fed": "Five Star Wrestling"
+   },
+   "promotion": "fsw-thefsw-2000",
+   "class_year": 2001,
+   "citation_url": "/promotions/fsw-thefsw-2000/archive/hall-of-fame-december-2001-2001-12-26.html",
+   "source": "The fed's own Hall of Fame page, which dates the entry 2/1/01 (captured 8 April 2001, /promotions/fsw-thefsw-2000/archive/hall-of-fame-april-2001-2001-04-08.html; captured 26 December 2001, /promotions/fsw-thefsw-2000/archive/hall-of-fame-december-2001-2001-12-26.html).",
+   "note": "In-character induction into the fed's own Hall of Fame, dated 1 February 2001 on the page; the citation says he won the World title at his first opportunity and left when his contract expired during the January 2001 break. UNMINTED until the wing's roster is read."
+  },
+  {
+   "inductee": {
+    "name": "Mike Marvelous",
+    "unminted": true,
+    "fed": "Five Star Wrestling"
+   },
+   "promotion": "fsw-thefsw-2000",
+   "class_year": 2001,
+   "citation_url": "/promotions/fsw-thefsw-2000/archive/hall-of-fame-december-2001-2001-12-26.html",
+   "source": "The fed's own Hall of Fame page, which dates the entry 7/16/01 (captured 26 December 2001, /promotions/fsw-thefsw-2000/archive/hall-of-fame-december-2001-2001-12-26.html); the fed's own front-page item of 16 July 2001 announces him as the newest member (/promotions/fsw-thefsw-2000/archive/new-hall-of-famer-2001-07-16.html).",
+   "note": "In-character induction into the fed's own Hall of Fame, dated 16 July 2001 on the page and in the front-page item; the citation names Jacob Jackson as his former tag-team partner. UNMINTED until the wing's roster is read; the character has a bio row on the donor's side, to be joined to it when its roster is read."
+  },
+  {
+   "inductee": "pierce-lavelle-prime",
+   "promotion": "awc-2005",
+   "class_year": 2006,
+   "citation_url": "/promotions/awc-2005/archive/awc-2005-fresh-2006-01-31.html",
+   "source": "Fresh!, 31 January 2006 (booking 3570), the fed's own write-up of the night (/promotions/awc-2005/archive/awc-2005-fresh-2006-01-31.html): David Harber announces the AWC Roll of Legends and inducts Pierce Lavelle as \"the FIRST EVER AWC LEGEND\", handing him a gold medal; the fed's own Legends index page, which dates it 31st January 2006 and calls him the first AWC Legend; its ring announcer on Fresh! Special Live on Huntington Beach, 1 August 2006 (booking 3595), introducing him as \"the first inductee into the Hall of Legends\" (/promotions/awc-2005/archive/awc-2005-fresh-special-live-on-huntington-beach-2006-08-01.html).",
+   "note": "In-character induction into AWC's Roll of Legends (the Hall of Legends, as the fed's own announcer and index page also call it), the first seat, 31 January 2006. The date is the show's own and the fed's Legends index page agrees. Divide And Conquer, 23 June 2006 (booking 3590), has Harber say that in one week it will be five months to the day since he made Lavelle the first Legend, which is consistent with 31 January."
+  },
+  {
+   "inductee": "mike-wade-pcw",
+   "promotion": "awc-2005",
+   "class_year": 2006,
+   "citation_url": "/promotions/awc-2005/archive/awc-2005-divide-and-conquer-2006-06-23.html",
+   "source": "Divide And Conquer, 23 June 2006 (booking 3590), the fed's own write-up of the show (/promotions/awc-2005/archive/awc-2005-divide-and-conquer-2006-06-23.html): Harber and Sasha Volkyeva bring the roster to the ring, James Brunt announces \"inducted into the AWC Roll of Legends... MIKE WADE!\" and the text calls him \"the second of the AWC Legends\"; Wade's own speech names Pierce Lavelle as the man inducted before him and says he is retiring from active competition. The fed's own Legends index page dates the induction 24th June 2006.",
+   "note": "In-character induction into AWC's Roll of Legends, the second seat, staged at the end of Divide And Conquer. #sources-disagree: the show, its booking date and the fed's results index say 23 June 2006; the fed's Legends index page says 24th June 2006. The row follows the show, the document that stages it, and keeps the index page's date here; the class year is 2006 on either reading."
+  },
+  {
+   "inductee": "the-illustrious-face-eater-prime",
+   "promotion": "awc-2005",
+   "class_year": 2006,
+   "citation_url": "/promotions/awc-2005/archive/awc-2005-coast-to-coast-2006-09-01.html",
+   "source": "Coast To Coast, 1 September 2006 (booking 3599), the fed's own write-up of the show (/promotions/awc-2005/archive/awc-2005-coast-to-coast-2006-09-01.html): Harber announces the induction into the AWC Roll of Legends, the Face-Eater makes his entrance and declares himself a legend, and the text says he \"joined Pierce Lavelle and Mike Wade as a Legend of AWC\"; the fed's own Legends index page dates it 1st September 2006 and calls him the third Legend of AWC.",
+   "note": "In-character induction into AWC's Roll of Legends, the third seat, staged at Coast To Coast on 1 September 2006 as a ceremony after what the text calls his last AWC match; the show and the fed's Legends index page agree on the date. Mike Wade, his former duo partner and already a Legend, is among those at the ring."
+  },
+  {
+   "inductee": "the-furious-fists-of-god",
+   "promotion": "awc-2005",
+   "class_year": 2006,
+   "citation_url": "/promotions/awc-2005/archive/awc-2005-untouchable-2006-10-13.html",
+   "source": "Untouchable, 13 October 2006 (booking 3605), the fed's own write-up of the show (/promotions/awc-2005/archive/awc-2005-untouchable-2006-10-13.html): after their last match Liam and Tim Martin announce they are leaving AWC, and Mike Wade, \"As a member of AWC's Roll of Legends...\", welcomes \"Liam and Tim Martin, collectively The Furious Fists Of God\" to the fold, hails them as \"THE MOST DOMINANT DUO IN ATLANTIC WRESTLING CLUB HISTORY\" and tells them \"You're Legends, boys!\"; the fed's own Legends index page dates it 13th October 2006 and says the two jointly became the fourth Legend.",
+   "note": "In-character induction of the tag team into AWC's Roll of Legends, jointly the fourth seat (one seat for the two of them, as the fed counts it), 13 October 2006, staged on Untouchable as the team's farewell. The members are the characters Liam Martin (liam-martin-awc-2005) and Tim Martin (tim-martin-awc-2005); the team is filed once, as itself."
+  },
+  {
+   "inductee": "tony-rolo-pcw",
+   "promotion": "prime-2003",
+   "class_year": null,
+   "observed_by": 2005,
+   "source": "its own Hall of Fame page, Inductee #01 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); ReVolution 80, 9 November 2005 (/promotions/prime-2003/archive/prime-2003-revolution-80-2005-11-09.html); UltraViolence 2008, 25 May 2008 (/promotions/prime-2003/archive/prime-2003-ultraviolence-2008-2008-05-25.html)",
+   "note": "The first man inducted into the PRIME Hall of Fame. The year of the induction is not recorded in the surviving texts. A show of 9 November 2005 already calls him a PRIME Hall Of Famer, and UltraViolence 2008 introduces him as “the first man ever inducted to PRIME’s Hall of Fame”."
+  },
+  {
+   "inductee": {
+    "name": "Rock Startling",
+    "unminted": true,
+    "fed": "PRIME"
+   },
+   "promotion": "prime-2003",
+   "class_year": null,
+   "observed_by": 2006,
+   "citation_url": "/promotions/prime-2003/archive/prime-2003-hall-of-fame.html",
+   "source": "its own Hall of Fame page, Inductee #02 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); ReVolution 97, 15 June 2006 (/promotions/prime-2003/archive/prime-2003-revolution-97-2006-06-15.html)",
+   "note": "The year of the induction is not recorded in the surviving texts. ReVolution 97 of 15 June 2006 calls him “another PRIME Hall of Fame superstar and former Global Champion”."
+  },
+  {
+   "inductee": "ian-english-prime",
+   "promotion": "prime-2003",
+   "class_year": null,
+   "observed_by": 2006,
+   "source": "its own Hall of Fame page, Inductee #03 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); ReVolution 88, 26 January 2006 (/promotions/prime-2003/archive/prime-2003-revolution-88-2006-01-26.html)",
+   "note": "The year of the induction is not recorded in the surviving texts. At ReVolution 88 on 26 January 2006 Ignatius Lisieux answers Hoyt Williams's Hall of Fame test by naming him among the Hall's absent members."
+  },
+  {
+   "inductee": "ignatius-lisieux-prime-2006",
+   "promotion": "prime-2003",
+   "class_year": null,
+   "observed_by": 2006,
+   "source": "its own Hall of Fame page, Inductee #04 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); ReVolution 88, 26 January 2006 (/promotions/prime-2003/archive/prime-2003-revolution-88-2006-01-26.html); Colossus III, 13 August 2006 (/promotions/prime-2003/archive/prime-2003-colossus-iii-2006-08-13.html)",
+   "note": "The year of the induction is not recorded in the surviving texts. ReVolution 88 of 26 January 2006 has the commentary call him one of two members of the Hall of Fame in the ring, and Colossus III bills him a “Hall of Fame Inductee”."
+  },
+  {
+   "inductee": "joey-troy-prime",
+   "promotion": "prime-2003",
+   "class_year": null,
+   "observed_by": 2006,
+   "source": "its own Hall of Fame page, Inductee #05 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); ReVolution 88, 26 January 2006 (/promotions/prime-2003/archive/prime-2003-revolution-88-2006-01-26.html)",
+   "note": "The year of the induction is not recorded in the surviving texts. At ReVolution 88 on 26 January 2006 he is named among the absent members of the Hall."
+  },
+  {
+   "inductee": {
+    "name": "Black Angel",
+    "unminted": true,
+    "fed": "PRIME"
+   },
+   "promotion": "prime-2003",
+   "class_year": null,
+   "observed_by": 2006,
+   "citation_url": "/promotions/prime-2003/archive/prime-2003-hall-of-fame.html",
+   "source": "its own Hall of Fame page, Inductee #06 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); ReVolution 90, 29 March 2006 (/promotions/prime-2003/archive/prime-2003-revolution-90-2006-03-29.html)",
+   "note": "The year of the induction is not recorded in the surviving texts. ReVolution 90 of 29 March 2006 has the crowd cheer him as “another PRIME Hall of Famer”, and in July 2008 Vangelus Olsig lists him with the Hall's members."
+  },
+  {
+   "inductee": "killean-sirrajin-prime",
+   "promotion": "prime-2003",
+   "class_year": null,
+   "observed_by": 2006,
+   "source": "its own Hall of Fame page, Inductee #07 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); ReVolution 90, 29 March 2006 (/promotions/prime-2003/archive/prime-2003-revolution-90-2006-03-29.html)",
+   "note": "The year of the induction is not recorded in the surviving texts. ReVolution 90 of 29 March 2006 calls him a “former Universal Champion and PRIME Hall of Famer”. His honours on the page include the Choose Your Own Destiny tournament, which the page does not date."
+  },
+  {
+   "inductee": "hoyt-williams-prime",
+   "promotion": "prime-2003",
+   "class_year": null,
+   "observed_by": 2006,
+   "source": "its own Hall of Fame page, Inductee #08 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); ReVolution 87, 18 January 2006 (/promotions/prime-2003/archive/prime-2003-revolution-87-2006-01-18.html); ReVolution 88, 26 January 2006 (/promotions/prime-2003/archive/prime-2003-revolution-88-2006-01-26.html)",
+   "note": "The year of the induction is not recorded in the surviving texts. On ReVolution 87 of 18 January 2006 he announces the Hall of Fame Title as his “HALL OF FAME SELECTION”, and on ReVolution 88 he is named the Hall of Fame Champion."
+  },
+  {
+   "inductee": "karina-wolfenden-prime",
+   "promotion": "prime-2003",
+   "class_year": 2006,
+   "source": "its own Hall of Fame page, Inductee #09 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); ReVolution 104, 24 August 2006 (/promotions/prime-2003/archive/prime-2003-revolution-104-2006-08-24.html)",
+   "note": "In-character induction into the PRIME Hall of Fame at a ceremony closing ReVolution 104 on 24 August 2006, sponsored by Ignatius Lisieux. The write-up of Vangelus Olsig's induction and his own later account place her in the 2007 class with him and Nova, while the show stages her ceremony in 2006 and names Tchu, not her, in the Class of 2007."
+  },
+  {
+   "inductee": "tchu-prime",
+   "promotion": "prime-2003",
+   "class_year": 2007,
+   "source": "its own Hall of Fame page, Inductee #10 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus IV, 5 August 2007 (/promotions/prime-2003/archive/prime-2003-colossus-iv-2007-08-05.html)",
+   "note": "In-character induction into the PRIME Hall of Fame, announced as part of the Class of 2007 at Colossus IV with Nova and Vangelus Olsig."
+  },
+  {
+   "inductee": "nova-team",
+   "promotion": "prime-2003",
+   "class_year": 2007,
+   "source": "its own Hall of Fame page, Inductee #11 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus IV, 5 August 2007 (/promotions/prime-2003/archive/prime-2003-colossus-iv-2007-08-05.html); ReVolution 248, 18 July 2012 (/promotions/prime-2003/archive/prime-2003-revolution-248-2012-07-18.html)",
+   "note": "In-character induction into the PRIME Hall of Fame, announced as part of the Class of 2007 at Colossus IV with Tchu and Vangelus Olsig. A show of 18 July 2012 calls him the eleventh inductee."
+  },
+  {
+   "inductee": "vangelus-olsig-prime",
+   "promotion": "prime-2003",
+   "class_year": 2007,
+   "source": "its own Hall of Fame page, Inductee #12 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus IV, 5 August 2007 (/promotions/prime-2003/archive/prime-2003-colossus-iv-2007-08-05.html)",
+   "note": "In-character induction into the PRIME Hall of Fame, announced as part of the Class of 2007 at Colossus IV with Tchu and Nova. His own account of the night, in 2010, names Karina Wolfenden rather than Tchu as the third; the show names Tchu, and staged Wolfenden's ceremony in 2006."
+  },
+  {
+   "inductee": "lindsay-troy",
+   "promotion": "prime-2003",
+   "class_year": 2008,
+   "source": "its own Hall of Fame page, Inductee #13 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus V Night Two, 10 August 2008 (/promotions/prime-2003/archive/prime-2003-colossus-night-two-2008-08-10.html); its news of 9 August 2008 (/promotions/prime-2003/news/hall-of-fame-class-of-2008-announced-2008-08-09.html)",
+   "note": "In-character induction into the PRIME Hall of Fame at Colossus V Night Two, in the Class of 2008 with Sonny Silver, Hin See, Taun Pham, Toshiaki Motoki and Mr. Bojangles."
+  },
+  {
+   "inductee": "mr-silver-sports-entertainment-liasion-of-prime-prime",
+   "promotion": "prime-2003",
+   "class_year": 2008,
+   "source": "its own Hall of Fame page, Inductee #14 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus V Night Two, 10 August 2008 (/promotions/prime-2003/archive/prime-2003-colossus-night-two-2008-08-10.html); its news of 9 August 2008 (/promotions/prime-2003/news/hall-of-fame-class-of-2008-announced-2008-08-09.html)",
+   "note": "In-character induction into the PRIME Hall of Fame at Colossus V Night Two, in the Class of 2008 with Lindsay Troy, Hin See, Taun Pham, Toshiaki Motoki and Mr. Bojangles."
+  },
+  {
+   "inductee": "chandler-tsonda-prime",
+   "promotion": "prime-2003",
+   "class_year": 2009,
+   "source": "its own Hall of Fame page, Inductee #15 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus VI Night Two, 16 August 2009 (/promotions/prime-2003/archive/prime-2003-colossus-vi-night-two-2009-08-16.html)",
+   "note": "In-character induction into the PRIME Hall of Fame at Colossus VI Night Two, in a class of three with its commentators Nick Stuart and Richard Parker."
+  },
+  {
+   "inductee": "snow-pcw",
+   "promotion": "prime-2003",
+   "class_year": 2010,
+   "source": "its own Hall of Fame page, Inductee #16 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus VII, 29 August 2010 (/promotions/prime-2003/archive/prime-2003-colossus-vii-2010-08-29.html)",
+   "note": "In-character induction into the PRIME Hall of Fame at Colossus VII, accepted on his behalf by Tchu under the billing Matthew Ward; the show and a later ReVolution count him the sixteenth member."
+  },
+  {
+   "inductee": "team-v-i-a-g-r-a-prime",
+   "promotion": "prime-2003",
+   "class_year": 2012,
+   "source": "its own Hall of Fame page, Inductee #17 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus VIII, 14 October 2012 (/promotions/prime-2003/archive/prime-2003-colossus-viii-2012-10-14.html)",
+   "note": "In-character induction of the tag team into the PRIME Hall of Fame, the first inductee of the final class at Colossus VIII: High Flyer, Tony Davis and their manager Mary-Lynn Mayweather, three-time Tag Team Champions."
+  },
+  {
+   "inductee": "tony-gamble-prime",
+   "promotion": "prime-2003",
+   "class_year": 2012,
+   "source": "its own Hall of Fame page, Inductee #18 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus VIII, 14 October 2012 (/promotions/prime-2003/archive/prime-2003-colossus-viii-2012-10-14.html)",
+   "note": "In-character induction into the PRIME Hall of Fame in the final class, at Colossus VIII."
+  },
+  {
+   "inductee": "tyler-rayne-prime",
+   "promotion": "prime-2003",
+   "class_year": 2012,
+   "source": "its own Hall of Fame page, Inductee #19 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus VIII, 14 October 2012 (/promotions/prime-2003/archive/prime-2003-colossus-viii-2012-10-14.html)",
+   "note": "In-character induction into the PRIME Hall of Fame in the final class, at Colossus VIII."
+  },
+  {
+   "inductee": "hessian-pcw",
+   "promotion": "prime-2003",
+   "class_year": 2012,
+   "source": "its own Hall of Fame page, Inductee #20 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus VIII, 14 October 2012 (/promotions/prime-2003/archive/prime-2003-colossus-viii-2012-10-14.html)",
+   "note": "In-character induction into the PRIME Hall of Fame in the final class, at Colossus VIII."
+  },
+  {
+   "inductee": "brandon-youngblood-prime",
+   "promotion": "prime-2003",
+   "class_year": 2012,
+   "source": "its own Hall of Fame page, Inductee #21 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus VIII, 14 October 2012 (/promotions/prime-2003/archive/prime-2003-colossus-viii-2012-10-14.html)",
+   "note": "In-character induction into the PRIME Hall of Fame in the final class, at Colossus VIII."
+  },
+  {
+   "inductee": {
+    "name": "Taun Pham",
+    "unminted": true,
+    "fed": "PRIME"
+   },
+   "promotion": "prime-2003",
+   "class_year": 2008,
+   "citation_url": "/promotions/prime-2003/archive/prime-2003-hall-of-fame.html",
+   "source": "its own Hall of Fame page, STAFF section, 2008 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus V Night Two, 10 August 2008 (/promotions/prime-2003/archive/prime-2003-colossus-night-two-2008-08-10.html); its news of 9 August 2008 (/promotions/prime-2003/news/hall-of-fame-class-of-2008-announced-2008-08-09.html)",
+   "note": "In-character induction of PRIME's ownership group, the staff class of 2008 at Colossus V Night Two, with Hin See, Toshiaki Motoki and Mr. Bojangles; the page calls them its founders and earliest leading staff."
+  },
+  {
+   "inductee": {
+    "name": "Hin See",
+    "unminted": true,
+    "fed": "PRIME"
+   },
+   "promotion": "prime-2003",
+   "class_year": 2008,
+   "citation_url": "/promotions/prime-2003/archive/prime-2003-hall-of-fame.html",
+   "source": "its own Hall of Fame page, STAFF section, 2008 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus V Night Two, 10 August 2008 (/promotions/prime-2003/archive/prime-2003-colossus-night-two-2008-08-10.html); its news of 9 August 2008 (/promotions/prime-2003/news/hall-of-fame-class-of-2008-announced-2008-08-09.html)",
+   "note": "In-character induction of PRIME's ownership group, the staff class of 2008 at Colossus V Night Two, with Taun Pham, Toshiaki Motoki and Mr. Bojangles."
+  },
+  {
+   "inductee": "toshiaki-motoki-prime",
+   "promotion": "prime-2003",
+   "class_year": 2008,
+   "source": "its own Hall of Fame page, STAFF section, 2008 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus V Night Two, 10 August 2008 (/promotions/prime-2003/archive/prime-2003-colossus-night-two-2008-08-10.html); its news of 9 August 2008 (/promotions/prime-2003/news/hall-of-fame-class-of-2008-announced-2008-08-09.html)",
+   "note": "In-character induction of PRIME's ownership group, the staff class of 2008 at Colossus V Night Two, with Taun Pham, Hin See and Mr. Bojangles."
+  },
+  {
+   "inductee": {
+    "name": "Mr. Bojangles",
+    "unminted": true,
+    "fed": "PRIME"
+   },
+   "promotion": "prime-2003",
+   "class_year": 2008,
+   "citation_url": "/promotions/prime-2003/archive/prime-2003-hall-of-fame.html",
+   "source": "its own Hall of Fame page, STAFF section, 2008 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus V Night Two, 10 August 2008 (/promotions/prime-2003/archive/prime-2003-colossus-night-two-2008-08-10.html); its news of 9 August 2008 (/promotions/prime-2003/news/hall-of-fame-class-of-2008-announced-2008-08-09.html)",
+   "note": "In-character induction of PRIME's ownership group, the staff class of 2008 at Colossus V Night Two, with Taun Pham, Hin See and Toshiaki Motoki. Bojangles is the group's cat."
+  },
+  {
+   "inductee": "nick-stuart-prime",
+   "promotion": "prime-2003",
+   "class_year": 2009,
+   "source": "its own Hall of Fame page, STAFF section, 2009 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus VI Night Two, 16 August 2009 (/promotions/prime-2003/archive/prime-2003-colossus-vi-night-two-2009-08-16.html)",
+   "note": "In-character induction into the PRIME Hall of Fame at Colossus VI Night Two, as one of the company's two commentators since its opening in 2003, in a class of three with Richard Parker and Chandler Tsonda."
+  },
+  {
+   "inductee": "richard-parker-prime",
+   "promotion": "prime-2003",
+   "class_year": 2009,
+   "source": "its own Hall of Fame page, STAFF section, 2009 (/promotions/prime-2003/archive/prime-2003-hall-of-fame.html); Colossus VI Night Two, 16 August 2009 (/promotions/prime-2003/archive/prime-2003-colossus-vi-night-two-2009-08-16.html)",
+   "note": "In-character induction into the PRIME Hall of Fame at Colossus VI Night Two, as one of the company's two commentators since its opening in 2003, in a class of three with Nick Stuart and Chandler Tsonda."
+  },
+  {
+   "inductee": "icu-acw-2002",
+   "promotion": "acw",
+   "class_year": 2009,
+   "citation_url": "/promotions/acw/archive/acw-end-game-2009-12-17.html",
+   "source": "ACW's own Hall of Fame page (its Class of 2009, served at /promotions/acw/archive/acw-hall-of-fame-class-of-2009.html) and End Game 2009 (booking 3382; the fed's own write-up of the night, served at /promotions/acw/archive/acw-end-game-2009-12-17.html): under the heading \"The All-Star Championship Wrestling Hall of Fame Inducts ICU\" SilverHAWK announces \"The first man to be inducted into the ACW Hall of Fame\" and presents ICU with a plaque; the segment closes \"The first inductee into the ACW Hall of Fame: ICU.\"",
+   "note": "The first inductee of ACW's own Hall of Fame, presented on End Game 2009. The fed's Hall of Fame page lists him in the Class of 2009."
+  },
+  {
+   "inductee": "jason-kain-acw",
+   "promotion": "acw",
+   "class_year": 2009,
+   "citation_url": "/promotions/acw/archive/acw-end-game-2009-12-17.html",
+   "source": "ACW's own Hall of Fame page (its Class of 2009, served at /promotions/acw/archive/acw-hall-of-fame-class-of-2009.html) and End Game 2009 (booking 3382; the fed's own write-up of the night, served at /promotions/acw/archive/acw-end-game-2009-12-17.html): \"The next superstar to be inducted into the ACW Hall of Fame is Jason Kain\", with a highlight video and his own speech; the segment closes \"The latest inductee into the ACW Hall of Fame: Jason Kain.\"",
+   "note": "Inducted into ACW's own Hall of Fame on End Game 2009, the Class of 2009."
+  },
+  {
+   "inductee": "osyrus-acw",
+   "promotion": "acw",
+   "class_year": 2009,
+   "citation_url": "/promotions/acw/archive/acw-end-game-2009-12-17.html",
+   "source": "ACW's own Hall of Fame page (its Class of 2009, served at /promotions/acw/archive/acw-hall-of-fame-class-of-2009.html) and End Game 2009 (booking 3382; the fed's own write-up of the night, served at /promotions/acw/archive/acw-end-game-2009-12-17.html): \"The next superstar to be inducted into the ACW Hall of Fame is Osyrus\", with a highlight video and his own speech; the segment closes \"The latest inductee into the ACW Hall of Fame: Osyrus.\"",
+   "note": "Inducted into ACW's own Hall of Fame on End Game 2009, the Class of 2009."
+  },
+  {
+   "inductee": "alias-acw",
+   "promotion": "acw",
+   "class_year": 2009,
+   "citation_url": "/promotions/acw/archive/acw-end-game-2009-12-17.html",
+   "source": "ACW's own Hall of Fame page (its Class of 2009, served at /promotions/acw/archive/acw-hall-of-fame-class-of-2009.html) and End Game 2009 (booking 3382; the fed's own write-up of the night, served at /promotions/acw/archive/acw-end-game-2009-12-17.html): \"the next inductee in the ACW HALL OF FAME… ALIAS!\"; SilverHAWK calls it \"the first class of the ACW Hall of Fame\" and Alias is attacked in the ring during his speech; the segment closes \"The latest inductee into the ACW Hall of Fame: Alias.\"",
+   "note": "Inducted into ACW's own Hall of Fame on End Game 2009, the Class of 2009; the only inductee of the night who was also an active competitor in ACW, as the show's own text says."
+  },
+  {
+   "inductee": "silverhawk-acw",
+   "promotion": "acw",
+   "class_year": 2009,
+   "citation_url": "/promotions/acw/archive/acw-end-game-2009-12-17.html",
+   "source": "ACW's own Hall of Fame page (its Class of 2009, served at /promotions/acw/archive/acw-hall-of-fame-class-of-2009.html) and End Game 2009 (booking 3382; the fed's own write-up of the night, served at /promotions/acw/archive/acw-end-game-2009-12-17.html): the Hall of Fame page lists Aaron 'SilverHAWK' Jones in the Class of 2009 as inducted both as a superstar and as an architect; on the night James Boyd presents him as the third Architect in ACW and the segment closes \"The Architects of ACW: Charles Dunn, James Boyd and Aaron 'SilverHAWK' Jones.\"",
+   "note": "Inducted into ACW's own Hall of Fame on End Game 2009, the Class of 2009, as the third Architect of ACW (the fed's own wording)."
+  },
+  {
+   "inductee": "charles-dunn-acw",
+   "promotion": "acw",
+   "class_year": 2009,
+   "citation_url": "/promotions/acw/archive/acw-end-game-2009-12-17.html",
+   "source": "ACW's own Hall of Fame page (its Class of 2009, served at /promotions/acw/archive/acw-hall-of-fame-class-of-2009.html) and End Game 2009 (booking 3382; the fed's own write-up of the night, served at /promotions/acw/archive/acw-end-game-2009-12-17.html): SilverHAWK announces \"We are all here tonight because of two men, and those men are Charles Dunn and James Boyd\" and that the two \"will be passed into the Hall of Fame\" as the Architects of ACW; the Hall of Fame page lists them together as the Founding Fathers of ACW and the co-owners of ACW from January 2001 to December 2003.",
+   "note": "Inducted jointly with James Boyd as an Architect of ACW, the Class of 2009."
+  },
+  {
+   "inductee": "james-boyd-acw",
+   "promotion": "acw",
+   "class_year": 2009,
+   "citation_url": "/promotions/acw/archive/acw-end-game-2009-12-17.html",
+   "source": "ACW's own Hall of Fame page (its Class of 2009, served at /promotions/acw/archive/acw-hall-of-fame-class-of-2009.html) and End Game 2009 (booking 3382; the fed's own write-up of the night, served at /promotions/acw/archive/acw-end-game-2009-12-17.html): SilverHAWK announces \"We are all here tonight because of two men, and those men are Charles Dunn and James Boyd\" and that the two \"will be passed into the Hall of Fame\" as the Architects of ACW; Boyd comes out from the back and names SilverHAWK \"the third Architect in ACW\"; the Hall of Fame page lists the two together as the Founding Fathers of ACW and the co-owners of ACW from January 2001 to December 2003.",
+   "note": "Inducted jointly with Charles Dunn as an Architect of ACW, the Class of 2009."
+  },
+  {
+   "inductee": "joe-the-plumber",
+   "promotion": "nfw",
+   "class_year": 2013,
+   "source": "NFW's own backstage database, as donated by Argyle (accession 0159): the character's own bio card carries Hall of Fame Inducted 2013 and a Hall of Fame Citation (a singles record of 13-2-0-1; “NFW World Heavyweight Champion (1x), NFW Television Champion (1x), Longest reign as both World and TV Champion, retired TV Championship due to World Championship victory over Nova.”). The fed’s own Hall of Fame page as captured on 30 August 2013 (served at /promotions/nfw/archive/nfw-hall-of-fame.html) lists the classes of 2007 to 2012 only.",
+   "note": "The class of 2013 of NFW's own Hall of Fame, from the fed's own database; the served Hall of Fame page predates it."
+  },
+  {
+   "inductee": "mystikal-wiw-ng",
+   "promotion": "wiw-ng",
+   "class_year": null,
+   "observed_by": 2002,
+   "citation_url": "/promotions/wiw-ng/archive/wiw-ng-hall-of-fame-mystikal.html",
+   "source": "Mystikal is named on the fed's own Hall of Fame list, captured 29 November 2002, and his own bio is filed under its Hall of Fame (served at /promotions/wiw-ng/archive/wiw-ng-hall-of-fame-mystikal.html, captured 2002).",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2002. The fed's Hall of Fame list is undated and gives no class or ceremony, so the honest upper bound is the year of its captures (August to November 2002). The list names 15 characters; the other 11 are not minted here and are recorded in the wing's holdings notes."
+  },
+  {
+   "inductee": "michael-j-wiw-ng",
+   "promotion": "wiw-ng",
+   "class_year": null,
+   "observed_by": 2002,
+   "citation_url": "/promotions/wiw-ng/archive/wiw-ng-hall-of-fame-michaelj.html",
+   "source": "Michael J is named on the fed's own Hall of Fame list, captured 29 November 2002, and his own bio is filed under its Hall of Fame (served at /promotions/wiw-ng/archive/wiw-ng-hall-of-fame-michaelj.html, captured 2002).",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2002. The fed's Hall of Fame list is undated and gives no class or ceremony, so the honest upper bound is the year of its captures (August to November 2002). The list names 15 characters; the other 11 are not minted here and are recorded in the wing's holdings notes."
+  },
+  {
+   "inductee": "joe-average-wiw-ng",
+   "promotion": "wiw-ng",
+   "class_year": null,
+   "observed_by": 2002,
+   "citation_url": "/promotions/wiw-ng/archive/wiw-ng-hall-of-fame-joeaverage.html",
+   "source": "Joe Average is named on the fed's own Hall of Fame list, captured 29 November 2002, and his own bio is filed under its Hall of Fame (served at /promotions/wiw-ng/archive/wiw-ng-hall-of-fame-joeaverage.html, captured 2002).",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2002. The fed's Hall of Fame list is undated and gives no class or ceremony, so the honest upper bound is the year of its captures (August to November 2002). The list names 15 characters; the other 11 are not minted here and are recorded in the wing's holdings notes."
+  },
+  {
+   "inductee": "benshaw-wiw-ng",
+   "promotion": "wiw-ng",
+   "class_year": null,
+   "observed_by": 2002,
+   "source": "Benshaw is named on fed's own Hall of Fame list, captured 29 November 2002 (/wiw/ng/hall.html, held in the workshop, not served: its Hall of Shame half is out-of-character remarks about handlers)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2002. The fed's Hall of Fame list is undated and gives no class or ceremony, so the honest upper bound is the year of its captures (August to November 2002). The list names 15 characters; the other 11 are not minted here and are recorded in the wing's holdings notes."
+  },
+  {
+   "inductee": "madison-divera-aw-anarchy-2008",
+   "promotion": "aw-anarchy-2008",
+   "class_year": 2008,
+   "source": "its Hall of Fame page and the ceremony report of 30 August 2008"
+  },
+  {
+   "inductee": "jon-tees-aw-anarchy-2008",
+   "promotion": "aw-anarchy-2008",
+   "class_year": 2008,
+   "source": "its Hall of Fame page and the ceremony report of 30 August 2008"
+  },
+  {
+   "inductee": "ben-morrigan-aw-anarchy-2008",
+   "promotion": "aw-anarchy-2008",
+   "class_year": 2008,
+   "source": "its Hall of Fame page and the ceremony report of 30 August 2008"
+  },
+  {
+   "inductee": "richard-bison-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "walter-loufie-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "vincent-dragon-crow-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "camaro-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "joker-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "matt-wolfe-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "scott-acid-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "dalis-hyral-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "megestro-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "david-boyce-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "j-d-onslaught-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "jonathan-lee-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "slayer-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "brett-cotter-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "sense-green-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  },
+  {
+   "inductee": "tetsuo-takemura-ewa-alliance-2003",
+   "promotion": "ewa-alliance-2003",
+   "class_year": null,
+   "observed_by": 2008,
+   "source": "the Hall of Fame list on its own Kingdom Come 6 roster page (served), whose copyright line reads 2008, and on its front page (served)",
+   "note": "YEAR UNKNOWN, OBSERVED BY 2008. The list gives sixteen names and no class, ceremony or date; the page's Hall of Fame entry for Richard Bison lists his accomplishments, and the Hall of Fame page itself carries its names in picture files."
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "crusher-aiw-internet-1997",
+  "type": "character",
+  "name": "Crusher",
+  "caption": "Signs AIW's own re-opening announcement of 30 May 1997; no evidence in the held record ties this persona to the fed's founding operator.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "aiw-internet-1997",
+    "first_seen": "1997-05",
+    "last_seen": "1997-05",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "AIW's own served re-opening announcement (promotions/aiw-internet-1997/archive/aiw-grand-reopening-1997-05-30.html)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "'Crusher' is a generic archetype ring name reused across two other unrelated wings already on file; no document ties AIW's own re-opening persona to either. No-auto-merge default: distinct.",
+    "with": [
+     "crusher-ucwf",
+     "crusher-uwl"
+    ]
+   }
+  ]
+ }
+]

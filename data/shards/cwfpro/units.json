@@ -1,0 +1,926 @@
+[
+  {
+    "id": "cwfpro-angels-of-darkness-angel-1-and-angel-2",
+    "type": "unit",
+    "name": "Angels of Darkness",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Angel #1"
+      },
+      {
+        "name": "Angel #2"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Decorated-aka substring collision only: the tag team's own name normalizes to contain \"Angel\"/\"Darkness\" as common gimmick words, matched against unrelated single characters elsewhere in the registry (including cwfpro-darkness, a distinct CWF-Pro solo wrestler with no recorded connection). This team's own members are recorded only as \"Angel #1\"/\"Angel #2\" (membership unknown beyond that), with no receipt tying either to any of the colliding entities. No merge evidence exists for any pair; filed per the no-auto-merge-and-no-silent-distinctness rule.",
+        "with": [
+          "angel-nfw",
+          "angel-rspwf",
+          "angel-uwf",
+          "anna-keyson",
+          "cwfpro-darkness",
+          "mystique-wwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cwfpro-the-damnators-jean-damn-and-rob-damn",
+    "type": "unit",
+    "name": "the Damnators",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Jean Damn"
+      },
+      {
+        "name": "Rob Damn"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-destruction-inc-larry-donny-and-billy",
+    "type": "unit",
+    "name": "Destruction Inc",
+    "unit_kind": "trio",
+    "members": [
+      {
+        "name": "Larry"
+      },
+      {
+        "name": "Donny"
+      },
+      {
+        "name": "Billy"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro trio, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Decorated-aka substring collision only: \"Destruction Inc\" normalizes to contain \"Destruction,\" a generic archetype word an unrelated WWA-era character also carries. No receipt joins them, no shared members, different promotions. Filed per the no-auto-merge-and-no-silent-distinctness rule.",
+        "with": [
+          "destruction-wwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cwfpro-the-double-dragons-billy-and-jimmy-lee",
+    "type": "unit",
+    "name": "the Double Dragons",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Billy"
+      },
+      {
+        "name": "Jimmy Lee"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Decorated-aka substring collision only: \"the Double Dragons\" normalizes to contain \"Double D\"/\"Dragon,\" generic fragments unrelated single characters elsewhere also carry. This team is billed as Billy and Jimmy Lee; no receipt joins it to any of the colliding entities, and every collision is cross-promotion. Filed per the no-auto-merge-and-no-silent-distinctness rule.",
+        "with": [
+          "dirk-danger-pwf",
+          "double-d-xcwf",
+          "dragon-pcw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cwfpro-extreme-inc-sledgehammer-and-razorback",
+    "type": "unit",
+    "name": "Extreme Inc",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Sledgehammer"
+      },
+      {
+        "name": "Razorback"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Decorated-aka substring collision only: \"Extreme Inc\" normalizes to contain \"Extreme\"/\"Xtreme,\" a generic archetype word two other, unrelated promotions' own characters independently carry. This team is billed as Sledgehammer and Razorback; no receipt joins it to either colliding entity. Filed per the no-auto-merge-and-no-silent-distinctness rule.",
+        "with": [
+          "extreme-pcw",
+          "xtreme-xcwf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cwfpro-the-flash-brothers-don-and-jerry-flash",
+    "type": "unit",
+    "name": "the Flash Brothers",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Don"
+      },
+      {
+        "name": "Jerry Flash"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      },
+      {
+        "promotion": "xxx-first",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "the fed's own served bio page (cross-referenced from the already-served cwfpro archive)",
+        "grade": "primary-source",
+        "note": "Own bio's own History section, in full: \"They were the main tag team in the XXX with Bryan Williams, Bobby Williams and Star but never really got along with them. The 1st XXX was not own by Pres Burns. Untill he bought it in 2003 after it had shut down. He reopened it as a farm efed for the cwf.pro untill he would close it again in 2006.\" (The \"Star\" named alongside Bryan/Bobby Williams here is not confidently identified — Jason Star's own bio dates his own XXX involvement to a 2006 developmental contract, after the farm era began, so this row is not given an XXX-first tenure on that loose thread alone.) Their own Earlier Career line separately dates their DEPARTURE from the XXX to 2001 (\"They left the XXX efed after talking with R@ven in 2001\"), before the 2003 buy this same passage states — read as the same wrestlers' XXX run ending before the promotion itself changed hands, not a contradiction. SOURCES DISAGREE with bobby-williams's own tenure note on the buy date (2003 vs. 2005) — both are recorded, neither resolved. FURTHER, THIS PASS — A DATE THE ACCESSION DID NOT CARRY: their own Earlier Career line ends their independent-XXX run precisely, and names who ended it. \"They started out in 1997 as rookies in a few efeds winning minor titles in the PWE, JJP, GWC, & RFP. They left the XXX efed after talking with R@ven in 2001.\" R@ven is the buyer's own scout (his own served bio: \"He was a scouter for the cwf.pro\"), and the same page's next section confirms what the talking was for: \"They were set to join the CWF-Pro in 2001, but the cwf.pro clsed after the cross over with the tdw.\" That gives this wing its only firmly dated in-era EVENT of any kind — a departure in 2001, inside the independent XXX's own attested 2000-2003 window, two years before the earlier of the two disputed buyout years. Note also that the four efeds named as their 1997 starting points (PWE, JJP, GWC, RFP) are NOT the XXX; nothing here moves this wing's own founding date earlier than Bobby Williams' own 2000. Every XXX championship credit carried by any of this wing's three roster entities was counted against the five served XXX title ledgers, all of which are dated uniformly \"1/2006 - 11/2007\" and belong to the post-buyout farm era. EVERY CREDIT RECONCILES EXACTLY, leaving no residue that could belong to the independent promotion: Bobby Williams' own \"XXX Champion (3)\" against xxx-title.html's reigns 2, 11 and 14; his \"XXX 2nd Champion (5)\" against xxx-2nd-title.html's reigns 2, 4, 6, 15 and 17; his \"XXX Tag Team Champion\" against xxx-world-tag-team-title.html's reign 36 (with Jason Star). Bryan Williams' own \"XXX Champion (4)\" against reigns 1, 8, 10 and 13 — matching that ledger's own summary table, \"Most Times as Champion: Bryan Williams, 4 times\" — and his \"XXX 2nd Champion (2)\" against reigns 5 and 10. The Flash Brothers' own \"XXX World Tag Team Champions (15)\" against that ledger's own summary table, \"Most Times as Champions: Flash Brothers, 15 times,\" and their \"XXX 2nd Tag Team Champions (2)\" against both of xxx-2nd-tag-team-title.html's own Flash reigns. The independent XXX's own championship record, if it kept one, therefore leaves no trace anywhere in the surviving record — a checked negative, not an unexamined gap."
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Decorated-aka substring collision only: the team's own billed surname, \"Flash\" (Don and Jerry Flash), matches a generic ring name four unrelated single characters across other promotions also carry. No receipt joins any of them; every collision is cross-promotion. Filed per the no-auto-merge-and-no-silent-distinctness rule.",
+        "with": [
+          "euwc-flash",
+          "flash",
+          "flash-cswa",
+          "flash-xuw"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cwfpro-heavy-metal-luscious-larry-and-delicious-doug-stone",
+    "type": "unit",
+    "name": "Heavy Metal",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Luscious Larry"
+      },
+      {
+        "name": "Delicious Doug Stone"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-the-royals-king-hector-ju-rez-and-king-manuel-ju-rez",
+    "type": "unit",
+    "name": "the Royals",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "King Hector Juárez"
+      },
+      {
+        "name": "King Manuel Juárez"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-the-cwf-pro-lawyers-eddie-steve-todd-ronny-and-donny",
+    "type": "unit",
+    "name": "the CWF-Pro Lawyers",
+    "unit_kind": "trio",
+    "members": [
+      {
+        "name": "Eddie"
+      },
+      {
+        "name": "Steve"
+      },
+      {
+        "name": "Todd"
+      },
+      {
+        "name": "Ronny"
+      },
+      {
+        "name": "Donny"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro trio, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-the-moonlight-express",
+    "type": "unit",
+    "name": "the moonlight express",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Same CWF-Pro tag-team name, fed's own \"#2\" numbered suffix on the second row — read as two distinct rosters/eras under the same recurring team name (the fed's own convention, not a data-entry duplicate), per registry_convention: same name, different row, no shared members[] on either (both membership_unknown). No receipt joins the two rosters as one continuous team; kept separate per the no-auto-merge-and-no-silent-distinctness rule. Revisit if a primary document ever surfaces naming both rosters' own members.",
+        "with": [
+          "cwfpro-the-moonlight-express-2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cwfpro-the-moonlight-express-2",
+    "type": "unit",
+    "name": "the moonlight express #2",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Same CWF-Pro tag-team name, this row carrying the fed's own \"#2\" numbered suffix — read as a second, distinct roster/era under the same recurring team name (the fed's own convention, not a data-entry duplicate); no shared members[] on either row (both membership_unknown), no receipt joining them as one continuous team. Filed per the no-auto-merge-and-no-silent-distinctness rule. Revisit if a primary document ever surfaces naming both rosters' own members.",
+        "with": [
+          "cwfpro-the-moonlight-express"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cwfpro-icp-violent-j-and-neckcutter",
+    "type": "unit",
+    "name": "icp",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "violent j"
+      },
+      {
+        "name": "neckcutter"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-players-image-todd-and-steve-white",
+    "type": "unit",
+    "name": "Players Image",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Todd"
+      },
+      {
+        "name": "Steve White"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-power-and-pain-epitaph-and-assassin",
+    "type": "unit",
+    "name": "Power & Pain",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Epitaph"
+      },
+      {
+        "name": "Assassin"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-referees-ervin-coleman-stanly-heck-and-nick-omar",
+    "type": "unit",
+    "name": "Referees",
+    "unit_kind": "trio",
+    "members": [
+      {
+        "name": "Ervin Coleman"
+      },
+      {
+        "name": "Stanly Heck"
+      },
+      {
+        "name": "Nick Omar"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "referee"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro trio, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-unstoppables-jimmy-dexter-and-bobby-jamison",
+    "type": "unit",
+    "name": "Unstoppables",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Jimmy Dexter"
+      },
+      {
+        "name": "Bobby Jamison"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-vip-william-and-steve",
+    "type": "unit",
+    "name": "VIP",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "William"
+      },
+      {
+        "name": "Steve"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-x-raided-xanadu-and-udanax",
+    "type": "unit",
+    "name": "X-Raided",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Xanadu"
+      },
+      {
+        "name": "Udanax"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ],
+    "caption": "A CWF-Pro tag team, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-angel-and-spike",
+    "type": "unit",
+    "name": "angel & spike",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "David Angel"
+      },
+      {
+        "name": "Willy Spike"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ],
+        "hometown": "England",
+        "finisher": "Double Superplex",
+        "height": "(spike) 6' 7\"",
+        "weight": "(spike) 210",
+        "first_seen": "1999",
+        "entrance_music": {
+          "verbatim": "\"Angel Theme\""
+        },
+        "source": "the fed's own served bio page",
+        "grade": "primary-source"
+      }
+    ],
+    "caption": "A CWF-Pro roster wrestler, wrestling out of England, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-bigman-and-cat",
+    "type": "unit",
+    "name": "Bigman & Cat",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Bigman"
+      },
+      {
+        "name": "Cat"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ],
+        "hometown": "Las Vegas, NV",
+        "finisher": "Powerbomb(bigman) & Legdrop off top(cat)",
+        "height": "(cat) 5' 4\"",
+        "weight": "(cat) 144",
+        "entrance_music": {
+          "verbatim": "\"Bigman & Cat Theme\""
+        },
+        "source": "the fed's own served bio page",
+        "grade": "primary-source"
+      }
+    ],
+    "caption": "A one-time CWF-Pro World Tag Team Champions and a Hall of Fame inductee, per CWF-Pro's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-death-and-destruction",
+    "type": "unit",
+    "name": "death & destruction",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Death"
+      },
+      {
+        "name": "Destruction"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ],
+        "weight": "(des) Unknown",
+        "entrance_music": {
+          "verbatim": "\"death & destruction Theme\""
+        },
+        "source": "the fed's own served bio page",
+        "grade": "primary-source"
+      }
+    ],
+    "caption": "A three-time UCWF World Tag Team Champions, per CWF-Pro's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-the-hot-guys-barney-and-pk",
+    "type": "unit",
+    "name": "the Hot Guys: Barney & PK",
+    "aka": [
+      "Hot Guys"
+    ],
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Barney Ballston"
+      },
+      {
+        "name": "Paul Kyle Young"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ],
+        "hometown": "Nashville, TN",
+        "finisher": "Hot Love Hug (double bear hug)",
+        "height": "(PK) 6' 2\"",
+        "weight": "(PK) 150",
+        "entrance_music": {
+          "verbatim": "\"It's raining men\" Weather Girls",
+          "corrected": "\"It's Raining Men\" by The Weather Girls"
+        },
+        "source": "the fed's own served bio page",
+        "grade": "primary-source"
+      }
+    ],
+    "caption": "A one-time BCW World Tag Team Champions, holding 5 other CWF-Pro-era titles besides, per CWF-Pro's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-the-insyders",
+    "type": "unit",
+    "name": "the Insyders",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Scott Nash"
+      },
+      {
+        "name": "Kevin Hall"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ],
+        "hometown": "Eastpoint, NV",
+        "finisher": "840 (double powerbomb)",
+        "height": "(scott) 6' 8\"",
+        "weight": "(scott) 201",
+        "first_seen": "1996",
+        "entrance_music": {
+          "verbatim": "\"I'm Ok, you OK?\" MXPX",
+          "corrected": "\"I'm OK, You're OK\" by MXPX"
+        },
+        "source": "the fed's own served bio page",
+        "grade": "primary-source"
+      },
+      {
+        "promotion": "csw",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "the acquiring CWF-Pro's own served wrestler-bio pages and CSW title-history ledgers (promotions/cwfpro/archive/, accession 0090) — cross-referenced, not re-served",
+        "grade": "primary-source",
+        "note": "Own bio's own CSW section, in full: \"Started out as a tag team for the UBH after Sanchez had the TGS beatin out of the gang. The Insyders came in as a mock on the Outsiders in WCW. They only lasted 1 month in the CSW and the efed closed down in early 1997.\" Their own Earlier Career line agrees: \"The Insyders started out in the CSW as rookies.\" Their own card's CSW-branded title credits (\"CSW World Tag Team Champions\"; Scott's own \"CSW National Champion\") are the POST-acquisition CWF-Pro-era reigns on the same two belts — csw-world-tag-team-title.html's own reign 10 and csw-national-title.html's own reign 15 — and are recorded on the cwfpro side, not here; this tenure is the one-month independent-era run their own prose describes, with no title attached."
+      }
+    ],
+    "caption": "A one-time CSW World Tag Team Champions, holding 21 other CWF-Pro-era titles besides and a Hall of Fame inductee, per CWF-Pro's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-katie-ass-and-rachel-boobs",
+    "type": "unit",
+    "name": "Katie Ass & Rachel Boobs",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Katie Cronk"
+      },
+      {
+        "name": "Rachel Henderson"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ],
+        "hometown": "Hollywood, CA",
+        "finisher": "Double 69 Tombstone",
+        "height": "(Rachel) 4' 1\"",
+        "weight": "(jimmy) 108",
+        "entrance_music": {
+          "verbatim": "\"Katie Theme\""
+        },
+        "source": "the fed's own served bio page",
+        "grade": "primary-source"
+      }
+    ],
+    "caption": "A one-time WWW World Tag Team Champions, per CWF-Pro's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-the-money-men",
+    "type": "unit",
+    "name": "the money men",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Ted Jones"
+      },
+      {
+        "name": "Jerry Money"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ],
+        "hometown": "New York City, NY",
+        "finisher": "Money Closeline (hart closeline)",
+        "height": "(jerry) 6' 5\"",
+        "weight": "(jerry) 200",
+        "entrance_music": {
+          "verbatim": "\"Money Men Theme\""
+        },
+        "source": "the fed's own served bio page",
+        "grade": "primary-source"
+      },
+      {
+        "promotion": "csw",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997",
+        "source": "the fed's own served bio page and title-history ledgers (cross-referenced from the already-served cwfpro archive)",
+        "grade": "primary-source",
+        "note": "Own bio's own Earlier Career line: \"the money men came into the CSW as rookies in 1997.\""
+      }
+    ],
+    "caption": "A one-time CSW Tag Team Champions, holding 12 other CWF-Pro-era titles besides and a Hall of Fame inductee, per CWF-Pro's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-old-skool-funk-and-gladiator",
+    "type": "unit",
+    "name": "Old Skool Funk & Gladiator",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Will James"
+      },
+      {
+        "name": "Tony Young"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ],
+        "hometown": "the Streets of LA",
+        "finisher": "the beat down (they just keep kicking you)",
+        "height": "(glad) 6' 7\"",
+        "weight": "(glad) 211",
+        "entrance_music": {
+          "verbatim": "\"Fuck Theme\""
+        },
+        "source": "the fed's own served bio page",
+        "grade": "primary-source"
+      }
+    ],
+    "caption": "A CWF-Pro roster wrestler, wrestling out of the Streets of LA, per the fed's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  },
+  {
+    "id": "cwfpro-sex-and-violence",
+    "type": "unit",
+    "name": "Sex & Violence",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Carmen Moore"
+      },
+      {
+        "name": "Jenna Moore"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "cwfpro",
+        "roles": [
+          "wrestler"
+        ],
+        "hometown": "Vegas",
+        "finisher": "Kiss of Death (a kiss followed by a double ddt)",
+        "height": "4' 2\" (both)",
+        "weight": "110 (both)",
+        "entrance_music": {
+          "verbatim": "\"Sex & Violence Theme\""
+        },
+        "source": "the fed's own served bio page",
+        "grade": "primary-source"
+      }
+    ],
+    "caption": "A five-time NWA Womens World Tag Team Champions, per CWF-Pro's own served bio page.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    }
+  }
+]

@@ -1,0 +1,538 @@
+[
+ {
+  "id": "osw-cruiserweight-r1",
+  "title": "osw-cruiserweight",
+  "label": "Corg",
+  "holder": [
+   {
+    "id": "corg"
+   }
+  ],
+  "won": {
+   "date": "2002-06-23",
+   "precision": "exact",
+   "source": "promotions/osw/archive/cruiserweight-tournament-final-2002.html (served, primary source)"
+  },
+  "days": 118,
+  "lost": {
+   "date": "2002-10-19",
+   "precision": "exact",
+   "source": "The fed's own title history, wrestling site capture of 21 July 2003 (/promotions/osw/archive/ose-title-history-wrestling-site-july-2003-2003-07-21.html): \"October 19, 2002, Saturday Night Slam, Kid Wonder d. Corg (c) to win the Cruiserweight Title.\""
+  },
+  "event": "osw-cruiserweight-final-2002",
+  "how": "Won a tournament final over Amy \"Aimz\" Campbell at Ascension, crowned the first-ever OSW Cruiserweight Champion, after a two-round elimination bracket (beating Lillith in Round One, Aimz beating GV in the other semifinal).",
+  "note": "First-ever Cruiserweight Champion, per the match's own text (\"WINNER, AND NEW OSW CRUISERWEIGHT CHAMPION\").",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "osw-cruiserweight-r2",
+  "title": "osw-cruiserweight",
+  "label": "Kid Wonder",
+  "holder": [
+   {
+    "id": "kid-wonder"
+   }
+  ],
+  "won": {
+   "date": "2002-10-19",
+   "precision": "exact",
+   "source": "The fed's own title history, wrestling site capture of 21 July 2003 (/promotions/osw/archive/ose-title-history-wrestling-site-july-2003-2003-07-21.html): \"October 19, 2002, Saturday Night Slam, Kid Wonder d. Corg (c) to win the Cruiserweight Title.\" The commentator's line on the 9 Feb 2003 Slam! (/promotions/osw/archive/slam-2003-02-09.html), \"a belt he's held for close to four months\", fits it."
+  },
+  "days": 148,
+  "lost": {
+   "date": "2003-03-16",
+   "precision": "exact",
+   "source": "The fed's own title history, wrestling site capture of 21 July 2003 (/promotions/osw/archive/ose-title-history-wrestling-site-july-2003-2003-07-21.html): \"March 16, 2003, Crowning Glory 2 PPV, Tyler Nelson d. Kid Wonder (c) for Soy Boy Memorial Title.\""
+  },
+  "event": null,
+  "how": "Publicly dropped the belt live on the 9 Feb 2003 Slam! (promotions/osw/archive/slam-2003-02-09.html), then reclaimed it on the spot and unilaterally lifted its weight restriction — staged as defiance of PCW's Tyler Nelson, not a formal retirement. The actual win is not separately dated to a served show.",
+  "note": "Neither the 19 October 2002 Slam nor Crowning Glory 2 is served; the dates are the fed's own title history's. The belt passes to Tyler Nelson as the Soy Boy Memorial Title and continues as osw-united-states.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "osw-heavyweight-r1",
+  "days": 73,
+  "event": "osw-crowning-glory-2002",
+  "title": "osw-heavyweight",
+  "label": "Switchblade",
+  "holder": [
+   {
+    "id": "switchblade"
+   }
+  ],
+  "won": {
+   "date": "2002-03-10",
+   "precision": "exact",
+   "source": "Switchblade's own OSW roster.cgi bio card (\"OSW Title History: March 2002, OSW Heavyweight Title\"); the fed's own title history and its write-up of Crowning Glory date the win to 10 March 2002 and have him beating Timo Bolamba for the vacant title."
+  },
+  "lost": {
+   "date": "2002-05-22",
+   "precision": "exact",
+   "source": "The fed's write-up of Slam! 16 and the fed's own title history: Doug Troy beat him for the title."
+  },
+  "how": "Won the vacant title over Timo Bolamba at Crowning Glory, OSW's debut PPV, 10 Mar 2002; lost it to Doug Troy at Slam! 16, 22 May 2002.",
+  "note": "First OSW Heavyweight Champion. The roster bio card gave the month only (\"March 2002\"); the fed's own title history and write-up of Crowning Glory date it to 10 March 2002. Defences on record. Slam!, 23 March 2002: with Drew Hostyle and Frankie Bones against Timo Bolamba and Aimz, the champion's side lost by disqualification and he stayed champion. Slam!, 30 March 2002: a handicap match against two men billed as Timo Bolamba and Aimz, announced as a successful title defence. Slam!, 6 April 2002: against Tempest, who won by disqualification, so the title did not change. Head on Collision, 28 April 2002: beat Ivan Stanislav and was announced as still champion.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "osw-heavyweight-r-troy",
+  "title": "osw-heavyweight",
+  "label": "Doug Troy",
+  "holder": [
+   {
+    "id": "doug-troy"
+   }
+  ],
+  "won": {
+   "date": "2002-05-22",
+   "precision": "exact",
+   "source": "promotions/osw/archive/dt-vs-toomes-world-title.html (served, primary source)"
+  },
+  "days": 32,
+  "event": "osw-slam-16-2002",
+  "lost": {
+   "date": "2002-06-23",
+   "precision": "exact",
+   "source": "The fed's write-up of Ascension and the fed's own title history: Tom Walczak beat him for the title."
+  },
+  "how": "Won the OSW World Heavyweight Championship from Sebastian \"Switchblade\" Toomes, then Polish Powerbombed off the top rope through a table by Tom Walczak moments after winning it.",
+  "note": "Won the title from Switchblade and lost it a month later to Tom Walczak at Ascension, 23 June 2002, the fed's own title history and write-up of that card agreeing.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "osw-heavyweight-r-walczak",
+  "title": "osw-heavyweight",
+  "label": "Tom Walczak",
+  "holder": [
+   {
+    "id": "tom-walczak-pcw"
+   }
+  ],
+  "won": {
+   "date": "2002-06-23",
+   "precision": "exact",
+   "source": "The fed's write-up of Ascension and the fed's own title history: he beat Doug Troy for the title."
+  },
+  "days": 13,
+  "lost": {
+   "date": "2002-07-06",
+   "precision": "exact",
+   "source": "The fed's write-up of Slam! 23 and the fed's own title history: Rhett Locke beat him for the title."
+  },
+  "event": "osw-ascension-2002-06-23",
+  "end_how": "lost-in-match",
+  "note": "Won the title from Doug Troy at Ascension, 23 June 2002. A defence is on record. Slam! 22, 29 June 2002: beat Doug Troy and was announced as still champion."
+ },
+ {
+  "id": "osw-international-r1",
+  "days": 55,
+  "event": "osw-crowning-glory-2002",
+  "title": "osw-international",
+  "label": "Rhett Locke",
+  "holder": [
+   {
+    "id": "rhett-locke"
+   }
+  ],
+  "won": {
+   "date": "2002-03-10",
+   "precision": "exact",
+   "source": "Rhett Locke's own OSW roster.cgi bio card (\"OSW Title History: OSW International Champion\"); Drew Hostyle's own bio card carries no OSW title at all, corroborating Locke as the winner of the two. — now directly corroborated by the broadcast's own match fragment (osw-frag-i176, \"Omega\"), which serves the finish itself (Locke pins Hostyle for the win)."
+  },
+  "lost": {
+   "date": "2002-05-04",
+   "precision": "exact",
+   "source": "The fed's write-up of Slam! of 4 May 2002 and the fed's own title history: Propaganda beat him for the title."
+  },
+  "how": "Decided against Drew Hostyle at Crowning Glory, OSW's debut PPV.",
+  "note": "First OSW International Champion. Defences on record. Slam!, 23 March 2002: beat Tom Walczak and was announced as still International Champion. Head on Collision, 28 April 2002: against Corg; the two walked up the ramp with him retaining the title.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "osw-international-r2",
+  "days": 84,
+  "event": "osw-slam-14-2002-05-04",
+  "title": "osw-international",
+  "label": "Propaganda",
+  "holder": [
+   {
+    "id": "propaganda-osw"
+   }
+  ],
+  "won": {
+   "date": "2002-05-04",
+   "precision": "exact",
+   "source": "The fed's write-up of Slam! 14 and the fed's own title history: he beat Rhett Locke for the title."
+  },
+  "lost": {
+   "date": "2002-07-27",
+   "precision": "exact",
+   "source": "The fed's write-up of Slam! 26 and the fed's own title history: 'Angeldust' Nick Casey won a four-way match for the title over him."
+  },
+  "how": null,
+  "note": "Won the title from Rhett Locke at Slam! 14, 4 May 2002. Defences on record: the fed's write-ups have him defending the title on 22 June, 6 July and 20 July 2002. Lost the title to 'Angeldust' Nick Casey in a four-way match with Lilith and Vampir Nosferatu at Slam! 26, 27 July 2002.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "osw-international-r-casey",
+  "title": "osw-international",
+  "label": "'Angeldust' Nick Casey",
+  "holder": [
+   {
+    "id": "angeldust-nick-casey"
+   }
+  ],
+  "won": {
+   "date": "2002-07-27",
+   "precision": "exact",
+   "source": "The fed's write-up of Slam! 26 and the fed's own title history: he won a four-way match for the title."
+  },
+  "days": 42,
+  "lost": {
+   "date": "2002-09-07",
+   "precision": "exact",
+   "source": "The fed's own title history and its write-up of Slam! 32, whose Jane Says segment announces Frankie Bones as the new champion."
+  },
+  "event": "osw-slam-26-2002-07-27",
+  "end_how": "lost-in-match",
+  "conflict": "SOURCES DISAGREE: the fed's results archive index lists Tom Walczak and Rhett Locke as International champions on 6 and 20 July 2002 and has no Casey reign; the fed's own write-ups of those cards have Propaganda defending the International on 22 June, 6 July and 20 July, read the Walczak and Locke bouts as World Heavyweight title matches, and have Nick Casey win the title on 27 July. This history follows the write-ups.",
+  "note": "Won a four-way match over Propaganda, Lilith and Vampir Nosferatu at Slam! 26, 27 July 2002. A defence is on record. By Any Means Necessary, 1 September 2002: beat Propaganda and was announced as still International Champion."
+ },
+ {
+  "id": "osw-queen-of-extreme-r1",
+  "title": "osw-queen-of-extreme",
+  "label": "Lillith",
+  "holder": [
+   {
+    "id": "lillith"
+   }
+  ],
+  "won": {
+   "date": "2002-04-28",
+   "precision": "exact",
+   "source": "osw.primetimewrestling.net's own queen.shtml/queenresults.shtml (served, primary source)"
+  },
+  "days": null,
+  "event": "osw-qoe-finals-2002",
+  "lost": null,
+  "how": "Won a Japanese Death Match over Bethany Yamato at Head on Collision, crowned the first-ever Queen of Extreme, after leading a four-round, eight-entrant points tournament.",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "osw-world-tag-team-r1",
+  "days": 20,
+  "event": "osw-crowning-glory-2002",
+  "title": "osw-world-tag-team",
+  "label": "Civil Disobedience",
+  "holder": [
+   {
+    "id": "seth-masters"
+   },
+   {
+    "id": "trevor-hawke"
+   }
+  ],
+  "won": {
+   "date": "2002-03-10",
+   "precision": "exact",
+   "source": "Seth Masters's and Trevor Hawke's own OSW roster.cgi bio cards (\"OSW Tag Team Champions: March 10, 2002 to March 30, 2002\")"
+  },
+  "lost": {
+   "date": "2002-03-30",
+   "precision": "exact"
+  },
+  "how": "Won at Crowning Glory, OSW's debut PPV.",
+  "note": "OSW's own first Tag Team Champions.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "osw-world-tag-team-r-hb",
+  "title": "osw-world-tag-team",
+  "label": "Heresian Bloodlust",
+  "holder": [
+   {
+    "id": "hessian-pcw"
+   },
+   {
+    "id": "azrael-cain"
+   }
+  ],
+  "won": {
+   "date": "2002-03-30",
+   "precision": "exact",
+   "source": "promotions/osw/archive/osw-tag-title-change-slam9.html (served, primary source)"
+  },
+  "days": null,
+  "event": "osw-2002-03-30",
+  "lost": {
+   "date": "2002-06-23",
+   "precision": "exact"
+  },
+  "how": "Retained against Da Westsidaz (Riptah & Short Circuit) in a table match, 1 Jun 2002, and again (by no-contest) in a ladder-spot match, 22 Jun 2002, before losing the titles the following night.",
+  "note": "Won from Civil Disobedience the same night they lost (Slam 9), aided by an unexpected assist from the Red Army.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "osw-world-tag-team-r2",
+  "days": 27,
+  "event": "osw-cruiserweight-final-2002",
+  "title": "osw-world-tag-team",
+  "label": "Riptah & Short Circuit",
+  "holder": [
+   {
+    "id": "riptah"
+   },
+   {
+    "id": "short-circuit-osw"
+   }
+  ],
+  "won": {
+   "date": "2002-06-23",
+   "precision": "exact",
+   "source": "Riptah's and Short Circuit's own OSW roster.cgi bio cards (\"OSW Tag Team Champions June 23rd, 2002 - July 21st, 2002\")"
+  },
+  "lost": {
+   "date": "2002-07-20",
+   "precision": "exact",
+   "source": "The fed's write-up of Slam! of 20 July 2002 and the fed's own title history: the titles are taken from Da Westsidaz without a match."
+  },
+  "how": "Won from Heresian Bloodlust (Hessian & Azrael Cain) on 23 June 2002, the same date the pair's own preceding reign ends — closing the chain from Civil Disobedience through Heresian Bloodlust to here.",
+  "note": "No date connects this reign to Heaven & Hell's later one; that one gap remains. Won the same night as the Cruiserweight tournament final (Ascension, 23 Jun 2002) -- the served page for that date covers the Cruiserweight match, not this tag title win, which has no separate surviving document; linked per the reign-show-linkage convention since it is genuinely the same event. SOURCES DISAGREE: the roster bio cards for Riptah and Short Circuit end the reign on 21 July 2002 and call it a loss; the fed's write-up of Slam! of 20 July 2002 has Commissioner Howard Porter strip Da Westsidaz of the titles without a match, \"for failure to fulfill their obligations as champions\", and the fed's own title history ends the reign there. This history follows the write-up.",
+  "end_how": "stripped"
+ },
+ {
+  "id": "osw-world-tag-team-r-ewm",
+  "title": "osw-world-tag-team",
+  "label": "The Throwbacks",
+  "holder": [
+   {
+    "id": "the-throwbacks-osw"
+   }
+  ],
+  "won": {
+   "date": "2002-09",
+   "precision": "circa",
+   "source": "ewmuseum mirror of osw.ewmuseum.com/content.php?p=champions — a champions snapshot page sitting alongside a news timeline running through 11 Sep 2002, the latest dated item shown; read as circa that date"
+  },
+  "days": null,
+  "lost": null,
+  "event": null,
+  "how": null,
+  "note": "Champions per the ewmuseum champions snapshot — falls chronologically between Riptah & Short Circuit's summer 2002 reign and Heaven & Hell's early-2003 one; no date connects any of the three.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "osw-world-tag-team-r-cd2",
+  "title": "osw-world-tag-team",
+  "label": "Civil Disobedience",
+  "holder": [
+   {
+    "id": "seth-masters"
+   },
+   {
+    "id": "trevor-hawke"
+   }
+  ],
+  "won": {
+   "date": "2002-09-01",
+   "precision": "exact",
+   "source": "The fed's write-up of By Any Means Necessary and the fed's own title history: they won the tag team tournament final for the vacant titles over NC-17 and PHD/Mammoth."
+  },
+  "days": null,
+  "lost": null,
+  "event": "osw-by-any-means-necessary-2002-09-01",
+  "end_how": "still-champion-at-record-end",
+  "conflict": "SOURCES DISAGREE: the fed's results end on 7 September 2002 with Civil Disobedience announced as the champions and their own roster bio cards reading \"to Present Day\"; the champions snapshot behind The Throwbacks' reign (osw-world-tag-team-r-ewm) lists The Throwbacks, whose own bio card carries no tag title, and no write-up shows them winning a title match. Both are kept; held for the ruling listed in LEADS (throwbacks).",
+  "note": "Second reign: they were the first champions (10 March 2002). Won the final of the tournament for the vacant titles, which Commissioner Howard Porter set up on 20 July 2002 when he stripped Da Westsidaz. On 7 September 2002, at Slam! 32, a match billed as non-title had them announced as the new champions before they won it."
+ },
+ {
+  "id": "osw-heavyweight-r-locke",
+  "title": "osw-heavyweight",
+  "label": "Rhett Locke",
+  "holder": [
+   {
+    "id": "rhett-locke"
+   }
+  ],
+  "won": {
+   "date": "2002-07-06",
+   "precision": "exact",
+   "source": "The fed's write-up of Slam! 23 and the fed's own title history: he beat Tom Walczak for the title."
+  },
+  "days": 63,
+  "lost": {
+   "date": "2002-09-07",
+   "precision": "exact",
+   "source": "The fed's own title history and its write-up of Slam! 32, whose Jane Says segment announces Howard Porter as the winner."
+  },
+  "event": "osw-slam-23-2002-07-06",
+  "end_how": "lost-in-match",
+  "note": "Won the title from Tom Walczak at Slam! 23, 6 July 2002. Defences on record. Slam! 25, 20 July 2002: against Tom Walczak, who won by disqualification, so the title did not change. Slam! 28, 10 August 2002: against Sebastian Toomes, who lost by disqualification; he was announced as still champion. By Any Means Necessary, 1 September 2002: a triple threat with Sebastian Toomes and Howard Porter ended in a time limit draw, and he was announced as still champion."
+ },
+ {
+  "id": "osw-heavyweight-r2",
+  "title": "osw-heavyweight",
+  "label": "Howard Porter",
+  "holder": [
+   {
+    "id": "howard-porter-pcw"
+   }
+  ],
+  "won": {
+   "date": "2002-09-07",
+   "precision": "exact",
+   "source": "The fed's own title history and its write-up of Slam! 32, whose Jane Says segment announces Howard Porter as the winner."
+  },
+  "days": null,
+  "lost": null,
+  "event": "osw-slam-32-2002-09-07",
+  "how": null,
+  "note": "Held the title at the end of the surviving record; the fed's own title history has him taking it from Rhett Locke at Slam! 32, 7 September 2002, in the Jane Says segment. The champions snapshot that first listed him as champion is dated about 11 September 2002.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "osw-international-r-ewm",
+  "title": "osw-international",
+  "label": "Frankie Bones",
+  "holder": [
+   {
+    "id": "frankie-bones"
+   }
+  ],
+  "won": {
+   "date": "2002-09-07",
+   "precision": "exact",
+   "source": "The fed's own title history and its write-up of Slam! 32, whose Jane Says segment announces Frankie Bones as the new champion."
+  },
+  "days": null,
+  "lost": null,
+  "event": "osw-slam-32-2002-09-07",
+  "how": null,
+  "note": "Champion per the fed's own title history from Slam! 32, 7 September 2002, when Jane Says announced him as the new champion over 'Angeldust' Nick Casey; the champions snapshot lists him as champion about 11 September 2002.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "osw-world-tag-team-r3",
+  "days": null,
+  "title": "osw-world-tag-team",
+  "label": "Heaven & Hell",
+  "holder": [
+   {
+    "id": "hessian-pcw"
+   },
+   {
+    "id": "propaganda-osw"
+   }
+  ],
+  "won": {
+   "date": null,
+   "precision": "unknown",
+   "source": "promotions/osw/archive/slam-2003-02-09.html"
+  },
+  "lost": null,
+  "event": "osw-2003-02-09",
+  "how": "Champions as of 9 Feb 2003, when they retained against Politically Incorrect (PCW) in a Falls Count Anywhere match after an intervention by \"the Reverend\" Jon Hull.",
+  "note": "The reign's own start date is not recovered; still champions at the surviving record's own last word covering this belt.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "osw-united-states-r1",
+  "title": "osw-united-states",
+  "label": "Tyler Nelson",
+  "holder": [
+   {
+    "id": "tyler-nelson-pcw"
+   }
+  ],
+  "won": {
+   "date": "2003-03-16",
+   "precision": "exact",
+   "source": "The fed's own title history, wrestling site capture of 21 July 2003 (/promotions/osw/archive/ose-title-history-wrestling-site-july-2003-2003-07-21.html): \"March 16, 2003, Crowning Glory 2 PPV, Tyler Nelson d. Kid Wonder (c) for Soy Boy Memorial Title.\""
+  },
+  "days": 49,
+  "lost": {
+   "date": "2003-05-04",
+   "precision": "exact",
+   "source": "The fed's own title history, wrestling site capture of 21 July 2003 (/promotions/osw/archive/ose-title-history-wrestling-site-july-2003-2003-07-21.html): \"May 4, 2003, Sunday Night Slam, Nelson vacates the United States Title on order of Jane Reagan.\""
+  },
+  "event": null,
+  "how": "Won the Soy Boy Memorial Title from Kid Wonder at Crowning Glory 2 and renamed it the United States Title on Sunday Night Slam, 23 March 2003. On the 30 March 2003 Slam (osw-slam-2003-03-30) he is billed \"the United States Champion\" and keeps it over Scott Taylor, by cheating. Vacated it on order of Jane Reagan on 4 May 2003, a week after winning the World Heavyweight Title from Ivan Stanislav.",
+  "note": "Neither Crowning Glory 2 nor the 4 May 2003 Slam is served; the dates are the title history's. The 30 March card's own commentary says he \"just won the damn title\" and shows his \"newly fashioned United States title\".",
+  "end_how": "vacated"
+ },
+ {
+  "id": "osw-united-states-r2",
+  "title": "osw-united-states",
+  "label": "Politically Incorrect",
+  "holder": [
+   {
+    "id": "politically-incorrect"
+   }
+  ],
+  "won": {
+   "date": "2003-05-25",
+   "precision": "exact",
+   "source": "The fed's own title history, wrestling site capture of 21 July 2003 (/promotions/osw/archive/ose-title-history-wrestling-site-july-2003-2003-07-21.html): \"May 25, 2003, Sunday Night Slam, Politically Incorrect (William S. Powell and Reginald V. Lovecraft) win the Chaos In The Cage Match and are declared co-holders of the United States Champiobship.\""
+  },
+  "days": 35,
+  "lost": {
+   "date": "2003-06-29",
+   "precision": "exact"
+  },
+  "event": null,
+  "how": "Declared co-holders after the Chaos In The Cage match: Powell and Lovecraft, who interfered in the match, made a simultaneous pin on D-Kay Calyx, and because the only rule was that the first pin or submission won, both were named co-titleholders. The fed's lawyers found no proof the match contract was violated (U.S. Title Follow-up, 27 May 2003), so the pair were allowed to defend the belt as a tag team. On 28 May 2003 they handed the belt to OSW officials, refusing to carry a title with the American flag on it, said two new belts were being made, and promised to reveal them on Slam at a first defence against Asa Fountain; no served card shows that defence. Lost it to Azala Zameer at Ascension (osw-ascension-2003-06-29), where they are billed \"the OSW American Champions\".",
+  "note": "The 25 May 2003 Slam is not served; the date is the title history's, which the 19 May news post (\"Chaos In The Cage to determine the new United States Champion\") and the 27 May post (\"over the past 36 hours\") fit. Lovecraft's card of 24 May 2003 still reads \"None in OSW\" for titles; the team card of 20 June 2003 reads \"OSW United States Champions\".",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "osw-united-states-r3",
+  "title": "osw-united-states",
+  "label": "Azala Zameer",
+  "holder": [
+   {
+    "id": "azala-zameer-prime"
+   }
+  ],
+  "won": {
+   "date": "2003-06-29",
+   "precision": "exact",
+   "source": "Ascension 2003's own text (/promotions/osw/archive/ascension-2003-06-29.html): \"Your winner of the match, and NEW OLD SCHOOL WRESTLING AMERICAN CHAMPION...AZALA ZAMEER!\""
+  },
+  "days": 56,
+  "lost": null,
+  "end": {
+   "date": "2003-08-24",
+   "precision": "exact",
+   "source": "Ivan Stanislav's roster card of 13 November 2003 (/promotions/osw/archive/ivan-stanislav-roster-card-november-2003-2003-11-13.html): \"OSW American Champion 8-24-03 - 9-14-03\""
+  },
+  "event": "osw-ascension-2003-06-29",
+  "how": "Won the Contract versus Contract match for the OSW American Championship at Ascension: he drove Lovecraft into the corner with the Spear of Zameer, then pinned Powell after the Ivory Stampede; his own OSW contract was on the line against Lt. Mandela's. His roster card of 8 September 2003 lists \"OSE American Championship\" under Title History.",
+  "note": "The end of the reign rests on Ivan Stanislav's card alone: no served show or news post carries the change on 24 August 2003 (the 21 August Overtime card does not mention the belt)."
+ },
+ {
+  "id": "osw-united-states-r4",
+  "title": "osw-united-states",
+  "label": "Ivan Stanislav",
+  "holder": [
+   {
+    "id": "ivan-stanislav-pcw"
+   }
+  ],
+  "won": {
+   "date": "2003-08-24",
+   "precision": "exact",
+   "source": "Ivan Stanislav's roster card of 13 November 2003 (/promotions/osw/archive/ivan-stanislav-roster-card-november-2003-2003-11-13.html): \"OSW American Champion 8-24-03 - 9-14-03\""
+  },
+  "days": 21,
+  "lost": null,
+  "end": {
+   "date": "2003-09-14",
+   "precision": "exact",
+   "source": "Ivan Stanislav's roster card of 13 November 2003 (/promotions/osw/archive/ivan-stanislav-roster-card-november-2003-2003-11-13.html): \"OSW American Champion 8-24-03 - 9-14-03\""
+  },
+  "event": null,
+  "how": "Held the American Championship from 24 August to 14 September 2003 by his own roster card's Title History line.",
+  "note": "No served show or news post carries the win or the loss, and no served page says who took the belt from him or whether it was vacated. The fed's news post of 28 October 2003 still lists the American Title among its three top-contender lists, so the lineage did not end here."
+ }
+]

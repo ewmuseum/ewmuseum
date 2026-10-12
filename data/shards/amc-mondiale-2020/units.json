@@ -1,0 +1,43 @@
+[
+ {
+  "id": "lg-cie-amc-mondiale-2020",
+  "type": "unit",
+  "name": "LG Cie",
+  "tenures": [
+   {
+    "promotion": "amc-mondiale-2020",
+    "first_seen": "2020-06-09",
+    "last_seen": "2020-07-09",
+    "grade": "primary-source",
+    "role": "tag team",
+    "source": "promotions/amc-mondiale-2020/archive/lucas-deluc-et-gabin-sesca-2020-06-09.html; promotions/amc-mondiale-2020/archive/hard-times-2020-07-09.html",
+    "note": "Billed on its sheet \"Lucas Deluc / Gabin Sesca\"; the Hard Times report has \"LG Cie\" lose a handicap match to Brutal Mondo."
+   }
+  ],
+  "caption": "A French tag team of Lucas Deluc and Gabin Sesca, whose double lariat is the Grand Carrefour, beaten by Brutal Mondo in a handicap match at Hard Times.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Lucas Deluc",
+    "character_id": "lucas-deluc-amc-mondiale-2020"
+   },
+   {
+    "name": "Gabin Sesca",
+    "character_id": "gabin-sesca-amc-mondiale-2020"
+   }
+  ]
+ }
+]

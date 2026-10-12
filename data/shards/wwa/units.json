@@ -1,0 +1,2876 @@
+[
+ {
+  "aka": [
+   "Commandants Own"
+  ],
+  "caption": "Sgt. Matthew Payne and Major Roland Havok's military-gimmicked pairing, the Commandant's Own held the WWA World Tag Team Championship three times before being storyline-pulled from the promotion by their own doctors.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 30,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "commandants-own-wwa",
+  "members": [
+   {
+    "character_id": "sgt-matthew-payne",
+    "name": "Sgt. Matthew Payne"
+   },
+   {
+    "character_id": "major-roland-havok",
+    "name": "Major Roland Havok"
+   }
+  ],
+  "name": "The Commandant's Own",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1999",
+    "promotion": "wwa",
+    "role": "tag team — three-time WWA World Tag Team Champions, billed as decorated military men, before a storyline pull from the promotion by their own military doctors"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Shaman, Tracer Bullet, and Denrol's own three-man alliance, the Franchise Players held the WWA World Tag Team Championship twice, first through Tracer Bullet and Denrol in 2003 and again as a trio in 2006.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 0,
+    "awards": 0,
+    "reigns": 2,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-19"
+  },
+  "id": "franchise-players-wwa",
+  "members": [
+   {
+    "character_id": "shaman-wwa",
+    "name": "Shaman"
+   },
+   {
+    "character_id": "tracer-bullet",
+    "name": "Tracer Bullet"
+   },
+   {
+    "character_id": "denrol",
+    "name": "Denrol"
+   }
+  ],
+  "name": "The Franchise Players",
+  "tenures": [
+   {
+    "first_seen": "2003",
+    "last_seen": "2006",
+    "promotion": "wwa",
+    "role": "stable — two-time WWA World Tag Team Champions (Tracer Bullet and Denrol held the belts in the trio's first reign)"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "trio"
+ },
+ {
+  "caption": "Mount Olympus's Phobos and Deimos, Havoc held the WWA World Tag Team Championship six times, more than any other team, and were the titles' last champions when they retired in 2008.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 6,
+    "appearances": 18,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "havoc-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "user-attested",
+    "note": "Not the IWF's own \"Havoc\" (havoc-iwf), a 1998 manager character — this is WWA's Phobos-and-Deimos tag team, unrelated.",
+    "with": []
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "havok-wwa"
+    ],
+    "note": "Shares a normalized label with havok-wwa (spelled “Havok”), a member of the unrelated heel stable Anarchy alongside Chaos and Raiden (1998) — an entirely different roster and spelling from this unit's own Phobos-and-Deimos tag team (2002-2008). No document connects them; a spelling coincidence, not a duplicate."
+   }
+  ],
+  "members": [
+   {
+    "character_id": "phobos",
+    "name": "Phobos"
+   },
+   {
+    "character_id": "deimos",
+    "name": "Deimos"
+   }
+  ],
+  "name": "Havoc",
+  "tenures": [
+   {
+    "first_seen": "2002",
+    "last_seen": "2008",
+    "promotion": "wwa",
+    "role": "tag team — six-time WWA World Tag Team Champions, the title's final holders"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Agony and Desolation's own pairing, the Pain Syndicate held the WWA World Tag Team Championship twice in 2004.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 0,
+    "awards": 0,
+    "reigns": 2,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-19"
+  },
+  "id": "pain-syndicate-wwa",
+  "members": [
+   {
+    "character_id": "agony-wwa",
+    "name": "Agony"
+   },
+   {
+    "character_id": "desolation-wwa",
+    "name": "Desolation"
+   }
+  ],
+  "name": "The Pain Syndicate",
+  "tenures": [
+   {
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "promotion": "wwa",
+    "role": "tag team — two-time WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Lockdown and Leviathan's own pairing, the Cell held the WWA World Tag Team Championship for six weeks in early 2003 before X-Corp took the belts in a Hell in a Cell match.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-cell-wwa",
+  "members": [
+   {
+    "character_id": "lockdown-wwa",
+    "name": "Lockdown"
+   },
+   {
+    "character_id": "leviathan-wwa",
+    "name": "Leviathan"
+   },
+   {
+    "character_id": "antonio-cruz-wwa",
+    "name": "Antonio Cruz"
+   }
+  ],
+  "name": "The Cell",
+  "tenures": [
+   {
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "promotion": "wwa",
+    "role": "tag team — WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "aka": [
+   "Veteranz"
+  ],
+  "caption": "Johnny Shrapnel and Trapper's own pairing, the Veteranz held the WWA World Tag Team Championship a promotion-record four times between 2001 and 2002.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 4,
+    "appearances": 10,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-veteranz-wwa",
+  "members": [
+   {
+    "character_id": "johnny-shrapnel",
+    "name": "Johnny Shrapnel"
+   },
+   {
+    "character_id": "trapper-wwa",
+    "name": "Trapper"
+   }
+  ],
+  "name": "The Veteranz",
+  "tenures": [
+   {
+    "first_seen": "2001",
+    "last_seen": "2002",
+    "promotion": "wwa",
+    "role": "tag team — a promotion-record four-time WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "aka": [
+   "Weapons of Mass Destruction"
+  ],
+  "caption": "Also billed as the Weapons of Mass Destruction, Vain & Vicious held the WWA World Tag Team Championship twice, in 2004–05 and again in 2008.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 0,
+    "awards": 0,
+    "reigns": 2,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-19"
+  },
+  "id": "vain-and-vicious-wwa",
+  "members": [
+   {
+    "character_id": "vain-wwa",
+    "name": "Vain"
+   },
+   {
+    "character_id": "vicious-wwa",
+    "name": "Vicious"
+   }
+  ],
+  "name": "Vain & Vicious",
+  "tenures": [
+   {
+    "first_seen": "2004",
+    "last_seen": "2008",
+    "promotion": "wwa",
+    "role": "tag team — two-time WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "aka": [
+   "Extreme Corporation"
+  ],
+  "caption": "Dave Harley and Mal Somers's pairing, billed as the Extreme Corporation and later as X-Corp, held the WWA World Tag Team Championship in the spring of 2003.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "x-corp-wwa",
+  "members": [
+   {
+    "character_id": "dave-harley",
+    "name": "Dave Harley"
+   },
+   {
+    "character_id": "mal-somers",
+    "name": "Mal Somers"
+   }
+  ],
+  "name": "X-Corp",
+  "tenures": [
+   {
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "promotion": "wwa",
+    "role": "tag team — WWA World Tag Team Champions, billed as the Extreme Corporation"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Bondo and Bruce Kinto's tag team, Bionica contested the WWA World Tag Team Championship against the Devil Dogs on Meltdown, August 2004.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "bionica-wwa",
+  "members": [
+   {
+    "character_id": "bondo-wwa",
+    "name": "Bondo"
+   },
+   {
+    "character_id": "kinto-wwa",
+    "name": "Bruce Kinto"
+   }
+  ],
+  "name": "Bionica",
+  "tenures": [
+   {
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Adam Tangle and William Johnson's Marine-themed tag team, the Devil Dogs contested the WWA World Tag Team Championship against Bionica on Meltdown, August 2004.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "devil-dogs-wwa",
+  "members": [
+   {
+    "character_id": "adam-tangle-wwa",
+    "name": "Adam Tangle"
+   },
+   {
+    "character_id": "william-johnson-wwa",
+    "name": "William Johnson"
+   }
+  ],
+  "name": "The Devil Dogs",
+  "tenures": [
+   {
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "promotion": "wwa",
+    "role": "tag team — Marine-themed"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Pyro and Komodo Dragon's debuting tag team, Kaos partnered SurReal against the All American Team in a WWA handicap match, August 2004.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "kaos-wwa",
+  "members": [
+   {
+    "character_id": "pyro-wwa",
+    "name": "Pyro"
+   },
+   {
+    "character_id": "komodo-dragon-dwo",
+    "name": "Komodo Dragon"
+   }
+  ],
+  "name": "Kaos",
+  "tenures": [
+   {
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "promotion": "wwa",
+    "role": "tag team — debuting, mentored by SurReal"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Chuck and Mac's tag team under Coach Payne, the All American Team fought Kaos and SurReal in a WWA handicap match, August 2004.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 0,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-21"
+  },
+  "id": "all-american-team-wwa",
+  "members": [
+   {
+    "character_id": "chuck-aat-wwa",
+    "name": "Chuck"
+   },
+   {
+    "character_id": "mac-aat-wwa",
+    "name": "Mac"
+   }
+  ],
+  "name": "The All American Team",
+  "tenures": [
+   {
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "promotion": "wwa",
+    "role": "tag team — managed by Coach Payne"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Legion, Kharon, and Proteus's Kindred won the WWA World Tag Team Championship in the title's first-ever Bourbon Street Brawl defense in 2006, then beat Mal Somers and the debuting Doom Crew in a 2-on-3 handicap main event that June — a referee-baffling trio, indistinguishable from each other on sight.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 4,
+    "awards": 0,
+    "reigns": 1,
+    "relationships": 0,
+    "rps": 3,
+    "tenures": 1
+   },
+   "written": "2026-08-21"
+  },
+  "id": "kindred-wwa",
+  "members": [
+   {
+    "character_id": "legion-wwa",
+    "name": "Legion"
+   },
+   {
+    "character_id": "kharon-wwa",
+    "name": "Kharon"
+   },
+   {
+    "character_id": "proteus-wwa",
+    "name": "Proteus"
+   }
+  ],
+  "name": "Kindred",
+  "notes": "Previously filed as a solo `character` on a bare title-ledger holder name; wwa-2006-06-12's own served text names both members, Legion and Kharon, wrestling in tandem — converted to a `unit` the same pass, same id, no reign/appearance/rp reference needed repointing. wwa-2006-04-24's own served text (chronologically earlier than the 06-12 show that first prompted this unit's own conversion) establishes a THIRD interchangeable member, Proteus — the referee cannot tell any of the three apart on sight, a plot point the served text makes explicit; members[] updated to all three.",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "last_seen": "?",
+    "promotion": "wwa",
+    "role": "tag team — WWA World Tag Team Champion",
+    "source": "WWA's own title-history ledger (titles.php) — no dedicated bio page survives for this team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Nathan \"Kodiak\" Bedford and Robert \"Bull\" Lee, the Doom Crew debuted backing Mal Somers in a losing 2-on-3 handicap main event against Kindred on WWA's Fiesta, June 2006.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 0,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-21"
+  },
+  "id": "doom-crew-wwa",
+  "members": [
+   {
+    "character_id": "nathan-bedford-wwa",
+    "name": "Nathan Bedford"
+   },
+   {
+    "character_id": "robert-lee-wwa",
+    "name": "Robert Lee"
+   }
+  ],
+  "name": "The Doom Crew",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2006",
+    "last_seen": "?",
+    "promotion": "wwa",
+    "role": "tag team — debuting allies of Mal Somers",
+    "source": "wwa-2006-06-12 (Fiesta), the served show's own text"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Managed by Reverend Billy Blaze, the Disciples of Blaze — Jarome Caro and Masked Messiah — won their WWA in-ring debut over the Devil Dogs on Meltdown, January 2006.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 0,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-21"
+  },
+  "id": "disciples-of-blaze-wwa",
+  "members": [
+   {
+    "character_id": "jarome-caro-wwa",
+    "name": "Jarome Caro"
+   },
+   {
+    "character_id": "masked-messiah-wwa",
+    "name": "Masked Messiah"
+   }
+  ],
+  "name": "The Disciples of Blaze",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2006",
+    "last_seen": "?",
+    "promotion": "wwa",
+    "role": "tag team — a preacher-gimmicked debuting team managed by Reverend Billy Blaze",
+    "source": "wwa-2006-01-09 (Meltdown), the served show's own text"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "The League of Goodness, out of the \"Fortress of Goodness,\" contested the WWA's number-one tag contendership against Kaos, November 2004.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-21"
+  },
+  "id": "league-of-goodness-wwa",
+  "members": [
+   {
+    "character_id": "great-animated-hero-wwa",
+    "name": "The Great Animated Hero"
+   },
+   {
+    "character_id": "stereotypical-anime-sidekick-wwa",
+    "name": "Stereotypical Anime Sidekick"
+   }
+  ],
+  "name": "League of Goodness",
+  "notes": "Accompanied to the ring by a valet billed \"the Gorgeous Anime Goddess\" — no dialogue, no wrestling role, per this show's own text.",
+  "tenures": [
+   {
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Mal Somers and Tommy Starr's tag team, SomerStarr, held the WWA World Tag Team Championship against Havoc's own challenge on Day of the Dead, 2005.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-21"
+  },
+  "id": "somerstarr-wwa",
+  "members": [
+   {
+    "character_id": "mal-somers",
+    "name": "Mal Somers"
+   },
+   {
+    "character_id": "tommy-starr",
+    "name": "Tommy Starr"
+   }
+  ],
+  "name": "SomerStarr",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "promotion": "wwa",
+    "role": "tag team — WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "TNT and Dynamite's tag team, the Detonators, ran in on the WWA Tag Team Championship match between SomerStarr and Havoc as the division's own number-one contenders, late 2005.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-21"
+  },
+  "id": "the-detonators-wwa",
+  "members": [
+   {
+    "character_id": "tnt-wwa",
+    "name": "TNT"
+   },
+   {
+    "character_id": "dynamite-wwa",
+    "name": "Dynamite"
+   }
+  ],
+  "name": "The Detonators",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "promotion": "wwa",
+    "role": "tag team — number-one contenders"
+   },
+   {
+    "promotion": "awc-2005",
+    "first_seen": "2006-05-09",
+    "last_seen": "2006-05-09",
+    "source": "AWC's own database (lot 0159), bio 12267",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (1 show, every kind of appearance counted). Joined to this record on the card's own evidence: The AWC card's Other Feds reads WWA, and 3582 (9 May 2006) introduces 'former WWA World Tag Team Champions - Dynamite and TNT - The Detonators!'. This record is the WWA tag team of Dynamite and TNT (WWA, 2005); both members are AWC bios (12269, 12434) joined to their WWA records. The WWA and PRIME records of the team are now one record.",
+    "entrance_music": {
+     "verbatim": "'Big Bang' by Bad Religion",
+     "title": "Big Bang",
+     "artist": "Bad Religion"
+    }
+   },
+   {
+    "promotion": "prime-2003",
+    "first_seen": "2007-05-16",
+    "last_seen": "2007-05-16",
+    "source": "PRIME's own backstage database (lot 0159)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "style": "Old School Heels; Smooth Teamwork; Cheats",
+    "finisher": "Instruments of Destruction (I.O.D.)",
+    "manager": "Jim Surge",
+    "entrance_music": {
+     "verbatim": "\"Big Bang\" by Bad Religion",
+     "title": "Big Bang",
+     "artist": "Bad Religion"
+    }
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's biography card (accession 0159), bio 12267, is this record: The AWC card's Other Feds reads WWA, and 3582 (9 May 2006) introduces 'former WWA World Tag Team Champions - Dynamite and TNT - The Detonators!'. This record is the WWA tag team of Dynamite and TNT (WWA, 2005); both members are AWC bios (12269, 12434) joined to their WWA records. The WWA and PRIME records of the team are now one record."
+   }
+  ]
+ },
+ {
+  "caption": "Khaled and Ember's own pairing, the Deadly Alliance, backed each other through WWA's Extreme Title Tournament and Ember's own World Title challenge, late 2005.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-21"
+  },
+  "id": "deadly-alliance-wwa",
+  "members": [
+   {
+    "character_id": "khaled-wwa",
+    "name": "Khaled"
+   },
+   {
+    "character_id": "jay-phoenix",
+    "name": "Ember"
+   }
+  ],
+  "name": "Deadly Alliance",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "promotion": "wwa",
+    "role": "stable"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "The Regulators — Johnny Blaze, Griffin, and Michael Blackheart — repeatedly ran interference for each other against House of Pain across NCW's earliest title tournaments.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "the-regulators-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name collision with the-regulators-xcwf (an unrelated XCWF stable also named \"The Regulators\") — no document ties the two; a generic stable name reused independently across feds.",
+    "with": [
+     "the-regulators-xcwf"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "johnny-blaze-wwa",
+    "name": "Johnny Blaze"
+   },
+   {
+    "character_id": "griffin-wwa",
+    "name": "Griffin"
+   },
+   {
+    "character_id": "michael-blackheart-wwa",
+    "name": "Michael Blackheart"
+   }
+  ],
+  "name": "The Regulators",
+  "tenures": [
+   {
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "promotion": "wwa",
+    "role": "stable — the fan-favorite counterweight to House of Pain"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "caption": "The Resistance, Dillan Krueger and Jed Smith, both advanced deep into the New York City title tournament as individuals before falling to House of Pain's Randy Cross.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "the-resistance-wwa",
+  "members": [
+   {
+    "character_id": "dillan-krueger-wwa",
+    "name": "Dillan Krueger"
+   },
+   {
+    "character_id": "jed-smith-wwa",
+    "name": "Jed Smith"
+   }
+  ],
+  "name": "The Resistance",
+  "tenures": [
+   {
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "promotion": "wwa",
+    "role": "tag team — \"Sundance Kid\" Dillan Krueger and \"The American\" Jed Smith"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "The Executive's Club, the Outlaw's stable, numbered the Outlaw, the Executive and Steel Cold in December 1997; from January 1998 Mr. Business and the Judge sat with the Outlaw and the Executive at the Outlaw's Saloon, and the club's tag team, the Executive and Mr. Business, won the CWC Northeast Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-executives-club-wwa",
+  "members": [
+   {
+    "character_id": "the-outlaw-wwa",
+    "name": "The Outlaw"
+   },
+   {
+    "character_id": "the-executive-wwa",
+    "name": "The Executive"
+   },
+   {
+    "character_id": "steel-cold-wwa",
+    "eras": [
+     "1997"
+    ],
+    "name": "Steel Cold"
+   },
+   {
+    "character_id": "mr-business-wwa",
+    "eras": [
+     "1998"
+    ],
+    "name": "Mr. Business"
+   },
+   {
+    "character_id": "the-judge-wwa",
+    "eras": [
+     "1998"
+    ],
+    "name": "The Judge"
+   }
+  ],
+  "name": "The Executive's Club",
+  "tenures": [
+   {
+    "first_seen": "1997",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "stable — the Outlaw, the Executive and Steel Cold (December 1997), then the Outlaw, the Executive, Mr. Business and the Judge (1998); its tag team, the Executive and Mr. Business, held the CWC Northeast Tag Team Championship"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable",
+  "notes": "The Outlaw's stable. In December 1997 it is the Outlaw, the Executive and Steel Cold: on 12 December the Outlaw and the Executive bring Steel Cold a briefcase with his name on it (the booth argues it out: \"We have no proof Steel is part of their group.\" / \"His name was on the briefcase.\", wwa-1997-12-12); on 19 December the card bills the Outlaw \"a part of the Executive's Club\", the Outlaw says \"Steel Cold and I will be watching\", and when Steel Cold comes out alone the booth asks \"is there a problem in the Executive Club already?\" (wwa-1997-12-19). On 2 January 1998 Steel Cold is written out (an in-fiction death) and the Judge, \"newcomer to The Executive's Club\", takes his place (wwa-1998-01-02), the night Mr. Business is first seen with the club. From then the Outlaw, the Executive, Mr. Business and the Judge are seated together at the Saloon table (wwa-1997-01-09), and the cards speak of \"the rest of the Executive's Club\" and, on 23 January 1998, \"all four members of the Executive's Club\" (wwa-1998-01-23). The record first held only the two men who wrestled as a tag team; that pair is now its own record, the-executive-and-mr-business-wwa, and holds the CWC Northeast Tag Team Championship reign. The two records are distinct.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-executive-and-mr-business-wwa"
+    ],
+    "note": "the-executive-and-mr-business-wwa is the stable's own tag team, two of its members; one stable and a sub-team, not one unit."
+   }
+  ]
+ },
+ {
+  "caption": "Triple Threat — Brian Cairo, Drake Blackthorne and Mark Lynch — declared themselves the NCW's elite, and Lynch delivered by winning the Northeast Heavyweight Championship; by 30 January 1998 the group is the Unified Knights of America, the UKA, with the Neckbreaker and Nikodemous Segier added.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 3,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "triple-threat-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Decorated-aka collision (\"Threat\") against an unrelated PWE ProjectEfed entity — no document ties the two; a common wrestling-vocabulary word reused independently.",
+    "with": [
+     "christian-masters-pwe-projectefed"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Decorated-aka collision: \"The Unified Knights of America\" contains the substrings \"Erica\" (erica-rawf) and \"Night\" (night-oww) as an artifact of the normalized-substring check, not a real naming relationship — both unrelated entities in other feds, no document ties either.",
+    "with": [
+     "erica-rawf",
+     "night-oww"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "brian-cairo-wwa",
+    "name": "Brian Cairo"
+   },
+   {
+    "character_id": "drake-blackthorne-wwa",
+    "name": "Drake Blackthorne"
+   },
+   {
+    "character_id": "mark-lynch-wwa",
+    "name": "Mark Lynch"
+   },
+   {
+    "character_id": "neckbreaker-wwa",
+    "eras": [
+     "1998"
+    ],
+    "name": "The Neckbreaker"
+   },
+   {
+    "character_id": "nik-segier",
+    "eras": [
+     "1998"
+    ],
+    "name": "Nikodemous Segier"
+   }
+  ],
+  "name": "Triple Threat",
+  "tenures": [
+   {
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "promotion": "wwa",
+    "role": "stable — a self-declared \"elite wrestling force,\" three men flashing a shared hand sign"
+   },
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "stable — Triple Threat expanded and rebranded"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable",
+  "aka": [
+   "The Unified Knights of America",
+   "UKA"
+  ]
+ },
+ {
+  "caption": "Blood and Guts, Count Blood and Sgt. Stryker, lost their opening-round bid for the CWC Northeast Tag Team Championship to the Executive's Club.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "blood-and-guts-wwa",
+  "members": [
+   {
+    "character_id": "count-blood-wwa",
+    "name": "Count Blood"
+   },
+   {
+    "character_id": "sgt-stryker-wwa",
+    "name": "Sgt. Stryker"
+   }
+  ],
+  "name": "Blood and Guts",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "The Canadian Connection, Travis Champion and Bret Royal, were eliminated first from the CWC Northeast Tag Team Championship tournament's opening four-corners match.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-canadian-connection-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact/decorated name collision (\"Connection\"/\"Canadian Connection\") against two unrelated entities in other feds — no document ties any of the three; a generic tag-team naming pattern reused independently.",
+    "with": [
+     "connection",
+     "canadian-connection-xwf"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "travis-champion-wwa",
+    "name": "Travis Champion"
+   },
+   {
+    "character_id": "bret-royal-wwa",
+    "name": "Bret Royal"
+   }
+  ],
+  "name": "The Canadian Connection",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "The Unholy Three's own confirmed roster, \"Demolisher\" Cain Graves and \"The MIA\" Luke Stryker, teamed up against Big Eliem in the NCW's first Rumble.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "the-unholy-three-wwa",
+  "members": [
+   {
+    "character_id": "cain-graves-wwa",
+    "name": "Cain Graves"
+   },
+   {
+    "character_id": "luke-stryker-wwa",
+    "name": "Luke Stryker"
+   }
+  ],
+  "membership_unknown": false,
+  "name": "The Unholy Three",
+  "notes": "A third member is implied by the stable's own name but not identified in the corpus read so far.",
+  "tenures": [
+   {
+    "first_seen": "1997",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "stable"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "caption": "Da Killer Connection, Talon and Tiburon, lost a non-title match to CWC National Tag Team Champions the Overlords of the Dark.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "da-killer-connection-wwa",
+  "members": [
+   {
+    "character_id": "talon-wwa",
+    "name": "Talon"
+   },
+   {
+    "character_id": "tiburon-wwa",
+    "name": "Tiburon"
+   }
+  ],
+  "name": "Da Killer Connection",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team — House of Pain"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "The Rebel Angels, Sam Patton and Trent Emeritus, upset the former WWA World Tag Team Champions The Veteranz at Birthday Bash 2001.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "rebel-angels-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Normalized-substring aka collision (\"Angel\"/\"Rebel\") flagged by the mint guard against several unrelated wrestlers/units named \"Angel\" or \"Rebel\" across other feds and eras -- no document ties any of them to this WWA tag team, coincidental generic-word overlap.",
+    "with": [
+     "angel-nfw",
+     "angel-rspwf",
+     "angel-uwf",
+     "mystique-wwa",
+     "rebel-4ww",
+     "the-rebel-bdw"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "sam-patton-wwa",
+    "name": "Sam Patton"
+   },
+   {
+    "character_id": "trent-emeritus-wwa",
+    "name": "Trent Emeritus"
+   }
+  ],
+  "name": "The Rebel Angels",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Former WWA World Tag Team Champions, The Job Squad (Mr. Internet and Tim Powers) were the first team eliminated from the triple-threat tag title match at Rage In The Cage 2002.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "job-squad-wwa",
+  "members": [
+   {
+    "character_id": "mr-internet",
+    "name": "Mr. Internet"
+   },
+   {
+    "character_id": "tim-powers",
+    "name": "Tim Powers"
+   }
+  ],
+  "name": "The Job Squad",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "promotion": "wwa",
+    "role": "tag team — former WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "The Human Condition (Aaron Alongi and Axel Brundage) won the WWA World Tag Team Championship in a triple-threat table elimination match at Rage In The Cage 2002.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 1,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "human-condition-wwa",
+  "members": [
+   {
+    "character_id": "aaron-alongi-wwa",
+    "name": "Aaron Alongi"
+   },
+   {
+    "character_id": "axel-brundage-wwa",
+    "name": "Axel Brundage"
+   }
+  ],
+  "name": "The Human Condition",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "promotion": "wwa",
+    "role": "tag team — WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "TJ Donaldson and Captain Amazing's tag team, Amazingly Simple, competed in a one-night reunion for the WWA World Tag Team Championship at Independence Day Rumble 2002.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "amazingly-simple-wwa",
+  "members": [
+   {
+    "character_id": "tj-donaldson",
+    "name": "TJ Donaldson"
+   },
+   {
+    "character_id": "captain-amazing",
+    "name": "Captain Amazing"
+   }
+  ],
+  "name": "Amazingly Simple",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Brian Hollywood and Simon Styles' tag team, Extreme Impact, competed for the WWA World Tag Team Championship at Independence Day Rumble 2002.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "extreme-impact-wwa",
+  "members": [
+   {
+    "character_id": "brian-hollywood-wwa",
+    "name": "Brian Hollywood"
+   },
+   {
+    "character_id": "simon-styles-wwa",
+    "name": "Simon Styles"
+   }
+  ],
+  "name": "Extreme Impact",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "aka": [
+   "Total Anarchy"
+  ],
+  "caption": "Chaos and Raiden's own pairing, Anarchy held the WWA World Tag Team Championship twice in the promotion's first two years.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 22,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "anarchy-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "user-attested",
+    "note": "Not the UWF's own \"Anarchy\" unit (anarchy, Adien Pryde & Reo Dai) — this is WWA's Chaos-and-Raiden tag team, unrelated despite the shared name.",
+    "with": []
+   }
+  ],
+  "members": [
+   {
+    "character_id": "chaos-wwa",
+    "name": "Chaos"
+   },
+   {
+    "character_id": "raiden-wwa",
+    "name": "Raiden"
+   },
+   {
+    "character_id": "havok-wwa",
+    "name": "Havok"
+   },
+   {
+    "character_id": "deadbolt-wwa",
+    "eras": [
+     "1998"
+    ],
+    "name": "Deadbolt"
+   },
+   {
+    "character_id": "talon-wwa",
+    "eras": [
+     "1998"
+    ],
+    "name": "Talon"
+   },
+   {
+    "character_id": "tiburon-wwa",
+    "eras": [
+     "1998"
+    ],
+    "name": "Tiburon"
+   },
+   {
+    "character_id": "angel-reaper",
+    "eras": [
+     "1998-04"
+    ],
+    "name": "Angel Reaper"
+   },
+   {
+    "character_id": "rocky-stevens-wwa",
+    "eras": [
+     "1998-04"
+    ],
+    "name": "Rocky Stevens"
+   }
+  ],
+  "name": "Anarchy",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1999",
+    "promotion": "wwa",
+    "role": "tag team — two-time WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "Darken and Steihl's own pairing, the Overlords of the Dark held the CWC National Tag Team Championship as early as 1997 and the WWA World Tag Team Championship twice in the promotion's first two years before the two turned on each other in a 1999 feud voted Feud of the Year.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 40,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "overlords-of-the-dark-wwa",
+  "members": [
+   {
+    "character_id": "darken",
+    "name": "Darken"
+   },
+   {
+    "character_id": "steihl",
+    "name": "Steihl"
+   }
+  ],
+  "name": "Overlords of the Dark",
+  "tenures": [
+   {
+    "first_seen": "1997",
+    "last_seen": "2000",
+    "note": "Era-extended: by 4 September 1998, Steihl is touring alongside Black Scorpion under the Overlords of the Dark name without Darken. On wwa-1998-10-09, Darken and Jack ambush both that pairing and the Vindicators before a scheduled tag match can start; Darken cuts a promo declaring themselves the \"rebirth of the true New Overlords of the Dark\" and threatens to starve Steihl out. At the WWAmmies (wwa-1998-11-07), the reunited-on-paper Darken and Steihl are named Tag Team of the Year for the old pairing's own record, and a real fight breaks out over the trophy itself — Darken clubs Steihl down and has to be separated by security and House of Pain — the visible next beat of the breakup the caption's own 1999 Feud of the Year already documents.",
+    "promotion": "wwa",
+    "role": "tag team — held the CWC National Tag Team Championship as early as Jan 1998, part of the wider Four Horsemen of the Apocalypse; two-time WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "House of Pain, led by Randy Cross alongside the Crockett brothers and Tiburon, dominated NCW's earliest title tournaments through interference and outright theft.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 28,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "house-of-pain-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact name collision with house-of-pain-faw (an unrelated FAW stable also named \"House of Pain\") — no document ties the two; a generic stable name reused independently across feds.",
+    "with": [
+     "house-of-pain-faw"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "randy-cross",
+    "name": "Randy Cross"
+   },
+   {
+    "character_id": "aric-crockett-wwa",
+    "name": "Aric Crockett"
+   },
+   {
+    "character_id": "zack-crockett-wwa",
+    "name": "Zack Crockett"
+   },
+   {
+    "character_id": "tiburon-wwa",
+    "eras": [
+     "1997"
+    ],
+    "name": "Tiburon"
+   },
+   {
+    "character_id": "jak-lancer-wwa",
+    "eras": [
+     "1998"
+    ],
+    "name": "Jak Lancer"
+   },
+   {
+    "character_id": "big-eliem-wwa",
+    "eras": [
+     "1998"
+    ],
+    "name": "Big Eliem"
+   },
+   {
+    "character_id": "kue-wwa",
+    "eras": [
+     "1998"
+    ],
+    "name": "Kue"
+   }
+  ],
+  "name": "House of Pain",
+  "tenures": [
+   {
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "promotion": "wwa",
+    "role": "stable — led by Randy Cross; the promotion's dominant heel faction"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "caption": "The Four Horsemen of the Apocalypse — Darken, Steihl, Gutter, and Angel Reaper — brawled with House of Pain in the CWC Northeast Tag Team Championship tournament's own opening round.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "horsemen-of-the-apocalypse-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Decorated-aka collision (\"Apocalypse\") against four unrelated entities in other feds — no document ties any of them; a common apocalyptic gimmick word reused independently across the hobby.",
+    "with": [
+     "apocalypse-ccw",
+     "apocalypse-cswa",
+     "apocalypse-dwo",
+     "apocalypse-faw"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "darken",
+    "name": "Darken"
+   },
+   {
+    "character_id": "steihl",
+    "name": "Steihl"
+   },
+   {
+    "character_id": "gutter-wwa",
+    "name": "Gutter"
+   },
+   {
+    "character_id": "angel-reaper",
+    "eras": [
+     "1998-01"
+    ],
+    "name": "Angel Reaper"
+   },
+   {
+    "character_id": "kaurik-wwa",
+    "eras": [
+     "1998-02"
+    ],
+    "name": "Kaurik (Famine)"
+   },
+   {
+    "character_id": "jack-wwa",
+    "eras": [
+     "1998-03"
+    ],
+    "name": "Jack (Famine)"
+   },
+   {
+    "character_id": "raven-crow-wwa",
+    "eras": [
+     "1998-09"
+    ],
+    "name": "Raven Crow"
+   }
+  ],
+  "name": "The Four Horsemen of the Apocalypse",
+  "notes": "Membership attested once, on wwa-1997-01-09; Darken and Steihl's own narrower tag-team identity as \"Overlords of the Dark\" (already registered, overlords-of-the-dark-wwa) sits inside this wider stable, per the served text (\"representing the Four Horsemen of the Apocalypse The Overlords of the Dark\").",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "super-stable — the wider faction the tag team Overlords of the Dark (Darken and Steihl) represented"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "caption": "The Steel Outlaws — the Judge and the Outlaw's own tag pairing, different from the Outlaw's later WWA World Tag Team Championship pairing with the Executive — opened their partnership with a win over the Canadian Connection.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "id": "steel-outlaws-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Decorated-aka collision: \"The Steel Outlaws\" contains the generic word \"Outlaw\"/\"Steel,\" tripping the guard against five unrelated entities in other feds (jesse-briggs-gw, outlaw-rspwf, reggie-reign-outlaw-cswa, steel-uwf, the-outlaw-rspwf) that happen to share the substring — no document ties any of them, all coincidental generic ring-name overlap.",
+    "with": [
+     "jesse-briggs-gw",
+     "outlaw-rspwf",
+     "reggie-reign-outlaw-cswa",
+     "steel-uwf",
+     "the-outlaw-rspwf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Also trips the decorated-aka guard against the-outlaw-wwa (a WWA member of this very tag team), since the team's own name contains his ring name in full — the team and the individual are related but not the same entity, filed as their own rows per this project's own tag-team-as-unit convention.",
+    "with": [
+     "the-outlaw-wwa"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "the-judge-wwa",
+    "name": "The Judge"
+   },
+   {
+    "character_id": "the-outlaw-wwa",
+    "name": "The Outlaw"
+   }
+  ],
+  "name": "The Steel Outlaws",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team — the Judge and the Outlaw"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "caption": "The New Regulators — Griffin's own expanded ringside faction, including Bob, Shaman, Mad Coil, Britainicca, Bob's Driver and Death Knight — debuted as a group backing Black Scorpion and the Fan against Da Killer Connection.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 10,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-new-regulators-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Trips the guard against the-regulator-pwe-inc (unrelated, coincidental generic word) and against the-regulators-xcwf (unrelated, coincidental) — no document ties either. Against the-regulators-wwa specifically, this is a deliberate near-name: read as that stable's own expansion/successor per this row's own `notes` field, but not confirmed as a formal continuation by any document read this session, so filed as its own row rather than merged.",
+    "with": [
+     "the-regulator-pwe-inc",
+     "the-regulators-xcwf",
+     "the-regulators-wwa"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "griffin-wwa",
+    "name": "Griffin"
+   },
+   {
+    "character_id": "bob-wwa",
+    "name": "Bob"
+   },
+   {
+    "character_id": "shaman-wwa",
+    "name": "Shaman"
+   },
+   {
+    "character_id": "mad-coil-wwa",
+    "name": "Mad Coil"
+   },
+   {
+    "character_id": "britainicca-wwa",
+    "name": "Britainicca"
+   },
+   {
+    "character_id": "bobs-driver-wwa",
+    "name": "Bob's Driver"
+   },
+   {
+    "character_id": "death-knight-wwa",
+    "name": "Death Knight"
+   }
+  ],
+  "name": "The New Regulators",
+  "notes": "Fields Griffin (an original Regulator) alongside six others (Bob, Shaman, Mad Coil, Britainicca, Bob's Driver, Death Knight) sitting ringside as a supportive faction, sign-holding and occasionally running interference — read as an expansion/successor of `the-regulators-wwa` (Johnny Blaze, Griffin, Michael Blackheart) rather than confirmed as a formal continuation; Johnny Blaze himself is not named among this show's own New Regulators ringside group despite wrestling the main event separately. Left as its own row pending a document that states the relationship explicitly.",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "stable — a ringside supportive faction"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "caption": "Birds of Prey, a two-man team whose individual members go unnamed in the held record, were squashed by House of Pain's Big Eliem and Jak Lancer.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "birds-of-prey-wwa",
+  "membership_unknown": true,
+  "name": "Birds of Prey",
+  "notes": "No individual member names survive in the served text read this session — billed only as a two-man team, squashed by Big Eliem and Jak Lancer.",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "caption": "The Claymores, Rob and Doug MacGregor, debuted with a loss to the Vindicators.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-claymores-wwa",
+  "members": [
+   {
+    "character_id": "rob-macgregor-wwa",
+    "name": "Rob MacGregor"
+   },
+   {
+    "character_id": "doug-macgregor-wwa",
+    "name": "Doug MacGregor"
+   }
+  ],
+  "name": "The Claymores",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "caption": "The Vindicators, Blood Shadow and Blood Cross, managed by Angel of Darkness, debuted with a win over the Claymores.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-vindicators-wwa",
+  "members": [
+   {
+    "character_id": "blood-shadow-wwa",
+    "name": "Blood Shadow"
+   },
+   {
+    "character_id": "blood-cross-wwa",
+    "name": "Blood Cross"
+   }
+  ],
+  "name": "The Vindicators",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "aka": [
+   "F.E.A.R.",
+   "The Freaks"
+  ],
+  "caption": "STB — Flynn Steele and ChiKylin — formed on-camera to oppose House of Pain, driving off a beatdown of the Commandant's Own.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "stb-wwa",
+  "members": [
+   {
+    "character_id": "flynn-steele",
+    "name": "Flynn Steele"
+   },
+   {
+    "character_id": "chikylin-wwa",
+    "name": "ChiKylin"
+   },
+   {
+    "character_id": "mantis-wwa",
+    "name": "Mantis"
+   },
+   {
+    "character_id": "duke-daring-wwa",
+    "eras": [
+     "1998-11"
+    ],
+    "name": "Duke Daring"
+   },
+   {
+    "character_id": "nick-bruiser",
+    "eras": [
+     "1999-01"
+    ],
+    "name": "Nick Bruiser"
+   },
+   {
+    "character_id": "ken-steele-wwa",
+    "eras": [
+     "1999-01"
+    ],
+    "name": "Ken Steele"
+   }
+  ],
+  "name": "STB",
+  "notes": "Formed on-camera by Flynn Steele (\"the foundation\") and ChiKylin (\"the cornerstone\") explicitly to oppose House of Pain; Jack and a man billed only \"Shane\" fight alongside them in the same brawl without being explicitly claimed as members.",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "stable — formed explicitly to oppose House of Pain"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "caption": "The Bomb Squad, Hoser and Shane Warner, upset House of Pain's Randy Cross and rookie Tim Powers.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "the-bomb-squad-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Decorated-aka collision with the-bomb-squad-cswa, an unrelated stable in another fed — no document ties them, coincidental generic tag-team name.",
+    "with": [
+     "the-bomb-squad-cswa"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "hoser-wwa",
+    "name": "Hoser"
+   },
+   {
+    "character_id": "shane-warner-wwa",
+    "name": "Shane Warner"
+   }
+  ],
+  "name": "The Bomb Squad",
+  "notes": null,
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "caption": "The New Executive's Club — the Outlaw, Mr. Business and Todd Logan — formed on camera when the three quit House of Pain.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "new-executives-club-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares the Outlaw and Mr. Business with the-executives-club-wwa (1997-98's own Executive's Club, the Outlaw, the Executive, Steel Cold, Mr. Business and the Judge) but adds Todd Logan and drops the-executive-wwa and the Judge — read as a new, in-fiction-named successor rather than a continuation, since no document actually states one.",
+    "with": [
+     "the-executives-club-wwa"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "the-outlaw-wwa",
+    "name": "The Outlaw"
+   },
+   {
+    "character_id": "mr-business-wwa",
+    "name": "Mr. Business"
+   },
+   {
+    "character_id": "todd-logan",
+    "name": "Todd Logan"
+   }
+  ],
+  "name": "The New Executive's Club",
+  "notes": "Formed on-camera when the Outlaw, Mr. Business and Todd Logan quit House of Pain — the Outlaw's own second stint as a founding member of a group carrying this name; the earlier, differently-composed Executive's Club (the-executives-club-wwa, the Outlaw, the Executive, Steel Cold, Mr. Business and the Judge, 1997-98) is left as its own row per this project's own no-formal-continuation-without-a-document rule, since Mr. Business and the Outlaw are the only overlapping members and no document calls this a formal revival.",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "stable — formed by three defectors from House of Pain"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "caption": "The Brotherhood, Father Denrol's own stable, mocked the STB in a pre-match skit that ended with the real STB ambushing them.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "appearances": 1,
+    "awards": 0,
+    "reigns": 0,
+    "relationships": 0,
+    "rps": 0,
+    "tenures": 1
+   },
+   "written": "2026-08-27"
+  },
+  "id": "brotherhood-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact-name collision with brotherhood-iwf, an unrelated stable in another fed — no document ties the two.",
+    "with": [
+     "brotherhood-iwf"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "denrol",
+    "name": "Denrol"
+   },
+   {
+    "character_id": "brother-spy-wwa",
+    "name": "Brother Spy"
+   },
+   {
+    "character_id": "david-wattsoner",
+    "eras": [
+     "1998-10"
+    ],
+    "name": "David Wattsoner"
+   },
+   {
+    "character_id": "ungentle-giant-wwa",
+    "eras": [
+     "1998-10"
+    ],
+    "name": "The Ungentle Giant"
+   },
+   {
+    "character_id": "brent-watson-wwa",
+    "eras": [
+     "1998-10"
+    ],
+    "name": "Brent Watson"
+   },
+   {
+    "character_id": "brother-duke-wwa",
+    "eras": [
+     "1998-10"
+    ],
+    "name": "Brother Duke"
+   }
+  ],
+  "name": "The Brotherhood",
+  "notes": "Father Denrol's own stable. Confirmed members as of wwa-1998-10-09: Brother Spy, David Wattsoner, the Ungentle Giant, Brent Watson, and Brother Duke (performing as \"Walkin' Metal\"). Joey Edwards appears as a non-wrestling hanger-on supplying Denrol's own face-turn \"kit\" rather than as a wrestling member. Wattsoner's own affiliation, hedged as a one-off on wwa-1998-09-12, is confirmed formal by this show's own ring introduction (\"from the Brotherhood... David Wattsoner\").",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "stable — Father Denrol's own faction"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "caption": "The Spiritual Warriors, Iron Bear and Darkbringer, were eliminated first from a four-way match for the WWA World Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "spiritual-warriors-wwa",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Decorated-aka collision: \"The Spiritual Warriors\" normalizes as a substring match against \"The Warriors\" (the-warriors-upw), an unrelated UPW stable — no document ties them, coincidental generic name.",
+    "with": [
+     "the-warriors-upw"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "iron-bear-wwa",
+    "name": "Iron Bear"
+   },
+   {
+    "character_id": "darkbringer-wwa",
+    "name": "Darkbringer"
+   }
+  ],
+  "name": "The Spiritual Warriors",
+  "notes": "Iron Bear and Darkbringer.",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "The Minnesota Wrecking Crew, Aric and Zack Crockett, held the WWA World Tag Team Championship for a month in mid-1998.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 16,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "minnesota-wrecking-crew-wwa",
+  "members": [
+   {
+    "character_id": "aric-crockett-wwa",
+    "name": "Aric Crockett"
+   },
+   {
+    "character_id": "zack-crockett-wwa",
+    "name": "Zack Crockett"
+   }
+  ],
+  "name": "The Minnesota Wrecking Crew",
+  "notes": "\"The Punisher\" Aric Crockett and Zack \"The Enforcer\" Crockett, billed together under this name; won the WWA World Tag Team Championship from Steihl and a since-departed partner on 19 June 1998 (Steihl himself turning on that partner), reigning until 19 July 1998 — previously carried in reigns.json by name only, now closed to this unit.",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "tag team — one-time WWA World Tag Team Champions"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "aka": [
+   "SS-X"
+  ],
+  "caption": "Star Station X, led by New Star, staged a World War II Axis-costume bit and inducted an unnamed new member at the WWAmmies.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "star-station-x-wwa",
+  "members": [
+   {
+    "character_id": "new-star-wwa",
+    "name": "New Star"
+   },
+   {
+    "character_id": "david-briceland-wwa",
+    "name": "David Briceland"
+   },
+   {
+    "character_id": "misery-wwa",
+    "name": "Misery"
+   },
+   {
+    "character_id": "stormtrooper-wwa",
+    "name": "Stormtrooper"
+   }
+  ],
+  "name": "Star Station X",
+  "notes": "Led by New Star; confirmed members David Briceland, Misery, and (per wwa-1998-11-18) Stormtrooper. Runs a World War II Axis-costume bit at the WWAmmies (New Star as an SS commandant, Briceland as Hirohito, Misery as Mussolini) and inducts a new member on the spot, billed only by a heavily-accented one-line acceptance and never named. Shaman's own joke awards call them the \"Lamest stable\" in the WWA.",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "stable"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "aka": [
+   "CPE"
+  ],
+  "caption": "Cold Pain Enterprises, David Wattsoner's own successor stable to the Brotherhood, declared war on House of Pain and F E A R alike at its debut.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "cold-pain-enterprises-wwa",
+  "members": [
+   {
+    "character_id": "david-wattsoner",
+    "name": "David Wattsoner"
+   },
+   {
+    "character_id": "denrol",
+    "name": "Denrol"
+   },
+   {
+    "character_id": "brother-duke-wwa",
+    "name": "Brother Duke"
+   },
+   {
+    "character_id": "joseph-stock-wwa",
+    "name": "Joseph Stock"
+   },
+   {
+    "character_id": "brent-watson-wwa",
+    "name": "Brent Watson"
+   },
+   {
+    "character_id": "ungentle-giant-wwa",
+    "name": "The Ungentle Giant"
+   }
+  ],
+  "name": "Cold Pain Enterprises",
+  "notes": "David Wattsoner's own successor stable to the now-dissolved Brotherhood, debuting on wwa-1998-11-08 with an open declaration of war on both House of Pain and Flynn Steele's F.E.A.R. El Porto Spidero joins the group on wwa-1998-11-14.",
+  "tenures": [
+   {
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "promotion": "wwa",
+    "role": "stable — successor to the Brotherhood"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "caption": "Hot House, Scott Haggarty and Karl Flood, upset two separate title-holder pairings on the same broadcast to advance in the WWA's own tag tournament.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "hot-house-wwa",
+  "members": [
+   {
+    "character_id": "scott-haggarty-wwa",
+    "name": "Scott Haggarty"
+   },
+   {
+    "character_id": "karl-flood-wwa",
+    "name": "Karl Flood"
+   }
+  ],
+  "name": "Hot House",
+  "notes": "Scott \"Bad Dog\" Haggarty and \"Crazy\" Karl Flood; upset both O'Hara/Darken and Denrol/the Outlaw on the same broadcast to advance in the WWA's own tag team tournament.",
+  "tenures": [
+   {
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "promotion": "wwa",
+    "role": "tag team"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "id": "maximum-overdrive-wwa",
+  "name": "Maximum Overdrive",
+  "notes": "Debut tag team of \"Maximum\" Tony Richards and Williams; finisher the \"Overdriven\" double-team move. Won their debut against the Job Squad and immediately called out the Minnesota Wrecking Crew.",
+  "members": [
+   {
+    "id": "tony-richards-wwa"
+   },
+   {
+    "id": "williams-maximum-overdrive-wwa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "finisher": "the \"Overdriven\" (double-team move)",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwa/archive/1999-02-24.html"
+   }
+  ],
+  "type": "unit",
+  "caption": "Maximum Overdrive, the debuting tag team of \"Maximum\" Tony Richards and Williams, won their first WWA match against the Job Squad.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "reigns": 0,
+    "rps": 0,
+    "relationships": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "maximum-overdrive-pcw"
+    ],
+    "note": "A shared tag-team name only — no surviving document connects this WWA debut duo (Tony Richards and Williams) to PCW's own unrelated stable of the same name; the no-auto-merge rule presumes distinct absent a shared receipt."
+   }
+  ]
+ },
+ {
+  "id": "enfuego-wwa",
+  "name": "Enfuego",
+  "notes": "Debut tag team of Steve Stabler and Jordan Statler, revealed via a swerve triple threat in which the two staged a fake rivalry before jointly pinning Tommy Lazer.",
+  "members": [
+   {
+    "id": "steve-stabler-wwa"
+   },
+   {
+    "id": "jordan-statler-wwa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwa/archive/1999-03-19.html"
+   }
+  ],
+  "type": "unit",
+  "caption": "Enfuego, the tag team of Steve Stabler and Jordan Statler, debuted by swerving a triple threat to jointly pin Tommy Lazer.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "reigns": 0,
+    "rps": 0,
+    "relationships": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "the-fraternity-wwa",
+  "name": "The Fraternity",
+  "caption": "The Fraternity, the tag team of \"Pretty Boy\" Troy Walcott and Tommy Lazer, debuted by ambushing Jon Cole during a Rookie Ring match.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "reigns": 0,
+    "rps": 0,
+    "relationships": 0,
+    "awards": 0
+   }
+  },
+  "notes": "A stable formed by Troy Walcott and Tommy Lazer (with valet Athena and manager the Executive), revealed via matching shirts mid-match against Jon Cole.",
+  "members": [
+   {
+    "id": "troy-walcott"
+   },
+   {
+    "id": "tommy-lazer-wwa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "stable",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwa/archive/1999-04-24.html"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "id": "darkstorm-wwa",
+  "name": "Darkstorm",
+  "caption": "Darkstorm, the tag team of Rage and Phoenix, lost to the Minnesota Wrecking Crew in its own only served WWA outing.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "reigns": 0,
+    "rps": 0,
+    "relationships": 0,
+    "awards": 0
+   }
+  },
+  "notes": "The tag pairing of Rage and Phoenix, billed as a team exactly once.",
+  "members": [
+   {
+    "id": "rage-wwa"
+   },
+   {
+    "id": "phoenix-wwa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwa/archive/1999-04-24.html"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "id": "the-sitcom-fathers-wwa",
+  "name": "The Sitcom Fathers",
+  "caption": "The Sitcom Fathers, \"Mr. Seever\" and \"Mr. Brady,\" were a comedic tag pairing entered in the first Rookie Rumble.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "reigns": 0,
+    "rps": 0,
+    "relationships": 0,
+    "awards": 0
+   }
+  },
+  "notes": "A comedic sitcom-dad gimmick pairing (\"Mr. Seever\" and \"Mr. Brady\") entered in the first Rookie Rumble, who paddled another entrant for breaking their self-declared rules before taking ringside seats.",
+  "members": [
+   {
+    "id": "mr-seever-wwa"
+   },
+   {
+    "id": "mr-brady-wwa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/wwa/archive/1999-05-09.html"
+   }
+  ],
+  "type": "unit"
+ },
+ {
+  "id": "the-knighthood-wwa",
+  "name": "The Knighthood",
+  "type": "unit",
+  "members": [
+   {
+    "character_id": "sir-michael-wwa",
+    "name": "Sir Michael"
+   },
+   {
+    "character_id": "master-xaviar-wwa",
+    "name": "Master Xaviar"
+   }
+  ],
+  "notes": null,
+  "caption": "The Knighthood, Sir Michael and Master Xaviar seconded by Lady Rachel, lost a tag match to the returning Overlords of the Dark on WWA Slam in 1999.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team",
+    "source": "promotions/wwa/archive/1999-06-09.html"
+   }
+  ]
+ },
+ {
+  "id": "rush-wwa",
+  "name": "Rush",
+  "type": "unit",
+  "members": [
+   {
+    "character_id": "tito-wwa",
+    "name": "Tito"
+   },
+   {
+    "character_id": "dudeman-wwa",
+    "name": "Dudeman"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team",
+    "source": "promotions/wwa/archive/1999-09-05.html"
+   }
+  ],
+  "notes": null,
+  "caption": "Rush (Tito and Dudeman) entered the 1999 Labor Day tag team turmoil, eliminated after two rounds.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-dynamic-dudes-wwa",
+  "name": "The Dynamic Dudes",
+  "type": "unit",
+  "members": [
+   {
+    "character_id": "radmeister-wwa",
+    "name": "\"The\" Radmeister"
+   },
+   {
+    "character_id": "super-kid-cool-wwa",
+    "name": "Super Kid Cool"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team",
+    "source": "promotions/wwa/archive/1999-09-05.html"
+   }
+  ],
+  "notes": null,
+  "caption": "The Dynamic Dudes (Radmeister and Super Kid Cool) advanced through three rounds of the 1999 Labor Day tag team turmoil before falling to the Overlords of the Dark.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "reigns": 0,
+    "rps": 0,
+    "relationships": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "football-hooligans-wwa",
+  "name": "The Football Hooligans",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "smithy-wwa",
+    "name": "Smithy"
+   },
+   {
+    "character_id": "dazza-wwa",
+    "name": "Dazza"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team — from London, England"
+   }
+  ],
+  "notes": null,
+  "caption": "The Football Hooligans (Smithy and Dazza), managed by Tracy, debuted for the WWA in 1999 with a win over RUSH.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "reigns": 0,
+    "rps": 0,
+    "relationships": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "sex-and-violence-wwa",
+  "name": "Sex and Violence",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "brian-storm-wwa",
+    "name": "Brian \"Thunder\" Storm"
+   },
+   {
+    "character_id": "taylor-knox-wwa",
+    "name": "Taylor \"The Hardcore One\" Knox"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "tag team"
+   }
+  ],
+  "notes": null,
+  "caption": "Sex and Violence (Brian Storm and Taylor Knox), managed by One-Armed Tommy, debuted for the WWA in 1999 with a win over Entrepreneurs Incorporated.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1,
+    "reigns": 0,
+    "rps": 0,
+    "relationships": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "allied-chaos-wwa",
+  "name": "Allied Chaos",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "kyle-niker",
+    "name": "Kyle Niker"
+   },
+   {
+    "character_id": "connor-pearce",
+    "name": "Connor Pearce"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "2000",
+    "last_seen": "2000",
+    "role": "tag team — the FWA's own World Tag Team Champions, making a one-off WWA appearance to challenge for the Unified World Tag Team Championship",
+    "source": "WWA's own served card archive (promotions/wwa/archive/2000-06-25.html)."
+   },
+   {
+    "promotion": "fwa",
+    "grade": "user-attested",
+    "first_seen": "?",
+    "last_seen": "2000-06-25",
+    "role": "tag team — FWA World Tag Team Champions, the title's last champions",
+    "source": "Cross-wing evidence: no FWA document of its own survives; attested as the defending FWA World Tag Team Champions by the WWA's own served 25 June 2000 card and its own title ledger (fwa-world-tag-team)."
+   }
+  ],
+  "notes": null,
+  "caption": "Kyle Niker and Connor Pearce, the FWA World Tag Team Champions, challenged for the WWA's own Unified World Tag Team Championship on 25 June 2000 and lost when the defending champions refused a scripted job.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 2,
+    "appearances": 1,
+    "reigns": 1,
+    "rps": 0,
+    "relationships": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "the-executive-and-mr-business-wwa",
+  "type": "unit",
+  "name": "The Executive and Mr. Business",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "the-executive-wwa",
+    "name": "The Executive"
+   },
+   {
+    "character_id": "mr-business-wwa",
+    "name": "Mr. Business"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wwa",
+    "first_seen": "1998-01-09",
+    "last_seen": "1998-02-06",
+    "grade": "primary-source",
+    "role": "tag team of the Executive's Club — the first CWC Northeast Tag Team Champions",
+    "source": "promotions/wwa/archive/1997-01-09.html; promotions/wwa/archive/1998-01-14.html; promotions/wwa/archive/1998-02-06.html",
+    "note": "Billed \"the Executive and Mr. Business of the Executive's Club\" in the CWC Northeast Tag Team Championship tournament (9 January 1998); wins the vacant title in the final over Brian Cairo and Drake Blackthorne of Triple Threat, and retains it on 14 January 1998 over Matt Sanders and Canuck; they lose it to the Commandant's Own on 6 February 1998, billed as champions \"the Executive's Club\" (promotions/wwa/archive/1998-02-06.html). The Executive's Club is the stable they belong to (the-executives-club-wwa); the title is the pair's."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-executives-club-wwa"
+    ],
+    "note": "The pair and the stable they belong to are two records: the Executive's Club is the Outlaw's stable (the Outlaw, the Executive and Steel Cold in December 1997; the Outlaw, the Executive, Mr. Business and the Judge from January 1998), and the Executive and Mr. Business are the two of them who wrestle as a tag team and hold the CWC Northeast Tag Team Championship. No merge."
+   }
+  ],
+  "caption": "The Executive and Mr. Business, the tag team of the Executive's Club, won the vacant CWC Northeast Tag Team Championship in the tournament final on 9 January 1998 and retained it five days later.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": "no-limit-soldiers-rwf-revolutionary-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "No Limit Soldiers",
+  "aka": [],
+  "members": [
+   "metal-jackson-rwf-revolutionary-1998",
+   "steel-jordan-rwf-revolutionary-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "rwf-revolutionary-1998",
+    "first_seen": "1998-10-03",
+    "last_seen": "1998-10-03",
+    "source": "Entered the National Championship battle royal together and eliminated each other mid-match.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "A tag team whose own two members turned on each other mid-battle-royal.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A bare ring-name match against an unrelated entity elsewhere in the registry; no shared operator, URL, roster, or chronology axis found (acronym/name-alone is not a join). Recorded distinct per the collision doctrine's no-merge default.",
+    "with": [
+     "no-limit-soldiers-cswa",
+     "no-limit-soldiers-wicew"
+    ]
+   }
+  ]
+ }
+]

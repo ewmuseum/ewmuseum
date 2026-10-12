@@ -1,0 +1,280 @@
+[
+ {
+  "id": "dragonfire-cwc-championship-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Dragonfire",
+  "caption": "A newly signed tag team billed as former tag champions elsewhere, introduced on the CWC's own first broadcast.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   "rex-cwc-championship-1998",
+   "the-linebacker-cwc-championship-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "cwc-championship-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-04-09",
+    "last_seen": "1998-04-09",
+    "source": "The fed's own introduction special, \"Hype Night\" (9 April 1998)."
+   }
+  ]
+ },
+ {
+  "id": "the-upstarts-cwc-championship-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Upstarts",
+  "caption": "A newly signed tag team introduced on the CWC's own first broadcast.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   "william-bowers-cwc-championship-1998",
+   "anthony-lindsey-cwc-championship-1998"
+  ],
+  "tenures": [
+   {
+    "promotion": "cwc-championship-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-04-09",
+    "last_seen": "1998-04-09",
+    "source": "The fed's own introduction special, \"Hype Night\" (9 April 1998)."
+   }
+  ]
+ },
+ {
+  "id": "bsu-cwc-championship-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "BSU",
+  "members": [
+   "bob-cwc-championship-1998",
+   "genesis-cwc-championship-1998"
+  ],
+  "caption": "A self-proclaimed multiple-time tag team champion duo introduced to the CWC in a video vignette; this collection carries no BSU match.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "cwc-championship-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-04-12",
+    "last_seen": "1998-04-12",
+    "source": "The fed's own second hype special, Hype Night 2 (12 April 1998)."
+   }
+  ]
+ },
+ {
+  "id": "hardcore-icons-cwc-championship-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Hardcore Icons",
+  "members": [
+   "hammer-cwc-championship-1998",
+   "steel-cwc-championship-1998"
+  ],
+  "caption": "A tag team beaten by the L.A. Wrecking Crew in an unsanctioned Boiler Room Rumble, then again in the CWC's first World Tag Team Championship match at Prime Time in North America.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "cwc-championship-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-05-26",
+    "last_seen": "1998-07-21",
+    "source": "The fed's own fourth Sunday Night Madhouse broadcast (26 May 1998); Sunday Night Madhouse (28 June 1998); Prime Time in North America (21 July 1998)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hardcore-icons"
+    ],
+    "note": "An exact name match with an unrelated held tag team (xuw's DDT and Raven X, active 2001-2003); different members, different promotion, no other connecting detail."
+   }
+  ]
+ },
+ {
+  "id": "superstars-incorporated-cwc-championship-1998",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "Superstars, Incorporated",
+  "members": [
+   "johnny-detson-cwc-championship-1998",
+   "crimestarter-jim-cwc-championship-1998",
+   "havoc-cwc-championship-1998"
+  ],
+  "caption": "A stable built around Johnny Detson, Crimestarter Jim and Havoc, managed by Mister Dynamic, who won the World Tag Team Title Tournament's first round before losing the finished belts at Prime Time in North America.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "notes": "Managed by Mister Dynamic (formerly billed elsewhere as \"Devastation\"), introduced alongside the stable on the fed's own fourth Sunday Night Madhouse broadcast (26 May 1998). Havoc's own membership was confirmed when he and Crimestarter Jim beat the Big Shots in the World Tag Team Title Tournament's first round, managed by Monique and Kim (28 June 1998); the same broadcast showed further associates \"Playboy\" Jude St. Claire and Black Diamond ambushing two number-one-contender hopefuls on the stable's behalf, and bodyguard Romulus escorting the group. At Prime Time in North America (21 July 1998) the stable lost International People's and World Heavyweight Championship matches (Jude St. Claire disguising himself as Leviathan in the latter) and briefly stole the newly-won World Tag Team Championship belts before Latin Lightning and the Baby Face Brawler recovered them.",
+  "tenures": [
+   {
+    "promotion": "cwc-championship-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-05-26",
+    "last_seen": "1998-07-21",
+    "source": "The fed's own fourth Sunday Night Madhouse broadcast (26 May 1998); Sunday Night Madhouse (28 June 1998); Prime Time in North America (21 July 1998)."
+   }
+  ]
+ },
+ {
+  "id": "la-wrecking-crew-cwc-championship-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "L.A. Wrecking Crew",
+  "members": [
+   "cannonball-cwc-championship-1998",
+   "eclipse-cwc-championship-1998"
+  ],
+  "caption": "A glow-in-the-dark tag team who out-lasted the Hardcore Icons in an unsanctioned Boiler Room Rumble, then won the CWC's first World Tag Team Championship at Prime Time in North America.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "notes": "Beat the Hardcore Icons (Earl \"The Hammer\" Mandigault and Steel) in an unsanctioned Boiler Room Rumble by walking out under their own power (28 June 1998), then beat them again for the vacant CWC World Tag Team Championship at Prime Time in North America (21 July 1998), overcoming interference from Superstars, Incorporated and a post-match chair attack from newcomer tag team the Frat.",
+  "tenures": [
+   {
+    "promotion": "cwc-championship-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-06-28",
+    "last_seen": "1998-07-21",
+    "source": "The fed's own Sunday Night Madhouse broadcast, 28 June 1998, and Prime Time in North America, 21 July 1998."
+   }
+  ]
+ },
+ {
+  "id": "modern-day-society-cwc-championship-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Modern Day Society",
+  "members": [
+   "luke-ericsson-cwc-championship-1998",
+   "aki-sakai-cwc-championship-1998"
+  ],
+  "caption": "A newcomer tag team whose debut victory over the Upstarts in the CWC World Tag Team Title Tournament's first round won over a skeptical Pittsburgh crowd.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "cwc-championship-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-06-28",
+    "last_seen": "1998-06-28",
+    "source": "The fed's own Sunday Night Madhouse broadcast, 28 June 1998."
+   }
+  ]
+ },
+ {
+  "id": "the-big-shots-cwc-championship-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Big Shots",
+  "members": [
+   "steve-walker-cwc-championship-1998",
+   "bill-weber-cwc-championship-1998"
+  ],
+  "caption": "A powerhouse tag team managed by Miss Jackilyn, narrowly beaten by Superstars, Incorporated in the CWC World Tag Team Title Tournament's first round.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "cwc-championship-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-06-28",
+    "last_seen": "1998-06-28",
+    "source": "The fed's own Sunday Night Madhouse broadcast, 28 June 1998."
+   }
+  ]
+ },
+ {
+  "id": "the-frat-cwc-championship-1998",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Frat",
+  "members": [
+   "jj-jordan-cwc-championship-1998",
+   "jackson-smith-cwc-championship-1998",
+   {
+    "name": "Brody Smith",
+    "character_id": "brody-smith-wwa-wwarocks-2000"
+   }
+  ],
+  "caption": "A fraternity-gimmick tag team from Alpha Alpha Gamma who announced their arrival by ambushing the loser of the Hardcore Icons/L.A. Wrecking Crew World Tag Team Championship match.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai"
+  },
+  "notes": "Debuted watching the World Tag Team Championship match from the entrance ramp, threatening both teams; attacked the beaten Hardcore Icons with steel chairs once the match ended, at least once toying with the crowd by feigning an earlier run-in.",
+  "tenures": [
+   {
+    "promotion": "cwc-championship-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-07-21",
+    "last_seen": "1998-07-21",
+    "source": "Prime Time in North America, 21 July 1998."
+   },
+   {
+    "promotion": "wwa-wwarocks-2000",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-08-09",
+    "last_seen": "2001-09-21",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 cards and roleplay packets, 9 August to 28 September 2001."
+   }
+  ]
+ }
+]

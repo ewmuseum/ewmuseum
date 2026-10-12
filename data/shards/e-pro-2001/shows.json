@@ -1,0 +1,55 @@
+[
+  {
+    "id": "spirit-carnival-2001-04-07-e-pro-2001",
+    "type": "show",
+    "name": "Spirit Carnival",
+    "promotion": "e-pro-2001",
+    "date": { "date": "2001-04-07", "precision": "exact", "source": "the card's own header" },
+    "page": "/promotions/e-pro-2001/archive/e-pro-2001-spirit-carnival-2001-04-07.html",
+    "collection": "0148",
+    "appearances": [
+      { "who": "christopher-royal-e-pro-2001", "kind": "match" },
+      { "who": "setzer-van-strife-iewc-1998", "kind": "match" },
+      { "who": "white-tiger-e-pro-2001", "kind": "match" },
+      { "who": "ktulu-e-pro-2001", "kind": "match" },
+      { "who": "hiroshi-takawa-e-pro-2001", "kind": "match" },
+      { "who": "matt-saunders-e-pro-2001", "kind": "match" },
+      { "who": "reid-powers-e-pro-2001", "kind": "match" },
+      { "who": "ran-jishu-e-pro-2001", "kind": "match" },
+      { "who": "november-e-pro-2001", "kind": "match" },
+      { "who": "azrael-ravenell-jolt-2001", "kind": "match" },
+      { "who": "passion-e-pro-2001", "kind": "angle", "capacity": "manager" },
+      { "who": "heather-e-pro-2001", "kind": "angle", "capacity": "manager" },
+      { "who": "mr-yamada-e-pro-2001", "kind": "angle", "capacity": "authority" },
+      { "who": "koga-wakakita-e-pro-2001", "kind": "angle", "capacity": "ring-announcer" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [ ["christopher-royal-e-pro-2001"], ["setzer-van-strife-iewc-1998"] ],
+        "winner_side": 1,
+        "note": "Van Strife won with a flying senton bomb at 14:13."
+      },
+      {
+        "order": 2,
+        "sides": [ ["white-tiger-e-pro-2001"], ["ktulu-e-pro-2001"] ],
+        "winner_side": 1,
+        "note": "Ktulu blindsided Tiger before the bell and won at 13:58; a guest English-language announce team openly mocked the match."
+      },
+      {
+        "order": 3,
+        "sides": [ ["hiroshi-takawa-e-pro-2001"], ["matt-saunders-e-pro-2001"] ],
+        "winner_side": 1,
+        "note": "Saunders won at 4:56, hooking Takawa's leg off a diamond dust counter."
+      },
+      {
+        "order": 4,
+        "sides": [ ["reid-powers-e-pro-2001", "ran-jishu-e-pro-2001"], ["november-e-pro-2001", "azrael-ravenell-jolt-2001"] ],
+        "winner_side": 1,
+        "stipulation": "Main event tag match",
+        "note": "November and Shadow Fire won at 31:18 over Team Yamada's Reid Powers and Ran Jishu."
+      }
+    ],
+    "notes": "The show closed with the roster's own vote for the inaugural Spirit Trophy between the main event's two losing-side and winning-side representatives, Ran Jishu and Shadow Fire; Ran Jishu won."
+  }
+]

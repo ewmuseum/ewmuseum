@@ -1,0 +1,572 @@
+[
+ {
+  "id": "jake-adams-njwa-1999",
+  "type": "character",
+  "name": "Jake \"the Devil\" Adams",
+  "caption": "A Philadelphia-billed heel who beat “Mr. Muscle” Jim Vickens with a chair and a broken bottle after losing their Sample Card bout, then no-showed the rest of the promotion's served run after the front office opened an inquiry into the attack.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-10-21",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own Sample Card (21 October 2001) and Theater of War broadcast of 17 November 2001",
+    "grade": "primary-source",
+    "note": "Lost a straight match to Jim Vickens on the Sample Card, then beat him down with a chair and a bottle after their rematch on Theater of War was voided; counted out in his own opening match against Brickhouse Blackburn."
+   }
+  ]
+ },
+ {
+  "id": "brickhouse-blackburn-njwa-1999",
+  "type": "character",
+  "name": "Brickhouse Blackburn",
+  "caption": "A Rahway, New Jersey-billed wrestler introduced as a recently released convict, who won the promotion's opening falls-count-anywhere main event and later won by countout when Jake Adams abandoned their rematch.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-10-21",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own Sample Card (21 October 2001) and Theater of War broadcast of 17 November 2001",
+    "grade": "primary-source",
+    "note": "Lost a falls-count-anywhere match to Stone Harris on the Sample Card, then beat Jake Adams by countout on Theater of War."
+   }
+  ]
+ },
+ {
+  "id": "broken-dreams-bobby-durango-njwa-1999",
+  "type": "character",
+  "name": "\"Broken Dreams\" Bobby Durango",
+  "caption": "Lost the promotion's Theater of War main event to “The Deathdealer” Tommy Ganz by submission and left the roster soon after.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own Theater of War broadcast of 17 November 2001",
+    "grade": "primary-source",
+    "note": "Lost the Theater of War main event to Tommy Ganz by submission; listed as departing the roster in the promotion's own next update."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bobby-durango-nawf-1998b",
+     "bobby-durango-vcw"
+    ],
+    "note": "Shares a common ring surname with wrestlers billed under different taglines (“Bad Apple”/“Darque Soul”) on two unrelated, earlier-dated wings; no shared operator or roster evidence links them."
+   }
+  ]
+ },
+ {
+  "id": "tommy-ganz-njwa-1999",
+  "type": "character",
+  "name": "\"The Deathdealer\" Tommy Ganz",
+  "caption": "Won the promotion's Theater of War main event by submission, was one of the final three left in the inaugural Television Championship battle royal, and lost his Theater of War rematch to a debuting El Cool Arrow.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Theater of War broadcast of 17 November 2001, Theater of War broadcast of 1 December 2001 and Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Beat Bobby Durango by submission on the first Theater of War; reached the final three of the Television title battle royal; lost to the debuting El Cool Arrow on the third Theater of War."
+   },
+   {
+    "promotion": "wwo",
+    "first_seen": "2002-07",
+    "last_seen": "2002-08-21",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "presumed",
+    "source": "the WWO's own 2002 cards of July 2002, 4 July 2002 and 21 August 2002",
+    "note": "Billed as \"Deathdealer\" Tommy Ganz of Boston, Massachusetts, the same ring name and moniker this record already carries."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tommy-ganz-3dw"
+    ],
+    "note": "Shares a ring name and the identical “Deathdealer” tagline with a wrestler billed on an unrelated wing nine years later; no shared operator or roster evidence links them."
+   }
+  ]
+ },
+ {
+  "id": "ej-drivven-njwa-1999",
+  "type": "character",
+  "name": "\"The Rush\" EJ Drivven",
+  "caption": "Beat “Dangerous” William Devonshire on his Theater of War debut, was one of the final three in the inaugural Television Championship battle royal, then dethroned Jack Jones for the NJWA Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-12-01",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Theater of War broadcast of 1 December 2001 and Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Beat William Devonshire by pinfall on his debut; reached the final three of the Television title battle royal; beat champion Jack Jones by pinfall to win the NJWA Television Championship."
+   }
+  ]
+ },
+ {
+  "id": "jack-jones-njwa-1999",
+  "type": "character",
+  "name": "Jack Jones",
+  "caption": "Won the inaugural NJWA Television Championship in an eight-man over-the-top-rope battle royal, aided by his brother Duncan Jones's interference, then dropped the title to EJ Drivven in his first defense before leaving the roster.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-12-01",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Theater of War broadcast of 1 December 2001 and Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Won the eight-man battle royal to become the first NJWA Television Champion, aided by Duncan Jones's ringside interference; lost the title to EJ Drivven in his first defense; listed as departing the roster in the promotion's own next update."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jack-attack-jones",
+     "adam-stryker-napw"
+    ],
+    "note": "Shares a common ring name with an unrelated wing's differently-billed color commentator (“Jack ‘Attack’ Jones”) years later; no shared operator or roster evidence links them."
+   }
+  ]
+ },
+ {
+  "id": "duncan-jones-njwa-1999",
+  "type": "character",
+  "name": "Duncan Jones",
+  "caption": "Jack Jones's brother, who interfered at ringside during the promotion's inaugural Television Championship battle royal to help Jack win the title.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "2001-12-01",
+    "last_seen": "2001-12-01",
+    "source": "the promotion's own Theater of War broadcast of 1 December 2001",
+    "grade": "primary-source",
+    "note": "Interfered at ringside during the Television Championship battle royal, helping his brother Jack Jones win the title."
+   }
+  ]
+ },
+ {
+  "id": "the-newage-tyrant-njwa-1999",
+  "type": "character",
+  "name": "The Newage Tyrant",
+  "caption": "One of the final three left in the promotion's inaugural Television Championship battle royal, later beaten in his singles debut by a mystery opponent revealed as Johnny Riot.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-12-01",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Theater of War broadcast of 1 December 2001 and Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Reached the final three of the Television title battle royal; lost his singles debut to a mystery opponent revealed as Johnny Riot, suffering bruised ribs."
+   }
+  ]
+ },
+ {
+  "id": "johnny-riot-njwa-1999",
+  "type": "character",
+  "name": "Johnny Riot",
+  "caption": "El Cool Arrow's manager, who wrestled the promotion's third Theater of War disguised as a mystery “Masked Man” and beat The Newage Tyrant by pinfall.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler",
+     "manager"
+    ],
+    "first_seen": "2001-12-15",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Wrestled disguised as a mystery masked opponent and beat The Newage Tyrant by pinfall; revealed afterward as El Cool Arrow's manager."
+   }
+  ]
+ },
+ {
+  "id": "el-cool-arrow-njwa-1999",
+  "type": "character",
+  "name": "El Cool Arrow",
+  "caption": "Debuted on the promotion's third Theater of War by beating “The Deathdealer” Tommy Ganz.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-12-15",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Beat Tommy Ganz by pinfall on his debut."
+   }
+  ]
+ },
+ {
+  "id": "steve-greedy-njwa-1999",
+  "type": "character",
+  "name": "Steve Greedy",
+  "caption": "Announced as joining the promotion's roster in its 16 December 2001 update; no match survives in the held record.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-12-16",
+    "last_seen": "2001-12-16",
+    "source": "the promotion's own 16 December 2001 update",
+    "grade": "primary-source",
+    "note": "Listed as a new roster arrival, ranked #4, with no recorded match surviving in the held record."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "steve-greedy-swa-superior-2000",
+     "steve-greedy-swa-superior-2000"
+    ],
+    "note": "A stock manager/wrestler name independently reused on other unrelated wings; no shared operator or roster evidence links this listing to either."
+   }
+  ]
+ },
+ {
+  "id": "jon-vincent-njwa-1999",
+  "type": "character",
+  "name": "Jon Vincent",
+  "caption": "Announced as joining the promotion's roster in its 16 December 2001 update; no match survives in the held record.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-12-16",
+    "last_seen": "2001-12-16",
+    "source": "the promotion's own 16 December 2001 update",
+    "grade": "primary-source",
+    "note": "Listed as a new roster arrival, ranked #4, with no recorded match surviving in the held record."
+   }
+  ]
+ },
+ {
+  "id": "salem-njwa-1999",
+  "type": "character",
+  "name": "Salem",
+  "caption": "Announced as joining the promotion's roster in its 16 December 2001 update; no match survives in the held record.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-12-16",
+    "last_seen": "2001-12-16",
+    "source": "the promotion's own 16 December 2001 update",
+    "grade": "primary-source",
+    "note": "Listed as a new roster arrival, ranked #4, with no recorded match surviving in the held record."
+   }
+  ]
+ },
+ {
+  "id": "angelo-sica-njwa-1999",
+  "type": "character",
+  "name": "Angelo Sica",
+  "caption": "The promotion's on-screen President, staged entering the ring to rule on the voided Vickens/Harris match and to address a title contender's status on camera.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-12-01",
+    "source": "the promotion's own Theater of War broadcast of 17 November 2001 and Theater of War broadcast of 1 December 2001",
+    "grade": "primary-source",
+    "note": "Staged on screen: enters the ring to a pop, rules that the Harris/Vickens rematch is awarded to Harris, and sits for commentary on the 17 November broadcast; appears on a video segment addressing a title contender's status on the 1 December broadcast."
+   }
+  ]
+ },
+ {
+  "id": "martin-andrews-njwa-1999-2001",
+  "type": "character",
+  "name": "Martin Andrews",
+  "caption": "The promotion's lead Theater of War play-by-play announcer across its served run.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2001-10-21",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Sample Card (21 October 2001), Theater of War broadcast of 17 November 2001, Theater of War broadcast of 1 December 2001 and Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Play-by-play announcer, seated alongside Jeremy Cecil, on every served Theater of War and Sample Card broadcast."
+   }
+  ]
+ },
+ {
+  "id": "jeremy-cecil-njwa-1999-2001",
+  "type": "character",
+  "name": "Jeremy Cecil",
+  "caption": "The promotion's color commentator across its served run, seated alongside Martin Andrews.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2001-10-21",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Sample Card (21 October 2001), Theater of War broadcast of 17 November 2001, Theater of War broadcast of 1 December 2001 and Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Color commentator on every served Theater of War and Sample Card broadcast."
+   }
+  ]
+ },
+ {
+  "id": "hansen-wilson-njwa-1999-2001",
+  "type": "character",
+  "name": "Hansen Wilson",
+  "caption": "The promotion's ring announcer across its served run.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2001-10-21",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Sample Card (21 October 2001), Theater of War broadcast of 17 November 2001, Theater of War broadcast of 1 December 2001 and Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Ring announcer on every served Theater of War and Sample Card broadcast."
+   }
+  ]
+ },
+ {
+  "id": "maria-pontech-njwa-1999-2001",
+  "type": "character",
+  "name": "Maria Pontech",
+  "caption": "Co-host of the promotion's This Week in Wrestling broadcasts alongside BJ Carter.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2001-11-24",
+    "last_seen": "2001-11-24",
+    "source": "the promotion's own This Week in Wrestling broadcast of 24 November 2001",
+    "grade": "primary-source",
+    "note": "Co-hosted This Week in Wrestling alongside BJ Carter."
+   }
+  ]
+ },
+ {
+  "id": "bj-carter-njwa-1999-2001",
+  "type": "character",
+  "name": "BJ Carter",
+  "caption": "Co-host of the promotion's This Week in Wrestling broadcasts alongside Maria Pontech.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2001-11-24",
+    "last_seen": "2001-11-24",
+    "source": "the promotion's own This Week in Wrestling broadcast of 24 November 2001",
+    "grade": "primary-source",
+    "note": "Co-hosted This Week in Wrestling alongside Maria Pontech."
+   }
+  ]
+ },
+ {
+  "id": "nick-williams-njwa-1999-2001",
+  "type": "character",
+  "name": "Nick \"the Dirt\" Williams",
+  "caption": "The promotion's backstage interviewer, credited catching reaction from Tommy Ganz after the Television title battle royal.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2001-12-02",
+    "last_seen": "2001-12-02",
+    "source": "the promotion's own update of 2 December 2001",
+    "grade": "primary-source",
+    "note": "Credited catching Tommy Ganz's backstage reaction after the Television title battle royal."
+   }
+  ]
+ },
+ {
+  "id": "robert-ryan-njwa-1999-2001",
+  "type": "character",
+  "name": "Robert Ryan",
+  "caption": "The promotion's backstage interviewer, overpowered on-camera by a mystery masked wrestler while trying to learn his identity ahead of the third Theater of War.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2001-12-15",
+    "last_seen": "2001-12-15",
+    "source": "the promotion's own Theater of War broadcast of 15 December 2001",
+    "grade": "primary-source",
+    "note": "Ambushed backstage by the mystery masked opponent (revealed later as Johnny Riot) while attempting a pre-match interview."
+   }
+  ]
+ },
+ {
+  "id": "dangerous-william-devonshire-rspwf",
+  "type": "character",
+  "name": "\"Dangerous\" William Devonshire",
+  "notes": "Known only from the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll. Placings and the poll's own federation tags, verbatim — 2001: #91, tagged FWG, IWF, WOW. Carries no tenure entry: none of the tagged federations is a held promotion, and the poll records where a wrestler was tagged, never a run this record could date.",
+  "caption": "Came in at #91 in the RSPWF Top 200 for 2001; on the New Jersey Wrestling Association's own Theater of War, lost his debut to EJ Drivven and left soon after, citing unsafe working conditions.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-12-01",
+    "last_seen": "2001-12-01",
+    "source": "the promotion's own Theater of War broadcast of 1 December 2001",
+    "note": "Lost his debut match to EJ Drivven by pinfall; the promotion's own next update reports him leaving, citing unsafe working conditions."
+   }
+  ]
+ }
+]

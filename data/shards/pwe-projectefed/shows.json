@@ -1,0 +1,426 @@
+[
+  {
+    "id": "pwe-projectefed-shockwave-2003-01-16",
+    "type": "show",
+    "name": "Thursday Night Shockwave",
+    "promotion": "pwe-projectefed",
+    "date": {
+      "date": "2003-01-16",
+      "precision": "exact",
+      "source": "The fed's own Archives page lists exactly one Shockwave under it, \"January 16, 2003\" (/promotions/pwe-projectefed/archive/archives-2003-02.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/pwe-projectefed/archive/archives-2003-02.html",
+        "note": "The fed's own Archives page, captured 13 February 2003, names this show and links results that were never captured."
+      }
+    ],
+    "notes": "The earliest Shockwave the fed's own record names, and the only one on its own Archives page. The results page it linked is not in the archive."
+  },
+  {
+    "id": "pwe-projectefed-new-years-resolution-2003-01-25",
+    "type": "show",
+    "name": "New Years Resolution",
+    "promotion": "pwe-projectefed",
+    "date": {
+      "date": "2003-01-25",
+      "precision": "exact",
+      "source": "The fed's own card and its own results both head the show \"January 25, 2003\" and \"January 25th, 2003\" (/promotions/pwe-projectefed/archive/new-years-resolution-2003-01-25-card.html, /promotions/pwe-projectefed/archive/new-years-resolution-2003-01-25.html). SOURCES DISAGREE: the fed's own pay-per-view calendar dates New Years Resolution 1/26/2003 (/promotions/pwe-projectefed/archive/ppv-calendar-2003.html); both readings are recorded and the two documents that actually ran the show are followed."
+    },
+    "page": "/promotions/pwe-projectefed/archive/new-years-resolution-2003-01-25.html",
+    "collection": "0046",
+    "venue": "Madison Square Gardens",
+    "notes": "PWE's first pay-per-view of its own return, and the night it crowned three of its four championships. Its own commentary announces mid-show that the alliance had just moved the fed up from Public Access to Cable Access.",
+    "appearances": [
+      {
+        "who": "brian-daniels-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "walter-parker-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "justice-paine-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "andre-sanders-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "adam-van-dam-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "carl-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "lynx-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "scott-curtis-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "micheal-flash-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "christian-masters-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "slyke-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "commentary",
+        "note": "Commentary."
+      },
+      {
+        "who": "jay-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "commentary",
+        "note": "Commentary."
+      },
+      {
+        "who": "dunn-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "ring-announcer",
+        "note": "Ring announcer."
+      },
+      {
+        "who": "andrew-knight-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "referee",
+        "note": "Refereed the opening match and the TLC Entertainment Title match."
+      },
+      {
+        "who": "chris-harriel-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "referee",
+        "note": "Refereed the Hardcore Title Match."
+      },
+      {
+        "who": "matt-brown-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "referee",
+        "note": "Rang the bell for the four-way Undisputed Title ladder match."
+      },
+      {
+        "who": "ashley-vannoy-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "interviewer",
+        "note": "Backstage interview with Lynx ahead of the main event."
+      },
+      {
+        "who": "carla-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "manager",
+        "note": "Walked to the ring with Scott Curtis."
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "brian-daniels-pwe-projectefed"
+          ],
+          [
+            "walter-parker-pwe-projectefed"
+          ]
+        ],
+        "result": "draw",
+        "note": "The fed's own ring announcer: \"This match is a Double Count out!\" Both men were counted out on the floor after Brian Daniels came off the top rope into a raised knee."
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "justice-paine-pwe-projectefed"
+          ],
+          [
+            "andre-sanders-pwe-projectefed"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Hardcore Title Match"
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "adam-van-dam-pwe-projectefed"
+          ],
+          [
+            "carl-pwe-projectefed"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "TLC",
+        "note": "Started early, in a backstage room, when Carl attacked the champion before the bell; the referee rang it there."
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "lynx-pwe-projectefed"
+          ],
+          [
+            "scott-curtis-pwe-projectefed"
+          ],
+          [
+            "micheal-flash-pwe-projectefed"
+          ],
+          [
+            "christian-masters-pwe-projectefed"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Ladder",
+        "note": "Billed the main event, for the vacant PWE Undisputed Championship."
+      }
+    ]
+  },
+  {
+    "id": "pwe-projectefed-shockwave-2003-01-30",
+    "type": "show",
+    "name": "Thursday Night Shockwave",
+    "promotion": "pwe-projectefed",
+    "date": {
+      "date": "2003-01-30",
+      "precision": "exact",
+      "source": "The fed's own results head the show \"January 30th, 2003\", and its own news page files the update under \"Shockwave (1/30/2003)\" (/promotions/pwe-projectefed/archive/shockwave-2003-01-30.html, /promotions/pwe-projectefed/archive/news-2003-02.html)."
+    },
+    "page": "/promotions/pwe-projectefed/archive/shockwave-2003-01-30.html",
+    "collection": "0046",
+    "venue": "Continental Airlines Arena",
+    "city": "East Rutherford, New Jersey",
+    "notes": "Opened on the champion being put through a vending machine backstage and closed on a disqualification. Its own news post says the results were written by the fed's own president after the commissioner missed the deadline: \"There is no commintation in the match parts..sorry but I didnt want to waste anymore time.\"",
+    "appearances": [
+      {
+        "who": "jimmy-lopez-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "johnny-webb-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "scott-curtis-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "christian-masters-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "micheal-flash-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "andre-sanders-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "adam-van-dam-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "lynx-pwe-projectefed",
+        "kind": "match"
+      },
+      {
+        "who": "slyke-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "commentary",
+        "note": "Commentary."
+      },
+      {
+        "who": "jay-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "commentary",
+        "note": "Commentary."
+      },
+      {
+        "who": "dunn-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "ring-announcer",
+        "note": "Ring announcer."
+      },
+      {
+        "who": "andrew-knight-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "referee",
+        "note": "Refereed the main event and was punched out by Adam Van Dam mid-match."
+      },
+      {
+        "who": "chris-harriel-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "referee",
+        "note": "Refereed the card's first three matches."
+      },
+      {
+        "who": "carla-pwe-projectefed",
+        "kind": "angle",
+        "capacity": "manager",
+        "note": "Walked to the ring with Scott Curtis."
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "jimmy-lopez-pwe-projectefed"
+          ],
+          [
+            "johnny-webb-pwe-projectefed"
+          ]
+        ],
+        "winner_side": 1
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "scott-curtis-pwe-projectefed"
+          ],
+          [
+            "christian-masters-pwe-projectefed"
+          ]
+        ],
+        "winner_side": 0
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "micheal-flash-pwe-projectefed"
+          ],
+          [
+            "andre-sanders-pwe-projectefed"
+          ]
+        ],
+        "winner_side": 0
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "adam-van-dam-pwe-projectefed"
+          ],
+          [
+            "lynx-pwe-projectefed"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Billed the main event; the fed's own ring announcer calls it \"The winner by disqualification Lynx.\""
+      }
+    ]
+  },
+  {
+    "id": "pwe-projectefed-shockwave-2003-02-13-card",
+    "type": "show",
+    "name": "Thursday Night Shockwave — card",
+    "promotion": "pwe-projectefed",
+    "date": {
+      "date": "2003-02-13",
+      "precision": "exact",
+      "source": "The card heads itself \"February 13th, 2003 - Live from Rose Garden in Portland, Oregon\" (/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html)."
+    },
+    "page": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html",
+    "collection": "0046",
+    "venue": "Rose Garden",
+    "city": "Portland, Oregon",
+    "notes": "The card only. Its own results page was never captured, and nothing held says whether the show ran; every appearance recorded here is a billing and nothing more.",
+    "appearances": [
+      {
+        "who": "jimmy-lopez-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "christian-masters-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "andre-sanders-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "micheal-flash-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "adam-van-dam-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "brad-derix-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "ian-redfield-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "corbin-farr-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "scott-curtis-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "lynx-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "ryan-grayn-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      },
+      {
+        "who": "johnny-webb-pwe-projectefed",
+        "kind": "billed",
+        "source": "/promotions/pwe-projectefed/archive/shockwave-2003-02-13-card.html"
+      }
+    ]
+  },
+  {
+    "id": "pwe-projectefed-shockwave-2003-04-19",
+    "type": "show",
+    "name": "Saturday Shockwave",
+    "promotion": "pwe-projectefed",
+    "date": {
+      "date": "2003-04-19",
+      "precision": "exact",
+      "source": "An in-fiction television advertisement quoted inside the fed's own roleplay #19: \"The show has been postponed from Saturday, April 12, 2003 to April 19... Check out PWE action live from the Arrowhead Pond in Anaheim, Ca.\" (/promotions/pwe-projectefed/rp/awaiting-shockwave-2003-04-16.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "/promotions/pwe-projectefed/rp/awaiting-shockwave-2003-04-16.html",
+        "note": "Keshia Williams' own roleplay of 16 April 2003 quotes a PWE advertisement naming the date, the venue and three matches on the card: Brad DeriX v Dante Jones, Vikki Addison v Scott Curtis, and Ultimo Guerrera v The Russian Hammer v Keshia Williams."
+      },
+      {
+        "source": "/promotions/pwe-projectefed/rp/this-should-be-good-20-2003-04-18.html",
+        "note": "Vikki Addison's own roleplay of 18 April 2003 names the same match against Scott Curtis and calls it a Hell in a Cell."
+      }
+    ],
+    "notes": "Shockwave had moved from Thursday to Saturday by April 2003, and the fed's own Undisputed tournament was running through it. No card or results page for the show is in the archive."
+  }
+]

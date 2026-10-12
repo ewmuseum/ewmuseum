@@ -1,0 +1,3404 @@
+[
+  {
+    "city": "Halifax, Nova Scotia, Canada",
+    "collection": "0081",
+    "date": {
+      "date": "2002-12-18",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-12-18.html"
+    },
+    "id": "rawf-wednesday-wargames-2002-12-18",
+    "name": "RAWF Wednesday Wargames, 18 December 2002 (3-Year Anniversary)",
+    "notes": "Billed the fed's own 3-Year Anniversary show; the World Title changed hands to Spawn.",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-12-18.html",
+    "promotion": "rawf",
+    "type": "show",
+    "matches": [
+      {
+        "sides": [
+          [
+            "halie-rawf",
+            "rod-cordington-rawf"
+          ],
+          [
+            "captain-crush-rawf",
+            "david-laursen-rawf"
+          ]
+        ],
+        "note": "No clean finish this pass could parse from the served text.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "spawn-rawf"
+          ],
+          [
+            "heartbreaker-john-murphy-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Intercontinental Title",
+        "note": "Spawn won with Desolation (a U-hook powerbomb variant), in his own second match in the fed — the show's own 3-Year Anniversary card.",
+        "order": 2
+      },
+      {
+        "participants": [
+          "jason-dameon-hill-rawf",
+          "too-hot-to-handle-matt-vandal-rawf",
+          "david-wilson-rawf"
+        ],
+        "stipulation": "Hardcore Title Elimination",
+        "note": "Fought inside a steel cage; no clean finish this pass could parse from the served text, David Wilson repeatedly kicking out of Dameon's own finishers.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "crippler-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "note": "No clean finish this pass could parse from the served text; Grave Digger's own ringside barbwire is introduced but the segment's own conclusion is not resolved in what this pass read. No World Title is contested on this broadcast, despite a tier-1 pass's own prior claim (see rawf-world's own titles.json notes).",
+        "order": 4
+      }
+    ],
+    "appearances": [
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-laursen-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "heartbreaker-john-murphy-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "rod-cordington-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "spawn-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "too-hot-to-handle-matt-vandal-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "grave-digger-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "jasmine-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "mr-showtime-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2003-01-15",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 15 January 2003",
+    "promotion": "rawf",
+    "date": {
+      "date": "2003-01-15",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2003-01-15.html"
+    },
+    "city": "Boston, Massachusetts",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2003-01-15.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "halie-rawf"
+          ],
+          [
+            "serj-taylor-rawf"
+          ],
+          [
+            "spawn-rawf"
+          ]
+        ],
+        "winner_side": 2,
+        "stipulation": "Intercontinental Title Triple Threat",
+        "note": "Spawn retained with Desolation on Serj Taylor, unbroken.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "crippler-rawf"
+          ],
+          [
+            "david-wilson-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "The Crippler was disqualified for leveling the referee with a chair after Wilson himself had gone for a weapon first.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "captain-crush-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Nontitle",
+        "note": "Darksider won with the Killing Machine.",
+        "order": 3
+      }
+    ],
+    "appearances": [
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "serj-taylor-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "spawn-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "grave-digger-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2003-01-22",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 22 January 2003",
+    "promotion": "rawf",
+    "date": {
+      "date": "2003-01-22",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2003-01-22.html"
+    },
+    "city": "New Orleans, Louisiana",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2003-01-22.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "rod-cordington-rawf",
+            "james-outlaw-richardson-rawf"
+          ],
+          [
+            "david-wilson-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Handicap — Hardcore Title",
+        "note": "David Wilson retained, carving 'Redemption' into Rod Cordington's own chest before the pin, Erica at ringside.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "heartbreaker-john-murphy-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "stipulation": "World Title",
+        "note": "No clean finish this pass could parse; the segment ends on a brutal beatdown of Heartbreaker John Murphy, EMTs called to ringside. The ledger's own record shows Darksider still champion at the promotion's own close (28 January 2003), five days after this broadcast — the last served show.",
+        "order": 2
+      }
+    ],
+    "appearances": [
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "heartbreaker-john-murphy-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "rod-cordington-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "erica-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-friday-fights-2002-05-24",
+    "type": "show",
+    "name": "RAWF Friday Fights, 24 May 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-05-24",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/friday-fights-2002-05-24.html"
+    },
+    "city": "London, England",
+    "page": "/promotions/rawf/archive/friday-fights-2002-05-24.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "mangler-rawf"
+          ],
+          [
+            "tony-rocky-horror-rawf"
+          ]
+        ],
+        "note": "Darksider's own hand-picked debut opponent for Tony Rocky Horror, staged to duck the assignment himself; the bell rang and Tony Rocky Horror threw The Mangler from the ring, but the served text never stages a formal decision.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "darksider-rawf"
+          ],
+          [
+            "tony-rocky-horror-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Won by a face-claw submission hold (Devil May Cry), the referee's three-count of a dropped arm.",
+        "order": 2
+      },
+      {
+        "participants": [
+          "dage-rawf",
+          "mabus-rawf",
+          "infected-youth-rawf",
+          "captain-crush-rawf"
+        ],
+        "winner": "captain-crush-rawf",
+        "stipulation": "No Disqualification Fourway",
+        "note": "For the Intercontinental Title; Captain Crush pinned Dage after a Semi-Frogsplash through the ringside steel steps.",
+        "order": 3
+      },
+      {
+        "participants": [
+          "ice-cold-rawf",
+          "styx-rawf",
+          "leia-sheridan-rawf",
+          "mr-showtime-rawf"
+        ],
+        "winner": "mr-showtime-rawf",
+        "stipulation": "Fourway",
+        "note": "For the Hardcore Title; Mr. Showtime schoolboyed Leia Sheridan for the pin after a chaotic four-way brawl.",
+        "order": 4
+      },
+      {
+        "sides": [
+          [
+            "trever-leiss-rawf"
+          ],
+          [
+            "david-laursen-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Won by count-out after David Laursen, ambushed backstage by Trever Leiss before the bell, never answered it.",
+        "order": 5
+      },
+      {
+        "sides": [
+          [
+            "jimi-sinister-rawf",
+            "tommy-payne-rawf"
+          ],
+          [
+            "jyd-and-showtime-rawf",
+            "jyd-roman-james-rawf",
+            "mr-showtime-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Tag Team Titles",
+        "note": "Challengers won by disqualification after Darksider ran in and struck Mr. Showtime with the World Title belt; the champions retained under the fed's own DQ convention. The match's own aftermath saw Victor Synn return with a new faction (Brandy Sangria, Untouchable, Kon Artist) alongside President Chaos, laying out Jimi Sinister, Tommy Payne, Darksider and Leia Sheridan.",
+        "order": 6
+      }
+    ],
+    "appearances": [
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "dage-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-laursen-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "ice-cold-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "infected-youth-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jimi-sinister-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-roman-james-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "leia-sheridan-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mabus-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mangler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mr-showtime-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "styx-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tommy-payne-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tony-rocky-horror-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "victor-synn-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "prez-chaos-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "untouchable-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "kon-artist-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "jyd-and-showtime-rawf",
+        "kind": "match"
+      }
+    ]
+  },
+  {
+    "id": "rawf-friday-fights-2002-05-31",
+    "type": "show",
+    "name": "RAWF Friday Fights, 31 May 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-05-31",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/friday-fights-2002-05-31.html"
+    },
+    "city": "Liverpool, England",
+    "page": "/promotions/rawf/archive/friday-fights-2002-05-31.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "jyd-roman-james-rawf",
+            "brandy-sangria-rawf",
+            "infected-youth-rawf"
+          ],
+          [
+            "david-laursen-rawf",
+            "ice-cold-rawf",
+            "kronic-krow-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Six Person Tag",
+        "note": "Brandy Sangria pinned David Laursen with a chair, the referee distracted by President Chaos.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "kon-artist-rawf"
+          ],
+          [
+            "tony-rocky-horror-rawf"
+          ]
+        ],
+        "stipulation": "No Disqualification Handicap",
+        "note": "Darksider announced Untouchable barred from the ring (a staged 'drug test'), leaving Kon Artist to face Tony Rocky Horror alone; the match dissolved into a beatdown and a JYD Roman James run-in with no formal decision staged.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "dage-rawf",
+            "styx-rawf"
+          ],
+          [
+            "mabus-rawf",
+            "leia-sheridan-rawf"
+          ]
+        ],
+        "stipulation": "Mixed Tag",
+        "note": "No clean finish reached in what this pass could parse; the segment ends with Darksider ambushing Untouchable and Kon Artist backstage.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "darksider-rawf"
+          ],
+          [
+            "captain-crush-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Intercontinental Title",
+        "note": "Won by tombstone piledriver after a false three-count broke on a Darksider rope-break; billed post-match as Darksider's second Intercontinental reign.",
+        "order": 4
+      },
+      {
+        "sides": [
+          [
+            "trever-leiss-rawf"
+          ],
+          [
+            "tommy-payne-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "United States Title",
+        "note": "Tommy Payne retained by bashing Trever Leiss with his own title belt for the pin.",
+        "order": 5
+      },
+      {
+        "sides": [
+          [
+            "mr-showtime-rawf"
+          ],
+          [
+            "jimi-sinister-rawf"
+          ]
+        ],
+        "note": "World Title match; degenerated into a mass beatdown by the newly formed State of Emergency faction (Tommy Payne, Captain Crush, Mabus, Ice Cold, Infected Youth) on both competitors, with Darksider turning on his own allies at the end. No formal decision staged.",
+        "order": 6
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "dage-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-laursen-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "ice-cold-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "infected-youth-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jimi-sinister-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-roman-james-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kon-artist-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kronic-krow-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "leia-sheridan-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mabus-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mr-showtime-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "styx-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tommy-payne-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tony-rocky-horror-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "prez-chaos-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-friday-fights-2002-06-08",
+    "type": "show",
+    "name": "RAWF Friday Fights, 8 June 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-06-08",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/friday-fights-2002-06-08.html"
+    },
+    "city": "Aberdeen, Scotland",
+    "page": "/promotions/rawf/archive/friday-fights-2002-06-08.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "brandy-sangria-rawf",
+            "untouchable-rawf",
+            "kon-artist-rawf"
+          ],
+          [
+            "infected-youth-rawf",
+            "hector-rawf",
+            "james-outlaw-richardson-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "James Outlaw pinned an unaware Untouchable for a 1-8-7/State of Emergency stable match upset.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "dage-rawf",
+            "tony-rocky-horror-rawf"
+          ],
+          [
+            "david-laursen-rawf",
+            "kronic-krow-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Dage pinned David Laursen with a top-rope Revolution after a blind tag from Tony Rocky Horror.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "mabus-rawf"
+          ],
+          [
+            "victor-synn-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Victor Synn won with the Guillotine DDT.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "ice-cold-rawf",
+            "styx-rawf"
+          ],
+          [
+            "jimi-sinister-rawf",
+            "leia-sheridan-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Tag Team",
+        "note": "Leia Sheridan rolled up Ice Cold for the win.",
+        "order": 4
+      },
+      {
+        "sides": [
+          [
+            "trever-leiss-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "1-8-7 Rules Intercontinental Title",
+        "note": "Trever Leiss sent Darksider through a flaming table with F.U.C.T. for the pin, then barely beat the referee's ten count himself to be declared the winner.",
+        "order": 5
+      },
+      {
+        "sides": [
+          [
+            "captain-crush-rawf",
+            "tommy-payne-rawf"
+          ],
+          [
+            "jyd-and-showtime-rawf",
+            "jyd-roman-james-rawf",
+            "mr-showtime-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Hell In The Cell — Tag Team Titles",
+        "note": "JYD Roman James pinned Captain Crush after Crush's own Crush-O-Matic attempt backfired; the champions retained.",
+        "order": 6
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "dage-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-laursen-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "hector-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "ice-cold-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "infected-youth-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jimi-sinister-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-roman-james-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kon-artist-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kronic-krow-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "leia-sheridan-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mabus-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mr-showtime-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "styx-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tommy-payne-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tony-rocky-horror-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "untouchable-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "victor-synn-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "prez-chaos-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "jyd-and-showtime-rawf",
+        "kind": "match"
+      }
+    ]
+  },
+  {
+    "id": "rawf-friday-fights-2002-06-14",
+    "type": "show",
+    "name": "RAWF Friday Fights, 14 June 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-06-14",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/friday-fights-2002-06-14.html"
+    },
+    "city": "Glasgow, Scotland",
+    "page": "/promotions/rawf/archive/friday-fights-2002-06-14.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "victor-synn-rawf"
+          ],
+          [
+            "james-outlaw-richardson-rawf"
+          ],
+          [
+            "leia-sheridan-rawf"
+          ]
+        ],
+        "winner_side": 2,
+        "stipulation": "Triple Threat",
+        "note": "Leia Sheridan moonsaulted James Outlaw for the pin after he had put Victor Synn through the announce table.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "dage-rawf"
+          ],
+          [
+            "hector-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Dage won with a Tombstone-position piledriver variant after dominating throughout.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "ice-cold-rawf",
+            "captain-crush-rawf"
+          ],
+          [
+            "kon-artist-rawf",
+            "styx-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Fourway Tag Team Elimination",
+        "note": "Billed a four-team tag elimination match for a Tag Team Title shot the following week (Dark Angel is named entering for a fourth team this pass could not otherwise resolve — unminted, no further textual presence found); Ice Cold's own Overcast slam finished Kon Artist for the win this pass could confirm.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "trever-leiss-rawf"
+          ],
+          [
+            "tony-rocky-horror-rawf"
+          ]
+        ],
+        "note": "Trever Leiss burst in already bloodied from a backstage attack by the masked man; no clean finish this pass could parse.",
+        "order": 4
+      },
+      {
+        "sides": [
+          [
+            "jyd-roman-james-rawf"
+          ],
+          [
+            "tommy-payne-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "JYD Roman James won with the Pisser, edging a war between 1-8-7 and State of Emergency members.",
+        "order": 5
+      },
+      {
+        "sides": [
+          [
+            "victor-synn-rawf",
+            "brandy-sangria-rawf"
+          ],
+          [
+            "jimi-sinister-rawf",
+            "darksider-rawf"
+          ]
+        ],
+        "stipulation": "Tornado Cage Match",
+        "note": "No clean finish this pass could parse from the served text.",
+        "order": 6
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "dage-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "hector-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "ice-cold-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jimi-sinister-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-roman-james-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kon-artist-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "leia-sheridan-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "styx-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tommy-payne-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tony-rocky-horror-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "victor-synn-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "prez-chaos-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-friday-fights-2002-06-28",
+    "type": "show",
+    "name": "RAWF Friday Fights, 28 June 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-06-28",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/friday-fights-2002-06-28.html"
+    },
+    "city": "Berlin, Germany",
+    "page": "/promotions/rawf/archive/friday-fights-2002-06-28.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "participants": [
+          "styx-rawf",
+          "trever-leiss-rawf",
+          "kronic-krow-rawf"
+        ],
+        "winner": "trever-leiss-rawf",
+        "stipulation": "Fatal Fourway",
+        "note": "Trever Leiss forced a forward roll out of Kronic Krow's own Boston Crab for the pin. A fourth entrant billed as Dark Angel in the card header never clears the mint bar — no textual presence beyond the header this pass found, so the entrant is omitted here rather than minted to fill the field.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "tommy-payne-rawf"
+          ],
+          [
+            "tony-rocky-horror-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Won after Victor Synn broke a broken bat over Tony Rocky Horror's head and Tommy Payne fell on top for the cover.",
+        "order": 2
+      },
+      {
+        "participants": [
+          "joey-t-rawf",
+          "kon-artist-rawf",
+          "james-outlaw-richardson-rawf"
+        ],
+        "winner": "joey-t-rawf",
+        "stipulation": "Fatal Fourway",
+        "eliminations": [
+          {
+            "who": "Mr. Disco",
+            "by": "kon-artist-rawf",
+            "note": "unminted — no further textual presence this pass found"
+          },
+          {
+            "who": "kon-artist-rawf",
+            "by": "james-outlaw-richardson-rawf"
+          },
+          {
+            "who": "james-outlaw-richardson-rawf",
+            "by": "joey-t-rawf"
+          }
+        ],
+        "note": "Elimination rules; Joey T's own corkscrew body attack eliminated James Outlaw last.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "dage-rawf"
+          ],
+          [
+            "brandy-sangria-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "winner_side": 2,
+        "stipulation": "Intercontinental Title Triple Threat",
+        "note": "Darksider hit the Killing Machine on Dage for the pin, retaining.",
+        "order": 4
+      },
+      {
+        "sides": [
+          [
+            "ice-cold-rawf",
+            "captain-crush-rawf"
+          ],
+          [
+            "jyd-and-showtime-rawf",
+            "jyd-roman-james-rawf",
+            "mr-showtime-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Tag Team Titles",
+        "note": "Mr. Showtime speared Captain Crush and JYD Roman James covered for the pin; the champions retained.",
+        "order": 5
+      },
+      {
+        "sides": [
+          [
+            "victor-synn-rawf"
+          ],
+          [
+            "jimi-sinister-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "No Disqualification World Title",
+        "note": "Jimi Sinister retained with a Heavy Metal Plex after Victor Synn broke a ball bat over his head and nearly won.",
+        "order": 6
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "dage-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "ice-cold-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jimi-sinister-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "joey-t-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-roman-james-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kon-artist-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kronic-krow-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mr-showtime-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "styx-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tommy-payne-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tony-rocky-horror-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "victor-synn-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "prez-chaos-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "leia-sheridan-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "jyd-and-showtime-rawf",
+        "kind": "match"
+      }
+    ]
+  },
+  {
+    "id": "rawf-friday-fights-2002-07-05",
+    "type": "show",
+    "name": "RAWF Friday Fights, 5 July 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-07-05",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/friday-fights-2002-07-05.html"
+    },
+    "city": "Las Vegas, Nevada",
+    "page": "/promotions/rawf/archive/friday-fights-2002-07-05.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "participants": [
+          "kronic-krow-rawf",
+          "kon-artist-rawf",
+          "joey-t-rawf"
+        ],
+        "winner": "joey-t-rawf",
+        "stipulation": "Triple Threat",
+        "note": "Joey T's own corkscrew body attack off the top rope finished Kon Artist for the win.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "trever-leiss-rawf",
+            "jyd-roman-james-rawf",
+            "brandy-sangria-rawf"
+          ],
+          [
+            "jimi-sinister-rawf",
+            "captain-crush-rawf",
+            "ice-cold-rawf"
+          ]
+        ],
+        "stipulation": "Six Person Tag",
+        "note": "No clean finish this pass could parse; the broadcast runs out of time mid-angle, Brandy Sangria confronting Jimi Sinister.",
+        "order": 2
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "ice-cold-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jimi-sinister-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "joey-t-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-roman-james-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kon-artist-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kronic-krow-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "prez-chaos-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-friday-fights-2002-07-14",
+    "type": "show",
+    "name": "RAWF Friday Fights, 14 July 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-07-14",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/friday-fights-2002-07-14.html"
+    },
+    "city": "Charlotte, North Carolina",
+    "page": "/promotions/rawf/archive/friday-fights-2002-07-14.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "kon-artist-rawf"
+          ],
+          [
+            "captain-crush-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Grudge Match",
+        "note": "Captain Crush finished Kon Artist with the Crush-O-Matic 3001.",
+        "order": 1
+      },
+      {
+        "participants": [
+          "preacher-rawf",
+          "dage-rawf",
+          "kronic-krow-rawf",
+          "joey-t-rawf",
+          "styx-rawf",
+          "tony-rocky-horror-rawf",
+          "trever-leiss-rawf"
+        ],
+        "winner": "tony-rocky-horror-rawf",
+        "stipulation": "Hardcore Brawl — No Disqualification Last Man Standing",
+        "eliminations": [
+          {
+            "who": "trever-leiss-rawf",
+            "by": "tony-rocky-horror-rawf",
+            "note": "Horrorplex, after Trever Leiss had rolled up Styx moments earlier"
+          }
+        ],
+        "note": "Seven-way brawl; this pass could confirm Trever Leiss's own elimination and Tony Rocky Horror's own eventual win, not the full order.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "ice-cold-and-mandy-rawf",
+            "ice-cold-rawf",
+            "mandy-rawf"
+          ],
+          [
+            "jyd-and-showtime-rawf",
+            "jyd-roman-james-rawf",
+            "mr-showtime-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Tag Team Titles",
+        "note": "Ice Cold pinned Mr. Showtime after a double-team assist from Mandy, on a card thrown into chaos by a separate Tony Rocky Horror/Malice angle.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "victor-synn-rawf"
+          ],
+          [
+            "tommy-payne-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "stipulation": "Mercy Is For the Weak Ownership Match",
+        "note": "No clean finish this pass could parse from the served text; the segment ends on Darksider left bloodied and broken after a storyline reveal (his own fiancée exposed as a Chaos plant).",
+        "order": 4
+      },
+      {
+        "sides": [
+          [
+            "brandy-sangria-rawf"
+          ],
+          [
+            "jimi-sinister-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "World Title",
+        "note": "Brandy Sangria won with a Shooting Star Press, the champion's second cover of the night.",
+        "order": 5
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "dage-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "ice-cold-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jimi-sinister-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "joey-t-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-roman-james-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kon-artist-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kronic-krow-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mandy-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mr-showtime-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "preacher-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "styx-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tommy-payne-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tony-rocky-horror-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "victor-synn-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "prez-chaos-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "ice-cold-and-mandy-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-and-showtime-rawf",
+        "kind": "match"
+      }
+    ]
+  },
+  {
+    "id": "rawf-friday-fights-2002-07-19",
+    "type": "show",
+    "name": "RAWF Friday Fights, 19 July 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-07-19",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/friday-fights-2002-07-19.html"
+    },
+    "city": "Norfolk, Virginia",
+    "page": "/promotions/rawf/archive/friday-fights-2002-07-19.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "captain-crush-rawf"
+          ],
+          [
+            "james-outlaw-richardson-rawf"
+          ]
+        ],
+        "stipulation": "Intercontinental Title",
+        "result": "no-contest",
+        "note": "Ruled a double disqualification for the vacant title after both men shoved the referee.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "victor-synn-rawf"
+          ],
+          [
+            "preacher-rawf"
+          ]
+        ],
+        "note": "Victor Synn was disqualified for a Victoria chair shot, then beat Preacher down further with the chair after the bell.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "tony-rocky-horror-rawf"
+          ],
+          [
+            "brandy-sangria-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "World Title",
+        "note": "Brandy Sangria retained after Tony Rocky Horror gouged her eye and the match turned decisively her way.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "jyd-roman-james-rawf"
+          ],
+          [
+            "mr-showtime-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Hardcore Title",
+        "note": "JYD Roman James won with a Dawgpound onto a steel chair.",
+        "order": 4
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-roman-james-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "mr-showtime-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "preacher-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tony-rocky-horror-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "victor-synn-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "prez-chaos-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "victoria-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-friday-fights-2002-07-26",
+    "type": "show",
+    "name": "RAWF Friday Fights, 26 July 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-07-26",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/friday-fights-2002-07-26.html"
+    },
+    "city": "Tacoma, Washington",
+    "page": "/promotions/rawf/archive/friday-fights-2002-07-26.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "captain-crush-rawf"
+          ],
+          [
+            "james-outlaw-richardson-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Steel Cage — Intercontinental Title",
+        "note": "Won for the vacant title by chokeslamming James Outlaw twenty feet through the ring canvas before escaping the cage to the floor.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "ice-cold-rawf"
+          ],
+          [
+            "brandy-sangria-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "World Title",
+        "note": "Brandy Sangria retained with a Divine Rewind after a guest color commentator (Eris) heckled the broadcast throughout.",
+        "order": 2
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "ice-cold-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "eris-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "tony-rocky-horror-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-09-11",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 11 September 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-09-11",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-09-11.html"
+    },
+    "city": "San Francisco, California",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-09-11.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "jd-awesome-rawf"
+          ],
+          [
+            "tony-rocky-horror-rawf"
+          ]
+        ],
+        "stipulation": "United States Title",
+        "note": "No clean finish this pass could parse from the served text; the ledger records the title vacant from this date.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "dr-detroit-rawf",
+            "kronic-krow-rawf"
+          ],
+          [
+            "stalker-and-hawk-rawf",
+            "nightstalker-rawf",
+            "nighthawk-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Texas Tornado Tag Team",
+        "note": "Kronic Krow's own top-rope 450 splash finished Nightstalker for the win.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "james-outlaw-richardson-rawf"
+          ],
+          [
+            "brandy-sangria-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "World Title",
+        "note": "Brandy Sangria retained with a Divine Rewind after James Outlaw busted her open and nearly won with a brainbuster.",
+        "order": 3
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "dr-detroit-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kronic-krow-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "nighthawk-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "nightstalker-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "tony-rocky-horror-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "stalker-and-hawk-rawf",
+        "kind": "match"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-09-18",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 18 September 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-09-18",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-09-18.html"
+    },
+    "city": "New Orleans, Louisiana",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-09-18.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "kronic-krow-rawf"
+          ],
+          [
+            "jd-awesome-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Battle for a Title Shot",
+        "note": "J.D. Awesome countered a Kronic Krow suplex attempt into Awesomely Done for the win.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "james-outlaw-richardson-rawf"
+          ],
+          [
+            "captain-crush-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Intercontinental Title",
+        "note": "A masked man (later revealed at November Nightmares as David Laursen) chokeslammed James Outlaw, letting Captain Crush steal the pin and retain.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "ice-cold-rawf"
+          ],
+          [
+            "brandy-sangria-rawf"
+          ]
+        ],
+        "stipulation": "World Title",
+        "note": "No clean finish this pass could parse; Brandy Sangria laid out both broadcasters (Chad Bordeaux, Paul Marshall) as the show ran out of time.",
+        "order": 3
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "ice-cold-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kronic-krow-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "david-laursen-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-09-25",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 25 September 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-09-25",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-09-25.html"
+    },
+    "city": "New Orleans, Louisiana",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-09-25.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "nightstalker-rawf"
+          ],
+          [
+            "halie-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Halie won by referee stoppage (knockout), timed at 3:42.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "dr-detroit-rawf"
+          ],
+          [
+            "kronic-krow-rawf"
+          ]
+        ],
+        "note": "No clean finish this pass could parse from the served text.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "jd-awesome-rawf"
+          ],
+          [
+            "jyd-roman-james-rawf"
+          ]
+        ],
+        "stipulation": "Hardcore Title",
+        "note": "No clean finish this pass could parse from the served text.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "james-outlaw-richardson-rawf"
+          ],
+          [
+            "captain-crush-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Intercontinental Title",
+        "note": "A masked man (David Laursen) interfered on Captain Crush's own behalf again, but The Crippler took the masked man out this time; James Outlaw pinned Captain Crush for the title.",
+        "order": 4
+      }
+    ],
+    "appearances": [
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "dr-detroit-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jyd-roman-james-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "kronic-krow-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "nightstalker-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-10-02",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 2 October 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-10-02",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-10-02.html"
+    },
+    "city": "Lafayette, Louisiana",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-10-02.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "jason-dameon-hill-rawf"
+          ],
+          [
+            "nightstalker-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "No Disqualification",
+        "note": "Dameon finished Nightstalker with the Cranium Crusher (the Overdose).",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "crippler-rawf"
+          ],
+          [
+            "jd-awesome-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Nontitle",
+        "note": "The Crippler was disqualified for a chair shot, then leveled the referee too — a DQ loss on paper the served text plays as a Crippler win in spirit.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "halie-rawf"
+          ],
+          [
+            "james-outlaw-richardson-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Intercontinental Title",
+        "note": "James Outlaw retained, driving Halie down with a sunset-flip counter for the pin after a hard-fought match.",
+        "order": 3
+      }
+    ],
+    "appearances": [
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "nightstalker-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-10-09",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 9 October 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-10-09",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-10-09.html"
+    },
+    "city": "Houston, Texas",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-10-09.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "jason-dameon-hill-rawf"
+          ],
+          [
+            "james-outlaw-richardson-rawf"
+          ]
+        ],
+        "stipulation": "Intercontinental Title",
+        "result": "no-contest",
+        "note": "Ruled a disqualification win for James Outlaw after a masked man attacked Dameon; the champion retains under the fed's own DQ convention.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "crippler-rawf"
+          ],
+          [
+            "jd-awesome-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Death Cube — Hardcore Title",
+        "note": "The Crippler won by pinfall/submission/knockout rules inside the cage.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "captain-crush-rawf"
+          ],
+          [
+            "brandy-sangria-rawf"
+          ]
+        ],
+        "stipulation": "World Title",
+        "note": "No clean finish this pass could parse; The Crippler interfered with a Singapore cane, drawing a disqualification call against him mid-match.",
+        "order": 3
+      }
+    ],
+    "appearances": [
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "david-laursen-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-10-16",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 16 October 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-10-16",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-10-16.html"
+    },
+    "city": "Fargo, North Dakota",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-10-16.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "crippler-rawf",
+            "bone-crusher-rawf"
+          ],
+          [
+            "jason-dameon-hill-rawf",
+            "james-outlaw-richardson-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Tag Team",
+        "note": "Dameon pinned The Crippler (the Hardcore Champion) with the Overdose after a chair shot to Bone Crusher on the outside.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "trever-leiss-rawf"
+          ],
+          [
+            "captain-crush-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Trever Leiss won with a top-rope Entrance to Exile after Captain Crush was counted out chasing him.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "darksider-rawf"
+          ],
+          [
+            "halie-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Handicap Match",
+        "note": "Darksider pinned Halie with the Killing Machine; Brandy Sangria, present as Darksider's own second, declined to break the pin.",
+        "order": 3
+      }
+    ],
+    "appearances": [
+      {
+        "who": "bone-crusher-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "grave-digger-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-10-23",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 23 October 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-10-23",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-10-23.html"
+    },
+    "city": "Charlotte, North Carolina",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-10-23.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "captain-crush-rawf"
+          ],
+          [
+            "jason-dameon-hill-rawf"
+          ],
+          [
+            "brandy-sangria-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Nontitle Triple Threat",
+        "note": "Dameon pinned Captain Crush with the Overdose, never pinning the champion Brandy Sangria.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "trever-leiss-rawf"
+          ],
+          [
+            "bone-crusher-rawf"
+          ]
+        ],
+        "note": "Trever Leiss was disqualified for a Tarantula submission he refused to break; The Crippler ran in with his cane afterward.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "darksider-rawf",
+            "crippler-rawf"
+          ],
+          [
+            "jd-awesome-rawf",
+            "halie-rawf"
+          ]
+        ],
+        "stipulation": "Tag Team",
+        "note": "No clean finish this pass could parse; the show runs out of time on a J.D. Awesome chair shot to Darksider.",
+        "order": 3
+      }
+    ],
+    "appearances": [
+      {
+        "who": "bone-crusher-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "grave-digger-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-rawf-birthday-bash-2002-10-30",
+    "type": "show",
+    "name": "RAWF Birthday Bash, 30 October 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-10-30",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/rawf-birthday-bash-2002-10-30.html"
+    },
+    "city": "Washington, DC",
+    "page": "/promotions/rawf/archive/rawf-birthday-bash-2002-10-30.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "halie-rawf"
+          ],
+          [
+            "david-wilson-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Barbwire — Hardcore Title Shot",
+        "note": "David Wilson won with Fade to Black after a brutal barbwire beating.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "trever-leiss-rawf"
+          ],
+          [
+            "bone-crusher-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Street Fight — Intercontinental Title Shot",
+        "note": "Bone Crusher finished Trever Leiss with the Bone Cruncher.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "rod-cordington-rawf"
+          ],
+          [
+            "james-outlaw-richardson-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Intercontinental Title",
+        "note": "James Outlaw retained, reversing an Outlawed attempt into the pin.",
+        "order": 3
+      },
+      {
+        "participants": [
+          "jd-awesome-rawf",
+          "darksider-rawf",
+          "crippler-rawf"
+        ],
+        "winner": "crippler-rawf",
+        "stipulation": "Ladder — Hardcore Title",
+        "note": "The Crippler retained, climbing the ladder with the belt still in hand as it tipped.",
+        "order": 4
+      },
+      {
+        "participants": [
+          "captain-crush-rawf",
+          "jason-dameon-hill-rawf",
+          "brandy-sangria-rawf"
+        ],
+        "stipulation": "Three-Way Elimination World Title",
+        "result": "no-contest",
+        "note": "Ended in a no-contest per the fed's own results ledger (promotions/rawf/archive/previous-ppvs.html); the served show's own text leaves the match's own final fall unresolved in what this pass could parse — the title was vacated, per the fed's own title-histories ledger.",
+        "order": 5
+      }
+    ],
+    "appearances": [
+      {
+        "who": "bone-crusher-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "brandy-sangria-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "rod-cordington-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "grave-digger-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-11-06",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 6 November 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-11-06",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-11-06.html"
+    },
+    "city": "Memphis, Tennessee",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-11-06.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "participants": [
+          "too-hot-to-handle-matt-vandal-rawf",
+          "trever-leiss-rawf",
+          "jd-awesome-rawf",
+          "halie-rawf",
+          "rod-cordington-rawf"
+        ],
+        "winner": "too-hot-to-handle-matt-vandal-rawf",
+        "stipulation": "Sudden Death — World Title Tournament Qualifier",
+        "note": "First pin wins outright; Matt Vandal submitted Rod Cordington with the Torture Rack to qualify for the tournament.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "james-outlaw-richardson-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "World Title Tournament Round 1",
+        "note": "Darksider won after a count-out spot and a cover Grave Digger's own ringside presence helped protect.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "david-wilson-rawf"
+          ],
+          [
+            "bone-crusher-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "World Title Tournament Round 1",
+        "note": "David Wilson won by powerbombing Bone Crusher onto the ringside steel steps, President Chaos ringside throughout.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "too-hot-to-handle-matt-vandal-rawf"
+          ],
+          [
+            "crippler-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "World Title Tournament Round 1",
+        "note": "Matt Vandal won after Grave Digger pulled a fast-counting referee from the ring and a second referee's own count went Vandal's way.",
+        "order": 4
+      }
+    ],
+    "appearances": [
+      {
+        "who": "bone-crusher-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "rod-cordington-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "too-hot-to-handle-matt-vandal-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-11-13",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 13 November 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-11-13",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-11-13.html"
+    },
+    "city": "St. Louis, Missouri",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-11-13.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "jd-awesome-rawf"
+          ],
+          [
+            "y2k-kris-jaric-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Y2K Kris Jaric won by submission.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "trever-leiss-rawf"
+          ],
+          [
+            "crippler-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Nontitle",
+        "note": "The Crippler won by submission with the Crippling Effect.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "james-outlaw-richardson-rawf",
+            "halie-rawf",
+            "david-wilson-rawf"
+          ],
+          [
+            "bone-crusher-rawf",
+            "rod-cordington-rawf",
+            "too-hot-to-handle-matt-vandal-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Six Man Tag",
+        "note": "Matt Vandal pinned James Outlaw after David Wilson turned on his own partner Halie mid-match.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "jason-dameon-hill-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "World Title Tournament Semifinal",
+        "note": "Darksider hit the Killing Machine for the pin after David Wilson attacked The Crippler at ringside.",
+        "order": 4
+      }
+    ],
+    "appearances": [
+      {
+        "who": "bone-crusher-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "rod-cordington-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "too-hot-to-handle-matt-vandal-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "y2k-kris-jaric-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "grave-digger-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-11-20",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 20 November 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-11-20",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-11-20.html"
+    },
+    "city": "Cincinnati, Ohio",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-11-20.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "jason-dameon-hill-rawf"
+          ],
+          [
+            "klaus-kaiser-rawf"
+          ],
+          [
+            "bone-crusher-rawf"
+          ]
+        ],
+        "stipulation": "No Disqualification Triple Threat",
+        "note": "No clean finish this pass could parse from the served text; a masked man (later revealed as David Laursen) is a running presence throughout, taunting Captain Crush over an Intercontinental Title rematch.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "too-hot-to-handle-matt-vandal-rawf"
+          ],
+          [
+            "david-wilson-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "World Title Tournament Semifinal",
+        "note": "Matt Vandal won by count-out after David Wilson walked to the back mid-match, advancing to the final against Darksider.",
+        "order": 2
+      }
+    ],
+    "appearances": [
+      {
+        "who": "bone-crusher-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "klaus-kaiser-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "too-hot-to-handle-matt-vandal-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "grave-digger-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "david-laursen-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-november-nightmares-2002-11-27",
+    "type": "show",
+    "name": "RAWF November Nightmares, 27 November 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-11-27",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/november-nightmares-2002-11-27.html"
+    },
+    "city": "Uniondale, New York",
+    "page": "/promotions/rawf/archive/november-nightmares-2002-11-27.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "participants": [
+          "jason-dameon-hill-rawf",
+          "rod-cordington-rawf",
+          "halie-rawf",
+          "trever-leiss-rawf",
+          "y2k-kris-jaric-rawf",
+          "jd-awesome-rawf",
+          "captain-crush-rawf"
+        ],
+        "winner": "captain-crush-rawf",
+        "stipulation": "Nightmare Gauntlet",
+        "eliminations": [
+          {
+            "who": "rod-cordington-rawf",
+            "by": "jason-dameon-hill-rawf"
+          },
+          {
+            "who": "halie-rawf",
+            "by": "jason-dameon-hill-rawf"
+          },
+          {
+            "who": "trever-leiss-rawf",
+            "by": "jason-dameon-hill-rawf"
+          },
+          {
+            "who": "jason-dameon-hill-rawf",
+            "by": "y2k-kris-jaric-rawf",
+            "note": "Walls of Jaric submission, after roughly 32 minutes and five opponents"
+          },
+          {
+            "who": "jd-awesome-rawf",
+            "by": "y2k-kris-jaric-rawf",
+            "note": "Captain Crush attacked J.D. Awesome backstage with a lead pipe before he ever entered; Jaric pinned him on arrival"
+          },
+          {
+            "who": "y2k-kris-jaric-rawf",
+            "by": "captain-crush-rawf",
+            "note": "David Laursen, unmasked afterward as the fed's own recurring masked man, chair-shotted Jaric from behind to break the Walls of Jaric and let Crush steal the pin"
+          }
+        ],
+        "note": "Captain Crush's own first Nightmare Gauntlet win; the finish unmasked the fed's own recurring masked man as David Laursen.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "bone-crusher-rawf"
+          ],
+          [
+            "james-outlaw-richardson-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Last Man Standing — Intercontinental Title",
+        "note": "Bone Crusher won with Captain Crush's own outside assistance.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "david-wilson-rawf"
+          ],
+          [
+            "crippler-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Falls Count Anywhere — Hardcore Title",
+        "note": "David Wilson won with a sledgehammer shot to the back after both men kicked out of repeated finishers.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "too-hot-to-handle-matt-vandal-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Death Cube, Two Out of Three Falls — World Title",
+        "note": "Darksider won the deciding Fall From Grace fall for the vacant title, the tournament final against Matt Vandal.",
+        "order": 4
+      }
+    ],
+    "appearances": [
+      {
+        "who": "bone-crusher-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jd-awesome-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "rod-cordington-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "too-hot-to-handle-matt-vandal-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "trever-leiss-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "y2k-kris-jaric-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-12-04",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 4 December 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-12-04",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-12-04.html"
+    },
+    "city": "Vancouver, British Columbia",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-12-04.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "heartbreaker-john-murphy-rawf",
+            "rod-cordington-rawf"
+          ],
+          [
+            "captain-crush-rawf",
+            "david-laursen-rawf"
+          ]
+        ],
+        "winner_side": 0,
+        "stipulation": "Tag Team",
+        "note": "Heartbreaker John Murphy finished David Laursen with the Heartstopper.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "halie-rawf"
+          ],
+          [
+            "too-hot-to-handle-matt-vandal-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Matt Vandal won by submission (Torture Rack).",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "jason-dameon-hill-rawf"
+          ],
+          [
+            "david-wilson-rawf"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Hardcore Title",
+        "note": "David Wilson retained with an elbow drop off a ladder onto Dameon.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "james-outlaw-richardson-rawf"
+          ],
+          [
+            "darksider-rawf"
+          ]
+        ],
+        "stipulation": "No Disqualification",
+        "note": "No clean finish this pass could parse from the served text.",
+        "order": 4
+      }
+    ],
+    "appearances": [
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-laursen-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "heartbreaker-john-murphy-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "rod-cordington-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "too-hot-to-handle-matt-vandal-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "grave-digger-rawf",
+        "kind": "angle"
+      }
+    ]
+  },
+  {
+    "id": "rawf-wednesday-wargames-2002-12-11",
+    "type": "show",
+    "name": "RAWF Wednesday Wargames, 11 December 2002",
+    "promotion": "rawf",
+    "date": {
+      "date": "2002-12-11",
+      "precision": "exact",
+      "source": "the show's own dated title, served at promotions/rawf/archive/wednesday-wargames-2002-12-11.html"
+    },
+    "city": "Montreal, Quebec",
+    "page": "/promotions/rawf/archive/wednesday-wargames-2002-12-11.html",
+    "collection": "0081",
+    "matches": [
+      {
+        "sides": [
+          [
+            "rod-cordington-rawf"
+          ],
+          [
+            "halie-rawf"
+          ],
+          [
+            "david-laursen-rawf"
+          ]
+        ],
+        "stipulation": "Normal Match",
+        "note": "No clean finish this pass could parse from the served text — repeated near-falls between all three with no bell called in what this pass read.",
+        "order": 1
+      },
+      {
+        "sides": [
+          [
+            "james-outlaw-richardson-rawf"
+          ],
+          [
+            "heartbreaker-john-murphy-rawf"
+          ]
+        ],
+        "stipulation": "Intercontinental Title",
+        "note": "James Outlaw's own pin was overturned on review and the match restarted per the fed's own on-air ruling; Heartbreaker John Murphy won the restart outright with the Heartstopper, retaining. One match, two bells, per the fed's own restart.",
+        "order": 2
+      },
+      {
+        "sides": [
+          [
+            "jason-dameon-hill-rawf",
+            "captain-crush-rawf"
+          ],
+          [
+            "klaus-kaiser-rawf",
+            "spawn-rawf"
+          ]
+        ],
+        "stipulation": "Intercontinental Contendership",
+        "note": "No clean finish this pass could parse from the served text.",
+        "order": 3
+      },
+      {
+        "sides": [
+          [
+            "crippler-rawf",
+            "too-hot-to-handle-matt-vandal-rawf"
+          ],
+          [
+            "darksider-rawf",
+            "david-wilson-rawf"
+          ]
+        ],
+        "stipulation": "Tag Team",
+        "note": "No clean finish this pass could parse; the broadcast runs out of time on a four-way brawl spilling to ringside.",
+        "order": 4
+      }
+    ],
+    "appearances": [
+      {
+        "who": "captain-crush-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "crippler-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "darksider-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-laursen-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "david-wilson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "halie-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "heartbreaker-john-murphy-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "james-outlaw-richardson-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "jason-dameon-hill-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "klaus-kaiser-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "rod-cordington-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "spawn-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "too-hot-to-handle-matt-vandal-rawf",
+        "kind": "match"
+      },
+      {
+        "who": "chad-bordeaux-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "paul-marshall-rawf",
+        "kind": "angle"
+      },
+      {
+        "who": "rudolph-rawf",
+        "kind": "angle"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1156 @@
+[
+ {
+  "id": "la-famiglia-usew",
+  "type": "unit",
+  "name": "La Famiglia",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers, managed by Don Antonio",
+    "source": "promotions/summit-of-e-wrestling/archive/swa-usew-leprecharnage-part-one-1996-03-18.html"
+   }
+  ],
+  "caption": "A Godfather-themed pair of former Television champions with a Don at ringside, who opened Leprecharnage by winning and closed April by taking the Television Tag Team titles' champions to a disqualification.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Big Bruno",
+    "character_id": "big-bruno-usew"
+   },
+   {
+    "name": "Jack Mafia",
+    "character_id": "jack-mafia-usew"
+   }
+  ]
+ },
+ {
+  "id": "the-imperial-japanese-navy-usew",
+  "type": "unit",
+  "name": "The Imperial Japanese Navy",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers, managed by Hojo Tojomoto",
+    "source": "promotions/summit-of-e-wrestling/archive/swa-usew-leprecharnage-part-one-1996-03-18.html"
+   }
+  ],
+  "caption": "Two Battleships at a combined 1,089 pounds, led to the ring by a manager with a rattan cane, whose Pearl Harbor double avalanche missed at Leprecharnage and landed five weeks later.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "IJN"
+  ],
+  "members": [
+   {
+    "name": "Battleship Yamato",
+    "character_id": "battleship-yamato-usew"
+   },
+   {
+    "name": "Battleship Musashi",
+    "character_id": "battleship-musashi-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "j-a-p-a-n-rspwf"
+    ],
+    "note": "The containment is on the normalized letters of an acronym, not on a shared name. Unrelated. Recorded rather than left silent."
+   }
+  ]
+ },
+ {
+  "id": "the-smooth-criminals-usew",
+  "type": "unit",
+  "name": "The Smooth Criminals",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers, managed by Tara Jensen",
+    "source": "promotions/summit-of-e-wrestling/archive/swa-usew-leprecharnage-part-one-1996-03-18.html"
+   }
+  ],
+  "caption": "Billed out of the House of Style in Los Angeles and revealed later the same night as two of the four masked men in a new stable, they won their Leprecharnage debut with two Going out of Styles.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Duane Machismo",
+    "character_id": "duane-machismo-usew"
+   },
+   {
+    "name": "Shane Matthews",
+    "character_id": "shane-matthews-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "smooth"
+    ],
+    "note": "Containment on the single word Smooth. Unrelated. Recorded rather than left silent."
+   }
+  ]
+ },
+ {
+  "id": "the-chinese-connection-usew",
+  "type": "unit",
+  "name": "The Chinese Connection",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/summit-of-e-wrestling/archive/swa-usew-leprecharnage-part-one-1996-03-18.html"
+   }
+  ],
+  "caption": "A Hong Kong pair known for their quickness, who controlled most of their Leprecharnage match and lost it when one of them decided he could finish it alone.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "White Tiger",
+    "character_id": "white-tiger-usew"
+   },
+   {
+    "name": "Red Dragon",
+    "character_id": "red-dragon-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "connection"
+    ],
+    "note": "Checked by hand at mint: the overlap is a shared generic word or a decorated nickname that normalises into one, not a shared billing. Nothing but the substring ties this 1995-96 usenet record to the others, no document names two of them, and a bare word never joins. Recorded as an explicit distinctness assertion rather than left silent, per the no-auto-merge-and-no-silent-distinctness rule."
+   }
+  ]
+ },
+ {
+  "id": "blackjack-usew",
+  "type": "unit",
+  "name": "BlackJack",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers, managed by The Pit Boss",
+    "source": "promotions/usew/archive/usew-leprecharnage-pt-3-1996-03-26.html"
+   }
+  ],
+  "caption": "The World Television Tag Team Champions of early 1996, who kept the belts at Leprecharnage by being disqualified and lost them three weeks later to a superplex into a top-rope leg drop.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Ace McKenzie",
+    "character_id": "ace-mckenzie-usew"
+   },
+   {
+    "name": "Jimmy Harlan",
+    "character_id": "jimmy-harlan-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "blackjack-4ww"
+    ],
+    "note": "A card-sharp gimmick name two unrelated federations used seven years apart; that row is a single wrestler, this one a tag team. A stock gimmick name this hobby reused freely across unrelated federations and decades. Nothing but the word ties this 1996 usenet record to the others; a bare name never joins, and the no-merge default stands. Recorded as an explicit distinctness assertion, not a silence."
+   }
+  ]
+ },
+ {
+  "id": "the-honor-guard-usew",
+  "type": "unit",
+  "name": "The Honor Guard",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers, visiting from the AWI",
+    "source": "promotions/usew/archive/usew-leprecharnage-pt-3-1996-03-26.html"
+   }
+  ],
+  "caption": "The AWI's own second-ranked team, sent to Leprecharnage without a manager because the one they had hired could not pass the USeW's licensing test, and given the win without the belts.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Sam Richards",
+    "character_id": "sam-richards-usew"
+   },
+   {
+    "name": "Rich Greenspear",
+    "character_id": "rich-greenspear-usew"
+   }
+  ]
+ },
+ {
+  "id": "the-white-knights-usew",
+  "type": "unit",
+  "name": "The White Knights",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-leprecharnage-pt-3-1996-03-26.html"
+   }
+  ],
+  "caption": "The undefeated World Tag Team Champions, billed out of London, who shook hands before the Leprecharnage title match and finished it in three minutes thirty-six.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Thunderblade Greg Knight",
+    "character_id": "greg-knight-usew"
+   },
+   {
+    "name": "Warhammer William Knight",
+    "character_id": "william-knight-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "night-oww"
+    ],
+    "note": "Containment on a substring of Knights that happens to spell another entity's whole name. Unrelated. Recorded rather than left silent."
+   }
+  ]
+ },
+ {
+  "id": "the-equalizers-usew",
+  "type": "unit",
+  "name": "The Equalizers",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-leprecharnage-pt-3-1996-03-26.html"
+   }
+  ],
+  "caption": "Two Mikes out of Philadelphia, described as top contenders in their own federation, who took a World Tag Team title shot at Leprecharnage and never got the second man into the ring.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Mike the Madman Schmidt",
+    "character_id": "mike-schmidt-usew"
+   },
+   {
+    "name": "Mike the Landmine Lavin",
+    "character_id": "mike-lavin-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-equalizers-lcw-1997"
+    ],
+    "note": "A stock gimmick name this hobby reused freely across unrelated federations and decades. Nothing but the word ties this 1996 usenet record to the others; a bare name never joins, and the no-merge default stands. Recorded as an explicit distinctness assertion, not a silence."
+   }
+  ]
+ },
+ {
+  "id": "nightmare-inc-usew",
+  "type": "unit",
+  "name": "Nightmare Inc.",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-monday-night-blow-out-4-8-1996-04-13.html"
+   }
+  ],
+  "caption": "Two brothers who traded pink and light blue for black and grey in April 1996, announced they had had enough of entertaining, and spent the rest of the month chasing the Killer Kats through anyone who was in the way.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "The Horrorwitzes",
+   "Nightmare, Inc."
+  ],
+  "members": [
+   {
+    "name": "Larry Horrorwitz",
+    "character_id": "larry-horrorwitz-usew"
+   },
+   {
+    "name": "Harry Horrorwitz",
+    "character_id": "harry-horrorwitz-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "horror-wccw",
+     "night-oww",
+     "nightmare-napw",
+     "nightmare-naw",
+     "nightmare-pwa-pioneer",
+     "nightmare-rspwf",
+     "nightmare-wccw"
+    ],
+    "note": "Checked by hand at mint: the overlap is a shared generic word or a decorated nickname that normalises into one, not a shared billing. Nothing but the substring ties this 1995-96 usenet record to the others, no document names two of them, and a bare word never joins. Recorded as an explicit distinctness assertion rather than left silent, per the no-auto-merge-and-no-silent-distinctness rule."
+   }
+  ]
+ },
+ {
+  "id": "the-hosers-usew",
+  "type": "unit",
+  "name": "The Hosers",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-monday-night-blow-out-4-8-1996-04-13.html"
+   }
+  ],
+  "caption": "Two brothers from the Great White North, caught in the crossfire of somebody else's feud, who took thirty-nine minutes of it and won.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Bob MacKenzie",
+    "character_id": "bob-mackenzie-usew"
+   },
+   {
+    "name": "Doug MacKenzie",
+    "character_id": "doug-mackenzie-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hoser-wwa"
+    ],
+    "note": "The containment is on a singular form of an ordinary Canadian nickname; that row is a wrestler in an unrelated 1990s-2000s website federation. A real coincidence, recorded rather than left silent."
+   }
+  ]
+ },
+ {
+  "id": "doom-and-disaster-usew",
+  "type": "unit",
+  "name": "Doom and Disaster",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-monday-night-blow-out-4-8-1996-04-13.html"
+   }
+  ],
+  "caption": "Masked and spike-shouldered, they came out of O Fortuna to take the World Television Tag Team titles in twenty-nine minutes and lost their first defence by disqualification without losing the belts.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "Doom & Disaster"
+  ],
+  "members": [
+   {
+    "name": "Doom",
+    "character_id": "doom-usew"
+   },
+   {
+    "name": "Disaster",
+    "character_id": "disaster-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "presumed-same",
+    "grade": "user-attested",
+    "with": [],
+    "note": "A community Hall of Fame ballot nominates a same-named tag team billed to a different federation, annotated as that federation's own version of the pairing. No document of that federation's own survives to mint a record there, so no id is available to link to."
+   }
+  ]
+ },
+ {
+  "id": "the-highway-patrol-usew",
+  "type": "unit",
+  "name": "The Highway Patrol",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-monday-night-blow-out-4-22-part-two-1996-04-22.html"
+   }
+  ],
+  "caption": "A trooper and a sergeant who came down to I Can't Drive 55 and quite a few laughs, and were jumped on the way into the ring.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Trooper Bobby Lee Owens",
+    "character_id": "bobby-lee-owens-usew"
+   },
+   {
+    "name": "Sgt. Buddy Ray Stevens",
+    "character_id": "buddy-ray-stevens-usew"
+   }
+  ]
+ },
+ {
+  "id": "the-bounty-hunters-usew",
+  "type": "unit",
+  "name": "The Bounty Hunters",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-monday-night-blow-out-4-22-part-two-1996-04-22.html"
+   }
+  ],
+  "caption": "Already in the ring waiting when their opponents' feud was announced over the arena PA, they lost in three minutes and ten seconds and were laid out on a chair afterwards.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Tex",
+    "character_id": "tex-usew"
+   },
+   {
+    "name": "Red",
+    "character_id": "red-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bounty-hunter-cswa",
+     "bounty-hunter-jwa-ajfa",
+     "hunter-swa-seltor",
+     "the-hunter-cswa",
+     "the-hunter-summit",
+     "triple-h-fob",
+     "triple-h-uwf-uwow"
+    ],
+    "note": "Checked by hand at mint: the overlap is a shared generic word or a decorated nickname that normalises into one, not a shared billing. Nothing but the substring ties this 1995-96 usenet record to the others, no document names two of them, and a bare word never joins. Recorded as an explicit distinctness assertion rather than left silent, per the no-auto-merge-and-no-silent-distinctness rule."
+   }
+  ]
+ },
+ {
+  "id": "the-hillside-stranglers-usew",
+  "type": "unit",
+  "name": "The Hillside Stranglers",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-leprecharnage-finale-1996-03-26.html"
+   }
+  ],
+  "caption": "The world champion's own escort out of the San Fernando Valley, who fetched chairs and tables at Leprecharnage and were sent on an extended vacation five weeks later for getting soft.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Thomas DeWitt",
+    "character_id": "thomas-dewitt-usew"
+   },
+   {
+    "name": "Johnathon Moore",
+    "character_id": "johnathon-moore-usew"
+   }
+  ]
+ },
+ {
+  "id": "the-gangbangers-usew",
+  "type": "unit",
+  "name": "The Gangbangers",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-monday-night-blow-out-4-22-part-two-1996-04-22.html"
+   }
+  ],
+  "caption": "Two of the world champion's oldest friends, introduced over the guard rail with nightsticks on 22 April 1996 and billed on the spot as the next World Tag Team Champions.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Kilo",
+    "character_id": "kilo-usew"
+   },
+   {
+    "name": "Static",
+    "character_id": "static-usew"
+   }
+  ]
+ },
+ {
+  "id": "alpha-slamma-pi-usew",
+  "type": "unit",
+  "name": "Alpha Slamma Pi",
+  "unit_kind": "stable",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "stable",
+    "source": "promotions/usew/archive/usew-leprecharnage-finale-1996-03-26.html"
+   }
+  ],
+  "caption": "A fraternity-named stable that lost its enforcer to a suspension and the rest of its roster to piranhas, desert horsemen and a Mongolian blizzard, by its own manager's account.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Feudstarter",
+    "character_id": "feudstarter-swl-1992"
+   },
+   {
+    "name": "The MindMaster",
+    "character_id": "the-mindmaster-usew"
+   },
+   {
+    "name": "Rad Pit Bull"
+   },
+   {
+    "name": "Arrogance"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "alpha-wewf"
+    ],
+    "note": "Checked by hand at mint: the overlap is a shared generic word or a decorated nickname that normalises into one, not a shared billing. Nothing but the substring ties this 1995-96 usenet record to the others, no document names two of them, and a bare word never joins. Recorded as an explicit distinctness assertion rather than left silent, per the no-auto-merge-and-no-silent-distinctness rule."
+   }
+  ]
+ },
+ {
+  "id": "the-killer-kats-usew",
+  "type": "unit",
+  "name": "The Killer Kats",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers, managed by Sylvester T. Foxx",
+    "source": "promotions/usew/archive/usew-monday-night-blow-out-4-8-1996-04-13.html"
+   }
+  ],
+  "caption": "A tag team who beat the Horrorwitz brothers easily, were nowhere in the building the night they were called out, and answered a fortnight later by ambushing them in the car park.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "killer-k-bcw-2008",
+     "killer-k-ihwf",
+     "killer-ngw",
+     "killer-rwa-rugged",
+     "killer-k-obw"
+    ],
+    "note": "Containment on the single word Killer, which this hobby reused everywhere. Unrelated. Recorded rather than left silent."
+   }
+  ]
+ },
+ {
+  "id": "the-league-of-destruction-usew",
+  "type": "unit",
+  "name": "The League of Destruction",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers, visiting from the EWC",
+    "source": "promotions/usew/archive/usew-leprecharnage-part-three-1996-03-18.html"
+   }
+  ],
+  "caption": "The EWC pair in Road Warriors face paint who taught Grim Weibaq the killer instinct, and were met by three masked men when they ran to his aid at Leprecharnage.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "LoD"
+  ],
+  "members": [
+   {
+    "name": "Phoenix",
+    "character_id": "phoenix-usew"
+   },
+   {
+    "name": "Behemoth",
+    "character_id": "behemoth-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lords-of-destruction-pwf"
+    ],
+    "note": "The collision is on the abbreviated form both teams take from the same televised original; the full names differ. A stock gimmick name this hobby reused freely across unrelated federations and decades. Nothing but the word ties this 1996 usenet record to the others; a bare name never joins, and the no-merge default stands. Recorded as an explicit distinctness assertion, not a silence."
+   }
+  ]
+ },
+ {
+  "id": "americas-most-wanted-usew",
+  "type": "unit",
+  "name": "America's Most Wanted",
+  "unit_kind": "stable",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1996",
+    "last_seen": "1996",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "stable",
+    "source": "promotions/usew/archive/usew-monday-night-blow-out-4-8-1996-04-13.html"
+   }
+  ],
+  "caption": "The world champion and his two escorts, announced as one group on the way to the ring for the 8 April 1996 rematch and dissolved by him a fortnight later.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "187",
+    "character_id": "one-eight-seven-usew"
+   },
+   {
+    "name": "Thomas DeWitt",
+    "character_id": "thomas-dewitt-usew"
+   },
+   {
+    "name": "Johnathon Moore",
+    "character_id": "johnathon-moore-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "erica-rawf"
+    ],
+    "note": "Checked by hand at mint: the overlap is a shared generic word or a decorated nickname that normalises into one, not a shared billing. Nothing but the substring ties this 1995-96 usenet record to the others, no document names two of them, and a bare word never joins. Recorded as an explicit distinctness assertion rather than left silent, per the no-auto-merge-and-no-silent-distinctness rule."
+   }
+  ]
+ },
+ {
+  "id": "the-machismos-usew",
+  "type": "unit",
+  "name": "The Machismos",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1995",
+    "last_seen": "1995",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-last-stand-control-center-1995-05-14.html"
+   }
+  ],
+  "caption": "Darren and Duane, World Tag Team Champions in May 1995, still smarting from a Summit tournament loss to the team they were booked to defend against.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Darren Machismo",
+    "character_id": "darren-machismo-usew"
+   },
+   {
+    "name": "Duane Machismo",
+    "character_id": "duane-machismo-usew"
+   }
+  ]
+ },
+ {
+  "id": "the-iconoclasts-usew",
+  "type": "unit",
+  "name": "The Iconoclasts",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1995",
+    "last_seen": "1995",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers",
+    "source": "promotions/usew/archive/usew-last-stand-control-center-1995-05-14.html"
+   }
+  ],
+  "caption": "Former World Tag Team Champions, wrongly disqualified out of a triangle cage match at the Holiday Rush and handed a shot at the belts because of it.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Lord Thomas Imperius",
+    "character_id": "lord-thomas-imperius-usew"
+   },
+   {
+    "name": "Steve the Insane",
+    "character_id": "steve-the-insane-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-iconoclast-ewo"
+    ],
+    "note": "A singular-versus-plural containment across unrelated federations and decades — that row is a single entity in the EWO, this one a 1995 usenet tag team. A real coincidence, recorded rather than left silent."
+   }
+  ]
+ },
+ {
+  "id": "ready-2-rumble-usew",
+  "type": "unit",
+  "name": "Ready 2 Rumble",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1995",
+    "last_seen": "1995",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers; with Marcus Prime they are billed as the Hardcorps",
+    "source": "promotions/usew/archive/usew-last-stand-control-center-1995-05-14.html"
+   }
+  ],
+  "caption": "Two men who put both members of another team in traction inside one cage match and kept going after the fall, and who called their own third man in to complain about a three-count on videotape.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "\"Battery\" Bill James",
+    "character_id": "bill-james-usew"
+   },
+   {
+    "name": "Dave \"Kruncher\" Kunze",
+    "character_id": "dave-kunze-usew"
+   }
+  ]
+ },
+ {
+  "id": "wild-hazard-usew",
+  "type": "unit",
+  "name": "Wild Hazard",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "usew",
+    "first_seen": "1995",
+    "last_seen": "1995",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestlers, managed by The Amazing Mr. Jones",
+    "source": "promotions/usew/archive/usew-last-stand-control-center-1995-05-14.html"
+   }
+  ],
+  "caption": "A pair famous for the assortment of objects they brought to the ring, whose manager once fell from the rafters into a match — or a dummy of him did — and who left one cage match with two broken-looking necks between them.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Beast",
+    "character_id": "beast-usew"
+   },
+   {
+    "name": "Brute",
+    "character_id": "brute-usew"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hazard"
+    ],
+    "note": "Containment on the single word Hazard. Unrelated. Recorded rather than left silent."
+   }
+  ]
+ }
+]

@@ -1,0 +1,140 @@
+[
+ {
+  "id": "southern-blood-mcw-motor-city",
+  "type": "unit",
+  "name": "Southern Blood",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Jay Williams",
+    "character_id": "jay-williams-mcw-motor-city"
+   },
+   {
+    "name": "Lance Williams",
+    "character_id": "lance-williams-mcw-motor-city"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mcw-motor-city",
+    "source": "Dazz's Nightmare Before Christmas and Livewire roleplays (the draft, the titles won from The Sisterhood, Herrera leading the team) and Chapter 2 of the Vitriol and Ambrosia serial (the champions, still Southern Blood)."
+   }
+  ],
+  "caption": "A tag team of the brothers Jay and Lance Williams, led by Eric Herrera, who took the Tag Team titles from The Sisterhood in 2009 and were split between the Mayhem and Livewire shows by the draft after the last Mayhem of the year.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hostile-takeover-mcw-motor-city",
+  "type": "unit",
+  "name": "Hostile Takeover",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Malakai Laymon",
+    "character_id": "malakai-laymon-mcw-motor-city"
+   },
+   {
+    "name": "Nick Cagero",
+    "character_id": "nick-cagero-mcw-motor-city"
+   },
+   {
+    "name": "Lilith Evans",
+    "character_id": "lilith-evans-mcw-motor-city"
+   },
+   {
+    "name": "Denile Partis",
+    "character_id": "denile-partis-mcw-motor-city"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mcw-motor-city",
+    "source": "Dazz's roleplays for Deadly Conflicts, Charged Chamber, Nightmare Before Christmas and Livewire."
+   }
+  ],
+  "caption": "A group formed by Malakai Laymon against his brother Jacob, whose Nick Cagero, Lilith Evans and Denile Partis lost to Dazz, Kayla Jones and Axl Evermore at Deadly Conflicts.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: no shared operator, chronology or storyline links this record to the same-named record at another wing.",
+    "with": [
+     "hostile-takeover-re-raw"
+    ]
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "divinity-mcw-motor-city",
+  "type": "unit",
+  "name": "Divinity",
+  "unit_kind": "trio",
+  "members": [
+   {
+    "name": "Zolomon",
+    "character_id": "zolomon-mcw-motor-city"
+   },
+   {
+    "name": "Ambrosia",
+    "character_id": "ambrosia-mcw-motor-city"
+   },
+   {
+    "name": "Vitriol",
+    "character_id": "vitriol-mcw-motor-city"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mcw-motor-city",
+    "source": "Dazz's Livewire six-person roleplay (Divinity, 'Saul, Ambrosia and Vitriol'); Chapters 2 to 5 of the Vitriol and Ambrosia serial."
+   }
+  ],
+  "caption": "The group of Zolomon, his daughter Ambrosia and Vitriol, which Dazz's Livewire roleplay names as Saul, Ambrosia and Vitriol on Mayhem and which the Vitriol and Ambrosia serial follows through four chapters.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: no shared operator, chronology or storyline links this record to the same-named record at another wing.",
+    "with": [
+     "divinity-pcw",
+     "divinity-uspw-65-and-older"
+    ]
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

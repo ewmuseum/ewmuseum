@@ -1,0 +1,78 @@
+[
+  {
+    "id": "nsw-house-show-2003-04",
+    "type": "show",
+    "name": "NSW House Show",
+    "promotion": "nsw",
+    "date": {
+      "date": "2003-04",
+      "precision": "month",
+      "source": "The card itself carries no date; it announces the show for “Next Sunday on Prime Time Central at 7:00 PM Eastern” and was captured 6 April 2003 (promotions/nsw/archive/house-show-2003-04.html). April 2003 is the precision the record supports."
+    },
+    "page": "/promotions/nsw/archive/house-show-2003-04.html",
+    "collection": "0046",
+    "appearances": [
+      {
+        "who": "brad-douglas-nsw",
+        "kind": "billed",
+        "source": "promotions/nsw/archive/house-show-2003-04.html"
+      },
+      {
+        "who": "chris-crosse-nsw",
+        "kind": "billed",
+        "source": "promotions/nsw/archive/house-show-2003-04.html"
+      },
+      {
+        "who": "spawn-nsw",
+        "kind": "billed",
+        "source": "promotions/nsw/archive/house-show-2003-04.html"
+      },
+      {
+        "who": "tower-nsw",
+        "kind": "billed",
+        "source": "promotions/nsw/archive/house-show-2003-04.html"
+      }
+    ],
+    "notes": "The card for the fed’s own relaunch: one four-way elimination match under no-holds-barred rules, and a superstar to be announced after it. No results page survives — every appearance here is billed, not confirmed; the card itself reads as a promise (“It’s defiantly going to be special”) rather than a report."
+  },
+  {
+    "id": "nsw-bone-bash-2003",
+    "type": "show",
+    "name": "Bone Bash 2003",
+    "promotion": "nsw",
+    "date": {
+      "date": "late 2002",
+      "precision": "circa",
+      "source": "Named \"Bone Bash 2003\" in Spawn's own bio card; NSW's own F.A.Q. records the fed closing \"the beginning of January 2003,\" and both Spawn's and Brad Douglas's bio cards read their own Bone Bash as immediately pre-closure. Recorded circa late 2002 on that tension, never as an exact date the corpus doesn't give."
+    },
+    "page": "/promotions/nsw/archive/spawn-bio-card.html",
+    "collection": "0046",
+    "appearances": [
+      {
+        "who": "chris-crosse-nsw",
+        "kind": "match"
+      },
+      {
+        "who": "spawn-nsw",
+        "kind": "match"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "chris-crosse-nsw"
+          ],
+          [
+            "spawn-nsw"
+          ]
+        ],
+        "winner_side": 1,
+        "stipulation": "Cage Match",
+        "note": "For the Stealth Title. Full script served as a \"Flash Back\" embedded in Spawn's own later (April 2003) bio card, not a dedicated card or results page — ring announcer \"Nancy Jane\" and commentators billed only as \"Kay\" and \"Rick\" are named in the text but not independently minted (bare first names only, no other appearance in the held record). Spawn wins with the ENDCAP (Buff Blockbuster) off the top of the cage."
+      }
+    ],
+    "notes": "This show's own card was never captured. What's held is the full verbatim script of one match — the Stealth Title cage match — served as a \"Flash Back\" inside Spawn's own April 2003 relaunch bio card. Brad Douglas's own bio card separately narrates a Tag Titles battle royal win at a show he names only \"Bone Bash,\" without a year; presumed the same pre-closure stretch of the record on matching timing (see nsw-tag-titles's own reign row), never merged as certain fact, and not structured here since no match text or card survives for it."
+  }
+]

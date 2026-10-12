@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ministry-of-darkness-chwe",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Ministry of Darkness",
+    "caption": "A CHWE stable billing the real WWF Ministry of Darkness name over three of the fed's own wrestlers.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "The Undertaker",
+        "character_id": "the-undertaker-chwe"
+      },
+      {
+        "name": "Viscera",
+        "character_id": "viscera-chwe"
+      },
+      {
+        "name": "Phantom",
+        "character_id": "phantom-chwe"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "chwe"
+      }
+    ],
+    "notes": "Each of the three wrestlers' own roster entries names \"Ministry of Darkness\" as their stable; the fed borrows the real WWF stable's own name and pairs two of its real-wrestler billings (Undertaker, Viscera) with one original character (Phantom).",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A coincidental normalized-substring match against an unrelated entity's own \"The Darkness\" aka; no corroborating link found.",
+        "with": [
+          "anna-keyson"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dx-chwe",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "DX",
+    "caption": "A CHWE stable billing the real WWF DX name over two of the fed's own real-wrestler billings.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "Rob Van Dam",
+        "character_id": "rob-van-dam-chwe"
+      },
+      {
+        "name": "The Rock",
+        "character_id": "the-rock-chwe"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "chwe"
+      }
+    ],
+    "notes": "Both Rob Van Dam's and The Rock's own roster entries name \"DX\" as their stable — the fed borrows the real WWF faction's own name over two real-wrestler billings that were never actually DX members on television."
+  }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "id": "the-goon-squad-pwc-fwrestling-2011",
+  "type": "unit",
+  "name": "The Goon Squad",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Bloodhunt",
+    "character_id": "bloodhunt-pwc-fwrestling-2011"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "pwc-fwrestling-2011",
+    "source": "Named in the Prodigy Classic final write-up of 30 August 2011 as Doc Silver's Goon Squad, led by Bloodhunt."
+   }
+  ],
+  "caption": "Doc Silver's Goon Squad, led by Bloodhunt, which beat down Joey Melton before the Prodigy Classic final at Madison Square Garden.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "membership_unknown": true
+ },
+ {
+  "id": "the-corporation-pwc-fwrestling-2011",
+  "type": "unit",
+  "name": "The Corporation",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Joey Melton",
+    "character_id": "joey-melton"
+   },
+   {
+    "name": "Steven Flair",
+    "character_id": "steven-flair-cswa"
+   },
+   {
+    "name": "Wall",
+    "character_id": "wall-cswa"
+   },
+   {
+    "name": "Lex Vicious",
+    "character_id": "lex-vicious-pwc-fwrestling-2011"
+   },
+   {
+    "name": "Terminator",
+    "character_id": "terminator-cswa"
+   },
+   {
+    "name": "Timmy Windham",
+    "character_id": "timmy-windham-cswa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "pwc-fwrestling-2011",
+    "source": "Named in the Prodigy Classic final write-up of 30 August 2011 as Joey Melton and his Corporation; Joey Melton's roleplay of 9 August 2011 names the five who stood with him as its board of governors."
+   }
+  ],
+  "caption": "Joey Melton's Corporation, revived in his roleplay with Steven Flair, Wall, Lex Vicious, Terminator and Timmy Windham to beat Hornet down, which opened the Prodigy Classic final by boasting of that beating.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-corporation-xwf",
+     "the-corporation-abf-primetime-2002",
+     "the-corporation-wcwf-world-class-2000"
+    ],
+    "note": "Three held stables share the name The Corporation (XWF, ABF Primetime and WCWF World Class); none shares a member, fed or year with Joey Melton's CSWA stable, so they are kept apart."
+   }
+  ]
+ }
+]

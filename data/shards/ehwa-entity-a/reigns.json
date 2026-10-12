@@ -1,0 +1,230 @@
+[
+  {
+    "id": "ehwa-entity-a-tv-r002",
+    "title": "ehwa-entity-a-tv",
+    "label": "Viglen",
+    "holder": [
+      {
+        "id": "viglen-ehwa-entity-a"
+      }
+    ],
+    "won": {
+      "date": "1997-03-04",
+      "precision": "exact",
+      "source": "Won the title from Maverick at the federation's 4 March 1997 pay-per-view, using a fan-supplied chair.",
+      "event": "ehwa-entity-a-pay-per-view-1997-03-04"
+    },
+    "event": "ehwa-entity-a-pay-per-view-1997-03-04",
+    "lost": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "No title-change document survives; Justin Blaze is already billed champion by the federation's 12 March 1997 card."
+    },
+    "days": null,
+    "note": "The transition from Viglen to Justin Blaze is not documented in the surviving record; named as a gap, not smoothed.",
+    "notes": "End of reign unrecorded (unknown).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ehwa-entity-a-tv-r001",
+    "title": "ehwa-entity-a-tv",
+    "label": "Maverick",
+    "holder": [
+      {
+        "id": "maverick-ehwa-entity-a"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Already billed Extreme Television Champion entering the 25 February 1997 card, where he retains against the Playboy."
+    },
+    "event": "ehwa-entity-a-sunday-sacrifical-slam",
+    "lost": {
+      "date": "1997-03-04",
+      "precision": "exact",
+      "source": "Lost the title to Viglen at the federation's 4 March 1997 pay-per-view."
+    },
+    "days": null,
+    "note": "First documented holder on record; no earlier reign is attested.",
+    "notes": "End of reign unrecorded (title change).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ehwa-entity-a-tv-r003",
+    "title": "ehwa-entity-a-tv",
+    "label": "Justin Blaze",
+    "holder": [
+      {
+        "id": "justin-blaze-ehwa-entity-a"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Already billed champion entering the federation's 12 March 1997 card."
+    },
+    "event": "ehwa-entity-a-rockingham-speedway-card",
+    "days": null,
+    "note": "Retains twice on the 12 March 1997 card (submission win over X-Pert; disqualification over Bloodhound). No further title-change document survives; last documented holder.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "ehwa-entity-a-world-r001",
+    "title": "ehwa-entity-a-world",
+    "label": "Ivan \"Thor\" Thunder",
+    "holder": [
+      {
+        "id": "ivan-thor-thunder-decw"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Already billed holding this top championship (called \"his Internet championship\" this once) at the federation's 25 February 1997 card."
+    },
+    "event": "ehwa-entity-a-sunday-sacrifical-slam",
+    "days": null,
+    "note": "Retains at the federation's 12 March 1997 card, there called \"the Extreme World Title,\" defeating Asylum with the Thunderstrike. Sole documented holder; no title change is attested.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "ehwa-entity-a-internet-r001",
+    "title": "ehwa-entity-a-internet",
+    "label": "Playboy Ronnie D.",
+    "holder": [
+      {
+        "name": "Playboy Ronnie D.",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-03-12",
+      "precision": "exact",
+      "source": "Defeated Warlord Chaos for the title at the federation's 12 March 1997 card; the surviving text does not identify a prior champion."
+    },
+    "event": "ehwa-entity-a-rockingham-speedway-card",
+    "lost": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "No title-change document survives; by 30 November 1997 the title is billed held by Slade Kane."
+    },
+    "days": null,
+    "note": "Playboy Ronnie D. is not independently minted (a one-card appearance with no further tenure); recorded by name per the reign format.",
+    "notes": "End of reign unrecorded (unknown).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ehwa-entity-a-internet-r003",
+    "title": "ehwa-entity-a-internet",
+    "label": "\"Too Sexy\" Christopher Charles",
+    "holder": [
+      {
+        "id": "christopher-charles-ehwa-entity-a"
+      }
+    ],
+    "won": {
+      "date": "1997-11-30",
+      "precision": "exact",
+      "source": "Awarded the vacant title alongside the newly created US Title for winning the Ultimate Survivor Battle Royal."
+    },
+    "event": "ehwa-entity-a-ultimate-survivor-battle-royal",
+    "days": null,
+    "note": "Last documented holder on record.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "ehwa-entity-a-internet-r002",
+    "title": "ehwa-entity-a-internet",
+    "label": "Slade Kane",
+    "holder": [
+      {
+        "name": "Slade Kane",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "No title-win document survives; billed the title's own holder immediately before vacating it."
+    },
+    "event": null,
+    "end_how": "vacated",
+    "lost": {
+      "date": "1997-11-30",
+      "precision": "exact",
+      "source": "Vacated the title by quitting the federation, announced mid-show at the 30 November 1997 battle royal."
+    },
+    "days": null,
+    "note": "Named only in the 30 November 1997 announcement; never appears on-camera in the surviving record. Not minted."
+  },
+  {
+    "id": "ehwa-entity-a-tag-r001",
+    "title": "ehwa-entity-a-tag",
+    "label": "The Knights (Darknight & Midnight)",
+    "holder": [
+      {
+        "id": "darknight-ehwa-entity-a"
+      },
+      {
+        "id": "midnight-ehwa-entity-a"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Already billed World Tag Team Champions entering the federation's 4 March 1997 card."
+    },
+    "event": "ehwa-entity-a-pay-per-view-1997-03-04",
+    "lost": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "No title-change document survives; Eclipse & Cataclysm are already billed champions by the federation's 12 March 1997 card."
+    },
+    "days": null,
+    "note": "Retain by disqualification over the Doggpound at the 4 March 1997 card. The transition to Eclipse & Cataclysm is not documented; named as a gap.",
+    "notes": "End of reign unrecorded (unknown).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "ehwa-entity-a-tag-r002",
+    "title": "ehwa-entity-a-tag",
+    "label": "Eclipse & Cataclysm",
+    "holder": [
+      {
+        "id": "eclipse-ehwa-entity-a"
+      },
+      {
+        "id": "cataclysm-ehwa-entity-a"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "Already billed World Tag Team Champions entering the federation's 12 March 1997 card."
+    },
+    "event": "ehwa-entity-a-rockingham-speedway-card",
+    "days": null,
+    "note": "Retain on a restart, with the French Canadians' interference, over the Powers of Destruction at the 12 March 1997 card. Last documented holders.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "ehwa-entity-a-us-r001",
+    "title": "ehwa-entity-a-us",
+    "label": "\"Too Sexy\" Christopher Charles",
+    "holder": [
+      {
+        "id": "christopher-charles-ehwa-entity-a"
+      }
+    ],
+    "won": {
+      "date": "1997-11-30",
+      "precision": "exact",
+      "source": "Won the newly created title by winning the Ultimate Survivor Battle Royal."
+    },
+    "event": "ehwa-entity-a-ultimate-survivor-battle-royal",
+    "days": null,
+    "note": "First and, on record, only documented holder.",
+    "end_how": "still-champion-at-record-end"
+  }
+]

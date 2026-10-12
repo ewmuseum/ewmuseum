@@ -1,0 +1,265 @@
+[
+ {
+  "id": "wpwf-eliminators",
+  "type": "unit",
+  "name": "The Eliminators",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Saturn",
+    "character_id": "saturn-wpwf"
+   },
+   {
+    "name": "Kronus",
+    "character_id": "kronus-wpwf"
+   }
+  ],
+  "notes": "Managed by Francine; beat Demolition at Battle of the Titans.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with the existing unit the-eliminators-ewa-email (and possibly other same-named units elsewhere in the registry) -- a generic/real tag-team or stable name many unrelated feds independently reuse; not a merge candidate absent primary-source evidence of shared membership or operator, per the no-auto-merge doctrine.",
+    "with": [
+     "the-eliminators-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A tag team billed by WPWF in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wpwf"
+   }
+  ]
+ },
+ {
+  "id": "wpwf-demolition",
+  "type": "unit",
+  "name": "Demolition",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Ax",
+    "character_id": "ax-wpwf"
+   },
+   {
+    "name": "Smash",
+    "character_id": "smash-wpwf"
+   }
+  ],
+  "notes": "Managed by Sunny; lost to the Eliminators at Battle of the Titans.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with ax-xwf-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per CURATION.md v96 (the per-promotion portrayal doctrine). The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "ax-xwf-uwow"
+    ]
+   }
+  ],
+  "caption": "A tag team billed by WPWF in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wpwf"
+   }
+  ]
+ },
+ {
+  "id": "wpwf-legion-of-doom",
+  "type": "unit",
+  "name": "Legion of Doom",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Hawk",
+    "character_id": "hawk-wpwf"
+   },
+   {
+    "name": "Animal"
+   }
+  ],
+  "notes": "Billed as the Road Warriors in the same result line; managed by Mr. Fuji, beat the Powerhouses at We Ain't Role Models. Animal is named on the fed's own roster but never individually credited acting in the servable corpus, so stands as a name-only member.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with the existing unit legion-of-doom-wcotw (and possibly other same-named units elsewhere in the registry) -- a generic/real tag-team or stable name many unrelated feds independently reuse; not a merge candidate absent primary-source evidence of shared membership or operator, per the no-auto-merge doctrine.",
+    "with": [
+     "legion-of-doom-wcotw"
+    ]
+   }
+  ],
+  "caption": "A tag team billed by WPWF in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wpwf"
+   }
+  ]
+ },
+ {
+  "id": "wpwf-extreme-team",
+  "type": "unit",
+  "name": "Extreme Team",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Sabu",
+    "character_id": "sabu-wpwf"
+   },
+   {
+    "name": "Taz",
+    "character_id": "taz-wpwf"
+   },
+   {
+    "name": "Raven",
+    "character_id": "raven-wpwf"
+   },
+   {
+    "name": "Terry Funk",
+    "character_id": "terry-funk-wpwf"
+   }
+  ],
+  "notes": "Paul E. Dangerously's own ex-ECW stable, named across both interview issues (11 and 13 April 1997).",
+  "caption": "A stable billed by WPWF in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wpwf"
+   }
+  ]
+ },
+ {
+  "id": "wpwf-jimmy-harts-stable",
+  "type": "unit",
+  "name": "Jimmy Hart's Stable",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Al Snow",
+    "character_id": "al-snow-wpwf"
+   },
+   {
+    "name": "Shawn Michaels",
+    "character_id": "shawn-michaels-wpwf"
+   },
+   {
+    "name": "Kevin Nash",
+    "character_id": "kevin-nash-wpwf"
+   },
+   {
+    "name": "Owen Hart",
+    "character_id": "owen-hart-wpwf"
+   }
+  ],
+  "notes": "Managed by Jimmy Hart, named across both interview issues (11 and 13 April 1997).",
+  "caption": "A stable billed by WPWF in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wpwf"
+   }
+  ]
+ },
+ {
+  "id": "wpwf-ruthless-posse",
+  "type": "unit",
+  "name": "The Ruthless Posse",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Vader",
+    "character_id": "vader-wpwf"
+   },
+   {
+    "name": "Dean Malenko",
+    "character_id": "dean-malenko-wpwf"
+   },
+   {
+    "name": "Terry Gordy",
+    "character_id": "terry-gordy-wpwf"
+   },
+   {
+    "name": "Steve Williams",
+    "character_id": "steve-williams-wpwf"
+   }
+  ],
+  "notes": "Francine's own stable, billed as 'Francine's Stable' in the 11 April interview issue and renamed the Ruthless Posse by the 13 April issue.",
+  "caption": "A stable billed by WPWF in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wpwf"
+   }
+  ]
+ }
+]

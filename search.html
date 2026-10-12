@@ -1,0 +1,845 @@
+
+<!-- chrome:head:start -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Search &mdash; E-WRESTLING MUSEUM</title>
+<script src="/js/theme.js?v=5"></script>
+<link rel="stylesheet" href="/style.css?v=22">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://ewmuseum.org/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="masthead">
+  <div class="inner">
+    <a class="wordmark" href="/"><svg class="ringmark-lg" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><use href="/ringmark.svg#ewm"/></svg><svg class="ringmark" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect class="m-apron" width="16" height="16" rx="2"/><rect class="m-rope" x="2.5" y="2.5" width="11" height="11"/><path class="m-pad" d="M0 0h4v4H0zM12 0h4v4h-4zM0 12h4v4H0zM12 12h4v4h-4z"/><rect class="m-core" x="6" y="6" width="4" height="4"/><rect class="m-edge" x=".5" y=".5" width="15" height="15" rx="1.5"/></svg><span class="wm-text">THE E-WRESTLING <span class="nw">MUSEUM<span class="dot">.</span></span></span></a>
+    <div class="tagline">a museum of fantasy wrestling, built one collection at a time</div>
+    <nav class="gallery">
+      <a href="/promotions.html">Wings</a>
+      <a href="/characters.html">Characters</a>
+      <a href="/units.html">Units</a>
+      <a href="/relationships.html">Relationships</a>
+      <a href="/shows.html">Shows</a>
+      <a href="/matches.html">Matches</a>
+      <a href="/appearances.html">Appearances</a>
+      <a href="/rps.html">Roleplays</a>
+      <a href="/championships.html">Championships</a>
+      <a href="/reigns.html">Reigns</a>
+      <a href="/awards.html">Awards</a>
+      <a href="/bestowals.html">Bestowals</a>
+      <a href="/halloffame.html">Halls of Fame</a>
+      <a href="/in-memoriam.html">In Memoriam</a>
+      <a href="/essays.html">Essays</a>
+    </nav>
+  </div>
+  <span id="main-content" tabindex="-1"></span>
+</header>
+<!-- chrome:head:end -->
+
+
+<main class="wrap">
+  <p class="crumb"><a href="/">Museum</a> &nbsp;/&nbsp; Search</p>
+
+  <span class="kicker">Search</span>
+  <h1>Find anything in the museum.</h1>
+  <p class="lede">
+    We offer two forms of search for the museum: a semantic search covering the
+    served documents themselves, and an advanced search covering the museum's
+    registry edges.
+  </p>
+  <noscript><p class="muted">Search runs in your browser, so it needs JavaScript. Without it, every character is listed in the <a href="/characters/a-z/">A&ndash;Z pages</a>, every unit in <a href="/units/a-z/">its own A&ndash;Z</a>, every wing in <a href="/promotions/a-z/">the wings A&ndash;Z</a>, and every show <a href="/shows/">year by year</a>.</p></noscript>
+
+  <!-- text-search:start (D294, hook c85) -->
+  <h2 id="documents">Semantic Search: Search the Documents</h2>
+  <p class="muted small">
+    What you type here is answered by the museum's host,
+    <a href="https://developers.cloudflare.com/ai-search/">Cloudflare AI Search</a>.
+  </p>
+  <form id="tform" role="search" action="/search.html" method="get">
+    <p>
+      <label class="label-offscreen" for="tq">Search the words of every served document</label>
+      <input class="filter-input filter-input--search filter-input--search-wide" id="tq" name="text" type="search"
+        placeholder="A line, a name, a moment" autocomplete="off" spellcheck="false" maxlength="200">
+      <button type="submit" class="query-chip">Search</button>
+    </p>
+  </form>
+  <p class="muted small">
+    Press Enter to search. <code>wing:</code> keeps to one wing
+    (<code>wing:nfw</code>), <code>class:</code> to one kind of document
+    (<code>class:rp</code>, <code>card</code>, <code>news</code>,
+    <code>roster</code>, <code>column</code>). Try: "<a href="/characters/seymour-almasy.html" class="entity-link" data-entity="seymour-almasy">Seymour Almasy</a> runs from bunnies"
+  </p>
+  <p id="tstatus" class="muted small" aria-live="polite"></p>
+  <div id="tresults"></div>
+  <!-- text-search:end -->
+
+  <hr>
+
+  <h2 id="registry">Advanced Search: Search the Registry</h2>
+  <p>
+    Search the museum's internal graph explicitly: wings, characters, units,
+    titles, shows, roleplays, essays, etc. Unlike semantic search, this
+    operates exclusively in your browser.
+  </p>
+  <details class="field-help">
+    <summary>Search Tips</summary>
+    <p class="muted small">
+      Plain words still work as a substring search. A <code>field:value</code>
+      token narrows to that field instead — e.g.
+      <code>promotion:uwf style:technician</code>. Numeric fields also take
+      <code>&gt;</code>/<code>&lt;</code>/<code>&gt;=</code>/<code>&lt;=</code>
+      (<code>reigns:&gt;3</code>, <code>opponents:&gt;10</code> for who's
+      fought the widest field), and every box speaks the full operator set
+      &mdash; alternation, negation, presence/absence, ranges:
+      <a href="/search-help.html">search syntax</a>. <code>opponent:</code> is the derived
+      opponent-frequency join off <code>data/shows.json</code>'s own
+      match-by-match re-parse &mdash; <code>opponent:"<a href="/characters/al-crud.html" class="entity-link" data-entity="al-crud">Al Crud</a>"</code> finds
+      everyone who's faced him, once per match. <code>language:</code>/<code>country:</code> match by name as readily as by code &mdash; <code>language:polish</code> finds the same wing as <code>language:pl</code>, and <code>language:!english</code> (equivalently <code>-language:english</code>) finds every wing recorded outside the silent English default. Every field below is
+      discovered from the registry's own data at page load &mdash; a new
+      field the data grows tomorrow is queryable tomorrow, with nothing
+      hand-wired here for it.
+    </p>
+  </details>
+
+  <p>
+    <label class="label-offscreen" for="q">Search everything the museum holds</label>
+    <input class="filter-input filter-input--search filter-input--search-wide" id="q" type="text" placeholder="Search everything the museum holds"
+      autocomplete="off" spellcheck="false">
+  </p>
+  <p class="query-examples"><span class="query-examples-label">Start with</span><button type="button" class="query-chip" data-q="medium:newsgroup">Usenet era</button><button type="button" class="query-chip" data-q="reigns:&gt;0">Title holders</button><button type="button" class="query-chip" data-q="year:1998">1998</button></p>
+
+  <p id="status" class="muted small" aria-live="polite"></p>
+  <div id="fields-help"></div>
+  <div id="results"></div>
+
+
+<script src="/js/query.js?v=7"></script>
+<script src="/js/list.js?v=14"></script>
+<script>
+(function () {
+  "use strict";
+  var esc = MuseumList.esc;
+  var FILES = ["promotions", "characters", "units", "titles", "shows", "essays", "rps", "reigns", "memorials", "awards", "external-figures"]; // external-figures: hook c113
+  var data = {};
+  var promoById = {};
+  var status = document.getElementById("status");
+  var fieldsHelp = document.getElementById("fields-help");
+  var results = document.getElementById("results");
+  var input = document.getElementById("q");
+  var GROUP_ROWS = []; // [{name, rows: [{label, sub, href, search, fields}]}]
+  var ALL_KNOWN_FIELDS = []; // every field name across every group — for the unknown-field message
+  // hook c170 (A06): the fields the global search takes and /search-help.html names (#search-fields); keep the two lists the same
+  var DOCUMENTED_FIELDS = ["promotion", "style", "medium", "language", "country", "year", "date", "reigns", "opponent", "opponents", "who", "stipulation", "gender", "kind", "name", "title", "alignment", "finisher", "hometown"];
+  var GRAND_TOTAL = 0; // every row across every group — THE RESULTS COUNTER
+  var READY_LINE = ""; // the at-rest status line, restored when the box empties
+
+  // MECHANICAL FIELD DISCOVERY — js/query.js's flattenFields() (THE
+  // CONSOLIDATED-SEARCH WAVE: this page's own query engine, extracted so
+  // every list page runs the identical one). Walks any registry object
+  // (arbitrary depth) and turns every scalar it carries, at any nesting
+  // level, into a multi-valued `fields[key]` entry — a character's
+  // tenures[].style and tenures[].promotion become queryable
+  // `style:`/`promotion:` fields automatically, with no per-field code
+  // anywhere in this file. A new field added to the data is queryable the
+  // next time this page loads that JSON, not the next time someone edits
+  // this script.
+  var flattenFields = MuseumQuery.flattenFields;
+
+  function matchText(hay, needle) {
+    return hay && String(hay).toLowerCase().indexOf(needle) !== -1;
+  }
+  function acro(promoId) {
+    return MuseumList.acronymLabel(promoById[promoId], data.promotions) || String(promoId || "").toUpperCase();
+  }
+
+  Promise.all(FILES.map(function (name) {
+    return MuseumList.fetchJSON("/data/" + name + ".json").then(function (json) {
+      data[name] = json || [];
+    });
+  })).then(function () {
+    (data.promotions || []).forEach(function (p) { promoById[p.id] = p; });
+    buildIndex();
+    // ONE DOCUMENTATION SPOT, MECHANICALLY GENERATED (founder directive) —
+    // this is the one COMPLETE reference: every field grouped by entity
+    // type, generated from GROUP_ROWS' own rows at load time, the same
+    // MuseumQuery.renderFieldHelp() every list page's own (necessarily
+    // partial — a list page only knows its own fields) reference runs.
+    var seenAny = {};
+    var fieldGroups = GROUP_ROWS.map(function (g) {
+      var fieldNames = {};
+      g.rows.forEach(function (r) { for (var k in r.fields) { fieldNames[k] = true; seenAny[k] = true; } });
+      // hook c170 (A06): the registry's own bracketed, dotted and numeric schema keys are not fields a visitor can use
+      return { name: g.name, fields: Object.keys(fieldNames).filter(function (k) { return /^[a-z][a-z0-9_]*$/.test(k); }).sort() };
+    });
+    ALL_KNOWN_FIELDS = Object.keys(seenAny).sort();
+    GRAND_TOTAL = GROUP_ROWS.reduce(function (n, g) { return n + g.rows.length; }, 0);
+    MuseumQuery.renderFieldHelp(fieldsHelp, fieldGroups);
+    READY_LINE = "Ready — " + FILES.filter(function (f) { return f !== "reigns" && f !== "memorials" && f !== "external-figures"; }).map(function (f) {
+      return data[f].length + " " + f;
+    }).join(", ") + ".";
+    status.textContent = READY_LINE;
+    input.addEventListener("input", runSearch);
+
+    // WING-LINK PREFILL WAVE: a general prefilled entry point,
+    // /search.html?promo=<id>, seeds the query box with a promotion:
+    // predicate and runs it immediately — the same convention as
+    // characters.html/shows.html/championships.html/rps.html's own
+    // ?promo=, expressed here as the query language this page already has.
+    var params = new URLSearchParams(location.search);
+    var promoParam = params.get("promo");
+    var collectionParam = params.get("collection");
+    if (promoParam) {
+      input.value = "promotion:=" + promoParam;
+    } else if (collectionParam) {
+      input.value = "collection:" + collectionParam;
+    }
+    // THE QUERY URL ROUND-TRIP (2026-08-22): an explicit ?q= supersedes the
+    // single-field prefills above (it's the same state, spelled in full),
+    // and typing writes the current query back to the URL — shared
+    // implementation with every list page (MuseumList.wireQueryUrl).
+    MuseumList.wireQueryUrl(input);
+    // THE EXAMPLE TOKENS (2026-10-03) — this page runs its own render, so it
+    // arms the chips under the box itself; same one handler every list page uses.
+    MuseumList.wireQueryTokens(input);
+    if (input.value) runSearch();
+  });
+
+  // -------------------------------------------------------------------------
+  // Build every group's rows ONCE (label/sub/href for display, `search` as
+  // the plain-word blob, `fields` as the mechanically-discovered field map
+  // PLUS a small, fixed set of cross-file joins that no single record's own
+  // fields could carry on their own — a join needs to know which two files
+  // relate and how, which isn't something to discover mechanically without
+  // a join-schema this system doesn't have. Documented here, not hidden:
+  // `reigns` (a wrestler/unit's title-reign COUNT, from data/reigns.json's
+  // own holder links), `memorial` (the memorial name, from
+  // data/memorials.json), and `kind`/`date`/`promotion` widened onto a
+  // wrestler/unit row from every show in data/shows.json's own
+  // `appearances` list that names them — the same discovery-lattice logic
+  // this page already used for Shows, extended to work in the other
+  // direction too.
+  // -------------------------------------------------------------------------
+  function buildIndex() {
+    var reignCountById = {};
+    (data.reigns || []).forEach(function (r) {
+      (r.holder || []).forEach(function (h) { if (h.id) reignCountById[h.id] = (reignCountById[h.id] || 0) + 1; });
+    });
+    var memorialNameById = {};
+    (data.memorials || []).forEach(function (m) {
+      (m.characters || []).forEach(function (cid) { memorialNameById[cid] = m.name; });
+    });
+    var appearanceJoinById = {};
+    (data.shows || []).forEach(function (s) {
+      (s.appearances || []).forEach(function (a) {
+        var o = appearanceJoinById[a.who] || (appearanceJoinById[a.who] = { kind: [], date: [], promotion: [] });
+        if (a.kind) o.kind.push(a.kind);
+        if (s.date && s.date.date) o.date.push(s.date.date);
+        if (s.promotion) o.promotion.push(s.promotion);
+      });
+    });
+    var charById = {}, unitById = {};
+    (data.characters || []).forEach(function (c) { charById[c.id] = c; });
+    (data.units || []).forEach(function (u) { unitById[u.id] = u; });
+
+    // THE CAPTION GRAPH-LINKING WAVE — a client-side twin of
+    // scripts/cross-reference.mjs's own linkCaptionHtml() (same nameIndex/
+    // EXCLUDE_NAMES/context-narrowing shape, same two-pass entity-then-
+    // promo-acronym approach), since this page renders captions from raw
+    // JSON at runtime rather than from cross-reference.mjs's own baked
+    // HTML. Keep this list in sync with EXCLUDE_NAMES in cross-reference.mjs
+    // by hand — there is no shared module between Node and the browser here.
+    var EXCLUDE_NAMES_CLIENT = {
+      "Superstar": 1, "Phoenix": 1, "Flash": 1, "Force": 1, "Cage": 1, "Freak": 1,
+      "Havoc": 1, "Nobody": 1, "Meltdown": 1, "Chris Storm": 1, "Purple Haze": 1
+    };
+    function escapeReClient(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+    var nameIndexClient = {};
+    function addNameClient(name, id, promos) {
+      if (!name || name.length < 3 || EXCLUDE_NAMES_CLIENT[name]) return;
+      (nameIndexClient[name] = nameIndexClient[name] || []).push({ id: id, promos: promos });
+    }
+    (data.characters || []).concat(data.units || []).forEach(function (e) {
+      var promos = {};
+      (e.tenures || []).forEach(function (t) { if (t.promotion) promos[t.promotion] = true; });
+      addNameClient(e.name, e.id, promos);
+      (e.aka || []).forEach(function (a) { addNameClient(a, e.id, promos); });
+    });
+    var allNamesClient = Object.keys(nameIndexClient).sort(function (a, b) { return b.length - a.length; });
+    // ONE regex over every name is far past the engine's size limit (~32,000
+    // names; Chromium throws "Regular expression too large" and the page never
+    // loads). So the alternation is built PER TEXT from only the names that
+    // occur in it (hook c83) - same longest-first order, same lookarounds, so
+    // the same matches by construction. To keep that fast over ~76,000
+    // captions, names are bucketed by their first three characters: a text
+    // only tests the buckets whose 3-character key occurs in it, then the
+    // survivors are confirmed with a plain substring test (of the very text
+    // the regex runs over) and put back in the original longest-first order.
+    // Names shorter than three characters (promotions only) are tested directly.
+    function presenceIndexClient(sortedNames) {
+      var buckets = {}, short = [];
+      sortedNames.forEach(function (n, i) {
+        if (n.length < 3) { short.push(i); return; }
+        var k = n.slice(0, 3);
+        (buckets[k] || (buckets[k] = [])).push(i);
+      });
+      return { names: sortedNames, buckets: buckets, short: short };
+    }
+    function reForPresentClient(idx, text) {
+      var hits = [], seen = {}, names = idx.names, i, k, b, j;
+      for (i = 0; i + 3 <= text.length; i++) {
+        k = text.substr(i, 3);
+        if (seen[k]) continue;
+        seen[k] = 1;
+        b = idx.buckets[k];
+        if (!b) continue;
+        for (j = 0; j < b.length; j++) if (text.indexOf(names[b[j]]) !== -1) hits.push(b[j]);
+      }
+      for (j = 0; j < idx.short.length; j++) if (text.indexOf(names[idx.short[j]]) !== -1) hits.push(idx.short[j]);
+      if (!hits.length) return null;
+      hits.sort(function (x, y) { return x - y; });
+      return new RegExp(hits.map(function (h) { return "(?<![A-Za-z0-9])" + escapeReClient(names[h]) + "(?![A-Za-z0-9])"; }).join("|"), "g");
+    }
+    var nameIdxClient = presenceIndexClient(allNamesClient);
+    var promoNameIndexClient = {};
+    (data.promotions || []).forEach(function (p) { if (p.name) promoNameIndexClient[p.name] = p; });
+    var promoNamesClient = Object.keys(promoNameIndexClient).sort(function (a, b) { return b.length - a.length; });
+    var promoIdxClient = presenceIndexClient(promoNamesClient);
+    function linkPromosClient(html) {
+      if (!promoNamesClient.length) return html;
+      var segments = html.split(/(<[^>]+>)/);
+      var insideA = 0;
+      return segments.map(function (seg) {
+        if (seg.charAt(0) === "<") {
+          if (/^<a[\s>]/i.test(seg)) insideA++;
+          else if (/^<\/a>/i.test(seg)) insideA = Math.max(0, insideA - 1);
+          return seg;
+        }
+        if (insideA || !seg) return seg;
+        var promoRe = reForPresentClient(promoIdxClient, seg);
+        if (!promoRe) return seg;
+        return seg.replace(promoRe, function (match) {
+          var p = promoNameIndexClient[match];
+          return p && p.page ? '<a href="' + esc(p.page) + '">' + match + "</a>" : match;
+        });
+      }).join("");
+    }
+    function linkCaptionClient(caption, ownId, ownPromos) {
+      if (!caption) return "";
+      var escaped = esc(caption);
+      var entityRe = allNamesClient.length ? reForPresentClient(nameIdxClient, escaped) : null;
+      var withEntities = !entityRe ? escaped : escaped.replace(entityRe, function (match) {
+        var candidates = nameIndexClient[match];
+        if (!candidates) return match;
+        var winners = candidates.filter(function (c) { return c.id !== ownId; });
+        if (!winners.length) return match;
+        if (winners.length > 1 && ownPromos) {
+          var narrowed = winners.filter(function (c) {
+            return Object.keys(ownPromos).some(function (p) { return c.promos[p]; });
+          });
+          if (narrowed.length >= 1) winners = narrowed;
+        }
+        if (winners.length !== 1) return match;
+        var w = winners[0];
+        // NOTE: the data-entity attribute's own opening quote is deliberately
+        // split onto its own concatenation piece below — registry-validate.mjs's
+        // own link checker regex-scans EVERY .html file's raw bytes for that
+        // attribute name immediately followed by an equals sign and a quote
+        // (including inside a <script> block, since it has no JS parser) and
+        // would otherwise "find" this template fragment itself and flag it as
+        // a broken link to the literal source text sitting between the quotes.
+        return '<a href="/characters/' + w.id + '.html" class="entity-link" data-entity=' + '"' + w.id + '"' + ">" + match + "</a>";
+      });
+      return linkPromosClient(withEntities);
+    }
+
+    // OPPONENTS-PER-MATCH WAVE — a derived opponent-frequency join, same
+    // shape as the reigns join above: shows.json's own `matches[].sides`
+    // FIELD PARITY BY BUILD-TIME STAMPING: scripts/cross-reference.mjs now
+    // runs the SAME per-side/per-match traversal at build time (its own
+    // `opponentJoinById`, right before entityCard()) and stamps the result
+    // onto each characters.html card as data-opponent/data-opponents — that
+    // is the ONLY reason opponent:/opponents: also work on characters.html,
+    // which has no client-side join of its own. Keep the two loops in sync
+    // by hand if this one ever changes (same "kept in sync by hand"
+    // discipline this file's sortKeyStr/acronymLabel/showLabel mirrors in
+    // cross-reference.mjs already use) — the one deliberate difference is
+    // that the Node side stamps DISTINCT names (a static attribute has no
+    // reason to repeat one), while this live join still pushes one name
+    // per match (irrelevant to matching either way — a substring test
+    // against a list with duplicates behaves identically to one without).
+    // (the structural re-parse) widened onto each entity as a queryable
+    // `opponent:` field (every opponent name, once per match — so a
+    // query like `opponent:"Al Crud"` finds everyone who has faced him,
+    // and how many times is just how many rows carry that name), plus a
+    // numeric `opponents` (distinct-opponent count, reigns-style) and a
+    // convenience `top_opponent` (their single most-fought rival) —
+    // observed rivalry substrate sitting beside the DECLARED feud edges
+    // in data/relationships.json (the performed-vs-declared pattern: W6's
+    // observed_moves vs. a bio's own declared finisher, W8's declared
+    // vs. observed record/moves, and now this — what the corpus shows
+    // someone doing vs. what a feud edge says they were in).
+    var opponentJoinById = {};
+    (data.shows || []).forEach(function (s) {
+      (s.matches || []).forEach(function (m) {
+        if (!m.sides) return;
+        m.sides.forEach(function (side, si) {
+          var opponents = [];
+          m.sides.forEach(function (side2, sj) { if (sj !== si) opponents = opponents.concat(side2); });
+          side.forEach(function (id) {
+            var o = opponentJoinById[id] || (opponentJoinById[id] = { names: [], countById: {} });
+            opponents.forEach(function (oppId) {
+              var oppEntity = charById[oppId] || unitById[oppId];
+              o.names.push(oppEntity ? oppEntity.name : oppId);
+              o.countById[oppId] = (o.countById[oppId] || 0) + 1;
+            });
+          });
+        });
+      });
+    });
+
+    function entityRows(kind) {
+      return (data[kind] || []).map(function (e) {
+        var promos = (e.tenures || []).map(function (t) { return acro(t.promotion); }).join(" → ");
+        var ownPromos = {};
+        (e.tenures || []).forEach(function (t) { if (t.promotion) ownPromos[t.promotion] = true; });
+        var fields = flattenFields(e);
+        if (reignCountById[e.id]) fields.reigns = [String(reignCountById[e.id])];
+        if (memorialNameById[e.id]) fields.memorial = (fields.memorial || []).concat([memorialNameById[e.id]]);
+        var aj = appearanceJoinById[e.id];
+        if (aj) {
+          if (aj.kind.length) fields.kind = (fields.kind || []).concat(aj.kind);
+          if (aj.date.length) fields.date = (fields.date || []).concat(aj.date);
+          if (aj.promotion.length) fields.promotion = (fields.promotion || []).concat(aj.promotion);
+        }
+        var oj = opponentJoinById[e.id];
+        if (oj && oj.names.length) {
+          fields.opponent = (fields.opponent || []).concat(oj.names);
+          var distinctIds = Object.keys(oj.countById);
+          fields.opponents = [String(distinctIds.length)];
+          var topId = distinctIds.sort(function (a, b) { return oj.countById[b] - oj.countById[a]; })[0];
+          if (topId) {
+            var topEntity = charById[topId] || unitById[topId];
+            fields.top_opponent = [topEntity ? topEntity.name : topId];
+          }
+        }
+        return {
+          label: e.name, sub: promos, href: "/characters/" + e.id + ".html",
+          search: (e.name + " " + (e.aka || []).join(" ")).toLowerCase(),
+          // computed on first read and kept (hook c83): only drawn rows ever read it
+          get captionHtml() {
+            var v = linkCaptionClient(e.caption, e.id, ownPromos);
+            Object.defineProperty(this, "captionHtml", { value: v, enumerable: true });
+            return v;
+          },
+          fields: fields
+        };
+      });
+    }
+
+    var promotionRows = (data.promotions || []).map(function (p) {
+      var a = MuseumList.acronymLabel(p, data.promotions);
+      var full = p.full_name && p.full_name !== p.name ? p.full_name : a;
+      // `qualifier` (2026-08-18 gavel): a descriptor that used to be baked
+      // into `full_name` itself (PTC's own "Primetime Central (interfed
+      // alliance)") — composed into the sub-line explicitly here, never
+      // folded back into the label/full_name.
+      var subBits = p.full_name && p.full_name !== p.name ? [a] : [];
+      if (p.qualifier) subBits.push(p.qualifier);
+      if (p.depth) subBits.push(p.depth);
+      var sub = subBits.join(" · ");
+      // `founded:`/`closed:` fall out of flattenFields() for free (THE
+      // FOUNDING-EDGES WAVE — any {date,...}-shaped nested field exposes
+      // its own parent key now, see js/query.js). `tenure` is the one
+      // computed field, same helper promotions.html uses — honestly
+      // absent, never zero, when any span is unpinnable to a real date.
+      var fields = flattenFields(p);
+      var tenure = MuseumList.promotionTenureYears(p);
+      if (tenure !== null) fields.tenure = [String(tenure)];
+      return {
+        label: full, sub: sub, href: p.page || "/promotions.html",
+        search: (full + " " + a + " " + (p.full_name || "") + " " + (p.qualifier || "")).toLowerCase(),
+        fields: fields
+      };
+    });
+
+    // TITLE-DIRECTORY DISAMBIGUATION (founder's gavel, 2026-08-18): same
+    // MuseumList.titleLabel() convention championships.html uses — a bare
+    // acronym prefix so a search result reads "UWF World Heavyweight
+    // Championship," never a bare "World Championship" indistinguishable
+    // from every other promotion's own.
+    var titleRows = (data.titles || []).map(function (t) {
+      return {
+        label: MuseumList.titleLabel(t, promoById, data.promotions), sub: acro(t.promotion), href: t.page,
+        search: (t.name + " " + t.promotion).toLowerCase(),
+        fields: flattenFields(t)
+      };
+    });
+
+    function appearanceNames(s) {
+      return (s.appearances || []).map(function (a) {
+        var e = charById[a.who] || unitById[a.who];
+        return e ? e.name : "";
+      }).join(" ");
+    }
+    // PROFILE QUALITY WAVE: show names carry their promotion everywhere —
+    // "GIWF Quake", never bare "Quake" — via the same MuseumList.showLabel()
+    // shows.html uses, so the two pages never drift.
+    var showRows = (data.shows || []).map(function (s) {
+      var dateText = s.date && s.date.date;
+      return {
+        label: MuseumList.showLabel(s, promoById, data.promotions), sub: dateText || "", href: s.page,
+        search: (s.name + " " + s.promotion + " " + appearanceNames(s)).toLowerCase(),
+        fields: flattenFields(s)
+      };
+    });
+
+    var essayRows = (data.essays || []).map(function (e) {
+      return {
+        label: e.title, sub: "Essay", href: e.page,
+        search: (e.title + " " + (e.summary || "")).toLowerCase(),
+        fields: flattenFields(e)
+      };
+    });
+
+    function memberNames(ids) {
+      return (ids || []).map(function (id) {
+        var u = unitById[id];
+        return u ? (u.members || []).map(function (m) { return m.name; }).join(" ") : "";
+      }).join(" ");
+    }
+    var rpRows = (data.rps || []).map(function (rp) {
+      function byNames(ids) { return (ids || []).map(function (id) { return (charById[id] || unitById[id] || {}).name || id; }).join(", "); }
+      var involves = byNames(rp.involves);
+      var dateText = rp.date && rp.date.date;
+      return {
+        label: rp.title,
+        // hook c106 (the Janitor's D407): a roleplay no fed claims shows the hub it was posted on; no leading separator
+        sub: [rp.promotion ? acro(rp.promotion) : rp.venue ? acro(rp.venue) : "", involves, dateText].filter(Boolean).join(" · "),
+        href: rp.served_url || "/rps.html",
+        search: (rp.title + " " + involves + " " + memberNames(rp.involves) + " " + memberNames(rp.references)).toLowerCase(),
+        fields: flattenFields(rp)
+      };
+    });
+
+    // THE AWARD ENTITIES WAVE: data/awards.json is one row per award
+    // ENTITY now (a bestowals[] array nested under each) — award rows here
+    // mirror titleRows exactly, one row per award (not per bestowal),
+    // linking through to the award's own page rather than a bare
+    // recipient. `flattenFields()` widens `fields` into every bestowal's
+    // own year/result/vote_detail automatically (it already walks any
+    // array of sub-objects); recipient/runner_up ids are resolved to
+    // display names first, the same reason titleRows/showRows do it, so a
+    // reader searching by a WINNER's name still finds the award.
+    function holderNamesClient(list) {
+      return (list || []).map(function (h) {
+        if (h.id) return (charById[h.id] || unitById[h.id] || {}).name || h.id;
+        return h.name || "";
+      }).filter(Boolean);
+    }
+    var awardRows = (data.awards || []).map(function (a) {
+      var years = (a.bestowals || []).map(function (b) { return b.year; }).filter(Boolean);
+      var yearSpan = years.length ? (years.length > 1 ? Math.min.apply(null, years) + "–" + Math.max.apply(null, years) : String(years[0])) : "";
+      var allNames = [];
+      (a.bestowals || []).forEach(function (b) {
+        allNames = allNames.concat(holderNamesClient(b.recipient), holderNamesClient(b.runner_up));
+      });
+      var shapedBestowals = (a.bestowals || []).map(function (b) {
+        return { year: b.year, result: b.result, vote_detail: b.vote_detail, recipient: holderNamesClient(b.recipient), runner_up: holderNamesClient(b.runner_up) };
+      });
+      return {
+        label: MuseumList.titleLabel(a, promoById, data.promotions),
+        sub: acro(a.promotion) + (yearSpan ? " · " + yearSpan : ""),
+        href: a.page,
+        search: (a.name + " " + acro(a.promotion) + " " + allNames.join(" ")).toLowerCase(),
+        fields: flattenFields({ name: a.name, promotion: a.promotion, bestowals: shapedBestowals })
+      };
+    });
+
+    // ONE ROW PER PORTRAYED REAL PERSON (hook c113, 2026-10-07; the Janitor:
+    // "over time there would presumably be 1000 depictions of Austin, which
+    // seems silly to list one after another"). The same fold
+    // scripts/cross-reference.mjs makes on the character index, kept in sync
+    // by hand: a character carrying `portrayal_of` whose figure resolves and
+    // sits on its own `portrays` is listed under its figure, in "Real people"
+    // (the first group), and not again under Characters. The figure's row
+    // links to its figure page; under it, the portrayals this query found
+    // (every one, when the query found the person's own name), at most
+    // FIGURE_SUBROWS, with a pointer to the page for the rest.
+    var figureById = {};
+    (data["external-figures"] || []).forEach(function (f) { figureById[f.id] = f; });
+    function foldedFigureId(c) {
+      if (c.type === "unit" || typeof c.portrayal_of !== "string" || !figureById[c.portrayal_of]) return null;
+      var l = c.portrays ? (Array.isArray(c.portrays) ? c.portrays : [c.portrays]) : [];
+      return l.some(function (pt) { return pt && pt.figure === c.portrayal_of; }) ? c.portrayal_of : null;
+    }
+    var characterRows = [], figureRowById = {}, realPeopleRows = [];
+    var allCharacterRows = entityRows("characters");
+    (data.characters || []).forEach(function (c, i) {
+      var fid = foldedFigureId(c);
+      if (!fid) { characterRows.push(allCharacterRows[i]); return; }
+      var fr = figureRowById[fid];
+      if (!fr) {
+        var f = figureById[fid];
+        fr = figureRowById[fid] = {
+          label: f.name, sub: "", href: "/figures/" + f.id + ".html",
+          search: (f.name + " " + (f.aka || []).join(" ")).toLowerCase(),
+          fields: flattenFields({ id: f.id, name: f.name, kind: "real-person", portrayal: "yes" }),
+          portrayals: [], promos: {}
+        };
+        realPeopleRows.push(fr);
+      }
+      fr.portrayals.push(allCharacterRows[i]);
+      (c.tenures || []).forEach(function (t) { if (t.promotion) fr.promos[t.promotion] = true; });
+    });
+    realPeopleRows.forEach(function (fr) {
+      var n = fr.portrayals.length, pn = Object.keys(fr.promos).length;
+      fr.sub = n + (n === 1 ? " portrayal" : " portrayals") + (pn ? " in " + pn + (pn === 1 ? " promotion" : " promotions") : "");
+    });
+
+    GROUP_ROWS = [
+      ["Real people", realPeopleRows],
+      ["Wings", promotionRows],
+      ["Characters", characterRows],
+      ["Units", entityRows("units")],
+      ["Championships", titleRows],
+      ["Shows", showRows],
+      ["Roleplays", rpRows],
+      ["Awards", awardRows],
+      ["Essays", essayRows]
+    ].map(function (g) { return { name: g[0], rows: g[1] }; });
+  }
+
+  // Query parsing — js/query.js's parseQuery()/rowMatches(): `field:value`
+  // tokens become predicates (ANDed together and against any plain words);
+  // anything without a recognized field:value shape is a plain word
+  // (substring-matched against the row's own label/sub blob, same as the
+  // page always did). Same engine every list page now runs.
+  var parseQuery = MuseumQuery.parseQuery;
+  var rowMatches = MuseumQuery.rowMatches;
+
+  // hook c113: a "Real people" row matches on the person's own name, or on any of its portrayals; it lists the
+  // portrayals the query found (all of them when it found the person), at most FIGURE_SUBROWS.
+  var FIGURE_SUBROWS = 10;
+  function figureRowMatches(r, parsed) {
+    var own = rowMatches(r, parsed);
+    r.shown = own ? r.portrayals : r.portrayals.filter(function (p) { return rowMatches(p, parsed); });
+    return own || r.shown.length > 0;
+  }
+  function figureSubrows(r) {
+    var list = (r.shown || []).slice().sort(MuseumList.byName(function (p) { return p.label; }));
+    var out = list.slice(0, FIGURE_SUBROWS).map(function (p) {
+      return '<li><a href="' + esc(p.href) + '">' + esc(p.label) + "</a>" + (p.sub ? ' <span class="muted small">&mdash; ' + esc(p.sub) + "</span>" : "") + "</li>";
+    }).join("");
+    var more = list.length > FIGURE_SUBROWS ? '<p class="muted small">&hellip; and ' + (list.length - FIGURE_SUBROWS) + ' more on <a href="' + esc(r.href) + '">the figure&rsquo;s page</a>.</p>' : "";
+    return '<ul class="archive-list">' + out + "</ul>" + more;
+  }
+
+  function runSearch() {
+    var raw = input.value;
+    var parsed = parseQuery(raw);
+    if (MuseumQuery.isEmptyQuery(parsed)) { results.innerHTML = ""; status.textContent = READY_LINE; return; }
+    // A single short bare word (1 char, no predicates) is still too noisy —
+    // same floor the page always had — but a field:value token is exact
+    // enough to run at any length ("id:x" aside, nobody's field values are
+    // 1 char in practice).
+    if (!parsed.predicates.length && !(parsed.notWords || []).length && parsed.words.join("").length < 2) { results.innerHTML = ""; status.textContent = READY_LINE; return; }
+    var html = "";
+    var total = 0;
+    var shownCount = 0;
+    // THE SELFISH-REVIEWER FEATURE, extended to search.html (PRIORITY RIDER,
+    // 2026-08-18: "sequence capture must exist on EVERY list surface, not
+    // just characters.html — fielded queries like nonhuman:true = exactly the
+    // review sequences the user runs"). Group names map onto the SAME
+    // pagerType keys js/pager.js already reads on each entity's own page —
+    // Characters + Units share one flat "characters" sequence because both
+    // link into /characters/<id>.html and that page's own pager is keyed
+    // "characters" too (same flat list characters.html itself windows over).
+    // Every MATCHED row joins the sequence, not just the first 60 rendered
+    // below — same "full set, not the windowed slice" contract
+    // MuseumList.wireDomFilter already uses.
+    var pagerBuckets = { characters: [], promotions: [], essays: [] };
+    // Keys are GROUP LABELS (the rendered heading), values are pagerType keys
+    // (stored ids — never renamed). THE WINGS GAVEL (2026-08-23) renamed the
+    // label, so this key moved with it; the "promotions" value did not.
+    var GROUP_PAGER_TYPE = { Characters: "characters", Units: "characters", Wings: "promotions", Essays: "essays" };
+    GROUP_ROWS.forEach(function (group) {
+      var rows = group.rows.filter(function (r) { return r.portrayals ? figureRowMatches(r, parsed) : rowMatches(r, parsed); })
+        .sort(MuseumList.byName(function (r) { return r.label; }));
+      if (!rows.length) return;
+      total += rows.length;
+      shownCount += Math.min(rows.length, 60);
+      html += "<h2>" + group.name + ' <span class="muted small">(' + rows.length + ")</span></h2>";
+      rows.slice(0, 60).forEach(function (r) {
+        var title = r.href ? '<a href="' + esc(r.href) + '">' + esc(r.label) + "</a>" : esc(r.label);
+        var captionLine = r.captionHtml ? '<p class="muted small caption-line">' + r.captionHtml + "</p>" : "";
+        html += '<div class="roster-card"><h3>' + title + '</h3><div class="handle">' + esc(r.sub || "") + "</div>" + captionLine + (r.portrayals ? figureSubrows(r) : "") + "</div>";
+      });
+      if (rows.length > 60) html += '<p class="muted small">&hellip; and ' + (rows.length - 60) + " more.</p>";
+      var pagerType = GROUP_PAGER_TYPE[group.name];
+      if (pagerType) pagerBuckets[pagerType] = pagerBuckets[pagerType].concat(rows);
+    });
+    if (pagerBuckets.characters.length) {
+      pagerBuckets.characters.sort(MuseumList.byName(function (r) { return r.label; }));
+      MuseumList.savePagerSequence("characters", pagerBuckets.characters.map(function (r) { return { href: r.href, label: r.label }; }));
+    }
+    if (pagerBuckets.promotions.length) {
+      MuseumList.savePagerSequence("promotions", pagerBuckets.promotions.map(function (r) { return { href: r.href, label: r.label }; }));
+    }
+    if (pagerBuckets.essays.length) {
+      MuseumList.savePagerSequence("essays", pagerBuckets.essays.map(function (r) { return { href: r.href, label: r.label }; }));
+    }
+    // NO SILENT ZEROS: this is the one COMPLETE reference, so an unknown
+    // field here means a typo/never-registered field, not "wrong page" —
+    // the note omits the "Full search" pointer other pages carry (this
+    // already is that page) and just names the field itself.
+    // hook c170 (adversarial review 1009, A06): an unknown field names itself and the fields this page documents (the list
+    // /search-help.html gives), never the registry's raw key list. A documented field with no hits is not "unknown".
+    var emptyHtml = "No matches.";
+    if (!total) {
+      var known = {}, seenBad = {}, bad = [];
+      ALL_KNOWN_FIELDS.concat(DOCUMENTED_FIELDS).forEach(function (f) { known[f] = true; });
+      (parsed.predicates || []).forEach(function (p) { if (!known[p.field] && !seenBad[p.field]) { seenBad[p.field] = true; bad.push(p.field); } });
+      if (bad.length) emptyHtml = "No field called " + bad.map(function (f) { return "'" + esc(f) + "'"; }).join(", ") + ". Fields you can search: " +
+        DOCUMENTED_FIELDS.join(", ") + '. <a href="/search-help.html#search-fields">Search syntax</a> says which page takes which field.';
+    }
+    results.innerHTML = total ? html : '<p class="muted">' + emptyHtml + "</p>";
+    // THE DOCUMENTS BRIDGE (D294, hook c85): plain words can also be looked for
+    // in the served documents' own text, one press away.
+    var plain = (parsed.words || []).join(" ").trim();
+    if (plain.length >= 2) {
+      results.insertAdjacentHTML(total ? "afterbegin" : "beforeend", '<p class="query-examples"><button type="button" class="query-chip query-chip--token" data-text-search="' + esc(plain) + '">Look for \u201c' + esc(plain) + '\u201d in the documents</button></p>');
+    }
+    // THE RESULTS COUNTER — same "N of M" readout every list page carries
+    // (MuseumList.countLine), totalled across every group.
+    status.textContent = MuseumList.countLine(shownCount, total, GRAND_TOTAL);
+  }
+})();
+</script>
+<script>
+// THE DOCUMENTS SEARCH (D289 "search results only", D294; hook c85). One
+// request per press of Enter to GET /api/search, answered behind the invite
+// gate by the museum's Worker from the served documents' own text. Shows
+// title, wing, kind and a short passage; never an answer of its own.
+(function () {
+  "use strict";
+  var esc = MuseumList.esc;
+  var form = document.getElementById("tform");
+  var input = document.getElementById("tq");
+  var status = document.getElementById("tstatus");
+  var out = document.getElementById("tresults");
+  if (!form || !input) return;
+  var KINDS = { rp: "Roleplay", card: "Card", news: "News", roster: "Roster", board: "Board", rules: "Rules", column: "Column", staff: "Staff", other: "Document", poll: "Poll" };
+  var STOP = {};
+  "the and for are but not you all any can her was one our out his has him how its who did yes she they them then than that this with from have were what when where which will would there their your into about been some such only also very just over".split(" ").forEach(function (w) { STOP[w] = 1; });
+  var wingNames = null;
+  function wingName(id) {
+    if (wingNames === null) {
+      wingNames = {};
+      // the registry script below may already have fetched promotions.json; reuse the browser's copy
+      MuseumList.fetchJSON("/data/promotions.json").then(function (ps) {
+        (ps || []).forEach(function (p) { wingNames[p.id] = p.name || p.id; });
+        out.querySelectorAll("[data-wing]").forEach(function (el) { el.textContent = wingNames[el.getAttribute("data-wing")] || el.textContent; });
+      }, function () {});
+    }
+    return wingNames[id] || id;
+  }
+  function highlight(text, q) {
+    var words = (q.toLowerCase().match(/[\p{L}\p{N}']{3,}/gu) || []).filter(function (w, i, a) { return a.indexOf(w) === i && !STOP[w]; });
+    if (!words.length) return esc(text);
+    // split the RAW text and escape each piece, so a word never matches inside an entity
+    // whole words only: "his" never lights up inside "this"
+    var re = new RegExp("(?<![\\p{L}\\p{N}])(" + words.map(function (w) { return w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }).join("|") + ")(?![\\p{L}\\p{N}])", "iu");
+    return String(text).split(re).map(function (part, i) { return i % 2 ? "<strong>" + esc(part) + "</strong>" : esc(part); }).join("");
+  }
+  var pending = null;
+  var shown = "";
+  function run(q, push) {
+    q = String(q || "").trim();
+    if (!q) { out.innerHTML = ""; status.textContent = ""; shown = ""; return; }
+    if (pending) pending.abort();
+    pending = typeof AbortController === "function" ? new AbortController() : null;
+    status.textContent = "Searching the documents\u2026";
+    form.setAttribute("aria-busy", "true");
+    if (push) {
+      try {
+        var params = new URLSearchParams(location.search);
+        params.set("text", q);
+        history.replaceState(null, "", location.pathname + "?" + params.toString() + location.hash);
+      } catch (e) { /* the search still runs, just unshared */ }
+    }
+    fetch("/api/search?q=" + encodeURIComponent(q), { credentials: "same-origin", signal: pending ? pending.signal : undefined, headers: { Accept: "application/json" } })
+      .then(function (r) {
+        if (!(r.headers.get("content-type") || "").includes("application/json")) throw new Error("not json");
+        return r.json().then(function (j) { return { ok: r.ok, j: j }; });
+      })
+      .then(function (res) {
+        form.removeAttribute("aria-busy");
+        var j = res.j || {};
+        if (!res.ok || j.error) { status.textContent = "The documents search didn\u2019t answer. Try again in a moment."; out.innerHTML = ""; return; }
+        var rows = j.results || [];
+        var html = "";
+        rows.forEach(function (r) {
+          var kind = KINDS[r.doc_class] || "";
+          html += '<div class="roster-card"><h3><a href="' + esc(r.page) + '">' + esc(r.title || r.page) + "</a></h3>" +
+            '<div class="handle"><span data-wing="' + esc(r.wing) + '">' + esc(wingName(r.wing)) + "</span>" + (kind ? " \u00b7 " + esc(kind) : "") + "</div>" +
+            (r.snippet ? '<p class="muted small">' + highlight(r.snippet, j.q || q) + "</p>" : "") + "</div>";
+        });
+        var note = "";
+        if ((j.ignored || []).length) {
+          note = '<p class="muted small">' + j.ignored.map(function (t) { return "<code>" + esc(t) + "</code>"; }).join(" ") +
+            " searches the registry, not the documents: " +
+            '<button type="button" class="query-chip query-chip--token" data-registry-search="' + esc(j.ignored.join(" ")) + '">Search the registry for it</button></p>';
+        }
+        out.innerHTML = note + html;
+        shown = q;
+        status.textContent = rows.length ? (rows.length === 1 ? "One page." : rows.length + " pages, the closest first.") : "No document says that.";
+      })
+      .catch(function (e) {
+        if (e && e.name === "AbortError") return;
+        form.removeAttribute("aria-busy");
+        status.textContent = "The documents search didn\u2019t answer. Try again in a moment.";
+      });
+  }
+  form.addEventListener("submit", function (ev) { ev.preventDefault(); if (input.value.trim() !== shown) run(input.value, true); });
+  document.addEventListener("click", function (ev) {
+    var t = ev.target && ev.target.closest ? ev.target.closest("[data-text-search],[data-registry-search]") : null;
+    if (!t) return;
+    if (t.hasAttribute("data-text-search")) {
+      input.value = t.getAttribute("data-text-search");
+      run(input.value, true);
+      document.getElementById("documents").scrollIntoView({ block: "start" });
+    } else {
+      var reg = document.getElementById("q");
+      if (!reg) return;
+      reg.value = t.getAttribute("data-registry-search");
+      reg.dispatchEvent(new Event("input", { bubbles: true }));
+      document.getElementById("registry").scrollIntoView({ block: "start" });
+    }
+  });
+  try {
+    var initial = new URLSearchParams(location.search).get("text");
+    if (initial) { input.value = initial; run(initial, false); }
+  } catch (e) { /* no URL APIs: the box still works */ }
+})();
+</script>
+
+<!-- chrome:footer:start -->
+  <footer role="contentinfo">
+THE E-WRESTLING MUSEUM <span class="rule">/</span> Search <span class="rule">/</span>
+    <a href="/">back to the museum</a><br>
+    Written 2026 &mdash; not backdated. See <a href="/curation.html">Curation</a>.
+    <!-- footernav:start --><nav class="footnav" aria-label="Elsewhere"><a href="/search.html">Search</a> <span class="rule">/</span> <a href="https://forum.ewmuseum.org">The forum</a> <span class="rule">/</span> <a href="https://e-wrestling.org">e-wrestling.org</a></nav><!-- footernav:end -->
+  </footer>
+</main>
+</body>
+</html>
+<!-- chrome:footer:end -->

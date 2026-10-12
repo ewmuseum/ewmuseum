@@ -1,0 +1,630 @@
+[
+ {
+  "id": "monsta-boyz-gxw-2001",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Monsta Boyz",
+  "caption": "GXW's own World Tag Team Champions, held by Buff Bellows and Fat Farrell across the promotion's final year and a half.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "character_id": "buff-bellows-gxw-2001",
+    "name": "Buff Bellows"
+   },
+   {
+    "character_id": "fat-farrell-gxw-2001",
+    "name": "Fat Farrell"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2003-01",
+    "last_seen": "2004-05",
+    "role": "tag team — GXW/GWE World Tag Team Champions"
+   },
+   {
+    "promotion": "gwa-gateway-2004",
+    "source": "Profiled as a team in the fed's own forum, 23 September 2004."
+   },
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Aggression 8\" (14 May 2004)"
+   }
+  ],
+  "aka": [
+   "The Monsta Boyz"
+  ]
+ },
+ {
+  "id": "true-living-colors-gxw-2001",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "True Living Colors",
+  "aka": [
+   "TLC"
+  ],
+  "caption": "David Black and Jevon White's own pairing, recruited into the fed's predecessor Nthwa from the St. Louis independent scene and built into a top tag team before falling down the card after the merger into GXW.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "character_id": "david-black-gxw-2001",
+    "name": "David Black"
+   },
+   {
+    "character_id": "jevon-white-gxw-2001",
+    "name": "Jevon White"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2001-10",
+    "last_seen": "2004-04",
+    "role": "tag team — recruited into Nthwa, carried through the merger into GXW"
+   },
+   {
+    "first_seen": "2006",
+    "last_seen": "2007",
+    "promotion": "wwa",
+    "role": "tag team — WWA World Tag Team Champions"
+   }
+  ]
+ },
+ {
+  "id": "bad-company-gxw-2001",
+  "type": "unit",
+  "name": "Bad Company",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed across 2 shows on the promotion's Onslaught cards in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2003-01-29",
+    "last_seen": "2003-03-03",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "members": [
+   "skylar-trace-gxw-2001",
+   "victor-hendricks-gxw-2001"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (bad-company-ncw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "bad-company-ncw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dark-carnival-gxw-2001",
+  "type": "unit",
+  "name": "Dark Carnival",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team attested holding the GXW World Tag Team Championship in the held record, champion at the record's own end.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2003-11-02",
+    "last_seen": "2004-03-07",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (dark-carnival-epw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "dark-carnival-epw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (dark-carnival-ucwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "dark-carnival-ucwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "fatal-destiny-gxw-2001",
+  "type": "unit",
+  "name": "Fatal Destiny",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed across 2 shows on the promotion's Onslaught and pay-per-view cards in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2002-11-08",
+    "last_seen": "2003-03-03",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "members": [
+   "roseanne-fairhurst-gxw-2001",
+   "miso-gxw-2001"
+  ]
+ },
+ {
+  "id": "gothic-alchemy-gxw-2001",
+  "type": "unit",
+  "name": "Gothic Alchemy",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed across 3 shows on the promotion's Onslaught and X-perience cards in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2003-01-15",
+    "last_seen": "2003-03-08",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "membership_unknown": true
+ },
+ {
+  "id": "horror-business-gxw-2001",
+  "type": "unit",
+  "name": "Horror Business",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed across 2 shows on the promotion's Onslaught and pay-per-view cards in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2002-12-14",
+    "last_seen": "2003-01-29",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "members": [
+   "paul-zombie-gxw-2001",
+   "kyle-carson-gxw-2001"
+  ]
+ },
+ {
+  "id": "nighthawks-gxw-2001",
+  "type": "unit",
+  "name": "Nighthawks",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed for a single match on the promotion's pay-per-view card, in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2003-11-02",
+    "last_seen": "2003-11-02",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "members": [
+   "julia-easter-gxw-2001",
+   "angel-garza-gxw-2001"
+  ]
+ },
+ {
+  "id": "starmakers-gxw-2001",
+  "type": "unit",
+  "name": "StarMakers",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed for a single match on the promotion's pay-per-view card, in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2003-11-02",
+    "last_seen": "2003-11-02",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "membership_unknown": true
+ },
+ {
+  "id": "the-assassins-gxw-2001",
+  "type": "unit",
+  "name": "The Assassins",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed across 3 shows on the promotion's pay-per-view cards in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2002-12-14",
+    "last_seen": "2004-01-18",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-assassins-aewa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-assassins-aewa"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-assassins-epw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-assassins-epw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-night-cripplers-gxw-2001",
+  "type": "unit",
+  "name": "The Night Cripplers",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team attested holding the GXW World Tag Team Championship in the held record.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2002-12-14",
+    "last_seen": "2002-12-14",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "membership_unknown": true
+ },
+ {
+  "id": "the-professionals-gxw-2001",
+  "type": "unit",
+  "name": "The Professionals",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed for a single match on the promotion's pay-per-view card, in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2004-01-18",
+    "last_seen": "2004-01-18",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "members": [
+   "craig-miles-gxw-2001",
+   "eddie-mayfield-gxw-2001"
+  ]
+ },
+ {
+  "id": "the-unholy-alliance-gxw-2001",
+  "type": "unit",
+  "name": "The Unholy Alliance",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed for a single match on the promotion's Onslaught card, in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2002-07-19",
+    "last_seen": "2002-07-19",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "members": [
+   "never-christ-gxw-2001",
+   "crimson-saint-gxw-2001"
+  ]
+ },
+ {
+  "id": "twin-phoenix-gxw-2001",
+  "type": "unit",
+  "name": "Twin Phoenix",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed across 2 shows on the promotion's Onslaught and pay-per-view cards in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2002-11-08",
+    "last_seen": "2003-06-29",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "members": [
+   "yeh-shen-li-gxw-2001",
+   "trynyty-wang-gxw-2001"
+  ]
+ },
+ {
+  "id": "vicious-and-delicious-gxw-2001",
+  "type": "unit",
+  "name": "Vicious and Delicious",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed for a single match on the promotion's Onslaught card, in the pages held.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2003-01-15",
+    "last_seen": "2003-01-15",
+    "source": "This wing's own card lineups (fwrestling.com forum census)."
+   }
+  ],
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (bagwell-norton-xwf-uwow); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "bagwell-norton-xwf-uwow"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "insane-pain-gxw-2001",
+  "type": "unit",
+  "name": "Insane Pain",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed as the promotion's own Television Tag Team Champions in its earliest attested Front Office lineups, contesting a title this wing's own record does not attest again after December 2001.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2001-10-15",
+    "last_seen": "2001-12-08",
+    "source": "This wing's own Front Office lineup announcements (fwrestling.com forum census)."
+   }
+  ],
+  "members": [],
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (insane-pain-faw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "insane-pain-faw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "motor-city-maniacs-gxw-2001",
+  "type": "unit",
+  "name": "Motor City Maniacs",
+  "aka": [],
+  "unit_kind": "tag-team",
+  "caption": "A tag team billed as the promotion's own World Tag Team Champions as of January 2002, left holding the title in limbo when both of its members retired from the promotion the same month.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "gxw-2001",
+    "first_seen": "2001-12-08",
+    "last_seen": "2002-01-14",
+    "source": "This wing's own Front Office lineup announcements and the promotion's own Cruiserweight-division staffer's retirement announcement (fwrestling.com forum census)."
+   }
+  ],
+  "members": [],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "motor-city-maniacs-epw"
+    ],
+    "note": "Shares a team name with an existing unit in the held Empire Pro Wrestling wing. No member names survive in this wing's own read pages to compare; filed distinct on the no-auto-merge default."
+   }
+  ],
+  "membership_unknown": true
+ }
+]

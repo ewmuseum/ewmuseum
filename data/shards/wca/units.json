@@ -1,0 +1,94 @@
+[
+ {
+  "id": "hooked-on-destruction-wca",
+  "type": "unit",
+  "name": "Hooked on Destruction",
+  "unit_kind": "tag-team",
+  "caption": "'Psycho' Vicki V and Christy Cooper, who carried the WCA World Tag Team Championship into 1997 and retained it twice in January.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "\"Psycho\" Vicki V",
+    "character_id": "psycho-vicki-v-wca"
+   },
+   {
+    "name": "Christy Cooper",
+    "character_id": "christy-cooper-wca"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wca",
+    "first_seen": "1996",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "World Tag Team Champions into January 1997",
+    "source": "promotions/wca/archive/wca-monday-knights-1-6-1997-01-08.html"
+   }
+  ]
+ },
+ {
+  "id": "bounty-hunters-wca",
+  "type": "unit",
+  "name": "the Bounty Hunters",
+  "unit_kind": "tag-team",
+  "caption": "Won the WCA World Tag Team Championship in a four-team mini-tournament, 21 April 1997, after the previous champions no-showed and vacated the belts.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Red"
+   },
+   {
+    "name": "Black"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wca",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "World Tag Team Champions from 21 April",
+    "source": "promotions/wca/archive/wca-thursday-knights-3-27-1997-03-28.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "the-bounty-hunters-usew"
+    ]
+   }
+  ]
+ }
+]

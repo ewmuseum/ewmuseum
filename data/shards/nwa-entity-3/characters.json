@@ -1,0 +1,150 @@
+[
+  {
+    "id": "viper-nwa-entity-3",
+    "type": "character",
+    "name": "Viper",
+    "notes": "Known only from a community flame-war thread (15-26 Jul 1997) triggered by the proliferation of e-fed wrestlers billed \"Viper\"; the original poster, self-identified as Viper's own handler, claims to have originated the gimmick and names him \"Leader of the NOD\" (Nation Of Devastation). No card, roster list or self-authored document from the fed itself survives.",
+    "caption": "Billed leader of the NOD stable in the folded NWA, remembered only in a community argument over who originated the \"Viper\" gimmick.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "nwa-entity-3",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "msg_ids cyMvtialBAUJ, 7VyKrRsfge0J, fi1p936lqzUJ, Dxei7JNEe20J (RSPWF thread \"VIPER and THE NWA\", 15-26 Jul 1997)"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "viper-gswa",
+          "viper-lcw-ltd",
+          "viper-low",
+          "viper-ngw",
+          "viper-scw-survival",
+          "viper-wwa",
+          "viper-xcwf"
+        ],
+        "note": "Bare billing \"Viper\" already exists across seven other wings; the held record's thread is explicitly ABOUT how common the gimmick was (\"There is atleast 100 guys that came before him using the same name\"), so the name alone is not evidence of any join. No operator, roster, title or URL ties this NWA billing to any of the others. Recorded distinct by default; reopenable if a document ever links two of them."
+      }
+    ]
+  },
+  {
+    "id": "nic-nyce-nwa-entity-3",
+    "type": "character",
+    "name": "Nic Nyce",
+    "notes": "Named as a \"former member of the NWA\" in the same 15 Jul 1997 community thread that names Viper and the NOD. A third federation's own \"Control Center\" commentary independently corroborates him holding a US title in the NWA (spelled \"Nick Nyce\"/\"Nik Nyce\" there, evidently the same billing) while previewing his SJPW debut main event. No card, roster list or self-authored document from the NWA itself survives.",
+    "caption": "Recalled as a former NWA US Champion in a rival federation's own commentary on his SJPW debut.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "nwa-entity-3",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "msg_id cyMvtialBAUJ (RSPWF thread \"VIPER and THE NWA\", 15 Jul 1997); US title corroborated by msg_ids 13eq33hs96QJ, 2qEY-gw9dKkJ (SJPW's own \"Control Center\" show-preview commentary, 27 Apr and 6 May 1997, billing him \"Nick Nyce\"/\"Nik Nyce\")"
+      }
+    ]
+  },
+  {
+    "id": "the-brotherhood-nwa-entity-3",
+    "type": "character",
+    "name": "The Brotherhood",
+    "notes": "Named as a \"former member of the NWA\" alongside Nic Nyce and Zack Sharp in the same 15 Jul 1997 thread; the source text groups the three of them \"along with the NOD\" as the fed's best, rather than explicitly stating they wrestled inside the NOD stable itself — preserved here as the ambiguity the text actually carries, not resolved past it. No card, roster list or self-authored document from the NWA itself survives.",
+    "caption": "Recalled as one of the folded NWA's own best-remembered acts in a community thread mourning it.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "nwa-entity-3",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "msg_id cyMvtialBAUJ (RSPWF thread \"VIPER and THE NWA\", 15 Jul 1997)"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "brotherhood-wwa"
+        ],
+        "note": "Name matches an existing WWA unit exactly. No operator, roster or title links this NWA billing (named once, in passing, as a former member) to the WWA act. Recorded distinct by default."
+      }
+    ]
+  },
+  {
+    "id": "zack-sharp-nwa-entity-3",
+    "type": "character",
+    "name": "Zack Sharp",
+    "notes": "Named as a \"former member of the NWA\" in the same 15 Jul 1997 thread. A 16 Dec 1997 community reminiscence (the fed's own closure receipt) separately recalls a wrestler \"ol' Zach Sharp\" (alternate spelling) having \"more'n held his own against BT\" back in the NWA. No card, roster list or self-authored document from the NWA itself survives.",
+    "caption": "Recalled feuding with the fed's own closing-days World Champion, in a year-end community reminiscence.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "nwa-entity-3",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "msg_ids cyMvtialBAUJ (15 Jul 1997), B_NusROpkRoJ (16 Dec 1997, spelled \"Zach Sharp\")"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "zack-sharp-inwi"
+        ],
+        "note": "Bare billing \"Zack Sharp\" already exists as a distinct INWI wrestler (a further \"Technician\" Zack Sharp billing also exists at technician-zack-sharp-rspwf). No operator, roster, title or URL ties this NWA billing to either. Recorded distinct by default."
+      }
+    ]
+  }
+]

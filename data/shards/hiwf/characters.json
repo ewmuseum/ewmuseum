@@ -1,0 +1,214 @@
+[
+  {
+    "id": "the-natural-mark-drummond-hiwf",
+    "type": "character",
+    "name": "\"The Natural\" Mark Drummond",
+    "caption": "Debuts with his own interview vowing three things he has come to the HIWF to do.",
+    "tenures": [
+      {
+        "promotion": "hiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-07-10",
+        "last_seen": "1997-07-10",
+        "source": "/promotions/hiwf/rp/hiwf-sym-1997-07-10.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "the-card-shark-randy-brandenberg-hiwf",
+    "type": "character",
+    "name": "\"The Card Shark\" Randy Brandenberg",
+    "caption": "A casino-owning heel who feuds with the Stormreavers' Rend, managed by \"Pretty Boy\" Bobby Lawrence.",
+    "tenures": [
+      {
+        "promotion": "hiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-08-15",
+        "last_seen": "1997-08-15",
+        "source": "/promotions/hiwf/rp/hiwf-sym-1997-08-15.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "pretty-boy-bobby-lawrence-hiwf",
+    "type": "character",
+    "name": "\"Pretty Boy\" Bobby Lawrence",
+    "caption": "Manages \"The Card Shark\" Randy Brandenberg.",
+    "tenures": [
+      {
+        "promotion": "hiwf",
+        "roles": [
+          "manager"
+        ],
+        "first_seen": "1997-08-15",
+        "last_seen": "1997-08-15",
+        "source": "/promotions/hiwf/rp/hiwf-sym-1997-08-15.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "smilin-doc-watson-hiwf",
+    "type": "character",
+    "name": "\"Smilin'\" Doc Watson",
+    "caption": "Half of the S.Y.M. announce desk, a cigar-smoking, kayfabe-breaking commentator who spends most editions mocking his broadcast partner Jerry Malone.",
+    "tenures": [
+      {
+        "promotion": "hiwf",
+        "roles": [
+          "commentator"
+        ],
+        "first_seen": "1997-06-30",
+        "last_seen": "1997-09-02",
+        "source": "/promotions/hiwf/rp/hiwf-sym-1997-06-30.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 11,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "jerry-malone-hiwf",
+    "type": "character",
+    "name": "Jerry Malone",
+    "caption": "The other half of the S.Y.M. desk, a self-styled journalist who spends most editions on the receiving end of Doc Watson's insults.",
+    "tenures": [
+      {
+        "promotion": "hiwf",
+        "roles": [
+          "commentator"
+        ],
+        "first_seen": "1997-06-30",
+        "last_seen": "1997-09-02",
+        "source": "/promotions/hiwf/rp/hiwf-sym-1997-06-30.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 11,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "jack-diamond-hiwf",
+    "type": "character",
+    "name": "Jack Diamond",
+    "caption": "Half of the Nobles, managed by Miss Gray; regains the World Tag Team Championship for the pair by beating the Hate Machine.",
+    "tenures": [
+      {
+        "promotion": "hiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-08-05",
+        "last_seen": "1997-08-11",
+        "source": "/promotions/hiwf/archive/hiwf-ace-in-the-hole-flash-1997-08-05.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Shares a bare name only with jack-diamond-usew (a different, unrelated fed); a generic archetype name, no moniker or roster match -- the no-auto-merge rule bars any join on a name alone.",
+        "with": [
+          "jack-diamond-usew"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-king-with-a-club-hiwf",
+    "type": "character",
+    "name": "The King with a Club",
+    "caption": "Jack Diamond's tag partner in the Nobles, managed by Miss Gray.",
+    "tenures": [
+      {
+        "promotion": "hiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-08-05",
+        "last_seen": "1997-08-11",
+        "source": "/promotions/hiwf/archive/hiwf-ace-in-the-hole-flash-1997-08-05.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "miss-gray-hiwf",
+    "type": "character",
+    "name": "Miss Gray",
+    "caption": "Manages the Nobles.",
+    "tenures": [
+      {
+        "promotion": "hiwf",
+        "roles": [
+          "manager"
+        ],
+        "first_seen": "1997-08-05",
+        "last_seen": "1997-08-11",
+        "source": "/promotions/hiwf/archive/hiwf-ace-in-the-hole-flash-1997-08-05.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  }
+]

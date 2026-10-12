@@ -1,0 +1,173 @@
+[
+ {
+  "id": "brian-meyer-rspwf",
+  "type": "character",
+  "name": "Brian Meyer",
+  "notes": "Known also from the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll. Placings and the poll's own federation tags, verbatim -- 1997: #182, tagged SOW. This pass gives the poll's own SOW tag its first real tenure: a 1 January 1998 World Title tournament quarterfinal loss to Drake Ashida on Santa's Night Out.",
+  "tenures": [
+   {
+    "promotion": "sow-1998",
+    "first_seen": "1998-01-01",
+    "last_seen": "1998-01-01",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Lost a World Title tournament quarterfinal to Drake Ashida by sunset flip at 35:37 on Santa's Night Out, corroborating the RSPWF Top 200's own SOW tag for this wrestler.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "drake-ashida-sow",
+  "type": "character",
+  "name": "Drake Ashida",
+  "tenures": [
+   {
+    "promotion": "sow-1998",
+    "first_seen": "1998-01-01",
+    "last_seen": "1998-01-01",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Beat Brian Meyer with a sunset flip at 35:37 to advance in a World Title tournament on Santa's Night Out.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "sean-stevens-sow",
+  "type": "character",
+  "name": "Sean Stevens",
+  "tenures": [
+   {
+    "promotion": "sow-1998",
+    "first_seen": "1998-01-01",
+    "last_seen": "1998-01-01",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Beat Jake MacArthur with a Shooting Star Press through a table in a barbed-wire brawl to advance in a World Title tournament on Santa's Night Out.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "xxx-sean-stevens-cswa"
+    ],
+    "note": "A different persona of the same name is recorded elsewhere; nothing links the two beyond the bare name."
+   }
+  ]
+ },
+ {
+  "id": "jake-macarthur-sow",
+  "type": "character",
+  "name": "Jake MacArthur",
+  "tenures": [
+   {
+    "promotion": "sow-1998",
+    "first_seen": "1998-01-01",
+    "last_seen": "1998-01-01",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Lost to Sean Stevens by Shooting Star Press through a table in a barbed-wire World Title tournament quarterfinal on Santa's Night Out.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "bridget-xavier-sow",
+  "type": "character",
+  "name": "Bridget Xavier",
+  "tenures": [
+   {
+    "promotion": "sow-1998",
+    "first_seen": "1998-01-01",
+    "last_seen": "1998-01-01",
+    "roles": [
+     "other"
+    ],
+    "source": "/promotions/sow-1998/archive/sow-santas-night-out-1998-01-01.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Sean Stevens' ringside ally, caught in the crossfire and bodyslammed by Jake MacArthur during their World Title tournament quarterfinal on Santa's Night Out.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed"
+ }
+]

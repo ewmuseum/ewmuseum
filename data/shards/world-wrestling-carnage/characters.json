@@ -1,0 +1,72 @@
+[
+  {
+    "id": "valiant-wwc",
+    "type": "character",
+    "name": "Valiant",
+    "aka": [],
+    "tenures": [
+      {
+        "promotion": "world-wrestling-carnage",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-09",
+        "source": "promotions/world-wrestling-carnage/archive/debut-title-match-1997-09-13.html"
+      }
+    ],
+    "notes": "The WWC Champion of the World; retained the title against Nightstalker in the promotion's own debut broadcast (13/20 September 1997), the crowd chanting \"Vengeance\" for him.",
+    "caption": "The WWC Champion of the World, whose crowd chants his own nickname, \"Vengeance.\"",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "nightstalker-wwc",
+    "type": "character",
+    "name": "Nightstalker",
+    "aka": [],
+    "tenures": [
+      {
+        "promotion": "world-wrestling-carnage",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-09",
+        "source": "promotions/world-wrestling-carnage/archive/debut-title-match-1997-09-13.html"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "No primary-source evidence connects this WWC persona to the pre-existing nightstalker-rawf entry; a shared name in an era where the term was a common horror-adjacent gimmick word.",
+        "with": [
+          "nightstalker-rawf"
+        ]
+      }
+    ],
+    "notes": "The WWC United States Champion and #1 contender for the WWC Championship; lost the title match to Valiant in the promotion's own debut broadcast (13/20 September 1997) after being bulldogged through a table.",
+    "caption": "The WWC United States Champion, unsuccessful in his own promotion's debut challenge for the World title.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

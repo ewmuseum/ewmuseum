@@ -1,0 +1,90 @@
+[
+ {
+  "id": "hellshock-fasw",
+  "type": "character",
+  "name": "Hellshock",
+  "caption": "The FASW's own World Champion, billed at the top of the fed's Feb 1996 recruitment ad and defending the title against Gunnar \"The Grizzly\" Gaines at Superstar Summit.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "fasw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-02-04",
+    "last_seen": "1996-04-06",
+    "source": "/promotions/fasw/archive/fasw-recruitment-1996-02-04.html"
+   }
+  ]
+ },
+ {
+  "id": "gunnar-gaines-fasw",
+  "type": "character",
+  "name": "Gunnar \"The Grizzly\" Gaines",
+  "caption": "Challenges Hellshock for the FASW World Title at Superstar Summit, though the outcome does not survive.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "fasw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-02-04",
+    "last_seen": "1996-04-06",
+    "source": "/promotions/fasw/archive/fasw-recruitment-1996-02-04.html"
+   },
+   {
+    "promotion": "pcw-grapplearium-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-03",
+    "last_seen": "1997-04-11",
+    "source": "a rival federation's own March 1997 interview and the promotion's own 11 April 1997 broadcast"
+   }
+  ]
+ },
+ {
+  "id": "psychrobat-fasw",
+  "type": "character",
+  "name": "Psychrobat",
+  "caption": "Becomes the first-ever Unified TV Champion at Superstar Summit, defeating the EWA's Super Scott and putting the FASW up two matches to none in the closing interfed series.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "fasw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-06",
+    "last_seen": "1996-04-09",
+    "source": "/promotions/fasw/archive/fasw-superstar-summit-tv-title-1996-04-09.html"
+   }
+  ]
+ }
+]

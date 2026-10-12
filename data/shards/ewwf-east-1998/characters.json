@@ -1,0 +1,31 @@
+[
+  {
+    "id": "full-blooded-killah-rspwf",
+    "type": "character",
+    "name": "Full Blooded Killah",
+    "notes": "Known only from the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll. Placings and the poll's own federation tags, verbatim — 1999: #126, tagged EWWF, ICW. Also attested directly in this federation's own subject-bracket corpus: billed as its own World Champion in a September 1998 broadcast's own commentary, and separately soliciting help from fellow roleplayers for an in-character storyline counter-attack that June, in which he names himself the World Champion in EWWF.",
+    "caption": "Billed as EWWF East's own World Champion across its 1998 broadcasts, later placing #126 in the RSPWF Top 200's 1999 poll.",
+    "caption_asof": {
+      "written": "2026-09-07",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ewwf-east-1998",
+        "roles": ["wrestler"],
+        "grade": "primary-source",
+        "first_seen": "1998-06-22",
+        "last_seen": "1998-09-27",
+        "source": "the federation's own served broadcast (billed as World Champion in its own commentary), plus a June 1998 in-character recruitment thread naming this wrestler its own World Champion"
+      }
+    ]
+  }
+]

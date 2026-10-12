@@ -1,0 +1,46 @@
+[
+ {
+  "id": "wwc-debut-1997-09-13",
+  "type": "show",
+  "name": "World Wrestling Carnage debut broadcast",
+  "promotion": "world-wrestling-carnage",
+  "date": {
+   "date": "1997-09-13",
+   "precision": "exact",
+   "source": "The first part's own dateline (13 September 1997); the match's conclusion is dated a week later, 20 September 1997."
+  },
+  "page": "/promotions/world-wrestling-carnage/archive/debut-title-match-1997-09-13.html",
+  "collection": "0148",
+  "venue": "St. Paul Civic Center",
+  "city": "St. Paul, Minnesota, USA",
+  "appearances": [
+   {
+    "who": "valiant-wwc",
+    "kind": "match",
+    "capacity": "wrestler"
+   },
+   {
+    "who": "nightstalker-wwc",
+    "kind": "match",
+    "capacity": "wrestler"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "nightstalker-wwc"
+     ],
+     [
+      "valiant-wwc"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "WWC Championship",
+    "how": "pinfall, after a bulldog through a table"
+   }
+  ],
+  "notes": "In-fiction production credit: \"Carnage Sports Entertainment.\" Commentary team Derek Stallion and Jesse \"The Golden Boy\" Rhodes, ring announcer Veronica, named but not separately structured."
+ }
+]

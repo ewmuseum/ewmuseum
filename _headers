@@ -1,0 +1,40 @@
+/*
+  Cache-Control: no-cache
+  # clacks:start
+  X-Clacks-Overhead: GNU Sean Simon Williams
+  X-Clacks-Overhead: GNU Jaymes Faulkner
+  X-Clacks-Overhead: GNU Chris Williams
+  X-Clacks-Overhead: GNU Joe Smallze
+  X-Clacks-Overhead: GNU Tim Fitzgerald
+  X-Clacks-Overhead: GNU Ed Wilson
+  X-Clacks-Overhead: GNU Chad Dupree
+  X-Clacks-Overhead: GNU Ron Olson
+  X-Clacks-Overhead: GNU Mike Sanzone
+  X-Clacks-Overhead: GNU Andy Doran
+  X-Clacks-Overhead: GNU Paul Scanlan
+  X-Clacks-Overhead: GNU SteelMoose
+  X-Clacks-Overhead: GNU Steven W. Pagano
+  X-Clacks-Overhead: GNU Daniel Quirk
+  X-Clacks-Overhead: GNU Patrick Little
+  X-Clacks-Overhead: GNU Jeffrey Ward
+  X-Clacks-Overhead: GNU Frank A. Marano Jr.
+  # clacks:end
+  X-Kayfabe: maintained
+  # robots:start
+  X-Robots-Tag: nocache, noai, noimageai
+  # robots:end
+
+# no-cache = browsers may store but MUST revalidate (ETag 304s keep it fast).
+# The museum updates in place; a stale script against fresh data renders
+# blank pages. Revalidation is the durable fix, not cache-busting params.
+#
+# X-Clacks-Overhead: the Terry Pratchett "GNU" convention from the Discworld
+# novels — "a man is not dead while his name is still spoken." One header
+# line per data/memorials.json entry, BUILD-STAMPED by scripts/stamp-stats.mjs
+# between the "# clacks:start/end" markers above (same chrome-system pattern
+# as the masthead/footer and the lobby door counts) — future memorials join
+# the overhead automatically, no hand-editing this file.
+# scripts/registry-validate.mjs recomputes the same names and hard-fails the
+# build if this file has drifted from data/memorials.json. If Cloudflare
+# Pages ever collapses repeated same-key header lines into one on the wire,
+# switch to a single comma-joined line instead — see docs/OPERATIONS.md.

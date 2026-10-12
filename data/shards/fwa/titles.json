@@ -1,0 +1,137 @@
+[
+ {
+  "id": "fwa-world",
+  "type": "title",
+  "name": "FWA World Championship",
+  "promotion": "fwa",
+  "page": "/titles/fwa-world.html",
+  "collection": "0088",
+  "epitaph": "No FWA document of its own survives to say when this title was created. Its earliest attested holders, Brody Thunder and King Apples, are recorded from a host promotion's own March 1999 broadcast weekend, which carries a taped-fist ladder match changing the title. Its last champion, Jim Black, arrived at the WWA's own Independence Day Rumble (2 July 2000) and defeated WWA World Heavyweight Champion Nik Segier, unifying the FWA World Championship into the WWA's own belt — an undocumented gap separates the two eras.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  },
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2000-07-02",
+     "precision": "exact"
+    },
+    "title": "wwa-world-heavyweight",
+    "note": "Unified into the WWA World Heavyweight Championship when Jim Black, arriving from the FWA, defeated WWA World Heavyweight Champion Nik Segier at Independence Day Rumble (promotions/wwa/archive/2000-07-02.html)."
+   }
+  ]
+ },
+ {
+  "id": "fwa-north-american",
+  "type": "title",
+  "name": "FWA North American Championship",
+  "promotion": "fwa",
+  "page": "/titles/fwa-north-american.html",
+  "collection": "0088",
+  "epitaph": "No FWA document of its own survives to say when this title was created or who held it first. Its last champion, Buck Floyd, defeated WWA United States Champion Shawn Cage at the WWA's own Independence Day Rumble (2 July 2000), unifying the FWA North American Championship into the WWA United States Championship — the whole of this title's surviving record.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  },
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2000-07-02",
+     "precision": "exact"
+    },
+    "title": "wwa-united-states",
+    "note": "Unified into the WWA United States Championship when Buck Floyd defeated WWA United States Champion Shawn Cage at Independence Day Rumble (promotions/wwa/archive/2000-07-02.html)."
+   }
+  ]
+ },
+ {
+  "id": "fwa-hardcore",
+  "type": "title",
+  "name": "FWA Hardcore Championship",
+  "promotion": "fwa",
+  "page": "/titles/fwa-hardcore.html",
+  "collection": "0088",
+  "epitaph": "No FWA document of its own survives to say when this title was created or who held it first. Its last champion, The Dehibilitator, lost to Shaman on 28 July 2000, three and a half weeks after the rest of the FWA was absorbed into the WWA, unifying the FWA Hardcore Championship into the WWA Extreme Championship — the whole of this title's surviving record.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  },
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2000-07-28",
+     "precision": "exact"
+    },
+    "title": "wwa-extreme",
+    "note": "Unified into the WWA Extreme Championship when Shaman defeated defending FWA Hardcore Champion The Dehibilitator on 28 July 2000 (promotions/wwa/archive/2000-07-28.html)."
+   }
+  ]
+ },
+ {
+  "id": "fwa-world-tag-team",
+  "type": "title",
+  "name": "FWA World Tag Team Championship",
+  "promotion": "fwa",
+  "page": "/titles/fwa-world-tag-team.html",
+  "collection": "0088",
+  "epitaph": "No FWA document of its own survives to say when this title was created or who held it first. Its last champions, Allied Chaos (Kyle Niker and Connor Pearce), carried the belts into a challenge for the WWA's own Unified World Tag Team Championship on the WWA's own 25 June 2000 card — booked as a scripted title change, refused on-page by the defending WWA champions, Random Acts of Violence, who won the match outright and came out of it holding both sets of belts — the whole of this title's surviving record.",
+  "epitaph_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  },
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2000-06-25",
+     "precision": "exact"
+    },
+    "title": "wwa-world-tag-team",
+    "note": "Random Acts of Violence (Maim and Torture), the defending WWA World Tag Team Champions, defeated Allied Chaos (the FWA World Tag Team Champions) at Friday Fights, 25 June 2000, in a match booked to unify the titles — the champions refused the scripted job on-page and won instead, ending the FWA Tag Team lineage's own separate existence by defeating its champions rather than by a clean transfer (promotions/wwa/archive/2000-06-25.html; wwa-2000-06-25, match 4)."
+   }
+  ]
+ },
+ {
+  "id": "fwa-television",
+  "type": "title",
+  "name": "FWA Television Championship",
+  "promotion": "fwa",
+  "page": "/titles/fwa-television.html",
+  "collection": "0088",
+  "epitaph": "No FWA document of its own survives to say when this title was created or who held it first. Its last champion, Chad Goodman, lost to Lyle Wile at the WWA's own Independence Day Rumble (2 July 2000), unifying the FWA Television Championship into the WWA Television Championship — the whole of this title's surviving record.",
+  "epitaph_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  },
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2000-07-02",
+     "precision": "exact"
+    },
+    "title": "wwa-television",
+    "note": "Unified into the WWA Television Championship when Lyle Wile defeated defending FWA Television Champion Chad Goodman at Independence Day Rumble (promotions/wwa/archive/2000-07-02.html)."
+   }
+  ]
+ }
+]

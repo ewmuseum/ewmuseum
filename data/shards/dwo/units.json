@@ -1,0 +1,328 @@
+[
+ {
+  "id": "circle-of-rage",
+  "type": "unit",
+  "name": "Circle of Rage",
+  "unit_kind": "stable",
+  "membership_unknown": false,
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "stable",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 22 August 2002, served at /promotions/dwo/archive/travesty-2002-08-22.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html",
+    "note": "Named twice in the held record — once at ringside for Mike Pizaz's own debut win, and once in the fed's own January 2003 news calling Adam Stryker its former ring leader. No roster of it survives."
+   },
+   {
+    "promotion": "gw",
+    "first_seen": "2007-03-15",
+    "last_seen": "2007-05-04",
+    "source": "Global Wrestling's own backstage database (accession 0159), bio 10337: the fed's own appearance record",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (3 shows, every kind of appearance counted). Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "caption": "Adam Stryker's own stable, whose members were at ringside the night Mike Pizaz beat the DWO World Champion on his debut.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "character_id": "adam-stryker-dwo",
+    "name": "Adam Stryker"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "presumed",
+    "with": [],
+    "note": "Global Wrestling's biography card (accession 0159), bio 10337, is this record: Global's own text names the members: 2145 u17 p841 \"Adam Stryker and Devin 'Kaos' Blythe: CIRCLE OF RAGE!\"; the map already merges Global's Adam Stryker (bio 10315) into adam-stryker-dwo, whose record is \"ring leader of the Circle of Rage\"; the held unit is \"Adam Stryker's own stable\". The draft's \"no member list on either side\" is wrong."
+   }
+  ]
+ },
+ {
+  "id": "fates-calling",
+  "type": "unit",
+  "name": "Fates Calling",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Christian Darke",
+    "character_id": "christian-darke"
+   },
+   {
+    "name": "Gaul",
+    "character_id": "gaul"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "stable",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty card of 9 October 2003, served at /promotions/dwo/archive/travesty-2003-10-09-card.html",
+    "note": "The card bills Christian Darke as a member and Gaul as a possible one."
+   }
+  ],
+  "caption": "The DWO faction Christian Darke belonged to and Gaul was said to be joining, sent together against Seymour Almasy on the fed's own card of 9 October 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "feral",
+  "type": "unit",
+  "name": "Feral",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Chryste",
+    "character_id": "chryste"
+   },
+   {
+    "name": "Callisto Bane",
+    "character_id": "callisto-bane"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "Primetime Central's own New Era results (/promotions/ptc/archive/new-era-2003-results.html) and its own buildup board (/promotions/ptc/rp/)",
+    "note": "Both halves of this team are already registered against other promotions — Callisto Bane on OSW's own roster, Chryste on LOW's. The team itself is DWO's, and is filed here."
+   }
+  ],
+  "caption": "Chryste and Callisto Bane's own tag team, billed for the DWO, who won the thirteen-team Tag Team Division Cluster-Fuck at Primetime Central's New Era supercard on 20 April 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "mpr-inc",
+  "type": "unit",
+  "name": "MPR Inc.",
+  "unit_kind": "stable",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "stable",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-09-to-10.html; the fed's own UnStAbLe predictions page, served at /promotions/dwo/archive/loa-unstable-predictions-2002.html",
+    "note": "The fed's own UnStAbLe prediction poll has MPR Inc in a three-way against New Breed and Purge on match ten; the news that followed the show has Callisto Bane calling the faction destroyed. No member of it is named anywhere in the held record."
+   }
+  ],
+  "caption": "A DWO faction Callisto Bane pronounced definitely destroyed in the autumn of 2002, having lost the Tag Team Championship to Draven's side at UnStAbLe.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "unholy-dwo",
+  "type": "unit",
+  "name": "UnHoly",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Callisto Bane",
+    "character_id": "callisto-bane"
+   },
+   {
+    "name": "Draven",
+    "character_id": "draven-dwo"
+   },
+   {
+    "name": "Chryste",
+    "character_id": "chryste"
+   },
+   {
+    "name": "Kristi Kiss",
+    "character_id": "kristi-kiss"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "stable",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-09-to-10.html",
+    "note": "Membership is taken from the fed's own throne-room segment, in which Draven, Chryste and Kristi Kiss come before Callisto Bane together and she calls the three of them hers. The same segment has her count the Extreme, Intercontinental and Tag Team titles as UnHoly's."
+   }
+  ],
+  "caption": "Callisto Bane's own faction, formed at UnStAbLe and named by Kaiowas the same night as the one threat to the New Breed's standing as the most dominant stable in the DWO.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "untitled-dwo",
+  "type": "unit",
+  "name": "Untitled",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Drone"
+   },
+   {
+    "name": "Ender"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Travesty of 22 August 2002, served at /promotions/dwo/archive/travesty-2002-08-22.html",
+    "note": "The fed's own text names the team and both members and nothing else about either."
+   }
+  ],
+  "caption": "Drone and Ender's own tag team, who opened the DWO's Travesty of 22 August 2002 by chasing The Fury out of the building and promising to take the Tag Team Championship off whoever held it.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "disciples-of-darkness-dwo",
+  "type": "unit",
+  "name": "Disciples of Darkness",
+  "aka": [
+   "DoD"
+  ],
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Damian",
+    "character_id": "damian-dwo"
+   },
+   {
+    "name": "Samantha",
+    "character_id": "samantha-dwo"
+   },
+   {
+    "name": "Tyrone Grace",
+    "character_id": "tyrone-grace"
+   },
+   {
+    "name": "Sean Quinn",
+    "character_id": "sean-quinn"
+   },
+   {
+    "name": "Komodo Dragon",
+    "character_id": "komodo-dragon-dwo"
+   },
+   {
+    "name": "Kuff McSlade",
+    "character_id": "kuff-mcslade"
+   }
+  ],
+  "caption": "Donny Diamond's own stable, relaunched under Damian's leadership the week the fed's own commentary says Damian killed him, inducting Tyrone Grace, Sean Quinn, Komodo Dragon and the reigning Extreme Champion Kuff McSlade in one night.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "stable",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html",
+    "note": "Founded under Donny Diamond and relaunched under Damian's own leadership on the fed's own Travesty of 10 July 2003, the same broadcast on which Damian and Samantha claim to have killed Donny Diamond the week before. Tyrone Grace appears to accept Damian's own offer to join, then reveals the whole angle as a swerve to bring in three new members at once: Sean Quinn, Komodo Dragon (both debuting the stable that night) and Kuff McSlade, the reigning DWO Extreme Champion."
+   }
+  ]
+ }
+]

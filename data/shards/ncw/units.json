@@ -1,0 +1,68 @@
+[
+ {
+  "id": "bad-company-ncw",
+  "type": "unit",
+  "name": "Bad Company",
+  "unit_kind": "tag-team",
+  "members": [
+   "freddie-massey-ncw",
+   "dirk-venom-ncw"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html"
+   }
+  ],
+  "caption": "Won NCW's own inaugural World Tag Team Championship at Free-for-All, then received the beaten Sinister Squad's own belts a second time over in an on-air sportsmanship angle.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "sinister-squad-ncw",
+  "type": "unit",
+  "name": "the Sinister Squad",
+  "unit_kind": "tag-team",
+  "members": [
+   "victor-frost-ncw",
+   "karl-kruger-ncw"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html"
+   }
+  ],
+  "caption": "Lost the World Tag Team Championship Free-for-All to Bad Company, then handed their opponents the belts themselves in a show of sportsmanship.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "id": "lsw-monday-massacre-highlight",
+  "type": "show",
+  "name": "Monday Massacre Highlight",
+  "promotion": "lsw",
+  "date": {
+   "date": "1997-12-19",
+   "precision": "exact",
+   "source": "The document's own posting date."
+  },
+  "page": "/promotions/lsw/archive/lsw-monday-massacre-highlight-1997-12-19.html",
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "A highlight-clip recap of the Heavyweight Title tournament's semifinal round; the entrants are narrated in the served text but not structurally parsed into characters.json, per the packet's own tier-1 ceiling -- a pending-enrichment note, per the tier rule and the holdings bar.",
+  "notes": "Semifinal round of the Lone Star Heavyweight Title tournament: 'Deadly' Dave Morgan defeated Trevor McWade by referee stoppage (McWade DDT'ed the referee afterward); The Desperados (Randy Neil & John McKoy) defeated The Garrisons (Mark & Jason). Commissioner David Cooper then set the tournament final: Morgan vs. B.A.D. Blood in a Texas Death Match."
+ },
+ {
+  "id": "lsw-monday-massacre-1",
+  "type": "show",
+  "name": "Monday Massacre",
+  "promotion": "lsw",
+  "date": {
+   "date": "1997-12-29",
+   "precision": "exact",
+   "source": "The show's own on-air date, per its subject line; posted 30 December 1997."
+  },
+  "page": "/promotions/lsw/archive/lsw-monday-massacre-1-1997-12-29.html",
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "The broadcast's own segments and angles are narrated in the served text but not structurally parsed into characters.json/matches[], per the packet's own tier-1 ceiling -- a pending-enrichment note, per the tier rule and the holdings bar.",
+  "notes": "LSW's own premiere broadcast, opening at the site where the first LSW Heavyweight Champion was decided (crowd signage disputes the decision -- see this wing's own titles row). Commissioner David Cooper announces a tag match (D-Vo Wilson & B.A.D. Blood vs. Kiwi Justice & Mr. Frankenstein) and the promotion's first-ever supercard, Disturbance In Dallas (12 Jan 1998), headlined by D-Vo Wilson defending the Heavyweight Title against Kiwi Justice in a cage match."
+ },
+ {
+  "id": "lsw-monday-massacre-2",
+  "type": "show",
+  "name": "Monday Massacre (continued)",
+  "promotion": "lsw",
+  "date": {
+   "date": "1997-12-29",
+   "precision": "exact",
+   "source": "Continues the same broadcast as lsw-monday-massacre-1; posted 30 December 1997."
+  },
+  "page": "/promotions/lsw/archive/lsw-monday-massacre-2-1997-12-30.html",
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Announcement segment only; no match content to structure.",
+  "notes": "Commissioner Cooper sets the full Disturbance In Dallas card: Regional Champion Trevor McWade defends against Dave Morgan; a casket match (B.A.D. Blood vs. Mr. Frankenstein); a no-DQ match (Chuck Kelley vs. Tony Mac); and a Four Way Bunkhouse Dance to crown the Tag Team Champions (The Ukrainian Brothers, The Desperados, Too Hot To Handle, Pain and Agony). The NWC's own first interpromotional card is announced for 17-18 January, with LSW's champions and a battle-royal winner to represent the promotion."
+ },
+ {
+  "id": "lsw-monday-massacre-1999-01-25",
+  "type": "show",
+  "name": "Monday Massacre",
+  "promotion": "lsw",
+  "date": {
+   "date": "1999-01-25",
+   "precision": "exact",
+   "source": "The broadcast's own posting date."
+  },
+  "page": "/promotions/lsw/archive/lsw-monday-massacre-1999-01-25-part1.html",
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "The broadcast's own segments and angles are narrated in the served text but not structured into character and match records, matching the wing's own existing tier-1 ceiling for its two prior served Monday Massacre broadcasts.",
+  "notes": "Commissioner David Cooper orders a non-title, no-disqualification, no-countout tag match between the promotion's own Black Ops members, Cobra and Croc, against the wishes of their director, after the reigning NWC Champion is found beaten backstage ahead of his own title defense. The broadcast previews a Television Title defense and promotes the promotion's own next pay-per-view, Malicious Intent: Dangerous Destiny."
+ },
+ {
+  "id": "lsw-face-off-at-high-noon-2-1999-04-14",
+  "type": "show",
+  "name": "Face Off at High Noon 2",
+  "promotion": "lsw",
+  "page": "/promotions/lsw/archive/lsw-face-off-at-high-noon-2-1999-04-14.html",
+  "collection": "0148",
+  "date": {
+   "date": "1999-04-14",
+   "precision": "exact",
+   "source": "The promotion's own supercard, posted in six parts on 14 April 1999; a companion alliance release of the same date names it as the promotion's own event."
+  },
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "mr-sinister-nwc-1998"
+     ],
+     [
+      "avalon-britton-lsw"
+     ]
+    ],
+    "winner_side": 1,
+    "win_method": "pinfall",
+    "stipulation": "NWC World Championship",
+    "note": "A first, clean three-count for the champion was broken up by outside interference; the challenger then hit his finisher and a second referee, revealed to be in league with the challenger's own allies, made a fast three-count in his favor."
+   }
+  ],
+  "appearances": [
+   {
+    "who": "mr-sinister-nwc-1998",
+    "kind": "match"
+   },
+   {
+    "who": "avalon-britton-lsw",
+    "kind": "match"
+   }
+  ],
+  "no_appearances_reason": "This six-part supercard's own further undercard matches are not individually structured here, per the no-bulk-mirroring rule; only the alliance-title main event is structured.",
+  "evidence": [
+   {
+    "source": "The promotion's own six surviving parts of the broadcast, now served in full.",
+    "note": "The promotion's own supercard, headlined by a National Wrestling Council World Championship match won by a controversial finish."
+   }
+  ],
+  "notes": "The promotion's own supercard; its main event changes hands on the alliance's own World Championship through a corrupt referee and an outside faction's interference."
+ }
+]

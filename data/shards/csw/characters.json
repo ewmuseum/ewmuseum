@@ -1,0 +1,85 @@
+[
+ {
+  "id": "csw-crippler",
+  "type": "character",
+  "name": "Crippler",
+  "tenures": [
+   {
+    "promotion": "csw",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the acquiring CWF-Pro's own served CSW title-history ledgers and wrestler-bio pages (promotions/cwfpro/archive/, accession 0090) — cross-referenced, not re-served",
+    "grade": "primary-source",
+    "note": "CSW World Tag Team Title reign 5, as one half of \"Rico Suave & Crippler\" on csw-world-tag-team-title.html's own numbered ledger; the same ledger's own summary table credits \"Crippler\" as the belt's own \"1st Black Champion.\" Rico Suave's own bio names him from the other side: \"He only won the CSW tag titles with his partner the crippler (another UBHer who was mainly a jobber).\" No bio page of his own survives, and no first name, real name, or handler is recorded anywhere in the held record."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "note": "THE CORPUS ITSELF SPLITS THESE TWO, in as many words. Crippler John Fisher's own served CWF-Pro bio (promotions/cwfpro/archive/crippler-john-fisher.html), out of kayfabe: \"He signed with the cwf.pro in 1997. He was brought in by Sanchez as he thought it was the same CSW Crippler that was in the UBH. IT Wasn't. John made his own name and did well in the cwf.pro.\" The acquiring fed's own text therefore records a name mix-up it made at the time and corrected — the CSW's own Crippler and CWF-Pro's own Crippler John Fisher are two people. The 2026-08-28 accession pass (lot 0091) had read the near-name match the other way and hung this CSW reign on the cwfpro-crippler-john-fisher row; that join is withdrawn here and the CSW-side holder minted separately. This is the no-auto-merge rule running in its rarer direction: a primary source volunteering the split.",
+    "with": [
+     "cwfpro-crippler-john-fisher"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Generic-name collision only: \"Crippler\" was a common gimmick word across the hobby. No document connects this CSW-era tag champion to any of these same-or-similar-named entities in other collections; no merge evidence exists for any pair, and none is claimed. Filed per the no-auto-merge-and-no-silent-distinctness rule and its generic-name doctrine.",
+    "with": [
+     "canadian-crippler-xwf",
+     "chris-benoit-faw",
+     "crippler-chris-blake-newf",
+     "euwc-joe-boyer",
+     "euwc-the-crippler",
+     "jago-ripley-uga",
+     "keiko-mita-gdwa",
+     "lunatikk-crippler-ewa-email",
+     "the-canadian-crippler",
+     "the-crionic-crippler-oww",
+     "the-crippler-cswa"
+    ]
+   }
+  ],
+  "caption": "A CSW tag-team champion of the independent era — one half of \"Rico Suave & Crippler,\" and the CSW World Tag Team Title's own first Black champion by its record's own reckoning.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "csw-zoron",
+  "type": "character",
+  "name": "Zoron",
+  "tenures": [
+   {
+    "promotion": "csw",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "the acquiring CWF-Pro's own served bio page for \"CSW Pres Ben Dweebs\" (promotions/cwfpro/archive/csw-pres-ben-dweebs.html, accession 0090) — cross-referenced, not re-served",
+    "grade": "primary-source",
+    "note": "The CSW's own second named operator, in the acquiring fed's own words: \"He started the CSW with a man named Zoron in 1997... He and Zoron ran the efed. It ran for 6 to 8 months... Ben was released before the CSW shut down. Zoron took over and it closed.\" That is the whole of the surviving record for him — a co-founder, a co-operator, and the man the record leaves holding the promotion at its end. No bio page, no handler, no further mention anywhere in the held record. Like his co-founder's own page, this is an in-house, in-fiction telling of the promotion's own founding rather than an out-of-kayfabe owner credit, and it is kept for exactly that value; it also carries the founding date (1997) that the four ledgers' own headers (1/1996) contradict."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Exact single-word name match against zoron-xcwf, an XCWF-shard entity, and nothing else: no shared full name to compare (neither row carries one), no shared promotion, roster, operator, host or date range, and no document naming both. A bare name never joins on its own (the no-auto-merge-and-no-silent-distinctness rule, the collision rule's identity-join test). Recorded distinct so the collision is not silently either merged or ignored.",
+    "with": [
+     "zoron-xcwf"
+    ]
+   }
+  ],
+  "caption": "Co-founder of the CSW with \"CSW Pres Ben Dweebs,\" and — per the only account that survives — the man who took the promotion over and closed it.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ }
+]

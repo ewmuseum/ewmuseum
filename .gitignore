@@ -1,0 +1,20 @@
+node_modules/
+.wrangler/
+.dev.vars
+*.log
+.DS_Store
+.claude/
+bot/threads.json
+bot/node_modules/
+scratch-icwc/__pycache__/
+scratch-wcd/__pycache__/
+
+# lane scratch never belongs in the museum tree (2026-09-03: 62 scratch-* dirs had been committed and uploaded)
+
+scratch-*/
+
+collect-never-serve/
+__pycache__/
+*.pyc
+# editor/patch leftovers never belong in the tree (hook c121; c118 removed the two tracked ones)
+*.orig

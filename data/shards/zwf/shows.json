@@ -1,0 +1,193 @@
+[
+  {
+    "id": "zwf-summerslam-2002",
+    "type": "show",
+    "name": "ZWF Summerslam",
+    "promotion": "zwf",
+    "page": "/promotions/zwf/archive/summerslam.html",
+    "collection": "0113",
+    "date": {
+      "date": "2002",
+      "precision": "circa",
+      "source": "No exact date survives on the document itself; its own roster and title claims (Lita challenging for the Light Heavyweight and Eurocontinental titles, Rock defending a Hardcore title) match the real WWF's own contemporary 2002 card, consistent with the held record's other dated content."
+    },
+    "appearances": [
+      {
+        "who": "jim-ross-zwf",
+        "kind": "angle",
+        "capacity": "commentary"
+      },
+      {
+        "who": "jerry-lawler-zwf",
+        "kind": "angle",
+        "capacity": "commentary"
+      },
+      {
+        "who": "chris-jericho-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "lita-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "moonwolfe-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "chris-benoit-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "the-rock-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "supernova-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "booker-t-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "x-pac-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "jeff-hardy-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "zero-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "lillian-garcia-zwf",
+        "kind": "angle",
+        "capacity": "ring-announcer"
+      },
+      {
+        "who": "zack-harris-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "bret-hart-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "jerry-lynn-zwf",
+        "kind": "angle"
+      },
+      {
+        "who": "the-undertaker-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "triple-h-zwf",
+        "kind": "match"
+      },
+      {
+        "who": "sting-zwf",
+        "kind": "angle"
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "chris-jericho-zwf"
+          ],
+          [
+            "lita-zwf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "For the Light Heavyweight Championship. Lita reversed a Jericho top-rope Lionsault into a rollup for the pin — \"Here is your winner and NEW Light Heavyweight champion, Lita!\""
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "moonwolfe-zwf"
+          ],
+          [
+            "chris-benoit-zwf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Moonwolfe pinned Benoit with the Top Rope Calimity after escaping a Crippler Crossface near the ropes; Benoit choked him out after the bell until officials pulled him off."
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "the-rock-zwf"
+          ],
+          [
+            "supernova-zwf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "For the Hardcore Championship, a weapons brawl (chairs, trash cans, tables, barbed wire, a ladder). Rock retained with a second Rock Bottom, driving Supernova — billed \"Nova\" mid-match — through a table."
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "chris-jericho-zwf"
+          ],
+          [
+            "booker-t-zwf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "For the Eurocontinental Championship, per JR's own pre-match call — though Booker T's own ring entrance is separately described as carrying \"both Eurpean Title and Intercontinental Title,\" a wording the fed's own text never reconciles with the stakes JR names. Jericho reversed a near-fall Bookend into a Bulldog, then retained with the Lionsault."
+      },
+      {
+        "order": 5,
+        "sides": [
+          [
+            "x-pac-zwf"
+          ],
+          [
+            "jeff-hardy-zwf"
+          ],
+          [
+            "zero-zwf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Triple Threat for the TV Championship. Zero powerbombed X-Pac into a near-fall pin before Jeff Hardy broke it up, then Hardy put Zero through a table with the Twist of Fate; Hardy won the belt from X-Pac with the Swanton Bomb."
+      },
+      {
+        "order": 6,
+        "sides": [
+          [
+            "zack-harris-zwf"
+          ],
+          [
+            "bret-hart-zwf"
+          ]
+        ],
+        "result": "double-pin",
+        "note": "Jerry Lynn (aided by Moonwolfe pulling the referee) interfered on Zack Harris' behalf, chair-shotting Bret Hart and driving a Cradle Piledriver onto the chair. Both men later traded a sledgehammer shot and a chair shot and fell on each other; the fed's own served text: \"both men fall on each other and the ref counts. 1 2 3 A Double Pin! Both men have a show!\" [sic]."
+      },
+      {
+        "order": 7,
+        "sides": [
+          [
+            "the-undertaker-zwf"
+          ],
+          [
+            "triple-h-zwf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "For the World Championship, contested inside a steel cage (never named as a formal stipulation on the page, so recorded here rather than as a stipulation string). Undertaker blocked a Pedigree attempt with a Back Body Drop and won clean with the Last Ride. Immediately after the bell, Sting's music hit: Sting hit a Scorpion Death Drop, Triple H added a Pedigree, and Sting draped the World Title over the fallen Undertaker — the fed's own World Championship ledger separately credits Sting with defeating Undertaker for the title on 21 July 2002, though this match's own pinfall went to Undertaker and the two are not confirmed to be the same event."
+      }
+    ],
+    "notes": "A seven-match card: Lita takes the Light Heavyweight title from Chris Jericho; the original character Moonwolfe upends Chris Benoit; The Rock retains the Hardcore title over Supernova in a weapons brawl; Jericho retains the Eurocontinental title over Booker T; Jeff Hardy wins the TV title from X-Pac in a Triple Threat with Zero; Zack Harris and Bret Hart fight to a double pin after Jerry Lynn's interference; and The Undertaker retains the World Championship over Triple H in a steel cage, then is beaten down and has the title draped over him by Sting after the bell. Jim Ross and \"The King\" call the broadcast; \"Lillian\" makes the ring announcements."
+  }
+]

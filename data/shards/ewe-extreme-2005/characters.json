@@ -1,0 +1,80 @@
+[
+ {
+  "id": "mike-caesar-ewe-extreme-2005",
+  "type": "character",
+  "name": "Mike Caesar",
+  "aka": [
+   "The Regulator"
+  ],
+  "tenures": [
+   {
+    "promotion": "ewe-extreme-2005",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2005-05-07",
+    "last_seen": "2005-05-07",
+    "role": "wrestler: EWE European Champion in May 2005",
+    "source": "promotions/ewe-extreme-2005/archive/ewe-board-front-page-2005-05-07.html",
+    "note": "The front page of 7 May 2005: \"EWE European Champion- \"The Regulator\" Mike Caesar\"."
+   }
+  ],
+  "caption": "The EWE European Champion on the fed's front page of May 2005, billed as The Regulator.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "regulator-gpro98",
+     "the-regulator-pwe-inc"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this record. Kept distinct under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "chris-pyro-ewe-extreme-2005",
+  "type": "character",
+  "name": "Chris Pyro",
+  "tenures": [
+   {
+    "promotion": "ewe-extreme-2005",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2006-02-21",
+    "last_seen": "2006-03-04",
+    "role": "wrestler: EWE Extreme Champion in February and March 2006",
+    "source": "promotions/ewe-extreme-2005/archive/ewe-board-front-page-2006-02-21.html; promotions/ewe-extreme-2005/archive/ewe-board-front-page-2006-03-04.html",
+    "note": "The front pages of 21 February and 4 March 2006 list \"EWE Extreme Champion: Chris Pyro\"."
+   }
+  ],
+  "caption": "The EWE Extreme Champion on the fed's front pages of February and March 2006.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

@@ -1,0 +1,83 @@
+[
+ {
+  "id": "stonecold-hwa-g",
+  "type": "character",
+  "name": "Stonecold",
+  "caption": "Won HWA's own 16-man World Title Battle Royal on 30 December 1997, the same day a second, unreconciled title match crowned a different champion.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares no name string with any registered 'Stone Cold Steve Austin' portrayal row elsewhere in the registry (this entity is billed as one word, 'Stonecold'/'STONECOLD', never the three-word real name) — read as a tribute/resemblance in the style of the real Steve Austin gimmick (his finisher is called a 'Stunner' in the held record), not asserted as a portrayal absent stronger evidence.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "hwa-entity-g",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/hwa-entity-g/archive/hwa-battle-royal-1997-12-30.html; promotions/hwa-entity-g/archive/hwa-deathmania-1997-12-30.html"
+   }
+  ]
+ },
+ {
+  "id": "emortal-soldier-hwa-g",
+  "type": "character",
+  "name": "Emortal Soldier",
+  "caption": "Eliminated in a battle royal, then won the DEATHMANIA main event the same day, 30 December 1997, to become HWA World Champion.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "hwa-entity-g",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/hwa-entity-g/archive/hwa-battle-royal-1997-12-30.html; promotions/hwa-entity-g/archive/hwa-deathmania-1997-12-30.html"
+   }
+  ]
+ },
+ {
+  "id": "oakley-hwa-g",
+  "type": "character",
+  "name": "Oakley",
+  "caption": "Billed from Chicago at 226 pounds; lost the HWA's DEATHMANIA main event for the HWA World Championship on 30 December 1997.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "danny-oakley-ff"
+    ],
+    "note": "Bare ring name 'Oakley' only, billed from Chicago; no shared operator, fed or era evidence connects this entity to the registered 'Danny Oakley' (danny-oakley-ff) — flagged for the decorated-substring mint guard, not a claimed identity."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "hwa-entity-g",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/hwa-entity-g/archive/hwa-battle-royal-1997-12-30.html; promotions/hwa-entity-g/archive/hwa-deathmania-1997-12-30.html"
+   }
+  ]
+ }
+]

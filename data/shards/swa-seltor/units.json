@@ -1,0 +1,95 @@
+[
+ {
+  "id": "aoa-swa-seltor",
+  "type": "unit",
+  "name": "AoA",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Beorn",
+    "character_id": "beorn-swa-seltor"
+   },
+   {
+    "name": "Hunter",
+    "character_id": "hunter-swa-seltor"
+   },
+   {
+    "name": "Michael Sexton",
+    "character_id": "michael-sexton-swa-seltor"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "swa-seltor",
+    "role": "stable",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2000",
+    "last_seen": "2000-12",
+    "note": "The fed's own In The Eyes of the Bookie predictions column (circa December 2000) names Beorn, Hunter, and Michael Sexton as comprising the AoA — the acronym is never expanded anywhere in the surviving record — and stages Beorn's own AoA affiliation as the reason he is favored to keep the Television Title \"for a long while.\"",
+    "source": "the fed's own served In The Eyes of the Bookie column (promotions/swa-seltor/archive/in-the-eyes-of-the-bookie.html)"
+   }
+  ],
+  "caption": "A faction named only by its own initials, staged by the fed's own predictions column as the reason to bet on its own Television Title challenger.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "bbi-swa-seltor",
+  "type": "unit",
+  "name": "BBI",
+  "aka": [
+   "Bad Boy Inc."
+  ],
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Big Jimmy Smith",
+    "character_id": "jimmy-smith-swa-seltor"
+   },
+   {
+    "name": "Mark Mathews",
+    "character_id": "mark-mathews-swa-seltor"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "swa-seltor",
+    "role": "stable",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2000-12",
+    "last_seen": "2000-12",
+    "note": "The fed's own In The Eyes of the Bookie predictions column (circa December 2000) reports that \"Jimmy Smith and Mark Mathews have joined to create the sex crazed BBI (Bad Boy Inc.)\"",
+    "source": "the fed's own served In The Eyes of the Bookie column (promotions/swa-seltor/archive/in-the-eyes-of-the-bookie.html)"
+   }
+  ],
+  "caption": "The self-styled \"sex crazed\" tag alliance Jimmy Smith and Mark Mathews formed, per the fed's own predictions column.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

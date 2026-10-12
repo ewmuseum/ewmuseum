@@ -1,0 +1,31 @@
+name: CI
+
+# Validate on every push and PR; deploy to Cloudflare Pages on green pushes to
+# main. Non-programmer friends can contribute Museum content via Claude-authored
+# PRs — the host merges on green without reading HTML.
+# hook c161 (2026-10-08): no longer runs on push. The local gate already runs `npm run check` on every cycle and a commit cannot
+# exist without its green stamp, so this job only repeated it, at Actions minutes the month couldn't afford. Run it by hand
+# from the Actions tab when wanted.
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate the static site
+        run: npm run check
+
+  # THE PAGES DEPLOY JOB WAS RETIRED 2026-08-29. Its own prediction came due:
+  # the museum crossed Cloudflare Pages' hard 20,000-file cap (20,218 objects
+  # at retirement), so the rollback path died structurally — every push failed
+  # in ~47s and mailed the Janitor. The live deploy path since the 2026-08-26
+  # cutover is R2 + the Worker (worker/index.mjs), synced by
+  # `node scripts/r2-sync.mjs` after each push (see docs/OPERATIONS.md).
+  # `.github/workflows/deploy-r2.yml` remains available as a manual
+  # (workflow_dispatch) CI-side sync; arming it on push requires an R2-scoped
+  # token in repo secrets — the Janitor's decision, not a default.

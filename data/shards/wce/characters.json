@@ -1,0 +1,456 @@
+[
+ {
+  "id": "rocky-stevens",
+  "type": "character",
+  "name": "Rocky Stevens",
+  "tenures": [
+   {
+    "promotion": "wce",
+    "role": "the federation's founder on camera, remembered among WcE's \"true wrestlers\" — \"they made the crowd encourage them\" — alongside DeMarco and Samson",
+    "source": "Wayback captures of s4.zetaboards.com/MWEntertainment, the fed's own board (workshop-held, 2008-2018 capture window) — Alejandro Rodriguez's own recollection of watching WcE, and the memorial show's founder credit.",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mwe",
+    "first_seen": "2007",
+    "last_seen": "2008",
+    "role": "founder on camera — \"MWE opened with Tim Fitzgerald or Rocky Stevens as he went by on camera, and he sold the company to Richard Covell\"",
+    "source": "Wayback captures of s4.zetaboards.com/MWEntertainment, the fed's own board (workshop-held, 2008-2018 capture window) — a member's own history of the company.",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Tim Fitzgerald's own on-camera character — a true wrestler of WcE's ring and the founder's face in MWE, until the on-screen sale to Richard Covell.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "fandom": "Rocky Stevens"
+ },
+ {
+  "id": "james-whitman-wce",
+  "type": "character",
+  "name": "James Whitman",
+  "tenures": [
+   {
+    "promotion": "wce",
+    "role": "wrestler — announced into MWE's ring as one of WrestleCrazy Entertainment's own five-man delegation and the second of them to take the microphone there; billed on MWE's own screens as a WcE Hall of Fame inductee, credited by an opponent with four WcE reigns, and named as the J of the JESTers (James, Eddie, Scott, Thomas)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine) — the ring announcer's own billing: \"Representing Wrestle Crazy Entertainment, James Whitman, Lennox Armstrong, Mark Marvin, Adam Belmont and Ken Forte\" — after which \"the thirteen men begin to walk down the ramp towards the ring.\" Further WcE receipts, all inside MWE's own served text: promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (the WcE Hall of Fame induction, on the titantron: \"Remember when we were inducted into the WcE Hall of Fame James?\"); promotions/mwe/rp/joy-ride.html (four WcE reigns recited); promotions/mwe/rp/highway-to-heaven.html (\"guys like James Whitman and his tools\"); promotions/mwe/rp/going-home.html (the WcE roster recital).",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-08-08",
+    "last_seen": "2011-11-13",
+    "role": "recurring on-camera guest from WcE -- David Whitman's cousin and cornerman, owner of the Top Rope Tavern and creator of the web series MWE's own writers built a running joke out of; a JESTer who appeared on MWE's titantron at Crowning Glory II, walked out with the group at Crowning Glory 2009 and took over MWE's own announce desk there, and co-host of an MWE podcast document in 2011",
+    "roles": [
+     "other"
+    ],
+    "source": "MWE's own served Crowning Glory of 30 August 2009, promotions/mwe/archive/crowning-glory-2009-08-30.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine). -- the JEST'ers' walk-out and their takeover of the announce desk for the David Whitman vs. Alejandro Rodriguez retirement match. Also staged at MWE's own served Crowning Glory II of 10 August 2008, promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine). -- the pre-taped titantron segment with Eddie Sanchez during David Whitman's Hall of Fame induction, and the arena camera's own pass across the JEST'ers in the ceremony audience. Announced into the ring as one of WcE's five at MWE's own memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (topic 7593862). Twenty-seven served MWE roleplays name or stage him, from promotions/mwe/rp/the-return-or-lack-thereof.html (2008-08-08) to promotions/mwe/rp/stop-rant-thing.html (2011-11-13, an MWE podcast document bylined to him and Zack Evermore); all twenty-seven now carry an edge to this row.",
+    "grade": "primary-source",
+    "note": "The dates span the earliest and the latest held MWE document naming this character -- promotions/mwe/rp/the-return-or-lack-thereof.html and promotions/mwe/rp/stop-rant-thing.html. They are a held-record span, not a stated debut or departure; MWE's own text never gives either."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "with": [
+     "david-whitman-mwe"
+    ],
+    "note": "MWE's own served text names the two cousins and stages them in the same scenes — \"I'm sitting here with my cousin, James Whitman\" (promotions/mwe/rp/to-pointlessness.html; the same relation in from-insanity, pre-turmoil-turmoil, the-return-or-lack-thereof and the-final-flight-of-a-wasted-mind). Two characters sharing a surname the fed itself explains, never one."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bret-hart-uwf-uwow",
+     "euwc-the-hitman",
+     "the-hitman-iwa-icon"
+    ],
+    "note": "A mint-guard substring hit, silenced as a coincidence rather than merged: the guard's own normalization strips punctuation and case, so \"Whitman\" contains the aka \"Hitman\" as a bare substring. Nothing else connects this character to any of the three Hitman rows — different promotions, different eras, no text naming two together, and one of them is a real-wrestler portrayal, which never merges across promotions at all. Recorded so the guard stops re-raising it."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A WcE Hall of Famer and the J of the JESTers, who kept a second home on MWE's screens as its champion's cousin and cornerman.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 27,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lennox-armstrong-wce",
+  "type": "character",
+  "name": "Lennox Armstrong",
+  "tenures": [
+   {
+    "promotion": "wce",
+    "role": "wrestler — announced by name into MWE's ring as one of WrestleCrazy Entertainment's own five-man delegation, walking down with the thirteen and standing with them through the tribute segment",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine) — the ring announcer's own billing: \"Representing Wrestle Crazy Entertainment, James Whitman, Lennox Armstrong, Mark Marvin, Adam Belmont and Ken Forte\" — after which \"the thirteen men begin to walk down the ramp towards the ring.\"",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mwe",
+    "first_seen": "2009-03",
+    "last_seen": "2009-03",
+    "role": "visiting WcE representative — announced into the ring with the thirteen-man delegation and standing in it through the segment",
+    "roles": [
+     "other"
+    ],
+    "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine)",
+    "grade": "primary-source",
+    "note": "Dated to the one show this character is staged on; MWE's own record states neither a debut nor a departure, and the show itself is filed at month precision because the fed's own receipts for it disagree."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A WrestleCrazy Entertainment wrestler, called out by name among the five WcE men who walked into MWE's ring together in March 2009.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "mark-marvin-wce",
+  "type": "character",
+  "name": "Mark Marvin",
+  "tenures": [
+   {
+    "promotion": "wce",
+    "role": "wrestler — WcE's eight-time Xtreme Champion on MWE's own recital, billed there as the King of Xtreme and as a man who won titles with a weapon in hand; announced into MWE's ring with the WcE delegation and the first of its men to take the microphone",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine) — the ring announcer's own billing: \"Representing Wrestle Crazy Entertainment, James Whitman, Lennox Armstrong, Mark Marvin, Adam Belmont and Ken Forte\" — after which \"the thirteen men begin to walk down the ramp towards the ring.\" Further WcE receipts inside MWE's own served text: promotions/mwe/rp/going-home.html (\"eight time Xtreme champion Mark Marvin\", and the WcE roster recital); promotions/mwe/rp/highway-to-heaven.html (\"the King of Xtreme Mark Marvin\", \"they didn't use weapons to win titles like Marvin\").",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mwe",
+    "first_seen": "2009-03",
+    "last_seen": "2009-03",
+    "role": "visiting WcE representative — handed the microphone in the ring and spoke for his federation on camera during the tribute segment",
+    "roles": [
+     "other"
+    ],
+    "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine)",
+    "grade": "primary-source",
+    "note": "Dated to the one show this character is staged on; MWE's own record states neither a debut nor a departure, and the show itself is filed at month precision because the fed's own receipts for it disagree."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "WcE's eight-time Xtreme Champion, the King of Xtreme by a rival federation's own billing, who spoke for WrestleCrazy Entertainment in MWE's ring in March 2009.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "adam-belmont-wce",
+  "type": "character",
+  "name": "Adam Belmont",
+  "tenures": [
+   {
+    "promotion": "wce",
+    "role": "wrestler — announced by name into MWE's ring as one of WrestleCrazy Entertainment's own five-man delegation, walking down with the thirteen and standing with them through the tribute segment",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine) — the ring announcer's own billing: \"Representing Wrestle Crazy Entertainment, James Whitman, Lennox Armstrong, Mark Marvin, Adam Belmont and Ken Forte\" — after which \"the thirteen men begin to walk down the ramp towards the ring.\"",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mwe",
+    "first_seen": "2009-03",
+    "last_seen": "2009-03",
+    "role": "visiting WcE representative — announced into the ring with the thirteen-man delegation and standing in it through the segment",
+    "roles": [
+     "other"
+    ],
+    "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine)",
+    "grade": "primary-source",
+    "note": "Dated to the one show this character is staged on; MWE's own record states neither a debut nor a departure, and the show itself is filed at month precision because the fed's own receipts for it disagree."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A WrestleCrazy Entertainment wrestler, called out by name among the five WcE men who walked into MWE's ring together in March 2009.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tristan-belmont"
+    ],
+    "note": "A mint-guard substring hit, silenced as a coincidence rather than merged: the guard's own normalization strips punctuation and case, so the two share the surname Belmont and nothing else — different given names, different promotions, no served text naming both. Recorded so the guard stops re-raising it."
+   }
+  ]
+ },
+ {
+  "id": "ken-forte-wce",
+  "type": "character",
+  "name": "Ken Forte",
+  "tenures": [
+   {
+    "promotion": "wce",
+    "role": "wrestler — announced by name into MWE's ring as one of WrestleCrazy Entertainment's own five-man delegation, walking down with the thirteen and standing with them through the tribute segment",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine) — the ring announcer's own billing: \"Representing Wrestle Crazy Entertainment, James Whitman, Lennox Armstrong, Mark Marvin, Adam Belmont and Ken Forte\" — after which \"the thirteen men begin to walk down the ramp towards the ring.\"",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mwe",
+    "first_seen": "2009-03",
+    "last_seen": "2009-03",
+    "role": "visiting WcE representative — announced into the ring with the thirteen-man delegation and standing in it through the segment",
+    "roles": [
+     "other"
+    ],
+    "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine)",
+    "grade": "primary-source",
+    "note": "Dated to the one show this character is staged on; MWE's own record states neither a debut nor a departure, and the show itself is filed at month precision because the fed's own receipts for it disagree."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A WrestleCrazy Entertainment wrestler, called out by name among the five WcE men who walked into MWE's ring together in March 2009.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "eddie-sanchez-wce",
+  "type": "character",
+  "name": "Eddie Sanchez",
+  "tenures": [
+   {
+    "promotion": "wce",
+    "role": "wrestler -- a WcE Hall of Fame inductee, one half of the tag team Florida's Finest, and the E of the JESTers (James, Eddie, Scott, Thomas)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "MWE's own served text. The WcE Hall of Fame induction is stated by the character himself in a pre-taped titantron segment on promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine): \"Remember when we were inducted into the WcE Hall of Fame James?\" MWE's own returning star bills him from the ring on promotions/mwe/archive/independence-day-2009-07-05.html as \"one half of Florida's Finest, one quarter of David's cousin's stable the JEST'ers, a WcE Hall of Famer.\" MWE's own served text, which is the whole of the surviving record for this character. The unit and its membership are spelled out twice in MWE's own words: promotions/mwe/rp/a-crash-course-in-wrasslin.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine) -- \"David Whitman and his friends the JEST'ers, James Whitman (David's cousin), best friends Eddie Sanchez and Scott Jones, and Thomas Williams (James' best friend)\" -- and promotions/mwe/rp/the-final-flight-of-a-wasted-mind.html, which expands the acronym outright: \"the JESTers' (James Eddie Scott Thomas) company; JEST Kiddin' inc.\" The roster recital in promotions/mwe/rp/going-home.html lists the name among WcE's own. His first match is separately recited, out of character, in promotions/mwe/rp/something-to-remember-me-by.html.",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-08-08",
+    "last_seen": "2009-08-30",
+    "role": "recurring on-camera guest from WcE -- a JESTer, staged in MWE's own arena on three cards: a pre-taped titantron segment at Crowning Glory II, a Pay-Per-View crowd interview at Independence Day that ended with him beaten out of the building, and guest commentary at Crowning Glory 2009",
+    "roles": [
+     "other"
+    ],
+    "source": "Three served MWE shows. promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine) -- the titantron segment with James Whitman during David Whitman's Hall of Fame induction, and the arena camera's own pass across the four JEST'ers in the ceremony audience. promotions/mwe/archive/independence-day-2009-07-05.html -- Alejandro Rodriguez picks him out of the crowd by name, billed as above, brings him into the ring, takes his answer, then attacks him and has security drag him up the ramp; the General Manager's own protest afterwards calls him \"a member of the general public.\" promotions/mwe/archive/crowning-glory-2009-08-30.html -- the JEST'ers' four-man walk-out, the ejection of MWE's own announce team, and his seat on guest commentary for the whole David Whitman vs. Alejandro Rodriguez retirement match. Sixteen served MWE roleplays name or stage him besides.",
+    "grade": "primary-source",
+    "note": "The dates span the earliest and the latest held MWE document that stages or names this character; MWE's own record states neither a debut nor a departure for him."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One half of Florida's Finest and a WcE Hall of Famer, who watched an MWE Pay-Per-View from the crowd in a JESTers shirt until its returning star pulled him over the barrier and laid him out.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 16,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "scott-jones-wce",
+  "type": "character",
+  "name": "Scott Jones",
+  "tenures": [
+   {
+    "promotion": "wce",
+    "role": "wrestler -- the S of the JESTers (James, Eddie, Scott, Thomas), named among WcE's own in MWE's roster recital of that federation",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "MWE's own served text, which is the whole of the surviving record for this character. The unit and its membership are spelled out twice in MWE's own words: promotions/mwe/rp/a-crash-course-in-wrasslin.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine) -- \"David Whitman and his friends the JEST'ers, James Whitman (David's cousin), best friends Eddie Sanchez and Scott Jones, and Thomas Williams (James' best friend)\" -- and promotions/mwe/rp/the-final-flight-of-a-wasted-mind.html, which expands the acronym outright: \"the JESTers' (James Eddie Scott Thomas) company; JEST Kiddin' inc.\" The roster recital in promotions/mwe/rp/going-home.html lists the name among WcE's own.",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-08-10",
+    "last_seen": "2009-08-30",
+    "role": "recurring on-camera guest from WcE -- a JESTer, in the Crowning Glory II Hall of Fame audience and part of the group's takeover of the Crowning Glory 2009 broadcast, where he took a camera off an MWE camera operator and shot the retirement match himself",
+    "roles": [
+     "other"
+    ],
+    "source": "Two served MWE shows. promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine) -- the arena camera's own pass across the four JEST'ers in the Hall of Fame ceremony audience. promotions/mwe/archive/crowning-glory-2009-08-30.html -- the four-man walk-out, his own lines in the ring segment, and the assignment James Whitman gives out on camera: \"Scott and Thomas will take over the cameras.\" Thirteen served MWE roleplays name or stage him besides.",
+    "grade": "primary-source",
+    "note": "The dates span the earliest and the latest held MWE document that stages or names this character; MWE's own record states neither a debut nor a departure for him."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "with": [
+     "darrell-jones-mwe"
+    ],
+    "note": "A same-surname collision inside this same wing, settled by the document that stages both men in one sentence: promotions/mwe/archive/crowning-glory-2009-08-30.html walks the JEST'ers out as \"James Whitman, Eddie Sanchez, Scott Jones and Thomas Williams\" and then says they \"are followed out by Billy-Joe Barker and Darrel Jones, who walk beside them\" -- and dresses the two groups differently in the next line. They speak separately through the whole segment and take different jobs in it. Two characters, not one."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mr-jones"
+    ],
+    "note": "A bare-surname mint-guard hit, silenced as a coincidence rather than merged: the guard normalizes labels and \"Scott Jones\" contains the Summit of E-Wrestling entity's own aka \"Jones\". Different promotion, different era, no document names the two together, and this character's own federation and stable are stated in MWE's text. Recorded so the guard stops re-raising it."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "The S of the JESTers, who took a camera off an MWE camera operator at Crowning Glory and shot a retirement match with it.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 13,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "thomas-williams-wce",
+  "type": "character",
+  "name": "Thomas Williams",
+  "tenures": [
+   {
+    "promotion": "wce",
+    "role": "wrestler -- the T of the JESTers (James, Eddie, Scott, Thomas), James Whitman's own wrestling partner and the man MWE's own writers credit with training David Whitman",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "MWE's own served text, which is the whole of the surviving record for this character. The unit and its membership are spelled out twice in MWE's own words: promotions/mwe/rp/a-crash-course-in-wrasslin.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine) -- \"David Whitman and his friends the JEST'ers, James Whitman (David's cousin), best friends Eddie Sanchez and Scott Jones, and Thomas Williams (James' best friend)\" -- and promotions/mwe/rp/the-final-flight-of-a-wasted-mind.html, which expands the acronym outright: \"the JESTers' (James Eddie Scott Thomas) company; JEST Kiddin' inc.\" The roster recital in promotions/mwe/rp/going-home.html lists the name among WcE's own. The training and partnership are stated in MWE's own text: promotions/mwe/rp/the-final-flight-of-a-wasted-mind.html calls him \"James' wrestling partner and David's trainer\", and promotions/mwe/rp/saved.html \"David's old friend and mentor\".",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-08-10",
+    "last_seen": "2009-08-30",
+    "role": "recurring on-camera guest from WcE -- a JESTer, in the Crowning Glory II Hall of Fame audience and part of the group's takeover of the Crowning Glory 2009 broadcast, where he took the second camera; a working stand-up comic on the side in MWE's own roleplays",
+    "roles": [
+     "other"
+    ],
+    "source": "Two served MWE shows. promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine) -- the arena camera's own pass across the four JEST'ers in the Hall of Fame ceremony audience. promotions/mwe/archive/crowning-glory-2009-08-30.html -- the four-man walk-out, his own line in the ring segment (\"So David Ferrera, Ryan Adams...\") and the camera assignment. Twenty-one served MWE roleplays name or stage him besides, including promotions/mwe/rp/pre-turmoil-turmoil.html, which puts him on stage at a Cleveland comedy club under his own name.",
+    "grade": "primary-source",
+    "note": "The dates span the earliest and the latest held MWE document that stages or names this character; MWE's own record states neither a debut nor a departure for him."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sonny-williams-mwe",
+     "jai-williams-mwe",
+     "carl-john-williams-mwe",
+     "williams-maximum-overdrive-wwa"
+    ],
+    "note": "Shared surname inside this same wing and nothing else. MWE's own text stages Thomas Williams alongside Sonny Williams (both are in the Crowning Glory II Hall of Fame ceremony) without ever connecting them, and never pairs him with Jai Williams or CJ Williams at all. The fourth id here is a bare-surname mint-guard hit from another wing entirely -- the guard normalizes labels and \"Thomas Williams\" contains that entity's own aka \"Williams\" -- with a different promotion, a different era and nothing naming the two together. Recorded so the near-name guard stops re-raising any of them."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "MEMORIAL-WATCH NON-MATCH, recorded deliberately: this character's surname is shared with one of the memorial-register names on the standing watch list, and the two are NOT the same and are not asserted to be related in any way. The match fails on word-boundary full-name comparison -- different given name, different federation, different era -- and no document anywhere in the collection names them together. Nothing about any memorial subject is asserted by this row.",
+    "with": []
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "David Whitman's trainer and the T of the JESTers, who worked stand-up comedy clubs between wrestling dates and took the second camera at Crowning Glory.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 21,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

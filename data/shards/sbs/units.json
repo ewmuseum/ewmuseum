@@ -1,0 +1,42 @@
+[
+  {
+    "id": "vengeance-and-retribution-sbs",
+    "type": "unit",
+    "name": "Vengeance and Retribution",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "sbs",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "role": "World Tag Team Champions, stripped the following week",
+        "source": "promotions/sbs/archive/sbs-brave-new-world-ppv-part-4-1997-05-01.html"
+      }
+    ],
+    "caption": "Won the SBS World Tag Team Championship at Brave New World and were stripped of it by President Marshall the following week.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Vengeance"
+      },
+      {
+        "name": "Retribution"
+      }
+    ]
+  }
+]

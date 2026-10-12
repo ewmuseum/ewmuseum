@@ -1,0 +1,170 @@
+[
+ {
+  "id": "upw-world-heavyweight-r001",
+  "title": "upw-world-heavyweight",
+  "label": "Aaron \"All Day\" Lewis",
+  "holder": [
+   {
+    "id": "aaron-lewis"
+   }
+  ],
+  "won": {
+   "date": "2016-12-29",
+   "precision": "exact",
+   "source": "promotions/upw/archive/world-heavyweight-title-history.html; matches the show's own content (a Fatal Four-Way crowning a new champion)."
+  },
+  "lost": {
+   "date": "2017-03-05",
+   "precision": "exact"
+  },
+  "how": "Defeated Dylan Cardinal, Liam Donegal, and Chase Williams in a Fatal Four-Way at UPW's own fifth Showdown to become its first World Heavyweight Champion since TTW's own closure.",
+  "event": "upw-showdown-2016-12-29",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "upw-world-heavyweight-r002",
+  "title": "upw-world-heavyweight",
+  "label": "Derek Rage",
+  "holder": [
+   {
+    "id": "derek-rage"
+   }
+  ],
+  "won": {
+   "date": "2017-03-05",
+   "precision": "exact",
+   "source": "promotions/upw/archive/world-heavyweight-title-history.html"
+  },
+  "lost": null,
+  "how": "Defeated Aaron Lewis by pinfall at Survival, UPW's own first pay-per-view.",
+  "note": "Rage covered Lewis after a Hammer of God from the top-rope position, per the Survival main card.",
+  "end_how": "still-champion-at-record-end",
+  "event": "upw-survival-2017-03-05"
+ },
+ {
+  "id": "upw-world-tag-team-r001",
+  "title": "upw-world-tag-team",
+  "label": "The Warriors",
+  "holder": [
+   {
+    "id": "the-warriors-upw"
+   }
+  ],
+  "won": {
+   "date": "2016-09-20",
+   "precision": "exact",
+   "source": "promotions/upw/archive/world-tag-team-title-history.html; matches the show's own content (a best-two-of-three-falls match crowning UPW's first tag champions)."
+  },
+  "lost": {
+   "date": "2017-03-05",
+   "precision": "exact"
+  },
+  "how": "Defeated the Hype two falls to one, Kel Robertson pinning Danny Nash for the deciding fall, on UPW's own debut Showdown to become its first World Tag Team Champions since TTW's own closure.",
+  "event": "upw-showdown-2016-09-20",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "upw-world-tag-team-r002",
+  "title": "upw-world-tag-team",
+  "label": "Soldiers of the Sun",
+  "holder": [
+   {
+    "id": "soldiers-of-the-sun"
+   }
+  ],
+  "won": {
+   "date": "2017-03-05",
+   "precision": "exact",
+   "source": "promotions/upw/archive/world-tag-team-title-history.html"
+  },
+  "lost": null,
+  "how": "Defeated the Warriors (champions), the Dominion, and the O'Malley Brothers in a Fatal Four-Way at Survival.",
+  "note": "Ricky Courage pinned Anthony O'Malley with a bridging cover after he and Titan Juarez hit the Sunplex, per the Survival main card.",
+  "end_how": "still-champion-at-record-end",
+  "event": "upw-survival-2017-03-05"
+ },
+ {
+  "id": "upw-north-american-r001",
+  "title": "upw-north-american",
+  "label": "\"Legionarius\" Antonio De Luca",
+  "holder": [
+   {
+    "id": "antonio-de-luca"
+   }
+  ],
+  "won": {
+   "date": "2017-02-14",
+   "precision": "exact",
+   "source": "promotions/upw/archive/north-american-title-history.html"
+  },
+  "lost": null,
+  "how": "Defeated Glenn Chambers in the final of a single-night, eight-man tournament to fill the title, vacant since TTW's own November 2015 closure.",
+  "event": "upw-showdown-2017-02-18",
+  "note": "SOURCES DISAGREE ON THE DATE BY FOUR DAYS: the title-history ledger dates this win 14 February 2017, while the served show recording the whole tournament (front-to-back, same night) is dated 18 February 2017 by Past Events' own sequence rather than an in-text date. Both readings are recorded; the reign is linked to the served show as the same event.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "upw-television-r001",
+  "title": "upw-television",
+  "label": "\"El Patron\" Felix Sandoval",
+  "holder": [
+   {
+    "id": "felix-sandoval"
+   }
+  ],
+  "won": {
+   "date": "2016-12-13",
+   "precision": "exact",
+   "source": "promotions/upw/archive/television-title-history.html; matches the show's own content (a ladder match for the vacant title)."
+  },
+  "lost": {
+   "date": "2017-03-05",
+   "precision": "exact"
+  },
+  "how": "Won a ladder match over Brandon Franklin, Chad Allen, Tripp Skylark, Damian Payne, and Harrison Daniels III by retrieving the hanging title belt, filling the title vacant since TTW's own closure.",
+  "event": "upw-showdown-2016-12-13",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "upw-television-r002",
+  "title": "upw-television",
+  "label": "\"Hardcore Icon\" Brandon Franklin",
+  "holder": [
+   {
+    "id": "brandon-franklin"
+   }
+  ],
+  "won": {
+   "date": "2017-03-05",
+   "precision": "exact",
+   "source": "promotions/upw/archive/television-title-history.html"
+  },
+  "lost": {
+   "date": "2017-04-11",
+   "precision": "exact"
+  },
+  "how": "Defeated Felix Sandoval at Survival, avenging a controversial time-limit-draw loss to Sandoval on 17 January 2017.",
+  "note": "The count reached three as the twenty-minute time limit sounded; the referee consulted the timekeeper and the replay and the ring announcer named Franklin the winner and new champion, per the Survival main card.",
+  "end_how": "lost-in-match",
+  "event": "upw-survival-2017-03-05"
+ },
+ {
+  "id": "upw-television-r003",
+  "title": "upw-television",
+  "label": "Windham Brody",
+  "holder": [
+   {
+    "id": "windham-brody"
+   }
+  ],
+  "won": {
+   "date": "2017-04-11",
+   "precision": "exact",
+   "source": "promotions/upw/archive/television-title-history.html; matches the show's own content (Brody's first defense as challenger, with the Dominion interfering)."
+  },
+  "lost": null,
+  "how": "Defeated Brandon Franklin by pinfall in Franklin's first defense, with Franklin's own Dominion rivals (Tyson Bishop, Lance Donovan, Antonio De Luca) interfering at ringside throughout.",
+  "event": "upw-showdown-2017-04-11",
+  "end_how": "still-champion-at-record-end"
+ }
+]

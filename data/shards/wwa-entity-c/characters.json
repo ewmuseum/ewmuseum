@@ -1,0 +1,32 @@
+[
+ {
+  "id": "prez-sir-joshua-wwa-entity-c",
+  "type": "character",
+  "name": "Prez Sir Joshua",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "wwa-entity-c",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "1997-07",
+    "source": "promotions/wwa-entity-c/archive/join-the-wwa-1997-07-13.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A self-signed in-fiction presidential persona; no primary-source evidence connects this WWA-Entity-C persona to any other registry entry of a similar name (checked against data/shards/*/characters.json, no match).",
+    "with": []
+   }
+  ],
+  "notes": "Self-made in-character content. The operator's own founding post signs as \"Prez Sir Joshua,\" president of this WWA claimant. No OOC real name appears in the document.",
+  "caption": "The self-titled president who founded and ran this GeoCities-hosted WWA.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ }
+]

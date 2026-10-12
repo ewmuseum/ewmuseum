@@ -1,0 +1,175 @@
+[
+  {
+    "id": "texas-twosome-gmwe",
+    "type": "unit",
+    "name": "Texas Twosome",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Karl Commons",
+        "character_id": "karl-commons-gmwe"
+      },
+      {
+        "name": "Brian Davis",
+        "character_id": "brian-davis-gmwe"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "gmwe",
+        "first_seen": "2003-02",
+        "last_seen": "2003-02",
+        "role": "tag team",
+        "grade": "primary-source",
+        "source": "Wild and Crazy's own GMWE Interview #33, 20 February 2003 (promotions/gmwe/rp/bring-the-pain.html)",
+        "note": "Named there by the fed's own text as “the newly formed Texas Twosome,” built as Wild and Crazy's own rivals ahead of that week's ICE; no match survives."
+      }
+    ],
+    "caption": "Karl Commons and Brian Davis, formed just in time to be promised a beating by Wild and Crazy's own promo.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 1,
+        "awards": 0,
+        "relationships": 1
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "wild-and-crazy-gmwe",
+    "type": "unit",
+    "name": "Wild and Crazy",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Wild",
+        "character_id": "wild-gmwe"
+      },
+      {
+        "name": "Crazy",
+        "character_id": "crazy-gmwe"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "gmwe",
+        "first_seen": "2003-01",
+        "last_seen": "2003-03",
+        "role": "tag team",
+        "grade": "primary-source",
+        "source": "The fed's own numbered promo titles (“Wild and Crazy VOL 1,” promotions/gmwe/rp/wild-and-crazy-vol-1.html) and their own text, “We are the number one tagteam in this federation. We are the only tagteam in this federation” (promotions/gmwe/rp/bring-the-pain.html)",
+        "note": "The fed never billed them under a combined ring name beyond its own promo-board titling; recorded here on that titling and their own repeated claim to be the promotion's only tag team."
+      }
+    ],
+    "caption": "GMWE's own only tag team, by its own promo's own words, until Crazy left for another fed in March 2003.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 1
+      },
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "crazy-gmwe"
+        ],
+        "note": "The unit name “Wild and Crazy” contains crazy-gmwe's own name as a substring — expected, since Crazy is one of the unit's own two members, not a coincidental collision. Recorded to silence the mint guard's own decorated-aka check."
+      }
+    ]
+  },
+  {
+    "id": "x-sabbath-gmwe",
+    "type": "unit",
+    "name": "X-Sabbath",
+    "unit_kind": "tag-team",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "sabbath-walking-contradiction-rspwf",
+          "sabbath-xcwf",
+          "sabbat-wwa"
+        ],
+        "note": "The portmanteau “X-Sabbath” normalizes as containing “sabbath”/“sabbat,” shared with unrelated characters in other promotions. Nothing connects them; recorded distinct under the collision doctrine."
+      }
+    ],
+    "members": [
+      {
+        "name": "The Sabbath",
+        "character_id": "the-sabbath-gmwe"
+      },
+      {
+        "name": "X-Treme",
+        "character_id": "x-treme-gmwe"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "gmwe",
+        "first_seen": "2003",
+        "last_seen": "2003",
+        "role": "tag team — one hardcore electric cage match",
+        "grade": "presumed",
+        "source": "The Sabbath's own GMWE Interview #2, 4 May 2003 (promotions/gmwe/rp/charisma-get-ready-for-the-pain.html)",
+        "note": "Recalled only secondhand, through an arcade-game recreation of “that great match from a few months ago” against The Sweedish Pickles; no card or result survives directly."
+      }
+    ],
+    "caption": "The Sabbath and X-Treme, teamed for one hardcore electric cage match against The Sweedish Pickles, recalled secondhand through an arcade cabinet in a later promo.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 1,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "the-sweedish-pickles-gmwe",
+    "type": "unit",
+    "name": "The Sweedish Pickles",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "gmwe",
+        "first_seen": "2003",
+        "last_seen": "2003",
+        "role": "tag team — X-Sabbath's own opponent in one hardcore electric cage match",
+        "grade": "presumed",
+        "source": "The Sabbath's own GMWE Interview #2, 4 May 2003 (promotions/gmwe/rp/charisma-get-ready-for-the-pain.html)",
+        "note": "No individual member's name survives; recalled only secondhand, through an arcade-game recreation of a past match."
+      }
+    ],
+    "caption": "Recalled only as X-Sabbath's own opponent in a hardcore electric cage match, with no member's name surviving.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 1,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  }
+]

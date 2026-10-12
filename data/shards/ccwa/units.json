@@ -1,0 +1,85 @@
+[
+  {
+    "id": "the-dead-ccwa",
+    "type": "unit",
+    "name": "The Dead",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "character_id": "tigam-balsala-ccwa",
+        "name": "Tigam Balsala"
+      },
+      {
+        "character_id": "nikkar-dissan-ccwa",
+        "name": "Nikkar Dissan"
+      }
+    ],
+    "caption": "The Dead won the CCWA Tag Team Championship in their own CCWA debut at Sensation, over a last-minute pairing of Pete Hardy and Psyno.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ccwa",
+        "first_seen": "2005",
+        "last_seen": "2005",
+        "role": "tag team — Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "sensation-2005-02-07.html; weekly-show-2005-02-22.html"
+      }
+    ]
+  },
+  {
+    "id": "tfl-ccwa",
+    "type": "unit",
+    "name": "TFL",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "character_id": "chris-sanchez-ccwa",
+        "name": "Chris Sanchez"
+      },
+      {
+        "character_id": "chris-west-ccwa",
+        "name": "Chris West"
+      }
+    ],
+    "caption": "TFL — an ad hoc pairing of Chris Sanchez and Chris West — lost the #1 contendership to the CCWA Tag Team titles against Painkiller and Freezer Burn at The Show; the fed's own show script never expands the initialism.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ccwa",
+        "first_seen": "2005",
+        "last_seen": "2005",
+        "role": "tag team (one-off pairing)",
+        "roles": [
+          "wrestler"
+        ],
+        "note": "One appearance only; the fed's own script never explains the initials \"TFL\".",
+        "source": "weekly-show-2005-02-22.html"
+      }
+    ]
+  }
+]

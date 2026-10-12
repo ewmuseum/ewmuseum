@@ -1,0 +1,34 @@
+[
+  {
+    "id": "bxwf-thursday-terror",
+    "type": "show",
+    "name": "Thursday Terror",
+    "promotion": "bxwf",
+    "date": {
+      "date": "1997-02-15",
+      "precision": "exact",
+      "source": "The show's own posting date."
+    },
+    "page": "/promotions/bxwf/archive/bxwf-thursday-terror-1997-02-15.html",
+    "collection": "0148",
+    "appearances": [],
+    "no_appearances_reason": "The show's own three complete matches are narrated move-by-move in the served TNM-simulator text but not structurally parsed into characters.json/matches[], per the packet's own tier-0 ceiling -- a pending-enrichment note, per the tier rule and the holdings bar.",
+    "notes": "The wing's only surviving full show script: The Mechanic defeated Hamish Mcdoogle; The Hideous Zuki (w/ manager Mr. Deltoid) defeated Beefstew Lou Marconi; 'Playboy' Brett Michaels defeated Fatty Turnbuckle. No title changes."
+  },
+  {
+    "id": "bxwf-preview-press-conference",
+    "type": "show",
+    "name": "BXWF/Preview",
+    "promotion": "bxwf",
+    "date": {
+      "date": "1997-01-29",
+      "precision": "exact",
+      "source": "The document's own posting date."
+    },
+    "page": "/promotions/bxwf/rp/bxwf-preview-1997-01-29.html",
+    "collection": "0148",
+    "appearances": [],
+    "no_appearances_reason": "An in-fiction press-conference promo, not a match card; no appearances structured.",
+    "notes": "President Joey 'the Jet' Koteas addresses the press ahead of the fed's own launch, pitching a broadcast deal with the fictional World Wrestling Cable Television Consortium."
+  }
+]

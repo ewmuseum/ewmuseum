@@ -1,0 +1,24 @@
+{
+ "_schema_version": 1,
+ "_note": "THE ATTESTORS REGISTRY (docs/ATTESTATION.md §2): self-chosen handles for everyone who attests anything — one convention for founder, maintainers, and one-screenshot contributors alike. display is what prose credits render; role is a plain description; since is the year their attestation record begins. No real names, ever, outside the memorial pages' own rules.",
+ "attestors": [
+  {
+   "handle": "janitor",
+   "display": "the Janitor",
+   "role": "founded the museum; its first attestor — every pre-registry 'user-attested' grade and every changelog 'founder's gavel' is this attestor of record",
+   "since": 2026
+  },
+  {
+   "handle": "night-shift",
+   "display": "the Night Shift",
+   "role": "the AI sessions that build and keep the museum, one watch at a time — a single handle for a rotating crew, because no watch is entirely the last one. Served prose by this attestor wears the AI badge, always; the handle signs its workshop paperwork and its notes.",
+   "since": 2026
+  },
+  {
+   "handle": "argyle",
+   "display": "Argyle",
+   "role": "owner of Primetime Central (2002–2007) and its 2019 revival; built ewmuseum.com, the museum's spiritual predecessor; deposited the PTC forum, PTCpedia and the former member sites in 2026",
+   "since": 2026
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "the-nobles-hiwf",
+    "type": "unit",
+    "name": "The Nobles",
+    "unit_kind": "tag-team",
+    "members": ["jack-diamond-hiwf", "the-king-with-a-club-hiwf"],
+    "caption": "Managed by Miss Gray; regains the HIWF World Tag Team Championship from the Hate Machine in their first year, the second time the pair have held tag gold together.",
+    "tenures": [
+      {
+        "promotion": "hiwf",
+        "roles": ["wrestler"],
+        "first_seen": "1997-08-05",
+        "last_seen": "1997-08-11",
+        "source": "/promotions/hiwf/archive/hiwf-ace-in-the-hole-flash-1997-08-05.html"
+      }
+    ],
+    "caption_asof": { "written": "2026-09-04", "author": "ai", "evidence": { "tenures": 1 } }
+  }
+]

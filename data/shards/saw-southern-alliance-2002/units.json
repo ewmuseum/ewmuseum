@@ -1,0 +1,98 @@
+[
+ {
+  "id": "new-breed-saw-southern-alliance-2002",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The New Breed",
+  "members": [
+   {
+    "name": "Orlando Risley",
+    "character_id": "orlando-risley-saw-southern-alliance-2002"
+   },
+   {
+    "name": "Marshall Risley",
+    "character_id": "marshall-risley-saw-southern-alliance-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "saw-southern-alliance-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-04-06",
+    "last_seen": "2002-04-06",
+    "source": "/promotions/saw-southern-alliance-2002/archive/saw-southern-alliance-2002-fever-2002-04-06.html"
+   }
+  ],
+  "caption": "Managed by their father Janusz Risley, the New Breed lost their tag team debut to the Bounty Hunters by disqualification.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A shared tag team name only; no document links the two, which belong to different promotions.",
+    "with": [
+     "new-breed-fob"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bounty-hunters-saw-southern-alliance-2002",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Bounty Hunters",
+  "members": [
+   {
+    "name": "Hawke",
+    "character_id": "hawke-saw-southern-alliance-2002"
+   },
+   {
+    "name": "Lobo",
+    "character_id": "lobo-saw-southern-alliance-2002"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "saw-southern-alliance-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-04-06",
+    "last_seen": "2002-04-06",
+    "source": "/promotions/saw-southern-alliance-2002/archive/saw-southern-alliance-2002-fever-2002-04-06.html"
+   }
+  ],
+  "caption": "Won their tag team debut over the New Breed by disqualification after a chair shot.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A shared tag team name only; no document links the two, which belong to different promotions.",
+    "with": [
+     "bounty-hunters-wca"
+    ]
+   }
+  ]
+ }
+]

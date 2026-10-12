@@ -1,0 +1,104 @@
+[
+  {
+    "id": "bwo-hcw-hardcore-1997",
+    "type": "unit",
+    "name": "the bWo (Blue World order)",
+    "unit_kind": "stable",
+    "members": [
+      "the-heartbreaker-hcw-hardcore-1997",
+      "shane-dreamer-hcw-hardcore-1997",
+      "mike-stewart-hcw-hardcore-1997"
+    ],
+    "caption": "Formed on-camera during the federation's debut broadcast when two feuding wrestlers shook hands mid-match; named Best Stable at the federation's own award show.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "hcw-hardcore-1997",
+        "first_seen": "1997-03-12",
+        "last_seen": "1997-04-25",
+        "source": "The promotion's own Sneak Peek broadcast, where the stable formed on camera, through its own award show, where it was named Best Stable."
+      }
+    ]
+  },
+  {
+    "id": "terrorize-and-stryfe-hcw-hardcore-1997",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Terrorize & Stryfe",
+    "members": [
+      "terrorize-hcw-hardcore-1997",
+      "stryfe-hcw-hardcore-1997"
+    ],
+    "tenures": [
+      {
+        "promotion": "hcw-hardcore-1997",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "The HCW Extremies, 25 April 1997 (promotions/hcw-hardcore-1997/archive/hcw-extremies-1997-04-25.html)."
+      }
+    ],
+    "caption": "The HCW's own World Tag Team Champions, having beaten FIRE and the Party Animals for the vacant title; named Best Tag Team at the fed's own first Extremies awards show, 25 April 1997.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-party-animals-hcw-hardcore-1997",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Party Animals",
+    "tenures": [
+      {
+        "promotion": "hcw-hardcore-1997",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "The HCW Extremies, 25 April 1997 (promotions/hcw-hardcore-1997/archive/hcw-extremies-1997-04-25.html)."
+      }
+    ],
+    "caption": "Named Most Improved Tag Team at the HCW's own first Extremies awards show, 25 April 1997; per the same broadcast's own rumour report, related to wrestler Jack Bradshaw.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (the-party-animals-cswa); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "the-party-animals-cswa"
+        ]
+      }
+    ],
+    "membership_unknown": true
+  }
+]

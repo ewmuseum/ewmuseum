@@ -1,0 +1,361 @@
+[
+ {
+  "id": "the-new-age-soverigns-ngw",
+  "type": "unit",
+  "name": "The New Age Soverigns",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Bullet",
+    "character_id": "bullet-ngw"
+   },
+   {
+    "name": "Guile",
+    "character_id": "guile-ngw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ngw",
+    "first_seen": "2003",
+    "last_seen": "2004",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "source": "the fed's own tag team roster of July 2004 (/promotions/ngw/archive/tag-team-roster-2004-07.html)"
+   }
+  ],
+  "caption": "Billed by NGW's own tag team roster at a combined three and a half metric tons, which is the only weight the fed ever gave a team in tonnes.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "embessy-of-evil-ngw",
+  "type": "unit",
+  "name": "Embessy of Evil",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Baal",
+    "character_id": "baal-ngw"
+   },
+   {
+    "name": "Mesphisto",
+    "character_id": "mesphisto-ngw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ngw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "source": "the fed's own tag team roster of July 2004 (/promotions/ngw/archive/tag-team-roster-2004-07.html)"
+   }
+  ],
+  "caption": "A heel pair on NGW's own tag team roster of July 2004, 633 pounds between them.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-hellraisers-ngw",
+  "type": "unit",
+  "name": "The HellRaisers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Chris Johnson",
+    "character_id": "chris-johnson-ngw"
+   },
+   {
+    "name": "Dante Locks",
+    "character_id": "dante-locks-ngw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ngw",
+    "first_seen": "2003",
+    "last_seen": "2004",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "source": "the fed's own tag team roster of July 2004 (/promotions/ngw/archive/tag-team-roster-2004-07.html); /promotions/ngw/archive/newsdesk-2004-03.html"
+   }
+  ],
+  "caption": "Took a seventh straight tag team win, with Antheus, in an elimination match the week before Border Line 2004.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-hellraisers"
+    ],
+    "note": "the-hellraisers is Mad Bull and Dark Beast's own IWF pairing, managed by Havoc; this one is Chris Johnson and Dante Locks. Same name, different men, different decades of the record."
+   }
+  ]
+ },
+ {
+  "id": "memory-and-peabrain-ngw",
+  "type": "unit",
+  "name": "Memory + Peabrain",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Memory",
+    "character_id": "memory-ngw"
+   },
+   {
+    "name": "Peabrain",
+    "character_id": "peabrain-ngw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ngw",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "source": "the fed's own tag team roster of July 2004 (/promotions/ngw/archive/tag-team-roster-2004-07.html)"
+   }
+  ],
+  "caption": "Listed on NGW's own tag team roster under the letter M and never given a team name at all.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "total-karnage-ngw",
+  "type": "unit",
+  "name": "Total Karnage",
+  "tenures": [
+   {
+    "promotion": "ngw",
+    "first_seen": "2000",
+    "last_seen": "2004",
+    "role": "tag team",
+    "source": "The fed's own Tag Team Title ledger (/promotions/ngw/archive/tag-team-title-history.html)",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Held the Tag Team Titles across two reigns in the spring of 2002; no individual member names survive in the record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "unit_kind": "tag-team",
+  "membership_unknown": true
+ },
+ {
+  "id": "messiahs-of-hardcore-ngw",
+  "type": "unit",
+  "name": "Messiahs of Hardcore",
+  "tenures": [
+   {
+    "promotion": "ngw",
+    "first_seen": "2000",
+    "last_seen": "2004",
+    "role": "tag team",
+    "source": "The fed's own Tag Team Title ledger (/promotions/ngw/archive/tag-team-title-history.html)",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Challenged John Hitchin and Scott King for the Tag Team Titles at Danger Zone 2002; no individual member names survive in the record.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "unit_kind": "tag-team",
+  "membership_unknown": true
+ },
+ {
+  "id": "da-westsidaz-ngw",
+  "type": "unit",
+  "name": "Da WeStSiDaZ",
+  "tenures": [
+   {
+    "promotion": "ngw",
+    "first_seen": "2000",
+    "last_seen": "2004",
+    "role": "tag team",
+    "source": "The fed's own Tag Team, American and Transatlantic Title ledgers (/promotions/ngw/archive/tag-team-title-history.html, recap: /promotions/ngw/archive/champions-and-title-history-2004-11.html)",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Held the Tag Team Titles from late August to September 2000; no individual member names survive in NGW's own record, and this is a different Da Westsidaz than the identically-named tag team that wrestled in OSW.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "note": "Bare-name collision against da-westsidaz (OSW) — a different promotion's own tag team of the same name, no shared members or era overlap.",
+    "with": []
+   }
+  ]
+ },
+ {
+  "id": "fuk-ngw",
+  "type": "unit",
+  "name": "FUK",
+  "tenures": [
+   {
+    "promotion": "ngw",
+    "first_seen": "2000",
+    "last_seen": "2004",
+    "role": "tag team",
+    "source": "/promotions/ngw/archive/results-fne160.html; /promotions/ngw/archive/champions-2003-12.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Billy Bush and Louis Lei's own stable, described in the fed's own text as 'the most dysfunctional team ever in NGW history.'",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Billy Bush",
+    "character_id": "billy-bush-ngw"
+   },
+   {
+    "name": "Louis Lei",
+    "character_id": "louis-lei-ngw"
+   }
+  ]
+ },
+ {
+  "id": "powers-of-pain-ngw",
+  "type": "unit",
+  "name": "Powers of Pain",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Prime",
+    "character_id": "prime-time-ngw"
+   },
+   {
+    "name": "Adam Scott",
+    "character_id": "adam-scott-ngw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ngw",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/ngw/archive/results-666136.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "The NTW tag team that briefly took the NTW Tag Team Titles from KrazE by disqualification at AW Halloween 666, before the decision was reversed in KrazE and his new partner Apocalypse's favor.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Bare-name collision against powers-of-pain-icwc — no shared-handler or era-overlap evidence found; treated as a distinct pairing per the no-auto-merge rule.",
+    "with": [
+     "powers-of-pain-icwc"
+    ]
+   }
+  ]
+ }
+]

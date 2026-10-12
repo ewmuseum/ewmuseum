@@ -1,0 +1,67 @@
+[
+  {
+    "id": "black-sunshine-gzw",
+    "type": "unit",
+    "name": "Black Sunshine",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Gargoyle",
+        "character_id": "gargoyle-gzw"
+      },
+      {
+        "name": "Hydro",
+        "character_id": "hydro-gzw"
+      },
+      {
+        "name": "Dark Arachnid",
+        "character_id": "dark-arachnid-gzw"
+      },
+      {
+        "name": "Blackbird",
+        "character_id": "blackbird-gzw"
+      },
+      {
+        "name": "The Lion",
+        "character_id": "the-lion-gzw"
+      }
+    ],
+    "caption": "A heel stable running GZW's own house rivalry engine across the held record's PPV cards, its members repeatedly interfering in and defending titles together.",
+    "caption_asof": {
+      "written": "2026-09-01",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "Gargoyle and Hydro are billed “Black Sunshine” directly in the GZW Tag Team Championship's own announcer calls at both Autumn of Armageddon and Dead Zone; Dark Arachnid is billed “of Black Sunshine” at Autumn of Armageddon; Blackbird is named as having “joined Black Sunshine” in that same show's own commentary; The Lion is unmasked on-camera as the stable's own recruit at Dead Zone. Eturnalwolf receives the stable's own interference in his Dead Zone win over Renegade but is never billed “of Black Sunshine” outright in the served text — not asserted as a member here on that more equivocal evidence.",
+    "tenures": [
+      {
+        "promotion": "gzw",
+        "role": "heel stable",
+        "roles": [
+          "other"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2001",
+        "last_seen": "2001",
+        "source": "the fed's own served Autumn of Armageddon and Dead Zone PPV cards (promotions/gzw/archive/autumn-of-armageddon.html, promotions/gzw/archive/dead-zone.html)"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A normalized-substring coincidence against sunshine-del-payne-cswa, an unrelated fed's own individual wrestler (billed \"Sunshine\"); no shared text or roster detail links the two — one is a stable, the other a lone wrestler in a different corpus.",
+        "with": [
+          "sunshine-del-payne-cswa"
+        ]
+      }
+    ]
+  }
+]

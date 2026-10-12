@@ -1,0 +1,176 @@
+[
+  {
+    "id": "eric-cooper-ecwa",
+    "type": "character",
+    "name": "Eric \"Living Legend\" Cooper",
+    "caption": "ECWA's own founder and operator, wrestling under his own name as an in-character self-insert, who also crossed over as a billed guest at RCW and SPWA in the same corpus.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "merged",
+        "grade": "primary-source",
+        "note": "Self-insert operator; the same name and persona appear self-billed as ECWA's founder, as RCW's own World Champion (RCW Info Center, aS02iXjtrh8J), and as a guest in an SPWA main event (oO9iVjpOSPAJ, VuxfV4dLFWMJ). Home-sharded to ECWA, his own fed.",
+        "with": []
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ecwa",
+        "first_seen": "1997-09",
+        "last_seen": "1997-09",
+        "roles": [
+          "wrestler",
+          "authority-figure"
+        ],
+        "role": "other — founder and operator, wrestling under his own name",
+        "source": "ECWA's own three served recruitment posts, September 1997."
+      },
+      {
+        "promotion": "ecwa",
+        "first_seen": "1997-08",
+        "last_seen": "1997-09",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "billing",
+        "role": "wrestler — billed guest at RCW and SPWA",
+        "source": "Third-party corroboration, collected not served: an SPWA main event card (msg_id oO9iVjpOSPAJ, 13 Aug 1997) billing him against Derrik Kane, and a second SPWA card (msg_id VuxfV4dLFWMJ, 20 Sep 1997) billing him at ringside during an ECWA-SPWA dream match; a third-party RCW roster page (msg_id aS02iXjtrh8J, 21 Sep 1997) billing him as RCW's own World Champion."
+      },
+      {
+        "promotion": "icw-spwa-1997",
+        "first_seen": "1997-11",
+        "last_seen": "1997-11",
+        "roles": [
+          "wrestler"
+        ],
+        "role": "wrestler — main event of the fed's own first full show, a Steel Cage match",
+        "source": "FJPW Saturday Night CHAOS #1, Part IV (2 November 1997)."
+      },
+      {
+        "promotion": "pwu-1998",
+        "roles": [
+          "wrestler",
+          "authority-figure"
+        ],
+        "role": "wrestler/authority-figure — self-declared creator of the fed",
+        "first_seen": "1998-06",
+        "last_seen": "1998-06",
+        "source": "The fed's own founding handbook (\"The start of an era!\", 12 June 1998), Introduction section."
+      }
+    ]
+  },
+  {
+    "id": "tommy-van-dam-ecwa",
+    "type": "character",
+    "name": "\"Mr. Hall of Fame\" Tommy Van Dam",
+    "caption": "Held the ECWA World Championship as of the fed's own September 1997 launch, and defeated SPWA's own World Champion, Submarine, in a corroborating cross-fed dream match.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ecwa",
+        "first_seen": "1997-09",
+        "last_seen": "1997-09",
+        "roles": [
+          "wrestler"
+        ],
+        "role": "wrestler — World Champion",
+        "source": "ECWA's own founding post, 3 September 1997; corroborated by a third-party SPWA card (msg_id VuxfV4dLFWMJ, 20 Sep 1997, collected not served) staging him defeating SPWA's own World Champion, Submarine."
+      },
+      {
+        "promotion": "icw-spwa-1997",
+        "first_seen": "1997-11",
+        "last_seen": "1997-11",
+        "roles": [
+          "wrestler"
+        ],
+        "role": "wrestler — in-ring promo and a Steel Cage main event interference angle",
+        "source": "FJPW Saturday Night CHAOS #1, Parts I and IV (2 November 1997)."
+      }
+    ]
+  },
+  {
+    "id": "kevin-kage-ecwa",
+    "type": "character",
+    "name": "Kevin Kage",
+    "caption": "Billed as a former ECWA World Champion before moving on to become RCW's own head commissioner.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ecwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "user-attested",
+        "role": "wrestler — former World Champion, later RCW's head commissioner",
+        "source": "Third-party corroboration, collected not served: RCW Info Center (msg_id aS02iXjtrh8J, 21 Sep 1997), \"Kevin Kage you have probably heard of, Bad @$$, ECWA World Champ...Well he is now the head comish [of RCW].\" No date or sequence relative to Tommy Van Dam's own September 1997 reign is recoverable from the held record."
+      }
+    ]
+  },
+  {
+    "id": "madness-kaine-merson-ecwa",
+    "type": "character",
+    "name": "\"Madness\" Kaine Merson",
+    "caption": "Billed by a third-party card as a former ECWA World Heavyweight Champion, later a manager character in another fed's December 1997 storyline.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "ecwa",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "user-attested",
+        "role": "wrestler — former World Heavyweight Champion",
+        "source": "Third-party corroboration, collected not served: an MVW card (msg_id ten0KeLamHAJ, 14 Dec 1997) billing him as manager \"Madness Kaine Merson,\" introduced on commentary as \"that independant wrestling legend, KAINE! Former ECWA World Heavyweight Champion.\" No date or sequence relative to Tommy Van Dam's own September 1997 reign is recoverable from the held record."
+      }
+    ],
+    "notes": "Not merged with the watched phrase."
+  }
+]

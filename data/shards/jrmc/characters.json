@@ -1,0 +1,48 @@
+[
+ {
+  "id": "the-gambler-jrmc-rspwf",
+  "type": "character",
+  "name": "The Gambler",
+  "notes": "Known from one free-agent sample posted to rec.sport.pro-wrestling.fantasy on 19 September 1998, titled \"[Free Agent] Could he be coming to a fed near you?\", served at /promotions/rspwf/archive/free-agent-could-he-be-coming-to-a-fed-near-you-1998-09-19.html, in which his handler says he is thinking of bringing the character back after writing a roleplay for the JRMC. In an alley behind the Hoosier Dome a dishevelled, unshaven Gambler lights a cigarette with a Zippo, grumbles that he signed the contract drunk, reads a crumpled Memorial Card listing Verhoeven, Van Strife, Creed, Mathews and Joe Reed, burns it, and says he will use the tournament to build a new generation of wrestlers and federations. The handler's signature gives him as 27-2-3 and retired.",
+  "caption": "A dishevelled drunk-signed entrant in the Memorial Card tournament who burns the card and vows to build a new generation, in September 1998.",
+  "tenures": [
+   {
+    "promotion": "jrmc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-09-19",
+    "last_seen": "1998-09-19",
+    "source": "/promotions/rspwf/archive/free-agent-could-he-be-coming-to-a-fed-near-you-1998-09-19.html (the sample roleplay, written for the Jay Ralston Memorial Card)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-gambler",
+     "the-gambler-cswa",
+     "the-gambler-iwc-colbycup-1998",
+     "the-gambler-new-generation-attitude-2019",
+     "the-gambler-pcw",
+     "the-gambler-wsw-2004",
+     "the-gambler-wwa"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ }
+]

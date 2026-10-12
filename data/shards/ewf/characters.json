@@ -1,0 +1,779 @@
+[
+ {
+  "id": "baz-ewf",
+  "type": "character",
+  "name": "Baz",
+  "caption": "Chaired the Elite Wrestling Foundation from his own office — walking John Dumas to the ring, postponing a fight he couldn't stop, and overruling a disqualification by video feed to keep his own main event alive.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with baz-faw and baz-ngw; no evidence connects any of the three beyond the name. baz-ewf is EWF's own owner-turned-Chairman, never shown wrestling; baz-faw is a wrestler (FAW European and Hardcore Champion, 2001) on FAW, a fellow projectefed.com tenant active 2001–2002 before EWF's 2003 run — a real coincidence of hosting platform and name, not evidence of identity.",
+    "with": [
+     "baz-faw",
+     "baz-ngw"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003-03",
+    "role": "authority figure — Chairman of the Elite Wrestling Foundation",
+    "roles": [
+     "authority-figure"
+    ],
+    "entrance_music": {
+     "title": "Dive",
+     "artist": "Nirvana",
+     "verbatim": "\"Dive\" by Nirvana",
+     "corrected": "\"Dive\" by Nirvana"
+    },
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "j-ewf",
+  "type": "character",
+  "name": "J",
+  "caption": "Beat John Dumas to open the Elite Wrestling Foundation's first show, then won the vacant Tag Team Championship with Blood Man at WrestleFest.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with j-faw, a one-day September 2001 tenure on FAW, a fellow projectefed.com hosting-platform tenant. No document names both; distinct pending better evidence.",
+    "with": [
+     "j-faw"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003",
+    "role": "wrestler — EWF Tag Team Champion (with Blood Man)",
+    "roles": [
+     "wrestler"
+    ],
+    "weight": "278.5 lbs",
+    "height": "5'11\"",
+    "hometown": "places unknown",
+    "finisher": "J Splash",
+    "entrance_music": {
+     "title": "When Worlds Collide",
+     "artist": "Powerman 5000",
+     "verbatim": "\"When Worlds Collide\" by Powerman 5000",
+     "corrected": "\"When Worlds Collide\" by Powerman 5000"
+    },
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "john-dumas-ewf",
+  "type": "character",
+  "name": "John Dumas",
+  "caption": "Lost the Elite Wrestling Foundation's opening match, then spent the rest of its short run getting even — costing Blood Man and J the tag titles and blindsiding the new Universal Champion with his own Sudden Stop.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003-03",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Manchester, England",
+    "height": "6'8\"",
+    "weight": "265 lbs",
+    "finisher": "The Sudden Stop",
+    "entrance_music": {
+     "title": "Crushed Like Fruit",
+     "artist": "InMe",
+     "verbatim": "\"Crushed Like Fruit\" by InMe",
+     "corrected": "\"Crushed Like Fruit\" by InMe"
+    },
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "psyco-ewf",
+  "type": "character",
+  "name": "Psyco",
+  "caption": "Stole a pin from an exhausted Judge to win the Elite Wrestling Foundation's second pay-per-view match, after Twisted Angel had already worn them both down.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with psyco-ngw (NGW, 2000–2004); an ordinary stock-name coincidence, no evidence connects the two.",
+    "with": [
+     "psyco-ngw"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003-03",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Orlando, Florida",
+    "weight": "221 lbs",
+    "entrance_music": {
+     "title": "My Generation",
+     "artist": "Limp Bizkit",
+     "verbatim": "\"My generation\" by Limp Bizkit",
+     "corrected": "\"My Generation\" by Limp Bizkit"
+    },
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "twisted-angel-ewf",
+  "type": "character",
+  "name": "Twisted Angel",
+  "caption": "Won the Elite Wrestling Foundation's second tournament match over Psyco, then came within a missed moonsault of the belt itself at WrestleFest.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003-03",
+    "roles": [
+     "wrestler"
+    ],
+    "weight": "270 lbs",
+    "entrance_music": {
+     "title": "Coma",
+     "artist": "Guns 'n' Roses",
+     "verbatim": "\"Coma\" by Guns 'n' Roses",
+     "corrected": "\"Coma\" by Guns N' Roses"
+    },
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "turbulence-ewf",
+  "type": "character",
+  "name": "Turbulence",
+  "caption": "Won the Elite Wrestling Foundation's Universal Championship tournament outright — beating Darren Sin at Immortality, then busting Jay Krazy open on the announce table and finishing him with a chair and a bat to become the fed's first-ever champion.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003",
+    "role": "wrestler — EWF Universal Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "London, England",
+    "weight": "267 lbs",
+    "finisher": "The Crash",
+    "entrance_music": {
+     "title": "Spanish Main",
+     "artist": "The Coral",
+     "verbatim": "\"Spanish Main\" by The Coral",
+     "corrected": "\"Spanish Main\" by The Coral"
+    },
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "darren-sin-ewf",
+  "type": "character",
+  "name": "Darren \"Big 9\" Sin",
+  "aka": [
+   "Darren Sin",
+   "Big 9"
+  ],
+  "caption": "Lost the Elite Wrestling Foundation's Universal Championship tournament to Turbulence, then dropped the International Championship match to The Overweighter at WrestleFest without ever winning a belt.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003-03",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "The Bronx, New York",
+    "height": "6'0\"",
+    "weight": "232 lbs",
+    "entrance_music": {
+     "title": "Don't Push Me",
+     "artist": "50 Cent",
+     "verbatim": "\"Don't Push me\" by 50 cent",
+     "corrected": "\"Don't Push Me\" by 50 Cent"
+    },
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "jay-krazy-ewf",
+  "type": "character",
+  "name": "\"The Turnbuckle\" Jay Krazy",
+  "aka": [
+   "Jay Krazy",
+   "The Turnbuckle"
+  ],
+  "caption": "Ran in to save Baz's night at Immortality, brawled Blood Man into a police car for it, and lost the Elite Wrestling Foundation's Universal Championship final in a bat-and-chair beating Baz refused to stop by disqualification.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003-03",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "North Seattle",
+    "weight": "125 lbs",
+    "finisher": "Dive Bomb 360",
+    "entrance_music": {
+     "title": "Mosaic",
+     "artist": "InMe",
+     "verbatim": "\"Mosaic\" by InMe"
+    },
+    "note": "\"Come As You Are\" by Nirvana, not \"Mosaic,\" cues his surprise run-ins specifically — it plays for his unannounced interference at Immortality (9 March 2003) and again for his run-in on the new tag champions at WrestleFest.",
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "blood-man-ewf",
+  "type": "character",
+  "name": "Blood Man",
+  "aka": [
+   "Bloodman"
+  ],
+  "caption": "Won the Elite Wrestling Foundation's Tag Team Championship with J by eliminating John Dumas and Chaos, then got jumped celebrating it.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003",
+    "role": "wrestler — EWF Tag Team Champion (with J)",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "New York",
+    "weight": "225 lbs",
+    "height": "5'12\"",
+    "finisher": "Bleeding Blood",
+    "entrance_music": {
+     "title": "All the Things She Said",
+     "artist": "t.A.T.u.",
+     "verbatim": "\"all the things she said\" by tatu",
+     "corrected": "\"All the Things She Said\" by t.A.T.u."
+    },
+    "note": "The fed's own ring announcer bills his height as \"five foot twelve inches,\" verbatim.",
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "chaos-ewf",
+  "type": "character",
+  "name": "Chaos",
+  "caption": "Tagged with John Dumas for the Elite Wrestling Foundation's Tag Team Championship and was the second man eliminated, pinned by Blood Man's Bleeding Blood and J's own J Splash.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "\"Chaos\" is one of the hobby's most common stock ring names; shares a bare name with chaos (UWF), chaos-fob (FoB/PWE Inc.), chaos-giwf (GIWF), chaos-wicew (WICeW), chaos-wwa (WWA), and cwfpro-chaos (CWFPro). No evidence connects any of them to chaos-ewf beyond the name.",
+    "with": [
+     "chaos",
+     "chaos-fob",
+     "chaos-giwf",
+     "chaos-wicew",
+     "chaos-wwa",
+     "cwfpro-chaos"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03",
+    "last_seen": "2003-03",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Chicargo",
+    "height": "6'6\"",
+    "weight": "275 lbs",
+    "entrance_music": {
+     "title": "Enter Sandman",
+     "artist": "Metallica",
+     "verbatim": "\"Enter sandman\" by Metallica",
+     "corrected": "\"Enter Sandman\" by Metallica"
+    },
+    "note": "The fed's own ring announcer gives his hometown as \"Chicargo,\" verbatim.",
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "the-judge-ewf",
+  "type": "character",
+  "name": "The Judge",
+  "caption": "Never got up off the announce table long enough to win — Psyco stole the pin on him to close the Elite Wrestling Foundation's only three-way.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with the-judge-2001-wwa, the-judge-ewa, the-judge-giwf, and the-judge-wwa — a stock authority/wrestler gimmick name several unrelated feds landed on independently. No evidence connects any of them to the-judge-ewf beyond the name.",
+    "with": [
+     "the-judge-2001-wwa",
+     "the-judge-ewa",
+     "the-judge-giwf",
+     "the-judge-wwa"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03",
+    "last_seen": "2003-03",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Pittsburgh, Pennsylvania",
+    "weight": "299 lbs",
+    "entrance_music": {
+     "title": "You Know You're Right",
+     "artist": "Nirvana",
+     "verbatim": "'You Know You're Right' by Nirvana",
+     "corrected": "\"You Know You're Right\" by Nirvana"
+    },
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "the-overweighter-ewf",
+  "type": "character",
+  "name": "The Overweighter",
+  "caption": "Won the Elite Wrestling Foundation's International Championship from Darren Sin at WrestleFest with a Coke Slam and The Last Meal, five hundred and thirty-five pounds of offense the fed's own commentary never stopped marveling at.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with the-overweighter-faw (FAW, March 2002), another projectefed.com tenant fed. No document names both; distinct pending better evidence.",
+    "with": [
+     "the-overweighter-faw"
+    ]
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03",
+    "last_seen": "2003-03",
+    "role": "wrestler — EWF International Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Death Valley",
+    "height": "7'2\"",
+    "weight": "535 lbs",
+    "finisher": "The Last Meal",
+    "signature_moves": [
+     "Coke Slam"
+    ],
+    "entrance_music": {
+     "title": "American Lardass",
+     "artist": "Kid Rock",
+     "verbatim": "\"American Lardass\" By Kid Rock"
+    },
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "super-rob-ewf",
+  "type": "character",
+  "name": "Super Rob",
+  "caption": "Held the Elite Wrestling Foundation's International Championship by the fed's last capture, in April 2003 — how he took it from The Overweighter is not in the surviving record.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "role": "wrestler — EWF International Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Named only on the fed's own roster and champions pages, both captured 19 April 2003; he never appears in either surviving show script.",
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/roster-2003-04.html; promotions/ewf/archive/champions-2003-04.html"
+   }
+  ]
+ },
+ {
+  "id": "crash-hardy-ewf",
+  "type": "character",
+  "name": "Crash Hardy",
+  "caption": "Listed on the Elite Wrestling Foundation's own roster; nothing else the fed left names him.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with crash-hardy-naw (NAW, March–May 2003); an ordinary stock \"Hardy\"-family-pun coincidence, no evidence connects the two.",
+    "with": [
+     "crash-hardy-naw"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "role": "wrestler — listed on the fed's own roster; no other appearance survives",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/roster-2003-04.html"
+   }
+  ]
+ },
+ {
+  "id": "kracker-jack-ewf",
+  "type": "character",
+  "name": "Kracker Jack",
+  "caption": "Listed on the Elite Wrestling Foundation's own roster; nothing else the fed left names him.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "role": "wrestler — listed on the fed's own roster; no other appearance survives",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/roster-2003-04.html"
+   }
+  ]
+ },
+ {
+  "id": "ric-taylor-ewf",
+  "type": "character",
+  "name": "Ric Taylor",
+  "caption": "Called both of the Elite Wrestling Foundation's surviving shows alongside Jimmy, forever exasperated by his own broadcast partner.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003-03",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "jimmy-ewf",
+  "type": "character",
+  "name": "Jimmy",
+  "caption": "Ric Taylor's broadcast partner for the Elite Wrestling Foundation's whole surviving run, betting on matches and consistently picking losing sides.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003-03",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ },
+ {
+  "id": "mike-mercury-ewf",
+  "type": "character",
+  "name": "Mike Mercury",
+  "caption": "Rang the Elite Wrestling Foundation's own ring announcements across both of its surviving shows.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ewf",
+    "first_seen": "2003-03-09",
+    "last_seen": "2003-03",
+    "role": "ring announcer",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ewf/archive/immortality-2003-03-09.html; promotions/ewf/archive/wrestlefest-2003.html"
+   }
+  ]
+ }
+]

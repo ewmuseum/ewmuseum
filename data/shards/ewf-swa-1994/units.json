@@ -1,0 +1,72 @@
+[
+ {
+  "id": "asylum-ewf-swa-1994",
+  "type": "unit",
+  "name": "Asylum",
+  "unit_kind": "trio",
+  "members": [
+   "christopher-monroe-ewf-swa-1994",
+   "keith-haas-ewf-swa-1994",
+   "ed-mosely-ewf-swa-1994"
+  ],
+  "caption": "Managed by Dr. Daniel Shinn, held the EWF World Six-Man Tag Team Championship into the fed's last recovered broadcast before losing the belts to the debuting Beijing Beauties.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ewf-swa-1994",
+    "first_seen": "1996-03",
+    "last_seen": "1996-03",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ewf-swa-1994/archive/ewf-weekend-wetworks-1996-03.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (asylum-swa-seltor); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "asylum-swa-seltor"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "beijing-beauties-ewf-swa-1994",
+  "type": "unit",
+  "name": "Beijing Beauties",
+  "unit_kind": "trio",
+  "members": [
+   "ernie-chen-ewf-swa-1994",
+   "eddie-wong-ewf-swa-1994",
+   "richie-lee-ewf-swa-1994"
+  ],
+  "caption": "A trio managed by \"Gorgeous\" Gary Chung and styled identically to Ernie Chen, who debuted by winning the EWF World Six-Man Tag Team Championship from Asylum on the fed's last recovered broadcast.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ewf-swa-1994",
+    "first_seen": "1996-03",
+    "last_seen": "1996-03",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/ewf-swa-1994/archive/ewf-weekend-wetworks-1996-03.html"
+   }
+  ]
+ }
+]

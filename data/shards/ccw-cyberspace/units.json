@@ -1,0 +1,177 @@
+[
+ {
+  "id": "the-blood-brothers-ccw",
+  "type": "unit",
+  "name": "The Blood Brothers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Benny Blades",
+    "character_id": "benny-blades-ccw"
+   },
+   {
+    "name": "Neurosis",
+    "character_id": "neurosis-ccw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ccw-cyberspace",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team — CCW Tag Team Champions",
+    "grade": "primary-source",
+    "source": "Primetime Central's own member profile for the fed, served at /promotions/ptc/archive/ccw-profile-2002.html"
+   }
+  ],
+  "caption": "Benny Blades and Neurosis, the federation's own tag team champions in the spring of 2002, on a page where one of them was also billed the world champion.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-disciples-ccw",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Disciples",
+  "members": [
+   "jc-ccw-disciples",
+   "god-ccw-disciples"
+  ],
+  "tenures": [
+   {
+    "promotion": "ccw-cyberspace",
+    "first_seen": "1999-12-10",
+    "last_seen": "1999-12-10",
+    "source": "The promotion's own 'Friday Fury' results broadcast of 10 December 1999."
+   }
+  ],
+  "caption": "The promotion's own Tag Team Champions, who retained the titles against The Pogui Warriors on the 'Friday Fury' broadcast.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "the-pogui-warriors-ccw",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Pogui Warriors",
+  "members": [
+   "sylkk-ccw",
+   "pheonix-ccw"
+  ],
+  "tenures": [
+   {
+    "promotion": "ccw-cyberspace",
+    "first_seen": "1999-12-10",
+    "last_seen": "1999-12-10",
+    "source": "The promotion's own 'Friday Fury' results broadcast of 10 December 1999."
+   }
+  ],
+  "caption": "A tag team who mounted a losing challenge for the promotion's own Tag Team Championship against The Disciples on the 'Friday Fury' broadcast.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  }
+ },
+ {
+  "id": "project-inhumane-ccw",
+  "type": "unit",
+  "name": "Project Inhumane",
+  "tenures": [
+   {
+    "promotion": "ccw-cyberspace",
+    "first_seen": "2003-02",
+    "last_seen": "2003-02",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "alignment": "Face",
+    "entrance_music": {
+     "verbatim": "'Crown of Creation' - Jefferson Airplane"
+    },
+    "finisher": "In Their Hands (dual opponent) / Brought Down From Heaven (single opponent)",
+    "source": "its own tag-team card (roster/inhumane.txt in the site backup, public at www.theccw.net/cgi-bin/tagteam.cgi?name=inhumane) and the fed's own earlier roster page (cgi-bin/roster.html), which bills it on the tag team roster"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "g-o-d-pcw"
+   },
+   {
+    "character_id": "eve-ccw"
+   }
+  ],
+  "caption": "G.O.D. and E.V.E. as a tag team, finishing a double team by holding two opponents for E.V.E.'s kicks or dropping one from the turnbuckle.",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "misunderstood-ccw",
+  "type": "unit",
+  "name": "Misunderstood",
+  "tenures": [
+   {
+    "promotion": "ccw-cyberspace",
+    "first_seen": "2003-04-10",
+    "last_seen": "2003-04-17",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own Lockdown script of 10 April 2003, where Jack Manson names the team (\"as a team, we're MISUNDERSTOOD!!!\"), and its card of 17 April 2003 (/promotions/ccw-cyberspace/archive/lockdown-results-2003-04-10.html, /promotions/ccw-cyberspace/archive/lockdown-card-2003-04-17.html)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "adam-christ-ccw"
+   },
+   {
+    "character_id": "jack-manson-ccw"
+   }
+  ],
+  "caption": "Adam Christ and Jack Manson as a tag team, named on the night they turned the tag belts they held into the CCW Extreme Titles, defended under hardcore rules.",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

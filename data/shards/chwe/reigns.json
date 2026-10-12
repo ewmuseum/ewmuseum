@@ -1,0 +1,80 @@
+[
+ {
+  "id": "chwe-world-phantom",
+  "title": "chwe-world",
+  "label": "Phantom",
+  "holder": [
+   {
+    "id": "phantom-chwe"
+   }
+  ],
+  "how": "Defeated Rob Van Dam in the final match of the fed's own Ladder Tournament to become the new CHWE Heavyweight Champion.",
+  "won": {
+   "date": "1999-02-19",
+   "precision": "circa",
+   "source": "the file's own last-modified timestamp in the geocities-extracted capture (promotions/chwe/archive/ladder-tournament-match-5.html)"
+  },
+  "event": "chwe-ladder-tournament-match-5",
+  "conflict": {
+   "reading_a": "lmatch5.htm's own documented match: Phantom defeats Rob Van Dam to become CHWE Heavyweight Champion.",
+   "reading_b": "champs.htm's own later champions listing: \"The World Champ: The Rock\", undated, no documented title change from Phantom survives."
+  },
+  "note": "The reign row follows the documented match (reading_a); champs.htm's own conflicting claim is recorded, not resolved, per the sources-disagree rule.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "chwe-kotr-archangel",
+  "title": "chwe-kotr",
+  "label": "Archangel",
+  "holder": [
+   {
+    "id": "archangel-chwe"
+   }
+  ],
+  "how": "Defeated Viscera in the final of the fed's own King of the Ring Tournament.",
+  "won": {
+   "date": "1999-02-22",
+   "precision": "circa",
+   "source": "the file's own last-modified timestamp in the geocities-extracted capture (promotions/chwe/archive/king-of-the-ring.html)"
+  },
+  "event": "chwe-king-of-the-ring",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "chwe-gimmick-match-x-pac",
+  "title": "chwe-gimmick-match",
+  "label": "X-Pac",
+  "holder": [
+   {
+    "id": "x-pac-chwe"
+   }
+  ],
+  "how": "Held as of the fed's own champions page.",
+  "won": {
+   "date": "1999-03-02",
+   "precision": "circa",
+   "source": "the file's own last-modified timestamp in the geocities-extracted capture (promotions/chwe/archive/champs.html)"
+  },
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "chwe-world-tag-undertaker-viscera",
+  "title": "chwe-world-tag",
+  "label": "The Undertaker and Viscera",
+  "holder": [
+   {
+    "id": "the-undertaker-chwe"
+   },
+   {
+    "id": "viscera-chwe"
+   }
+  ],
+  "how": "Held as of the fed's own champions page.",
+  "won": {
+   "date": "1999-03-02",
+   "precision": "circa",
+   "source": "the file's own last-modified timestamp in the geocities-extracted capture (promotions/chwe/archive/champs.html)"
+  },
+  "end_how": "still-champion-at-record-end"
+ }
+]

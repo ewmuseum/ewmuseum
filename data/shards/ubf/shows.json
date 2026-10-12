@@ -1,0 +1,223 @@
+[
+  {
+    "id": "ubf-fridaynight-warfare-2000-08-18",
+    "type": "show",
+    "name": "UBF's Fridaynight Warfare",
+    "promotion": "ubf",
+    "page": "/promotions/ubf/archive/fridaynight-warfare-8-18-2000.html",
+    "collection": "0111",
+    "date": {
+      "date": "2000-08-18",
+      "precision": "exact",
+      "source": "The fed's own served results page header: \"Friday Night Warfare Results-Aug.18,2000.\""
+    },
+    "appearances": [
+      {
+        "who": "heywood-jablowme-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "mean-green-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "cris-crisis-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "iceman-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "carnage-ubf",
+        "kind": "angle"
+      },
+      {
+        "who": "eric-truth-ubf",
+        "kind": "angle"
+      },
+      {
+        "who": "eric-truth-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "kyle-kash-ubf",
+        "kind": "angle"
+      },
+      {
+        "who": "cameron-spayze-ubf",
+        "kind": "angle",
+        "capacity": "ring-announcer"
+      },
+      {
+        "who": "jett-pearson-ubf",
+        "kind": "angle"
+      },
+      {
+        "who": "monstamac-ubf",
+        "kind": "angle",
+        "capacity": "authority"
+      },
+      {
+        "who": "iron-warrior-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "d-strange-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "d-strange-ubf",
+        "kind": "angle"
+      },
+      {
+        "who": "chaos-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "stone-cold-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "donna-pearson-ubf",
+        "kind": "angle"
+      },
+      {
+        "who": "grand-puba-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "phrog-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "kurt-angle-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "inferno-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "billy-gunn-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "anarchist-ubf",
+        "kind": "match"
+      },
+      {
+        "who": "ty-rannt-ubf",
+        "kind": "angle"
+      }
+    ],
+    "notes": "An eight-match card joining warfare.html (the announced lineup) with warfareresults.html and warfareresults2.html (the posted results), per this project's own joined-pages convention. Two backstage angles run between matches: Ring Announcer Cameron Spayze and Jett Pearson (billed once in the same scene as \"Dick Meyers\") overhear President MonstaMac ordering roses, mistaken for a gift to her rather than to Mrs. Pearson; Donna Pearson and Spayze then fight backstage, ending with Spayze unconscious and bleeding until D-Strange interrupts her paramedics, insisting he knows CPR.",
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "heywood-jablowme-ubf"
+          ],
+          [
+            "mean-green-ubf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Heywood wins by chairshot, tying Mean Green's wrists and ankles to the ring post with barbed wire before delivering the \"Gag Order.\""
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "cris-crisis-ubf"
+          ],
+          [
+            "iceman-ubf"
+          ]
+        ],
+        "stipulation": "Isolation match",
+        "winner_side": 0,
+        "note": "Carnage is locked in a cage as part of the stipulation, per the announced lineup; the posted results also place Eric Truth in the cage, an inconsistency recorded as read, not resolved. Crisis wins by disqualification after Kyle Kash kicks over the ladder meant to free Carnage, sending Crisis to the floor."
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "eric-truth-ubf"
+          ],
+          [
+            "iron-warrior-ubf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Iron Warrior wins by pinfall."
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "d-strange-ubf"
+          ],
+          [
+            "chaos-ubf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Chaos wins by \"knock-out,\" placing D-Strange on a table outside the ring and delivering a diving headbutt from the top rope."
+      },
+      {
+        "order": 5,
+        "sides": [
+          [
+            "stone-cold-ubf"
+          ],
+          [
+            "eric-truth-ubf"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "Stone Cold wins by Stunner and pinfall."
+      },
+      {
+        "order": 6,
+        "sides": [
+          [
+            "phrog-ubf"
+          ],
+          [
+            "grand-puba-ubf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Grand Puba wins by pinfall."
+      },
+      {
+        "order": 7,
+        "sides": [
+          [
+            "kurt-angle-ubf"
+          ],
+          [
+            "inferno-ubf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Inferno wins by pinfall."
+      },
+      {
+        "order": 8,
+        "sides": [
+          [
+            "billy-gunn-ubf"
+          ],
+          [
+            "anarchist-ubf"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "Anarchist wins after Ty Rannt's interference and a spiral bomb through the announcers' table."
+      }
+    ]
+  }
+]

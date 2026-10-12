@@ -1,0 +1,270 @@
+[
+ {
+  "id": "bmw-world-r001",
+  "title": "bmw-world",
+  "label": "Risk",
+  "holder": [
+   {
+    "id": "risk-bmw"
+   }
+  ],
+  "won": {
+   "date": "2002-01-27",
+   "precision": "exact",
+   "source": "promotions/bmw/archive/trial-and-error-recap.html"
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "event": "bmw-trial-and-error-2002-01-27",
+  "how": "Beat Jeremiah Wilson in a steel-cage main event at Trial And Error; Axel Teflon kicked the cage door into Wilson's face as he tried to escape and claim the win, letting Risk climb out first.",
+  "note": "The corpus never shows how or when Billy Blaze regained the title from Risk — an honest gap between this reign and the next.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "bmw-world-r003",
+  "title": "bmw-world",
+  "label": "Tax",
+  "holder": [
+   {
+    "id": "tax-bmw"
+   }
+  ],
+  "won": {
+   "date": "2002-07-28",
+   "precision": "exact",
+   "source": "promotions/bmw/archive/columns.html"
+  },
+  "event": "bmw-money-power-respect-2-2002-07-28",
+  "how": "Pinned Risk with the Stock Market Crash in a triple threat also involving champion Billy Blaze at Money, Power, Respect II — Blaze was never pinned, but lost the title anyway.",
+  "end_how": "still-champion-at-record-end",
+  "note": "Still billed champion as of the held record's last dated reference (mid-August 2002, a triple-threat defense against 'Tank' Hank Gunyon and Reality whose result was never served)."
+ },
+ {
+  "id": "bmw-world-r002",
+  "title": "bmw-world",
+  "label": "Billy Blaze",
+  "holder": [
+   {
+    "id": "billy-blaze-bmw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Not shown in the held record; evidenced only by later references (Column \"FtTR v.1.2\", 20 Jun 2002, calls him \"current World Champion\" in an interview segment) and by the Money, Power, Respect II recap's own \"3 months of Billy Blaze dominating the title\" line."
+  },
+  "lost": {
+   "date": "2002-07-28",
+   "precision": "exact"
+  },
+  "how": "Champion entering a triple threat against Tax and Risk at Money, Power, Respect II; not the man pinned, but the title changed on the fall regardless.",
+  "note": "Won date and circumstance are an honest gap — the reign's existence is evidenced, its start is not.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "bmw-million-dollar-r003",
+  "title": "bmw-million-dollar",
+  "label": "Da Thug",
+  "holder": [
+   {
+    "id": "da-thug-bmw"
+   }
+  ],
+  "won": {
+   "date": "2002-07-28",
+   "precision": "exact",
+   "source": "promotions/bmw/archive/columns.html"
+  },
+  "event": "bmw-money-power-respect-2-2002-07-28",
+  "how": "Pinned a flaming ICE at Money, Power, Respect II after Kelly's interference.",
+  "end_how": "still-champion-at-record-end",
+  "note": "Still billed champion in a mid-August roleplay (\"I'm the Million Dollar Champion\")."
+ },
+ {
+  "id": "bmw-million-dollar-r001",
+  "title": "bmw-million-dollar",
+  "label": "Axel Teflon",
+  "holder": [
+   {
+    "id": "axel-teflon-bmw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Champion entering Trial And Error (27 Jan 2002); the win itself predates the held record."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Retained against Kid Krazie in Trial And Error's three-fall Asterdome match, ending Krazie's own career.",
+  "note": "Held corpus never shows the loss to ICE — an honest gap.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "bmw-million-dollar-r002",
+  "title": "bmw-million-dollar",
+  "label": "ICE",
+  "holder": [
+   {
+    "id": "ice-bmw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed \"Million Dollar Champion, ICE\" arriving at the arena ahead of Money, Power, Respect II (columns.html's own MPR Recap)."
+  },
+  "lost": {
+   "date": "2002-07-28",
+   "precision": "exact"
+  },
+  "how": "Lost to Da Thug at Money, Power, Respect II when ex-girlfriend Kelly set him ablaze mid-pinfall.",
+  "note": "Held corpus never shows the win from Axel Teflon — an honest gap.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "bmw-blood-money-r002",
+  "title": "bmw-blood-money",
+  "label": "Violent B",
+  "holder": [
+   {
+    "id": "violent-b-bmw"
+   }
+  ],
+  "won": {
+   "date": "2002-07-28",
+   "precision": "exact",
+   "source": "promotions/bmw/archive/columns.html"
+  },
+  "event": "bmw-money-power-respect-2-2002-07-28",
+  "how": "Named new champion by the fed's own recap out of a Krisis-and-Violent-B-vs.-Tank-and-J-Man tag match at Money, Power, Respect II — the recap's own blow-by-blow shows the match won by Tank and J-Man, with J-Man turning on his own partner, and never narrates Violent B taking a fall.",
+  "end_how": "still-champion-at-record-end",
+  "note": "A genuine contradiction in the primary source itself, preserved rather than resolved: the match's own declared winners and the title change do not line up in the fed's own text."
+ },
+ {
+  "id": "bmw-blood-money-r001",
+  "title": "bmw-blood-money",
+  "label": "Reaper",
+  "holder": [
+   {
+    "id": "reaper-bmw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Champion entering Trial And Error (27 Jan 2002); the win itself predates the held record."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Retained against Dr. Doyle Van Helsing at Trial And Error's own two-arena \"Welcome To Hell\" key hunt.",
+  "note": "Held corpus never shows the loss — an honest gap before the next recorded reign.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "bmw-cash-money-r002",
+  "title": "bmw-cash-money",
+  "label": "The Underlord",
+  "holder": [
+   {
+    "id": "the-underlord-bmw"
+   }
+  ],
+  "won": {
+   "date": "2002-01-27",
+   "precision": "exact",
+   "source": "promotions/bmw/archive/trial-and-error-recap.html"
+  },
+  "event": "bmw-trial-and-error-2002-01-27",
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "how": "Won the Cash Money Championship from Mark Espinosa at Trial And Error.",
+  "note": "A FallOut main event billed him (as 'Mafia Man' Mario Ghotti) against Reality with commentary raising the Cash Money Championship by name, but the match is never explicitly declared a title match and no change is announced after Reality's win — recorded as a non-title result, not a reign-ending one. The corpus never shows the actual loss to Paranoia.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "bmw-cash-money-r003",
+  "title": "bmw-cash-money",
+  "label": "Paranoia",
+  "holder": [
+   {
+    "id": "paranoia-bmw"
+   }
+  ],
+  "won": {
+   "date": "2002-07-28",
+   "precision": "exact",
+   "source": "promotions/bmw/archive/columns.html"
+  },
+  "event": "bmw-money-power-respect-2-2002-07-28",
+  "how": "Won a three-way over Anthony Balboa and Jon Mobootu at Money, Power, Respect II with the Careless Paranoia (reverse shooting star press).",
+  "end_how": "still-champion-at-record-end",
+  "note": "Still billed champion in a mid-August roleplay (Da Thug: \"Paranoia... prancin' his happy ass around Big Money Wrestling with the Cash Money Title\")."
+ },
+ {
+  "id": "bmw-cash-money-r001",
+  "title": "bmw-cash-money",
+  "label": "Mark Espinosa",
+  "holder": [
+   {
+    "id": "mark-espinosa-bmw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Champion entering Trial And Error (27 Jan 2002); the win itself predates the held record."
+  },
+  "lost": {
+   "date": "2002-01-27",
+   "precision": "exact"
+  },
+  "how": "Lost to The Underlord's top-rope chokeslam, \"The Sacrifice,\" at Trial And Error.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "bmw-cruiserweight-r001",
+  "title": "bmw-cruiserweight",
+  "label": "Chilly K",
+  "holder": [
+   {
+    "id": "chilly-k-bmw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed \"the first substantial Cruiserweight Champion\" ahead of a Trial And Error title defense; the win itself predates the held record."
+  },
+  "how": "Retained against The SensationalSal One at Trial And Error with the top-rope Frostbite.",
+  "end_how": "still-champion-at-record-end",
+  "note": "A later FallOut loss to Eiji Fujiwara was explicitly declared a non-title match; the belt is not shown changing hands anywhere in the held record."
+ },
+ {
+  "id": "bmw-tag-team-r001",
+  "title": "bmw-tag-team",
+  "label": "2GLS",
+  "holder": [
+   {
+    "id": "2gls-bmw"
+   }
+  ],
+  "won": {
+   "date": "2002-07-28",
+   "precision": "exact",
+   "source": "promotions/bmw/archive/columns.html"
+  },
+  "event": "bmw-money-power-respect-2-2002-07-28",
+  "how": "Reality and Jeremiah Wilson beat Kid Krazie and Scott Phillips (Big Money Legends) in an Inferno Tables match at Money, Power, Respect II, awarded the previously-vacated titles after sending Krazie through three burning tables.",
+  "end_how": "still-champion-at-record-end",
+  "note": "The vacancy that preceded this win is not evidenced elsewhere in the held record."
+ }
+]

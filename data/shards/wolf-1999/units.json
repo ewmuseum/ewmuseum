@@ -1,0 +1,42 @@
+[
+  {
+    "id": "birds-of-prey-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Birds of Prey",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "wolf-1999",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged WOLF in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #59 in the RSPWF Top 200 Tag Teams for 1998 (Falcon & Eagle), tagged WOLF.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "birds-of-prey-wwa"
+        ],
+        "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against birds-of-prey-wwa. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200 Tag Teams, which gives a team name, a federation tag, and (where named) its two members' ring names, and nothing else -- no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+      }
+    ],
+    "membership_unknown": true
+  }
+]

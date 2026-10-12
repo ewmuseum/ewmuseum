@@ -1,0 +1,42 @@
+[
+  {
+    "caption": "The Savage brothers' own tag team \u2014 its name survives on the site that documents them, the SST Rage Page, whose bio cards independently bill the pair a three-time Tag Team Champion and a three-time TV Tag Team Champion, neither reign dated or ordered against the current holders.",
+    "caption_asof": {
+      "author": "ai",
+      "evidence": {
+        "appearances": 0,
+        "awards": 0,
+        "reigns": 6,
+        "relationships": 0,
+        "rps": 0,
+        "tenures": 1
+      },
+      "written": "2026-08-31"
+    },
+    "id": "sst-iml",
+    "members": [
+      {
+        "character_id": "craig-savage-jr-iml",
+        "name": "Craig Savage Jr."
+      },
+      {
+        "character_id": "christopher-savage-iml",
+        "name": "Christopher Savage"
+      }
+    ],
+    "name": "SST",
+    "tenures": [
+      {
+        "finisher": "GhettoBlaster (Double Flying Leg Drop through a Table)",
+        "first_seen": "?",
+        "grade": "primary-source",
+        "last_seen": "?",
+        "promotion": "iml",
+        "role": "tag team",
+        "source": "the site's own bio-card page, served at /promotions/iml/archive/who-was-the-sst.html"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team"
+  }
+]

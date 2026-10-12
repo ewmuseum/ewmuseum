@@ -1,0 +1,70 @@
+[
+ {
+  "collection": "0089",
+  "id": "chwe-world",
+  "name": "CHWE Heavyweight Championship",
+  "promotion": "chwe",
+  "page": "/titles/chwe-world.html",
+  "epitaph": "Phantom won the CHWE Heavyweight Championship in the final match of the fed's own Ladder Tournament, defeating Rob Van Dam. The fed's own later champions page instead names The Rock as champion, undated and unreconciled against the documented match.",
+  "epitaph_asof": {
+   "author": "ai",
+   "evidence": {
+    "reigns": 1
+   },
+   "written": "2026-08-28"
+  },
+  "notes": "See data/reigns.json's own conflict object on this title's reign row.",
+  "type": "title"
+ },
+ {
+  "collection": "0089",
+  "id": "chwe-kotr",
+  "name": "CHWE King of the Ring Championship",
+  "promotion": "chwe",
+  "page": "/titles/chwe-kotr.html",
+  "epitaph": "Archangel won the fed's own King of the Ring Tournament, defeating Viscera in the final.",
+  "epitaph_asof": {
+   "author": "ai",
+   "evidence": {
+    "reigns": 1
+   },
+   "written": "2026-08-28"
+  },
+  "notes": "Dated exactly to the fed's own documented tournament final.",
+  "type": "title"
+ },
+ {
+  "collection": "0089",
+  "id": "chwe-gimmick-match",
+  "name": "CHWE Gimmick Match Championship",
+  "promotion": "chwe",
+  "page": "/titles/chwe-gimmick-match.html",
+  "epitaph": "X-Pac held the CHWE Gimmick Match Championship as of the fed's own champions page.",
+  "epitaph_asof": {
+   "author": "ai",
+   "evidence": {
+    "reigns": 1
+   },
+   "written": "2026-08-28"
+  },
+  "notes": "No dedicated ledger or documented match survives; sourced to the champions page alone.",
+  "type": "title"
+ },
+ {
+  "collection": "0089",
+  "id": "chwe-world-tag",
+  "name": "CHWE World Tag Team Championship",
+  "promotion": "chwe",
+  "page": "/titles/chwe-world-tag.html",
+  "epitaph": "The Undertaker and Viscera held the CHWE World Tag Team Championship as of the fed's own champions page.",
+  "epitaph_asof": {
+   "author": "ai",
+   "evidence": {
+    "reigns": 1
+   },
+   "written": "2026-08-28"
+  },
+  "notes": "No dedicated ledger or documented match survives; sourced to the champions page alone.",
+  "type": "title"
+ }
+]

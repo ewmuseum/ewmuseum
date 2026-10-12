@@ -1,0 +1,68 @@
+[
+ {
+  "id": "heavy-metal-friday-1999-01-09-scw-steel-city-1999",
+  "type": "show",
+  "name": "Heavy Metal Friday",
+  "promotion": "scw-steel-city-1999",
+  "date": {
+   "date": "1999-01-09",
+   "precision": "exact",
+   "source": "The broadcast's own posting, billed as \"the first EVER SCW event.\""
+  },
+  "page": "/promotions/scw-steel-city-1999/archive/heavy-metal-friday-1999-01-09.html",
+  "collection": "0148",
+  "venue": "Three Rivers Stadium, Pittsburgh, Pennsylvania",
+  "appearances": [
+   {"who": "zeppelin-scw-steel-city-1999", "kind": "match"},
+   {"who": "bubonia-scw-steel-city-1999", "kind": "match"},
+   {"who": "hardcase-scw-steel-city-1999", "kind": "angle"},
+   {"who": "brad-minor-scw-steel-city-1999", "kind": "angle"},
+   {"who": "bobby-baker-scw-steel-city-1999", "kind": "match"},
+   {"who": "shaun-mcwhirter-scw-steel-city-1999", "kind": "match"},
+   {"who": "nightshade-scw-steel-city-1999", "kind": "match"},
+   {"who": "tsunami-scw-steel-city-1999", "kind": "match"},
+   {"who": "belladonna-scw-steel-city-1999", "kind": "angle"},
+   {"who": "david-hunter-scw-steel-city-1999", "kind": "angle"},
+   {"who": "landslide-scw-steel-city-1999", "kind": "angle"},
+   {"who": "paul-powers-scw-steel-city-1999", "kind": "match"},
+   {"who": "steven-buck-scw-steel-city-1999", "kind": "match"},
+   {"who": "jonathon-steeleman-scw-steel-city-1999", "kind": "billed", "capacity": "authority", "source": "/promotions/scw-steel-city-1999/archive/heavy-metal-friday-1999-01-09.html"},
+   {"who": "chris-steeleman-scw-steel-city-1999", "kind": "billed", "capacity": "commentary", "source": "/promotions/scw-steel-city-1999/archive/heavy-metal-friday-1999-01-09.html"},
+   {"who": "mike-simmons-scw-steel-city-1999", "kind": "billed", "capacity": "commentary", "source": "/promotions/scw-steel-city-1999/archive/heavy-metal-friday-1999-01-09.html"},
+   {"who": "joe-golden-scw-steel-city-1999", "kind": "billed", "capacity": "ring-announcer", "source": "/promotions/scw-steel-city-1999/archive/heavy-metal-friday-1999-01-09.html"},
+   {"who": "mike-stern-scw-steel-city-1999", "kind": "billed", "capacity": "referee", "source": "/promotions/scw-steel-city-1999/archive/heavy-metal-friday-1999-01-09.html"}
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [["zeppelin-scw-steel-city-1999"], ["bubonia-scw-steel-city-1999"]],
+    "result": "no-contest",
+    "note": "A Pennsylvania State Title tournament first-round match; Bubonia failed to answer the bell, and a debuting attacker jumped Zeppelin and his cornerman Hardcase before a winner could be decided."
+   },
+   {
+    "order": 2,
+    "sides": [["bobby-baker-scw-steel-city-1999"], ["shaun-mcwhirter-scw-steel-city-1999"]],
+    "winner_side": 0,
+    "note": "A Pennsylvania State Title tournament first-round match; Baker won with a top-rope powerbomb."
+   },
+   {
+    "order": 3,
+    "sides": [["nightshade-scw-steel-city-1999"], ["tsunami-scw-steel-city-1999"]],
+    "winner_side": 0,
+    "note": "A Pennsylvania State Title tournament first-round match, won by Nightshade via submission after a five-man brawl broke out around the finish."
+   },
+   {
+    "order": 4,
+    "sides": [["paul-powers-scw-steel-city-1999"], ["steven-buck-scw-steel-city-1999"]],
+    "result": "draw",
+    "note": "A Pennsylvania State Title tournament first-round match, ruled a double countout after both men fell to the outside following a top-rope senton."
+   }
+  ],
+  "evidence": [
+   {
+    "source": "the promotion's own debut broadcast",
+    "note": "Four first-round Pennsylvania State Title tournament matches; the promotion's own president then cancelled the tournament on air, announced a first pay-per-view for 31 January 1999, and set a battle royal to crown a champion there. No further document from this run survives."
+   }
+  ]
+ }
+]

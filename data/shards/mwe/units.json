@@ -1,0 +1,350 @@
+[
+ {
+  "id": "blood-fuze-mwe",
+  "type": "unit",
+  "name": "Blood Fuze",
+  "members": [
+   {
+    "name": "Mr. Markowitz",
+    "character_id": "mr-markowitz-mwe"
+   },
+   {
+    "name": "Triple G",
+    "character_id": "triple-g-mwe"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwe",
+    "first_seen": "2009-03-09",
+    "last_seen": "2009-09-24",
+    "role": "tag team — a spring 2009 run at the MWE Tag Team Championship",
+    "note": "The dates span the earliest and the latest held MWE document that names this character; the fed's own record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Markowitz and Triple G spent the spring of 2009 chasing the MWE Tag Team Championship and telling each other, in their own roleplays, that losing to each other would not break the team.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 23,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jesters-mwe",
+  "type": "unit",
+  "name": "JESTers",
+  "aka": [
+   "JEST'ers"
+  ],
+  "members": [
+   {
+    "name": "James Whitman",
+    "character_id": "james-whitman-wce"
+   },
+   {
+    "name": "Eddie Sanchez",
+    "character_id": "eddie-sanchez-wce"
+   },
+   {
+    "name": "Scott Jones",
+    "character_id": "scott-jones-wce"
+   },
+   {
+    "name": "Thomas Williams",
+    "character_id": "thomas-williams-wce"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-09-13",
+    "last_seen": "2010-08-06",
+    "role": "a four-man WcE act that kept a standing guest presence on MWE's screens -- billed on camera as \"WcE's JEST'ers\" and as \"David's cousin's stable\" -- and took over an entire MWE broadcast segment at Crowning Glory 2009",
+    "source": "MWE's own served text throughout. Membership is spelled out twice: promotions/mwe/rp/a-crash-course-in-wrasslin.html (the fed's own board, s4.zetaboards.com/MWEntertainment, via the Wayback Machine) names \"the JEST'ers, James Whitman (David's cousin), best friends Eddie Sanchez and Scott Jones, and Thomas Williams (James' best friend)\", and promotions/mwe/rp/the-final-flight-of-a-wasted-mind.html expands the acronym itself -- \"the JESTers' (James Eddie Scott Thomas) company; JEST Kiddin' inc.\" Staged on MWE's own cards at promotions/mwe/archive/crowning-glory-2009-08-30.html (the four walk out to \"Welcome to the Jungle\", have Ryan Adams and David Ferrera ejected from the announce desk on the General Manager's say-so, and run the broadcast for the David Whitman vs. Alejandro Rodriguez retirement match themselves) and promotions/mwe/archive/crowning-glory-ii-2008-08-10.html (all four picked out by the arena camera in the Hall of Fame audience, two of them in a pre-taped titantron segment). Billed from the ring at promotions/mwe/archive/independence-day-2009-07-05.html as \"David's cousin's stable the JEST'ers\". Thirteen further served MWE roleplays name the unit.",
+    "note": "The dates span the earliest and the latest held MWE document that names the unit -- promotions/mwe/rp/pre-turmoil-turmoil.html and promotions/mwe/rp/elephant-in-the-room.html. They are a held-record span, not a stated formation or break-up; MWE's own record gives neither. The group is WcE's, and MWE's own text says so every time it bills them, but the unit is filed here because MWE's own documents are where it is staged -- WcE holds no document of its own."
+   },
+   {
+    "promotion": "wce",
+    "role": "a WcE stable -- billed on MWE's own screens as \"WcE's JEST'ers\" throughout, and named among WcE's own in the fed's own roster recital: \"In WcE, there would be no JESTers... there would be no WcE\" (an MWE character's own eulogy for the fed's late founder)",
+    "source": "MWE's own served text, which is the whole of the surviving record for this unit -- matching the wce tenure already carried by each of its four members. Billed \"WcE's JEST'ers\" at promotions/mwe/archive/crowning-glory-2009-08-30.html and \"David's cousin's stable the JEST'ers\" at promotions/mwe/archive/independence-day-2009-07-05.html; named among WcE's own in the roster recital of promotions/mwe/rp/going-home.html.",
+    "grade": "primary-source",
+    "note": "Matches the shape of all four of this unit's own members, each of whom already carries both an mwe and a wce tenure of their own."
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "Four WcE men with a bar-based web series and a merchandise line of their own, who talked MWE's General Manager into letting them throw out his announce team and call a retirement match themselves.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 13,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-jester-uga",
+     "jester-ngw",
+     "jimmy-the-jester-taylor",
+     "harley-quinn-lcw-1997"
+    ],
+    "note": "Four mint-guard substring hits, all silenced as coincidences rather than merged: the guard normalizes labels and drops a leading \"the\", so \"JESTers\" contains each of these single-performer \"Jester\" names. This is a four-man stable whose name is an acronym of its own members' first names (James, Eddie, Scott, Thomas), spelled out in MWE's own text; none of the four is a court-jester gimmick and no document anywhere names any of them alongside this unit. Different promotions, different eras, different entity type in every case. Recorded so the guard stops re-raising them."
+   }
+  ]
+ },
+ {
+  "id": "project-revolution-mwe",
+  "type": "unit",
+  "name": "Project Revolution",
+  "members": [
+   {
+    "name": "Jason Fear",
+    "character_id": "jason-fear-mwe"
+   },
+   {
+    "name": "American Animal",
+    "character_id": "american-animal-mwe"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-08-20",
+    "last_seen": "2009-12-04",
+    "role": "stable — two-time MWE Tag Team Champions, first at Turmoil in September 2008 and again in January 2009",
+    "note": "The dates span the earliest and the latest held MWE document that names this character; the fed's own record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "American Animal announced the stable in a roleplay and won the MWE Tag Team Championship with Jason Fear inside a month, then took the belts a second time the following January.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 12,
+    "rps": 46,
+    "awards": 2,
+    "relationships": 0
+   }
+  },
+  "fandom": "Project Revolution"
+ },
+ {
+  "id": "tex-mex-mwe",
+  "type": "unit",
+  "name": "Tex-Mex",
+  "members": [
+   {
+    "name": "Billy Joe Barker",
+    "character_id": "billy-joe-barker-mwe"
+   },
+   {
+    "name": "Alejandro Rodriguez",
+    "character_id": "alejandro-rodriguez-mwe"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-11-01",
+    "last_seen": "2009-04-27",
+    "role": "tag team — MWE Tag Team Champions from March 2009 until Highway to Hell that same month",
+    "note": "The dates span the earliest and the latest held MWE document that names this character; the fed's own record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "A Houston hick and a Mexico City luchador who took the MWE Tag Team Championship off Project Revolution on a March Monday Night Mayhem and lost it four weeks later.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 9,
+    "awards": 1,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-black-list-mafia-mwe",
+  "type": "unit",
+  "name": "Black List Mafia",
+  "members": [
+   {
+    "name": "Leon Roberts",
+    "character_id": "leon-roberts-mwe"
+   },
+   {
+    "name": "Vega Knight",
+    "character_id": "supernova-mwe"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-12-13",
+    "last_seen": "2010-08-06",
+    "role": "tag team — MWE Tag Team Champions from Highway to Hell, 29 March 2009",
+    "note": "The dates span the earliest and the latest held MWE document that names this character; the fed's own record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Leon Roberts and Vega Knight beat Tex-Mex for the MWE Tag Team Championship at Highway to Hell and were still being named on MWE cards a year later.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 18,
+    "awards": 1,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-bowens-mwe",
+  "type": "unit",
+  "name": "The Bowens",
+  "aka": [
+   "The Bowen Brothers"
+  ],
+  "members": [
+   {
+    "name": "Alex Bowen",
+    "character_id": "alex-bowen-mwe"
+   },
+   {
+    "name": "David Bowen",
+    "character_id": "david-bowen-mwe"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-08-06",
+    "last_seen": "2008-12-19",
+    "role": "tag team — in the six-team match at Turmoil that decided the MWE Tag Team Championship",
+    "note": "The dates span the earliest and the latest held MWE document that names this character; the fed's own record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "The Bowen brothers challenged MWE's whole tag division from the ring in August 2008 and were in the six-team match that crowned Project Revolution a month later.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 9,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-hollywood-hooligans-mwe",
+  "type": "unit",
+  "name": "Hollywood Hooligans",
+  "aka": [
+   "The Sharpe Brothers"
+  ],
+  "members": [
+   {
+    "name": "Devlin Sharpe",
+    "character_id": "devlin-sharpe-mwe"
+   },
+   {
+    "name": "Ryan Sharpe",
+    "character_id": "ryan-sharpe-mwe"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-08-22",
+    "last_seen": "2008-12-29",
+    "role": "tag team — MWE Tag Team Championship contenders through autumn 2008, losing the belts to Darius and Boyd that November",
+    "note": "The dates span the earliest and the latest held MWE document that names this character; the fed's own record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "The Sharpe brothers named themselves the Hollywood Hooligans in a roleplay where one of them called it a Mickey Mouse name, and carried it through MWE's first tag division.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 18,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-mayhem-mafia-mwe",
+  "type": "unit",
+  "name": "Mayhem Mafia",
+  "members": [
+   {
+    "name": "Sonny Williams",
+    "character_id": "sonny-williams-mwe"
+   },
+   {
+    "name": "David Whitman",
+    "character_id": "david-whitman-mwe"
+   },
+   {
+    "name": "Pala",
+    "character_id": "pala-mwe"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwe",
+    "first_seen": "2008-07-31",
+    "last_seen": "2009-07-19",
+    "role": "stable — the original MWE-era faction, recalled on screen throughout the relaunch",
+    "note": "The dates span the earliest and the latest held MWE document that names this character; the fed's own record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "stable",
+  "notes": "Membership is drawn from the relaunch-era documents that name stable-mates directly (the Crowning Glory II tribute segment, board topic 574107, naming Pala as a former stable-mate of David Whitman; the Tribulation 2009 induction segment, board topic 7631072, calling Sonny Williams one of the founders). No roster post for the stable itself survives in the held corpus.",
+  "caption": "The Mayhem Mafia belonged to MWE's first era and survived into its second entirely as a thing its own alumni threw at each other on camera.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 29,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

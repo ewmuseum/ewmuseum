@@ -1,0 +1,838 @@
+[
+ {
+  "id": "the-jammer-ncw",
+  "type": "character",
+  "name": "The Jammer",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-03-12",
+    "last_seen": "1997-11-25",
+    "role": "wrestler; also the fed's own in-fiction President of JammerWolf Productions and (Mar 1997) interim Commissioner",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served cards (promotions/ncw/archive/ncw-mayhem-1997-03-12.html, promotions/ncw/archive/ncw-mayhem-1997-03-18.html) and its own closure post",
+    "note": "One half of the tag team billed as the Destructive Duo (with Thomas N. Tyler) inside the Troublesome Trio stable. Kayfabe age given elsewhere in the held record as 22."
+   }
+  ],
+  "caption": "NCW's own founder-persona and in-fiction President of JammerWolf Productions, who wrestled his own promotion's cards as one half of the Destructive Duo.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 3,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "thomas-n-tyler-ncw",
+  "type": "character",
+  "name": "Thomas N. Tyler",
+  "aka": [
+   "TNT"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-03-12",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-mayhem-1997-03-12.html; promotions/ncw/archive/ncw-mayhem-1997-03-18.html; promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Debuted this run 12 March 1997 as one half of the Destructive Duo (with the Jammer) inside the Troublesome Trio stable; eliminated 'L-Train' LaShawn Marcus in the World Internet Championship Free-for-All."
+   }
+  ],
+  "caption": "The Jammer's tag partner in the Destructive Duo, whose signature Pain Explosion hold ended a run in the inaugural World Internet Championship Free-for-All.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The 'T.N.T.' initials collide with three held characters of that name; this is NCW's own Thomas N. Tyler persona, distinct on name and federation.",
+    "with": [
+     "tnt-cswa",
+     "tnt-rspwf",
+     "tnt-wwa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tony-the-tiger-nelson-ncw",
+  "type": "character",
+  "name": "Tony Nelson",
+  "aka": [
+   "Tony \"The Tiger\" Nelson"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-03-12",
+    "last_seen": "1997-03-12",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-mayhem-1997-03-12.html",
+    "note": "NCW debut, 12 March 1997, managed to ringside by 'Gentleman' Jimmy Clifford and 'Luscious' Linda Lyon; lost by disqualification when Lyon struck Tyler with a stiletto heel."
+   }
+  ],
+  "caption": "Made his NCW debut on the fed's own first surviving 1997 card, losing to Thomas N. Tyler by disqualification.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "mist-ncw",
+  "type": "character",
+  "name": "Mist",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-03-13",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-mayhem-1997-03-18.html; promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "One of three wrestlers managed by Mike Surimoko, teamed with the Golem (and, at Free-for-All's Chi-Town Rumble, Magma) against Bad Company and its allies."
+   }
+  ],
+  "caption": "One of Mike Surimoko's three charges, pinning the Destructive Duo alongside the Golem on the card that announced NCW's own four-title structure.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 4,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-golem-ncw",
+  "type": "character",
+  "name": "the Golem",
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-03-13",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-mayhem-1997-03-18.html; promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Billed from Okinawa; one of Mike Surimoko's three charges; entered the World Internet Championship Free-for-All."
+   }
+  ],
+  "caption": "A muscular Japanese wrestler managed by Mike Surimoko, who pinned the Destructive Duo and entered NCW's own inaugural World Internet Free-for-All.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "golem-rspwf",
+     "golem-wicew"
+    ],
+    "note": "Shares the bare ring name 'Golem' with an RSPWF Top-200 stub (no fed tag matching NCW) and an unrelated WICEW character. No shared roster, operator, or era evidence found; recorded distinct per the no-auto-merge default."
+   }
+  ]
+ },
+ {
+  "id": "marcus-magus-ncw",
+  "type": "character",
+  "name": "Marcus Magus",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-03-12",
+    "last_seen": "1997-06-09",
+    "role": "wrestler; also colour commentator and (Mar-9 Jun 1997) NCW Commissioner",
+    "roles": [
+     "wrestler",
+     "commentator",
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-mayhem-1997-03-12.html; promotions/ncw/archive/ncw-mayhem-1997-03-18.html; promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Self-installed as Commissioner in an on-air angle 12 March 1997; lost the office to Justice in the Free-for-All's own Commissioner's Match, 9 June 1997."
+   }
+  ],
+  "caption": "A colour commentator who wrote his own way into the Commissioner's office on the fed's first surviving card, and lost it in a match at the fed's own inaugural supercard.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jason-stone-ncw",
+  "type": "character",
+  "name": "Jason Stone",
+  "aka": [
+   "\"Hitman for Hire\" Jason Stone"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Ambushed by Tony Constanza before he could enter the ring in the World Internet Championship Free-for-All and counted out; his entry number was passed to the next entrant."
+   }
+  ],
+  "caption": "Entered the inaugural World Internet Free-for-All and never got the chance to wrestle in it, ambushed and counted out before he reached the ring.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "lashawn-marcus-ncw",
+  "type": "character",
+  "name": "LaShawn Marcus",
+  "aka": [
+   "\"L-Train\" LaShawn Marcus"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Member of the Street Level stable; eliminated by Thomas N. Tyler's Pain Explosion in the World Internet Championship Free-for-All."
+   }
+  ],
+  "caption": "A Street Level wrestler eliminated by Thomas N. Tyler's own signature hold in the fed's inaugural World Internet Free-for-All.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "freddie-massey-ncw",
+  "type": "character",
+  "name": "Freddie Massey",
+  "aka": [
+   "\"Flashy\" Freddie Massey"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "One half of Bad Company; entered (and was eliminated in) the World Internet Championship Free-for-All, then won the World Tag Team Championship Free-for-All with Dirk Venom."
+   }
+  ],
+  "caption": "One half of Bad Company, the tag team that won NCW's own inaugural World Tag Team Championship at Free-for-All.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "dirk-venom-ncw",
+  "type": "character",
+  "name": "Dirk Venom",
+  "aka": [
+   "\"Deadly\" Dirk Venom"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "One half of Bad Company; powerbombed Victor Frost to win the World Tag Team Championship Free-for-All."
+   }
+  ],
+  "caption": "One half of Bad Company, whose powerbomb on Victor Frost won NCW's own inaugural World Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "victor-frost-ncw",
+  "type": "character",
+  "name": "Victor Frost",
+  "aka": [
+   "\"Violent\" Victor Frost"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Won the World Internet Championship Free-for-All with a powerslam on Freddie Massey; teamed with Karl Kruger as the Sinister Squad in the World Tag Team Free-for-All, losing to Bad Company and handing the belts over himself in a sportsmanship angle."
+   }
+  ],
+  "caption": "NCW's first World Internet Champion, crowned at the fed's own inaugural supercard.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "violent-victor-frost-rspwf"
+    ],
+    "note": "Shares the ring name 'Violent Victor Frost' with an RSPWF Top-200 stub tagged UWF in 2003-2004, six-plus years later and a different federation tag entirely. No shared roster, operator, or era evidence; recorded distinct per the no-auto-merge default."
+   }
+  ]
+ },
+ {
+  "id": "karl-kruger-ncw",
+  "type": "character",
+  "name": "Karl Kruger",
+  "aka": [
+   "Karl \"the Krippler\" Kruger"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "One half of the Sinister Squad (with Victor Frost); lost the World Tag Team Championship Free-for-All to Bad Company."
+   }
+  ],
+  "caption": "One half of the Sinister Squad, who handed the World Tag Team belts to Bad Company himself after losing at Free-for-All.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "justice-ncw",
+  "type": "character",
+  "name": "Justice",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "role": "wrestler; also (from 9 Jun 1997) NCW Commissioner",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Won the Commissioner's Match against Marcus Magus at Free-for-All to become NCW's second Commissioner."
+   }
+  ],
+  "caption": "Won NCW's own Commissioner's office from Marcus Magus in a match at Free-for-All.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "justice-ewa-extreme",
+     "justice-wicew"
+    ],
+    "note": "Shares the bare ring name 'Justice' with unrelated EWA-Extreme and WICEW characters. No shared roster, operator, or era evidence found; recorded distinct per the no-auto-merge default."
+   }
+  ]
+ },
+ {
+  "id": "lupa-ncw",
+  "type": "character",
+  "name": "Lupa",
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Won the World Women's Championship Free-for-All with a top-rope splash on Monique Devereaux."
+   }
+  ],
+  "caption": "NCW's first World Women's Champion, crowned at the fed's own inaugural supercard.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 2,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "monique-devereaux-ncw",
+  "type": "character",
+  "name": "Monique Devereaux",
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Eliminated by Lupa's top-rope splash in the World Women's Championship Free-for-All."
+   }
+  ],
+  "caption": "Fell to Lupa's top-rope splash in the fed's own inaugural World Women's Free-for-All.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "ray-kinge-ncw",
+  "type": "character",
+  "name": "Ray Kinge",
+  "aka": [
+   "\"The King of Desire\" Ray Kinge",
+   "\"King of Desire\" Ray Kinge"
+  ],
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Won the World Heavyweight Championship Free-for-All with a crucifix powerbomb on the Trooper."
+   }
+  ],
+  "caption": "NCW's first World Heavyweight Champion, crowned at the fed's own inaugural supercard and ranked #105 in the 1997 RSPWF Top 200 under this fed's own tag.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 1
+   }
+  }
+ },
+ {
+  "id": "the-trooper-ncw",
+  "type": "character",
+  "name": "the Trooper",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-09",
+    "last_seen": "1997-06-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-free-for-all-1997-06-09.html",
+    "note": "Eliminated by Ray Kinge's crucifix powerbomb in the World Heavyweight Championship Free-for-All."
+   }
+  ],
+  "caption": "Fell to Ray Kinge's crucifix powerbomb in the fed's own inaugural World Heavyweight Free-for-All.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Same ring name as a held EWA character; no evidence read this pass of the same handler or continuity. (coordinator, 2026-09-04)",
+    "with": [
+     "the-trooper-ewa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "eve-ncw",
+  "type": "character",
+  "name": "Eve",
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-06-23",
+    "last_seen": "1997-10-03",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-mayhem-1997-06-23.html",
+    "note": "A returning veteran of the fed's own 1994-96 run, back \"a LOT more vicious\" for the 1997 relaunch per the broadcast team's own words; defeats the Golem with the Original Sin (back brain kick) on the European Tour's opening card, and by the fall is the reigning World Women's Champion, defending it against Lupa and Jana, Mistress of Spiders on cards this collection holds."
+   }
+  ],
+  "caption": "A returning veteran of the fed's own 1994-96 run, back for the 1997 relaunch and, by that autumn, its second World Women's Champion, a title she won on a card that does not survive and defended twice on cards that do.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Same ring name as the held eve-tpg record; minted here from NCW's own 1997 cards with no evidence read this pass of the same handler or continuity (coordinator, 2026-09-04).",
+    "with": [
+     "eve-tpg"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mya-special-ncw",
+  "type": "character",
+  "name": "Mya Special",
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-07-04",
+    "last_seen": "1997-07-04",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-mayhem-1997-07-04.html",
+    "note": "One half of the Specialists with Dan Special; challenges Lupa for the NCW World Women's Championship in Bonn, Germany, and loses to a top-rope splash."
+   }
+  ],
+  "caption": "One half of the Specialists tag team with Dan Special, and a challenger for the NCW World Women's Championship on the fed's own European Tour.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ },
+ {
+  "id": "lord-of-darkness-ncw",
+  "type": "character",
+  "name": "the Lord of Darkness",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-07-03",
+    "last_seen": "1997-10-03",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-mayhem-1997-07-03.html",
+    "note": "One half of the Deathstalkers with \"The Terminator\" Davin Varth, managed by the Devastator; introduced backstage in Homburg. By that September he holds the NCW World Internet Championship (won at a card this collection does not hold), retains it by disqualification against Dirk Venom on 26 September, then loses it to Izcleta on 3 October."
+   }
+  ],
+  "caption": "One half of the Deathstalkers stable with \"The Terminator\" Davin Varth; held the NCW World Internet Championship that fall, though the cards where he won and lost it do not fully survive.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "izcleta-ncw",
+  "type": "character",
+  "name": "Izcleta",
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "first_seen": "1997-10-03",
+    "last_seen": "1997-10-03",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/ncw/archive/ncw-mayhem-1997-10-03.html",
+    "note": "A member of Vatos Locos, managed by Tequila Morales; wins the NCW World Internet Championship from the Lord of Darkness by disqualification, with the aid of a recurring on-air run-in, on the last card in the held record."
+   }
+  ],
+  "caption": "A member of Vatos Locos who won the NCW World Internet Championship on the last surviving card before the promotion's November closure.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "big-daddy-vicelord-ncw",
+  "type": "character",
+  "name": "Big Daddy Vicelord",
+  "caption": "Co-named NCW Weekly Poll Best Match of the Week (1997), against Magma.",
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "The NCW Weekly Poll, citing the fed's own reader-poll series, 18 March-21 October 1997."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (big-daddy-vicelord-war-1995); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "big-daddy-vicelord-war-1995"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "magma-ncw",
+  "type": "character",
+  "name": "Magma",
+  "caption": "Co-named NCW Weekly Poll Best Match of the Week (1997), against Big Daddy Vicelord.",
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "The NCW Weekly Poll, citing the fed's own reader-poll series, 18 March-21 October 1997."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (magma-ecw-carnage-1999); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "magma-ecw-carnage-1999"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "glory-flagg-ncw",
+  "type": "character",
+  "name": "Glory Flagg",
+  "caption": "Named NCW Weekly Poll Best Wrestler (Female), week of 3 October 1997.",
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ncw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "The NCW Weekly Poll, week of 3 October 1997 -- the final edition of the series held here."
+   }
+  ]
+ }
+]

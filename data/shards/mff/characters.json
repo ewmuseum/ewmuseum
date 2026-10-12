@@ -1,0 +1,749 @@
+[
+  {
+    "id": "spawn-mff",
+    "type": "character",
+    "name": "Spawn",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — MFF World Champion; Hell's Army",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "Already the MFF Heavy Weight Champion entering Clash of the Champions '99, retained the title against Destroyer — saved from a Robo Destroyer chair shot by a Terrax spear — then won the MFF World Championship from Deathlok in the card's own special-referee main event.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 2,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "spawn-image",
+      "grade": "primary-source",
+      "note": "The fed's own roster is explicitly built from licensed Marvel, DC, and Image comics characters staged as wrestlers (promotions/mff/archive/about.html); this character is billed under the Image Comics character's own name and is staged as \"the LORD of HELL'S ARMY,\" consistent with the source character's own hellish-mercenary premise."
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "spawn-faw",
+          "spawn-nsw",
+          "spawn-rawf"
+        ],
+        "note": "Per the per-promotion portrayal doctrine and the canonical-portrayal clause, a portrayal of a canonical fictional character is always a per-fed row, never merged with another fed's own portrayal — this collision is the doctrine working as designed. The three named rows are each their own fed's own \"Spawn\"-named wrestler, none of them confirmed portrayals by their own existing identity notes (name reuse only, per those notes); this row is distinguished by direct primary-source evidence that its own fed's entire roster is built from licensed comics characters."
+      }
+    ]
+  },
+  {
+    "id": "weapon-x-mff",
+    "type": "character",
+    "name": "Weapon-X",
+    "aka": [
+      "Weapon X"
+    ],
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — MFF International Champion",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "Won the MFF International Championship from Black Bolt at Clash of the Champions '99, entering as a mystery special opponent.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "weapon-x-marvel",
+      "grade": "presumed",
+      "note": "The fed's own roster is explicitly built from licensed Marvel, DC, and Image comics characters staged as wrestlers (promotions/mff/archive/about.html); this character is billed under the codename \"Weapon-X,\" the Marvel Comics program/alias most associated with Wolverine's origin. The fed's own text never confirms an identity beyond the codename, so this is not asserted to specifically depict Wolverine."
+    }
+  },
+  {
+    "id": "blizzard-mff",
+    "type": "character",
+    "name": "Blizzard",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — MFF Light Weight Champion",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "note": "Assisted by a run-in from Cannonball, the challenger's own on-page ally.",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "Won the MFF Light Weight Championship from Night Crawler at Clash of the Champions '99, aided by a Cannonball run-in.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "blizzard-marvel",
+      "grade": "presumed",
+      "note": "The fed's own roster is explicitly built from licensed Marvel, DC, and Image comics characters staged as wrestlers (promotions/mff/archive/about.html); this character is billed under the Marvel Comics villain's own name."
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "blizzard-wicew",
+          "blizzard-xcwf"
+        ],
+        "note": "Per the per-promotion portrayal doctrine and the canonical-portrayal clause, a portrayal of a canonical fictional character is always a per-fed row, never merged with another fed's own portrayal. Neither named row is a confirmed portrayal of the Marvel villain by its own existing identity note (one reads it as a generic weather-gimmick name); this row is distinguished by direct primary-source evidence that its own fed's entire roster is built from licensed comics characters."
+      }
+    ]
+  },
+  {
+    "id": "deadpool-mff",
+    "type": "character",
+    "name": "Dead Pool",
+    "aka": [
+      "Deadpool"
+    ],
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — Red Bloods tag team (with Kane)",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1994-07-10",
+        "last_seen": "1999-09-30",
+        "note": "Debuted 10 July 1994 against Anthilus (no result recorded). The fed's own served bio card lists past reigns by count, undated: World (4), Tag Team as \"Red Bloods\" with Kane (7), International (1), Heavy Weight (1) — no specific reign dates survive, so none is structured as a reigns.json row. The same card names Spawn, the \"All Mighties,\" and GW Bridge as his own \"Toughest Opponent(s)\"; the \"All Mighties\" is not independently minted — a single bare mention, no other corpus hit, no resolvable roster.",
+        "source": "the fed's own served bio card (promotions/mff/archive/deadpool.html) and Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "A four-time former MFF World Champion whose own bio card counts seven Tag Team reigns as one half of the Red Bloods, lost at Clash of the Champions '99 to the debuting Unstoppables.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "deadpool-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own served bio card bills this character explicitly under the Marvel character's own real name (\"Wade Wilson\"), first appearance (\"New Mutants #98\"), and origin (\"Dead Pool - The Circle Chase #2\") — a direct, unambiguous portrayal, not a resemblance."
+    }
+  },
+  {
+    "id": "thor-mff",
+    "type": "character",
+    "name": "Thor",
+    "aka": [
+      "Mighty Thor"
+    ],
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "in-fiction owner of the MFF",
+        "roles": [
+          "authority-figure"
+        ],
+        "grade": "primary-source",
+        "source": "the fed's own served About page (promotions/mff/archive/about.html): \"the OWNER of the MFF is the Mighty Thor!\""
+      }
+    ],
+    "caption": "Billed as the in-fiction owner of the MFF, per the fed's own About page.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "thor-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own About page bills this figure explicitly under the Marvel character's own name and epithet, \"the Mighty Thor,\" as the promotion's in-fiction owner."
+    }
+  },
+  {
+    "id": "cable-mff",
+    "type": "character",
+    "name": "Cable",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "in-fiction president, MFF side B",
+        "roles": [
+          "authority-figure"
+        ],
+        "grade": "primary-source",
+        "source": "the fed's own served About page (promotions/mff/archive/about.html): \"Cable is the President for the B[side]\""
+      }
+    ],
+    "caption": "Billed as the in-fiction president of the MFF's own \"B\" side, per the fed's own About page.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "cable-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own About page bills this figure explicitly under the Marvel character's own name as one of the promotion's two in-fiction side presidents."
+    }
+  },
+  {
+    "id": "red-tornado-mff",
+    "type": "character",
+    "name": "Red Tornado",
+    "aka": [
+      "Red Tornato"
+    ],
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "in-fiction president, MFF side A",
+        "roles": [
+          "authority-figure"
+        ],
+        "grade": "primary-source",
+        "source": "the fed's own served About page (promotions/mff/archive/about.html): \"Red Tornato is for the A[side]\" (the page's own spelling)"
+      }
+    ],
+    "caption": "Billed as the in-fiction president of the MFF's own \"A\" side, per the fed's own About page.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "red-tornado-dc",
+      "grade": "primary-source",
+      "note": "The fed's own About page bills this figure explicitly under a spelling variant of the DC character's own name (\"Red Tornato\") as one of the promotion's two in-fiction side presidents."
+    }
+  },
+  {
+    "id": "black-bolt-mff",
+    "type": "character",
+    "name": "Black Bolt",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — former MFF International Champion",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "Lost the MFF International Championship to a mystery special opponent who turned out to be Weapon-X, at Clash of the Champions '99.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "black-bolt-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own roster is explicitly built from licensed Marvel, DC, and Image comics characters staged as wrestlers (promotions/mff/archive/about.html); this character is billed under the Inhumans king's own unambiguous name as the defending MFF International Champion."
+    }
+  },
+  {
+    "id": "night-crawler-mff",
+    "type": "character",
+    "name": "Night Crawler",
+    "aka": [
+      "Nightcrawler"
+    ],
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — former MFF Light Weight Champion",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "Lost the MFF Light Weight Championship to Blizzard at Clash of the Champions '99, aided by a Cannonball run-in against him.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "nightcrawler-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own broadcast bills this character explicitly as an \"X-MEN member\" under the X-Men character's own name (spelled as two words, \"Night Crawler,\" in the fed's own text)."
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "nightcrawler-icw-pweboard"
+        ],
+        "note": "Per the per-promotion portrayal doctrine and the canonical-portrayal clause, a portrayal of a canonical fictional character is always a per-fed row, never merged with another fed's own portrayal. The named row is only billed for an unheld-result show, with no confirmed portrayal evidence of its own; this row is distinguished by direct primary-source evidence (billed explicitly as an \"X-MEN member\")."
+      }
+    ]
+  },
+  {
+    "id": "cannonball-mff",
+    "type": "character",
+    "name": "Cannonball",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — Blizzard's own ringside ally",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "note": "Never a match entrant himself in the held record — ran in with a steel folding chair to help Blizzard win the MFF Light Weight Championship.",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "Ran in with a steel chair to help Blizzard win the MFF Light Weight Championship from Night Crawler at Clash of the Champions '99.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "cannonball-marvel",
+      "grade": "presumed",
+      "note": "The fed's own roster is explicitly built from licensed Marvel, DC, and Image comics characters staged as wrestlers (promotions/mff/archive/about.html); this character is billed under the X-Men member's own codename, but \"Cannonball\" is also an ordinary wrestling move/nickname, so the specific comics referent is not confirmed beyond the roster's own general sourcing."
+    }
+  },
+  {
+    "id": "destroyer-mff",
+    "type": "character",
+    "name": "Destroyer",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "note": "Assisted by a Robo Destroyer chair-shot interference that set up a near-fall on Spawn.",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "Challenged Midevil Spawn for the MFF Heavy Weight Championship at Clash of the Champions '99 — nearly won off a Robo Destroyer interference before Terrax speared him and Spawn retained.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "destroyer-pwf",
+          "destroyer-nwwa",
+          "destroyer-xcwf"
+        ],
+        "note": "A generic ring name shared with unrelated characters elsewhere in the registry; no corroborating link to this MFF Heavy Weight challenger."
+      }
+    ]
+  },
+  {
+    "id": "robo-destroyer-mff",
+    "type": "character",
+    "name": "Robo Destroyer",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — Destroyer's own ringside ally",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "note": "Never a match entrant himself in the held record — ran up behind Midevil Spawn and nailed him with a steel chair, then rolled him into the ring for Destroyer's own near-fall.",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "Ran in to attack Midevil Spawn with a steel chair, setting up Destroyer's own near-fall bid for the MFF Heavy Weight Championship at Clash of the Champions '99.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "terrax-mff",
+    "type": "character",
+    "name": "Terrax",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — Realm of Darkness",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "note": "Never a match entrant himself in the held record — speared and Tiger Bombed the interfering Destroyer, saving Midevil Spawn's Heavy Weight Championship defense.",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "A Realm of Darkness member who turned Midevil Spawn's Heavy Weight Championship defense his way, spearing and Tiger Bombing the interfering Destroyer at Clash of the Champions '99.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "terrax-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own roster is explicitly built from licensed Marvel, DC, and Image comics characters staged as wrestlers (promotions/mff/archive/about.html); this character is billed under the Marvel villain's own unambiguous name as a \"Realm of Darkness\" member."
+    }
+  },
+  {
+    "id": "dare-devil-mff",
+    "type": "character",
+    "name": "Dare Devil",
+    "aka": [
+      "Daredevil"
+    ],
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — Unstoppables tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "One half of the debuting Unstoppables, who defeated the Red Bloods (Dead Pool & Kane) at Clash of the Champions '99.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "daredevil-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own roster is explicitly built from licensed Marvel, DC, and Image comics characters staged as wrestlers (promotions/mff/archive/about.html); this character is billed under a two-word period spelling (\"Dare Devil\") of the Marvel character's own unambiguous name."
+    }
+  },
+  {
+    "id": "stryfe-mff",
+    "type": "character",
+    "name": "Stryfe",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — Unstoppables tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "The other half of the debuting Unstoppables, who defeated the Red Bloods (Dead Pool & Kane) at Clash of the Champions '99.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "stryfe-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own roster is explicitly built from licensed Marvel, DC, and Image comics characters staged as wrestlers (promotions/mff/archive/about.html); this character is billed under the X-Force villain's own unambiguous name."
+    }
+  },
+  {
+    "id": "kane-mff",
+    "type": "character",
+    "name": "Kane",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — Red Bloods tag team (with Dead Pool)",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "note": "Dead Pool's own bio card separately counts seven Red Bloods Tag Team reigns of his own, undated — no independent date for Kane's own broader tenure survives beyond this one dated appearance.",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "One half of the Red Bloods, who lost to the debuting Unstoppables (Dare Devil & Stryfe) at Clash of the Champions '99.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "kane-action-extreme-wrestling",
+          "kane-wcotw",
+          "kane-agw"
+        ],
+        "note": "Shares a bare ring name with the real professional wrestler Kane and with other feds' own \"Kane\" mints. The held MFF corpus stages no biographical detail beyond the bare name, and this fed's own roster is explicitly licensed Marvel/DC/Image comics characters rather than real wrestlers — no portrayal of any kind is asserted here (per the no-guessing discipline), and no evidence connects this row to any of the named collisions."
+      }
+    ]
+  },
+  {
+    "id": "deathlok-mff",
+    "type": "character",
+    "name": "Deathlok",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — former MFF World Champion",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html)"
+      }
+    ],
+    "caption": "Lost the MFF World Championship to Spawn in a special-referee match at Clash of the Champions '99 that ended with the referee, GW Bridge, attacked after the pin.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "deathlok-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own roster is explicitly built from licensed Marvel, DC, and Image comics characters staged as wrestlers (promotions/mff/archive/about.html); this character is billed under the Marvel cyborg's own unambiguous name as the defending MFF World Champion."
+    }
+  },
+  {
+    "id": "gw-bridge-mff",
+    "type": "character",
+    "name": "GW Bridge",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "special referee, MFF World Title match — also billed among Dead Pool's own \"Toughest Opponent(s)\"",
+        "roles": [
+          "referee",
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-09-30",
+        "last_seen": "1999-09-30",
+        "note": "Named as one of Dead Pool's own \"Toughest Opponent(s)\" on his bio card (promotions/mff/the wing's own served documents, alongside Spawn and the\"All Mighties\". No specific bout between them survives.",
+        "source": "the fed's own served Clash of the Champions '99 broadcast (promotions/mff/archive/clash-of-champions-99.html); the fed's own served bio card (promotions/mff/archive/deadpool.html)"
+      }
+    ],
+    "caption": "Served as special referee for Spawn's MFF World Championship win over Deathlok at Clash of the Champions '99, then was attacked with a chair and a Tomb Stone after the bell — also named among Dead Pool's own toughest opponents on his bio card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "gw-bridge-marvel",
+      "grade": "primary-source",
+      "note": "The fed's own broadcast bills this figure under the Marvel character G.W. Bridge's own unambiguous shorthand name as the World Title match's special referee."
+    }
+  },
+  {
+    "id": "anthilus-mff",
+    "type": "character",
+    "name": "Anthilus",
+    "tenures": [
+      {
+        "promotion": "mff",
+        "role": "wrestler — Dead Pool's own debut opponent",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1994-07-10",
+        "last_seen": "1994-07-10",
+        "note": "No result survives for this bout, and no other mention of this character survives anywhere else in the held record.",
+        "source": "the fed's own served bio card (promotions/mff/archive/deadpool.html): \"Started: July 10/1994 vs. Anthilus\""
+      }
+    ],
+    "caption": "Dead Pool's own debut opponent, 10 July 1994, per his bio card's own career-start line — no result or other detail survives.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "portrays": {
+      "figure": "annihilus-marvel",
+      "grade": "presumed",
+      "note": "The fed's own bio card spells this name \"Anthilus\"; read as a likely misspelling of the Marvel villain Annihilus, consistent with the same document's own repeated spelling errors elsewhere (\"Destoyer\" for Destroyer, \"expecially,\" \"hopfully\") and the fed's own explicit Marvel/DC/Image sourcing — presumed, not confirmed, since the source itself never resolves the ambiguity."
+    }
+  }
+]

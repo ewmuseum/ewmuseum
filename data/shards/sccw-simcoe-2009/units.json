@@ -1,0 +1,98 @@
+[
+ {
+  "id": "war-machine-sccw-simcoe-2009",
+  "type": "unit",
+  "name": "War Machine",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Chris Champion",
+    "character_id": "chris-champion-sccw-simcoe-2009"
+   },
+   {
+    "name": "The Machine",
+    "character_id": "the-machine-sccw-simcoe-2009"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "sccw-simcoe-2009",
+    "grade": "presumed",
+    "first_seen": "2009-08-10",
+    "last_seen": "2009-08-12",
+    "source": "Named as the All Barrie tag champions on 10 and 12 August 2009. The pairing of Chris Champion and The Machine is not stated on the held pages: it is read from their adjacent places in the 22 July heavyweight ten (fifth and sixth) and from the eWrestling Encyclopedia's All-Barrie Tag Team page (secondary), which lists Chris Champion & The Machine as champions from 3 August 2009."
+   }
+  ],
+  "caption": "The All Barrie tag champions of August 2009, who with Sydney LaRoux beat Modo WHOA!, Paul Cain and Riflewilly on 10 August and were set to meet BROS on 17 August.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "akeem-edwards-ewa-empire",
+     "warmachine-cyberslam",
+     "war-machine-awi",
+     "war-machine-cswa",
+     "war-machine-rspwf",
+     "hellions-cwo",
+     "uea-war-machine"
+    ],
+    "note": "The same team name stands on other wings' records. Nothing on this wing's pages ties this team to any of them, so the rows stay apart until a source says it is one team."
+   }
+  ]
+ },
+ {
+  "id": "bros-sccw-simcoe-2009",
+  "type": "unit",
+  "name": "BROS",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Dr. Ian",
+    "character_id": "doctor-ian-mcw-motor-city"
+   },
+   {
+    "name": "Greg Venom",
+    "character_id": "greg-venom-mcw-motor-city"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "sccw-simcoe-2009",
+    "grade": "primary-source",
+    "first_seen": "2009-08-12",
+    "last_seen": "2009-08-12",
+    "source": "The 12 August 2009 news: \"BROS (Dr. Ian & Greg Venom)\", announced against War Machine for 17 August."
+   },
+   {
+    "promotion": "mcw-motor-city",
+    "source": "Its champions page (captured 8 May 2008): BROS (Doctor Ian & Greg Venom), since Purgatory (25/02/08), defeating Kaplan James, Seth Cage, Luke Tanner & Chris Jacobs."
+   }
+  ],
+  "caption": "Doctor Ian and Greg Venom, the team the fed called as tough as nails, announced against War Machine for 17 August 2009.",
+  "caption_asof": {
+   "written": "2026-10-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

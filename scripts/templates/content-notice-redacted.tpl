@@ -1,0 +1,1 @@
+<div class="archival-notice"><span class="flag">Content notice</span>A period document, served as recovered{{LANGUAGE}}; withheld details are marked. It carries the humor, language, and content typical of its era and community &mdash; some of it crude, dated, or offensive, including material that wouldn&#x27;t be written today. See <a href="/curation.html">Curation</a>.</div>

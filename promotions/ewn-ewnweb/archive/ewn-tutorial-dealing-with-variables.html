@@ -1,0 +1,142 @@
+<!-- chrome:head:start -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EWN (eWrestling Network) &mdash; Dealing w/ Variables &mdash; E-WRESTLING MUSEUM</title>
+<script src="/js/theme.js?v=5"></script>
+<link rel="stylesheet" href="/style.css?v=22">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://ewmuseum.org/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="masthead">
+  <div class="inner">
+    <a class="wordmark" href="/"><svg class="ringmark-lg" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><use href="/ringmark.svg#ewm"/></svg><svg class="ringmark" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect class="m-apron" width="16" height="16" rx="2"/><rect class="m-rope" x="2.5" y="2.5" width="11" height="11"/><path class="m-pad" d="M0 0h4v4H0zM12 0h4v4h-4zM0 12h4v4H0zM12 12h4v4h-4z"/><rect class="m-core" x="6" y="6" width="4" height="4"/><rect class="m-edge" x=".5" y=".5" width="15" height="15" rx="1.5"/></svg><span class="wm-text">THE E-WRESTLING <span class="nw">MUSEUM<span class="dot">.</span></span></span></a>
+    <div class="tagline">a museum of fantasy wrestling, built one collection at a time</div>
+    <nav class="gallery">
+      <a class="here" href="/promotions.html" aria-current="true">Wings</a>
+      <a href="/characters.html">Characters</a>
+      <a href="/units.html">Units</a>
+      <a href="/relationships.html">Relationships</a>
+      <a href="/shows.html">Shows</a>
+      <a href="/matches.html">Matches</a>
+      <a href="/appearances.html">Appearances</a>
+      <a href="/rps.html">Roleplays</a>
+      <a href="/championships.html">Championships</a>
+      <a href="/reigns.html">Reigns</a>
+      <a href="/awards.html">Awards</a>
+      <a href="/bestowals.html">Bestowals</a>
+      <a href="/halloffame.html">Halls of Fame</a>
+      <a href="/in-memoriam.html">In Memoriam</a>
+      <a href="/essays.html">Essays</a>
+    </nav>
+  </div>
+  <span id="main-content" tabindex="-1"></span>
+</header>
+<!-- chrome:head:end -->
+
+<main class="wrap">
+  <p class="crumb"><a href="/">Museum</a> &nbsp;/&nbsp; <a href="/promotions.html">Wings</a> &nbsp;/&nbsp; <a href="/promotions/ewn-ewnweb/">EWN (eWrestling Network, 2004–2006)</a> &nbsp;/&nbsp; <a href="/promotions/ewn-ewnweb/holdings.html">Card Archive</a> &nbsp;/&nbsp; Dealing w/ Variables</p>
+
+  <span class="kicker">EWN (eWrestling Network) &mdash; Craft tutorial</span>
+  <div class="doc-head">
+    <h1>Dealing w/ Variables</h1>
+    <span class="doc-date">10 January 2005</span>
+  </div>
+
+  <div class="archival-notice"><span class="flag">Content notice</span>A period document, served unedited. It carries the humor, language, and content typical of its era and community &mdash; some of it crude, dated, or offensive, including material that wouldn&#x27;t be written today. See <a href="/curation.html">Curation</a>.</div>
+
+  <div class="document"><b><font face="tahoma" size="2" color="#EEEEEE">Dealing w/ Variables (An intricate part of PHP programming)
+
+    </font></b><font face="tahoma" size="2" color="#EEEEEE">One of the awesome things about coding in PHP is the ability to use variables through entire scripts. Variables can make things within your scripts incredibly easy; and can save you <strong>alot</strong> of time when it comes to naming things.<br>
+
+    This tutorial is mainly done within the actual code below; so just read the comments to understand what's going on. Below the code, I'll explain a little further on what's going on. <br>
+	<br><table width="100%" border="0" cellpadding="3" cellspacing="0"><tr><td bgcolor="#FFFFFF"><pre class="code">&lt;?PHP
+	// These are where we declare the variables.
+
+	// All variables MUST start out with the $ symbol.
+
+	// Variables also follow the same format of the &quot;echo&quot; function, with the &quot;;&quot; at the end of the line.
+	$name = &quot;Rick&quot;;
+	$age = &quot;18&quot;;
+	$haircolor = &quot;Brown&quot;;
+
+	// After we delcare the variables, now, we can use them!
+	echo &quot;Hello, my name is &quot;.$name.&quot; and I am &quot;.$age.&quot; with &quot;.$haircolor.&quot; hair!&quot;;
+
+	// You&#x27;ll notice that the variables in the sentence are separated like so: &quot;Hello, my name is &quot;.$name.&quot; and I am &quot;.$age.&quot; with &quot;.$haircolor.&quot; hair!&quot;
+
+	// We do this because if we were to do it like this: &quot;Hello, my name is $name and I am $age with $haircolor!&quot;, then the script wouldn&#x27;t read the variables, and it would literally print $name, $age and $hair color instead of what we stored inside the actual variable.
+?&gt;</pre></td></tr></table>
+	Using that code would give you:
+
+	Hello, my name is Ricky and I am 18 with brown hair!
+
+	You may still be wondering what the big deal about variables are.
+Well, say you wanted to refer to yourself more than one time throughout the entire script. Like so:<br>
+<br><table width="100%" border="0" cellpadding="3" cellspacing="0"><tr><td bgcolor="#FFFFFF"><pre class="code">&lt;?PHP
+	// These are where we declare the variables.
+
+	// All variables MUST start out with the $ symbol.
+
+	// Variables also follow the same format of the &quot;echo&quot; function, with the &quot;;&quot; at the end of the line.
+	$name = &quot;Rick&quot;;
+	$age = &quot;18&quot;;
+	$haircolor = &quot;Brown&quot;;
+
+	// After we delcare the variables, now, we can use them!
+	echo &quot;Hello, my name is &quot;.$name.&quot; and I am &quot;.$age.&quot; with &quot;.$haircolor.&quot; hair!&quot;;
+
+	// You&#x27;ll notice that the variables in the sentence are separated like so: &quot;Hello, my name is &quot;.$name.&quot; and I am &quot;.$age.&quot; with &quot;.$haircolor.&quot; hair!&quot;
+
+	// We do this because if we were to do it like this: &quot;Hello, my name is $name and I am $age with $haircolor!&quot;, then the script wouldn&#x27;t read the variables, and it would literally print $name, $age and $hair color instead of what we stored inside the actual variable.
+
+	// More code from the above text:
+	echo &quot;My first name is &quot;.$name.&quot;.&quot;;
+	echo &quot;My friends call me &quot;.$name.&quot;.&quot;;
+	echo &quot;You can call me &quot;.$name.&quot;.&quot;;
+	echo &quot;The name on my birth certificate is &quot;.$name.&quot;.&quot;;
+?&gt;</pre></td></tr></table>
+    </font>
+    <p><font face="tahoma" size="2" color="#EEEEEE">
+   Now, let's say I change my name to Bob. If I didn't have the $name variable and I just wrote out &quot;Rick&quot; every place I have the variable at now, then I would have to go back into the script and change every single instance of &quot;Rick&quot; to &quot;Bob&quot;.<br>
+
+   Using the variables, I can just change the one line at the top that reads:
+
+   $name = &quot;Ricky&quot;;
+
+   ...to:
+
+   $name = &quot;Bob&quot;;
+
+   When you're editing something simple like the code mentioned above, it wouldn't be too bad to by-pass the use of variables; but whenever you get to entire scripts that have many, many lines of code, then it becomes very time consuming edit every instance of the variable without actually using it.<br>
+
+   Hopefully you learned a little bit more about variables in PHP, and this can make alot of your programming much easier and quick.</font></p></div>
+
+<dl class="muted small provenance" data-doc-class="column">
+    <dt>Collection</dt><dd><a href="/collections/0170.html">Accession 0170</a></dd>
+    <dt>Source</dt><dd><a href="http://www.ewnweb.net/phptuts_variables.php">Recovered directly</a></dd>
+    <dt>Document date</dt><dd>10 January 2005</dd>
+    <dt>Redactions</dt><dd>carries no redactions</dd>
+    <dt>Served since</dt><dd>26 September 2026</dd>
+</dl>
+
+<!-- chrome:footer:start -->
+  <footer role="contentinfo">
+THE E-WRESTLING MUSEUM <span class="rule">/</span> EWN (eWrestling Network, 2004–2006) Card Archive <span class="rule">/</span>
+    <a href="/promotions/ewn-ewnweb/holdings.html">back to the archive</a>
+    <!-- footernav:start --><nav class="footnav" aria-label="Elsewhere"><a href="/search.html">Search</a> <span class="rule">/</span> <a href="https://forum.ewmuseum.org">The forum</a> <span class="rule">/</span> <a href="https://e-wrestling.org">e-wrestling.org</a></nav><!-- footernav:end -->
+  </footer>
+</main>
+</body>
+</html>
+<!-- chrome:footer:end -->

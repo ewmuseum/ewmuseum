@@ -1,0 +1,32 @@
+[
+  {
+    "id": "nyswf-sunday-night-heat-1999-10-24",
+    "type": "show",
+    "name": "Sunday Night Heat",
+    "promotion": "nyswf-1999",
+    "date": {"date": "1999-10-24", "precision": "exact"},
+    "page": "/promotions/nyswf-1999/archive/nyswf-sunday-night-heat-results-1999-10-24.html",
+    "collection": "0148",
+    "venue": "Ivor Wynne Stadium",
+    "city": "Hamilton, Ontario, Canada",
+    "matches": [
+      {
+        "order": 1,
+        "participants": ["the-quickening-nyswf-1999", "walking-riot-nyswf-1999", "shoat-nyswf-1999"],
+        "winner": "the-quickening-nyswf-1999",
+        "stipulation": "Triple Threat",
+        "eliminations": [
+          {"who": "shoat-nyswf-1999", "by": "the-quickening-nyswf-1999", "note": "pinned first"},
+          {"who": "walking-riot-nyswf-1999", "by": "the-quickening-nyswf-1999", "note": "pinned for the finish"}
+        ]
+      }
+    ],
+    "appearances": [
+      {"who": "the-quickening-nyswf-1999", "kind": "match"},
+      {"who": "walking-riot-nyswf-1999", "kind": "match"},
+      {"who": "shoat-nyswf-1999", "kind": "match"},
+      {"who": "president-collins-uswf-collins-1998", "kind": "angle"}
+    ],
+    "note": "The broadcast also carried a second, singles bout and two Lightweight Title tournament matches not resolved clearly enough in the text to structure, plus a backstage segment with the promotion's own on-screen president and a video angle advertising the promotion's next pay-per-view, Anarchy in Amsterdam."
+  }
+]

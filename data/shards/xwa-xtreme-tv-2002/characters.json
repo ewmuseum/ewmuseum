@@ -1,0 +1,65 @@
+[
+ {
+  "id": "boda-xwa-xtreme-tv-2002",
+  "type": "character",
+  "name": "Boda",
+  "aka": ["Chris \"Boda\" Sloboda", "The Ameri-Czech Bad Ass"],
+  "tenures": [
+   {
+    "promotion": "xwa-xtreme-tv-2002",
+    "roles": ["authority-figure", "wrestler"],
+    "first_seen": "2002-03",
+    "last_seen": "2002-05",
+    "grade": "primary-source",
+    "source": "XWA's own served news rows, self-narrated by the same author token (\"boda\") credited on every row naming him owner/president."
+   }
+  ],
+  "caption": "XWA's self-narrating owner-president, billed as a former PCW World Champion.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {"tenures": 1, "reigns": 0, "appearances": 0, "rps": 0, "awards": 0}
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": ["chris-allen-pcw"],
+    "note": "Both records bill \"Boda\" as a PCW World Champion: chris-allen-pcw as a two-time PCW World Champion, this row as a former one. The two records bill different full names for that same billing. An open question, not settled here. See the review queue."
+   }
+  ]
+ },
+ {
+  "id": "andrew-riven-xwa-xtreme-tv-2002",
+  "type": "character",
+  "name": "Andrew Riven",
+  "aka": ["Mr. Canada", "Pure Canadian", "The Canuck"],
+  "tenures": [
+   {
+    "promotion": "xwa-xtreme-tv-2002",
+    "roles": ["wrestler"],
+    "first_seen": "2002-05-12",
+    "last_seen": "2002-05-12",
+    "grade": "primary-source",
+    "source": "XWA's own served roster application (12 May 2002): hometown Toronto, Ontario; finisher the Canadian Crippler off a Riven Effect DDT setup.",
+    "hometown": "Toronto, Ontario, Canada",
+    "finisher": "Canadian Crippler (a Walls of Jericho variant off a Riven Effect DDT)",
+    "alignment": "heel"
+   }
+  ],
+  "caption": "A self-billed \"pure Canadian wrestler\" who applied to XWA's roster in May 2002, per the fed's own served application.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {"tenures": 1, "reigns": 0, "appearances": 0, "rps": 0, "awards": 0}
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [],
+    "note": "No other museum row carries this name; minted fresh."
+   }
+  ]
+ }
+]

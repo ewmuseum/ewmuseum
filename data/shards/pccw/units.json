@@ -1,0 +1,107 @@
+[
+ {
+  "id": "pain-and-suffering-pccw",
+  "type": "unit",
+  "name": "Pain & Suffering",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "sabre-pccw"
+   },
+   {
+    "character_id": "sledge-hammer-pccw"
+   }
+  ],
+  "caption": "A Danger Zone Alliance tag team who dethrone New Jack and John Kronus for the PCCW World Tag Team Championship at CaliQuake '97 and retain it at Jersey Jams.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "Billed as part of the wider Danger Zone Alliance stable, not separately minted this pass.",
+  "tenures": [
+   {
+    "promotion": "pccw"
+   }
+  ]
+ },
+ {
+  "id": "justice-pccw",
+  "type": "unit",
+  "name": "JUSTICE",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "character_id": "aerial-marauder-pccw"
+   },
+   {
+    "character_id": "law-pccw"
+   },
+   {
+    "character_id": "order-pccw"
+   },
+   {
+    "character_id": "the-machine-pccw"
+   }
+  ],
+  "caption": "A heel stable led by the Aerial Marauder whose 'Law & Order' pairing and the Machine hold the PCCW World Six-Man Tag Team Championship throughout the surviving record.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "justice-ewa-extreme",
+     "justice-rcw-royal",
+     "justice-wicew"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "pccw"
+   }
+  ]
+ },
+ {
+  "id": "fwo-pccw",
+  "type": "unit",
+  "name": "fWo (Face World Order)",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "character_id": "paul-dog-pccw"
+   }
+  ],
+  "caption": "An nWo-parody stable whose segments are framed as paid advertisements; its confirmed member Paul-Dog wins the PCCW World Television Championship from Ajax Shiva on 7 December 1997 with the Aerial Marauder's interference.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "An unnamed wider group appears at ringside to support Paul-Dog after his title win; only Paul-Dog is named on-air as a Face World Order member in the served corpus, so no other individual is minted to this unit.",
+  "tenures": [
+   {
+    "promotion": "pccw"
+   }
+  ]
+ }
+]

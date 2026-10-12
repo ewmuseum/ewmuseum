@@ -1,0 +1,896 @@
+[
+ {
+  "id": "ups-eiwf",
+  "type": "character",
+  "name": "UPS",
+  "caption": "A submission specialist who had already held all three EIWF titles at one time, and who won the TNM World Title Tournament EIWF hosted in December 1997.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-29",
+    "finisher": "The Letter Bomb",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "notes": "Billed as having lost the EIWF North American Title the night before the tournament's quarterfinals; the reign that preceded that loss is outside this collection's own holdings.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "blueline-basher-lund-eiwf",
+  "type": "character",
+  "name": "Blueline Basher Lund",
+  "caption": "A hard-hitting entrant who ran the TNM World Title Tournament bracket to the final before losing to UPS.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-29",
+    "finisher": "The Crosscheck",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-demolitionist-eiwf",
+  "type": "character",
+  "name": "The Demolitionist",
+  "caption": "A destructive entrant, managed by The Lovely Leah, who battered his way to the tournament's quarterfinals before being disqualified against Kevin Kirker.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-19",
+    "finisher": "The Doomsday Decapitator",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "ghost-eiwf",
+  "type": "character",
+  "name": "Ghost",
+  "caption": "An entrant managed by Snowy who upset the reigning EIWF champion's conqueror en route to the tournament's quarterfinals.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-19",
+    "finisher": "The Final Breath",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "ghost"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "firecracker-eiwf",
+  "type": "character",
+  "name": "Firecracker",
+  "caption": "The reigning EIWF Champion at the time of the tournament, upset in his own opening-round match by Greg Kam.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-13",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "notes": "Billed as EIWF Champion going into the tournament; the title itself was not on the line in this non-title match, and no separate EIWF Championship reign is dated closely enough in this collection's own holdings to register as its own reigns.json row.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "firecracker-newa-1992"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "greg-kam-eiwf",
+  "type": "character",
+  "name": "Greg Kam",
+  "caption": "An entrant managed by his own version of Sunny who upset EIWF Champion Firecracker before losing to Ghost in the second round.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-16",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hawaiian-crippler-eiwf",
+  "type": "character",
+  "name": "The Hawaiian Crippler",
+  "caption": "A visiting entrant who won his tournament opener before being battered out by The Demolitionist in the second round.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-16",
+    "finisher": "The Hawaiian Heart Punch",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "zanathar-eiwf",
+  "type": "character",
+  "name": "Zanathar",
+  "caption": "A visiting entrant, managed by Violet, eliminated in the tournament's opening round.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-07",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "deese-truxion-eiwf",
+  "type": "character",
+  "name": "Deese Truxion",
+  "caption": "A visiting entrant, managed by Violet, eliminated in the tournament's opening round.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-07",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "hartbraker-eiwf",
+  "type": "character",
+  "name": "Hartbraker",
+  "caption": "A former EIWF champion who won his tournament opener by disqualification before losing an upset to Kevin Kirker in the second round.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-16",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "notes": "Billed as a former EIWF champion; no dated reign survives in this collection's own holdings to register separately.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kevin-savage-eiwf",
+  "type": "character",
+  "name": "Kevin Savage",
+  "caption": "A former EIWF champion managed by Tara, disqualified in the tournament's opening round for a brass-knuckles shot.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-07",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "kevin-kirker-eiwf",
+  "type": "character",
+  "name": "Kevin Kirker",
+  "caption": "An entrant who won two brass-knuckles-assisted matches before being disqualified himself against The Demolitionist in the quarterfinals.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-19",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "arn-austin-eiwf",
+  "type": "character",
+  "name": "\"Double A\" Arn Austin",
+  "caption": "An entrant eliminated in the tournament's opening round by Kevin Kirker's brass knuckles.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-07",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "onslaught-eiwf",
+  "type": "character",
+  "name": "Onslaught",
+  "caption": "An entrant eliminated in the tournament's opening round by UPS.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-07",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "onslaught-giwf",
+     "onslaught-lcw-1997"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "michael-faulkenberg-eiwf",
+  "type": "character",
+  "name": "Michael Faulkenberg",
+  "caption": "A veteran managed by Sunny, billed as having made his name in the EIWF and GIWA, who advanced a round before losing to UPS in the second round.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-16",
+    "finisher": "Sweet Chin Music",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hells-knight-eiwf",
+  "type": "character",
+  "name": "Hell's Knight",
+  "caption": "An entrant eliminated in the tournament's opening round by Michael Faulkenberg.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-07",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "rhett-smith-eiwf",
+  "type": "character",
+  "name": "Rhett Smith",
+  "caption": "A tag-ranks regular who advanced two rounds, beating his own tag partner Top Dawg along the way, before losing to UPS in the quarterfinals.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-19",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-terminator-eiwf",
+  "type": "character",
+  "name": "The Terminator",
+  "caption": "An entrant counted out in the tournament's opening round against Rhett Smith.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-07",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "terminator-fwf-1992",
+     "the-terminator-wewf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "top-dawg-eiwf",
+  "type": "character",
+  "name": "Top Dawg",
+  "caption": "An entrant who won his tournament opener before losing to his own tag partner, Rhett Smith, in the second round.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-16",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "insane-brian-willerd-eiwf",
+  "type": "character",
+  "name": "Insane Brian Willerd",
+  "caption": "An entrant knocked unconscious in the tournament's opening round against Top Dawg.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-07",
+    "last_seen": "1997-12-07",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-1997-12-07.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "frapp-assassin-1-eiwf",
+  "type": "character",
+  "name": "Frapp Assassin #1",
+  "caption": "One of three ring-named Frappers entering the tournament, eliminated in the first round by Ghost.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-13",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "frapp-assassin-2-eiwf",
+  "type": "character",
+  "name": "Frapp Assassin #2",
+  "caption": "One of three ring-named Frappers entering the tournament, who advanced to the quarterfinals before losing to Ghost.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-19",
+    "finisher": "The Ripper",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "beastie-boy-eiwf",
+  "type": "character",
+  "name": "Beastie Boy",
+  "caption": "An entrant eliminated in the tournament's opening round by Frapp Assassin #2.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-13",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "the-ghetto-boy-eiwf",
+  "type": "character",
+  "name": "The Ghetto Boy",
+  "caption": "An entrant managed by Chris Furman who advanced a round before Furman's own interference cost him the second-round match.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-16",
+    "finisher": "The Ghetto Bomb",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "the-ghetto-boy-ewa-email"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "midnight-frapper-eiwf",
+  "type": "character",
+  "name": "The Midnight Frapper",
+  "caption": "The last of three ring-named Frappers entering the tournament, eliminated in the first round by The Ghetto Boy.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-13",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "bodybreaker-burnet-eiwf",
+  "type": "character",
+  "name": "Bodybreaker Burnet",
+  "caption": "An entrant who won his opener by disqualification before losing to Blueline Basher Lund in the second round.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-16",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "swap-meet-louie-eiwf",
+  "type": "character",
+  "name": "Swap Meet Louie",
+  "caption": "An entrant managed by Chris Furman, disqualified in the tournament's opening round.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-13",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "swap-meet-louie-ewa-email"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jordan-the-demolisher-eiwf",
+  "type": "character",
+  "name": "Jordan The Demolisher",
+  "caption": "An entrant submitted in the tournament's opening round by Blueline Basher Lund.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-13",
+    "last_seen": "1997-12-13",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round1-pt2-1997-12-13.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "jimmy-jazz-eiwf",
+  "type": "character",
+  "name": "\"The Jiggster\" Jimmy Jazz",
+  "caption": "A lawyer-threatened late addition to the tournament, eliminated in the quarterfinals by Blueline Basher Lund.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-19",
+    "last_seen": "1997-12-19",
+    "finisher": "The Jigger",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-quarterfinals-1997-12-19.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "darkside-tim-johns-eiwf",
+  "type": "character",
+  "name": "\"Darkside\" Tim Johns",
+  "caption": "A self-declared undefeated TNM World Champion who disputed the December 1997 tournament's legitimacy and formed the Revolutions Raiders the night of its final.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-16",
+    "last_seen": "1997-12-29",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-round2-1997-12-16.html"
+   }
+  ],
+  "notes": "A rival claimant, never resolved against the tournament's own eventual winner (UPS) within this collection's own holdings; his own prior title claim is gap-registered, not adjudicated.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "justin-donovan-eiwf",
+  "type": "character",
+  "name": "\"Big Daddy Cool\" Justin Donovan",
+  "caption": "Tim Johns' tag partner in the Revolutions Raiders, unveiled the night of the tournament final.",
+  "tenures": [
+   {
+    "promotion": "eiwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-29",
+    "last_seen": "1997-12-29",
+    "source": "promotions/eiwf-1997/archive/eiwf-tnm-final-1997-12-29.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ }
+]

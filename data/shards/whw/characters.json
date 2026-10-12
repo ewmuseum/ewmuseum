@@ -1,0 +1,109 @@
+[
+  {
+    "id": "iron-mike-austin-whw",
+    "type": "character",
+    "name": "\"Iron\" Mike Austin",
+    "caption": "Wins the WHW World Heavyweight Championship from Curt X in a steel-cage main event at February Massacre.",
+    "tenures": [
+      {
+        "promotion": "whw",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-03-03",
+        "last_seen": "1997-03-03",
+        "source": "/promotions/whw/archive/whw-february-massacre-1997-03-03.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "curt-x-whw",
+    "type": "character",
+    "name": "Curt X",
+    "caption": "Loses the WHW World Heavyweight Championship to \"Iron\" Mike Austin in the steel-cage main event of February Massacre.",
+    "tenures": [
+      {
+        "promotion": "whw",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-03-03",
+        "last_seen": "1997-03-03",
+        "source": "/promotions/whw/archive/whw-february-massacre-1997-03-03.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "wildchild-ryan-decker-whw",
+    "type": "character",
+    "name": "\"Wildchild\" Ryan Decker",
+    "caption": "Retains the WHW United States Championship over Pitbull in a ladder match at February Massacre, following an earlier title defense against Hellspawn.",
+    "tenures": [
+      {
+        "promotion": "whw",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-03-03",
+        "last_seen": "1997-03-03",
+        "source": "/promotions/whw/archive/whw-february-massacre-1997-03-03.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "pitbull-whw",
+    "type": "character",
+    "name": "Pitbull",
+    "caption": "Challenges \"Wildchild\" Ryan Decker for the United States Championship in a ladder match at February Massacre and comes up short.",
+    "tenures": [
+      {
+        "promotion": "whw",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-03-03",
+        "last_seen": "1997-03-03",
+        "source": "/promotions/whw/archive/whw-february-massacre-1997-03-03.html"
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Shares a bare name only with pitbull-wwa and silas-parish-pwf's own aka (both different, unrelated feds; \"Pitbull\" is also a common real-world tag-team gimmick name independently reused across the hobby); no moniker or roster match.",
+        "with": [
+          "pitbull-wwa",
+          "silas-parish-pwf"
+        ]
+      }
+    ]
+  }
+]

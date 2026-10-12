@@ -1,0 +1,13 @@
+{
+  "name": "ewmuseum-bot",
+  "private": true,
+  "type": "module",
+  "description": "THE E-WRESTLING MUSEUM community bot — registry lookups, per-promotion threads, consented intake pointer. Runs beside a museum checkout; see index.mjs header.",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0"
+  },
+  "license": "SEE LICENSE IN ../LICENSE.md"
+}

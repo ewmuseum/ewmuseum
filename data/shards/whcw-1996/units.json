@@ -1,0 +1,256 @@
+[
+  {
+    "id": "sociopaths-whcw-1996",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Sociopaths",
+    "caption": "The reigning WHCW North American Tag Team Champions, beaten down backstage before losing the titles to the returning Ultranationalists.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "kc-loose-cannon-whcw-1996",
+      "kommon-sense-whcw-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "whcw-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1998-01-25",
+        "last_seen": "1998-01-25",
+        "source": "the promotion's own Rumble in the Bronx 2 broadcast"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A common tag-team name already used by two other wings' own units; nothing links this record to either beyond the name.",
+        "with": [
+          "the-sociopaths-agw",
+          "the-sociopaths-newf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ultranationalists-whcw-1996",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Ultranationalists",
+    "caption": "Returned in disguise as “Los Diablos Extranjeros” to win the WHCW North American Tag Team Championship from the Sociopaths.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "manic-xenophobe-whcw-1996",
+      "ethnocentrist-whcw-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "whcw-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1998-01-25",
+        "last_seen": "1998-01-25",
+        "source": "the promotion's own Rumble in the Bronx 2 broadcast"
+      }
+    ],
+    "notes": "Previously lost a four-team elimination match for the titles against the Sociopaths, the Studs, and the team of Speed Racer and Super Dragon, per the promotion's own commentary."
+  },
+  {
+    "id": "shock-therapy-whcw-1996",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Shock Therapy",
+    "caption": "Faced the Thespian Express in an Anything Goes match that was thrown out after officials stormed the ring.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "dr-hertz-whcw-1996",
+      "316-whcw-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "whcw-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1998-01-25",
+        "last_seen": "1998-01-25",
+        "source": "the promotion's own Rumble in the Bronx 2 broadcast"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A common tag-team name already used by another wing's own unit; nothing links this record to it beyond the name.",
+        "with": [
+          "euwc-shock-therapy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thespian-express-whcw-1996",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Thespian Express",
+    "caption": "Former world tag team champions who dominated Shock Therapy in an Anything Goes match that ended with no decision.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "comedy-whcw-1996",
+      "tragedy-whcw-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "whcw-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1998-01-25",
+        "last_seen": "1998-01-25",
+        "source": "the promotion's own Rumble in the Bronx 2 broadcast"
+      }
+    ]
+  },
+  {
+    "id": "strike-force-whcw-1996",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Strike Force",
+    "caption": "Colossus's stable, ambushed by “the FOUR” in an unsanctioned construction-site brawl that ended with two of its own members turning on the rest.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "colossus-rspwf",
+      "renegade-rspwf",
+      "apocalypse-whcw-1996",
+      "death-strike-whcw-1996",
+      "slaughter-whcw-1996",
+      "spinwheel-whcw-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "whcw-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1998-01-25",
+        "last_seen": "1998-01-25",
+        "source": "the promotion's own Rumble in the Bronx 2 broadcast"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A common stable name already used by two other wings' own units; nothing links this record to either beyond the name.",
+        "with": [
+          "strike-force-cwo",
+          "strike-force-xwf-uwow"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-four-whcw-1996",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The FOUR",
+    "caption": "Doomsday's stable, brought into the WHCW for an unsanctioned four-on-four construction-site brawl against Strike Force.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "doomsday-rspwf",
+      "bane-whcw-1996",
+      "shack-the-wrecker-whcw-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "whcw-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1998-01-25",
+        "last_seen": "1998-01-25",
+        "source": "the promotion's own Rumble in the Bronx 2 broadcast"
+      }
+    ],
+    "notes": "A fourth member was teased on the promotion's own broadcast graphics but never named in this record."
+  },
+  {
+    "id": "lords-of-the-ring-whcw-1996",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Lords of the Ring",
+    "caption": "A faction built around Adonis Mercury and Thunderstorm, drawing crowds and controversy amid a promotion-wide contract dispute.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1
+      }
+    },
+    "members": [
+      "adonis-mercury-whcw-1996",
+      "thunderstorm-whcw-1996"
+    ],
+    "tenures": [
+      {
+        "promotion": "whcw-1996",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1998-01-25",
+        "last_seen": "1998-01-25",
+        "source": "the promotion's own Rumble in the Bronx 2 broadcast"
+      }
+    ],
+    "notes": "Adonis Mercury's own interview names Doomsday and Bane alongside himself in one answer, but the promotion's own broadcast graphics list Doomsday and Bane with a separate faction (“the FOUR”); the wider membership of the Lords is not resolved in this record.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A common stable name already used by two other wings' own units; nothing links this record to either beyond the name.",
+        "with": [
+          "lords-of-the-ring-npwa",
+          "lords-of-the-ring-cswa"
+        ]
+      }
+    ]
+  }
+]

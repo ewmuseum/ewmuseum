@@ -1,0 +1,59 @@
+[
+ {
+  "id": "owo-world-heavyweight-r002",
+  "title": "owo-world-heavyweight",
+  "label": "Meanstreak",
+  "holder": [
+   {
+    "id": "meanstreak-owo"
+   }
+  ],
+  "won": {
+   "date": "1997-12-26",
+   "precision": "exact",
+   "source": "OWO Sunday Night Six-Pack (28 Dec 1997 posting, recapping a 26 Dec 1997 taping): First Blood match win over the Crow."
+  },
+  "how": "Won from the Crow in a First Blood match.",
+  "event": "owo-sunday-night-six-pack-1997-12-28",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "owo-world-heavyweight-r001",
+  "title": "owo-world-heavyweight",
+  "label": "The Crow",
+  "holder": [
+   {
+    "id": "the-crow-owo"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Held entering the 26 Dec 1997 First Blood match, per that card's own recap."
+  },
+  "lost": {
+   "date": "1997-12-26",
+   "precision": "exact"
+  },
+  "how": "Lost to Meanstreak in a First Blood match.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "owo-xtreme-heavyweight-r001",
+  "title": "owo-xtreme-heavyweight",
+  "label": "Raven",
+  "holder": [
+   {
+    "id": "raven-owo"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Held across both surviving OWO shows; the corpus does not attest a title-winning match."
+  },
+  "how": "Retained against Terminator by countout (title does not change on a countout, per the broadcast's own rule) at Tuesday Night Titans, 30 Dec 1997.",
+  "event": "owo-tuesday-night-titans-1997-12-30",
+  "end_how": "still-champion-at-record-end"
+ }
+]

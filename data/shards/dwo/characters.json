@@ -1,0 +1,5194 @@
+[
+ {
+  "id": "acaldema",
+  "type": "character",
+  "name": "Acaldema",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-09-to-10.html",
+    "note": "One of the four men at Kaiowas' own fire in the fed's post-UnStAbLe segment, told that a super power had formed against them."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One of the four men at Kaiowas' fire when the New Breed were told a super power had formed at UnStAbLe.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "adam-stryker-dwo",
+  "type": "character",
+  "name": "Adam Stryker",
+  "aka": [
+   "Adam Lukas Dyas"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name exactly with LOW's own adam-stryker-low and NAPW's own adam-stryker-napw. No receipt connects them; the DWO card gives its own full origin (born Adam Lukas Dyas, the MEWO, the EHWF, the AWR). Filed distinct at mint per the collision doctrine, open to a merge on evidence.",
+    "with": []
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Other Feds reads 'DWO, PCW, LOW, Global' and Other Fed Awards 'DWO World and Tag Team Champion, PCW Extreme Champion, LOW Realm and World Champion and 2004 King of the Death Match tournament Winner...'; this record's DWO record for the same name carries the same invented finisher verbatim ('The Restraining Order') and the same hometown to a typo ('Los Angles, CA' / 'Los Angelos, CA')."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "COLLISION: a separately-registered Adam Stryker holds an NAPW tenure. LOW's own bio card for this Adam Stryker names his other federations as DWO, AWR and PCW and does not name NAPW; filed distinct at mint, per the collision doctrine's no-merge default.",
+    "with": [
+     "adam-stryker-napw"
+    ]
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Wrestling's biography card (accession 0159), bio 10315, is this record: Global's own text names three of the held record's four federations for this man: booking 2147 para 513, 'Adam Stryker, the first-ever winner of LOW's King of the Death Match'; booking 2150 para 97, 'Without the crazy matches he had in the AWR and the DWO, he never would have made it to the PCW'; booking 2138 para 147, Stryker: 'try doing it in the DWO or LOW'. The held row carries DWO (Heavyweight Champion), LOW (2004-2005) and PCW (2003) tenures. Credited on 25 bookings, 2006-10-04..2007-08-31."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Heavyweight Champion; Circle of Rage",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/adam-stryker-bio-card.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html and /promotions/dwo/archive/dwo-news-2002-09-to-10.html",
+    "height": "6'5\"",
+    "weight": "269",
+    "hometown": "Los Angelos, CA",
+    "alignment": "Heel, Heel",
+    "finisher": "The Restraining Order",
+    "entrance_music": {
+     "title": "When Worlds Collide",
+     "artist": "PM5k",
+     "verbatim": "When Worlds Collide by PM5k"
+    }
+   },
+   {
+    "promotion": "sccw-2005",
+    "first_seen": "2008-05-25",
+    "last_seen": "2008-05-25",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Los Angles, CA",
+    "height": "6-2",
+    "weight": "238",
+    "entrance_music": {
+     "verbatim": "'Believe' by the Bravery",
+     "title": "Believe",
+     "artist": "the Bravery"
+    },
+    "grade": "primary-source",
+    "source": "SCCW's own backstage database (lot 0159) — its own biography card and the federation's own appearance record: 0 match and 1 segment appearances",
+    "note": "Its own record here also carries: 1 roleplay of its own under this card."
+   },
+   {
+    "promotion": "low",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Los Angeles, CA",
+    "height": "6-7",
+    "weight": "278",
+    "style": "Hardcore, Technical/Submission, Ruthless Aggresion when it comes to power moves",
+    "finisher": "the Restraining Order (Crippler Crossface)",
+    "alignment": "Heel",
+    "entrance_music": {
+     "verbatim": "'Raw Power' by Apollo Four Forty",
+     "corrected": "\"Raw Power\" by Apollo Four Forty"
+    },
+    "source": "the fed's own bio card, served at promotions/low/archive/adam-stryker-low-bio-card.html (www.lowonline.net:80/cgi-bin/superstars.cgi?stryker); the fed's own champion banner; its own career-history page, served at promotions/low/archive/adam-stryker-low-career-history.html",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "note": "First and last seen are the earliest and latest year the fed's own surviving record actually places this character; the record does not state a debut or a departure. The fed's own record page (cgi-bin/record.cgi?stryker, captured 2005-01-22) states 7 matches, 6 wins, 1 losses, 0 draws. Its Cluster, Pay Per View and Main Event rows count the same matches its Singles and Tag rows already do, so only the Singles and Tag figures are recorded as format buckets; the fed's own cross-cutting figures read Cluster 4 (3-1), Pay Per View 1 (1-0), Main Event 1 (1-0).",
+    "record": {
+     "single_w": 6,
+     "single_l": 1,
+     "single_d": 0,
+     "ppv_w": 1,
+     "ppv_l": 0,
+     "ppv_d": 0,
+     "me_w": 1,
+     "me_l": 0
+    }
+   },
+   {
+    "promotion": "pcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003-02-12",
+    "last_seen": "2003-06-06",
+    "grade": "primary-source",
+    "source": "PCW's own database (lot 0159)"
+   },
+   {
+    "promotion": "gw",
+    "first_seen": "2006-10-04",
+    "last_seen": "2007-12-06",
+    "source": "Global Wrestling's own backstage database (accession 0159), bio 10315: the fed's own appearance record",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (35 shows, every kind of appearance counted). Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Master of the Submission, ring leader of the Circle of Rage and a DWO Heavyweight Champion, who left the fed and came back in January 2003 to beat Alyssa Sanders and fight Kaiowas out of the building the same night.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "aj-trinidad",
+  "type": "character",
+  "name": "AJ Trinidad",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Heavyweight Champion",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-05-to-06.html; the fed's own Travesty of 22 August 2002, served at /promotions/dwo/archive/travesty-2002-08-22.html"
+   },
+   {
+    "promotion": "pcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003-03-16",
+    "last_seen": "2003-05-06",
+    "grade": "primary-source",
+    "source": "PCW's own database (lot 0159)"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "DWO Heavyweight Champion through the summer of 2002, who lost a non-title match to Mike Pizaz on his challenger's debut and was still defending the belt against Jackson Rust that autumn.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PCW's own database (lot 0159) carries this character's own PCW biography card, which names DWO among its other federations and claims a DWO World Championship — the DWO Heavyweight Championship already held here."
+   }
+  ]
+ },
+ {
+  "id": "alexander-herrera",
+  "type": "character",
+  "name": "Alexander Herrera",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Wrestled the tag team elimination for the DWO Tag Team contendership at Shock Syndrome, which the fed ruled no contest.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "xander-faw"
+    ],
+    "note": "Normalizes against FAW's own xander-faw because Xander sits inside Alexander; nothing connects them."
+   }
+  ]
+ },
+ {
+  "id": "alyssa-sanders-dwo",
+  "type": "character",
+  "name": "Alyssa Sanders",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name exactly with LOW's own alyssa-sanders. The two feds are documented as trading rosters in 2003, but no receipt names this woman in both; filed distinct at mint per the collision doctrine.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Knocked Shawna Blaze out with the Sweet Sensation in an endurance match, and was beaten in the ring by the returning Adam Stryker in January 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "amira-dwo",
+  "type": "character",
+  "name": "Amira",
+  "aka": [
+   "Amira Grunge"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/amira-bio-card.html",
+    "height": "5'8\"",
+    "weight": "135",
+    "hometown": "Chicago, Illinois",
+    "alignment": "Face",
+    "finisher": "Lordika",
+    "entrance_music": {
+     "verbatim": "Lennon \"Property of Goatfucker\""
+    },
+    "note": "Billed \"Girl of Grunge\" on her own card. LOW's own served Realm 50 has Chryste recall beating \"former DWO Champion, Amira Grunge!\", which is where the aka comes from; the DWO record itself never spells the surname."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "The DWO's own Girl of Grunge, a Chicago brawler who came back from Scotland to a doppelganger angle, a Women's title picture and a bomb that went off under her head.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "grunge"
+    ],
+    "note": "Normalizes against WWA's own grunge (Kenneth Wilson) because this card's own nickname is the Girl of Grunge and Lights Out Wrestling's text calls her Amira Grunge. Checked and unrelated: WWA's Grunge is a male technical striker out of Norman, Oklahoma; this is a female brawler out of Chicago."
+   }
+  ]
+ },
+ {
+  "id": "angelus-dwo",
+  "type": "character",
+  "name": "Angelus",
+  "aka": [
+   "Dark Angel"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name with GIWF's own angelus-giwf and normalizes against LOW's own angelus-sorrow; no receipt connects any two of the three, and this one's own card gives a separate origin (a debut as Dark Angel in The Dynasty wrestling).",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Intercontinental Champion; DWO Tag Team Champion with Gina Muniz",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/angelus-bio-card.html; the fed's own Champions page, served at /promotions/dwo/archive/dwo-champions-2002-06.html",
+    "height": "6'7\"",
+    "weight": "273",
+    "hometown": "Bel Air",
+    "alignment": "Face",
+    "finisher": "Dead Center",
+    "entrance_music": {
+     "title": "Bodies",
+     "artist": "Drowning Pools",
+     "verbatim": "'Bodies' by Drowning Pools",
+     "corrected": "\"Bodies\" by Drowning Pool"
+    }
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "The Guilty One, DWO Intercontinental Champion from 25 March 2002 and half of the Tag Team Champions with Gina Muniz, who walked out of the fed that August for reasons its own newsdesk called unreasonable.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "apocalypse-dwo",
+  "type": "character",
+  "name": "Apocalypse",
+  "aka": [
+   "Apoc"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name exactly with FAW's own apocalypse-faw; no receipt connects them.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A former AW Heavyweight Champion who put Rainer back on the stage with a right hand, and passed out in his own submission hold in the main event that followed.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "april-lagrone",
+  "type": "character",
+  "name": "April Lagrone",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "announcer",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named as one of three DWO announcers on the fed's own August 2003 roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "april-starmont",
+  "type": "character",
+  "name": "April Starmont",
+  "aka": [
+   "Acid Star"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/april-starmont-bio-card.html",
+    "height": "5'7\"",
+    "weight": "125",
+    "hometown": "Cape Cod, Massachusetts.",
+    "alignment": "Face, Face",
+    "finisher": "April Shower",
+    "entrance_music": {
+     "title": "Under My Umbrella",
+     "artist": "Incubus",
+     "verbatim": "\"Under My Umbrella\" - Incubus"
+    },
+    "note": "The card's own finisher description names a different woman, Amanda, in the move's own text — transcribed as written."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Seduction Personified on her own DWO card, a Cape Cod gymnast whose finisher was a shooting star press she called the April Shower.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "arsenic-hail",
+  "type": "character",
+  "name": "Arsenic Hail",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own move list, served at /promotions/dwo/archive/arsenic-hail-move-list.html; its own match record, served at /promotions/dwo/archive/arsenic-hail-match-record.html",
+    "style": "Martial Arts/Submission",
+    "finisher": "Scream for Me",
+    "signature_moves": [
+     "Flying Spin Kick",
+     "Sour Taste",
+     "2 Year Hell",
+     "Man Hater",
+     "Confusion",
+     "Poison",
+     "Dent Submission",
+     "Aerial Beauty",
+     "Aerial Beauty 2",
+     "3 Cheers"
+    ],
+    "note": "The fed's own record page (cgi-bin/record.cgi?name=arsenic, captured 2003-09-29) states 3 matches, 2 wins, 1 loss, 0 draws, all singles. Its Cluster, Pay Per View and Main Event rows all read zero.",
+    "record": {
+     "single_w": 2,
+     "single_l": 1,
+     "single_d": 0
+    }
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "A martial-arts submission wrestler whose own move list ran to eleven named kicks and holds, and who sat at the head of the DWO's own August 2003 roster page beside Donny Diamond and SurReal.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "brian-gains",
+  "type": "character",
+  "name": "Brian Gains",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Opened Christmas Chaos against Makayla Manzu and was still in the ring when Serpente and a cloaked companion came through both of them.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "brian-mcgrath",
+  "type": "character",
+  "name": "Brian McGrath",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "staff — trainer",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Head Quarters page, served at /promotions/dwo/archive/dwo-head-quarters.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A DWO trainer, who threw a bleeding recruit over the steel wall of a training ring for stumbling twice.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "brian-rage",
+  "type": "character",
+  "name": "Brian Rage",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own history page, served at /promotions/dwo/archive/brian-rage-history.html; its own move list, served at /promotions/dwo/archive/brian-rage-move-list.html; its own match record, served at /promotions/dwo/archive/brian-rage-match-record.html",
+    "style": "Technical",
+    "finisher": "Outrageous",
+    "note": "The fed's own record page (cgi-bin/record.cgi?name=brian, captured 2003-09-29) states 5 matches, 2 wins, 3 losses, 0 draws, all singles; its Pay Per View row counts one of those same matches again. He posts on the fed's own forum as Brian_Rage, last poster on two boards in February 2003.",
+    "record": {
+     "single_w": 2,
+     "single_l": 3,
+     "single_d": 0,
+     "ppv_w": 1,
+     "ppv_l": 0,
+     "ppv_d": 0
+    }
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Eight years in prison for assault, another two for a sledgehammer, and a DWO career that started after his wife left him and went on after she was killed.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "carys",
+  "type": "character",
+  "name": "Carys",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Rising Dominance Champion; DWO Tag Team Champion with Chryste",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html"
+   },
+   {
+    "promotion": "threat",
+    "first_seen": "2003-09",
+    "last_seen": "2003-09",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "hometown": "Philadelphia, Pennsylvania",
+    "height": "5 Foot 7 Inches",
+    "weight": "112 pounds",
+    "style": "'Cangurú feroz de guerra' (A fierce Luchadoristic and Technical style, blended with a high damaging use of her knees and elbows, taught to her by her mentor Jade)",
+    "finisher": "Carys kicks the person in the groin and leapfrogs over them. The opponent stays doubled over and Carys springboards on the second rope leaping backwards and catching them in a piledriver...a springboard piledriver — Termination",
+    "entrance_music": {
+     "verbatim": "'Trigger' by InFlames"
+    },
+    "signature_moves": [
+     "Falling from Grace - Submission: Carys uses the bottom rope as a springboard to spear the knee of the opponent, when the opponent is down on the ground she then hooks them in a Reverse Figure Four Leck Lock.",
+     "Special delivery: Carys slings the opponent against the ropes and runs against the opposite ones. She bounces of the second rope and hits a springboard temple kick to the face with her let foot and follows it with a roundhouse kick to the temple in the while still in the air.",
+     "Star Chaser: Carys runs up the ropes to the top one and balances as she runs across the top one before reaching the middle of the ropes (abut ten feet) where she leaps of the rope and hits a Senton body splash to her opponent. (Kinda like Jeff Hardys run across the rail thing only she runs across the ropes.)",
+     "Precision: She hits a Very fast release german suplex and then catches him in a neck breaker!",
+     "Cannon Fodder: Carys dazes the opponent with a quick jumping knee to the chin or general facial area. She then jumps to the second rope and spins in mid air. She managaes to twist so that her feet land under the chin of the opponent, she then backflips keeping the feet under the chin and staggering them backwards.",
+     "Carys' fighting methods:",
+     "Larger Opponents: Carys will use her speed and technical ability to dissasemble her opponent as fast as she can before they get a grip on her.",
+     "Smaller Opponents: If there ever is a smaller opponent then Carys will use ONLY striking moves to take them apart until the finish.",
+     "Heels: When Carys faces a heel her first and only method is to attempt to out cheat them. General focus areas on the body will be groin, eyes and nose.",
+     "Faces/Neutrals: Carys will always cheat in her matches. Whether she is winning or not. Always have her cheat.",
+     "Males: Carys cheats an awful lot like any other match, will try her very best to insult and undermine any respect they have...again lots of groin shots.",
+     "General: Carys will always take the oppurtunity to make a springboard something or other. Whether it is from the ropes, top turnbuckle or the apron.",
+     "Top Rope Moves:",
+     "Split Legged Moonsault",
+     "Tornado DDT",
+     "Flying Cross Body block",
+     "Diving Hurricanrana",
+     "Double spring moonsault - Jumps up to the second tunbuckle, jumps up to the third turnbuckle then hits a high moonsault.",
+     "Twisting Moonsault - if opponent moves then she can twist out of it and roll to safety",
+     "450 Splash",
+     "Corkscrew Elbow",
+     "Corkscrew Leg Drop",
+     "Corkscrew Moonsault",
+     "Cross Body block",
+     "Flying DDT",
+     "Flying Corkscrew clothesline",
+     "Flying Headscissors",
+     "Triple Jump moonsault",
+     "Tumbleweed Leg drop",
+     "Grapples:",
+     "Double arm DDT, as an extension she can float over with the double arm still attached and pull it into a double arm bar",
+     "Flying Leg scissors into a DDT",
+     "Mexican Arm Drag",
+     "Hip Toss",
+     "Jawbreaker",
+     "Scissors sweep",
+     "Facebuster",
+     "STO - Forward leg sweep takeover",
+     "Arm Drag",
+     "1/4 Nelson Suplex",
+     "3/4 Turn Neckbreaker",
+     "Mahistradol Cradle",
+     "Arm Breaker",
+     "Belly to back suplex",
+     "Dragon Screw Leg whip",
+     "Top Rope Frankesteiner",
+     "Gut Wrench suplex",
+     "Japanese Arm Drag",
+     "Leg sweep",
+     "Hurricanrana",
+     "Snap DDT",
+     "Snap Suplex",
+     "Snapmare",
+     "Backwards Grapples:",
+     "Bull dog",
+     "Chop Block",
+     "German Suplex",
+     "Inverted DDT",
+     "Falling Inverted DDT from the top rope",
+     "Reverse Leg sweep",
+     "Backwards Hurricanrana",
+     "Springboard moves:",
+     "Springboard hurricanrana from the apron",
+     "Springboard leg drop from the apron",
+     "Single leg boston crab - submission",
+     "Sprinboard twisting Body press - inside",
+     "Springboard knee to the face - Apron",
+     "Running Springboard suicide dive - to the outside",
+     "Spring board Tornado DDT - From the outside",
+     "Standing Shooting Star Press - Opponent on the mat face up",
+     "Springboard cross body block - inside the ring",
+     "Springboard shin kick - In ring",
+     "Springboard Hurricanrana - from inside",
+     "Springboard Hurricanrana - to outside",
+     "Springboard Dropkick - Opponent on the apron, Inside the ring",
+     "Asai Moonsault - To the outside",
+     "Springboard corkscrew plancha - To the outside",
+     "Springboard cross body block - Inside",
+     "Springboard corkscrew clothesline - Inside",
+     "Striking Moves:",
+     "Variety of Knees and elbows striking to nerves and pressure points",
+     "Chops to the chest",
+     "Dropkick",
+     "Spinning knee - Opponent on hands and knees getting up from the mat",
+     "Back rake",
+     "Bell clap",
+     "European uppercut",
+     "Senton - opponent is down, sometimes can be a running attack too",
+     "Sitting Dropkick",
+     "Submission moves:",
+     "Elbow graze - Opponent on their back, Carys rubs her elbows along their face.",
+     "Achilies Tendon Hold.",
+     "Armbar",
+     "Arm lock",
+     "Arm scissors",
+     "Arm stretch",
+     "Arm Wringer",
+     "Boston Crab",
+     "Bow and Arrow Lock",
+     "Bridging Camel Clutch",
+     "Chicken Wing",
+     "Neck Twist",
+     "Nerve Hold",
+     "STF",
+     "Counter moves (Opponent running at you):",
+     "Powerslam into reverse DDT - Opponent firing back from the ropes",
+     "Body scissors",
+     "Drop Toe Hold",
+     "Pins:",
+     "Back Roll pin",
+     "Back Slide",
+     "Backwards Victory Roll",
+     "Inside cradle",
+     "Crucifix Pin"
+    ],
+    "source": "billed on the singles biographies roster of 26 September 2003; its roster card, threat.theewe.net/cgi-bin/profile.cgi?carys"
+   },
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-11-09",
+    "last_seen": "2004-07-11",
+    "source": "RPW's own backstage database (lot 0159), bio 9449",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of its matches (7 shows). Joined to this record on the card's own evidence: The card's Other Feds 'DWO, VW' names the DWO, where this record held the Tag Team Championship with Chryste (bio 9500, joined to her DWO record by the fed's own text), and the fed's write-ups seat her in Sweet Illusion with Sam Alotti and Alyssa Sanders.",
+    "hometown": "Manchester, England",
+    "height": "5 foot 7 inches",
+    "weight": "113 lbs",
+    "finisher": "Eliminated",
+    "entrance_music": {
+     "verbatim": "'Trigger' by InFlames",
+     "title": "Trigger",
+     "artist": "InFlames"
+    }
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2004-03-27",
+    "last_seen": "2004-04-29",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "CW's own backstage database (accession 0159), bio 16532",
+    "note": "Dated from the CW1 tournament's own round record: 3 of its rounds, 27 March 2004 to 29 April 2004."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "DWO Rising Dominance Champion and Tag Team Champion with Chryste in the spring of 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's biography card (accession 0159), bio 9449, is this record: The card's Other Feds 'DWO, VW' names the DWO, where this record held the Tag Team Championship with Chryste (bio 9500, joined to her DWO record by the fed's own text), and the fed's write-ups seat her in Sweet Illusion with Sam Alotti and Alyssa Sanders."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PTC tournaments' own entrant card (CW1, accession 0159, bio 16532) is this record: her own CW1 roleplays: \"the RPW Eclipse Champion\" (35203) and \"You hacked a clean run out in DWO…8-0-0\" (35209), with Chryste (35205); the record is DWO's champion and tag champion with Chryste (2003)."
+   }
+  ]
+ },
+ {
+  "id": "chris-johnson-dwo",
+  "type": "character",
+  "name": "Chris Johnson",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name exactly with NFW's own chris-johnson and EWA Empire's own chris-johnson-ewa-empire; no receipt connects any two of the three.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Travesty of 22 August 2002, served at /promotions/dwo/archive/travesty-2002-08-22.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Wrestled Lana Day to a double countout in the opening match of the DWO's own Travesty of 22 August 2002.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "chris-kinsley-dwo",
+  "type": "character",
+  "name": "Chris Kinsley",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name exactly with LOW's own chris-kinsley. The two feds are documented as trading rosters in 2003, but no receipt names this man in both; filed distinct at mint per the collision doctrine, open to a merge on evidence.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat Don Rossi by pinfall in a hardcore match on his own DWO debut, talking himself into it in the corridor first.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "christian-darke",
+  "type": "character",
+  "name": "Christian Darke",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own move list, served at /promotions/dwo/archive/christian-darke-move-list.html; its own match record, served at /promotions/dwo/archive/christian-darke-match-record.html; the fed's own Travesty card of 9 October 2003, served at /promotions/dwo/archive/travesty-2003-10-09-card.html",
+    "style": "Technical / Sudmissionist",
+    "finisher": "Fall From Grace",
+    "note": "The fed's own record page (cgi-bin/record.cgi?name=christian, captured 2003-09-30) states 8 matches, 6 wins, 2 losses, 0 draws, all singles; its Pay Per View row counts one of those same matches again.",
+    "record": {
+     "single_w": 6,
+     "single_l": 2,
+     "single_d": 0,
+     "ppv_w": 0,
+     "ppv_l": 1,
+     "ppv_d": 0
+    }
+   },
+   {
+    "promotion": "prime-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2007-11-20",
+    "last_seen": "2008-11-22",
+    "grade": "primary-source",
+    "source": "PRIME's own backstage database (lot 0159)"
+   },
+   {
+    "promotion": "sccw-2005",
+    "first_seen": "2008-01-23",
+    "last_seen": "2008-03-30",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Toronto, Ontario, Canada",
+    "height": "6'4'",
+    "weight": "241",
+    "nicknames": "Lord of the Asylum, Harvester of Darkness",
+    "entrance_music": {
+     "verbatim": "Trip Like I Do by The Crystal Method"
+    },
+    "grade": "primary-source",
+    "source": "SCCW's own backstage database (lot 0159) — its own biography card and the federation's own appearance record: 5 match and 9 segment appearances",
+    "note": "Its own record here also carries: 2 roleplays of its own under this card."
+   },
+   {
+    "promotion": "gw",
+    "first_seen": "2004-04-08",
+    "last_seen": "2007-12-06",
+    "source": "Global Wrestling's own backstage database (accession 0159), bio 4444: the fed's own appearance record",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (31 shows, every kind of appearance counted). Joined to this record on the evidence recorded in its identity row."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2009-09-30",
+    "last_seen": "2009-11-04",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "GTT7's own backstage database (accession 0159), bio 15972",
+    "note": "Dated from the GTT7 tournament's own round record: 2 of its rounds, 30 September 2009 to 4 November 2009."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2005-04-09",
+    "last_seen": "2005-04-20",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "CW's own backstage database (accession 0159), bio 16516",
+    "note": "Dated from the CW2 tournament's own round record: 2 of its rounds, 9 April 2005 to 20 April 2005."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "A technical submissionist with a fifty-move list and a Fall From Grace finish, of Fates Calling, booked against Seymour Almasy on the DWO's own card for 9 October 2003.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PRIME's own biography card for this character names Global and DWO and claims the DWO World Dominance Championship; this record is the DWO technical submissionist of the same name."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "SCCW's own backstage database (lot 0159) carries a Christian Darke card, which makes the same claims this record's own PRIME card makes and was merged on: it names Global and DWO as his other federations and claims the DWO World Dominance Championship, adding a Global World Championship and a Global Master of the Mat 2007. Its style field reads \"Technical\", this record's own DWO style. A third federation's card claiming the same idiosyncratic set is the same man. Finishers differ between the tellings (Darkness Falls on the card, Fall From Grace in DWO) and the card adds a Toronto billing and the monikers Lord of the Asylum and Harvester of Darkness; the Global claims are the card's own and no reign is written from them."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Wrestling's biography card (accession 0159), bio 4444, is this record: A third card with the held record's own claims. The held record's identity notes already merge the PRIME card (bio 285) and the SCCW card (bio 3581), each of which 'names Global and DWO' and 'claims the DWO World Dominance Championship'. Fed-12 bio 4444 is that card from Global's own side. Its `Other Feds` reads 'DWO', its `Other Fed Awards` 'DWO World Dominance Champion, DWO Rising Dominance Champion', and its hometown is 'Toronto, Ontario' (SCCW tenure: 'Toronto, Ontario, Canada'). Its finisher 'Darkness Falls' is the one the SCCW note already records. Museum-side: the record claims Global twice and holds no gw tenure; this row is the Global side of it."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PTC tournaments' own entrant card (CW2, accession 0159, bio 16516) is this record: his own CW2 roleplays (35277, 35300): \"his black DWO hoodie\", \"the logo of the DWO\"; the record holds dwo 2003; card Other Feds \"DWO, Global\"; GTT7 bio 15972 merged there."
+   }
+  ]
+ },
+ {
+  "id": "curtis-ambrose",
+  "type": "character",
+  "name": "Curtis Ambrose",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/curtis-ambrose-bio-card.html",
+    "height": "6'2\"",
+    "weight": "245",
+    "hometown": "Richmond, Virginia",
+    "alignment": "Face, Face",
+    "finisher": "F.M.M",
+    "entrance_music": {
+     "title": "My Happiness",
+     "artist": "powderfinger",
+     "verbatim": "\"My Happiness\" by powderfinger",
+     "corrected": "\"My Happiness\" by Powderfinger"
+    },
+    "note": "His own card names FAW — Furiously Addictive Wrestling, a fellow Primetime Central member fed — as his last stop before the DWO."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "The UVA Blue Chipper, a college wrestling champion who drove a taxi, had two matches for FAW and was released before signing with the DWO.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "da-mab",
+  "type": "character",
+  "name": "Da Mab",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Won the opening match of Shock Syndrome by submission over Jake Storm, walking to the ring singing along to his own entrance track.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "da-thug",
+  "type": "character",
+  "name": "Da Thug",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Lost to Jamie Von Eriche at Shock Syndrome.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "damian-dwo",
+  "type": "character",
+  "name": "Damian",
+  "aka": [
+   "Damian Allen Wesley"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own history page, served at /promotions/dwo/archive/damian-history.html; its own move list, served at /promotions/dwo/archive/damian-move-list.html; its own match record, served at /promotions/dwo/archive/damian-match-record.html",
+    "style": "Heel",
+    "finisher": "235",
+    "manager": "Samantha",
+    "signature_moves": [
+     "The Pit and the Pendulum",
+     "Pestilence",
+     "Hell On Earth",
+     "Helter Skelter",
+     "Into The Abyss",
+     "The Mannequin Maker",
+     "Blazing Burial",
+     "The Mindfuck",
+     "The Bad Trip",
+     "Descent into the Maelstrom",
+     "Capital Punishment",
+     "Godless Savage Garden",
+     "Abra-Cadaver",
+     "Let Chaos Entwine",
+     "Deathwish"
+    ],
+    "note": "His own history page names four federations he passed through before the DWO — the PWA, NTICW, CHZ and PURE — and says three of the four closed under him. The fed's own record page (cgi-bin/record.cgi?name=damian, captured 2003-09-30) states 10 matches, 5 wins, 4 losses, 1 draw; its Singles and Tag rows sum to that total while its Main Event row (2 matches, 2 wins) counts the same matches again, so only Singles and Tag are recorded as format buckets. The fed's own Travesty of 10 July 2003 has him and Samantha reveal, on-air, that they killed Donny Diamond at a Lord of the Asylum event the week before, taking his pentagram necklace as a trophy, and relaunch the Disciples of Darkness under his own leadership with Tyrone Grace, Sean Quinn, Komodo Dragon and Kuff McSlade as members (/promotions/dwo/archive/travesty-2003-07-10.html).",
+    "record": {
+     "single_w": 3,
+     "single_l": 4,
+     "single_d": 1,
+     "tag_w": 2,
+     "tag_l": 0,
+     "tag_d": 0,
+     "me_w": 2,
+     "me_l": 0
+    }
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "A serial killer with a hammer and a partner who ate his victims, whose own DWO history page runs two thousand words and ends on a tally: two thousand and twenty-six murders, two rapes, seven assaults with a deadly weapon.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "damien-stone-gxw-2001",
+     "damian-thorne"
+    ],
+    "note": "A bare first name that normalizes against NFW's own damian-stone and WWA's own damian-thorne. Checked and unrelated — this one's own history page gives a full and separate origin (Damian Allen Wesley, Philadelphia, the PWA, NTICW, CHZ and PURE)."
+   }
+  ]
+ },
+ {
+  "id": "darkice",
+  "type": "character",
+  "name": "Darkice",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One of the wrestlers Lexis Bane signed on her own reopening of the DWO, and lost to KrazE at Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "dean-talon",
+  "type": "character",
+  "name": "Dean Talon",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named on the DWO's own August 2003 roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "don-rossi",
+  "type": "character",
+  "name": "Don Rossi",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Lost a hardcore match to Chris Kinsley at Shock Syndrome, billed on the card the week before as old blood against new.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "draven-dwo",
+  "type": "character",
+  "name": "Draven",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Normalizes against UWF's own draven-lox and 4WW's own draven-lox-4ww; no receipt connects them.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "role": "CEO",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html and /promotions/dwo/archive/dwo-news-2002-09-to-10.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "The DWO's own CEO, who tricked Lexis Bane into signing away her ownership, was hanged from the rafters for it at Christmas Chaos, and pulled himself out of a retirement attempt to chase the Extreme title once more.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "eddie-maneddi",
+  "type": "character",
+  "name": "Eddie Maneddi",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named as one of six DWO referees on the fed's own August 2003 roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "equinox-dwo",
+  "type": "character",
+  "name": "Equinox",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "caption": "Named on the DWO's own August 2003 roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lori-equinox-wwa"
+    ],
+    "note": "Normalizes against WWA's own lori-equinox-wwa; a bare generic ring name on a roster listing, with nothing connecting the two."
+   }
+  ]
+ },
+ {
+  "id": "flyboy",
+  "type": "character",
+  "name": "Flyboy",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster database (cgi-bin/roster.cgi?name=flyboy)"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named in the DWO's own wrestler database.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "gaul",
+  "type": "character",
+  "name": "Gaul",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Travesty card of 9 October 2003, served at /promotions/dwo/archive/travesty-2003-10-09-card.html",
+    "note": "His own Gallery, History and Move List pages in the fed's own database were all captured empty. Relentless, 25 September 2003, spells him \"Gual\" throughout (his own registered slug follows the roster page's own \"Gaul\") and gives him a kayfabe real name, Gregory McLellen, a Scottish-Irish upbringing, a father who tutored Regin in Germany, an ancient dragon bloodline he calls on when threatened, and a self-made vow to protect women in the ring after some failure to do so when he was younger. He confronts Christian Darke over Stephanie Summers and is billed against him on the same show, in a match Callisto Bane cancels outright before the bell."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named on the DWO's own August 2003 roster, of Fates Calling, and booked with Christian Darke against Seymour Almasy on the fed's own card of 9 October 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "Gual",
+   "Gregory McLellen"
+  ]
+ },
+ {
+  "id": "gina-muniz",
+  "type": "character",
+  "name": "Gina Muniz",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Tag Team Champion with Angelus",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Champions page, served at /promotions/dwo/archive/dwo-champions-2002-06.html; the fed's own Shock Syndrome card, served at /promotions/dwo/archive/loa-shock-syndrome-card-2002.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "DWO Tag Team Champion with Angelus from 16 May 2002, and one of the Final Six on the fed's own Shock Syndrome card.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hecate",
+  "type": "character",
+  "name": "Hecate",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty card of 9 October 2003, served at /promotions/dwo/archive/travesty-2003-10-09-card.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Challenged for the DWO Tag Team Championship with Arsenic on the fed's own card of 9 October 2003, and had already been used as a punishment for Timothy Marcus.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "indy-cred",
+  "type": "character",
+  "name": "Indy Cred",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One of five new recruits the DWO announced in January 2003, booked into a tag match on the Crimson Dance card.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jackson-rust",
+  "type": "character",
+  "name": "Jackson Rust",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Heavyweight Champion",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Travesty main event of October 2002, served at /promotions/dwo/archive/travesty-2002-10-main-event.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-09-to-10.html"
+   },
+   {
+    "promotion": "pcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-12-31",
+    "last_seen": "2003-04-30",
+    "grade": "primary-source",
+    "source": "PCW's own database (lot 0159)"
+   },
+   {
+    "promotion": "prime-2003",
+    "first_seen": "2007-03-28",
+    "last_seen": "2010-03-21",
+    "source": "PRIME's own backstage database (lot 0159)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "St Louis, Missouri.",
+    "height": "6'00.",
+    "weight": "219 lbs.",
+    "style": "you wouldn't call it a style.",
+    "finisher": "Abattoir Blues",
+    "entrance_music": {
+     "verbatim": "Death Letter by the White Stripes."
+    }
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2008-05",
+    "last_seen": "2008-06",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — a returning veteran in the Infinite Gauntlet's 45th round, billing a three-nil head-to-head record over Chris Storm",
+    "grade": "primary-source",
+    "source": "PTC forum, PTC's Infinite Gauntlet, seven posts in \"IG45 Trash Talk Open Invitation thread (all vs Chris Storm)\" (posts 268053-268507, topic 23318), 31 May - 6 Jun 2008"
+   },
+   {
+    "promotion": "rpw-rushpro-2003",
+    "first_seen": "2003-12-21",
+    "last_seen": "2004-01-04",
+    "source": "RPW's own backstage database (lot 0159), bio 9494",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (2 shows, every kind of appearance counted). Joined to this record on the card's own evidence: The card is a name only. Primetime Central's own news of 3 January 2004, carried under the fed's own byline ('Source: RPW'), names the assaulted 'RPW superstar' as 'none other than Jackson Rust' six days after Adrenaline 7, the card this bio's one appearance row is on; Primetime Central's own wiki article on him (captured 7 December 2009) lists his federations as 'DWO, PCW, RPW, PRIME' and his championship as the DWO World Heavyweight Championship this record holds. The wiki is the only document naming both legs, so the join is graded presumed; a distinct guard stands to jackson-rust-xcwf."
+   },
+   {
+    "promotion": "xcwf",
+    "first_seen": "2002-06-22",
+    "last_seen": "2002-07-21",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/xcwf/archive/fear-2002-06-22.html",
+    "grade": "primary-source"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "DWO World Champion in the autumn of 2002, who retained against Adam Stryker in an anything-goes main event and was named by Chryste as the best in the fed at the time.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jackson-wwa"
+    ],
+    "note": "Normalizes against WWA's own jackson-wwa on the first name alone; nothing connects them."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PCW's own database (lot 0159) carries this character's own PCW biography card, which names DWO among its other federations and claims a DWO World Championship. The DWO record here has him retaining against Adam Stryker, who carries a PCW biography card of his own, so the DWO card narrates two PCW-rostered characters against each other from the other side."
+   },
+   {
+    "assertion": "merged",
+    "grade": "presumed",
+    "with": [],
+    "note": "The fed's biography card (accession 0159), bio 9494, is this record: The card is a name only. Primetime Central's own news of 3 January 2004, carried under the fed's own byline ('Source: RPW'), names the assaulted 'RPW superstar' as 'none other than Jackson Rust' six days after Adrenaline 7, the card this bio's one appearance row is on; Primetime Central's own wiki article on him (captured 7 December 2009) lists his federations as 'DWO, PCW, RPW, PRIME' and his championship as the DWO World Heavyweight Championship this record holds. The wiki is the only document naming both legs, so the join is graded presumed."
+   }
+  ],
+  "notes": "PRIME's own biography card (Jackson Rust): otherfedawards: 'PTC Extreme championship.' -- a named PTC title, no further narrative on this row. PCW's own biography card (Jackson Rust): otherfedawards: 'DWO World Champion; PTC Extreme Champion.' -- a named PTC title, no further narrative on this row. PTC resolves to Primetime Central (ptc). No held ptc document names Jackson Rust specifically; the claim is recorded here as the bio's own, and no tenure is minted."
+ },
+ {
+  "id": "jake-storm-dwo",
+  "type": "character",
+  "name": "Jake Storm",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Normalizes against NAPW's own storm-napw and NFW's own storm-nfw; no receipt connects them.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Tapped out to Da Mab in the opening match of Shock Syndrome, and was booked into a three-way brawl for the Intercontinental contendership the week before.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "james-kilpatrick",
+  "type": "character",
+  "name": "James Kilpatrick",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named as one of six DWO referees on the fed's own August 2003 roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "james-van-allen",
+  "type": "character",
+  "name": "James Van Allen",
+  "aka": [
+   "JVA"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat Noah White at Christmas Chaos, and lost to Kaanen Thorne on Travesty the week before.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jamie-von-eriche",
+  "type": "character",
+  "name": "Jamie Von Eriche",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat Da Thug by pinfall at Shock Syndrome in the longest match on the card.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jaime-4ww"
+    ],
+    "note": "Normalizes against 4WW's own jaime-4ww on the first name alone; nothing connects them."
+   }
+  ]
+ },
+ {
+  "id": "jaslene-myst",
+  "type": "character",
+  "name": "Jaslene Myst",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-05-to-06.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Came down to the ring at Shock Syndrome, took the Women's Championship off Lana Day, and lost it back to Kristi Kiss without a pinfall in the same match.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "john-miro",
+  "type": "character",
+  "name": "John Miro",
+  "aka": [
+   "Pierce Jonathan Delmiro"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Heavyweight Champion",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/john-miro-bio-card.html; the fed's own Champions page, served at /promotions/dwo/archive/dwo-champions-2002-06.html",
+    "height": "6'3\"",
+    "weight": "231 lbs.",
+    "hometown": "Phoenix, Arizona",
+    "alignment": "Neutral, edging on face",
+    "finisher": "The Final Chapter",
+    "entrance_music": {
+     "title": "The Unforgiven",
+     "artist": "Metallica",
+     "verbatim": "\"The Unforgiven\" by Metallica",
+     "corrected": "\"The Unforgiven\" by Metallica"
+    }
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "The Eagle, and the first DWO Heavyweight Champion the fed's own Champions page records, winning the belt on 21 April 2002.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jonan",
+  "type": "character",
+  "name": "Jonan",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Won the Extreme Championship contendership at Shock Syndrome out of a handicap match only one man could win, and left the ring hanging off the apron.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "joshua-manchiez",
+  "type": "character",
+  "name": "Joshua Manchiez",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "announcer",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One of the DWO's own announcers, who called the last two matches of Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "judgment-dwo",
+  "type": "character",
+  "name": "Judgment",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/judgment-bio-card.html; the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html",
+    "height": "6'6\"",
+    "weight": "252",
+    "hometown": "Haughton, Louisiana",
+    "alignment": "Heel, Heel",
+    "finisher": "Judgement Slam, Judgement Day",
+    "entrance_music": {
+     "title": "I Stand Alone",
+     "artist": "Godsmack",
+     "verbatim": "\"I Stand Alone\" by Godsmack",
+     "corrected": "\"I Stand Alone\" by Godsmack"
+    },
+    "note": "The card's own Bio field reads \"Unknown\" and its Birthday field a bare question mark."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Great Sports Entertainer In The World, by his own card's billing, who lost a handicap match to Seth Valentine and Jonan at Shock Syndrome with the Extreme title contendership on it.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "corrupt-judgment"
+    ],
+    "note": "Normalizes against GIWF's own corrupt-judgment; a bare generic ring name, with nothing connecting the two."
+   }
+  ]
+ },
+ {
+  "id": "julius-corbin",
+  "type": "character",
+  "name": "Julius Corbin",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31-continued.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat Shawna Blaze at Christmas Chaos to reach the DWO World Title tournament final against Kaiowas, and lost it.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kaanen-thorne",
+  "type": "character",
+  "name": "Kaanen Thorne",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat James Van Allen with the 6-6 Crush, then Nick Crowe at Christmas Chaos in what the fed's own announcer called a main event style match.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kai-shinobi",
+  "type": "character",
+  "name": "Kai Shinobi",
+  "aka": [
+   "Kia Shinobi"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html",
+    "note": "The fed's own preview page spells the name Kia Shinobi and its own results page Kai Shinobi."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat the DWO World Champion in a non-title match on 10 July 2003, in his own first main event.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kaiowas",
+  "type": "character",
+  "name": "Kaiowas",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Heavyweight Champion; New Breed",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html and /promotions/dwo/archive/dwo-news-2002-09-to-10.html; the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html; Primetime Central's own New Era results (/promotions/ptc/archive/new-era-2003-results.html)",
+    "note": "His own name is glossed in the fed's own text as Bloody Vengeance, after a Ktulu tribal story he tells at length. The fed's own post-UnStAbLe segment has him at a fire on a hilltop with Xander Payne, Acaldema and Rainer, telling them a Ktulu war story and calling the four of them Stable Champions, while SurReal speaks for them in the arena as the self-proclaimed leader of the New Breed — a name the same passage also gives as the fed's own [d.W.o] and as the Fear Factory song SurReal exits to. The stable is recorded here as prose rather than as a unit, since nothing else in the held record names it and the name itself is not securely the faction's own. PTCpedia's own Kaiowas article (/promotions/ptc/archive/ptcpedia-kaiowas.html, captured 20 Aug 2010) claims he was the DWO's first two-time World Heavyweight Champion and holds that title's longest reign, bills him from Rio de Janeiro finishing with the Tribal Punisher, and has him lead the New Breed after SurReal left."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A Brazilian tribal warrior who kept a jaguar at his fire, won the DWO World Title tournament in January 2003, lost the belt to Donny Diamond at Primetime Central's New Era and had it back by that July.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kandee",
+  "type": "character",
+  "name": "Kandee",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Wrestled Logan Miller at Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kaos-dwo",
+  "type": "character",
+  "name": "Kaos",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name exactly with WWA's own kaos-wwa; no receipt connects them.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty card of 9 October 2003, served at /promotions/dwo/archive/travesty-2003-10-09-card.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "The new number one contender for the DWO Pride Championship on the fed's own card of 9 October 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kerry-sims",
+  "type": "character",
+  "name": "Kerry Sims",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "reporter",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-05-to-06.html"
+   }
+  ],
+  "caption": "A DWO reporter through the summer of 2002, who filed the fed's own account of the three-way Women's title finish nobody could resolve.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kirk-morris",
+  "type": "character",
+  "name": "Kirk Morris",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html; the fed's own news, served at /promotions/dwo/archive/surreal-getting-worse-2003-04-04.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Challenged for the DWO Intercontinental Championship in May 2003, having beaten Lawrence Widdlestaff for the shot, and put SurReal's knee out badly enough that the fed talked about retiring him.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "komodo-dragon-dwo",
+  "type": "character",
+  "name": "Komodo Dragon",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   },
+   {
+    "first_seen": "2004",
+    "last_seen": "?",
+    "promotion": "wwa",
+    "role": "wrestler — in-ring debut, one half of the tag team Kaos, mentored by SurReal",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "wwa-2004-08-16 (Meltdown), the served show's own text"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named on the DWO's own August 2003 roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "konstantine",
+  "type": "character",
+  "name": "Konstantine",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2003-04-04.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed into a four corners bondage match on the Balls to the Wall card, and fought Kage on 11 April 2003 to decide whose stipulations the loser would fall under.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kraze-dwo",
+  "type": "character",
+  "name": "KrazE",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name exactly with LOW's own kraze; no receipt connects them.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat Darkice at Christmas Chaos and kicked the air on his way out, grinning.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kristi-kiss",
+  "type": "character",
+  "name": "Kristi Kiss",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Women's Champion; UnHoly",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Champions page, served at /promotions/dwo/archive/dwo-champions-2002-06.html; the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "DWO Women's Champion from 23 May 2002, and one of three women the fed's own newsdesk admitted had all left Shock Syndrome holding a claim to the belt.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kuff-mcslade",
+  "type": "character",
+  "name": "Kuff McSlade",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Extreme Champion",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "DWO Extreme Champion, who kept the belt in the main event of 10 July 2003 the week after winning it and was welcomed into the DoD by the man he beat.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kyra-stone",
+  "type": "character",
+  "name": "Kyra Stone",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-09-to-10.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "The DWO's own top notch tough referee, hired weeks earlier and already pulling Syko Arsonist off The Executioner by herself.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "Kara Stone"
+  ]
+ },
+ {
+  "id": "lana-day",
+  "type": "character",
+  "name": "Lana Day",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Champions page, served at /promotions/dwo/archive/dwo-champions-2002-06.html; the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "The number one contender to the DWO Women's Championship on the fed's own June 2002 Champions page, who pinned Kristi Kiss for it at Shock Syndrome inside a three-way finish nobody could untangle.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lance-miller",
+  "type": "character",
+  "name": "Lance Miller",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "reporter",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named as one of four DWO reporters on the fed's own August 2003 roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lethal-dwo",
+  "type": "character",
+  "name": "Lethal",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/lethal-bio-card.html; the fed's own Champions page, served at /promotions/dwo/archive/dwo-champions-2002-06.html",
+    "height": "6'4\"",
+    "weight": "248",
+    "hometown": "Detroit, Michigan",
+    "alignment": "Popular, popular",
+    "finisher": "Swiftly Lethal",
+    "entrance_music": {
+     "title": "Fade",
+     "artist": "Staind",
+     "verbatim": "\"Fade\" by Staind",
+     "corrected": "\"Fade\" by Staind"
+    },
+    "note": "The card's own Bio field reads \"N/A\" — the fed left it unwritten."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "A Detroit hurricanrana specialist standing as the number one contender to the DWO Heavyweight Championship on the fed's own June 2002 Champions page, and one of the Final Six on its Shock Syndrome card.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lex-taylor"
+    ],
+    "note": "Normalizes against AAWC's own lex-taylor, billed “Lethal” Lex Taylor; a bare generic ring name against a moniker, with nothing connecting the two."
+   }
+  ]
+ },
+ {
+  "id": "lexis-bane",
+  "type": "character",
+  "name": "Lexis Bane",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "authority-figure",
+     "wrestler"
+    ],
+    "role": "owner",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html; the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31-continued.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Callisto Bane's wife, who had her jailed for a murder she committed herself, closed the DWO to mock her and reopened it under her own name, then lost it back in a BloodCell match at Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lithium-dwo",
+  "type": "character",
+  "name": "Lithium",
+  "aka": [
+   "Lithuim"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html",
+    "note": "The roster page spells the name Lithuim; the fed's own database page spells it Lithium. Both are the fed's own."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named on the DWO's own August 2003 roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "logan-miller",
+  "type": "character",
+  "name": "Logan Miller",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One of the wrestlers Lexis Bane signed on her own reopening of the DWO, and lost to LOX on Travesty in December 2002.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lox-dwo",
+  "type": "character",
+  "name": "LOX",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat Logan Miller with the LOX Buster on Travesty and Richter at Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lucky-malone",
+  "type": "character",
+  "name": "Lucky Malone",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Travesty main event of October 2002, served at /promotions/dwo/archive/travesty-2002-10-main-event.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A DWO referee, who had no idea what to do when both men in an anything-goes main event stopped moving.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "luke-lawless",
+  "type": "character",
+  "name": "Luke Lawless",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-09-to-10.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A former DWO Extreme Champion who put Donny Diamond down with a steel pipe and wore his blood under both eyes, and who beat him again at Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "makayla-manzu",
+  "type": "character",
+  "name": "Makayla Manzu",
+  "aka": [
+   "Mikayla Manzu"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html",
+    "note": "The fed's own results page spells the name both ways on the same page."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Won the opening match of Christmas Chaos and was attacked by Serpente for it.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "marcus-steel-dwo",
+  "type": "character",
+  "name": "Marcus Steel",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "staff — tour guide",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Head Quarters page, served at /promotions/dwo/archive/dwo-head-quarters.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Walked a camera crew through the twenty-third floor of the DWO Head Quarters, pushed the lens over when he was done, and told them to get out of his face.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "steel-uwf"
+    ],
+    "note": "Normalizes against UWF's own steel-uwf on the surname alone; nothing connects them."
+   }
+  ]
+ },
+ {
+  "id": "marissa-lewis",
+  "type": "character",
+  "name": "Marissa Lewis",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "reporter",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named as one of four DWO reporters on the fed's own August 2003 roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "mark-leblanc",
+  "type": "character",
+  "name": "Mark Leblanc",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html",
+    "note": "The fed's own show scripts call its commentary team Mike and Jay throughout, and its own writers' guidelines name them the same way; the roster page is the only document that gives either man a surname. Which of the two roster names belongs to which broadcast voice is not settled by anything held."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named as one of the DWO's own two commentators on the fed's own August 2003 roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "markus-stone",
+  "type": "character",
+  "name": "Markus Stone",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html"
+   },
+   {
+    "promotion": "gcw-gcwonline-2001",
+    "first_seen": "2007-02-10",
+    "last_seen": "2011-09-30",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Oklahoma City, Ok",
+    "height": "6'0",
+    "weight": "236",
+    "style": "Technical/Brawling",
+    "finisher": "Record Breaker",
+    "entrance_music": {
+     "verbatim": "Welcome Home by Coheed & Cambria"
+    },
+    "grade": "primary-source",
+    "source": "Global Championship Wrestling's own backstage database (accession 0159) — its own biography card and its own appearance record: 24 match and 39 segment appearances over 38 of its cards",
+    "note": "Its whole period in this federation, from the federation's own record: 63 appearances over 38 shows, 2007-02-10 to 2011-09-30. 14 roleplay(s) of its own under this card."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2007-11-25",
+    "last_seen": "2007-11-25",
+    "role": "wrestler — with tag partner Chris Storm, one half of Banned & Exiled~!; entered (without his knowledge) into a singles Infinite Gauntlet 40 slot",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "PTC forum, PTC's Infinite Gauntlet, \"IG40 Roleplay Thread\" (post 255201, topic 22042), 25 Nov 2007"
+   },
+   {
+    "promotion": "wiw-ng",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2000-02-24",
+    "last_seen": "2002-07-23",
+    "finisher": "Zero Tolerance",
+    "entrance_music": {
+     "verbatim": "\"What Comes Around\""
+    },
+    "source": "WIW:NG's own title histories and results pages, served under this wing",
+    "grade": "primary-source",
+    "note": "Joined on the DWO's own Travesty of 22 May 2003, where Markus Stone looks back on his WIW tenure and uses the Zero Tolerance, and on his GCW card (Other Feds: WIW, DWO); WIW:NG's own history dates Zero's Television Title 24 February to 16 March 2000, as PTCpedia does."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named on the DWO's own August 2003 roster, and half of the losing team in the triple threat tag match that opened Travesty on 10 July 2003.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "PTCpedia carried one article about this character under two titles: \"Markus Stone\" (/promotions/ptc/archive/ptcpedia-markus-stone.html, captured 20 Aug 2010) and, in an earlier capture, \"Zero\" (/promotions/ptc/archive/ptcpedia-zero.html, captured 7 Mar 2008). Both are the same body text; the article's own reason for the two titles is in it — \"best known for his prominent role in the World Internet Wrestling where he wrestled under the name Zero\", and \"Markus hung up the name Zero, which he had used his entire WIW career\", after which he wrestled under his own billing. As the wiki's own secondary account it tells: a WIW career as Zero (a WIW Television Championship dated 24 Feb – 16 Mar 2000, one WIW World Heavyweight Championship, that fed's Hall of Fame, and a return in the WIW:NG iteration); then the DWO, joined \"a few applications later\", carrying a DWO Rising Star Award, which is the run this record holds off the DWO's own August 2003 roster page and its Travesty of 10 July 2003; then a 2007 contract with Global Championship Wrestling, where the article has him reform the tag team Banned & Exiled~! with Chris Storm and hold that fed's Tag Team Championship from 5 April 2007, its longest tag reign. The GCW tenure rests on GCW's own card, and the WIW:NG tenure on WIW:NG's own title histories and cards, joined by the DWO's own Travesty of 22 May 2003; the wiki's other claims stay its own (#secondary-source-pivot). The article's WIW-era \"Zero\" is not any of the seven held rows of that name — euwc-zero-euwc, zero-zwf, zero-chz, zero-cwf-continental, zero-cswa, zero-rspwf and zero-gxw-2001 — none of which is a WIW row and none of which shares its billed vitals (Oklahoma City; the finishers Silencing the Voices and Zero Tolerance); \"Zero\" is a generic gimmick name this hobby reused, and no merge is proposed against any of them. PTCpedia's own separate Banned & Exiled~! article (/promotions/ptc/archive/ptcpedia-banned-exiled.html, captured 20 Aug 2010) is about the team rather than either man; it claims the pair first wrestled as Banned & Exiled~! in the one and only Primetime Central Tag Team tournament, beating Jade & Lacuna Debris in the first round before this character withdrew and was replaced by a wrestler named Sin, the replacement pairing then losing to the tournament's eventual winners, the Phenomenons. No unit row is minted for the team here.",
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Championship Wrestling's own biography card (accession 0159) is this record: the same character carried by its own hand into a fourth federation's record. Its Other Feds field on that card reads, verbatim: “WIW, DWO”."
+   }
+  ]
+ },
+ {
+  "id": "medulla-oblongata",
+  "type": "character",
+  "name": "Medulla Oblongata",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "columnist",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "caption": "Wrote The (Shooting Star) Press for the DWO on a strict deadline, and said so in the column.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "michael-michaelson",
+  "type": "character",
+  "name": "Michael Michaelson",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "reporter",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named as one of four DWO reporters on the fed's own August 2003 roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "michelle-raines",
+  "type": "character",
+  "name": "Michelle Raines",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty card of 9 October 2003, served at /promotions/dwo/archive/travesty-2003-10-09-card.html",
+    "note": "The fed's own card writes \"Michelle Raines, a new addition to the DWO looking to make his debut\" — the pronoun is the fed's own."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A new addition to the DWO billed to debut on 9 October 2003 against the new Pride title contender.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "micky-brewer",
+  "type": "character",
+  "name": "Micky Brewer",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "bell ringer",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "caption": "The DWO's own bell ringer.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "mike-anderson-dwo",
+  "type": "character",
+  "name": "Mike Anderson",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named as one of six DWO referees on the fed's own August 2003 roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "anderson-uwf"
+    ],
+    "note": "Normalizes against UWF's own anderson-uwf on the surname alone; nothing connects them."
+   }
+  ]
+ },
+ {
+  "id": "mike-cerrone",
+  "type": "character",
+  "name": "Mike Cerrone",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html",
+    "note": "The fed's own show scripts call its commentary team Mike and Jay throughout, and its own writers' guidelines name them the same way; the roster page is the only document that gives either man a surname. Which of the two roster names belongs to which broadcast voice is not settled by anything held."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Named as one of the DWO's own two commentators on the fed's own August 2003 roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "mike-pizaz",
+  "type": "character",
+  "name": "Mike Pizaz",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Travesty of 22 August 2002, served at /promotions/dwo/archive/travesty-2002-08-22.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat the DWO World Champion, AJ Trinidad, in his own debut match on 22 August 2002, with the Circle of Rage at ringside.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "monstar",
+  "type": "character",
+  "name": "Monstar",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed into a four corners bondage match on the Balls to the Wall card, and named in the fed's own wrestler database.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "nick-crowe",
+  "type": "character",
+  "name": "Nick Crowe",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Fought Julius Corbin to a standstill on Travesty and lost to Kaanen Thorne at Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "noah-white",
+  "type": "character",
+  "name": "Noah White",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Intercontinental Champion",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Lost to JVA at Christmas Chaos and to the debuting Tyrone Grace a fortnight later, and was still billed as the DWO Intercontinental Champion into January 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "peter-jacobs",
+  "type": "character",
+  "name": "Peter Jacobs",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "ring announcer",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "The DWO's own ring announcer, who called the winners at Christmas Chaos and on Travesty and drew every champion's name out to its last letter.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "pola-bear",
+  "type": "character",
+  "name": "Pola Bear",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named on the DWO's own August 2003 roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "ragaen-marx",
+  "type": "character",
+  "name": "Ragaen Marx",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "time keeper",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "caption": "The DWO's own time keeper.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "rain-riley",
+  "type": "character",
+  "name": "Rain Riley",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "reporter",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-05-to-06.html; /promotions/dwo/archive/the-dwo-locker-room.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "The DWO's own lead reporter, who wrote the front page's news items through 2002 and welcomed the roster to the locker room in March.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "rainer",
+  "type": "character",
+  "name": "Rainer",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html; the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Travesty card of 9 October 2003, served at /promotions/dwo/archive/travesty-2003-10-09-card.html",
+    "note": "One of the four men at Kaiowas' own fire in the fed's post-UnStAbLe segment, told that a super power had formed against them. PTCpedia carried one article under two titles, Rainer and Regin (/promotions/ptc/archive/ptcpedia-rainer.html and /promotions/ptc/archive/ptcpedia-regin.html, both captured 7 Mar 2008): a German billed as Rainer, Яainer and Regin in the DWO's d.W.o: New Breed, finishing with Der Hydrahalt and claiming a Pride Championship.",
+    "role": "wrestler — DWO Pride Champion"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Told the DWO he was done low-mid carding, main-evented the same week against Apocalypse, and was signed to challenge Kaiowas for the Heavyweight title inside the Crimson Steel Cage.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "Regin",
+   "Ainer"
+  ],
+  "notes": "PTCpedia carries this character under two articles matching this record's own claimed finisher and federation: the Ainer article (/promotions/ptc/archive/ptcpedia-ainer.html) gives the finisher \"Der Hydrahalt,\" hometown Cologne, Germany, and a claimed DWO Pride Championship; the Reign article (/promotions/ptc/archive/ptcpedia-reign.html), both captured 19 Aug 2010, names the same finisher and hometown and narrates the subject outright as \"Phaëton Reginald Lerner... who competed in the Dominant Wrestling Organization under the ring names Rainer, Яainer & Regin\" — this record's own billed name and its existing aka, Regin, named together in the same sentence. The claimed DWO Pride Championship is not corroborated by the held DWO corpus, which carries only this record's own brief 2003 appearance with no title reign. Recorded as the articles' own claim; no title added to the existing tenure."
+ },
+ {
+  "id": "richter-dwo",
+  "type": "character",
+  "name": "Richter",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Lost to LOX at Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "rick-velocity",
+  "type": "character",
+  "name": "Rick Velocity",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Travesty of 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "A newcomer on the DWO's own August 2003 roster, billed into a four corners bondage match on the Balls to the Wall card.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "roulette-dwo",
+  "type": "character",
+  "name": "Roulette",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Travesty card of 9 October 2003, served at /promotions/dwo/archive/travesty-2003-10-09-card.html",
+    "note": "Posts on the fed's own forum as Roulettes_Rising, last poster on the Roleplay Board in February 2003. Relentless, 25 September 2003, gives her own kayfabe backstory in full: born Kayna Trielle, cursed by the Devil himself to be reincarnated after death for refusing to become one of his \"chosen children,\" her parents dying by her own hand in every lifetime; she manifests a childlike spirit, K.T. (kt-spirit), to corroborate it to Gual. The same show recalls her murdered Uncle Vee, hanged by Damian and Samantha, and has her privately steering Christian Darke and Gual apart to protect a debuting Stephanie Summers."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named on the DWO's own August 2003 roster and defending the Tag Team Championship with Damian on its card of 9 October 2003.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "Kayna",
+   "Kayna Trielle"
+  ]
+ },
+ {
+  "id": "samantha-dwo",
+  "type": "character",
+  "name": "Samantha",
+  "aka": [
+   "Samantha Jezebel D'vadia"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "manager"
+    ],
+    "role": "manager — Damian's own",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "grade": "primary-source",
+    "source": "Damian's own DWO history page, served at /promotions/dwo/archive/damian-history.html",
+    "hometown": "Pittsburgh, Pennsylvania",
+    "entrance_music": {
+     "title": "Her Ghost In The Fog",
+     "artist": "Cradle of Filth",
+     "verbatim": "'Her Ghost In The Fog' by Cradle of Filth",
+     "corrected": "\"Her Ghost in the Fog\" by Cradle of Filth"
+    },
+    "note": "A minimal mint, made so the manager-of edge has an entity to point at. Everything held about her is on the wrestler she manages: his own history page gives her a card of her own — \"Real Name: Samantha Jezebel D'vadia\", Pittsburgh, born \"3:21 AM November 13, 1981\", entering to Cradle of Filth — and his own tenure records her verbatim in its `manager` field. The same page's story has him meet her as a girl who took him in, and has her turn out to be eating people herself. She works no match anywhere in the held record."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Managed Damian through the DWO, carrying a card of her own on his own history page — Pittsburgh, an entrance to Cradle of Filth, and a story in which she took him in and turned out to be eating people too.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   }
+  }
+ },
+ {
+  "id": "scott-curtis",
+  "type": "character",
+  "name": "Scott Curtis",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Listed inactive on the DWO's own August 2003 roster.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "sean-campbell-dwo",
+  "type": "character",
+  "name": "Sean Campbell",
+  "aka": [
+   "The Rising Star"
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/sean-campbell-bio-card.html; the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html",
+    "height": "5'11\"",
+    "weight": "235",
+    "hometown": "Toronto, Canada",
+    "alignment": "Popular, Popular Face",
+    "finisher": "Rising Star Press",
+    "entrance_music": {
+     "title": "Renegades of Funk",
+     "artist": "Rage Against The Machine",
+     "verbatim": "\"Renegades of Funk\" by Rage Against The Machine",
+     "corrected": "\"Renegades of Funk\" by Rage Against the Machine"
+    },
+    "note": "His own card names three other federations by name — the Elite Wrestling Alliance, Extreme Hardcore Wrestling and its own International Title, and an EHW Creative Team seat."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "The Rising Star, a Toronto high-flyer who was still the Extreme Hardcore Wrestling International Champion when he signed on, and who lost a tag elimination for the DWO Tag Team contendership at Shock Syndrome.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "sean-quinn",
+  "type": "character",
+  "name": "Sean Quinn",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Extreme Champion",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Relentless of 25 September 2003, served at /promotions/dwo/archive/relentless-2003-09-25.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named on the DWO's own August 2003 roster, and DWO Extreme Champion by the fed's own Relentless of 25 September 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "sean-smythe",
+  "type": "character",
+  "name": "Sean Smythe",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html",
+    "note": "Filed in the fed's own database under the handle torch."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named on the DWO's own August 2003 roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "seth-valentine",
+  "type": "character",
+  "name": "Seth Valentine",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One half of the handicap side that beat Judgment at Shock Syndrome, and lost the Extreme contendership to his own partner in the same match.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "shawna-blaze",
+  "type": "character",
+  "name": "Shawna Blaze",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31-continued.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat Donny Diamond on a Luke Lawless run-in, lost an endurance match to Alyssa Sanders with an injured arm, and lost the World Title tournament semi-final to Julius Corbin.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "blaze",
+     "busta-rap-shawn"
+    ],
+    "note": "Normalizes against UWF's own blaze and GIWF's own shawn-giwf on halves of the name; nothing connects them."
+   }
+  ]
+ },
+ {
+  "id": "skorp",
+  "type": "character",
+  "name": "Skorp",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Relentless of 25 September 2003, served at /promotions/dwo/archive/relentless-2003-09-25.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Lost to the debuting Zahri on the DWO's own Relentless of 25 September 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "son-shinoda",
+  "type": "character",
+  "name": "Son Shinoda",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed into a four corners bondage match on the Balls to the Wall card.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "styles-morgan",
+  "type": "character",
+  "name": "Styles Morgan",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Shock Syndrome results, served at /promotions/dwo/archive/loa-shock-syndrome-2002-06.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Wrestled the tag team elimination for the DWO Tag Team contendership at Shock Syndrome, which the fed ruled no contest.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "switchblade-dwo",
+  "type": "character",
+  "name": "Switchblade",
+  "aka": [
+   "Michael Kalt"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare ring name exactly with OSW's own switchblade. No receipt connects them; filed distinct at mint per the collision doctrine.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — DWO Extreme Champion",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own bio card, served at /promotions/dwo/archive/switchblade-bio-card.html; the fed's own Champions page, served at /promotions/dwo/archive/dwo-champions-2002-06.html",
+    "height": "5'11\"",
+    "weight": "180",
+    "hometown": "Philadelphia, PA",
+    "alignment": "Face, Face",
+    "finisher": "Lethal Incision",
+    "entrance_music": {
+     "artist": "Alien Ant Farm",
+     "title": "Wish",
+     "verbatim": "Alien Ant Farm \"Wish\"",
+     "corrected": "\"Wish\" by Alien Ant Farm"
+    }
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "The Xtremist, DWO Extreme Champion from 23 May 2002, who came into the fed off an underground fighting career and defended the belt in a glass hands match.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "syko-arsonist",
+  "type": "character",
+  "name": "Syko Arsonist",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-09-to-10.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2009-05",
+    "last_seen": "2009-05",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — a fallen former star returning to PTC after years of addiction, entering IG61B/IG62",
+    "grade": "primary-source",
+    "source": "PTC forum, PTC's Infinite Gauntlet, \"Into the Abyss\" (post 297925, topic 25820) and \"Have A Little Faith\" (post 299441, topic 25875), 13-31 May 2009"
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2004-03-27",
+    "last_seen": "2004-05-07",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "CW's own backstage database (accession 0159), bio 16534",
+    "note": "Dated from the CW1 tournament's own round record: 4 of its rounds, 27 March 2004 to 7 May 2004."
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2009-09-30",
+    "last_seen": "2009-09-30",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "GTT7's own backstage database (accession 0159), bio 15973",
+    "note": "Dated from the GTT7 tournament's own round record: 1 of its rounds, 30 September 2009."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Brawled The Executioner across a concrete floor until a referee pulled them apart, demanded a better spot in the fed or he walked, and beat Rainer at Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "terry-woods-dwo",
+  "type": "character",
+  "name": "Terry Woods",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name exactly with LOW's own terry-woods and with the Terry Woods PTC's own reign ledger records as its Extreme Champion at New Era. All three sit inside one alliance in one two-year window and may well be one man; no receipt says so, and the collision doctrine files them apart until one does.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-09-to-10.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Teamed with Kristi Kiss against a visiting WIW:NG pair, and was thanked for it by the DWO's own owner in the same breath as the fed's Extreme, Intercontinental and Tag Team titles.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-event-dwo",
+  "type": "character",
+  "name": "The Event",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat Xander Payne at Christmas Chaos, lost his own World Title tournament match to Kaiowas, and was defending the Intercontinental title in the brawl for all on the Crimson Dance card.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "tiddy-obiddy",
+  "type": "character",
+  "name": "Tiddy O'Biddy",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own Relentless, 25 September 2003, served at /promotions/dwo/archive/relentless-2003-09-25.html",
+    "note": "Named as the referee of a recapped Christian Darke/Stephanie Summers match on Relentless, 25 September 2003, whose count the fed's own commentary calls blatantly favorable to Summers."
+   }
+  ],
+  "caption": "One of six DWO referees on the fed's own August 2003 roster page, named refereeing a disputed Christian Darke/Stephanie Summers match recapped on Relentless, 25 September 2003.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit"
+ },
+ {
+  "id": "timothy-marcus",
+  "type": "character",
+  "name": "Timothy Marcus",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty card of 9 October 2003, served at /promotions/dwo/archive/travesty-2003-10-09-card.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Fed Lexis Bane lie after lie about Callisto Bane, and was made to face an opponent he was not allowed to know the name of.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "tyrone-grace",
+  "type": "character",
+  "name": "Tyrone Grace",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own roster page, served at /promotions/dwo/archive/dwo-roster-2003-08.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html; the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html"
+   },
+   {
+    "promotion": "ptc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "source": "Primetime Central's own New Era supercard segment of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-tyrone-grace-segment.html; the fed's own buildup board, a Tyrone Grace roleplay at /promotions/ptc/rp/human-extreme-cluster-fuck-rp-2.html",
+    "note": "No PTC-side twin was ever minted, so this tenure attaches here rather than resolving a collision, per the SurReal/DWO precedent's own shape."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "note": "Consolidated in the v104 contagion sweep (2026-08-30), on this promotion's own accession digest §9.3 (\"close to a receipt\") and data/review-queue.json #195 (\"a coordinator call: merge, or record why not\"), per the standing rule: PTC's own Tyrone Grace roleplay (human-extreme-cluster-fuck-rp-2.html) cross-narrates DWO's own recorded history in its own voice — \"the same lame mistake that he made in the DWO match... his match with Kai Shinobi\" — Kai Shinobi being the man who beat Kaiowas on DWO's own Travesty of 10 July 2003. A fed's own text cross-narrating the same career leg from the other side clears even the pre-v104 Dan-Ryan bar. The PTC segment's own tenure folds in above.",
+    "with": []
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Debuted on Travesty in January 2003 beating Noah White with the Image of Perfection, held the Tag Team Championship, lost the Extreme title match that main-evented 10 July 2003 and welcomed the man who beat him into the DoD afterwards.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "vash-dwo",
+  "type": "character",
+  "name": "Vash",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Beat Xander Payne with the Hard Target to reach the last four of the DWO World Title tournament, and lost to Kaiowas at Christmas Chaos.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "wicked-dwo",
+  "type": "character",
+  "name": "Wicked",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Spat the Black Mist in his own DWO debut in January 2003, hit his own foot with it, and lost to Vash.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "xander-payne",
+  "type": "character",
+  "name": "Xander Payne",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Normalizes against FAW's own xander-faw; no receipt connects them.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own Christmas Chaos, served at /promotions/dwo/archive/loa-christmas-chaos-2002-12-31.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-12-to-2003-01.html; the fed's own news, served at /promotions/dwo/archive/dwo-news-2002-09-to-10.html",
+    "note": "One of the four men at Kaiowas' own fire in the fed's post-UnStAbLe segment, told that a super power had formed against them. PTCpedia's own Xander Payne article (/promotions/ptc/archive/ptcpedia-xander-payne.html, captured 7 Mar 2008) claims a DWO Tag Team Championship with Aceldama inside d.W.o: New Breed, bills him Canadian, from Yorkton, Saskatchewan, finishing with Payne for Pleasure, and reports his death in 2005."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Lost to The Event at Christmas Chaos and to Vash in the World Title tournament, and sat at Kaiowas' fire as one of the New Breed.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "zahri",
+  "type": "character",
+  "name": "Zahri",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Relentless of 25 September 2003, served at /promotions/dwo/archive/relentless-2003-09-25.html"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "A newcomer who beat Skorp on the DWO's own Relentless of 25 September 2003.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kazuyin",
+  "type": "character",
+  "name": "Kazuyin",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "Chryste's own kayfabe husband; non-wrestler",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own special preview edition of Travesty, 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html",
+    "note": "Appears backstage confronting Chryste over her own interview, pulling her hair and slapping her before Carys intervenes; Chryste's own words describe herself as \"happily married to Kazuyin\" and \"very loyal in my love,\" underplaying his violence. Chryste's own later Legend montage (served, 2003) recalls her staring up at “a deceased Kazuyin,” so the character does not survive to the held record's end."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Chryste's own kayfabe husband, staged backstage on Travesty of 22 May 2003 pulling her hair and threatening her until Carys stepped between them — dead by the time her own Legend montage looks back on the marriage.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "chad-tucker-dwo",
+  "type": "character",
+  "name": "Chad Tucker",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "manager"
+    ],
+    "role": "Kirk Morris's own agent",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own special preview edition of Travesty, 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html",
+    "note": "Conducts an on-camera interview with Kirk Morris ahead of his Intercontinental title challenge against Chryste, billing himself \"the best looking man currently around.\""
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Kirk Morris's own agent, credited with conducting his own on-camera interview ahead of the Intercontinental title challenge against Chryste on the LOA: Balls to the Wall preview.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "gally",
+  "type": "character",
+  "name": "Gally",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "Kai Shinobi's own Spirit Guide",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own special preview edition of Travesty, 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html",
+    "note": "Staged as a spectral presence only Kai can see and hear, arguing with him backstage about his motives ahead of the main event against Kaiowas; the scene ends with Kai's eyes flaring and a mirror shattering, which Gally then lies to him about."
+   }
+  ],
+  "nonhuman": true,
+  "species": "spirit guide",
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Kai Shinobi's own Spirit Guide, staged as a spectral presence arguing with him backstage before his main-event match against Kaiowas on the LOA preview show.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "bostwhick",
+  "type": "character",
+  "name": "Bostwhick",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "manager"
+    ],
+    "role": "Kuff McSlade's own butler",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own special preview edition of Travesty, 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html",
+    "note": "Staged mocking and drugging his own employer before turning to camera to order Chryste, off-page, to \"destroy Kuff\" in their Extreme title match — a manager scheming against the man he manages."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Kuff McSlade's own butler, staged drugging his employer and privately ordering Chryste to \"destroy\" him ahead of their Extreme title match.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "carla-dwo",
+  "type": "character",
+  "name": "Carla",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "Scott Curtis's own girlfriend",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own special preview edition of Travesty, 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html",
+    "note": "Staged on the phone describing Scott Curtis's own recent \"violent mood swings,\" discovering a gun in his duffel bag moments before he appears in the doorway."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Scott Curtis's own girlfriend, staged discovering a gun in his duffel bag and describing his recent \"violent mood swings\" on the LOA preview show.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "carla-pwe-projectefed"
+    ],
+    "note": "Shares a bare first name with PWE ProjectEfed's own Carla; no receipt connects the two and this one is staged purely as Scott Curtis's own DWO-side girlfriend, never a wrestler in her own right."
+   }
+  ]
+ },
+ {
+  "id": "mitch-dwo",
+  "type": "character",
+  "name": "Mitch",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "Konstantine's own ex-boyfriend",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own special preview edition of Travesty, 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html",
+    "note": "Staged confronting and striking Konstantine outside an airport before Christian Darke pushes him off; Konstantine tells him \"it's over.\""
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Konstantine's own ex-boyfriend, staged striking her outside an airport before Christian Darke intervened on the LOA preview show.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "adam-mitchell-rspwf",
+     "big-mitch",
+     "frankie-mitchell-cswa",
+     "freddie-mitchell-cswa",
+     "john-mitchell-napw",
+     "mike-extreme",
+     "mitch-goldstein",
+     "roc-mitchell-cswa",
+     "todd-mitchell-cswa"
+    ],
+    "note": "A bare first name shared with several unrelated Mitchells across other feds' own rosters; no receipt connects any of them, and this one never wrestles — a civilian ex-boyfriend staged only in one backstage confrontation on the DWO's own preview show."
+   }
+  ]
+ },
+ {
+  "id": "dane-shepherds",
+  "type": "character",
+  "name": "Dane Shepherds",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — billed the Rising Dominance Tournament runner-up",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own special preview edition of Travesty, 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html",
+    "note": "Billed for the seven-man gauntlet match at LOA: Balls to the Wall, named on-air as the Rising Dominance Tournament's own runner-up."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Billed the DWO's own Rising Dominance Tournament runner-up, named for the seven-man gauntlet match at LOA: Balls to the Wall.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "unknown-dragon-dwo",
+  "type": "character",
+  "name": "Unknown Dragon",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own special preview edition of Travesty, 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html",
+    "note": "Billed for the seven-man gauntlet match at LOA: Balls to the Wall. Promotion-qualified at mint: the bare ring name is also carried by an unrelated PWE ProjectEfed wrestler."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Billed for the seven-man gauntlet match at LOA: Balls to the Wall on the DWO's own preview show of 22 May 2003.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "unknown-dragon-pwe-projectefed"
+    ],
+    "note": "Shares a bare ring name with PWE ProjectEfed's own Unknown Dragon; no receipt connects the two and the DWO's own record carries nothing about this one beyond a single gauntlet-match billing."
+   }
+  ]
+ },
+ {
+  "id": "lawrence-widdlestaff",
+  "type": "character",
+  "name": "Lawrence Widdlestaff",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own special preview edition of Travesty, 22 May 2003, served at /promotions/dwo/archive/travesty-2003-05-22.html",
+    "note": "Named only once, by Kirk Morris's own account of defeating him the previous month to earn his own Intercontinental title opportunity; no card carrying that match is held."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Named once in Kirk Morris's own account of a match the held record does not otherwise carry — a defeat Morris cites as his own path to an Intercontinental title shot.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "ty-baron-dwo",
+  "type": "character",
+  "name": "Ty Baron",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html",
+    "note": "The Real Deal's own tag partner in the triple threat tag match opening the fed's own Travesty of 10 July 2003; The Real Deal turns on him after the match, hitting the Ten Ton Hammer off the top rope."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ty-baron"
+    ],
+    "note": "Shares an exact ring name with LOW's own Ty Baron (aka Tyrone Baron); no receipt connects the two."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "The Real Deal's own tag partner on the DWO's own Travesty of 10 July 2003, turned on and Ten Ton Hammered by his own partner after their match.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "chainz-dwo",
+  "type": "character",
+  "name": "Chainz",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html",
+    "note": "Entered with a valet, Tracy; lost to Komodo Dragon via the Dragon Drop, delivered twice."
+   },
+   {
+    "promotion": "prime-2003",
+    "first_seen": "2007-01-10",
+    "last_seen": "2012-08-22",
+    "source": "PRIME's own backstage database (lot 0159)",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Hells Kitchen, NY",
+    "height": "6'5",
+    "weight": "295 lbs",
+    "style": "Extreme, Submissionist, Brawler",
+    "finisher": "Chain Reaction",
+    "manager": "Tracy",
+    "entrance_music": {
+     "verbatim": "My Gift to You by Korn"
+    },
+    "signature_moves": [
+     "Spinebuster",
+     "2 handed choke"
+    ]
+   },
+   {
+    "promotion": "team-2005",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The 2006 Dupree Cup's own Group C broadcasts."
+   },
+   {
+    "promotion": "awc-2005",
+    "first_seen": "2005-10-25",
+    "last_seen": "2006-11-24",
+    "source": "AWC's own database (lot 0159), bio 12249",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (38 shows, every kind of appearance counted). Joined to this record on the card's own evidence: Two specifics. The card's finisher Chain Reaction and nickname Chainz are this record's PRIME card's, whose manager Tracy is billed beside him in AWC's 3558 (25 October 2005: 'Chainz immediately pulls back, listening only to her. Chainz: Alright Tracy.'), and this record's own caption has him valeted to the ring by Tracy; and its TEAM tenure (the 2006 Dupree Cup) falls inside his AWC run. The card's hometown (Birmingham, AL) differs from PRIME's (Hells Kitchen, NY) and its Other Feds name neither DWO nor PRIME: a conflict, recorded, not smoothed.",
+    "hometown": "Birmingham, AL",
+    "height": "6'5",
+    "weight": "295 lbs",
+    "style": "Powerhouse, extreme, submission",
+    "finisher": "Chain Reaction",
+    "entrance_music": {
+     "verbatim": "'Cure' by The Wild Colonials",
+     "title": "Cure",
+     "artist": "The Wild Colonials"
+    }
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2009-09-30",
+    "last_seen": "2009-09-30",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "GTT7's own backstage database (accession 0159), bio 15981",
+    "note": "Dated from the GTT7 tournament's own round record: 1 of its rounds, 30 September 2009."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Lost to Komodo Dragon via a double Dragon Drop on the DWO's own Travesty of 10 July 2003, valeted to the ring by Tracy, and in PRIME from January 2007 to August 2012 held the Intense Title for 245 days from Colossus VI in August 2009 and was named Breakout Star for 2008-09.",
+  "caption_asof": {
+   "written": "2026-09-30",
+   "evidence": {
+    "tenures": 3,
+    "reigns": 1,
+    "appearances": 70,
+    "rps": 41,
+    "awards": 1,
+    "relationships": 2
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's biography card (accession 0159), bio 12249, is this record: Two specifics. The card's finisher Chain Reaction and nickname Chainz are this record's PRIME card's, whose manager Tracy is billed beside him in AWC's 3558 (25 October 2005: 'Chainz immediately pulls back, listening only to her. Chainz: Alright Tracy.'), and this record's own caption has him valeted to the ring by Tracy; and its TEAM tenure (the 2006 Dupree Cup) falls inside his AWC run. The card's hometown (Birmingham, AL) differs from PRIME's (Hells Kitchen, NY) and its Other Feds name neither DWO nor PRIME: a conflict, recorded, not smoothed."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PTC tournaments' own entrant card (GTT7, accession 0159, bio 15981) is this record: the card bills him as PRIME's entrant, within this record's PRIME tenure, and a GTT7 roleplay (34181, 15 Oct 2009) names Chainz among the AWC talent PRIME had just picked up."
+   }
+  ]
+ },
+ {
+  "id": "tracy-dwo",
+  "type": "character",
+  "name": "Tracy",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "Chainz's own valet",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html",
+    "note": "Entered alongside Chainz, greeting fans at ringside; no in-ring role."
+   },
+   {
+    "promotion": "prime-2003",
+    "first_seen": "2009-09-23",
+    "last_seen": "2009-09-23",
+    "source": "PRIME's own backstage database (lot 0159)",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "hometown": "New York, NY",
+    "height": "5'5\"",
+    "weight": "100 lbs",
+    "style": "She stands at the ring looking fine and gets mad when guys leer at her enourmous rack."
+   },
+   {
+    "promotion": "awc-2005",
+    "first_seen": "2005-10-25",
+    "last_seen": "2006-11-24",
+    "source": "AWC's own database (lot 0159), bio 12436",
+    "grade": "primary-source",
+    "roles": [
+     "manager"
+    ],
+    "note": "Dated from the cards on which the fed's own record shows it outside a match (41 shows); its match record names none. Joined to this record on the card's own evidence: Two specifics. (1) This record is 'Chainz's own valet, entering with him on the DWO's own Travesty of 10 July 2003', and chainz-dwo is 'valeted to the ring by Tracy'; AWC's Tracy is Chainz's companion, 3558 (25 October 2005): 'Chainz immediately pulls back, listening only to her. Chainz: Alright Tracy.' (2) Argyle's PRIME card for her (PRIME bio 182, one row) is a card pair for this one (New York, NY, the same upper-class-family biography) and this record's one PRIME date is that card's one row. The registry holds the PCW and WWA namesakes distinct.",
+    "hometown": "New York, NY",
+    "height": "5'7",
+    "weight": "102 lbs",
+    "style": "Valet",
+    "entrance_music": {
+     "verbatim": "Cure by The Wild Colonials"
+    }
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tracy-wwa"
+    ],
+    "note": "Shares a bare first name with WWA's own Tracy; no receipt connects the two."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tracy-pcw"
+    ],
+    "note": "A shared ring name with no vital or other-fed corroboration on this card; recurring gimmick names were common across independent federations in this era."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's biography card (accession 0159), bio 12436, is this record: Two specifics. (1) This record is 'Chainz's own valet, entering with him on the DWO's own Travesty of 10 July 2003', and chainz-dwo is 'valeted to the ring by Tracy'; AWC's Tracy is Chainz's companion, 3558 (25 October 2005): 'Chainz immediately pulls back, listening only to her. Chainz: Alright Tracy.' (2) Argyle's PRIME card for her (PRIME bio 182, one row) is a card pair for this one (New York, NY, the same upper-class-family biography) and this record's one PRIME date is that card's one row. The registry holds the PCW and WWA namesakes distinct."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Chainz's own valet, entering with him on the DWO's own Travesty of 10 July 2003.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "miranda-steel",
+  "type": "character",
+  "name": "Miranda Steel",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "Callisto Bane's own lawyer",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Travesty of 10 July 2003, served at /promotions/dwo/archive/travesty-2003-07-10.html",
+    "note": "Introduced on-camera reading Kazuyin's own DWO contract's death-liability clause to Chryste, clearing her of blame for his own accidental death and arranging a company-paid vacation on Callisto Bane's own orders."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Callisto Bane's own lawyer, staged reading a dead wrestler's own contract clause to clear his widow of blame on the DWO's own Travesty of 10 July 2003.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "stephanie-summers-dwo",
+  "type": "character",
+  "name": "Stephanie Summers",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Relentless, 25 September 2003, served at /promotions/dwo/archive/relentless-2003-09-25.html",
+    "note": "A recent DWO addition, recapped on this show beating Christian Darke on a debut disputed count and a Gual interference; the two are shown starting to date afterward. Billed to face Gual on Relentless itself before Christian Darke stepped in for her, a match Callisto Bane then cancelled outright before the bell."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "A recent DWO addition whose disputed debut win over Christian Darke is recapped on Relentless, 25 September 2003, and who is shown beginning to date him afterward.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jan-lilly",
+  "type": "character",
+  "name": "Jan Lilly",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "Chryste's own PR agent",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Relentless, 25 September 2003, served at /promotions/dwo/archive/relentless-2003-09-25.html",
+    "note": "Brings Callisto Bane a ransom note for the missing Chryste, reporting the FBI's belief that she escaped her captors, and is rebuffed until Hecate throws her out of the office."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Chryste's own PR agent, staged bringing Callisto Bane a ransom note for the missing Chryste on Relentless, 25 September 2003, and thrown out of her office by Hecate.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kt-spirit",
+  "type": "character",
+  "name": "K.T.",
+  "tenures": [
+   {
+    "promotion": "dwo",
+    "roles": [
+     "other"
+    ],
+    "role": "Roulette's own manifesting spirit/alter-ego",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the fed's own Relentless, 25 September 2003, served at /promotions/dwo/archive/relentless-2003-09-25.html",
+    "note": "Roulette summons her out of her own body as a small, childlike spirit to corroborate a claim of a century of forced reincarnation at the Devil's own hand; K.T. calls Gual \"dragon man\" on sight, unprompted."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The manifested form is a facet of Roulette's own character rather than an independent wrestler; recorded as its own row because it speaks, acts and is addressed as a separate character on the page.",
+    "with": []
+   }
+  ],
+  "nonhuman": true,
+  "species": "spirit",
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "caption": "Roulette's own manifesting spirit, summoned from her body on Relentless, 25 September 2003 to corroborate her claim of a century of forced reincarnation and to call Gual \"dragon man\" on sight.",
+  "caption_asof": {
+   "written": "2026-08-29",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

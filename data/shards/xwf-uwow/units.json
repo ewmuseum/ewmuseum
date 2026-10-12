@@ -1,0 +1,698 @@
+[
+ {
+  "id": "demolition-xwf-uwow",
+  "type": "unit",
+  "name": "Demolition",
+  "unit_kind": "tag-team",
+  "caption": "A two-time World Tag Team Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-demolition-man-aew"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which CURATION.md v96 treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ax-xwf-uwow",
+     "smash-xwf-uwow",
+     "crush-xwf-uwow"
+    ],
+    "note": "Completing the reciprocal link: all three members' own rows already flag this exact name match as expected — each member's own aka is this unit's billed name, not a duplicate mint; already modeled by this unit's own members[] link. This unit's own existing entry only named the cross-promotion the-demolition-man-aew collision."
+   }
+  ],
+  "portrays": {
+   "figure": "demolition-real",
+   "grade": "primary-source",
+   "note": "The fed's own served title-history ledger bills this unit under the real tag team's own name."
+  },
+  "portrayal_of": "demolition-real",
+  "members": [
+   {
+    "name": "Ax",
+    "character_id": "ax-xwf-uwow"
+   },
+   {
+    "name": "Smash",
+    "character_id": "smash-xwf-uwow"
+   },
+   {
+    "name": "Crush",
+    "character_id": "crush-xwf-uwow"
+   }
+  ]
+ },
+ {
+  "id": "harlem-heat-xwf-uwow",
+  "type": "unit",
+  "name": "Harlem Heat",
+  "unit_kind": "tag-team",
+  "caption": "A one-time World Tag Team Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "portrays": {
+   "figure": "harlem-heat-real",
+   "grade": "primary-source",
+   "note": "The fed's own served title-history ledger bills this unit under the real tag team's own name."
+  },
+  "portrayal_of": "harlem-heat-real",
+  "members": [
+   {
+    "name": "Booker T",
+    "character_id": "booker-t-xwf-uwow"
+   },
+   {
+    "name": "Stevie Ray",
+    "character_id": "stevie-ray-xwf-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "stevie-ray-xwf-uwow"
+    ],
+    "note": "Completing the reciprocal link: stevie-ray-xwf-uwow's own entry already flags this exact name match as expected — his own aka is this unit's billed name, not a duplicate mint; the member relationship is already modeled by this unit's own members[] link (booker-t-xwf-uwow, stevie-ray-xwf-uwow)."
+   }
+  ]
+ },
+ {
+  "id": "steiner-bros-xwf-uwow",
+  "type": "unit",
+  "name": "Steiner Bros",
+  "unit_kind": "tag-team",
+  "caption": "A XWF tag team in the fed.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "membership_unknown": true,
+  "notes": "Listed on XWF's own roster page (June 2008); no individual members separately attested in XWF's own served text.",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "stein-napw"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which CURATION.md v96 treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "strike-force-xwf-uwow",
+  "type": "unit",
+  "name": "Strike Force",
+  "unit_kind": "tag-team",
+  "caption": "A XWF tag team in the fed.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "membership_unknown": true,
+  "notes": "Listed on XWF's own roster page (June 2008); no individual members separately attested in XWF's own served text.",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "force",
+     "can-am-strike-force"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which CURATION.md v96 treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "natural-disasters-xwf-uwow",
+  "type": "unit",
+  "name": "Natural Disasters",
+  "unit_kind": "tag-team",
+  "caption": "A XWF tag team in the fed.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "membership_unknown": true,
+  "notes": "Listed on XWF's own roster page (June 2008); no individual members separately attested in XWF's own served text.",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ]
+ },
+ {
+  "id": "la-resistance-xwf-uwow",
+  "type": "unit",
+  "name": "La Resistance",
+  "unit_kind": "tag-team",
+  "caption": "A XWF tag team in the fed.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Decorated-aka substring collision only: \"La Resistance\" normalizes to contain \"Resistance,\" which an unrelated WWA-era unit also carries as its own full name. Different promotions, no receipt joining them. Filed per the no-auto-merge-and-no-silent-distinctness rule.",
+    "with": [
+     "the-resistance-wwa"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rene-dupree-xwf-uwow",
+     "sylvan-grenier-xwf-uwow"
+    ],
+    "note": "Completing the reciprocal link for the intra-wing collision (both the “La Resistance” and “Martel Modelling Agency” labels): each member's own aka list carries both of this unit's billed names — an expected exact-string match, not a duplicate mint; already modeled by this unit's own members[] link. This unit's own existing entry only named the cross-promotion the-resistance-wwa collision."
+   }
+  ],
+  "members": [
+   {
+    "name": "Rene Dupree",
+    "character_id": "rene-dupree-xwf-uwow"
+   },
+   {
+    "name": "Sylvan Grenier",
+    "character_id": "sylvan-grenier-xwf-uwow"
+   }
+  ],
+  "aka": [
+   "Martel Modelling Agency"
+  ]
+ },
+ {
+  "id": "bolshevics-xwf-uwow",
+  "type": "unit",
+  "name": "Bolshevics",
+  "unit_kind": "tag-team",
+  "caption": "A XWF tag team in the fed.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "members": [
+   {
+    "name": "Boris Zhukov",
+    "character_id": "boris-zhukov-xwf-uwow"
+   },
+   {
+    "name": "Nikolai Volkoff",
+    "character_id": "nikolai-volkoff-xwf-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "boris-zhukov-xwf-uwow",
+     "nikolai-volkoff-xwf-uwow"
+    ],
+    "note": "Completing the reciprocal link: both members' own rows already flag this exact name match as expected — each member's own aka is this unit's billed name, not a duplicate mint; already modeled by this unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "lax-xwf-uwow",
+  "type": "unit",
+  "name": "LAX",
+  "unit_kind": "tag-team",
+  "caption": "A XWF tag team in the fed.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "members": [
+   {
+    "name": "Homicide",
+    "character_id": "homicide-xwf-uwow"
+   },
+   {
+    "name": "Hernandez",
+    "character_id": "hernandez-xwf-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "homicide-xwf-uwow",
+     "hernandez-xwf-uwow"
+    ],
+    "note": "Completing the reciprocal link: both members' own rows already flag this exact name match as expected — each member's own aka is this unit's billed name, not a duplicate mint; already modeled by this unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "bagwell-norton-xwf-uwow",
+  "type": "unit",
+  "name": "Bagwell & Norton",
+  "unit_kind": "tag-team",
+  "caption": "A XWF tag team in the fed.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Buff Bagwell",
+    "character_id": "buff-bagwell-xwf-uwow"
+   },
+   {
+    "name": "Scott Norton",
+    "character_id": "scott-norton-xwf-uwow"
+   }
+  ],
+  "notes": "Listed on XWF's own roster page (June 2008) as a compound entry; the two names are not otherwise individually attested in XWF's own served text, so no character rows are minted for them separately.",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "aka": [
+   "Vicious and Delicious"
+  ]
+ },
+ {
+  "id": "team-3d-xwf-uwow",
+  "type": "unit",
+  "name": "Team 3D",
+  "unit_kind": "trio",
+  "caption": "Defeated King Kong Bundy, the Barbarian & Warlord at XWF's own debut show; later lost the World Tag Team Championship to Harlem Heat at Genesis.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Brother Ray",
+    "character_id": "brother-ray-xwf-uwow"
+   },
+   {
+    "name": "Brother Devon",
+    "character_id": "brother-devon-xwf-uwow"
+   },
+   {
+    "name": "Runt",
+    "character_id": "runt-xwf-uwow"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served show text"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brother-ray-xwf-uwow",
+     "brother-devon-xwf-uwow",
+     "runt-xwf-uwow"
+    ],
+    "note": "Each member's own aka is this unit's billed name (“Team 3D”) — an expected exact-string match, not a duplicate mint; already modeled by this unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "freebirds-xwf-uwow",
+  "type": "unit",
+  "name": "Freebirds",
+  "unit_kind": "stable",
+  "caption": "Challenged for the XWF World Tag Team Championship at Hardcore Heaven and added Terry Gordy as a returning third man at Trump Card, where American Dragon Bryan Danielson rolled up Michael Hayes for the upset.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Michael P.S. Hayes",
+    "character_id": "michael-hayes-xwf-uwow"
+   },
+   {
+    "name": "Jimmy Garvin",
+    "character_id": "jimmy-garvin-xwf-uwow"
+   },
+   {
+    "name": "Terry Gordy",
+    "character_id": "terry-gordy-xwf-uwow"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served show text"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "michael-hayes-xwf-uwow",
+     "jimmy-garvin-xwf-uwow",
+     "terry-gordy-xwf-uwow"
+    ],
+    "note": "Each member's own aka is this unit's billed name (“Freebirds”) — an expected exact-string match, not a duplicate mint; already modeled by this unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "varsity-club-xwf-uwow",
+  "type": "unit",
+  "name": "Varsity Club",
+  "unit_kind": "stable",
+  "caption": "Reunited at Genesis when Rick Steiner double-crossed his own partners, the Highlanders, to help Kevin Sullivan & Mike Rotundo beat them down.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Kevin Sullivan",
+    "character_id": "kevin-sullivan-xwf-uwow"
+   },
+   {
+    "name": "Mike Rotundo",
+    "character_id": "mike-rotundo-xwf-uwow"
+   },
+   {
+    "name": "Rick Steiner",
+    "character_id": "rick-steiner-xwf-uwow"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served show text"
+   }
+  ]
+ },
+ {
+  "id": "highlanders-xwf-uwow",
+  "type": "unit",
+  "name": "The Highlanders",
+  "unit_kind": "tag-team",
+  "caption": "Debuted at Genesis alongside Rick Steiner, only for Steiner to turn on them after the bell for the reunited Varsity Club.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Robbie",
+    "character_id": "robbie-highlander-xwf-uwow"
+   },
+   {
+    "name": "Rory",
+    "character_id": "rory-highlander-xwf-uwow"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served show text"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "robbie-highlander-xwf-uwow",
+     "rory-highlander-xwf-uwow"
+    ],
+    "note": "Each member's own aka is this unit's billed name (“The Highlanders”) — an expected exact-string match, not a duplicate mint; already modeled by this unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "godwinns-xwf-uwow",
+  "type": "unit",
+  "name": "Godwinns",
+  "unit_kind": "tag-team",
+  "caption": "Both fell in the Genesis legends Annihilation Rules match, managed by Hillbilly Jim.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Henry Godwinn",
+    "character_id": "henry-godwinn-xwf-uwow"
+   },
+   {
+    "name": "Phineus Godwinn",
+    "character_id": "phineus-godwinn-xwf-uwow"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served show text"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "henry-godwinn-xwf-uwow",
+     "phineus-godwinn-xwf-uwow"
+    ],
+    "note": "Each member's own aka is this unit's billed name (“Godwinns”) — an expected exact-string match, not a duplicate mint; already modeled by this unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "outsiders-xwf-uwow",
+  "type": "unit",
+  "name": "The Outsiders",
+  "unit_kind": "tag-team",
+  "caption": "Reunited at Genesis to brutalize Cactus Jack, Kevin Nash jumping the guardrail with a Jack Knife and a tack-covered table.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Scott Hall",
+    "character_id": "scott-hall-xwf-uwow"
+   },
+   {
+    "name": "Kevin Nash",
+    "character_id": "kevin-nash-xwf-uwow"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served show text"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-the-outsiders"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c): \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scott-hall-xwf-uwow",
+     "kevin-nash-xwf-uwow"
+    ],
+    "note": "Completing the reciprocal link for the intra-wing collision: each member's own aka is this unit's billed name (“The Outsiders”) — an expected exact-string match, not a duplicate mint; already modeled by this unit's own members[] link. This unit's own existing entry only named the cross-promotion euwc-the-outsiders collision."
+   }
+  ]
+ }
+]

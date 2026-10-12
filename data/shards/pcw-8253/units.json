@@ -1,0 +1,68 @@
+[
+  {
+    "id": "the-westside-connection-pcw",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Westside Connection",
+    "members": [
+      {
+        "name": "DW",
+        "character_id": "dw-pcw"
+      },
+      {
+        "name": "Ice Cube",
+        "character_id": "ice-cube-pcw"
+      },
+      {
+        "name": "Mack 10",
+        "character_id": "mack-10-pcw"
+      }
+    ],
+    "caption": "A three-wrestler stable named for, and sharing the entrance music of, the real hip-hop group Westside Connection, whose members won the inaugural PCW Tag Team Championship in a four-team ladder match at \"One Night in Hollywood,\" 16 August 1998.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-26"
+    },
+    "notes": "The fed's own title ledger credits the win to \"The Westside Connection\" without naming which two of its three members wrestled; all three are listed as members on that basis.",
+    "tenures": [
+      {
+        "promotion": "pcw-8253"
+      }
+    ]
+  },
+  {
+    "id": "stone-crushers-pcw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Stone Crushers",
+    "membership_unknown": true,
+    "caption": "A tag team billed to challenge for the PCW Tag Team Championship on the fed's own schedule page; no member names survive.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-31"
+    },
+    "tenures": [
+      {
+        "promotion": "pcw-8253",
+        "grade": "billing",
+        "first_seen": "1998-09-21",
+        "last_seen": "1998-09-21",
+        "source": "promotions/pcw-8253/archive/schedule.html",
+        "note": "Billed to challenge the Westside Connection for the PCW Tag Team Championship on the fed's own \"Monday Night Special,\" 21 September 1998; no result survives."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Shares the word \"Crush\"/\"Crusher\" with several held entities (crush-ucwf, crush-wicew, crusher-ucwf, the-crusher-napw) — a generic gimmick element independently reused across unrelated feds; no evidence connects this PCW team to any of them.",
+        "with": [
+          "crush-ucwf",
+          "crush-wicew",
+          "crusher-ucwf",
+          "the-crusher-napw"
+        ]
+      }
+    ]
+  }
+]

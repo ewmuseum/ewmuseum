@@ -1,0 +1,50 @@
+[
+ {
+  "id": "ewo-dominance-award",
+  "type": "award",
+  "promotion": "ewo",
+  "name": "Dominance Award",
+  "page": "/awards/ewo-dominance-award.html",
+  "epitaph": "Given to the entrant with the most eliminations at the promotion's own BodyCount event. Recorded once, on Reno Drake, in 2007.",
+  "epitaph_asof": {
+   "written": "2026-08-23",
+   "evidence": {},
+   "author": "ai"
+  },
+  "bestowals": [
+   {
+    "year": 2007,
+    "recipient": [
+     {
+      "id": "reno-drake-ewo"
+     }
+    ],
+    "source": "/promotions/ewo/archive/titles-and-awards.html; /promotions/ewo/archive/roster-reno-drake.html"
+   }
+  ]
+ },
+ {
+  "id": "ewo-bodycount-award",
+  "type": "award",
+  "promotion": "ewo",
+  "name": "BodyCount Award",
+  "page": "/awards/ewo-bodycount-award.html",
+  "epitaph": "The prize for winning eWo's own BodyCount match. Recorded once, on Erin Jacobs, in 2007 — three years after she refereed the match that crowned the promotion's first champion.",
+  "epitaph_asof": {
+   "written": "2026-08-23",
+   "evidence": {},
+   "author": "ai"
+  },
+  "bestowals": [
+   {
+    "year": 2007,
+    "recipient": [
+     {
+      "id": "erin-jacobs-ewo"
+     }
+    ],
+    "source": "/promotions/ewo/archive/titles-and-awards.html"
+   }
+  ]
+ }
+]

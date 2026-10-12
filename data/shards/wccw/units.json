@@ -1,0 +1,49 @@
+[
+  {
+    "id": "the-titans-wccw",
+    "type": "unit",
+    "name": "The Titans",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Behemoth",
+        "character_id": "behemoth-wccw"
+      },
+      {
+        "name": "Leviathan",
+        "character_id": "leviathan-wccw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wccw",
+        "source": "promotions/wccw/archive/behemoth-bio-card.html",
+        "note": "Known only from Behemoth’s own bio card, which names the team and its manager; no card of the team’s own survives."
+      }
+    ],
+    "caption": "Behemoth and Leviathan’s own tag team, on WCCW’s free-agent roster, managed by The Mystic.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "euwc-the-titans",
+          "the-titans-lcw-1997"
+        ],
+        "note": "A generic tag-team name (\"The Titans\") shared by two other feds' own registered units; no evidence ties WCCW's own Behemoth/Leviathan pairing to either."
+      }
+    ]
+  }
+]

@@ -1,0 +1,310 @@
+[
+ {
+  "id": "el-professor",
+  "type": "character",
+  "name": "El Professor",
+  "tenures": [
+   {
+    "promotion": "adw",
+    "first_seen": "2021",
+    "last_seen": "2021",
+    "role": "a thirty-year veteran of the lucha circuit who walks to the ring in a tweed jacket; won the #1 contendership for the Baja Blast Championship Sponsored by Taco Bell",
+    "source": "promotions/adw/archive/ (the promoter's own play notes, served W9)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A thirty-year veteran of the lucha circuit, tweed jacket and all, who fought The Void to a Steel Cage draw and back across ADW's one surviving season to claim the #1 contendership for the Baja Blast Championship Sponsored by Taco Bell.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "el-triton",
+  "type": "character",
+  "name": "El Triton",
+  "aka": [
+   "El Triton the Lucha Mountain"
+  ],
+  "tenures": [
+   {
+    "promotion": "adw",
+    "first_seen": "2021",
+    "last_seen": "2021",
+    "role": "a mountain in a lucha mask who speaks only in screams and carries his baby with him into the ring; won the vacant Baja Blast Championship Sponsored by Taco Bell in a three-way, then defended it against Gavin Firebrand at Run for the Border",
+    "source": "promotions/adw/archive/ (the promoter's own play notes, served W9)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A mountain of a man in a lucha mask who speaks only in screams and carries his baby into the ring — and, in the one season ADW ran, its Baja Blast Champion Sponsored by Taco Bell, defending the belt against the man who kidnapped his own son.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "rory-borealis",
+  "type": "character",
+  "name": "Rory Borealis",
+  "tenures": [
+   {
+    "promotion": "adw",
+    "first_seen": "2021",
+    "last_seen": "2021",
+    "role": "a hillbilly from Michigan's Upper Peninsula who got high, got lost, and ended up in the southwest",
+    "source": "promotions/adw/archive/ (the promoter's own play notes, served W9)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A hillbilly from Michigan's Upper Peninsula who got high, got lost, and somehow wound up wrestling in the ADW desert — and, at the Run for the Border PPV, beat a former five-time champion clean.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-void",
+  "type": "character",
+  "name": "The Void",
+  "tenures": [
+   {
+    "promotion": "adw",
+    "first_seen": "2021",
+    "last_seen": "2021",
+    "role": "a 6'4\" \"brick shithouse\"; entrant in the season-opening 6-way tag match, cost El Professor the three-way for the vacant title by interference, fought El Professor to a Steel Cage draw for the #1 contendership, then lost the Run for the Border rematch to end the surviving record",
+    "source": "promotions/adw/archive/ (the promoter's own play notes)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A \"brick shithouse\" of a wrestler whose interference cost El Professor the vacant Baja Blast Championship, then fought him to a Steel Cage draw and back for the #1 contendership across ADW's one surviving season.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "gail-storm-adw",
+  "type": "character",
+  "name": "Gail Storm",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "\"Storm\" is a common ring-name element; no evidence beyond the shared word links this ADW entrant to any other registry row billed as/aka \"Storm\" — a wholly separate wing (tabletop, 2021), no shared handler or continuity evidence on file.",
+    "with": [
+     "storm-napw",
+     "storm-newf",
+     "storm-nfw",
+     "storm-obw",
+     "storm-fwf-1992"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "adw",
+    "first_seen": "2021",
+    "last_seen": "2021",
+    "role": "a technical wrestler; entrant in the season-opening 6-way tag match, teamed with The Void and Ras Trent",
+    "source": "promotions/adw/archive/season-recap.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A technical wrestler who teamed with The Void and Ras Trent in the six-way tag match that opened ADW's one surviving season.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ras-trent",
+  "type": "character",
+  "name": "Ras Trent",
+  "tenures": [
+   {
+    "promotion": "adw",
+    "first_seen": "2021",
+    "last_seen": "2021",
+    "role": "a high college kid; entrant in the season-opening 6-way tag match, teamed with The Void and Gail Storm",
+    "source": "promotions/adw/archive/season-recap.html",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A \"high college kid\" who teamed with The Void and Gail Storm in the six-way tag match that opened ADW's one surviving season.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "gavin-firebrand",
+  "type": "character",
+  "name": "Gavin Firebrand",
+  "tenures": [
+   {
+    "promotion": "adw",
+    "first_seen": "2021",
+    "last_seen": "2021",
+    "role": "a fire-and-brimstone preacher character, billed as the Right Reverend; feuded with El Triton across both surviving sessions over the Baja Blast Championship and El Triton's own kidnapped son, losing the title match at Run for the Border",
+    "source": "promotions/adw/archive/ (the promoter's own play notes)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A fire-and-brimstone preacher billed as the Right Reverend, who kidnapped El Triton's son and fought him for the Baja Blast Championship at Run for the Border — and lost.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "dag-boomer",
+  "type": "character",
+  "name": "Dag Boomer",
+  "aka": [
+   "The Yellow Terror"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The substring collision is purely orthographic — \"Error\" happens to appear inside \"Terror\" — with no other shared evidence; a wholly separate wing (tabletop, 2021), no shared handler or continuity evidence on file.",
+    "with": [
+     "error-cyberslam"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "adw",
+    "first_seen": "2021",
+    "last_seen": "2021",
+    "role": "a former five-time Baja Blast Champion Sponsored by Taco Bell; challenged Rory Borealis across both surviving sessions, an unresolved match in the season recap followed by a clean pinfall loss at Run for the Border",
+    "source": "promotions/adw/archive/ (the promoter's own play notes)",
+    "roles": [
+     "wrestler"
+    ]
+   }
+  ],
+  "caption": "A former five-time Baja Blast Champion Sponsored by Taco Bell whose comeback bid against Rory Borealis ran through both of ADW's surviving sessions — and ended in a clean loss at Run for the Border.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ed-johnson",
+  "type": "character",
+  "name": "Ed Johnson",
+  "tenures": [
+   {
+    "promotion": "adw",
+    "first_seen": "2021",
+    "last_seen": "2021",
+    "role": "Commissioner; broke up a backstage brawl between El Triton and Gavin Firebrand's deacons at Run for the Border",
+    "source": "promotions/adw/archive/run-for-the-border.html",
+    "roles": [
+     "authority-figure"
+    ]
+   }
+  ],
+  "caption": "ADW's on-screen Commissioner, seen once wrangling a backstage brawl between El Triton and the Right Reverend Gavin Firebrand's deacons into the ring.",
+  "caption_asof": {
+   "written": "2026-09-01",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

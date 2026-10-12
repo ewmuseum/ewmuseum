@@ -1,0 +1,63 @@
+[
+ {
+  "id": "gr8-wwf-2002-saturday-night-raw-2002-12-07",
+  "type": "show",
+  "name": "Saturday Night RAW",
+  "promotion": "gr8-wwf-2002",
+  "date": {
+   "date": "2002-12-07",
+   "precision": "exact",
+   "source": "The results' own line, \"Results posted on: Saturday 7 December, 2002\"."
+  },
+  "page": "/promotions/gr8-wwf-2002/archive/the-gr8-wwf-fed-new-new-raw-epictactular-2002-12-08.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "goldust-gr8-wwf-2002",
+    "kind": "match"
+   },
+   {
+    "who": "steve-blackman-gr8-wwf-2002",
+    "kind": "match"
+   },
+   {
+    "who": "kurt-angle-gr8-wwf-2002",
+    "kind": "match"
+   },
+   {
+    "who": "edge-gr8-wwf-2002",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "goldust-gr8-wwf-2002"
+     ],
+     [
+      "steve-blackman-gr8-wwf-2002"
+     ]
+    ],
+    "winner_side": 1,
+    "how": "pinfall, after D-Von Dudley put Goldust through a table",
+    "stipulation": "Hardcore Championship",
+    "note": "Blackman regained the title."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "kurt-angle-gr8-wwf-2002"
+     ],
+     [
+      "edge-gr8-wwf-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "submission (Ankle Lock)"
+   }
+  ]
+ }
+]

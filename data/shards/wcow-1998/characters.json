@@ -1,0 +1,119 @@
+[
+ {
+  "id": "kashan-akuma-wcow-1998",
+  "type": "character",
+  "name": "Kashan Akuma",
+  "caption": "A heel competitor from Tokyo, Japan billed in the July 1998 I-Crown tournament field.",
+  "tenures": [
+   {
+    "promotion": "wcow-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-07-13",
+    "source": "The fed's own July 1998 bulletin, carrying a competitor profile.",
+    "grade": "primary-source",
+    "style": "moonsault-based high-flying",
+    "hometown": "Tokyo, Japan",
+    "alignment": "heel"
+   },
+   {
+    "promotion": "g-pro-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1998-08",
+    "last_seen": "1998-09",
+    "source": "promotions/g-pro-1998/archive/battlefield-1998-08-08.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "neo-xealot-acw"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against neo-xealot-acw. Recorded distinct, not merged: no held-promotion roster overlap corroborates a join. Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ },
+ {
+  "id": "marty-warnett-wcow-1998",
+  "type": "character",
+  "name": "Marty Warnett",
+  "caption": "A competitor billed in the July 1998 I-Crown tournament field.",
+  "tenures": [
+   {
+    "promotion": "wcow-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-07-13",
+    "source": "The fed's own July 1998 bulletin, carrying a competitor profile.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "pulga-wcow-1998",
+  "type": "character",
+  "name": "Pulga",
+  "caption": "A competitor billed in the July 1998 I-Crown tournament field.",
+  "tenures": [
+   {
+    "promotion": "wcow-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-07-13",
+    "source": "The fed's own July 1998 bulletin, carrying a competitor profile.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "wug-wcow-1998",
+  "type": "character",
+  "name": "Wug",
+  "caption": "A competitor billed in the July 1998 I-Crown tournament field.",
+  "tenures": [
+   {
+    "promotion": "wcow-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-07-13",
+    "source": "The fed's own July 1998 bulletin, carrying a competitor profile.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "wuzho-wcow-1998",
+  "type": "character",
+  "name": "Wuzho",
+  "caption": "A masked competitor billed in the July 1998 I-Crown tournament field.",
+  "tenures": [
+   {
+    "promotion": "wcow-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-07-13",
+    "source": "The fed's own July 1998 bulletin, carrying a competitor profile.",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "iwf-wow-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-08-31",
+    "last_seen": "1998-10-30",
+    "source": "wins the Ultimate Wrestling Challenge tournament at Summer Explosion III, defeating Vincent Bannister, Xavier Othello and Mr. Excellent in turn (31 August 1998); attacked from behind before the World Heavyweight Championship main event on Friday Night WARFARE (30 October 1998)"
+   }
+  ]
+ }
+]

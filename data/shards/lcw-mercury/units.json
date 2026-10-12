@@ -1,0 +1,391 @@
+[
+ {
+  "id": "entropy-crusade-lcw-mercury",
+  "name": "Entropy Crusade",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "caption": "Dirge and Brimstone's own tag pairing through Mercury's opening months, before EEI absorbed the name.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Dirge",
+    "character_id": "dirge-lcw-mercury"
+   },
+   {
+    "name": "Brimstone",
+    "character_id": "brimstone-lcw-mercury"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-mercury",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)"
+   }
+  ]
+ },
+ {
+  "id": "eei-lcw-mercury",
+  "name": "EEI",
+  "type": "unit",
+  "unit_kind": "stable",
+  "caption": "A self-declared corporation and stable built around Dirge, Brimstone, Vincent Picasso and Johnny Glamour, which absorbed Pariah for one card in April 2002, and held the LCW Mercury Tag Team Championship through three reshufflings among its own members between February and April 2002.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Dirge",
+    "character_id": "dirge-lcw-mercury"
+   },
+   {
+    "name": "Brimstone",
+    "character_id": "brimstone-lcw-mercury"
+   },
+   {
+    "name": "Vincent Picasso",
+    "character_id": "vincent-picasso-lcw-mercury"
+   },
+   {
+    "name": "Johnny Glamour",
+    "character_id": "johnny-glamour-lcw-mercury"
+   },
+   {
+    "name": "Pariah",
+    "character_id": "pariah-lcw-mercury"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-mercury",
+    "first_seen": "2001",
+    "last_seen": "2002",
+    "role": "stable",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)"
+   }
+  ]
+ },
+ {
+  "id": "the-elite-lcw-mercury",
+  "name": "The Elite",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "caption": "Vincent Picasso and Johnny Glamour's own tag pairing, the incarnation of EEI's tag title reign running from February 2002 through Suicide.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Vincent Picasso",
+    "character_id": "vincent-picasso-lcw-mercury"
+   },
+   {
+    "name": "Johnny Glamour",
+    "character_id": "johnny-glamour-lcw-mercury"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-elite-pwe-inc",
+     "the-elite-glw"
+    ],
+    "note": "Shares the generic tag-team name The Elite with units in the unrelated PWE Inc. and GLW promotions; a shared generic team name across unconnected federations is never a merge on its own."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-mercury",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "tag team — Mercury Tag Team Champions",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)"
+   }
+  ]
+ },
+ {
+  "id": "ultimate-refinement-lcw-mercury",
+  "name": "Ultimate Refinement",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "caption": "Dirge and Vincent Picasso's own tag pairing, holding the Mercury tag titles from late March 2002 until Dirge relinquished his own half on air.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Dirge",
+    "character_id": "dirge-lcw-mercury"
+   },
+   {
+    "name": "Vincent Picasso",
+    "character_id": "vincent-picasso-lcw-mercury"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-mercury",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "tag team — Mercury Tag Team Champions",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)"
+   }
+  ]
+ },
+ {
+  "id": "kill-switch-lcw-mercury",
+  "name": "Kill Switch",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "caption": "Sloan and Slingshot's own tag pairing, billed under this name for their own Mercury Tag Title defense against Legion at Rising.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Sloan",
+    "character_id": "sloan-lcw-mercury"
+   },
+   {
+    "name": "Slingshot"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-mercury",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)"
+   }
+  ]
+ },
+ {
+  "id": "oblivion-lcw-mercury",
+  "name": "Oblivion",
+  "type": "unit",
+  "unit_kind": "stable",
+  "caption": "The stable Gol and Magnum Wolf founded at Pariah's own expense, revealed to answer to Sickness as its leader, and briefly including both Trent brothers.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Gol",
+    "character_id": "the-gol-lcw"
+   },
+   {
+    "name": "Magnum Wolf",
+    "character_id": "magnum-wolf-lcw-mercury"
+   },
+   {
+    "name": "Sickness",
+    "character_id": "sickness-lcw"
+   },
+   {
+    "name": "Josh Trent",
+    "character_id": "josh-trent-lcw-mercury"
+   },
+   {
+    "name": "Mikel Trent",
+    "character_id": "mikel-trent-lcw-mercury"
+   },
+   {
+    "name": "Hollow",
+    "character_id": "hollow-lcw-mercury"
+   },
+   {
+    "name": "Robert Young",
+    "character_id": "bob-yobbo-junior-lcw"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "oblivion-mwe"
+    ],
+    "note": "Shares the stable name Oblivion with a unit in the unrelated MWE promotion; a shared stable name across unconnected federations is never a merge on its own."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-mercury",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "stable",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)"
+   }
+  ]
+ },
+ {
+  "id": "the-heat-seekers-lcw-mercury",
+  "name": "The Heat Seekers",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "caption": "Blaze McCoy and Inferno's own tag pairing from March 2002 until Blaze's own release from Mercury at Suicide.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Blaze McCoy",
+    "character_id": "blaze-mccoy-lcw-mercury"
+   },
+   {
+    "name": "Inferno",
+    "character_id": "inferno-lcw-mercury"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-mercury",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)"
+   }
+  ]
+ },
+ {
+  "id": "new-school-lcw-mercury",
+  "name": "New School",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "caption": "A tag team staged on the TSC Alpha side of the TSC feud in Mercury's opening weeks; no surviving document names its own individual members.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "membership_unknown": true,
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "new-school-faw"
+    ],
+    "note": "Shares the generic tag-team name New School with a unit in the unrelated FAW promotion; a shared generic team name across unconnected federations is never a merge on its own."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "lcw-mercury",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)"
+   }
+  ]
+ }
+]

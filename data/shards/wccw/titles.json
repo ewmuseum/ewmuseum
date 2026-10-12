@@ -1,0 +1,19 @@
+[
+  {
+    "id": "wccw-newa-world-heavyweight",
+    "type": "title",
+    "name": "NWA/NeWA World Heavyweight Championship",
+    "promotion": "wccw",
+    "page": "/titles/wccw-newa-world-heavyweight.html",
+    "collection": "0078",
+    "notes": "Source: promotions/wccw/archive/newa-world-heavyweight-title-history.html. The NeWA's own introduction page states the hub \"share[s] their history\" with the real National Wrestling Alliance's own historical World Heavyweight lineage \"up until September 1, 1997 when Frans Joule defeated Dan Severn\" — the real lineage (Orville Brown through the 1997 champions) is the fed's own claimed kayfabe backstory, not a Museum assertion about the real NWA; only the fed's own post-divergence reigns (1 Sep 1997 onward) are structured in reigns.json. The ledger's own footnote {10} (\"defeated Siva in a one match tourney to win the title\") is attached to Chris Worrall's own win, dated 25 Nov 1997 — but Siva the Warrior does not become champion until 8 Mar 1998, a full three reigns later; the raw captured HTML carries the same misplaced footnote (not a transcription artifact), so it is recorded here rather than reassigned or silently dropped.",
+    "epitaph": "WCCW operated under the NeWA hub's own claimed lineage of the real National Wrestling Alliance's World Heavyweight Championship, continuing it in fiction from 1 September 1997 onward under the hub's own champions. Seventeen reigns are recorded from that divergence through the ledger's own last word, 18 December 1999 — Roddy Piper and Dan Severn among them, the real wrestlers staged as the fed's own champions within its own invented history. The full lineage — real and claimed alike — survives verbatim on the fed's own title-history ledger.",
+    "epitaph_asof": {
+      "written": "2026-08-31",
+      "evidence": {
+        "reigns": 17
+      },
+      "author": "ai"
+    }
+  }
+]

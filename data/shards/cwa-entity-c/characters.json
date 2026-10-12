@@ -1,0 +1,125 @@
+[
+ {
+  "id": "deadpool-cwa-entity-c",
+  "type": "character",
+  "name": "Deadpool",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "cwa-entity-c",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-08",
+    "source": "promotions/cwa-entity-c/rp/cwa-c-exhibition-match-1997-08-25.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "An original persona from a single roleplay; no primary-source evidence connects it to any similarly-named registry entry (checked against data/characters.json, no match).",
+    "with": []
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; no identity join is asserted (bare-name match is insufficient)",
+    "with": [
+     "deadpool-mff",
+     "deadpool-rwa-rugged"
+    ]
+   }
+  ],
+  "notes": "Won the fed's own exhibition match by submission (\"The Dead Lock\") over The Shamus.",
+  "caption": "Won the fed's own exhibition match by submission (\"The Dead Lock\") over The Shamus.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-shamus-cwa-entity-c",
+  "type": "character",
+  "name": "The Shamus",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "cwa-entity-c",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-08",
+    "source": "promotions/cwa-entity-c/rp/cwa-c-exhibition-match-1997-08-25.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "An original persona from a single roleplay; no primary-source evidence connects it to any similarly-named registry entry (checked against data/characters.json, no match).",
+    "with": []
+   }
+  ],
+  "notes": "Billed \"from the once proud All Star Alliance\"; lost the fed's own exhibition match to Deadpool by submission.",
+  "caption": "Billed \"from the once proud All Star Alliance\"; lost the fed's own exhibition match to Deadpool by submission.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "tim-linch-cwa-entity-c",
+  "type": "character",
+  "name": "Tim Linch",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "cwa-entity-c",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "1997-08",
+    "source": "promotions/cwa-entity-c/rp/cwa-c-exhibition-match-1997-08-25.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "An original persona from a single roleplay; no primary-source evidence connects it to any similarly-named registry entry (checked against data/characters.json, no match).",
+    "with": []
+   }
+  ],
+  "notes": "The fed's own referee for its exhibition match.",
+  "caption": "The fed's own referee for its exhibition match.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

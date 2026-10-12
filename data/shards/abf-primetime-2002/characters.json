@@ -1,0 +1,2608 @@
+[
+ {
+  "id": "ric-flair-abf-primetime-2002",
+  "type": "character",
+  "name": "Ric Flair",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "grade": "primary-source",
+    "source": "ABF's own served news rows (a July 2002 firing list; the July 2002 \"New Player?\" backstage item)."
+   }
+  ],
+  "caption": "An ABF performer, billed under the real professional wrestler's own name, per the fed's own served news rows.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "portrays": {
+   "figure": "ric-flair-real",
+   "grade": "primary-source",
+   "note": "ABF's own served record bills this character under the real performer's own name."
+  },
+  "portrayal_of": "ric-flair-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ric-flair-dreamcard",
+     "ric-flair-ewa-email",
+     "ric-flair-fob",
+     "ric-flair-newcowf-1997",
+     "ric-flair-nwwa-1998",
+     "ric-flair-rswa",
+     "ric-flair-ssdrr-1996",
+     "ric-flair-uwf-uwow",
+     "ric-flair-uwow",
+     "ric-flair-wewf-worldefed",
+     "ric-flair-wpwf",
+     "ric-flair-wwwf-1997"
+    ],
+    "note": "An exact name match across eleven other promotions' own portrayals of the same real wrestler. Each is filed as its own per-promotion row, never merged across promotions, and linked only through the shared external-figures record (ric-flair-real)."
+   }
+  ]
+ },
+ {
+  "id": "vince-mcmahon-abf-primetime-2002",
+  "type": "character",
+  "name": "Vince McMahon",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "grade": "primary-source",
+    "source": "ABF's own served \"New Player?\" news row (2 July 2002), billed as \"ABF CEO Vince McMahon.\""
+   }
+  ],
+  "caption": "ABF's own in-fiction CEO, billed under the real professional wrestler's own name, per the fed's own served news row.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "portrays": {
+   "figure": "vince-mcmahon-real",
+   "grade": "primary-source",
+   "note": "ABF's own served record bills this character under the real performer's own name as its own in-fiction CEO."
+  },
+  "portrayal_of": "vince-mcmahon-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "vince-mcmahon-uwow",
+     "vince-mcmahon-uwf-uwow",
+     "vince-mcmahon-rspwwcw",
+     "vince-mcmahon-swl-1997b"
+    ],
+    "note": "An exact name match across four other promotions' own portrayals of the same real figure. Each is filed as its own per-promotion row, never merged, linked only through the shared external-figures record (vince-mcmahon-real)."
+   }
+  ]
+ },
+ {
+  "id": "mick-foley-abf-primetime-2002",
+  "type": "character",
+  "name": "Mick Foley",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "grade": "primary-source",
+    "source": "ABF's own served Hell in a Cell card (30 June 2002), billed as reigning ABF Hardcore Champion."
+   }
+  ],
+  "caption": "The reigning ABF Hardcore Champion at the time of its own served Hell in a Cell card, billed under the real professional wrestler's own name.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "portrays": {
+   "figure": "mick-foley-real",
+   "grade": "primary-source",
+   "note": "ABF's own served record bills this character under the real performer's own name."
+  },
+  "portrayal_of": "mick-foley-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mick-foley-ewa-email",
+     "mick-foley-faw"
+    ],
+    "note": "An exact name match across two other promotions' own portrayals of the same real wrestler. Each is filed as its own per-promotion row, never merged, linked only through the shared external-figures record (mick-foley-real)."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cactus-jack-uwow"
+    ],
+    "note": "Flagged by an aka match: cactus-jack-uwow's own aka list carries \"Mick Foley\" as the same real performer's other billed ring name. UWOW's own portrayal is filed under that other name and points at its own external-figures record (cactus-jack-real), a separate node from this promotion's own (mick-foley-real); no merge implied."
+   }
+  ]
+ },
+ {
+  "id": "hacksaw-jim-duggan-abf-primetime-2002",
+  "type": "character",
+  "name": "\"Hacksaw\" Jim Duggan",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9041",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"Hacksaw\" Jim Duggan on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "jim-duggan-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "jim-duggan-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hacksaw-jim-duggan-uwow",
+     "jim-duggan-icwc",
+     "jim-duggan-rswa",
+     "jim-duggan-uwf-uwow"
+    ],
+    "note": "An exact name match across 4 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (jim-duggan-real)."
+   }
+  ]
+ },
+ {
+  "id": "the-model-rick-martel-abf-primetime-2002",
+  "type": "character",
+  "name": "\"The Model\" Rick Martel",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9042",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"The Model\" Rick Martel on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "rick-martel-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "rick-martel-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rick-martel-swa-superior-2000",
+     "rick-martel-uwf-uwow",
+     "rick-martel-xwf-uwow"
+    ],
+    "note": "An exact name match across 3 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (rick-martel-real)."
+   }
+  ]
+ },
+ {
+  "id": "little-spike-dudley-abf-primetime-2002",
+  "type": "character",
+  "name": "\"Little\" Spike Dudley",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9043",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"Little\" Spike Dudley on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-macho-man-randy-savage-abf-primetime-2002",
+  "type": "character",
+  "name": "\"The Macho Man\" Randy Savage",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9044",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"The Macho Man\" Randy Savage on the ABF roster; the fed's own champions list gives this holder the ABF Continental Title.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "randy-savage-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "randy-savage-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "randy-savage-icwc",
+     "randy-savage-uwf-uwow",
+     "randy-savage-uwow",
+     "randy-savage-wwwf-1997"
+    ],
+    "note": "An exact name match across 4 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (randy-savage-real)."
+   }
+  ]
+ },
+ {
+  "id": "la-parka-abf-primetime-2002",
+  "type": "character",
+  "name": "La Parka",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9045",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as La Parka on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "la-parka-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "la-parka-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "la-parka-ewa-email"
+    ],
+    "note": "An exact name match across 1 other promotion' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (la-parka-real)."
+   }
+  ]
+ },
+ {
+  "id": "bad-ass-billy-gunn-abf-primetime-2002",
+  "type": "character",
+  "name": "\"Bad Ass\" Billy Gunn",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9046",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"Bad Ass\" Billy Gunn on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "billy-gunn-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "billy-gunn-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bad-ass-billy-gunn-wcotw",
+     "billy-gunn-ebwf-2001",
+     "billy-gunn-ewa-email",
+     "billy-gunn-faw",
+     "billy-gunn-fob",
+     "billy-gunn-icwc",
+     "billy-gunn-ubf"
+    ],
+    "note": "An exact name match across 7 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (billy-gunn-real)."
+   }
+  ]
+ },
+ {
+  "id": "the-hurricane-abf-primetime-2002",
+  "type": "character",
+  "name": "The Hurricane",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9047",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as The Hurricane on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "hurricane-helms-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "hurricane-helms-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-the-hurricane",
+     "hurricane-helms-iwf-independent-2001",
+     "kirk-maclean-rsll-2003",
+     "the-hurricane-ebwf-2001"
+    ],
+    "note": "An exact name match across 4 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (hurricane-helms-real)."
+   }
+  ]
+ },
+ {
+  "id": "the-rock-abf-primetime-2002",
+  "type": "character",
+  "name": "The Rock",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9048",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as The Rock on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "the-rock-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "the-rock-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rocky-maivia-ewa-email",
+     "the-rock-agw",
+     "the-rock-aiwl-1999",
+     "the-rock-chwe",
+     "the-rock-decw",
+     "the-rock-dpw-2003",
+     "the-rock-ebwf-2001",
+     "the-rock-faw",
+     "the-rock-iwa-icon",
+     "the-rock-iwf-independent-2001",
+     "the-rock-nwwa-1998",
+     "the-rock-uwf-uwow",
+     "the-rock-uwow",
+     "the-rock-wcotw",
+     "the-rock-wlc-1999",
+     "the-rock-zwf"
+    ],
+    "note": "An exact name match across 16 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (the-rock-real)."
+   }
+  ]
+ },
+ {
+  "id": "sandman-abf-primetime-2002",
+  "type": "character",
+  "name": "Sandman",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9049",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Sandman on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "sandman-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "sandman-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "devon-slayton-gxw-2001",
+     "jason-snowe-lcw-1997",
+     "sandman-cwf",
+     "sandman-cwo",
+     "sandman-ebwf-2001",
+     "sandman-ewf-pl",
+     "sandman-icwc",
+     "sandman-sxw-2000",
+     "sandman-twl-1998",
+     "sandman-ufws-summit",
+     "sandman-uwow",
+     "sandman-wewf-summit",
+     "sandman-wwwf-1997"
+    ],
+    "note": "An exact name match across 14 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (sandman-real)."
+   }
+  ]
+ },
+ {
+  "id": "tommy-dreamer-abf-primetime-2002",
+  "type": "character",
+  "name": "Tommy Dreamer",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9050",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Tommy Dreamer on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "tommy-dreamer-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "tommy-dreamer-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tommy-dreamer-ebwf-2001",
+     "tommy-dreamer-ecw98-1998sim-2005",
+     "tommy-dreamer-ewa-email",
+     "tommy-dreamer-icwc",
+     "tommy-dreamer-iwf-independent-2001",
+     "tommy-dreamer-newcowf-1997",
+     "tommy-dreamer-pwr-fed-2008",
+     "tommy-dreamer-uwl"
+    ],
+    "note": "An exact name match across 8 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (tommy-dreamer-real)."
+   }
+  ]
+ },
+ {
+  "id": "bad-news-brown-abf-primetime-2002",
+  "type": "character",
+  "name": "Bad News Brown",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9051",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Bad News Brown on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "bad-news-allen-coage-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "bad-news-allen-coage-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bad-news-brown-uwow"
+    ],
+    "note": "An exact name match across 1 other promotion' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (bad-news-allen-coage-real)."
+   }
+  ]
+ },
+ {
+  "id": "rhyno-abf-primetime-2002",
+  "type": "character",
+  "name": "Rhyno",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9052",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Rhyno on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "rhino-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "rhino-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rhyno-faw",
+     "rhyno-icwc",
+     "rhyno-iwf-independent-2001",
+     "rhyno-uwf-uwow",
+     "rhyno-uwow"
+    ],
+    "note": "An exact name match across 5 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (rhino-real)."
+   }
+  ]
+ },
+ {
+  "id": "the-american-dream-dusty-rhodes-abf-primetime-2002",
+  "type": "character",
+  "name": "\"The American Dream\" Dusty Rhodes",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9053",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"The American Dream\" Dusty Rhodes on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "dusty-rhodes-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "dusty-rhodes-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dusty-rhodes-rswa",
+     "dusty-rhodes-uwf-uwow",
+     "dusty-rhodes-uwow",
+     "dusty-rhodes-xwf-uwow"
+    ],
+    "note": "An exact name match across 4 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (dusty-rhodes-real)."
+   }
+  ]
+ },
+ {
+  "id": "the-roaddogg-brian-james-abf-primetime-2002",
+  "type": "character",
+  "name": "\"The Roaddogg\" Brian James",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9054",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"The Roaddogg\" Brian James on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "road-dogg-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "road-dogg-real"
+ },
+ {
+  "id": "vampiro-abf-primetime-2002",
+  "type": "character",
+  "name": "Vampiro",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9055",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Vampiro on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "vampiro-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "vampiro-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "vampiro-ebwf-2001",
+     "vampiro-glw",
+     "vampiro-ne",
+     "vampiro-uwf-uwow",
+     "vampiro-uwow",
+     "vampiro-xwf-uwow"
+    ],
+    "note": "An exact name match across 6 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (vampiro-real)."
+   }
+  ]
+ },
+ {
+  "id": "mr-perfect-abf-primetime-2002",
+  "type": "character",
+  "name": "Mr. Perfect",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9056",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Mr. Perfect on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "curt-hennig-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "curt-hennig-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "curt-hennig-dewf-motor-city-1994",
+     "curt-hennig-dreamcard",
+     "curt-hennig-rswa",
+     "curt-hennig-uwow",
+     "euwc-perfect-pugilest",
+     "mr-perfect-wpwf",
+     "mr-perfect-wwwf-1997"
+    ],
+    "note": "An exact name match across 7 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (curt-hennig-real)."
+   }
+  ]
+ },
+ {
+  "id": "triple-h-abf-primetime-2002",
+  "type": "character",
+  "name": "Triple H",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9057",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Triple H on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "triple-h-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "triple-h-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hhh-chwe",
+     "hhh-dpw-2003",
+     "hhh-faw",
+     "triple-h-agw",
+     "triple-h-ebwf-2001",
+     "triple-h-extreme-fed-2006",
+     "triple-h-fob",
+     "triple-h-iwa-icon",
+     "triple-h-iwf-independent-2001",
+     "triple-h-nwwa-1998",
+     "triple-h-pwe-inc",
+     "triple-h-pwr-fed-2008",
+     "triple-h-uwf-uwow",
+     "triple-h-uwl",
+     "triple-h-uwow",
+     "triple-h-wewf-worldefed",
+     "triple-h-zwf"
+    ],
+    "note": "An exact name match across 17 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (triple-h-real)."
+   }
+  ]
+ },
+ {
+  "id": "the-big-valbowski-val-venus-abf-primetime-2002",
+  "type": "character",
+  "name": "\"The Big Valbowski\" Val Venus",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9058",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"The Big Valbowski\" Val Venus on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "val-venis-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "val-venis-real"
+ },
+ {
+  "id": "the-undertaker-abf-primetime-2002",
+  "type": "character",
+  "name": "The Undertaker",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9059",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as The Undertaker on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "the-undertaker-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "the-undertaker-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-undertaker-apw",
+     "the-undertaker-chwe",
+     "the-undertaker-ebwf-2001",
+     "the-undertaker-ewa-email",
+     "the-undertaker-faw",
+     "the-undertaker-iwf-independent-2001",
+     "the-undertaker-zwf",
+     "undertaker-dreamcard",
+     "undertaker-wcwf-dainja",
+     "undertaker-wpwf",
+     "undertaker-wwwf-1997"
+    ],
+    "note": "An exact name match across 11 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (the-undertaker-real)."
+   }
+  ]
+ },
+ {
+  "id": "kevin-nash-abf-primetime-2002",
+  "type": "character",
+  "name": "Kevin Nash",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9060",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Kevin Nash on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "kevin-nash-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "kevin-nash-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "big-sexy-kevin-nash-action-extreme-wrestling",
+     "kevin-nash-ebwf-2001",
+     "kevin-nash-ewa-email",
+     "kevin-nash-icwc",
+     "kevin-nash-iwf-independent-2001",
+     "kevin-nash-newf",
+     "kevin-nash-uwf-uwow",
+     "kevin-nash-uwow",
+     "kevin-nash-wcotw",
+     "kevin-nash-wlc-1999",
+     "kevin-nash-wpwf",
+     "kevin-nash-wwwf-1997",
+     "kevin-nash-xwf-uwow"
+    ],
+    "note": "An exact name match across 13 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (kevin-nash-real)."
+   }
+  ]
+ },
+ {
+  "id": "scott-hall-abf-primetime-2002",
+  "type": "character",
+  "name": "Scott Hall",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9061",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Scott Hall on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "scott-hall-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "scott-hall-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scott-hall-ebwf-2001",
+     "scott-hall-ewa-email",
+     "scott-hall-iwa-icon",
+     "scott-hall-iwf-independent-2001",
+     "scott-hall-uwf-uwow",
+     "scott-hall-uwow",
+     "scott-hall-wlc-1999",
+     "scott-hall-wwwf-1997",
+     "scott-hall-xwf-uwow"
+    ],
+    "note": "An exact name match across 9 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (scott-hall-real)."
+   }
+  ]
+ },
+ {
+  "id": "ludvig-borga-abf-primetime-2002",
+  "type": "character",
+  "name": "Ludvig Borga",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9063",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Ludvig Borga on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "golddust-abf-primetime-2002",
+  "type": "character",
+  "name": "GoldDust",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9064",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as GoldDust on the ABF roster; the fed's own champions list gives this holder the ABF Euro Title.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "goldust-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "goldust-real"
+ },
+ {
+  "id": "the-hbk-shawn-michaels-abf-primetime-2002",
+  "type": "character",
+  "name": "\"The HBK\" Shawn Michaels",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9065",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"The HBK\" Shawn Michaels on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "shawn-michaels-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "shawn-michaels-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "shawn-michaels-agw",
+     "shawn-michaels-ccw-wednesdaynightfight-1995",
+     "shawn-michaels-dpw-2003",
+     "shawn-michaels-ebwf-2001",
+     "shawn-michaels-extreme-fed-2006",
+     "shawn-michaels-iwa-icon",
+     "shawn-michaels-olwa-1997",
+     "shawn-michaels-pwe-inc",
+     "shawn-michaels-pwr-fed-2008",
+     "shawn-michaels-ssdrr-1996",
+     "shawn-michaels-uwf-uwow",
+     "shawn-michaels-uwl",
+     "shawn-michaels-uwow",
+     "shawn-michaels-vwa-virtual-1995",
+     "shawn-michaels-wpwf",
+     "shawn-michaels-wwwf-1997",
+     "shawn-michaels-xbooker-efed-2008"
+    ],
+    "note": "An exact name match across 17 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (shawn-michaels-real)."
+   }
+  ]
+ },
+ {
+  "id": "k-kwik-abf-primetime-2002",
+  "type": "character",
+  "name": "K-Kwik",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9066",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as K-Kwik on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "kane-abf-primetime-2002",
+  "type": "character",
+  "name": "Kane",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9067",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Kane on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "kane-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "kane-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kane-action-extreme-wrestling",
+     "kane-agw",
+     "kane-ebwf-2001",
+     "kane-ewa-email",
+     "kane-iwf-independent-2001",
+     "kane-mff",
+     "kane-pwr-fed-2008",
+     "kane-wcotw",
+     "kane-wlc-1999",
+     "kane-xbooker-efed-2008"
+    ],
+    "note": "An exact name match across 10 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (kane-real)."
+   }
+  ]
+ },
+ {
+  "id": "gillberg-abf-primetime-2002",
+  "type": "character",
+  "name": "Gillberg",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9068",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Gillberg on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "rob-van-dam-abf-primetime-2002",
+  "type": "character",
+  "name": "Rob Van Dam",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9069",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Rob Van Dam on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "rob-van-dam-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "rob-van-dam-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rob-van-dam-chwe",
+     "rob-van-dam-ebwf-2001",
+     "rob-van-dam-ecw-sundaymania-1996",
+     "rob-van-dam-ecw98-1998sim-2005",
+     "rob-van-dam-ewa-email",
+     "rob-van-dam-extreme-fed-2006",
+     "rob-van-dam-icwc",
+     "rob-van-dam-iwa-icon",
+     "rob-van-dam-iwf-independent-2001",
+     "rob-van-dam-newcowf-1997",
+     "rob-van-dam-uwf-uwow",
+     "rob-van-dam-uwow",
+     "rob-van-dam-xwf-uwow"
+    ],
+    "note": "An exact name match across 13 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (rob-van-dam-real)."
+   }
+  ]
+ },
+ {
+  "id": "booker-t-abf-primetime-2002",
+  "type": "character",
+  "name": "Booker T",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9070",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Booker T on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "booker-t-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "booker-t-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "booker-t-ebwf-2001",
+     "booker-t-ewa-email",
+     "booker-t-icwc",
+     "booker-t-newcowf-1997",
+     "booker-t-uwf-uwow",
+     "booker-t-uwow",
+     "booker-t-vwa-virtual-1995",
+     "booker-t-wewf-worldefed",
+     "booker-t-xwf-uwow",
+     "booker-t-zwf"
+    ],
+    "note": "An exact name match across 10 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (booker-t-real)."
+   }
+  ]
+ },
+ {
+  "id": "bret-the-hitman-hart-abf-primetime-2002",
+  "type": "character",
+  "name": "Bret \"The Hitman\" Hart",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9071",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Bret \"The Hitman\" Hart on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "bret-hart-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "bret-hart-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bret-hart-agw",
+     "bret-hart-ebwf-2001",
+     "bret-hart-icwc",
+     "bret-hart-iwf-independent-2001",
+     "bret-hart-newcowf-1997",
+     "bret-hart-ssdrr-1996",
+     "bret-hart-uwf-uwow",
+     "bret-hart-uwl",
+     "bret-hart-uwow",
+     "bret-hart-vwa-virtual-1995",
+     "bret-hart-wcwf-dainja",
+     "bret-hart-wlc-1999",
+     "bret-hart-wpwf",
+     "bret-hart-wwwf-1997",
+     "bret-hart-zwf"
+    ],
+    "note": "An exact name match across 15 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (bret-hart-real)."
+   }
+  ]
+ },
+ {
+  "id": "lance-storm-abf-primetime-2002",
+  "type": "character",
+  "name": "Lance Storm",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9072",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Lance Storm on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "lance-storm-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "lance-storm-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lance-storm-ebwf-2001",
+     "lance-storm-ecw98-1998sim-2005",
+     "lance-storm-glw",
+     "lance-storm-icwc",
+     "lance-storm-iwf-independent-2001",
+     "lance-storm-pwe-inc",
+     "lance-storm-uwf-uwow",
+     "lance-storm-uwow",
+     "lance-storm-xwf-uwow"
+    ],
+    "note": "An exact name match across 9 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (lance-storm-real)."
+   }
+  ]
+ },
+ {
+  "id": "dlo-brown-abf-primetime-2002",
+  "type": "character",
+  "name": "D'Lo Brown",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9073",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as D'Lo Brown on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "d-lo-brown-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "d-lo-brown-real"
+ },
+ {
+  "id": "raven-abf-primetime-2002",
+  "type": "character",
+  "name": "Raven",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9074",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Raven on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "raven-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "raven-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-raven",
+     "raven-awa97",
+     "raven-ccw-wednesdaynightfight-1995",
+     "raven-ebwf-2001",
+     "raven-ewa-email",
+     "raven-faw",
+     "raven-icwc",
+     "raven-iwa-icon",
+     "raven-iwf-independent-2001",
+     "raven-owo",
+     "raven-pccw",
+     "raven-uwf-uwow",
+     "raven-uwow",
+     "raven-wpwf",
+     "raven-wwwf-1997",
+     "raven-xwf",
+     "raven-xwf-uwow"
+    ],
+    "note": "An exact name match across 17 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (raven-real)."
+   }
+  ]
+ },
+ {
+  "id": "bill-goldberg-abf-primetime-2002",
+  "type": "character",
+  "name": "Bill Goldberg",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9075",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Bill Goldberg on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "bill-goldberg-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "bill-goldberg-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bill-goldberg-action-extreme-wrestling",
+     "bill-goldberg-agw",
+     "bill-goldberg-ebwf-2001",
+     "bill-goldberg-icwc",
+     "bill-goldberg-uwow",
+     "goldberg-ewa-email"
+    ],
+    "note": "An exact name match across 6 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (bill-goldberg-real)."
+   }
+  ]
+ },
+ {
+  "id": "kurt-angle-abf-primetime-2002",
+  "type": "character",
+  "name": "Kurt Angle",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9076",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Kurt Angle on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "kurt-angle-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "kurt-angle-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kurt-angle-ebwf-2001",
+     "kurt-angle-extreme-fed-2006",
+     "kurt-angle-faw",
+     "kurt-angle-fdw-virtualfdwe-2007",
+     "kurt-angle-gr8-wwf-2002",
+     "kurt-angle-icwc",
+     "kurt-angle-iwf-independent-2001",
+     "kurt-angle-pwe-inc",
+     "kurt-angle-ubf",
+     "kurt-angle-uwf-uwow",
+     "kurt-angle-uwow"
+    ],
+    "note": "An exact name match across 11 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (kurt-angle-real)."
+   }
+  ]
+ },
+ {
+  "id": "bubba-ray-dudley-abf-primetime-2002",
+  "type": "character",
+  "name": "Bubba Ray Dudley",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9077",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Bubba Ray Dudley on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "buh-buh-dudley-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "buh-buh-dudley-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brother-ray-uwf-uwow",
+     "bubba-ray-dudley-ebwf-2001",
+     "bubba-ray-dudley-extreme-fed-2006",
+     "bubba-ray-dudley-fob",
+     "buh-buh-ray-dudley-ewa-email"
+    ],
+    "note": "An exact name match across 5 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (buh-buh-dudley-real)."
+   }
+  ]
+ },
+ {
+  "id": "rico-abf-primetime-2002",
+  "type": "character",
+  "name": "Rico",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9078",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Rico on the ABF roster; the fed's own champions list gives this holder the ABF Cruiserweight Title.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rico-pcw",
+     "rico-wwa"
+    ],
+    "note": "A shared name with other promotions' records. No held document on either side claims one shared performer or character; filed distinct pending evidence, per the collision doctrine: when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "stone-cold-steve-austin-abf-primetime-2002",
+  "type": "character",
+  "name": "\"Stone Cold\" Steve Austin",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9079",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"Stone Cold\" Steve Austin on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "stone-cold-steve-austin-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "stone-cold-steve-austin-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-stone-cold-steve-austin",
+     "steve-austin-ewa-email",
+     "steve-austin-newcowf-1997",
+     "steve-austin-tpg",
+     "steve-austin-uwl",
+     "steve-austin-wcotw",
+     "steve-austin-wpwf",
+     "stone-cold-steve-austin-action-extreme-wrestling",
+     "stone-cold-steve-austin-ebwf-2001",
+     "stone-cold-steve-austin-faw",
+     "stone-cold-steve-austin-iwa-icon",
+     "stone-cold-steve-austin-iwf-independent-2001",
+     "stone-cold-steve-austin-pwe-inc",
+     "stone-cold-steve-austin-wlc-1999",
+     "stone-cold-steve-austin-wwwf-1997"
+    ],
+    "note": "An exact name match across 15 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (stone-cold-steve-austin-real)."
+   }
+  ]
+ },
+ {
+  "id": "hollywood-hulk-hogan-abf-primetime-2002",
+  "type": "character",
+  "name": "\"Hollywood\" Hulk Hogan",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9080",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as \"Hollywood\" Hulk Hogan on the ABF roster; the fed's own champions list gives this holder the ABF World Title.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "hulk-hogan-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "hulk-hogan-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hulk-hogan-ccw-wednesdaynightfight-1995",
+     "hulk-hogan-dewf-motor-city-1994",
+     "hulk-hogan-dreamcard",
+     "hulk-hogan-ebwf-2001",
+     "hulk-hogan-icwc",
+     "hulk-hogan-nfw",
+     "hulk-hogan-rswa",
+     "hulk-hogan-uwf-uwow",
+     "hulk-hogan-uwow"
+    ],
+    "note": "An exact name match across 9 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (hulk-hogan-real)."
+   }
+  ]
+ },
+ {
+  "id": "stephanie-mcmahon-abf-primetime-2002",
+  "type": "character",
+  "name": "Stephanie McMahon",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9081",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Stephanie McMahon on the ABF roster; the fed's own champions list gives this holder the ABF Women's Title.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "stephanie-mcmahon-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "stephanie-mcmahon-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "stephanie-mcmahon-ebwf-2001",
+     "stephanie-mcmahon-rspwwcw",
+     "stephanie-mcmahon-uwf-uwow",
+     "stephanie-mcmahon-uwow"
+    ],
+    "note": "An exact name match across 4 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (stephanie-mcmahon-real)."
+   }
+  ]
+ },
+ {
+  "id": "shane-mcmahon-abf-primetime-2002",
+  "type": "character",
+  "name": "Shane McMahon",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9083",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Shane McMahon on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "shane-mcmahon-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "shane-mcmahon-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "shane-mcmahon-uwf-uwow",
+     "shane-mcmahon-uwow"
+    ],
+    "note": "An exact name match across 2 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (shane-mcmahon-real)."
+   }
+  ]
+ },
+ {
+  "id": "ted-dibiase-abf-primetime-2002",
+  "type": "character",
+  "name": "Ted Dibiase",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9084",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Ted Dibiase on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "ted-dibiase-sr-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "ted-dibiase-sr-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ted-dibiase-dewf-motor-city-1994",
+     "ted-dibiase-rswa",
+     "ted-dibiase-sr-uwf-uwow",
+     "ted-dibiase-uwow",
+     "ted-dibiase-wwwf-1997"
+    ],
+    "note": "An exact name match across 5 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (ted-dibiase-sr-real)."
+   }
+  ]
+ },
+ {
+  "id": "virgil-abf-primetime-2002",
+  "type": "character",
+  "name": "Virgil",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9085",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Virgil on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "virgil-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "virgil-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "virgil-uwf-uwow",
+     "virgil-uwow"
+    ],
+    "note": "An exact name match across 2 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (virgil-real)."
+   }
+  ]
+ },
+ {
+  "id": "steven-the-hunta-richards-abf-primetime-2002",
+  "type": "character",
+  "name": "Steven \"The Hunta\" Richards",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9086",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Steven \"The Hunta\" Richards on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "stevie-richards-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "stevie-richards-real"
+ },
+ {
+  "id": "edge-abf-primetime-2002",
+  "type": "character",
+  "name": "Edge",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9087",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Edge on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "edge-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "edge-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "edge-ebwf-2001",
+     "edge-ewa-email",
+     "edge-extreme-fed-2006",
+     "edge-faw",
+     "edge-gr8-wwf-2002",
+     "edge-icwc",
+     "edge-iwf",
+     "edge-iwf-independent-2001",
+     "edge-pwe-inc",
+     "edge-pwr-fed-2008",
+     "edge-uwow",
+     "edge-xbooker-efed-2008"
+    ],
+    "note": "An exact name match across 12 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (edge-real)."
+   }
+  ]
+ },
+ {
+  "id": "christian-abf-primetime-2002",
+  "type": "character",
+  "name": "Christian",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9088",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "A portrayal of the real professional wrestler billed as Christian on the ABF roster.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "christian-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "christian-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "christian-cyberslam",
+     "christian-ebwf-2001",
+     "christian-ewa-email",
+     "christian-faw",
+     "christian-iwf-independent-2001",
+     "christian-pwe-inc",
+     "christian-pwr-fed-2008"
+    ],
+    "note": "An exact name match across 7 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (christian-real)."
+   }
+  ]
+ },
+ {
+  "id": "jim-ross-abf-primetime-2002",
+  "type": "character",
+  "name": "Jim Ross",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "other"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9089",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches.",
+    "role": "staff"
+   }
+  ],
+  "caption": "Listed on the ABF roster as staff.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "jim-ross-real",
+   "grade": "primary-source",
+   "note": "ABF's own roster bills this character under the real performer's name, per the per-promotion portrayal rule."
+  },
+  "portrayal_of": "jim-ross-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jim-ross-cswa",
+     "jim-ross-iwf-independent-2001",
+     "jim-ross-swl-1997b",
+     "jim-ross-uwf-uwow",
+     "jim-ross-uwow",
+     "jim-ross-xuw",
+     "jim-ross-zwf"
+    ],
+    "note": "An exact name match across 7 other promotions' own records of the same name. Each real-wrestler row is its own per-promotion portrayal, never merged across promotions, and linked only through the shared external-figures record (jim-ross-real)."
+   }
+  ]
+ },
+ {
+  "id": "jeff-marx-abf-primetime-2002",
+  "type": "character",
+  "name": "Jeff Marx",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "other"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9090",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches.",
+    "role": "staff"
+   }
+  ],
+  "caption": "Listed on the ABF roster as staff.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jeff-marx-pcw",
+     "jeff-marx-pcw"
+    ],
+    "note": "A shared name with other promotions' records. No held document on either side claims one shared performer or character; filed distinct pending evidence, per the collision doctrine: when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "earl-hebner-abf-primetime-2002",
+  "type": "character",
+  "name": "Earl Hebner",
+  "tenures": [
+   {
+    "promotion": "abf-primetime-2002",
+    "first_seen": "?",
+    "last_seen": "?",
+    "roles": [
+     "referee"
+    ],
+    "source": "ABF's own backstage database (lot 0159), bio 9091",
+    "grade": "primary-source",
+    "note": "No dated appearance in the fed's own record: its three Raw write-ups are not yet split into matches."
+   }
+  ],
+  "caption": "The referee listed on the ABF roster, billed under the real referee's own name.",
+  "caption_asof": {
+   "written": "2026-10-01",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "earl-hebner-iwf-independent-2001",
+     "earl-hebner-uwf"
+    ],
+    "note": "A shared name with other promotions' records. No held document on either side claims one shared performer or character; filed distinct pending evidence, per the collision doctrine: when in doubt we do not merge."
+   }
+  ]
+ }
+]

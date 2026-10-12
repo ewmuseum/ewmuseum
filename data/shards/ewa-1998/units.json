@@ -1,0 +1,771 @@
+[
+  {
+    "id": "lasting-impression-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Lasting Impression",
+    "members": [
+      {
+        "name": "Nigel Hayes"
+      },
+      {
+        "name": "James Head"
+      }
+    ],
+    "caption": "An EWA tag team on the 1999 roster, finishing with a double move they called Impressive.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-26"
+    },
+    "tenures": [
+      {
+        "promotion": "ewa-1998"
+      }
+    ]
+  },
+  {
+    "id": "southern-justice-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Southern Justice",
+    "members": [
+      {
+        "name": "Cousin Jethrow"
+      },
+      {
+        "name": "Huckleberry Hendrix"
+      }
+    ],
+    "caption": "An EWA tag team billed out of Booth, Alabama, entering to the same \"Godwin's Theme\" for both the team and its members, and finishing with the Doomsday Device they called Redemption of the South.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-26"
+    },
+    "tenures": [
+      {
+        "promotion": "ewa-1998"
+      }
+    ]
+  },
+  {
+    "id": "death-row-ewa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Death Row",
+    "membership_unknown": false,
+    "members": [
+      {
+        "name": "Drifter",
+        "character_id": "the-drifter-ewa"
+      },
+      {
+        "name": "Pimp Daddy J",
+        "character_id": "pimp-daddy-j-ewa"
+      },
+      {
+        "name": "Cyris",
+        "character_id": "cyris-ewa"
+      },
+      {
+        "name": "Verge Darsow",
+        "character_id": "verge-darsow-ewa"
+      },
+      {
+        "name": "O.G.",
+        "character_id": "og-ewa"
+      },
+      {
+        "name": "Violent Dark",
+        "character_id": "violent-dark-ewa"
+      },
+      {
+        "name": "Tyrant",
+        "character_id": "tyrant-ewa"
+      }
+    ],
+    "caption": "An EWA stable that won the World Tag Team Championship at the 10 January 1999 Yuletide Beatings and counted Drifter and Pimp Daddy J among its members.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "notes": "Membership is drawn from two separate show mentions (Pimp Daddy J credited helping \"Death Row\" win a match on 6 December 1998; Drifter's own bio card credits him with the World Tag Team title, and Death Row won that title at Yuletide) rather than a single roster page naming the full stable — a light, mechanical read, not a full crawl. Expanded roster per wnw-5: Cyris and Verge Darsow interfere alongside Drifter and Pimp Daddy J as fellow Death Row members. Violent Dark joined 15 November 1998, handed a Death Row t-shirt by Drifter and Pimp Daddy J. Tyrant joined by 30 December 1998. Drifter and Violent Dark won the EWA World Tag Team Championship at Yuletide Beatings, the stable's first title.",
+    "tenures": [
+      {
+        "promotion": "ewa-1998"
+      }
+    ]
+  },
+  {
+    "id": "venom-ewa",
+    "type": "unit",
+    "name": "Venom",
+    "unit_kind": "tag-team",
+    "caption": "Scorpion and Cobra, a tag team recruited into Jobbers Inc. alongside Quicksilver and Hammer Canseco.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Scorpion",
+        "character_id": "scorpion-ewa"
+      },
+      {
+        "name": "Cobra",
+        "character_id": "cobra-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "with": [
+          "venom-alexander-gw",
+          "venom-cswa",
+          "venom-giwf",
+          "venom-oww"
+        ],
+        "grade": "presumed",
+        "note": "\"Venom\" is a generic archetype name reused independently across several unrelated federations; no evidence ties this EWA tag team to any of the others."
+      }
+    ]
+  },
+  {
+    "id": "devastation-inc-ewa",
+    "type": "unit",
+    "name": "Devastation Inc.",
+    "unit_kind": "stable",
+    "caption": "JD Freeman's own heel stable with Chris Douglas and SuperReactor, formed on-air after the three turned on Tommy Grayson.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "JD Freeman",
+        "character_id": "jd-freeman-ewa"
+      },
+      {
+        "name": "Chris Douglas",
+        "character_id": "chris-douglas-ewa"
+      },
+      {
+        "name": "SuperReactor",
+        "character_id": "superreactor-ewa"
+      },
+      {
+        "name": "Wayne Rothschild",
+        "character_id": "wayne-rothschild-ewa"
+      },
+      {
+        "name": "Connor Chambers",
+        "character_id": "connor-chambers-ewa"
+      },
+      {
+        "name": "Cyris",
+        "character_id": "cyris-ewa"
+      },
+      {
+        "name": "Suicide King",
+        "character_id": "suicide-king-ewa"
+      },
+      {
+        "name": "Capital Punishment",
+        "character_id": "capital-punishment-ewa"
+      },
+      {
+        "name": "Tommy Grayson",
+        "character_id": "tommy-grayson-sewf"
+      },
+      {
+        "name": "The Multinational Rebel",
+        "character_id": "multinational-rebel-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-06",
+        "note": "Formed on-air at wnw-3 (JD Freeman's own words: \"the birth of the most devastating force in the EWA\"); Chance Charles wears a Devastation Inc. t-shirt at wnw-7 without a confirmed formal induction — recorded as billed, not asserted as full membership. Wayne Rothschild revealed as a mole 20 August 1998; Connor Chambers, Cyris, and Suicide King appear as full members from the 21 September 1998 Extreme Measures on; Capital Punishment recruited 15 November 1998, ending his own run as an Innovators of Violence member. Tommy Grayson turned on Suicide King to join 23 December 1998; the Multinational Rebel revealed as a masked member 22 November 1998. Cyris retired from the ring at Yuletide Beatings (10 January 1999), vacating his own third Global Hardcore reign."
+      }
+    ]
+  },
+  {
+    "id": "innovators-of-violence-ewa",
+    "type": "unit",
+    "name": "Innovators of Violence",
+    "unit_kind": "stable",
+    "caption": "A heel trio of \"Hardcore\" Ray Simmons, Tommy Grayson, and Johnny Sledge, feuding with Devastation Inc.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Ray Simmons",
+        "character_id": "ray-simmons-ewa"
+      },
+      {
+        "name": "Tommy Grayson",
+        "character_id": "tommy-grayson-sewf"
+      },
+      {
+        "name": "Johnny Sledge",
+        "character_id": "johnny-sledge-ewa"
+      },
+      {
+        "name": "Capital Punishment",
+        "character_id": "capital-punishment-ewa"
+      },
+      {
+        "name": "Jerry Micheals",
+        "character_id": "jerry-micheals-ewa"
+      },
+      {
+        "name": "The Multinational Rebel",
+        "character_id": "multinational-rebel-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-07"
+      }
+    ],
+    "notes": "Capital Punishment billed a founding member from Bloodbath '98's own Battle-Ground Tourney selections through his own 15 November 1998 defection to Devastation Inc.; Jerry Micheals and Irish Rebel (later the Multinational Rebel) both billed IoV from the 4 October 1998 Extreme Measures on."
+  },
+  {
+    "id": "riot-squad-ewa",
+    "type": "unit",
+    "name": "Riot Squad",
+    "unit_kind": "stable",
+    "caption": "A comedic heel stable (Rob Riot, Helldorado, Flame, Rage) that jumped Nate Walker and Dustin Warchild in a parking-lot brawl.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Rob Riot",
+        "character_id": "rob-riot-ewa"
+      },
+      {
+        "name": "Helldorado",
+        "character_id": "jerry-micheals-ewa"
+      },
+      {
+        "name": "Flame",
+        "character_id": "flame-ewa"
+      },
+      {
+        "name": "Rage",
+        "character_id": "rage-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-07"
+      }
+    ],
+    "notes": "Capital Punishment briefly joined the stable at StableWars '98 (a run not otherwise referenced in the crawled record); the Squad itself was reported dead for months before Rob Riot and Helldorado (revealed as Jerry Micheals) resurfaced at the 23 December 1998 Extreme Measures."
+  },
+  {
+    "id": "bushido-ewa",
+    "type": "unit",
+    "name": "Bushido",
+    "unit_kind": "tag-team",
+    "caption": "\"Iron Man\" Stephen Daye and Jay \"Wild Horse\" Lange, who debuted by beating down the Riot Squad and claiming the EWA's own new tag team championships.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Stephen Daye",
+        "character_id": "stephen-daye-ewa"
+      },
+      {
+        "name": "Jay Lange",
+        "character_id": "jay-lange-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-08"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "with": [
+          "bushido-pure"
+        ],
+        "grade": "presumed",
+        "note": "A same-named tag team in an unrelated federation; no evidence ties the two."
+      }
+    ]
+  },
+  {
+    "id": "original-krimez-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Original Krimez",
+    "caption": "A tag team eliminated from a three-way battle royal on Wednesday Night Warfare.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Shinju",
+        "character_id": "shinju-ewa"
+      },
+      {
+        "name": "Gaijin",
+        "character_id": "gaijin-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-08"
+      }
+    ]
+  },
+  {
+    "id": "violence-inc-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Violence Inc.",
+    "caption": "A tag team whose own two members eliminated each other simultaneously to close out a three-way battle royal.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Darren Roberts",
+        "character_id": "darren-roberts-ewa"
+      },
+      {
+        "name": "Adam Ripley",
+        "character_id": "adam-ripley-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-08"
+      }
+    ]
+  },
+  {
+    "id": "vicious-circle-ewa",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Vicious Circle",
+    "caption": "A heel stable Dawgbone billed as underdogs to Devastation Inc. and the Innovators of Violence, recruiting Partners in Krime as \"Partners in Krimez.\"",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Dawgbone",
+        "character_id": "dawgbone-ewa"
+      },
+      {
+        "name": "\"E-Legal\" Itaki",
+        "character_id": "e-legal-itaki-ewa"
+      },
+      {
+        "name": "\"B-Ware\" Stanz",
+        "character_id": "b-ware-stanz-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-09"
+      }
+    ]
+  },
+  {
+    "id": "partners-in-krime-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Partners in Krime",
+    "caption": "A Vicious Circle tag team billed inconsistently across shows as Partners in Krime, Partners in Krimez, and (at least once) Original Krimez.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "\"E-Legal\" Itaki",
+        "character_id": "e-legal-itaki-ewa"
+      },
+      {
+        "name": "\"B-Ware\" Stanz",
+        "character_id": "b-ware-stanz-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-09"
+      }
+    ]
+  },
+  {
+    "id": "iron-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "I.R.O.N.",
+    "caption": "A Soviet-gimmick tag team eliminated by Devastation Inc. in an exploding steel-cage tag match at Bloodbath '98.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Ivan Markov",
+        "character_id": "ivan-markov-ewa"
+      },
+      {
+        "name": "Adolf Lerman",
+        "character_id": "adolf-lerman-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-09"
+      }
+    ]
+  },
+  {
+    "id": "em-express-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "E&M Express",
+    "caption": "A tag team entrant in the Liquid Nitrogen Battle Royal, its own two members never individually named in the surviving record.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-09"
+      }
+    ],
+    "membership_unknown": true
+  },
+  {
+    "id": "radium-junkees-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Radium Junkees",
+    "caption": "A tag team that lost its own debut to Partners in Krime.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Kid Vicious",
+        "character_id": "kid-vicious-ewa"
+      },
+      {
+        "name": "Michael Hell",
+        "character_id": "michael-hell-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-10"
+      }
+    ]
+  },
+  {
+    "id": "x-tremist-revolution-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "X-Tremist Revolution",
+    "caption": "A tag team that won its own debut over Partners in Krime.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Gunz",
+        "character_id": "gunz-ewa"
+      },
+      {
+        "name": "Taylor",
+        "character_id": "taylor-xr-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-11"
+      }
+    ]
+  },
+  {
+    "id": "natural-criminals-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Natural Criminals",
+    "caption": "A tag team that reached the tag tournament final and later saw Shawn Foster become EWA Cruiserweight Champion.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Shawn Foster",
+        "character_id": "shawn-foster-ewa"
+      },
+      {
+        "name": "Natural Born Killah",
+        "character_id": "natural-born-killah-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-12"
+      }
+    ]
+  },
+  {
+    "id": "all-americans-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The All-Americans",
+    "caption": "A flag-waving tag team that beat Joker and Cinergy in its own debut.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Stars",
+        "character_id": "stars-ewa"
+      },
+      {
+        "name": "Stripes",
+        "character_id": "stripes-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-12"
+      }
+    ]
+  },
+  {
+    "id": "patriots-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Patriots",
+    "caption": "A tag team that beat Lasting Impression in its own debut.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Phillips",
+        "character_id": "phillips-ewa"
+      },
+      {
+        "name": "Stansfield",
+        "character_id": "stansfield-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-12"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "with": [
+          "the-patriots-tpg"
+        ],
+        "grade": "presumed",
+        "note": "A generic or reused team name; no evidence ties this EWA tag team to any other same-named entity."
+      }
+    ]
+  },
+  {
+    "id": "surviving-justice-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Surviving Justice",
+    "caption": "Detective Dee Brown's own tag team, eliminated in the first round of the EWA's tag team tournament.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Detective Dee Brown",
+        "character_id": "dee-brown-ewa"
+      },
+      {
+        "name": "Que",
+        "character_id": "que-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-12"
+      }
+    ]
+  },
+  {
+    "id": "south-syndicate-soldiers-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "South Syndicate Soldiers",
+    "caption": "A tag team that reached the tag tournament final before Kenneth Morlock turned on Matt Allen for his own brother, Daddy Desire.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Kenneth Morlock",
+        "character_id": "kenneth-morlock-ewa"
+      },
+      {
+        "name": "Matt Allen",
+        "character_id": "matt-allen-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-12"
+      }
+    ],
+    "notes": "Broken up on-air 18 January 1999 when Morlock and Daddy Desire (revealed as brothers, Kenneth and Andrew Morlock) beat down Allen together."
+  },
+  {
+    "id": "simply-irresistible-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Simply Irresistible",
+    "caption": "A tag team that beat Surviving Justice in its own debut.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Simon Spencer",
+        "character_id": "simon-spencer-ewa"
+      },
+      {
+        "name": "Paul Stevens",
+        "character_id": "paul-stevens-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1999-01"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "with": [
+          "simply-irresistible-cswa"
+        ],
+        "grade": "presumed",
+        "note": "A generic or reused team name; no evidence ties this EWA tag team to any other same-named entity."
+      }
+    ]
+  },
+  {
+    "id": "elite-from-the-street-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Elite from the Street",
+    "caption": "A tag team that fought a running feud with Death Row through the tag team tournament.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Da Playa",
+        "character_id": "da-playa-ewa"
+      },
+      {
+        "name": "\"Gangsta\" Jimmy Walker",
+        "character_id": "jimmy-walker-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1998-12"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "with": [],
+        "grade": "presumed",
+        "note": "\"O.G.\" Charlie Thomas, their own ringside manager, is not to be confused with the Death Row wrestler O.G. Johnson."
+      }
+    ]
+  },
+  {
+    "id": "bunghole-boys-ewa",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Bunghole Boys",
+    "caption": "A tag team that beat Lasting Impression on Thursday Night Slaughter.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-29"
+    },
+    "members": [
+      {
+        "name": "Pop Ali",
+        "character_id": "pop-ali-ewa"
+      },
+      {
+        "name": "Torso Man",
+        "character_id": "torso-man-ewa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ewa-1998",
+        "first_seen": "1999-01"
+      }
+    ]
+  }
+]

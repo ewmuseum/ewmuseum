@@ -1,0 +1,42 @@
+[
+ {
+  "id": "al-robertson-ictc",
+  "type": "character",
+  "name": "\"No Gimmicks Necessary\" Al Robertson",
+  "caption": "ICTC's own founder and host, who unveiled the tournament's 24-man, three-division bracket at its own founding press conference.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name with al-robertson-rspwf, known only from an RSPWF Top 200 placing (1998, #164, tagged LWC/UEW) with no tenure of its own. No shared federation tag, roster, or crossover document found linking that placing to ICTC — a bare name match is not evidence of a join under the identity-join test, so this stays distinct pending any actual corroboration.",
+    "with": [
+     "al-robertson-rspwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "ictc",
+    "roles": [
+     "authority-figure"
+    ],
+    "role": "authority-figure — tournament founder and host",
+    "first_seen": "1998-10",
+    "last_seen": "1998-10",
+    "source": "ICTC's own founding press conference (msg_id ybU38G37TR8J, 24 October 1998): hosts the announcement of all three divisional brackets from the podium."
+   }
+  ]
+ }
+]

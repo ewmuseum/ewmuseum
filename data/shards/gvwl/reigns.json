@@ -1,0 +1,94 @@
+[
+  {
+    "id": "gvwl-world-r001",
+    "title": "gvwl-world",
+    "label": "The Undertaker",
+    "holder": [
+      {
+        "name": "The Undertaker",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-08-19",
+      "precision": "exact",
+      "source": "promotions/gvwl/archive/gvwl-hot-summer-battle-results-1997-08-19.html"
+    },
+    "days": null,
+    "lost": null,
+    "how": "Won the title's own single-elimination tournament final.",
+    "event": "gvwl-hot-summer-battle-results-1997-08-19",
+    "note": "",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "gvwl-tag-team-r001",
+    "title": "gvwl-tag-team",
+    "label": "The Outsiders (Hall & Nash)",
+    "holder": [
+      {
+        "name": "The Outsiders (Hall & Nash)",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-08-04",
+      "precision": "exact",
+      "source": "promotions/gvwl/archive/gvwl-tournament-festival-part3-results-1997-08-04.html"
+    },
+    "days": null,
+    "lost": null,
+    "how": "Won the Tag Team Title Tournament final.",
+    "event": "gvwl-tournament-festival-part3-results-1997-08-04",
+    "note": "",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "gvwl-cruiserweight-r001",
+    "title": "gvwl-cruiserweight",
+    "label": "Sabu",
+    "holder": [
+      {
+        "name": "Sabu",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-08-04",
+      "precision": "exact",
+      "source": "promotions/gvwl/archive/gvwl-tournament-festival-part3-results-1997-08-04.html"
+    },
+    "days": null,
+    "lost": {
+      "date": "1997-08-19",
+      "precision": "exact",
+      "source": "promotions/gvwl/archive/gvwl-hot-summer-battle-results-1997-08-19.html"
+    },
+    "how": "Won the Cruiserweight Title Tournament final.",
+    "event": "gvwl-tournament-festival-part3-results-1997-08-04",
+    "note": "",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "gvwl-cruiserweight-r002",
+    "title": "gvwl-cruiserweight",
+    "label": "Chris Benoit",
+    "holder": [
+      {
+        "name": "Chris Benoit",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-08-19",
+      "precision": "exact",
+      "source": "promotions/gvwl/archive/gvwl-hot-summer-battle-results-1997-08-19.html"
+    },
+    "days": null,
+    "lost": null,
+    "how": "Won a cage-match rematch against champion Sabu.",
+    "event": "gvwl-hot-summer-battle-results-1997-08-19",
+    "note": "",
+    "end_how": "still-champion-at-record-end"
+  }
+]

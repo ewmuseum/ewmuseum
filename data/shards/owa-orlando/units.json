@@ -1,0 +1,73 @@
+[
+  {
+    "id": "made-in-detroit-owa",
+    "type": "unit",
+    "name": "Made in Detroit",
+    "aka": [
+      "M.I.D"
+    ],
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Brett Edgar",
+        "character_id": "brett-edgar-owa"
+      },
+      {
+        "name": "Shane Miller",
+        "character_id": "shane-miller-owa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "owa-orlando",
+        "first_seen": "2017",
+        "last_seen": "2017",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the federation's own wiki articles (promotions/owa-orlando/archive/brett-edgar.html; promotions/owa-orlando/archive/shane-miller.html; promotions/owa-orlando/archive/rage-in-the-cage-2017.html)"
+      }
+    ],
+    "caption": "Two Detroit schoolfriends who signed together in February 2017 and won the first OWA Tag Team Championship inside a cage on the federation's own first pay-per-view.",
+    "caption_asof": {
+      "written": "2026-08-25",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "connolly-bros-owa",
+    "type": "unit",
+    "name": "The Connolly Bros",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Drew Connolly",
+        "character_id": "drew-connolly-owa"
+      },
+      {
+        "name": "Eric Connolly",
+        "character_id": "eric-connolly-owa"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "owa-orlando",
+        "first_seen": "2017",
+        "last_seen": "2017",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the federation's own Rage in the Cage card (promotions/owa-orlando/archive/rage-in-the-cage-2017.html)"
+      }
+    ],
+    "caption": "Billed as brothers against Made in Detroit and Jake Anderson & Duke Knight for the inaugural OWA Tag Team Championship in a triple-threat tornado cage match at Rage in the Cage.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "author": "ai"
+    }
+  }
+]

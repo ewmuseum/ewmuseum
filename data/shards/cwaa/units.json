@@ -1,0 +1,90 @@
+[
+ {
+  "id": "twister-cwaa",
+  "type": "unit",
+  "name": "Twister",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Paul \"Tornado\" Langford"
+   },
+   {
+    "name": "Travis Conley"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cwaa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "source": "8-team tournament final, 6 Apr 1997; regained the title 24 Aug 1997 per the fed's own recap.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "The CWAA's own first Tag Team Champions and, by the fed's own words, its first two-time champions, managed by \"Mother Nature\" Kelly Perich.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "cwfpro-twister"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "anderson-mcnultey-cwaa",
+  "type": "unit",
+  "name": "\"Marvelous\" Michael Anderson & \"Pretty Boy\" Byron McNultey",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"Marvelous\" Michael Anderson"
+   },
+   {
+    "name": "\"Pretty Boy\" Byron McNultey"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "cwaa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "source": "Steel cage title win, 8 Jun 1997 (OvGXeafXFkYJ).",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "A self-styled \"best looking duo in Texas\" who took the CWAA Tag Team Championship in a steel cage on 8 June 1997.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

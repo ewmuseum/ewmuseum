@@ -1,0 +1,363 @@
+[
+  {
+    "id": "black-sun-rising-sjpw",
+    "type": "unit",
+    "name": "Black Sun Rising",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Blackline",
+        "character_id": "blackline-rspwf"
+      },
+      {
+        "name": "Alex Akira",
+        "character_id": "alex-akira-sjpw"
+      },
+      "kenji-takada-iewf-lwc"
+    ],
+    "caption": "The SJPW tag team of Blackline and Alex Akira, All-Asian Tag Team Champions by the end of 1997.",
+    "caption_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "1997",
+        "last_seen": "1997-12",
+        "source": "promotions/sjpw/archive/year-end-review-dec1997.html: \"Currently co-holder of the All Asian tag team titles, Blackline has now drawn the attention of not only Nik Nyce, but World Champion Lance Smith, all because he is partners with Alex Akira\"; a fan reply on the same document names the team \"Black Sun Rising\" and the operator confirms \"they won the All Asian tag titles.\""
+      },
+      {
+        "promotion": "iewf-lwc",
+        "first_seen": "1999-04-17",
+        "last_seen": "1999-04-17",
+        "source": "Unsuccessfully challenged the Nine Inch Males for the LWC Twin Pistol Championship at a three-day interfederation pay-per-view."
+      }
+    ]
+  },
+  {
+    "id": "brew-crew-sjpw",
+    "type": "unit",
+    "name": "Brew Crew",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "caption": "One half of an SJPW tag-team feud with the Tokyo Express, described by the operator as only getting hotter through August 1997.",
+    "caption_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "1997-08",
+        "last_seen": "1997-08",
+        "source": "promotions/sjpw/archive/state-of-tag-teams-aug1997.html: \"I'm sure Eric will agree that the feud between the Brew Crew & The Tokyo Express is only getting hotter!\""
+      }
+    ]
+  },
+  {
+    "id": "tokyo-express-sjpw",
+    "type": "unit",
+    "name": "The Tokyo Express",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "caption": "One half of an SJPW tag-team feud with the Brew Crew, described by the operator as only getting hotter through August 1997.",
+    "caption_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "1997-08",
+        "last_seen": "1997-08",
+        "source": "promotions/sjpw/archive/state-of-tag-teams-aug1997.html: \"I'm sure Eric will agree that the feud between the Brew Crew & The Tokyo Express is only getting hotter!\""
+      }
+    ]
+  },
+  {
+    "id": "northpac-coalition-sjpw",
+    "type": "unit",
+    "name": "The NorthPac Coalition",
+    "unit_kind": "stable",
+    "membership_unknown": true,
+    "caption": "SJPW's most recent roster addition as of July 1997, recruited over from HCW through the operator's own old UWA ally.",
+    "caption_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "1997-07",
+        "source": "promotions/sjpw/archive/looking-for-jonnie-adonis-jul1997.html: \"The only people I let in recently was the original NorthPac Coalition [who were in HCW], because the handler is an old ally from the UWA, and the NorthPac are even older than Jonnie Adonis is.\""
+      }
+    ]
+  },
+  {
+    "id": "the-maulers-sjpw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Maulers",
+    "members": [
+      "thomas-sjpw",
+      "douglas-sjpw"
+    ],
+    "caption": "A veteran heel tag team on SJPW's revival-era roster, longtime rivals of the Crush Crew.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "promotions/sjpw/archive/house-show-reports-2004-04-19-to-04-24.html"
+      },
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-06",
+        "last_seen": "2004-06",
+        "source": "promotions/sjpw/archive/battle-sphere-tokyo-2004-06-08.html, billed by both members' own full names defeating the debuting Nagasaki Bulldogs with the Mauler Plex on 8 June 2004; promotions/sjpw/archive/chiba-bridge-arena-sub-arena-2004-06-18.html, losing to \"GAIJIN Extreme\" Jun Suzuki & \"The Wolverine\" Masuhiro Hayatashi on 18 June 2004; promotions/sjpw/archive/chiimu-tora-dojo-show-2004-06-24.html, losing to the Nagasaki Bulldogs on 24 June 2004."
+      }
+    ]
+  },
+  {
+    "id": "crush-crew-sjpw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Crush Crew",
+    "aka": [
+      "Crush Crew"
+    ],
+    "members": [
+      "tsutomu-kobayashi-sjpw",
+      "botan-nakatoni-sjpw"
+    ],
+    "caption": "A tag team on SJPW's revival-era roster, longtime rivals of the Maulers and of the Chiimu Tora Dojo's own wrestlers.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-04",
+        "last_seen": "2004-04",
+        "source": "promotions/sjpw/archive/house-show-reports-2004-04-19-to-04-24.html"
+      },
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-05",
+        "last_seen": "2004-05",
+        "source": "promotions/sjpw/archive/okazaki-city-gym-house-show-2004-05-10.html, losing to Masashi \"Lightning\" Lanther & Jiraiya on 10 May 2004."
+      },
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-06",
+        "last_seen": "2004-06",
+        "source": "promotions/sjpw/archive/tokyo-club-atom-2004-06-06.html, losing to the debuting Nagasaki Bulldogs on 6 June 2004; promotions/sjpw/archive/katsushika-ward-center-bunka-hall-2004-06-10.html, losing to El Santo Azteca & MAMMOTH Kagawa on 10 June 2004; promotions/sjpw/archive/tokyo-fm-hall-2004-06-16.html, losing to Dragon Mask & Jiraiya on 16 June 2004; promotions/sjpw/archive/chiba-central-plaza-2004-06-20.html, defeating Masashi \"Lightning\" Lanther & Jiraiya on 20 June 2004; promotions/sjpw/archive/chiimu-tora-dojo-show-2004-06-24.html, losing to El Santo Azteca, Mascara Negra & El Muerte Rojo on 24 June 2004."
+      }
+    ]
+  },
+  {
+    "id": "nagasaki-bulldogs-sjpw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Nagasaki Bulldogs",
+    "members": [
+      "dynamite-boy-sjpw",
+      "eiji-kid-shimura-sjpw"
+    ],
+    "caption": "A debuting tag team of Chiimu Tora Dojo graduates on SJPW's revival-era roster.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-06",
+        "last_seen": "2004-06",
+        "source": "promotions/sjpw/archive/chiimu-tora-dojo-show-2004-06-04.html (introduced as Dojo graduates), promotions/sjpw/archive/tokyo-club-atom-2004-06-06.html, defeating Tsutomu Kobayashi & Botan Nakatoni on 6 June 2004, and promotions/sjpw/archive/battle-sphere-tokyo-2004-06-08.html, losing to the Maulers on 8 June 2004; promotions/sjpw/archive/tokyo-fm-hall-2004-06-16.html, defeating Yatoro Hori & Kenichi Kubota on 16 June 2004; promotions/sjpw/archive/chiimu-tora-dojo-show-2004-06-24.html, defeating the Maulers on 24 June 2004."
+      }
+    ]
+  },
+  {
+    "id": "red-army-sjpw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Red Army",
+    "members": [
+      "petor-andresku-sjpw",
+      "vladimir-tarasov-sjpw"
+    ],
+    "caption": "A Russian tag team billed as fresh from the United States, competing in the GPH Tag League.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-07",
+        "last_seen": "2004-08",
+        "source": "promotions/sjpw/archive/zepp-sapporo-2004-07-09.html, debuting with a win over Se-hong Kwan & El Muerte Rojo on 9 July 2004, through promotions/sjpw/archive/kamisato-townsman-gymnasium-2004-08-18.html, defeating SMASH Attack on 18 August 2004."
+      }
+    ]
+  },
+  {
+    "id": "visual-spirits-sjpw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Visual Spirits",
+    "members": [
+      "kanji-sakaigama-sjpw",
+      "jin-hiroto-sjpw"
+    ],
+    "caption": "A brash Japanese tag team competing in the GPH Tag League, previously the Sapporo City Tag Team champions elsewhere.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-07",
+        "last_seen": "2004-08",
+        "source": "promotions/sjpw/archive/tokyo-club-atom-2004-07-11.html, defeating The Maulers on 11 July 2004, through promotions/sjpw/archive/gyoda-citizen-gymnasium-2004-08-20.html, defeating the Crush Crew on 20 August 2004; also faced Kentaro Kawasaki's side in a six-man scramble at Kamisato Townsman Gymnasium (8/18)."
+      }
+    ]
+  },
+  {
+    "id": "team-raiden-sjpw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Team Raiden",
+    "members": [
+      "masashi-lanther-sjpw",
+      "jiraiya-sjpw"
+    ],
+    "caption": "Masashi \"Lightning\" Lanther's tag pairing with Jiraiya, named in the promotion's own results text since at least the revival's June run and competing in the GPH Tag League.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-06",
+        "last_seen": "2004-09",
+        "source": "promotions/sjpw/archive/yokosuka-rinkai-park-2004-06-30.html, defeating Tasogare no Prince & Tsunami on 30 June 2004 (the earliest of this pass's own documents to name the pairing \"Team Raiden\"), through promotions/sjpw/archive/shinjuku-acb-hall-2004-09-01.html, defeating Joey Darren's side with Takahiro KEOKI on 1 September 2004; also wrestled at Kitazawa Town Hall (7/14), Tokyo Oi Store (7/19, GPH title defense night), Fukaya City Shiba Central Park (8/16), and Kawamoto Town Training Center (8/20)."
+      }
+    ]
+  },
+  {
+    "id": "smash-attack-sjpw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "SMASH Attack",
+    "members": [
+      "yatoro-hori-sjpw",
+      "kenichi-kubota-sjpw"
+    ],
+    "caption": "The self-given tag name of Yatoro Hori & Kenichi Kubota, competing against the GPH Tag League's touring teams.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-08",
+        "last_seen": "2004-08",
+        "source": "promotions/sjpw/archive/kamisato-townsman-gymnasium-2004-08-18.html, losing to the Red Army on 18 August 2004, through promotions/sjpw/archive/tokyo-jiyugaoka-station-square-parking-lot-2004-08-29.html, scoring their first win as a team over the EuroPack on 29 August 2004."
+      }
+    ]
+  },
+  {
+    "id": "blood-merchants-sjpw",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "The Blood Merchants",
+    "members": [
+      "el-gato-loco-sjpw",
+      "el-muerte-rojo-sjpw",
+      "sangre-guerrero-sjpw"
+    ],
+    "caption": "A trio of SMLL luchadors (El Gato Loco, El Muerte Rojo & Sangre Guerrero) holding the SMLL International Trios title and feuding with the Disciples of Despair.",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    },
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "first_seen": "2004-08",
+        "last_seen": "2004-09",
+        "source": "promotions/sjpw/archive/katsushika-ward-center-bunka-hall-2004-08-23.html, first billed as the Blood Merchants in a scramble tag on 23 August 2004; promotions/sjpw/archive/tokyo-jiyugaoka-station-square-parking-lot-2004-08-29.html, retaining the SMLL International Trios title over the Disciples of Despair on 29 August 2004; promotions/sjpw/archive/shinjuku-acb-hall-2004-09-01.html, a second DoD confrontation on 1 September 2004."
+      }
+    ]
+  },
+  {
+    "id": "tokyo-express-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Tokyo Express",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged SJPW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #77 in the RSPWF Top 200 Tag Teams for 1998 (Riki Kano & Masa Kokura), tagged SJPW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "membership_unknown": true
+  },
+  {
+    "id": "yakuza-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Yakuza",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "sjpw",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged SJPW in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #92 in the RSPWF Top 200 Tag Teams for 1998 (Geto & Takaza), tagged SJPW.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "membership_unknown": true
+  }
+]

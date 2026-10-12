@@ -1,0 +1,511 @@
+[
+ {
+  "id": "d-generation-x-ebwf-2001",
+  "type": "unit",
+  "name": "D-Generation X",
+  "unit_kind": "tag-team",
+  "caption": "A two-time Tag Team Champion in EBWF, 2008, still champion when the promotion's own record ends.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2008-01-17",
+    "last_seen": "2008-05-25",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html); also its own served Champions page, 2008 (/promotions/ebwf-2001/archive/champions.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "d-generation-x-extreme-fed-2006",
+     "degeneration-x-ewa-email"
+    ],
+    "note": "EBWF's own tag team. The records listed here share the name and nothing else established, and no identity is asserted with any of them."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "No portrayal edge is asserted: a unit carries one only where a promotion bills a real tag team under that team's own name and fields that team's own members, and no held page names this unit's members."
+   }
+  ],
+  "membership_unknown": true,
+  "notes": "The promotion's own Title History and its own 2008 Champions page both bill this tag team by name only; no held page names its members."
+ },
+ {
+  "id": "e-and-c-ebwf-2001",
+  "type": "unit",
+  "name": "E & C",
+  "unit_kind": "tag-team",
+  "caption": "A one-time Tag Team Champion in EBWF, 2002. Fielded Edge & Christian, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-08-25",
+    "last_seen": "2002-09-12",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "portrays": {
+   "figure": "edge-and-christian-real",
+   "grade": "primary-source",
+   "note": "EBWF's own Title History bills this unit under the real tag team's own name and names that team's own members."
+  },
+  "portrayal_of": "edge-and-christian-real",
+  "members": [
+   {
+    "name": "Edge",
+    "character_id": "edge-ebwf-2001"
+   },
+   {
+    "name": "Christian",
+    "character_id": "christian-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "team-3-16-ebwf-2001",
+  "type": "unit",
+  "name": "Team 3:16",
+  "unit_kind": "tag-team",
+  "caption": "A three-time Tag Team Champion in EBWF, 2002. Fielded The Rock & Stone Cold Steve Austin, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-04-28",
+    "last_seen": "2002-12-16",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This pairing is the promotion's own. A unit carries a portrayal edge only where a promotion bills a real tag team under that team's own name and fields that team's own members, which this label does not."
+   }
+  ],
+  "members": [
+   {
+    "name": "The Rock",
+    "character_id": "the-rock-ebwf-2001"
+   },
+   {
+    "name": "Stone Cold Steve Austin",
+    "character_id": "stone-cold-steve-austin-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "team-hardcore-ebwf-2001",
+  "type": "unit",
+  "name": "Team Hardcore",
+  "unit_kind": "tag-team",
+  "caption": "A one-time Tag Team Champion in EBWF, 2002. Fielded Sandman & Mike Awesome, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-05-19",
+    "last_seen": "2002-08-25",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This pairing is the promotion's own. A unit carries a portrayal edge only where a promotion bills a real tag team under that team's own name and fields that team's own members, which this label does not."
+   }
+  ],
+  "members": [
+   {
+    "name": "Sandman",
+    "character_id": "sandman-ebwf-2001"
+   },
+   {
+    "name": "Mike Awesome",
+    "character_id": "mike-awesome-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "the-apa-ebwf-2001",
+  "type": "unit",
+  "name": "The APA",
+  "unit_kind": "tag-team",
+  "caption": "A one-time Tag Team Champion in EBWF, 2003. Fielded Bradshaw & Faarooq, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2003-04-27",
+    "last_seen": "2003-05-19",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "portrays": {
+   "figure": "apa-real",
+   "grade": "primary-source",
+   "note": "EBWF's own Title History bills this unit under the real tag team's own name and names that team's own members."
+  },
+  "portrayal_of": "apa-real",
+  "members": [
+   {
+    "name": "Bradshaw",
+    "character_id": "bradshaw-ebwf-2001"
+   },
+   {
+    "name": "Faarooq",
+    "character_id": "faarooq-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "the-brothers-of-destruction-ebwf-2001",
+  "type": "unit",
+  "name": "The Brothers of Destruction",
+  "unit_kind": "tag-team",
+  "caption": "A one-time Tag Team Champion in EBWF, 2003. Fielded The Undertaker & Kane, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2003-03-23",
+    "last_seen": "2003-04-27",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "portrays": {
+   "figure": "brothers-of-destruction-real",
+   "grade": "primary-source",
+   "note": "EBWF's own Title History bills this unit under the real tag team's own name and names that team's own members."
+  },
+  "portrayal_of": "brothers-of-destruction-real",
+  "members": [
+   {
+    "name": "The Undertaker",
+    "character_id": "the-undertaker-ebwf-2001"
+   },
+   {
+    "name": "Kane",
+    "character_id": "kane-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "the-dudley-boys-ebwf-2001",
+  "type": "unit",
+  "name": "The Dudley Boys",
+  "unit_kind": "tag-team",
+  "caption": "A one-time Tag Team Champion in EBWF, 2003. Fielded Bubba Ray Dudley & D'Von Dudley, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2003-07-10",
+    "last_seen": "2003-08-18",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "portrays": {
+   "figure": "dudley-boyz-real",
+   "grade": "primary-source",
+   "note": "EBWF's own Title History bills this unit under the real tag team's own name and names that team's own members."
+  },
+  "portrayal_of": "dudley-boyz-real",
+  "members": [
+   {
+    "name": "Bubba Ray Dudley",
+    "character_id": "bubba-ray-dudley-ebwf-2001"
+   },
+   {
+    "name": "D'Von Dudley",
+    "character_id": "d-von-dudley-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "the-hart-foundation-ebwf-2001",
+  "type": "unit",
+  "name": "The Hart Foundation",
+  "unit_kind": "tag-team",
+  "caption": "A one-time Tag Team Champion in EBWF, 2003. Fielded Bret Hart & Chris Jericho, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2003-06-23",
+    "last_seen": "2003-07-10",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-hart-foundation-rswa"
+    ],
+    "note": "EBWF's own tag team. The records listed here share the name and nothing else established, and no identity is asserted with any of them."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This pairing is the promotion's own. A unit carries a portrayal edge only where a promotion bills a real tag team under that team's own name and fields that team's own members, which this label does not."
+   }
+  ],
+  "members": [
+   {
+    "name": "Bret Hart",
+    "character_id": "bret-hart-ebwf-2001"
+   },
+   {
+    "name": "Chris Jericho",
+    "character_id": "chris-jericho-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "the-hulkamaniacs-ebwf-2001",
+  "type": "unit",
+  "name": "The Hulkamaniacs",
+  "unit_kind": "tag-team",
+  "caption": "A two-time Tag Team Champion in EBWF, 2002. Fielded The Undertaker & Hulk Hogan, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-04-15",
+    "last_seen": "2002-05-19",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This pairing is the promotion's own. A unit carries a portrayal edge only where a promotion bills a real tag team under that team's own name and fields that team's own members, which this label does not."
+   }
+  ],
+  "members": [
+   {
+    "name": "The Undertaker",
+    "character_id": "the-undertaker-ebwf-2001"
+   },
+   {
+    "name": "Hulk Hogan",
+    "character_id": "hulk-hogan-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "the-olympic-hitmen-ebwf-2001",
+  "type": "unit",
+  "name": "The Olympic Hitmen",
+  "unit_kind": "tag-team",
+  "caption": "A two-time Tag Team Champion in EBWF, 2003. Fielded Bret Hart & Kurt Angle, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2003-02-19",
+    "last_seen": "2003-05-25",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This pairing is the promotion's own. A unit carries a portrayal edge only where a promotion bills a real tag team under that team's own name and fields that team's own members, which this label does not."
+   }
+  ],
+  "members": [
+   {
+    "name": "Bret Hart",
+    "character_id": "bret-hart-ebwf-2001"
+   },
+   {
+    "name": "Kurt Angle",
+    "character_id": "kurt-angle-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "too-kool-ebwf-2001",
+  "type": "unit",
+  "name": "Too Kool",
+  "unit_kind": "tag-team",
+  "caption": "A one-time Tag Team Champion in EBWF, 2005. Fielded AJ Styles & Carlito, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2005-02-27",
+    "last_seen": "2005-03-27",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This pairing is the promotion's own. A unit carries a portrayal edge only where a promotion bills a real tag team under that team's own name and fields that team's own members, which this label does not."
+   }
+  ],
+  "members": [
+   {
+    "name": "AJ Styles",
+    "character_id": "aj-styles-ebwf-2001"
+   },
+   {
+    "name": "Carlito",
+    "character_id": "carlito-ebwf-2001"
+   }
+  ]
+ },
+ {
+  "id": "twisted-ebwf-2001",
+  "type": "unit",
+  "name": "Twisted",
+  "unit_kind": "tag-team",
+  "caption": "A one-time Tag Team Champion in EBWF, 2008. Fielded Nick Mondo & Samoa Joe, per the promotion's own Title History.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "ebwf-2001",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2008-04-27",
+    "last_seen": "2008-05-25",
+    "source": "the promotion's own served Title History page (/promotions/ebwf-2001/archive/titlehistory.html)",
+    "note": "Dated from the earliest and latest reign this unit holds in the promotion's own Title History — mechanically derived, not bio-sourced."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "This pairing is the promotion's own. A unit carries a portrayal edge only where a promotion bills a real tag team under that team's own name and fields that team's own members, which this label does not."
+   }
+  ],
+  "members": [
+   {
+    "name": "Nick Mondo",
+    "character_id": "nick-mondo-ebwf-2001"
+   },
+   {
+    "name": "Samoa Joe",
+    "character_id": "samoa-joe-ebwf-2001"
+   }
+  ]
+ }
+]

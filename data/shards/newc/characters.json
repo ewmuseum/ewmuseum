@@ -1,0 +1,385 @@
+[
+  {
+    "id": "bradley-vision-newc",
+    "type": "character",
+    "name": "Bradley Vision",
+    "caption": "An opening-card wrestler on the promotion's debut show, released from the roster after being eliminated first from its opening battle royal.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-04",
+        "last_seen": "2004-04-21",
+        "source": "/promotions/newc/archive/newc-update-2-2004-04-06.html; /promotions/newc/archive/newc-update-3-2004-04-27.html",
+        "note": "Dropped the debut show's opener to Steve Greedy, then was eliminated first from the battle royal that crowned the first NEWC Television Champion; released from the roster shortly after, per the federation's own fourth bulletin."
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "misery-newc",
+    "type": "character",
+    "name": "Misery",
+    "caption": "A wrestler who went undefeated through the promotion's first two shows before falling short of the NEWC Television Championship in its crowning battle royal.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "misery-agw",
+          "misery-rsll-2003",
+          "misery-vcw",
+          "misery-wwa"
+        ],
+        "note": "A common ring name shared with four unrelated held wrestlers at other wings; no operator, roster, title or URL ties this billing to any of them. Recorded distinct by default."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-04",
+        "last_seen": "2004-05-07",
+        "source": "/promotions/newc/archive/newc-update-2-2004-04-06.html; /promotions/newc/archive/newc-update-3-2004-04-27.html; /promotions/newc/archive/newc-update-4-2004-05-12.html",
+        "note": "Undefeated through the debut show and second show, then eliminated second-to-last from the battle royal that crowned the first NEWC Television Champion; eliminated Chris Capri from a three-way dance on the third show before losing the fall to Alexander Anderson."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "nefarious-newc",
+    "type": "character",
+    "name": "Nefarious",
+    "caption": "A debut-show wrestler managed by a ringside second, who lost his own opening match.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-04",
+        "last_seen": "2004-04-04",
+        "source": "/promotions/newc/archive/newc-update-2-2004-04-06.html",
+        "note": "Lost to Misery on the debut show; not mentioned again in the held record's surviving bulletins."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "takisuma-ogama-newc",
+    "type": "character",
+    "name": "Takisuma Ogama",
+    "caption": "A debut-show wrestler who won his opening match before losing the same night to Ethan Everitt.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "takisuma-ogama-rspwf"
+        ],
+        "note": "The same name places #136 tagged MLW in a 2001 RSPWF Top 200 edition. No roster, title, operator or date evidence ties that placing to this 2004 federation; recorded distinct by default."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-04",
+        "last_seen": "2004-04-04",
+        "source": "/promotions/newc/archive/newc-update-2-2004-04-06.html",
+        "note": "Beat Neige Thirteen, then lost the same night to Ethan Everitt; not mentioned again in the held record's surviving bulletins."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "neige-thirteen-newc",
+    "type": "character",
+    "name": "Neige Thirteen",
+    "caption": "A wrestler managed by a ringside second, winless through the promotion's first three shows and the target of a backstage attack on the third.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-04",
+        "last_seen": "2004-05-07",
+        "source": "/promotions/newc/archive/newc-update-2-2004-04-06.html; /promotions/newc/archive/newc-update-3-2004-04-27.html; /promotions/newc/archive/newc-update-4-2004-05-12.html",
+        "note": "Lost on all three shows this collection preserves, the last by disqualification after a backstage attacker (billed as signed to the roster under a separate bulletin item) interfered."
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "ethan-everitt-newc",
+    "type": "character",
+    "name": "Ethan Everitt",
+    "caption": "Billed as the promotion's booker's own personal enforcer, undefeated on the debut show before dropping his next two outings.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-04",
+        "last_seen": "2004-04-21",
+        "source": "/promotions/newc/archive/newc-update-2-2004-04-06.html; /promotions/newc/archive/newc-update-3-2004-04-27.html",
+        "note": "Beat Takisuma Ogama on the debut show, billed as following orders from Commissioner Dave Powers alone; lost his next two matches, the second a battle royal elimination."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "alexander-anderson-newc",
+    "type": "character",
+    "name": "Alexander Anderson",
+    "caption": "An undefeated wrestler through the promotion's first three shows, becoming the first man to qualify for its still-vacant Heavyweight Championship match.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-04",
+        "last_seen": "2004-05-07",
+        "source": "/promotions/newc/archive/newc-update-2-2004-04-06.html; /promotions/newc/archive/newc-update-3-2004-04-27.html; /promotions/newc/archive/newc-update-4-2004-05-12.html",
+        "note": "Won all three of his matches across the promotion's first three shows, the third a three-way dance over Misery and Chris Capri that made him the first man to qualify for the NEWC Heavyweight Championship match."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "bryan-vincent-newc",
+    "type": "character",
+    "name": "\"The Jackal\" Bryan Vincent",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "bryan-vincent-rspwf"
+        ],
+        "note": "The bare name \"Bryan Vincent\" places #135 tagged SSGC in the 2003 RSPWF Top 200. No roster, title, operator or date evidence ties that placing to this 2004 federation; recorded distinct by default."
+      }
+    ],
+    "caption": "One half of a running feud with Zack Sharp carried across the promotion's first two shows.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-04",
+        "last_seen": "2004-04-21",
+        "source": "/promotions/newc/archive/newc-update-2-2004-04-06.html; /promotions/newc/archive/newc-update-3-2004-04-27.html",
+        "note": "Debuted in a confrontation with Zack Sharp on the debut show; beat Sharp in a singles grudge match on the second show, then was eliminated from that same show's title battle royal."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "zack-sharp-newc",
+    "type": "character",
+    "name": "\"Sick & Twisted\" Zack Sharp",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "zack-sharp-inwi",
+          "zack-sharp-nwa-entity-3"
+        ],
+        "note": "The bare name \"Zack Sharp\" already carries two unrelated held records from a different era and federation (1997 INWI, 1997 NWA), and a further \"Technician\" Zack Sharp RSPWF Top 200 placing under a different nickname. No axis ties any of them to this 2004 federation; recorded distinct by default."
+      }
+    ],
+    "caption": "One half of a running feud with Bryan Vincent, later winning the promotion's own tag-team-scale grudge matches on his own.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-04",
+        "last_seen": "2004-05-07",
+        "source": "/promotions/newc/archive/newc-update-2-2004-04-06.html; /promotions/newc/archive/newc-update-3-2004-04-27.html; /promotions/newc/archive/newc-update-4-2004-05-12.html",
+        "note": "Debuted in a confrontation with Bryan Vincent, losing their singles grudge match on the second show but eliminating him from that same show's title battle royal (before eliminating himself); beat Chris Preston on the third show."
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "jeremiah-phoenix-newc",
+    "type": "character",
+    "name": "Jeremiah Phoenix",
+    "caption": "A late roster addition who reached the final of the promotion's first Television Championship battle royal.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-21",
+        "last_seen": "2004-04-21",
+        "source": "/promotions/newc/archive/newc-update-3-2004-04-27.html",
+        "note": "First appearance on the roster; the runner-up in the ten-man battle royal that crowned the first NEWC Television Champion, pinned by Sabbath."
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "dilli-ram-iyayi-newc",
+    "type": "character",
+    "name": "Dilli Ram Iyayi",
+    "aka": [
+      "\"The Buddhist Monk\" Dilli Ram Iyayi"
+    ],
+    "caption": "A previously unbilled attacker of Neige Thirteen who won his own first credited match by disqualification.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-05-07",
+        "last_seen": "2004-05-07",
+        "source": "/promotions/newc/archive/newc-update-4-2004-05-12.html",
+        "note": "Credited only in the third show's Card Results section (absent from that bulletin's own numbered roster) as the attacker of Neige Thirteen, beating him by disqualification; billed \"The Buddhist Monk\" for the first time in the same bulletin's own next-show preview."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "alexey-isakova-newc",
+    "type": "character",
+    "name": "Alexey Isakova",
+    "caption": "A debuting wrestler billed as \"the pride of Belarus,\" winning his first match against a much larger opponent.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-05-07",
+        "last_seen": "2004-05-07",
+        "source": "/promotions/newc/archive/newc-update-4-2004-05-12.html",
+        "note": "Debut win over The Strangler, billed as giving up roughly 60 pounds to his opponent."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "the-strangler-newc",
+    "type": "character",
+    "name": "The Strangler",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "shane-oneil-cawo"
+        ],
+        "note": "A different held wrestler also carries \"The Strangler\" as an aka, a decade-plus later at a different, unrelated wing (CAWO, 2016). No axis ties the two; recorded distinct by default."
+      }
+    ],
+    "caption": "A debuting wrestler billed only as \"a very mysterious man,\" who lost his first match to a much smaller opponent.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-05-07",
+        "last_seen": "2004-05-07",
+        "source": "/promotions/newc/archive/newc-update-4-2004-05-12.html",
+        "note": "Debut loss to Alexey Isakova, billed as outweighing his opponent by roughly 60 pounds."
+      }
+    ],
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "chris-preston-newc",
+    "type": "character",
+    "name": "\"Lowlife\" Chris Preston",
+    "caption": "A debuting wrestler with a ringside entourage of two, losing his first match to Zack Sharp.",
+    "tenures": [
+      {
+        "promotion": "newc",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "2004-04-27",
+        "last_seen": "2004-05-07",
+        "source": "/promotions/newc/archive/newc-update-3-2004-04-27.html; /promotions/newc/archive/newc-update-4-2004-05-12.html",
+        "note": "Announced on the third bulletin's own roster, then lost his debut match to Zack Sharp on the third show."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption_asof": {
+      "written": "2026-09-09",
+      "author": "ai"
+    }
+  }
+]

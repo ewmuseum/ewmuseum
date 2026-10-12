@@ -1,0 +1,102 @@
+[
+  {
+    "id": "dr-sigmund-e-xavier-cewf-entity-c1",
+    "type": "character",
+    "name": "Dr. Sigmund E. Xavier",
+    "tenures": [
+      {
+        "promotion": "cewf-entity-c1",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-05-12",
+        "last_seen": "1997-05-12",
+        "source": "promotions/cewf-entity-c1/rp/cewf-announces-more-signings-1997-05-12.html"
+      }
+    ],
+    "caption": "A wrestling psychologist gimmick, self-billed as bringing his own 'psychoanalytic genius' to a sport he calls a haven for the mentally disturbed.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 1,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "prophet-cewf-entity-c1",
+    "type": "character",
+    "name": "Prophet",
+    "tenures": [
+      {
+        "promotion": "cewf-entity-c1",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-05-12",
+        "last_seen": "1997-05-12",
+        "source": "promotions/cewf-entity-c1/rp/cewf-announces-more-signings-1997-05-12.html"
+      }
+    ],
+    "caption": "A preordained-messiah gimmick, self-billed to lead the fed 'out of the darkness into a new era.'",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 1,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "prophet-tpg"
+        ],
+        "note": "An exact bare-name collision against a different fed's own generic archetype ring name. No document on either side names the other fed or claims a shared performer; slug qualified per the generic-name minting convention. Filed distinct pending evidence."
+      }
+    ]
+  },
+  {
+    "id": "pulsulating-pepe-cewf-entity-c1",
+    "type": "character",
+    "name": "Pulsulating Pepe",
+    "tenures": [
+      {
+        "promotion": "cewf-entity-c1",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-05-12",
+        "last_seen": "1997-05-12",
+        "source": "promotions/cewf-entity-c1/rp/cewf-announces-more-signings-1997-05-12.html"
+      }
+    ],
+    "caption": "One of the fed's own three May 1997 signings, introduced with no comment of his own.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 1,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+ {
+  "id": "epw-exevent-world",
+  "type": "title",
+  "name": "World Championship",
+  "promotion": "epw-exevent",
+  "page": "/titles/epw-exevent-world.html",
+  "collection": "0159",
+  "epitaph": "EPW's World Championship was first won by Hudman, before 2003-08-24. The fed's own record carries 4 reigns on it, across 4 different champions. The longest is John Adams's, 189 days from 21 September 2003. Chapel held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "reigns": 4
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "epw-exevent-intercontinental",
+  "type": "title",
+  "name": "Intercontinental Championship",
+  "promotion": "epw-exevent",
+  "page": "/titles/epw-exevent-intercontinental.html",
+  "collection": "0159",
+  "epitaph": "EPW's Intercontinental Championship was first won by Hudman, before 2003-08-15. The fed's own record carries 6 reigns on it, across 6 different champions. The longest is Chapel's, 168 days from 9 January 2004. Ace held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "reigns": 6
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "epw-exevent-hardcore",
+  "type": "title",
+  "name": "Hardcore Championship",
+  "promotion": "epw-exevent",
+  "page": "/titles/epw-exevent-hardcore.html",
+  "collection": "0159",
+  "epitaph": "EPW's Hardcore Championship was first won by Blackheart on 1 August 2003. The fed's own record carries 3 reigns on it, across 3 different champions. The longest is King Hardkore's, 131 days from 24 August 2003. One of its reigns ended outside a match — vacated. The belt was vacated on an unrecorded date after Tom Conway's reign, and the surviving record carries no later change.",
+  "epitaph_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "reigns": 3
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ },
+ {
+  "id": "epw-exevent-tag-team",
+  "type": "title",
+  "name": "Tag Team Championship",
+  "promotion": "epw-exevent",
+  "page": "/titles/epw-exevent-tag-team.html",
+  "collection": "0159",
+  "epitaph": "EPW's Tag Team Championship was first won by Blackheart and Mephisto on 24 August 2003. The fed's own record carries 4 reigns on it, across 4 different champions. The longest is Mike Stryker and Devildriver's, 24 days from 28 August 2003. One of its reigns ended outside a match — retired with the belt. EPW did away with it on 8 June 2004 until a tag team division could be established.",
+  "epitaph_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "reigns": 4
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "retired_by_fed",
+    "date": {
+     "date": "2004-06-08",
+     "precision": "exact"
+    },
+    "note": "The fed's news post of 8 June 2004 says officials decided to do away with the gold until a tag team division could be established."
+   }
+  ]
+ },
+ {
+  "id": "epw-exevent-legacy",
+  "type": "title",
+  "name": "Legacy Championship",
+  "promotion": "epw-exevent",
+  "page": "/titles/epw-exevent-legacy.html",
+  "collection": "0159",
+  "epitaph": "EPW's Legacy Championship was first won by Tom Conway on 11 July 2004. Tom Conway held it at the end of the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-10-05",
+   "evidence": {
+    "reigns": 1
+   },
+   "author": "ai"
+  },
+  "cadence": "standing"
+ }
+]

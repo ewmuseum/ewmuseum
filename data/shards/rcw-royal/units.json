@@ -1,0 +1,285 @@
+[
+  {
+    "id": "strictly-business-rcw-royal",
+    "type": "unit",
+    "name": "Strictly Business",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Warren Knight",
+        "character_id": "warren-knight-rcw-royal"
+      },
+      {
+        "name": "Jesse Bishop",
+        "character_id": "jesse-bishop-rcw-royal"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "rcw-royal",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2000-06",
+        "last_seen": "2000-06",
+        "source": "the fed's own served Royal Rampage V recap page (promotions/rcw-royal/archive/royal-rampage-v.html)"
+      }
+    ],
+    "caption": "Challenged RCW World Tag Team Champions The Commission at Royal Rampage V, a match ended by disqualification when Dominion and Minions of Darkness ran in.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "Warren Knight and Jesse Bishop's own billed ring-team name for this match; both are also named, alongside Jonathan Steel, as members of the larger stable The Firm within the same recap.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "strictly-business-cswa"
+        ],
+        "note": "An exact-name collision against CSWA own Strictly Business (John Cisco and Mark Davis, managed by Terra Lopez), surfaced by the standing mint guard. No document on either side names the other fed or claims a shared team; Strictly Business is a generic tag-team name independently reused across the held record. Filed distinct pending evidence, per the collision doctrine -- when in doubt we do not merge."
+      }
+    ]
+  },
+  {
+    "id": "the-commission-rcw-royal",
+    "type": "unit",
+    "name": "The Commission",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Victor Shade",
+        "character_id": "victor-shade-rcw-royal"
+      },
+      {
+        "name": "Donald Blake",
+        "character_id": "donald-blake-rcw-royal"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "rcw-royal",
+        "role": "tag team — RCW World Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2000-06",
+        "last_seen": "2000-06",
+        "source": "the fed's own served Royal Rampage V recap page (promotions/rcw-royal/archive/royal-rampage-v.html)"
+      }
+    ],
+    "caption": "Retained the RCW World Tag Team Championship over Strictly Business by disqualification at Royal Rampage V, managed by Jasmine.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "dominion-rcw-royal",
+    "type": "unit",
+    "name": "Dominion",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Ric Samson",
+        "character_id": "ric-samson-rcw-royal"
+      },
+      {
+        "name": "Mike Smith",
+        "character_id": "mike-smith-rcw-royal"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "rcw-royal",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2000-06",
+        "last_seen": "2000-06",
+        "source": "the fed's own served Royal Rampage V recap page (promotions/rcw-royal/archive/royal-rampage-v.html)"
+      }
+    ],
+    "caption": "Ran in on the RCW World Tag Team Championship match at Royal Rampage V, attacking Strictly Business and Jonathan Steel on The Commission's behalf, then threw the tag belts back down at the champions.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "minions-of-darkness-rcw-royal",
+    "type": "unit",
+    "name": "Minions of Darkness",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Grakkar",
+        "character_id": "grakkar-rcw-royal"
+      },
+      {
+        "name": "Calibus",
+        "character_id": "calibus-rcw-royal"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "rcw-royal",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2000-06",
+        "last_seen": "2000-06",
+        "source": "the fed's own served Royal Rampage V recap page (promotions/rcw-royal/archive/royal-rampage-v.html)"
+      }
+    ],
+    "caption": "Ran in alongside Dominion on the RCW World Tag Team Championship match at Royal Rampage V, cutting off Warren Knight and attacking Jesse Bishop.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-firm-rcw-royal",
+    "type": "unit",
+    "name": "The Firm",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Warren Knight",
+        "character_id": "warren-knight-rcw-royal"
+      },
+      {
+        "name": "Jesse Bishop",
+        "character_id": "jesse-bishop-rcw-royal"
+      },
+      {
+        "name": "Jonathan Steel",
+        "character_id": "jonathan-steel-rcw-royal"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "rcw-royal",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2000-06",
+        "last_seen": "2000-06",
+        "source": "the fed's own served Royal Rampage V recap page (promotions/rcw-royal/archive/royal-rampage-v.html)"
+      }
+    ],
+    "caption": "The larger stable behind Strictly Business at Royal Rampage V — Jonathan Steel comes down to aid his \"Firm partners\" when Dominion and Minions of Darkness run in on the tag title match.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "Only these three members are attested in the surviving corpus; the recap's own reference to \"Firm partners\" implies the stable may have carried more.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-firm",
+          "the-firm-uwow"
+        ],
+        "note": "An exact-name collision against two other feds own The Firm (WWO, a bare-id character row; UWOW, a real-wrestler portrayal tag team of Ted DiBiase and Cody Rhodes). No document on any side names another fed or claims a shared roster; The Firm is a generic stable name independently reused across the held record. Filed distinct pending evidence, per the collision doctrine -- when in doubt we do not merge."
+      }
+    ]
+  },
+  {
+    "id": "syndicorp-rcw-royal",
+    "type": "unit",
+    "name": "SyndiCorp",
+    "aka": [
+      "The Syndicate"
+    ],
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Jake Rockwell",
+        "character_id": "jake-rockwell-rcw-royal"
+      },
+      {
+        "name": "The Executive",
+        "character_id": "the-executive-rcw-royal"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "rcw-royal",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2000-06",
+        "last_seen": "2000-06",
+        "source": "the fed's own served Royal Rampage V recap page (promotions/rcw-royal/archive/royal-rampage-v.html)"
+      }
+    ],
+    "caption": "Jake Rockwell and RCW World Champion The Executive's own alliance, dissolved by Rockwell on-air after the Royal Rampage V main event, moments before he attacked both Executive and Jack McGriff with a crowbar.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "The recap's own text names the group both \"The Syndicate\" and \"The SyndiCorp\" within the same post-match segment; Rockwell's own membership is explicit (he \"resolves\" it himself), The Executive's is implied by Rockwell blaming him for \"dragging... The Syndicate down with him.\" No further roster survives."
+  }
+]

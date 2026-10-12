@@ -1,0 +1,909 @@
+[
+  {
+    "id": "npwa-world-heavyweight-r001",
+    "title": "npwa-world-heavyweight",
+    "label": "Amoral",
+    "holder": [
+      {
+        "id": "amoral-npwa"
+      }
+    ],
+    "won": {
+      "date": "1996-12-24",
+      "precision": "exact",
+      "source": "Xmas Gory '96: defeated Senator Carthy McJoseph."
+    },
+    "how": "Won from Senator Carthy McJoseph (not this wing's own tenure) at Xmas Gory '96.",
+    "note": "Retained on PCW's own Birthday Brawl PPV (28 Jan 1997) and again at Valentine's Day Massacre '97, where the belt was physically stolen post-match by Col. Jarrett -- an unresolved cliffhanger.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-02-24",
+      "precision": "exact"
+    }
+  },
+  {
+    "id": "npwa-world-heavyweight-r002",
+    "title": "npwa-world-heavyweight",
+    "label": "Locutus",
+    "holder": [
+      {
+        "id": "locutus-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-02-24",
+      "precision": "exact",
+      "source": "Monday Night Mayhem, 24 Feb 1997, Buffalo NY: top-rope 'Assimilator' on Amoral."
+    },
+    "how": "Won from Amoral.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-04-11",
+      "precision": "exact"
+    },
+    "event": "npwa-monday-night-mayhem-1997-02-24"
+  },
+  {
+    "id": "npwa-world-heavyweight-r003",
+    "title": "npwa-world-heavyweight",
+    "label": "Col. Buddy Lee Jarrett",
+    "holder": [
+      {
+        "id": "col-buddy-lee-jarrett-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-04-11",
+      "precision": "exact",
+      "source": "April Assault, Triangle Match, defeated Amoral and Locutus."
+    },
+    "how": "Won from Amoral and Locutus in a Triangle Match.",
+    "note": "Lost between April Assault and 20 May 1997; the change itself is not directly attested in the held record -- the fed's own printed champion list of 20 May 1997 already names the next champion.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-05-01",
+      "precision": "exact"
+    },
+    "event": "npwa-april-assault-1997-04-11"
+  },
+  {
+    "id": "npwa-world-heavyweight-r004",
+    "title": "npwa-world-heavyweight",
+    "label": "\"Superstar\" Steve Sampson",
+    "holder": [
+      {
+        "id": "superstar-steve-sampson-rspwf"
+      }
+    ],
+    "won": {
+      "date": "1997-05-01",
+      "precision": "exact",
+      "source": "Thursday Night Thrashings, 1 May 1997, Billings, Montana: pinned Col. Buddy Lee Jarrett in a six-man elimination match (every singles title on the line) after Blackheart Brian Masters turned on his own New Wave stablemates."
+    },
+    "how": "Won from Col. Buddy Lee Jarrett (window not directly attested).",
+    "note": "Retained in a cage match over Mark Bagwell at Inhuman '97 (1 Jun 1997).",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-09",
+      "precision": "month"
+    },
+    "event": "npwa-thursday-night-thrashings-1997-05-01"
+  },
+  {
+    "id": "npwa-world-heavyweight-r005",
+    "title": "npwa-world-heavyweight",
+    "label": "\"Blackheart\" Brian Masters",
+    "holder": [
+      {
+        "id": "blackheart-brian-masters-rspwf"
+      }
+    ],
+    "won": {
+      "date": "1997-09",
+      "precision": "month",
+      "source": "The results ledger places this change between Jul-Oct 1997; not independently dated in the held record."
+    },
+    "how": "Won from Steve Sampson.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-world-heavyweight-r006",
+    "title": "npwa-world-heavyweight",
+    "label": "vacant",
+    "holder": [
+      {
+        "name": "vacant",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-11",
+      "precision": "month",
+      "source": "The results ledger records a November 1997 vacancy."
+    },
+    "how": "Vacated.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-world-heavyweight-r007",
+    "title": "npwa-world-heavyweight",
+    "label": "\"Hollywood Heartthrob\" Dave Diamond",
+    "holder": [
+      {
+        "id": "hollywood-heartthrob-dave-diamond-rspwf"
+      }
+    ],
+    "won": {
+      "date": "1997-12-24",
+      "precision": "exact",
+      "source": "Xmas Gory '97: won a 14-man Pinfall Royale, 45:28, last eliminating 'Big Daddy Cool' Amoral."
+    },
+    "how": "Won a 14-man Pinfall Royale for the vacant title.",
+    "event": "npwa-xmas-gory-1997-12-24",
+    "note": "Carried into 1998, with Amoral booked as the 1 Jan 1998 challenger.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-north-american-r001",
+    "title": "npwa-north-american",
+    "label": "\"Sadistic\" Steve Stone",
+    "holder": [
+      {
+        "id": "steve-stone-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-02-14",
+      "precision": "exact",
+      "source": "Valentine's Day Massacre '97: won a 15-man King of the Hill gauntlet."
+    },
+    "how": "Won a 15-man King of the Hill gauntlet -- the first NPWA North American Champion.",
+    "event": "npwa-valentines-day-massacre-1997-02-14",
+    "note": "Retained against Mark Bagwell at April Assault (11 Apr 1997).",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-06-05",
+      "precision": "exact"
+    }
+  },
+  {
+    "id": "npwa-north-american-r002",
+    "title": "npwa-north-american",
+    "label": "\"Breakfast\" Bobby Toast",
+    "holder": [
+      {
+        "id": "breakfast-bobby-toast-rspwf"
+      }
+    ],
+    "won": {
+      "date": "1997-06-05",
+      "precision": "exact",
+      "source": "Thursday Night Thrashings, 5 June 1997, Belfast, Northern Ireland: pinned Sadistic Steve Stone."
+    },
+    "how": "Won from Steve Stone.",
+    "note": "Retained against the Silent Striker at Armageddon '97 (3 Aug 1997).",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-11-22",
+      "precision": "circa"
+    },
+    "event": "npwa-thursday-night-thrashings-1997-06-05"
+  },
+  {
+    "id": "npwa-north-american-r003",
+    "title": "npwa-north-american",
+    "label": "Mustafa",
+    "holder": [
+      {
+        "id": "mustafa-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-11-22",
+      "precision": "circa",
+      "source": "Results ledger places this change by 22 Nov 1997."
+    },
+    "how": "Won from Bobby Toast.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-12-24",
+      "precision": "exact"
+    }
+  },
+  {
+    "id": "npwa-north-american-r004",
+    "title": "npwa-north-american",
+    "label": "The Cougar",
+    "holder": [
+      {
+        "id": "the-cougar-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-12-24",
+      "precision": "exact",
+      "source": "Xmas Gory '97: defeated Mustafa."
+    },
+    "how": "Won from Mustafa.",
+    "event": "npwa-xmas-gory-1997-12-24",
+    "note": "Carried into 1998, with a rematch against Mustafa booked for 1 Jan 1998.",
+    "lost": {
+      "date": "1998-01-04",
+      "precision": "exact",
+      "source": "NPWA's delayed New Year broadcast, the \"January 1st\" Show, 4 January 1998: lost to Mustafa."
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "npwa-television-r001",
+    "title": "npwa-television",
+    "label": "The Southern Rocker",
+    "holder": [
+      {
+        "id": "the-southern-rocker-npwa"
+      }
+    ],
+    "won": {
+      "date": "1996-12-24",
+      "precision": "exact",
+      "source": "Xmas Gory '96: defeated Col. Buddy Lee Jarrett."
+    },
+    "how": "Won from Col. Buddy Lee Jarrett (not this wing's own tenure) at Xmas Gory '96.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-01-30",
+      "precision": "exact"
+    }
+  },
+  {
+    "id": "npwa-television-r002",
+    "title": "npwa-television",
+    "label": "Jurisprudence",
+    "holder": [
+      {
+        "id": "jurisprudence-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-01-30",
+      "precision": "exact",
+      "source": "Thursday Night Thrashings, 30 Jan 1997, Charlottetown PEI (now served in full): defeated the Southern Rocker."
+    },
+    "how": "Won from the Southern Rocker.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-04-11",
+      "precision": "exact"
+    },
+    "event": "npwa-thursday-night-thrashings-1997-01-30"
+  },
+  {
+    "id": "npwa-television-r003",
+    "title": "npwa-television",
+    "label": "The Mighty Boss",
+    "holder": [
+      {
+        "id": "the-mighty-boss-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-04-11",
+      "precision": "exact",
+      "source": "April Assault pre-show: defeated Jurisprudence."
+    },
+    "how": "Won from Jurisprudence.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-06-01",
+      "precision": "exact"
+    },
+    "event": "npwa-april-assault-1997-04-11"
+  },
+  {
+    "id": "npwa-television-r004",
+    "title": "npwa-television",
+    "label": "\"Bad Boy\" Mark Bagwell",
+    "holder": [
+      {
+        "id": "bad-boy-mark-bagwell-rspwf"
+      }
+    ],
+    "won": {
+      "date": "1997-06-01",
+      "precision": "exact",
+      "source": "Announced on the Inhuman '97 pre-show."
+    },
+    "how": "Announced as champion on the Inhuman '97 pre-show.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-07-17",
+      "precision": "exact"
+    },
+    "event": "npwa-inhuman-1997-06-01"
+  },
+  {
+    "id": "npwa-television-r005",
+    "title": "npwa-television",
+    "label": "\"Blackheart\" Brian Masters",
+    "holder": [
+      {
+        "id": "blackheart-brian-masters-rspwf"
+      }
+    ],
+    "won": {
+      "date": "1997-07-17",
+      "precision": "exact",
+      "source": "Results ledger."
+    },
+    "how": "Won from Mark Bagwell.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-09-22",
+      "precision": "exact"
+    },
+    "event": "npwa-thursday-night-thrashings-1997-07-17"
+  },
+  {
+    "id": "npwa-television-r006",
+    "title": "npwa-television",
+    "label": "The Silent Striker",
+    "holder": [
+      {
+        "id": "the-silent-striker-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-09-22",
+      "precision": "exact",
+      "source": "Monday Night Mayhem, 22 September 1997, Sydney, Australia: defeated champion Blackheart Brian Masters."
+    },
+    "how": "Won from Brian Masters.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-12-10",
+      "precision": "exact"
+    },
+    "event": "npwa-monday-night-mayhem-1997-09-22"
+  },
+  {
+    "id": "npwa-television-r007",
+    "title": "npwa-television",
+    "label": "Dark Justice",
+    "holder": [
+      {
+        "id": "dark-justice-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-12-10",
+      "precision": "exact",
+      "source": "Monday Night Mayhem, 10 December 1997, Quebec City, Quebec: defeated champion the Silent Striker by submission (the broadcast's own commentary questioned whether the Striker actually submitted)."
+    },
+    "how": "Won from the Silent Striker.",
+    "event": "npwa-monday-night-mayhem-1997-12-10",
+    "note": "Defended in a Death Row Match over 'Ultimate' Mike Mitchells at Xmas Gory '97 (24 Dec 1997); carried into 1998.",
+    "lost": {
+      "date": "1998-01-04",
+      "precision": "exact",
+      "source": "NPWA's delayed New Year broadcast, the \"January 1st\" Show, 4 January 1998: lost to Bowa the Snake Man."
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "npwa-world-tag-team-r001",
+    "title": "npwa-world-tag-team",
+    "label": "The New Cadavre Connection",
+    "holder": [
+      {
+        "id": "the-cougar-npwa"
+      }
+    ],
+    "won": {
+      "date": "1996-12-24",
+      "precision": "exact",
+      "source": "Xmas Gory '96."
+    },
+    "how": "Held entering 1997; retained a Texas Tornado defense at Valentine's Day Massacre '97.",
+    "note": "Team of the Cougar and the Coroner. The original NWC SuperAction tournament crowning the fed's first Tag Team Champions is re-run in full on the Saturday Night Nightmare broadcast of 1 Feb 1997 (now served).",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-04-11",
+      "precision": "exact"
+    },
+    "event": "npwa-valentines-day-massacre-1997-02-14"
+  },
+  {
+    "id": "npwa-world-tag-team-r002",
+    "title": "npwa-world-tag-team",
+    "label": "The Muslim Massacre",
+    "holder": [
+      {
+        "id": "mustafa-npwa"
+      },
+      {
+        "id": "gen-arain-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-04-11",
+      "precision": "exact",
+      "source": "April Assault: defeated the New Cadavre Connection."
+    },
+    "how": "Won from the New Cadavre Connection.",
+    "note": "Team of Col. Mustafa and Gen. Arain.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-06-23",
+      "precision": "exact"
+    },
+    "event": "npwa-april-assault-1997-04-11"
+  },
+  {
+    "id": "npwa-world-tag-team-r003",
+    "title": "npwa-world-tag-team",
+    "label": "The Lords of the Ring",
+    "holder": [
+      {
+        "id": "lord-james-midheaven-npwa"
+      },
+      {
+        "id": "lord-christopher-warfield-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-06-23",
+      "precision": "exact",
+      "source": "Monday Night Mayhem, 23 June 1997, Brussels, Belgium: defeated the Muslim Massacre (Mustafa & Gen. Arain) in a steel cage tag team match."
+    },
+    "how": "Won from the Muslim Massacre.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-08-03",
+      "precision": "exact"
+    },
+    "event": "npwa-monday-night-mayhem-1997-06-23"
+  },
+  {
+    "id": "npwa-world-tag-team-r004",
+    "title": "npwa-world-tag-team",
+    "label": "The Asian Triad",
+    "holder": [
+      {
+        "id": "akira-sasaki-npwa"
+      },
+      {
+        "id": "kenshin-nobunaga-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-08-03",
+      "precision": "exact",
+      "source": "Armageddon '97, Triangle Tag Match: defeated the Lords of the Ring and the Hell Razors."
+    },
+    "how": "Won a Triangle Tag Match over the Lords of the Ring and the Hell Razors.",
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1997-09-18",
+      "precision": "exact"
+    },
+    "event": "npwa-armageddon-1997-08-03"
+  },
+  {
+    "id": "npwa-world-tag-team-r005",
+    "title": "npwa-world-tag-team",
+    "label": "Gan Green & The Maltese Falcon",
+    "holder": [
+      {
+        "id": "gan-green-npwa"
+      },
+      {
+        "id": "the-maltese-falcon-npwa"
+      }
+    ],
+    "won": {
+      "date": "1997-09-18",
+      "precision": "exact",
+      "source": "Thursday Night Thrashings, 18 September 1997: defeated the champions, the Asian Strikers (Akira Sasaki & Kenshin Nobunaga), by disqualification; the finish was reviewed by NPWA management and the title change was upheld the following week."
+    },
+    "how": "Won from the Asian Triad.",
+    "end_how": "forfeited",
+    "lost": {
+      "date": "1997-10-27",
+      "precision": "circa"
+    },
+    "event": "npwa-thursday-night-thrashings-1997-09-18"
+  },
+  {
+    "id": "npwa-world-tag-team-r006",
+    "title": "npwa-world-tag-team",
+    "label": "Drama",
+    "holder": [
+      {
+        "name": "Drama",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "1997-11",
+      "precision": "month",
+      "source": "Results ledger."
+    },
+    "how": "Awarded after the prior team's title forfeiture.",
+    "note": "Carried into 1998, defending against Steve Stone & John Hunter on 1 Jan 1998.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-north-american-r007",
+    "title": "npwa-north-american",
+    "label": "Rick Kilgore",
+    "holder": [
+      {
+        "id": "rick-kilgore-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998",
+      "precision": "circa",
+      "source": "Not directly witnessed: r006 (Major Victory) carries no lost date in the wing's existing record; Kilgore is billed champion by Mayhem, 29 Sep 1998, the held record's next dated card carrying this title."
+    },
+    "how": "Won from Major Victory off-screen, in the held record gap.",
+    "note": "Retained (Ratings Buster) over The Kaiser, Mayhem 29 Sep 1998; retained over The Glitter Boy in a ladder match, Mayhem 6 Oct 1998; retained over Doc Toxic (rspwf-tagged, unminted tenure) when Toxic and his manager Karachel walked out of the pin, Mayhem 5th Anniversary Special, 13 Oct 1998.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-north-american-r005",
+    "title": "npwa-north-american",
+    "label": "Mustafa",
+    "holder": [
+      {
+        "id": "mustafa-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998-01-04",
+      "precision": "exact",
+      "source": "NPWA's delayed New Year broadcast, the \"January 1st\" Show, 4 January 1998."
+    },
+    "how": "Won from The Cougar after Arain of the Perfect Role Models, installed as acting replacement referee when senior referee Willie Feldman was knocked out at ringside, ruled the pinfall Mustafa's way; commentary called the decision controversial.",
+    "event": "npwa-january-1st-show-1998-01-04",
+    "days": 14,
+    "end_how": "lost-in-match",
+    "lost": {
+      "date": "1998-01-18",
+      "precision": "exact",
+      "source": "NPWA Mayhem, 18 January 1998: lost to Major Victory."
+    },
+    "collection": "0148"
+  },
+  {
+    "id": "npwa-television-r009",
+    "title": "npwa-television",
+    "label": "Sebastian Jericho",
+    "holder": [
+      {
+        "id": "sebastian-jericho-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998",
+      "precision": "circa",
+      "source": "Not directly witnessed: r008 (Bowa the Snake Man) carries no lost date in the wing's existing record; Jericho is billed champion by Mayhem, 18 May 1998, the held record's earliest dated Mayhem episode."
+    },
+    "how": "Won from Bowa the Snake Man off-screen, in the held record gap.",
+    "lost": {
+      "date": "1998",
+      "precision": "circa",
+      "source": "Not directly witnessed: Jolt is billed champion by Mayhem, 29 Sep 1998 (his 'first Television Title defence'), implying he won it very shortly before -- the change falls in the held record's June-August 1998 gap."
+    },
+    "end_how": "lost-in-match",
+    "note": "Retained by submission (Kalamazoo Clutch) over Dark Justice, Mayhem 18 May 1998."
+  },
+  {
+    "id": "npwa-world-heavyweight-r008",
+    "title": "npwa-world-heavyweight",
+    "label": "\"The Wrecker\" Mick McGreggor",
+    "holder": [
+      {
+        "id": "mick-mcgreggor-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998",
+      "precision": "circa",
+      "source": "Not directly witnessed: r007 (Dave Diamond) carries no lost date in the wing's existing record; McGreggor is billed champion by Disaster Area, 14 May 1998, the held record's earliest 1998 document -- the change falls in the coverage gap before 16 May 1998."
+    },
+    "how": "Won from Dave Diamond off-screen, in the held record gap.",
+    "lost": {
+      "date": "1998",
+      "precision": "circa",
+      "source": "Not directly witnessed: Breakfast Bobby Toast is billed champion by Mayhem, 6 Oct 1998; McGreggor retained over Steve Stone by DQ as champion on 25 May 1998, the last date he is found holding the belt -- the change falls in a June-August 1998 gap in the record."
+    },
+    "end_how": "lost-in-match",
+    "note": "Retained by disqualification (Damien Lestat interference) over Steve Stone, Mayhem 25 May 1998 -- the belt's last witnessed defense before it changed hands off-screen."
+  },
+  {
+    "id": "npwa-world-heavyweight-r009",
+    "title": "npwa-world-heavyweight",
+    "label": "\"Breakfast\" Bobby Toast",
+    "holder": [
+      {
+        "id": "breakfast-bobby-toast-rspwf"
+      }
+    ],
+    "won": {
+      "date": "1998",
+      "precision": "circa",
+      "source": "Not directly witnessed: billed champion by Mayhem, 6 Oct 1998, the held record's next dated NPWA document after 25 May 1998 (a June-August 1998 gap intervenes)."
+    },
+    "how": "Won from Mick McGreggor off-screen, in the held record gap.",
+    "note": "Retained by disqualification over Steve Sampson (Randy Gant interference), Mayhem 6 Oct 1998; retained in a Double Jeopardy six-man stipulation at Mayhem 5th Anniversary Special, 13 Oct 1998; still champion at Hell On Earth, 1 Nov 1998.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-television-r010",
+    "title": "npwa-television",
+    "label": "Jolt",
+    "holder": [
+      {
+        "id": "jolt-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998",
+      "precision": "circa",
+      "source": "Not directly witnessed: billed his 'first Television Title defence' at Mayhem, 29 Sep 1998, implying a very recent, off-screen win."
+    },
+    "how": "Won off-screen, shortly before 29 Sep 1998.",
+    "note": "First defense won over Mike Mitchells (unminted) with the Caffeine Crashdown, Mayhem 29 Sep 1998; retained over \"Untouchable\" Randy Gant, Mayhem 5th Anniversary Special, 13 Oct 1998.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-television-r008",
+    "title": "npwa-television",
+    "label": "Bowa the Snake Man",
+    "holder": [
+      {
+        "id": "bowa-the-snake-man-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998-01-04",
+      "precision": "exact",
+      "source": "NPWA's delayed New Year broadcast, the \"January 1st\" Show, 4 January 1998."
+    },
+    "how": "Won from Dark Justice after an unaffiliated 'Ultimate' Mike Mitchells, climbing from the crowd, missile dropkicked the champion from behind.",
+    "event": "npwa-january-1st-show-1998-01-04",
+    "days": null,
+    "end_how": "still-champion-at-record-end",
+    "note": "Defended, inconclusively, against The Glitter Boy on 18 January 1998 -- the match was broken up by outside interference before any fall; this pass does not read a title change.",
+    "collection": "0148"
+  },
+  {
+    "id": "npwa-north-american-r006",
+    "title": "npwa-north-american",
+    "label": "Major Victory",
+    "holder": [
+      {
+        "id": "major-victory-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998-01-18",
+      "precision": "exact",
+      "source": "NPWA Mayhem, 18 January 1998: pinned champion Mustafa with the Americannon shoulderblock after Gan Green tripped Mustafa outside the ring."
+    },
+    "how": "Won from Mustafa.",
+    "event": "npwa-mayhem-1998-01-18",
+    "days": null,
+    "end_how": "still-champion-at-record-end",
+    "collection": "0148"
+  },
+  {
+    "id": "npwa-world-tag-team-r007",
+    "title": "npwa-world-tag-team",
+    "label": "The Masters of Disaster",
+    "holder": [
+      {
+        "id": "blade-npwa"
+      },
+      {
+        "id": "jack-hammer-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998-09",
+      "precision": "circa",
+      "source": "Not directly witnessed: r006 (Drama) carries no lost date in the wing's existing record; the Masters are referenced defending the belts against the Outcast Rogues/Asian Revolution via 'Armageddon V' footage (6 Sep 1998) replayed during Mayhem, 29 Sep 1998."
+    },
+    "how": "Won from Drama off-screen, in the held record gap.",
+    "lost": {
+      "date": "1998-09-29",
+      "precision": "exact",
+      "source": "Mayhem, 29 Sep 1998: Arion pinned Blade after a jumped restart (referee swap ruled invalid), a rematch of the Armageddon V contest replayed the same show."
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "npwa-world-tag-team-r008",
+    "title": "npwa-world-tag-team",
+    "label": "The Outcast Rogues",
+    "holder": [
+      {
+        "id": "arion-npwa"
+      },
+      {
+        "id": "shaz-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998-09-29",
+      "precision": "exact",
+      "source": "Mayhem, 29 Sep 1998: Arion pinned Jack Hammer's partner Blade to win the belts from the Masters of Disaster."
+    },
+    "how": "Won from the Masters of Disaster, Mayhem 29 Sep 1998.",
+    "event": "npwa-mayhem-1998-09-29",
+    "lost": {
+      "date": "1998-10-13",
+      "precision": "exact",
+      "source": "Mayhem 5th Anniversary Special, 13 Oct 1998: a Double Jeopardy six-man stipulation match (Rogues & the Glitter Boy vs. the Asian Revolution & \"Breakfast\" Bobby Toast) -- Jo Ozawa pinned the Glitter Boy, crowning the Asian Revolution and keeping Toast's World Title safe."
+    },
+    "end_how": "lost-in-match",
+    "note": "The Asian Revolution briefly offered the belts back to the Rogues as a show of 'friendship' after winning them, then attacked the Rogues and kept the titles."
+  },
+  {
+    "id": "npwa-world-tag-team-r009",
+    "title": "npwa-world-tag-team",
+    "label": "The Asian Revolution",
+    "holder": [
+      {
+        "id": "jo-ozawa-npwa"
+      },
+      {
+        "id": "takanori-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998-10-13",
+      "precision": "exact",
+      "source": "Mayhem 5th Anniversary Special, 13 Oct 1998: Jo Ozawa pinned the Glitter Boy in the Double Jeopardy six-man stipulation match."
+    },
+    "how": "Won from the Outcast Rogues in a Double Jeopardy six-man match, Mayhem 5th Anniversary Special, 13 Oct 1998.",
+    "event": "npwa-mayhem-5th-anniversary-1998-10-13",
+    "note": "Retained against the Outcast Rogues in a rematch, Hell On Earth, 1 Nov 1998.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-millennium-r001",
+    "title": "npwa-millennium",
+    "label": "\"Untouchable\" Randy Gant",
+    "holder": [
+      {
+        "id": "randy-gant-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998",
+      "precision": "circa",
+      "source": "Billed the reigning Millennium Champion entering Mayhem, 29 Sep 1998, described as having won the title 'not too long ago' -- title created and first won off-screen, in or after the held record's June-August 1998 gap."
+    },
+    "how": "Won off-screen; the title's own first reign.",
+    "lost": {
+      "date": "1998-09-29",
+      "precision": "exact",
+      "source": "Mayhem, 29 Sep 1998: a Coal Miner's Glove triangle match against \"Superstar\" Steve Sampson and Rick Kilgore, restarted from a Locutus-Dark Justice bout after all four men brawled; Sampson used a second glove (planted by Locutus) to pin Gant."
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "npwa-millennium-r002",
+    "title": "npwa-millennium",
+    "label": "\"Superstar\" Steve Sampson",
+    "holder": [
+      {
+        "id": "superstar-steve-sampson-rspwf"
+      }
+    ],
+    "won": {
+      "date": "1998-09-29",
+      "precision": "exact",
+      "source": "Mayhem, 29 Sep 1998: won the Coal Miner's Glove triangle match over Randy Gant and Rick Kilgore."
+    },
+    "how": "Won from Randy Gant in a Coal Miner's Glove triangle match, Mayhem 29 Sep 1998.",
+    "event": "npwa-mayhem-1998-09-29",
+    "note": "Challenged \"Breakfast\" Bobby Toast for the World Heavyweight Championship, retaining the Millennium belt by virtue of not defending it (Mayhem, 6 Oct 1998, lost the World Title match by DQ-in-Toast's-favor -- i.e. Sampson won by DQ); retained the Millennium belt against Randy Gant, Mayhem 5th Anniversary Special, 13 Oct 1998; scheduled to defend against The Cougar the following week per that show's own announcement.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-north-american-tag-team-r001",
+    "title": "npwa-north-american-tag-team",
+    "label": "The Cult",
+    "holder": [
+      {
+        "id": "doctor-death-npwa"
+      },
+      {
+        "id": "father-armageddon-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998",
+      "precision": "circa",
+      "source": "Billed 'the brand new NPWA North American Tag Team Champions' at Mayhem, 6 Oct 1998, the title's first sighting in the record -- won off-screen, shortly before."
+    },
+    "how": "Won off-screen; the title's own first reign.",
+    "lost": {
+      "date": "1998-10-13",
+      "precision": "exact",
+      "source": "Mayhem 5th Anniversary Special, 13 Oct 1998: Tom Harris rolled up Locutus (wrestling in Father Armageddon's place) for the pin."
+    },
+    "end_how": "lost-in-match",
+    "note": "Retained (Locutus wrestling in Armageddon's place) over the Larson Brothers, Mayhem 6 Oct 1998."
+  },
+  {
+    "id": "npwa-north-american-tag-team-r002",
+    "title": "npwa-north-american-tag-team",
+    "label": "Assault and Battery",
+    "holder": [
+      {
+        "id": "eddie-simpson-npwa"
+      },
+      {
+        "id": "tom-harris-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998-10-13",
+      "precision": "exact",
+      "source": "Mayhem 5th Anniversary Special, 13 Oct 1998: Tom Harris rolled up Locutus for the pin, winning the belts for himself and Eddie Simpson."
+    },
+    "how": "Won from The Cult, Mayhem 5th Anniversary Special, 13 Oct 1998.",
+    "event": "npwa-mayhem-5th-anniversary-1998-10-13",
+    "lost": {
+      "date": "1998-11-01",
+      "precision": "exact",
+      "source": "Hell On Earth, 1 Nov 1998: a masked interloper struck Eddie Simpson with brass knuckles moments before Jack Hammer covered him."
+    },
+    "end_how": "lost-in-match",
+    "note": "Billed undefeated in NPWA tag competition entering Hell On Earth; suffered their first NPWA loss in the title match itself."
+  },
+  {
+    "id": "npwa-north-american-tag-team-r003",
+    "title": "npwa-north-american-tag-team",
+    "label": "The Masters of Disaster",
+    "holder": [
+      {
+        "id": "blade-npwa"
+      },
+      {
+        "id": "jack-hammer-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998-11-01",
+      "precision": "exact",
+      "source": "Hell On Earth, 1 Nov 1998: Jack Hammer covered Eddie Simpson (struck by a masked interloper) inside a double steel-cage match."
+    },
+    "how": "Won from Assault and Battery at Hell On Earth, 1 Nov 1998, aided by an unidentified masked interloper.",
+    "event": "npwa-hell-on-earth-1998-11-01",
+    "note": "A commentator remarks the Masters are the first NPWA team to hold both the World and North American Tag Team belts.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "npwa-cruiserweight-r001",
+    "title": "npwa-cruiserweight",
+    "label": "Atticus \"The Jester\" Payne",
+    "holder": [
+      {
+        "id": "atticus-payne-npwa"
+      }
+    ],
+    "won": {
+      "date": "1998",
+      "precision": "unknown",
+      "source": "Billed the undefeated Cruiserweight Champion of the World, criticized on-air for rarely defending the title, Mayhem 18 May 1998 -- no won date survives in the held record."
+    },
+    "how": "Standing champion at the start of the record; no won date witnessed.",
+    "note": "Listed to defend against \"Flyboy\" Will Geddings the following week (Mayhem 25 May 1998 card); retained (Shooting Star Press) over Doug Arnott, Mayhem 5th Anniversary Special, 13 Oct 1998.",
+    "end_how": "still-champion-at-record-end"
+  }
+]

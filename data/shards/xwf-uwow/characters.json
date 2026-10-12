@@ -1,0 +1,5391 @@
+[
+ {
+  "id": "samoa-joe-xwf-uwow",
+  "type": "character",
+  "name": "Samoa Joe",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Heavyweight Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "samoa-joe-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "samoa-joe-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "samoa-joe-pwe-inc"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "big-show-xwf-uwow",
+  "type": "character",
+  "name": "Big Show",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Heavyweight Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "paul-wight-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "paul-wight-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "big-show-pwe-inc"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "brock-lesnar-xwf-uwow",
+  "type": "character",
+  "name": "Brock Lesnar",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Heavyweight Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "brock-lesnar-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "brock-lesnar-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brock-lesnar-pwe-inc",
+     "brock-lesnar-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "cactus-jack-xwf-uwow",
+  "type": "character",
+  "name": "Cactus Jack",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Tag Team Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "mick-foley-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "mick-foley-real"
+ },
+ {
+  "id": "kevin-sullivan-xwf-uwow",
+  "type": "character",
+  "name": "Kevin Sullivan",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Tag Team Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "kevin-sullivan-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "kevin-sullivan-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kevin-satan-wccw"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "raven-xwf-uwow",
+  "type": "character",
+  "name": "Raven",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Tag Team Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "raven-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "raven-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "raven-xwf"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "vampiro-xwf-uwow",
+  "type": "character",
+  "name": "Vampiro",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time World Tag Team Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "vampiro-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "vampiro-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "vampiro-glw"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "ravishing-rick-rude-xwf-uwow",
+  "type": "character",
+  "name": "Ravishing Rick Rude",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A two-time North American Heavyweight Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "ravishing-rick-rude-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "ravishing-rick-rude-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ravishing-rick-rude-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "vader-xwf-uwow",
+  "type": "character",
+  "name": "Vader",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time North American Heavyweight Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "big-van-vader-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "big-van-vader-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "vader-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "daft-vader-pcw"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "rob-van-dam-xwf-uwow",
+  "type": "character",
+  "name": "Rob Van Dam",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time Cruiserweight Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "rob-van-dam-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "rob-van-dam-real"
+ },
+ {
+  "id": "dynamite-kid-xwf-uwow",
+  "type": "character",
+  "name": "Dynamite Kid",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time Cruiserweight Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "dynamite-kid-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "dynamite-kid-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dynamite-wwa"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "lance-storm-xwf-uwow",
+  "type": "character",
+  "name": "Lance Storm",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time Cruiserweight Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "lance-storm-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "lance-storm-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lance-storm-glw",
+     "lance-storm-uwf-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "natalya-neidhart-xwf-uwow",
+  "type": "character",
+  "name": "Natalya Neidhart",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served title-history ledger"
+   }
+  ],
+  "caption": "A one-time X-Treme Divas Champion in XWF.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "natalya-neidhart-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "natalya-neidhart-real"
+ },
+ {
+  "id": "shane-douglas-xwf-uwow",
+  "type": "character",
+  "name": "Shane Douglas",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "shane-douglas-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "shane-douglas-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "shawn-douglas",
+     "shane-douglas-nwwa-1998"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "big-bossman-xwf-uwow",
+  "type": "character",
+  "name": "Big Bossman",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "big-bossman-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "big-bossman-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bossman-aew"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "don-muraco-xwf-uwow",
+  "type": "character",
+  "name": "Don Muraco",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "don-muraco-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "don-muraco-real"
+ },
+ {
+  "id": "tatanka-xwf-uwow",
+  "type": "character",
+  "name": "Tatanka",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "tatanka-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "tatanka-real"
+ },
+ {
+  "id": "brent-albright-xwf-uwow",
+  "type": "character",
+  "name": "Brent Albright",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "brent-albright-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "brent-albright-real"
+ },
+ {
+  "id": "konnan-xwf-uwow",
+  "type": "character",
+  "name": "Konnan",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "konnan-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "konnan-real"
+ },
+ {
+  "id": "jay-lethal-xwf-uwow",
+  "type": "character",
+  "name": "Jay Lethal",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "jay-lethal-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "jay-lethal-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lethal-dwo"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "petey-williams-xwf-uwow",
+  "type": "character",
+  "name": "Petey Williams",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "petey-williams-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "petey-williams-real"
+ },
+ {
+  "id": "superfly-snuka-xwf-uwow",
+  "type": "character",
+  "name": "Superfly Snuka",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Face"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "superfly-snuka-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "superfly-snuka-real"
+ },
+ {
+  "id": "eddy-guerrero-xwf-uwow",
+  "type": "character",
+  "name": "Eddy Guerrero",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "eddy-guerrero-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "eddy-guerrero-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "eddy-guerrero-pwe-inc"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "jake-roberts-xwf-uwow",
+  "type": "character",
+  "name": "Jake Roberts",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "jake-roberts-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "jake-roberts-real"
+ },
+ {
+  "id": "ultimo-dragon-xwf-uwow",
+  "type": "character",
+  "name": "Ultimo Dragon",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "ultimo-dragon-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "ultimo-dragon-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dragon-pcw"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "dino-bravo-xwf-uwow",
+  "type": "character",
+  "name": "Dino Bravo",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "dino-bravo-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "dino-bravo-real"
+ },
+ {
+  "id": "sheik-daivari-xwf-uwow",
+  "type": "character",
+  "name": "Sheik Daivari",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "shawn-daivari-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "shawn-daivari-real"
+ },
+ {
+  "id": "tajiri-xwf-uwow",
+  "type": "character",
+  "name": "Tajiri",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "yoshihiro-tajiri-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "yoshihiro-tajiri-real"
+ },
+ {
+  "id": "chris-candido-xwf-uwow",
+  "type": "character",
+  "name": "Chris Candido",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Heel"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "chris-candido-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "chris-candido-real"
+ },
+ {
+  "id": "sharmell-xwf-uwow",
+  "type": "character",
+  "name": "Sharmell",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "sharmell-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "sharmell-real"
+ },
+ {
+  "id": "jimmy-hart-xwf-uwow",
+  "type": "character",
+  "name": "Jimmy Hart",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "jimmy-hart-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "jimmy-hart-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jimmy-cain-acw"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "francine-xwf-uwow",
+  "type": "character",
+  "name": "Francine",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "francine-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "francine-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "francine-nwwa-1998"
+    ],
+    "note": "Per the per-promotion portrayal rule, one fed's portrayal of a real professional wrestler and another fed's are different characters — this row is UWOW's own member-fed portrayal, promotion-qualified, and shares no identity with the other promotion's own portrayal of the same real figure beyond the external-figures node both point at."
+   }
+  ]
+ },
+ {
+  "id": "sheik-adnan-xwf-uwow",
+  "type": "character",
+  "name": "Sheik Adnan",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "sheik-adnan-el-kaisse-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "sheik-adnan-el-kaisse-real"
+ },
+ {
+  "id": "miss-brooks-xwf-uwow",
+  "type": "character",
+  "name": "Miss Brooks",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "miss-brooks-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "miss-brooks-real"
+ },
+ {
+  "id": "tony-clifton-xwf-uwow",
+  "type": "character",
+  "name": "Tony Clifton",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "tony-clifton-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "tony-clifton-real"
+ },
+ {
+  "id": "andy-kaufman-xwf-uwow",
+  "type": "character",
+  "name": "Andy Kaufman",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)"
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-08-27",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "andy-kaufman-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "andy-kaufman-real"
+ },
+ {
+  "id": "rena-mero-xwf-uwow",
+  "type": "character",
+  "name": "Rena Mero",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "note": "Billed under this name on the roster page; the same performer wrestled elsewhere as \"Sable.\""
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "rena-mero-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "rena-mero-real"
+ },
+ {
+  "id": "magnus-hassan-xwf-uwow",
+  "type": "character",
+  "name": "Magnus Hassan",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF's own served roster page (June 2008)",
+    "alignment": "Heel",
+    "note": "Billed under this name on the roster page — likely the same gimmick elsewhere billed \"Muhammad Hassan\"; recorded as written, not merged."
+   }
+  ],
+  "caption": "A XWF performer, per the fed's own served record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrays": {
+   "figure": "magnus-hassan-real",
+   "grade": "primary-source",
+   "note": "UWOW's own record bills this character under the real performer's own name, staged directly in the fed's title-reign ledger."
+  },
+  "portrayal_of": "magnus-hassan-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "magnus"
+    ],
+    "note": "Flagged by the aka-collision mint guard as a normalized substring/decorated-name match. No positive evidence ties this UWOW member-fed portrayal to the other row — either a different real-world person under a similar nickname, or (where the other row is also a real-wrestler portrayal) the same real figure staged separately in another fed, which the per-promotion portrayal rule treats as distinct characters by design. Recorded distinct per the no-auto-merge doctrine; revisit only on an actual receipt naming both."
+   }
+  ]
+ },
+ {
+  "id": "ken-shamrock-xwf-uwow",
+  "type": "character",
+  "name": "Ken Shamrock",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost a King of the Mountain qualifying match to Brock Lesnar",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01)"
+   }
+  ],
+  "caption": "Lost the fourth XWF World Heavyweight Championship qualifying bout to Brock Lesnar at the promotion's own debut show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "ken-shamrock-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "ken-shamrock-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ken-shamrock-glw"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "rocco-rock-xwf-uwow",
+  "type": "character",
+  "name": "Rocco Rock",
+  "aka": [
+   "Public Enemy"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Public Enemy, lost to American Dragon Bryan Danielson & Petey Williams",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01)"
+   }
+  ],
+  "caption": "One half of Public Enemy, pinned by Petey Williams in the tag team's XWF debut.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "rocco-rock-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "rocco-rock-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rocco-rock-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "johnny-grunge-xwf-uwow"
+    ],
+    "note": "Reciprocal of johnny-grunge-xwf-uwow's own entry: shared tag-team aka (“Public Enemy”) between two teammates, not a duplicate mint."
+   }
+  ]
+ },
+ {
+  "id": "johnny-grunge-xwf-uwow",
+  "type": "character",
+  "name": "Johnny Grunge",
+  "aka": [
+   "Public Enemy"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Public Enemy, lost to American Dragon Bryan Danielson & Petey Williams",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01)"
+   }
+  ],
+  "caption": "One half of Public Enemy, on the losing side of the tag team's XWF debut against American Dragon Bryan Danielson & Petey Williams.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "johnny-grunge-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "johnny-grunge-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "johnny-grunge-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rocco-rock-xwf-uwow"
+    ],
+    "note": "This character's own aka is the billed tag-team name of the tandem it forms with rocco-rock-xwf-uwow (“Public Enemy”) — an expected exact-string match between two teammates' shared team aka, not a duplicate mint; each is a separate per-performer registry row."
+   }
+  ]
+ },
+ {
+  "id": "american-dragon-bryan-danielson-xwf-uwow",
+  "type": "character",
+  "name": "American Dragon Bryan Danielson",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — defeated Public Enemy with Petey Williams; later pinned Michael Hayes",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Teamed with Petey Williams to defeat Public Enemy at XWF's debut show, and later scored a shock rollup win over Michael Hayes of the Freebirds.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "american-dragon-bryan-danielson-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "american-dragon-bryan-danielson-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "american-dragon-bryan-danielson-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "bob-backlund-xwf-uwow",
+  "type": "character",
+  "name": "Bob Backlund",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost to Magnus Hassan",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01)"
+   }
+  ],
+  "caption": "A two-time former World Champion who lost by reverse DDT to Magnus Hassan at XWF's debut show.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "bob-backlund-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "bob-backlund-real"
+ },
+ {
+  "id": "booker-t-xwf-uwow",
+  "type": "character",
+  "name": "Booker T",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — defeated Jay Lethal; reunited with Stevie Ray as Harlem Heat to win the World Tag Team Championship",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "A self-declared six-time former World Heavyweight Champion who defeated Jay Lethal at XWF's debut show, later reunited with Stevie Ray as Harlem Heat to win the XWF World Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "booker-t-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "booker-t-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "booker-t-icwc",
+     "booker-t-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "rick-martel-xwf-uwow",
+  "type": "character",
+  "name": "Rick Martel",
+  "aka": [
+   "The Model"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler/manager — feuded with Raven & Vampiro; managed the Martel Modelling Agency",
+    "roles": [
+     "wrestler",
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Manager of the Martel Modelling Agency (Rene Dupree & Sylvan Grenier), and a bitter singles rival of Vampiro across several XWF cards.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "rick-martel-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "rick-martel-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rick-martel-uwf-uwow",
+     "cwfpro-the-model",
+     "marcus-johnson-cswa",
+     "the-model-ewa-extreme"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "percy-pringle-xwf-uwow",
+  "type": "character",
+  "name": "Percy Pringle",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — led Cactus Jack & Kevin Sullivan to the World Tag Team Championship",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Manager of Cactus Jack & Kevin Sullivan through their run as XWF World Tag Team Champions.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "paul-bearer-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "paul-bearer-real"
+ },
+ {
+  "id": "scott-steiner-xwf-uwow",
+  "type": "character",
+  "name": "Scott Steiner",
+  "aka": [
+   "Big Poppa Pump"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — defeated Buff Bagwell; failed to win the World Heavyweight Championship from Paul Wight",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Defeated Buff Bagwell at XWF's debut show, then challenged for the XWF World Heavyweight Championship at Trump Card, losing to champion Paul Wight after Great Muta's interference.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "scott-steiner-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "scott-steiner-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scott-steiner-icwc",
+     "scott-steiner-tpg",
+     "scott-steiner-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "buff-bagwell-xwf-uwow",
+  "type": "character",
+  "name": "Buff Bagwell",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost to Scott Steiner; Vicious and Delicious, lost a title match to Demolition",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Lost to former partner Scott Steiner at XWF's debut show, later reunited with Scott Norton as Vicious and Delicious to challenge Demolition for the World Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "buff-bagwell-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "buff-bagwell-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "buff-bagwell-action-extreme-wrestling",
+     "buff-bagwell-icwc",
+     "buff-bagwell-nwwa-1998",
+     "buff-bagwell-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "terry-funk-xwf-uwow",
+  "type": "character",
+  "name": "Terry Funk",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — cornered Mike Awesome, injured by Rick Rude & Shane Douglas",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Cornered Mike Awesome against Ravishing Rick Rude at XWF's debut show and was stretchered out after a Con-Chair-To; later brutalized by Scott Hall and Kevin Nash at the uncaptured 2008 Ultimate Supercard.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "terry-funk-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "terry-funk-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "terry-funk-agw",
+     "terry-funk-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "gary-hart-xwf-uwow",
+  "type": "character",
+  "name": "Gary Hart",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — led the Great Muta and Masahiro Chono",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Manager of the Great Muta and Masahiro Chono, styled his stable \"J-Tex\" after re-establishing it in the XWF.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "gary-hart-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "gary-hart-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cwfpro-gary-hart"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "masa-chono-xwf-uwow",
+  "type": "character",
+  "name": "Masahiro Chono",
+  "aka": [
+   "Masa Chono"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost to LAX with the Great Muta",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Lost to Homicide & Hernandez of LAX at XWF's debut show alongside tag partner the Great Muta, managed by Gary Hart.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "masahiro-chono-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "masahiro-chono-real"
+ },
+ {
+  "id": "great-muta-xwf-uwow",
+  "type": "character",
+  "name": "The Great Muta",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost to LAX with Masahiro Chono",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Lost to Homicide & Hernandez of LAX at XWF's debut show alongside tag partner Masahiro Chono, managed by Gary Hart.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "great-muta-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "great-muta-real"
+ },
+ {
+  "id": "homicide-xwf-uwow",
+  "type": "character",
+  "name": "Homicide",
+  "aka": [
+   "LAX"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — LAX, defeated the Great Muta & Masahiro Chono",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "One half of LAX, defeated the Great Muta & Masahiro Chono at XWF's debut show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "homicide-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "homicide-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lax-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (lax-xwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hernandez-xwf-uwow",
+     "lax-xwf-uwow"
+    ],
+    "note": "Reciprocal of hernandez-xwf-uwow's own entry: shared tag-team aka (“LAX”) between two teammates, not a duplicate mint; this row's own existing entry only named the unit."
+   }
+  ]
+ },
+ {
+  "id": "hernandez-xwf-uwow",
+  "type": "character",
+  "name": "Hernandez",
+  "aka": [
+   "LAX"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — LAX, defeated the Great Muta & Masahiro Chono",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "One half of LAX, pinned Masahiro Chono to defeat the Great Muta & Chono at XWF's debut show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "hernandez-lax-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "hernandez-lax-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lax-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (lax-xwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "homicide-xwf-uwow",
+     "lax-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag-team billing of the tandem it forms with homicide-xwf-uwow (“LAX”) — an expected exact-string match between two teammates and their own unit's name, not a duplicate mint; each is a separate per-performer registry row (already modeled by lax-xwf-uwow's own members[] link). This row's own existing entry only named the unit; adding the direct teammate link."
+   }
+  ]
+ },
+ {
+  "id": "king-kong-bundy-xwf-uwow",
+  "type": "character",
+  "name": "King Kong Bundy",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost to Team 3D",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01)"
+   }
+  ],
+  "caption": "Teamed with the Barbarian & Warlord against Team 3D at XWF's debut show, and was put through a ringside table by Brother Devon.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "king-kong-bundy-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "king-kong-bundy-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "king-kong-bundy-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "barbarian-xwf-uwow",
+  "type": "character",
+  "name": "Barbarian",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost to Team 3D, pinned",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01)"
+   }
+  ],
+  "caption": "Teamed with King Kong Bundy & Warlord against Team 3D at XWF's debut show, pinned by the 3D.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "barbarian-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "barbarian-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "barbarian-icwc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "warlord-xwf-uwow",
+  "type": "character",
+  "name": "Warlord",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost to Team 3D",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01)"
+   }
+  ],
+  "caption": "Teamed with King Kong Bundy & Barbarian against Team 3D at XWF's debut show.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "warlord-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "warlord-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "warlord-icwc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "brother-ray-xwf-uwow",
+  "type": "character",
+  "name": "Brother Ray",
+  "aka": [
+   "Team 3D"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Team 3D, defeated Bundy/Barbarian/Warlord; lost a title match to Harlem Heat",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Reunited with Brother Devon as Team 3D to defeat King Kong Bundy, the Barbarian & Warlord at XWF's debut show; the pairing later lost the World Tag Team Championship to Harlem Heat at Genesis.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "buh-buh-dudley-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "buh-buh-dudley-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brother-ray-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brother-devon-xwf-uwow",
+     "runt-xwf-uwow",
+     "team-3d-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag/stable billing of team-3d-xwf-uwow, the unit it belongs to alongside brother-devon-xwf-uwow and runt-xwf-uwow (“Team 3D”) — an expected exact-string match, not a duplicate mint; already modeled by the unit's own members[] link. This row's own existing entry only named a cross-promotion namesake; adding the intra-wing teammate/unit link."
+   }
+  ]
+ },
+ {
+  "id": "brother-devon-xwf-uwow",
+  "type": "character",
+  "name": "Brother Devon",
+  "aka": [
+   "Team 3D"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Team 3D, defeated Bundy/Barbarian/Warlord; lost a title match to Harlem Heat",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Reunited with Brother Ray as Team 3D, knocking King Kong Bundy through a table on the way to a debut-show win; the pairing later lost the World Tag Team Championship to Harlem Heat at Genesis.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "d-von-dudley-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "d-von-dudley-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brother-devon-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brother-ray-xwf-uwow",
+     "runt-xwf-uwow",
+     "team-3d-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag/stable billing of team-3d-xwf-uwow, the unit it belongs to alongside brother-ray-xwf-uwow and runt-xwf-uwow (“Team 3D”) — an expected exact-string match, not a duplicate mint; already modeled by the unit's own members[] link. This row's own existing entry only named a cross-promotion namesake."
+   }
+  ]
+ },
+ {
+  "id": "runt-xwf-uwow",
+  "type": "character",
+  "name": "Runt",
+  "aka": [
+   "Team 3D"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Team 3D, eliminated early by King Kong Bundy",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01)"
+   }
+  ],
+  "caption": "The third member of Team 3D at XWF's debut show, taken out early by King Kong Bundy's avalanche and big splash.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "runt-team-3d-real",
+   "grade": "presumed",
+   "note": "The fed's own served text bills this character under a real-professional-wrestler-style name, per the fed's own self-description of an all-real-wrestler roster, but no independent record outside the wing's own record confirms the specific real performer."
+  },
+  "portrayal_of": "runt-team-3d-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brother-ray-xwf-uwow",
+     "brother-devon-xwf-uwow",
+     "team-3d-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag/stable billing of team-3d-xwf-uwow, the three-man unit it belongs to alongside brother-ray-xwf-uwow and brother-devon-xwf-uwow (“Team 3D”) — an expected exact-string match, not a duplicate mint; already modeled by the unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "mike-awesome-xwf-uwow",
+  "type": "character",
+  "name": "Mike Awesome",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost the inaugural North American Heavyweight Championship match to Rick Rude",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "The former ECW World Heavyweight Champion, cornered by Terry Funk in a failed North American Championship bid against Ravishing Rick Rude at XWF's debut show.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "mike-awesome-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "mike-awesome-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mike-awesome-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "mike-tenay-xwf-uwow",
+  "type": "character",
+  "name": "Mike Tenay",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "XWF's lead broadcaster from the promotion's own debut show onward, alongside Don West and later Dusty Rhodes & Shane Douglas.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "mike-tenay-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "mike-tenay-real"
+ },
+ {
+  "id": "don-west-xwf-uwow",
+  "type": "character",
+  "name": "Don West",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "XWF's broadcast partner to Mike Tenay through the promotion's first three served shows.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "don-west-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "don-west-real"
+ },
+ {
+  "id": "jeremy-borash-xwf-uwow",
+  "type": "character",
+  "name": "Jeremy Borash",
+  "aka": [
+   "JB"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "interviewer",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "XWF's backstage interviewer across the promotion's own served run.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "jeremy-borash-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "jeremy-borash-real"
+ },
+ {
+  "id": "lou-albano-xwf-uwow",
+  "type": "character",
+  "name": "Lou Albano",
+  "aka": [
+   "Captain Lou Albano"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — led Dynamite Kid; later Afa, Sika, Tito Santana & Outback Jack",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Managed the Dynamite Kid to the XWF World Heavyweight Championship match at the promotion's own debut show, and later led the Wild Samoans and Tito Santana's team into a legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "lou-albano-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "lou-albano-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lou-albano-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "harley-race-xwf-uwow",
+  "type": "character",
+  "name": "Harley Race",
+  "aka": [
+   "Handsome Harley Race"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — led Vader to the North American Heavyweight Championship",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "The seven-time NWA World Heavyweight Champion, manager of Vader through his run as XWF North American Heavyweight Champion.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "harley-race-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "harley-race-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "harley-race-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "paul-heyman-xwf-uwow",
+  "type": "character",
+  "name": "Paul Heyman",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "authority-figure — founding General Manager, suspended by owner Matthew Hopkins",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "The founding General Manager of the XWF, suspended without pay by owner Matthew Hopkins at Trump Card and replaced by Eric Bischoff by the time of Genesis.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "paul-heyman-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "paul-heyman-real"
+ },
+ {
+  "id": "sylvan-grenier-xwf-uwow",
+  "type": "character",
+  "name": "Sylvan Grenier",
+  "aka": [
+   "Martel Modelling Agency",
+   "La Resistance"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — La Resistance/Martel Modelling Agency",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One half of the Martel Modelling Agency, managed by Rick Martel, in a running feud with Raven & Vampiro.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "sylvan-grenier-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "sylvan-grenier-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "la-resistance-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (la-resistance-xwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rene-dupree-xwf-uwow"
+    ],
+    "note": "Reciprocal of rene-dupree-xwf-uwow's own entry: shared akas (“Martel Modelling Agency”, “La Resistance”) between two teammates, not duplicate mints; this row's own existing entry only named the unit."
+   }
+  ]
+ },
+ {
+  "id": "rene-dupree-xwf-uwow",
+  "type": "character",
+  "name": "Rene Dupree",
+  "aka": [
+   "Martel Modelling Agency",
+   "La Resistance"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — La Resistance/Martel Modelling Agency",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One half of the Martel Modelling Agency, managed by Rick Martel, in a running feud with Raven & Vampiro; pinned Vampiro at Trump Card.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "rene-dupree-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "rene-dupree-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "la-resistance-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (la-resistance-xwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sylvan-grenier-xwf-uwow"
+    ],
+    "note": "This character's own aka list (“Martel Modelling Agency”, “La Resistance”) is the shared billing of the tandem it forms with sylvan-grenier-xwf-uwow — both akas are expected exact-string matches between two teammates, not duplicate mints; each is a separate per-performer registry row (already modeled by la-resistance-xwf-uwow's own members[] link). This row's own existing entry only named the unit; adding the direct teammate link."
+   }
+  ]
+ },
+ {
+  "id": "scott-norton-xwf-uwow",
+  "type": "character",
+  "name": "Scott Norton",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Vicious and Delicious",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Reunited with Buff Bagwell as Vicious and Delicious at Hardcore Heaven, later challenging Demolition for the XWF World Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "scott-norton-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "scott-norton-real"
+ },
+ {
+  "id": "debbie-malenko-xwf-uwow",
+  "type": "character",
+  "name": "Debbie Malenko",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — lost to Madusa Miceli",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Hardcore Heaven (2008-02)"
+   }
+  ],
+  "caption": "Lost to Madusa Miceli at Hardcore Heaven.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "debbie-malenko-real",
+   "grade": "presumed",
+   "note": "The fed's own served text bills this character under a real-professional-wrestler-style name, per the fed's own self-description of an all-real-wrestler roster, but no independent record outside the wing's own record confirms the specific real performer."
+  },
+  "portrayal_of": "debbie-malenko-real"
+ },
+ {
+  "id": "michael-hayes-xwf-uwow",
+  "type": "character",
+  "name": "Michael P.S. Hayes",
+  "aka": [
+   "Freebirds"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Freebirds",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "One of the Freebirds, pinned by Cactus Jack after a Percy Pringle powder shot at Hardcore Heaven, and later rolled up by American Dragon Bryan Danielson at Trump Card.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "michael-hayes-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "michael-hayes-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jimmy-garvin-xwf-uwow",
+     "terry-gordy-xwf-uwow",
+     "freebirds-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag/stable billing of freebirds-xwf-uwow, the unit it belongs to alongside jimmy-garvin-xwf-uwow and terry-gordy-xwf-uwow (“Freebirds”) — an expected exact-string match, not a duplicate mint; already modeled by the unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "jimmy-garvin-xwf-uwow",
+  "type": "character",
+  "name": "Jimmy Garvin",
+  "aka": [
+   "Freebirds"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Freebirds",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "One of the Freebirds, on the losing side against Cactus Jack & Kevin Sullivan's World Tag Team Championship at Hardcore Heaven.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "jimmy-garvin-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "jimmy-garvin-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "michael-hayes-xwf-uwow",
+     "terry-gordy-xwf-uwow",
+     "freebirds-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag/stable billing of freebirds-xwf-uwow, the unit it belongs to alongside michael-hayes-xwf-uwow and terry-gordy-xwf-uwow (“Freebirds”) — an expected exact-string match, not a duplicate mint; already modeled by the unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "terry-gordy-xwf-uwow",
+  "type": "character",
+  "name": "Terry Gordy",
+  "aka": [
+   "Freebirds"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Freebirds, lost to LAX & American Dragon Bryan Danielson",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Joined the Freebirds as a returning third man at Trump Card, cutting the ring in half against LAX & American Dragon Bryan Danielson before Danielson's rollup upset.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "terry-gordy-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "terry-gordy-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "michael-hayes-xwf-uwow",
+     "jimmy-garvin-xwf-uwow",
+     "freebirds-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag/stable billing of freebirds-xwf-uwow, the unit it belongs to alongside michael-hayes-xwf-uwow and jimmy-garvin-xwf-uwow (“Freebirds”) — an expected exact-string match, not a duplicate mint; already modeled by the unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "precious-xwf-uwow",
+  "type": "character",
+  "name": "Precious",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — led the Freebirds",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Valet to the Freebirds at Trump Card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "precious-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "precious-real"
+ },
+ {
+  "id": "scott-hall-xwf-uwow",
+  "type": "character",
+  "name": "Scott Hall",
+  "aka": [
+   "The Bad Guy",
+   "The Outsiders"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — turned on Mike Awesome; steel cage win over Awesome; the Outsiders' reunion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Debuted at Hardcore Heaven as Mike Awesome's mystery partner and immediately turned on him, later defeating Awesome in a steel cage at Trump Card and reuniting with Kevin Nash as the Outsiders at Genesis to brutalize Cactus Jack.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "scott-hall-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "scott-hall-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scott-hall-uwf-uwow",
+     "the-bad-guy-xcwf",
+     "euwc-the-outsiders"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kevin-nash-xwf-uwow",
+     "outsiders-xwf-uwow"
+    ],
+    "note": "Reciprocal of kevin-nash-xwf-uwow's own entry: shared tag-team aka (“The Outsiders”) between two teammates, not a duplicate mint; this row's own existing entries only named cross-promotion namesakes."
+   }
+  ]
+ },
+ {
+  "id": "donald-trump-xwf-uwow",
+  "type": "character",
+  "name": "Donald Trump",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "authority-figure — named Cactus Jack interim General Manager for the night",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Appeared at Trump Card as Matthew Hopkins' business associate, naming Cactus Jack the night's interim General Manager.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "donald-trump-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "donald-trump-real"
+ },
+ {
+  "id": "rick-steiner-xwf-uwow",
+  "type": "character",
+  "name": "Rick Steiner",
+  "aka": [
+   "Dog Faced Gremlin"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — defeated the Ultimo Dragon; Varsity Club double-cross",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Defeated the Ultimo Dragon at Trump Card before being ambushed by the Great Muta, Masahiro Chono & the Ultimo Dragon; later double-crossed the Highlanders alongside the reunited Varsity Club at Genesis.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "rick-steiner-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "rick-steiner-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rick-steiner-agw"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "eric-bischoff-xwf-uwow",
+  "type": "character",
+  "name": "Eric Bischoff",
+  "aka": [
+   "Easy E"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "authority-figure — General Manager as of Genesis",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Named the XWF's General Manager at the uncaptured 2008 Ultimate Supercard, opening Genesis by introducing five new XWF Divas and inserting himself into the main event.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "eric-bischoff-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "eric-bischoff-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "eric-bischoff-pwe-inc",
+     "eric-bischoff-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "dusty-rhodes-xwf-uwow",
+  "type": "character",
+  "name": "Dusty Rhodes",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Joined the XWF broadcast team alongside Mike Tenay and Shane Douglas at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "dusty-rhodes-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "dusty-rhodes-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dusty-rhodes-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "candice-michelle-xwf-uwow",
+  "type": "character",
+  "name": "Candice Michelle",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — eliminated by Madusa Miceli",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of five new XWF Divas eliminated by Madusa Miceli in the division's own debut match at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "candice-michelle-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "candice-michelle-real"
+ },
+ {
+  "id": "lacey-von-erich-xwf-uwow",
+  "type": "character",
+  "name": "Lacey Von Erich",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — eliminated by Madusa Miceli",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of five new XWF Divas eliminated by Madusa Miceli in the division's own debut match at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "lacey-von-erich-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "lacey-von-erich-real"
+ },
+ {
+  "id": "layla-xwf-uwow",
+  "type": "character",
+  "name": "Layla",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — eliminated by Madusa Miceli",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of five new XWF Divas eliminated by Madusa Miceli in the division's own debut match at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "layla-el-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "layla-el-real"
+ },
+ {
+  "id": "maria-kanellis-xwf-uwow",
+  "type": "character",
+  "name": "Maria Kanellis",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — eliminated by Madusa Miceli",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of five new XWF Divas eliminated by Madusa Miceli in the division's own debut match at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "maria-kanellis-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "maria-kanellis-real"
+ },
+ {
+  "id": "torrie-wilson-xwf-uwow",
+  "type": "character",
+  "name": "Torrie Wilson",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — eliminated by Madusa Miceli",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of five new XWF Divas eliminated by Madusa Miceli in the division's own debut match at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "torrie-wilson-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "torrie-wilson-real"
+ },
+ {
+  "id": "madusa-miceli-xwf-uwow",
+  "type": "character",
+  "name": "Madusa Miceli",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — defeated Debbie Malenko; eliminated all five Divas at Genesis, then beaten down and denied the title",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04); XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Defeated Debbie Malenko at Hardcore Heaven and eliminated all five newly-signed XWF Divas at Genesis, only for Victoria & Natalya Neidhart to force her to submit before General Manager Eric Bischoff awarded the new Divas Championship to Natalya instead.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "madusa-miceli-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "madusa-miceli-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "madusa-miceli-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "victoria-xwf-uwow",
+  "type": "character",
+  "name": "Victoria",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — attacked Madusa Miceli with Natalya Neidhart",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Ambushed Madusa Miceli alongside Natalya Neidhart at Genesis, forcing her to submit to the Camel Clutch.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "victoria-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "victoria-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "victoria-rawf"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "paul-orndorff-xwf-uwow",
+  "type": "character",
+  "name": "Paul Orndorff",
+  "aka": [
+   "Mr. Wonderful"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — blindsided Vader to help Rick Rude regain the North American Championship",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "The hooded man who blindsided North American Champion Vader at Genesis, letting Ravishing Rick Rude regain the title.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "paul-orndorff-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "paul-orndorff-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "paul-orndorff-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "sgt-slaughter-xwf-uwow",
+  "type": "character",
+  "name": "Sgt. Slaughter",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — eliminated by double count-out with Billy Graham",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Led the Corps (the Bolshevics, Dino Bravo & the Iron Sheik) into a legends Annihilation Rules match at Genesis, eliminated in a double count-out with Billy Graham.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "sgt-slaughter-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "sgt-slaughter-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sgt-slaughter-icwc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "iron-sheik-xwf-uwow",
+  "type": "character",
+  "name": "Iron Sheik",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — survived the Genesis legends Annihilation Rules match",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "The sole survivor of the Corps' Genesis legends Annihilation Rules match, forcing Tito Santana to submit to the Camel Clutch alongside Boris Zhukov.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "iron-sheik-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "iron-sheik-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "iron-sheik-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "boris-zhukov-xwf-uwow",
+  "type": "character",
+  "name": "Boris Zhukov",
+  "aka": [
+   "Bolshevics"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Bolshevics, survived the Genesis legends match",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of the Bolshevics, made a blind tag to Nikolai Volkoff for the first elimination and helped the Iron Sheik survive the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "boris-zhukov-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "boris-zhukov-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bolshevics-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (bolshevics-xwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "nikolai-volkoff-xwf-uwow"
+    ],
+    "note": "Reciprocal of nikolai-volkoff-xwf-uwow's own entry: shared tag-team aka (“Bolshevics”) between two teammates, not a duplicate mint; this row's own existing entry only named the unit."
+   }
+  ]
+ },
+ {
+  "id": "nikolai-volkoff-xwf-uwow",
+  "type": "character",
+  "name": "Nikolai Volkoff",
+  "aka": [
+   "Bolshevics"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Bolshevics, eliminated Afa then eliminated by Sika",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of the Bolshevics, eliminated Afa off a Boris Zhukov blind tag before being pinned by Sika in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "nikolai-volkoff-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "nikolai-volkoff-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "nikolai-volkoff-pwe-inc",
+     "nikolai-volkoff-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bolshevics-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (bolshevics-xwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "boris-zhukov-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag-team billing of the tandem it forms with boris-zhukov-xwf-uwow (“Bolshevics”) — an expected exact-string match between two teammates, not a duplicate mint; each is a separate per-performer registry row (already modeled by bolshevics-xwf-uwow's own members[] link). This row's own existing entries only named the unit and cross-promotion namesakes; adding the direct teammate link."
+   }
+  ]
+ },
+ {
+  "id": "freddie-blassie-xwf-uwow",
+  "type": "character",
+  "name": "Classy Freddie Blassie",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — led the Corps",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Manager of Sgt. Slaughter & the Iron Sheik, promising the Corps would make an example of the Superstars at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "freddie-blassie-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "freddie-blassie-real"
+ },
+ {
+  "id": "frenchy-martin-xwf-uwow",
+  "type": "character",
+  "name": "Frenchy Martin",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — led Dino Bravo",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Manager of Dino Bravo, part of the Corps' cornermen at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "frenchy-martin-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "frenchy-martin-real"
+ },
+ {
+  "id": "billy-graham-xwf-uwow",
+  "type": "character",
+  "name": "\"Superstar\" Billy Graham",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — eliminated by double count-out with Sgt. Slaughter",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Led the Superstars into the Genesis legends Annihilation Rules match, eliminated in a double count-out with Sgt. Slaughter.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "billy-graham-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "billy-graham-real"
+ },
+ {
+  "id": "afa-xwf-uwow",
+  "type": "character",
+  "name": "Afa",
+  "aka": [
+   "Wild Samoans"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Wild Samoans, eliminated by Nikolai Volkoff",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of the Wild Samoans, eliminated by Nikolai Volkoff's high knee off a blind tag in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "afa-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "afa-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "afa-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sika-xwf-uwow"
+    ],
+    "note": "Reciprocal of sika-xwf-uwow's own entry: shared tag-team aka (“Wild Samoans”) between two teammates, not a duplicate mint."
+   }
+  ]
+ },
+ {
+  "id": "sika-xwf-uwow",
+  "type": "character",
+  "name": "Sika",
+  "aka": [
+   "Wild Samoans"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Wild Samoans, pinned Nikolai Volkoff, then eliminated by Boris Zhukov",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of the Wild Samoans, avenged Afa by pinning Nikolai Volkoff with a diving headbutt before falling to Boris Zhukov in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "sika-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "sika-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sika-icwc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "afa-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag-team billing of the tandem it forms with afa-xwf-uwow (“Wild Samoans”) — an expected exact-string match between two teammates, not a duplicate mint; each is a separate per-performer registry row."
+   }
+  ]
+ },
+ {
+  "id": "tito-santana-xwf-uwow",
+  "type": "character",
+  "name": "Tito Santana",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — eliminated Dino Bravo, then submitted to the Iron Sheik",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Knocked out Dino Bravo with a flying forearm before being forced to submit to the Iron Sheik's Camel Clutch in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "tito-santana-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "tito-santana-real"
+ },
+ {
+  "id": "outback-jack-xwf-uwow",
+  "type": "character",
+  "name": "Outback Jack",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — eliminated by Dino Bravo",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Fell to Dino Bravo's side slam in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "outback-jack-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "outback-jack-real"
+ },
+ {
+  "id": "santino-marella-xwf-uwow",
+  "type": "character",
+  "name": "Santino Marella",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — defeated the Ultimo Dragon",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Defeated the Ultimo Dragon with a Codebreaker in his XWF debut at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "santino-marella-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "santino-marella-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "santino-marella-icwc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "great-khali-xwf-uwow",
+  "type": "character",
+  "name": "Great Khali",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — attacked the Big Bossman",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Interrupted a Big Bossman/Magnus Hassan match at Genesis and choke-bombed the Bossman before Magnus Hassan's faction ran in.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "great-khali-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "great-khali-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "great-khali-icwc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "stevie-ray-xwf-uwow",
+  "type": "character",
+  "name": "Stevie Ray",
+  "aka": [
+   "Harlem Heat"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Harlem Heat, won the World Tag Team Championship",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Reunited with Booker T as Harlem Heat to win the XWF World Tag Team Championship from Raven & Vampiro at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "stevie-ray-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "stevie-ray-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "harlem-heat-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (harlem-heat-xwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "robbie-highlander-xwf-uwow",
+  "type": "character",
+  "name": "Robbie",
+  "aka": [
+   "The Highlanders"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — The Highlanders, pinned Sylvan Grenier",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Pinned Sylvan Grenier for the Highlanders at Genesis, before Rick Steiner's double-cross turned the match into a beatdown.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "robbie-highlander-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "robbie-highlander-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rory-highlander-xwf-uwow",
+     "highlanders-xwf-uwow"
+    ],
+    "note": "Reciprocal of rory-highlander-xwf-uwow's own entry: shared tag-team aka (“The Highlanders”) between two teammates, not a duplicate mint."
+   }
+  ]
+ },
+ {
+  "id": "rory-highlander-xwf-uwow",
+  "type": "character",
+  "name": "Rory",
+  "aka": [
+   "The Highlanders"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — The Highlanders",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Debuted alongside Robbie as the Highlanders at Genesis, on the receiving end of Rick Steiner's double-cross.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "rory-highlander-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "rory-highlander-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "robbie-highlander-xwf-uwow",
+     "highlanders-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag-team billing of the tandem it forms with robbie-highlander-xwf-uwow (“The Highlanders”) — an expected exact-string match, not a duplicate mint; already modeled by highlanders-xwf-uwow's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "mike-rotundo-xwf-uwow",
+  "type": "character",
+  "name": "Mike Rotundo",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Varsity Club, double-crossed the Highlanders",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Reunited with Kevin Sullivan & Rick Steiner as the Varsity Club at Genesis, declaring themselves the next challengers for Harlem Heat's World Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "mike-rotundo-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "mike-rotundo-real"
+ },
+ {
+  "id": "paul-burchill-xwf-uwow",
+  "type": "character",
+  "name": "Paul Burchill",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — defeated Ken Shamrock",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Defeated Ken Shamrock with a Fisherman's Suplex in his XWF debut at Genesis, alongside sister Katie Lea.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "paul-burchill-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "paul-burchill-real"
+ },
+ {
+  "id": "katie-lea-burchill-xwf-uwow",
+  "type": "character",
+  "name": "Katie Lea Burchill",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — helped Paul Burchill defeat Ken Shamrock",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Distracted Ken Shamrock with a kick to the temple, setting up brother Paul Burchill's XWF debut win at Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "katie-lea-burchill-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "katie-lea-burchill-real"
+ },
+ {
+  "id": "kevin-nash-xwf-uwow",
+  "type": "character",
+  "name": "Kevin Nash",
+  "aka": [
+   "Big Sexy",
+   "The Outsiders"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — the Outsiders' reunion, attacked Cactus Jack",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Reunited with Scott Hall as the Outsiders at Genesis, jumping the guardrail to help destroy Cactus Jack.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "kevin-nash-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "kevin-nash-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kevin-nash-icwc",
+     "kevin-nash-uwf-uwow",
+     "euwc-the-outsiders"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "scott-hall-xwf-uwow",
+     "outsiders-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag-team billing of the tandem it forms with scott-hall-xwf-uwow (“The Outsiders”) — an expected exact-string match, not a duplicate mint; already modeled by outsiders-xwf-uwow's own members[] link. This row's own existing entries only named cross-promotion namesakes; adding the direct teammate link."
+   }
+  ]
+ },
+ {
+  "id": "grisham-xwf-uwow",
+  "type": "character",
+  "name": "Grisham",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "interviewer",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Interviewed the Corps' managers ahead of the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "todd-grisham-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "todd-grisham-real"
+ },
+ {
+  "id": "kim-chee-xwf-uwow",
+  "type": "character",
+  "name": "Kim Chee",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — handled Kamala",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Handler of Kamala in the Snake Pit's Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "kim-chee-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "kim-chee-real"
+ },
+ {
+  "id": "grand-wizard-xwf-uwow",
+  "type": "character",
+  "name": "The Grand Wizard",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — led Don Muraco",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Manager of Don Muraco in the Snake Pit's Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "grand-wizard-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "grand-wizard-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-grand-wizard"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "cowboy-bob-orton-xwf-uwow",
+  "type": "character",
+  "name": "Cowboy Bob Orton",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Snake Pit, eliminated by Superfly Snuka",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Scored a superplex pinfall before being taken out by Jimmy Snuka's Superfly Splash in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "cowboy-bob-orton-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "cowboy-bob-orton-real"
+ },
+ {
+  "id": "el-gigante-xwf-uwow",
+  "type": "character",
+  "name": "El Gigante",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Team Superfly, eliminated by Don Muraco & Kamala",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Fought Don Muraco, Kamala & the Dynamite Kid alone before falling to a Muraco slam and a Kamala splash in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "el-gigante-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "el-gigante-real"
+ },
+ {
+  "id": "kamala-xwf-uwow",
+  "type": "character",
+  "name": "Kamala",
+  "aka": [
+   "Ugandan Giant"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Snake Pit, one of the match's three survivors",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Squashed Tatanka with a big splash and finished off El Gigante for the Snake Pit's win in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "kamala-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "kamala-real"
+ },
+ {
+  "id": "henry-godwinn-xwf-uwow",
+  "type": "character",
+  "name": "Henry Godwinn",
+  "aka": [
+   "Godwinns"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Team Superfly, eliminated by Don Muraco",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of the Godwinns, eliminated by Don Muraco's tombstone in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "henry-godwinn-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "henry-godwinn-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "phineus-godwinn-xwf-uwow",
+     "godwinns-xwf-uwow"
+    ],
+    "note": "Reciprocal of phineus-godwinn-xwf-uwow's own entry: shared tag-team aka (“Godwinns”) between two teammates, not a duplicate mint."
+   }
+  ]
+ },
+ {
+  "id": "phineus-godwinn-xwf-uwow",
+  "type": "character",
+  "name": "Phineus Godwinn",
+  "aka": [
+   "Godwinns"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Team Superfly, eliminated by Dynamite Kid",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "One of the Godwinns, eliminated by the Dynamite Kid's diving headbutt in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "phineus-godwinn-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "phineus-godwinn-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "henry-godwinn-xwf-uwow",
+     "godwinns-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared tag-team billing of the tandem it forms with henry-godwinn-xwf-uwow (“Godwinns”) — an expected exact-string match, not a duplicate mint; already modeled by godwinns-xwf-uwow's own members[] link."
+   }
+  ]
+ },
+ {
+  "id": "hillbilly-jim-xwf-uwow",
+  "type": "character",
+  "name": "Hillbilly Jim",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "manager — led the Godwinns",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Manager of the Godwinns in the Genesis legends Annihilation Rules match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "hillbilly-jim-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "hillbilly-jim-real"
+ },
+ {
+  "id": "paul-bearer-xwf-uwow",
+  "type": "character",
+  "name": "Paul Bearer",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "authority-figure — one cryptic appearance",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Appeared once at Genesis with an urn, delivering a cryptic promo before vanishing under the arena lights.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "paul-bearer-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "paul-bearer-real"
+ },
+ {
+  "id": "john-cena-xwf-uwow",
+  "type": "character",
+  "name": "John Cena",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — debut run-in, saved Big Show from a beatdown",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Genesis (2008-10)"
+   }
+  ],
+  "caption": "Ran in to make his XWF debut and chase off Eric Bischoff, Rob Van Dam & new champion Brock Lesnar as they beat down the fallen Big Show at the close of Genesis.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "john-cena-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "john-cena-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "john-cena-icwc",
+     "john-cena-pwe-inc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "chyna-xwf-uwow",
+  "type": "character",
+  "name": "Chyna",
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — bodyguard to Matthew Hopkins, defeated Madusa Miceli",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Bodyguard to owner Matthew Hopkins at Trump Card, defeating Madusa Miceli with a Pedigree.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "chyna-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "chyna-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chyna-nwwa-1998",
+     "chyna-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "ax-xwf-uwow",
+  "type": "character",
+  "name": "Ax",
+  "aka": [
+   "Demolition"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Demolition, lost the World Tag Team Championship",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "One-third of Demolition, the reigning XWF World Tag Team Champions upset by Cactus Jack & Kevin Sullivan at the promotion's own debut show.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "ax-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "ax-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "demolition-xwf-uwow",
+     "demolition-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (demolition-xwf-uwow, demolition-uwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "smash-xwf-uwow",
+     "crush-xwf-uwow"
+    ],
+    "note": "Completing the reciprocal teammate links to smash-xwf-uwow and crush-xwf-uwow (“Demolition”) — this row's own existing entry only named the unit and a cross-promotion namesake."
+   }
+  ]
+ },
+ {
+  "id": "smash-xwf-uwow",
+  "type": "character",
+  "name": "Smash",
+  "aka": [
+   "Demolition"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Demolition, pinned in the title match",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "Busted open and pinned by Cactus Jack's foreign object at the promotion's own debut show, costing Demolition the XWF World Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "smash-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "smash-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "smash-icwc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "demolition-xwf-uwow",
+     "demolition-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (demolition-xwf-uwow, demolition-uwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ax-xwf-uwow",
+     "crush-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared stable billing of demolition-xwf-uwow, the unit it belongs to alongside ax-xwf-uwow and crush-xwf-uwow (“Demolition”) — an expected exact-string match between teammates, not a duplicate mint (the unit relationship is already separately recorded on this row and on ax-xwf-uwow); adding the direct teammate links."
+   }
+  ]
+ },
+ {
+  "id": "crush-xwf-uwow",
+  "type": "character",
+  "name": "Crush",
+  "aka": [
+   "Demolition"
+  ],
+  "tenures": [
+   {
+    "promotion": "xwf-uwow",
+    "role": "wrestler — Demolition, retained the World Tag Team Championship in a secret substitution",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "XWF Back In Business (2008-01); XWF Hardcore Heaven (2008-02); XWF Trump Card (2008-04)"
+   }
+  ],
+  "caption": "One-third of Demolition, secretly substituting for Smash to power-bomb Buff Bagwell and retain the World Tag Team Championship at Trump Card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "portrays": {
+   "figure": "crush-real",
+   "grade": "primary-source",
+   "note": "The fed's own served text bills this character under the real professional wrestler's own name."
+  },
+  "portrayal_of": "crush-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "crush-icwc",
+     "crush-ucwf",
+     "crush-wicew"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — the per-promotion portrayal rule, restating the real-wrestler portrayal rule: \"real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge.\" Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "demolition-xwf-uwow",
+     "demolition-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard because this character's own aka is the billed tag-team/stable name of the unit it belongs to (demolition-xwf-uwow, demolition-uwf-uwow) — an expected exact-string match, not a duplicate mint. This individual performer and the team entity are different registry rows by design (the units doctrine); the relationship is already modeled by the unit's own members[] link."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ax-xwf-uwow",
+     "smash-xwf-uwow"
+    ],
+    "note": "This character's own aka is the shared stable billing of demolition-xwf-uwow, the unit it belongs to alongside ax-xwf-uwow and smash-xwf-uwow (“Demolition”) — an expected exact-string match between teammates, not a duplicate mint; adding the direct teammate links."
+   }
+  ]
+ }
+]

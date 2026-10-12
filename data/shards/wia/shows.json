@@ -1,0 +1,64 @@
+[
+  {
+    "id": "wia-insanity-1",
+    "type": "show",
+    "name": "Insanity 1",
+    "promotion": "wia",
+    "date": {
+      "date": "2003-01",
+      "precision": "month",
+      "source": "The fed’s own show archive lists two editions of Insanity by number and no date (promotions/wia/archive/show-archives-2003-01.html); its January 2003 rankings discuss what happened on Insanity as recent, and its news page dates the results of Insanity 2 to 12 January 2003."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/wia/archive/show-archives-2003-01.html",
+        "note": "Named in the fed’s own show archive; the results page behind it was never captured."
+      },
+      {
+        "source": "promotions/wia/archive/rankings-2003-01.html",
+        "note": "The fed’s own rankings describe eight wrestlers’ performances on Insanity in detail."
+      }
+    ]
+  },
+  {
+    "id": "wia-insanity-2",
+    "type": "show",
+    "name": "Insanity 2",
+    "promotion": "wia",
+    "date": {
+      "date": "2003-01-12",
+      "precision": "exact",
+      "source": "The fed’s own news page: “January 12th, 2003 - Insanity 2 Results posted” (promotions/wia/archive/news-2003-01-26.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/wia/archive/news-2003-01-26.html",
+        "note": "The fed dates the posting of its own results; neither card nor results was ever captured."
+      },
+      {
+        "source": "promotions/wia/archive/show-archives-2003-01.html",
+        "note": "Named in the fed’s own show archive."
+      }
+    ]
+  },
+  {
+    "id": "wia-insanity-3",
+    "type": "show",
+    "name": "Thursday Night Insanity 3",
+    "promotion": "wia",
+    "date": {
+      "date": "2003-01",
+      "precision": "month",
+      "source": "The fed’s own news page carries two entries for it — “January 20th, 2003 - Insanity 3 Card Posted” and “January 20th, 2003 - Thursday Night Insanity 3” — which date the card’s posting rather than the show (promotions/wia/archive/news-2003-01-26.html)."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/wia/archive/news-2003-01-26.html",
+        "note": "The fed announces the card and the show; neither was ever captured, and the show is billed for a Thursday the posting date is not."
+      }
+    ]
+  }
+]

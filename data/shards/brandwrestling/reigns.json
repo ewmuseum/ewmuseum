@@ -1,0 +1,36 @@
+[
+ {
+  "id": "brandwrestling-name-r001",
+  "title": "brandwrestling-name",
+  "label": "SHARC",
+  "holder": [
+   {
+    "id": "sharc-action-2002"
+   }
+  ],
+  "won": {
+   "date": null,
+   "precision": "unknown",
+   "source": "champs.php names SHARC champion with no won date; the belt's own title-history page (bnc.php) pulls from a news database not captured in this deposit."
+  },
+  "end_how": "still-champion-at-record-end",
+  "note": "The only surviving record of this title's lineage is the champions page itself."
+ },
+ {
+  "id": "brandwrestling-mountain-dew-r001",
+  "title": "brandwrestling-mountain-dew",
+  "label": "Jake Keeton",
+  "holder": [
+   {
+    "id": "jake-keeton-pcw"
+   }
+  ],
+  "won": {
+   "date": null,
+   "precision": "unknown",
+   "source": "champs.php names Jake Keeton champion with no won date; the belt's own title-history page (mdc.php) pulls from a news database not captured in this deposit."
+  },
+  "end_how": "still-champion-at-record-end",
+  "note": "Two served promos (Mary-Lynn Mayweather's \"Church Bells Calling\"; Steve Solex's \"Booked or Not\") both target this reign, calling the win a theft, without dating how it was won."
+ }
+]

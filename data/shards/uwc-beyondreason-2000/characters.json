@@ -1,0 +1,163 @@
+[
+ {
+  "id": "burt-clifton-uwc-rspwf",
+  "type": "character",
+  "name": "Burt Clifton",
+  "notes": "The RSPWF Top 200's 2000 entry for this name (#167, tagged UWC) matches the promotion's own served roster exactly: its World Heavyweight Champion of the same name, billed there from January through at least June 2000.",
+  "caption": "UWC's own World Heavyweight Champion through the first half of 2000, teaming with Mike Masters as the Axis and placing #167 in the RSPWF Top 200 that year.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwc-beyondreason-2000",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2000-01-03",
+    "last_seen": "2000-06-13",
+    "source": "Billed as UWC World Heavyweight Champion across the promotion's own served broadcasts, teaming with Mike Masters as \"the Axis\" for the World Tag Team Championship and headlining a self-made roleplay of his own."
+   },
+   {
+    "first_seen": "2000-08-07",
+    "grade": "primary-source",
+    "last_seen": "2000-08-20",
+    "promotion": "sewf",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/sewf/archive/grand-opening-gala.html; promotions/sewf/archive/mothership-2000-08-20.html; promotions/sewf/archive/mothership-event-center.html",
+    "finisher": "Dragon Suplex (per ring introduction; used for the pinfall over Omega)",
+    "note": "Billed for Round 1 (bracket 2b, vs. Harbenneth Rookens and Kujo); commentary on the next show calls his advancement a “fluke,” implying a narrow Round 1 win the held record doesn't itself stage. On the 20 August Mothership, beat Omega in a Round 2 bout that included an outside chair shot from Omega's own manager “Barb.” Billed for a Round 3 semifinal against Silky Slim on 27 August."
+   },
+   {
+    "promotion": "ocw-outlaw-2002",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-03",
+    "last_seen": "2002-03",
+    "source": "/promotions/ocw-outlaw-2002/archive/ocw-dead-or-alive-march-madness-2002-03-22.html"
+   },
+   {
+    "promotion": "sewf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-02-05",
+    "last_seen": "2002-02-12",
+    "grade": "primary-source",
+    "source": "promotions/sewf/archive/mothership-2002-02-05.html; promotions/sewf/archive/mothership-2002-02-12.html; promotions/sewf/archive/alarm-ppv-2002-03-14.html"
+   },
+   {
+    "promotion": "sewf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-01-04",
+    "last_seen": "2001-12-10",
+    "grade": "primary-source",
+    "source": "The SEWF's own 2001 broadcasts, 14 January 2001 to 10 December 2001.",
+    "note": "The fed's own title histories place this name on its roster from 4 January 2001."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "presumed",
+    "note": "Consolidated under the standing rule (see the collision-rule erratum, 2026-08-30), on a join-test: the RSPWF Top 200's own 2001 entry for Burt Clifton carries the tag SEWF directly, matching this fed's own roster name exactly. No SEWF document itself names the RSPWF placement; the poll's own independent SEWF tag is the join. burt-clifton-uwc-rspwf is retired; its RSPWF Top 200 bestowals repoint here.",
+    "with": []
+   }
+  ]
+ },
+ {
+  "id": "mike-masters-rspwf",
+  "type": "character",
+  "name": "Mike Masters",
+  "notes": "Known only from the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll. Placings and the poll's own federation tags, verbatim — 1999: #161, tagged ICW; 2000: #40, tagged IWC; 2001: #38, tagged RAW, SEWF. The SEWF tag of 2001 is a held promotion: the tenure is dated from that promotion's own broadcasts, which bill this name on its roster.",
+  "caption": "Climbed the RSPWF Top 200 across three editions, from #161 in 1999 to #38 in 2001.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 3,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "shifty-faw"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against shifty-faw. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200, which gives a ring name and a federation tag and nothing else — no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "uwc-beyondreason-2000",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2000-01-03",
+    "last_seen": "2000-06-13",
+    "source": "Billed on the promotion's own served broadcasts teaming with Burt Clifton as \"the Axis\" for the World Tag Team Championship; the same handler's own signature block names this character as shared across UWC and IWC."
+   },
+   {
+    "promotion": "sewf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-04-22",
+    "last_seen": "2001-10",
+    "grade": "primary-source",
+    "source": "The SEWF's own 2001 broadcasts, 22 April 2001 to October 2001."
+   },
+   {
+    "promotion": "sewf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-04-27",
+    "last_seen": "2002-06-13",
+    "grade": "primary-source",
+    "source": "promotions/sewf/archive/the-finale-announcement-2002-04-27.html; promotions/sewf/archive/finale-groups-announced-2002-06-13.html"
+   },
+   {
+    "promotion": "raw-ewu-2000",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-01-13",
+    "last_seen": "2002-01-13",
+    "source": "/promotions/raw-ewu-2000/archive/aggression-seeing-and-conquering-2002-01-14.html"
+   },
+   {
+    "promotion": "ocw-outlaw-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-03",
+    "last_seen": "2002-03",
+    "source": "/promotions/ocw-outlaw-2002/archive/ocw-dead-or-alive-march-madness-2002-03-22.html"
+   }
+  ]
+ }
+]

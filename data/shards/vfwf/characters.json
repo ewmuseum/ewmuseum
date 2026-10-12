@@ -1,0 +1,105 @@
+[
+ {
+  "id": "playboy-ronnie-d-vfwf",
+  "type": "character",
+  "name": "\"Playboy\" Ronnie D",
+  "caption": "A member's own self-insert wrestler, billed as the main foe and later ally of Allen \"The Acer\" Carter across the fed's short run.",
+  "tenures": [
+   {
+    "promotion": "vfwf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-04-04",
+    "last_seen": "1997-08-20",
+    "source": "promotions/vfwf/archive/vfwf-call-to-arms-1997-04-04.html; promotions/vfwf/archive/vfwf-efed-sign-1997-08-20.html"
+   }
+  ],
+  "notes": "A self-made in-character persona -- the handler behind it self-discloses his own name across several of the fed's own recruitment posts and stands under the privacy rule's self-authorship exception (v105(a)).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "ronnie-d-upw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-acer-vfwf",
+  "type": "character",
+  "name": "Allen \"The Acer\" Carter",
+  "aka": [
+   "The Acer"
+  ],
+  "caption": "A founding-cast wrestler recalled by his own handler as a former VFWF World Heavyweight Champion and the fed's own all-time Internet Champion.",
+  "tenures": [
+   {
+    "promotion": "vfwf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-04-04",
+    "last_seen": "1997-08-20",
+    "source": "promotions/vfwf/archive/vfwf-call-to-arms-1997-04-04.html; promotions/vfwf/archive/vfwf-efed-sign-1997-08-20.html"
+   }
+  ],
+  "notes": "His handler's out-of-character name is redacted per the privacy rule; the fed's own persona is unaffected (v105(a): the handler is a self-inserted participant, and the marker stands in for his OOC name only, never the character).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-reverend-vfwf",
+  "type": "character",
+  "name": "The Reverend",
+  "caption": "One of the fed's own headline cast, named in its recruitment advertising alongside The Acer and \"Playboy\" Ronnie D.",
+  "tenures": [
+   {
+    "promotion": "vfwf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-04-04",
+    "last_seen": "1997-04-04",
+    "source": "promotions/vfwf/archive/vfwf-call-to-arms-1997-04-04.html"
+   }
+  ],
+  "notes": "Named only in the fed's own roster advertising; no match, title or further appearance survives in this collection.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "the-reverend"
+    ]
+   }
+  ]
+ }
+]

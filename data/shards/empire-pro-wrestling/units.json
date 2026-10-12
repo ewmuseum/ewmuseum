@@ -1,0 +1,1215 @@
+[
+ {
+  "id": "forsaken-epw",
+  "type": "unit",
+  "name": "Forsaken",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "The First",
+    "character_id": "the-first-epw"
+   },
+   {
+    "name": "Felix Red",
+    "character_id": "felix-red-epw"
+   }
+  ],
+  "caption": "Empire Pro Wrestling's World Tag Team Champions defending against The Anthology at Aggression 43.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"AGGRESSION 43: World Tag Title Match: Forsaken (c) vs. The Anthology\" (11-23 March 2009)",
+    "note": "Billed as the reigning World Tag Team Champions defending against The Anthology (Jared Wells and Larry Tact)."
+   }
+  ]
+ },
+ {
+  "id": "the-anthology-epw",
+  "type": "unit",
+  "name": "The Anthology",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Jared Wells",
+    "character_id": "jared-wells-cswa"
+   },
+   {
+    "name": "Larry Tact",
+    "character_id": "larry-tact-ne"
+   },
+   {
+    "name": "Shawn Hart",
+    "character_id": "shawn-hart"
+   }
+  ],
+  "caption": "A stable fielding challengers across Empire Pro Wrestling's Television and World Tag Team title pictures in early 2009.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"AGGRESSION 41: TV Title Match: Fusenshoff (c) vs. Shawn Hart\" (5-14 January 2009) and \"AGGRESSION 43: World Tag Title Match: Forsaken (c) vs. The Anthology\" (11-23 March 2009)",
+    "note": "Shawn Hart challenged for the Television Championship as an Anthology member in January 2009; Jared Wells and Larry Tact fielded the stable's own World Tag Team Championship challenge in March 2009."
+   }
+  ]
+ },
+ {
+  "id": "second-coming-epw",
+  "name": "Second Coming",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Bryan Storms",
+    "character_id": "bryan-storms-epw"
+   },
+   {
+    "name": "Matt Johansson",
+    "character_id": "matt-johannson"
+   }
+  ],
+  "caption": "A heel tag team defeated by disqualification at Aggression 7.",
+  "type": "unit",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "highland-park-social-club-epw",
+  "name": "Highland Park Social Club",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Richard Farnswirth",
+    "character_id": "richard-farnswirth-epw"
+   },
+   {
+    "name": "Chip Friendly",
+    "character_id": "chip-friendly-epw"
+   },
+   {
+    "name": "Slambo the Clown",
+    "character_id": "slambo-the-clown-epw"
+   }
+  ],
+  "caption": "Empire Pro Wrestling's World Tag Team Champions, defending against Lindsay Troy, Cameron Cruise and Joey Melton on Aggression 27.",
+  "type": "unit",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "the-proletariat-epw",
+  "name": "The Proletariat",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "C.E. Augustus",
+    "character_id": "c-e-augustus-epw"
+   },
+   {
+    "name": "C.P. Nero",
+    "character_id": "c-p-nero-epw"
+   }
+  ],
+  "caption": "A tag team that would go on to win Empire Pro Wrestling's World Tag Team Championship.",
+  "type": "unit",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "contradiction-epw",
+  "type": "unit",
+  "name": "Contradiction",
+  "members": [
+   {
+    "name": "The Sergeant",
+    "character_id": "the-sergeant-mcw"
+   },
+   {
+    "name": "Drunken Tiger",
+    "character_id": "drunken-tiger-epw"
+   }
+  ],
+  "caption": "A tag team out of parts unknown.",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-07",
+    "last_seen": "2009-07",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "jungle-storm-epw",
+  "type": "unit",
+  "name": "Jungle Storm",
+  "members": [
+   {
+    "name": "Ricardo Silva",
+    "character_id": "ricardo-silva-epw"
+   },
+   {
+    "name": "Gabriel Carvalho",
+    "character_id": "gabriel-carvalho-epw"
+   },
+   {
+    "name": "Mauricio Dos Santos",
+    "character_id": "mauricio-dos-santos-epw"
+   }
+  ],
+  "caption": "A Brazilian trio; third member Mauricio Dos Santos worked ringside on a crutch after an ankle injury at Wrestleverse.",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2009-07",
+    "last_seen": "2009-07",
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "dark-carnival-epw",
+  "type": "unit",
+  "name": "Dark Carnival",
+  "members": [
+   {
+    "name": "Kevin Powers",
+    "character_id": "kevin-powers"
+   },
+   {
+    "name": "Gabriel Poe",
+    "character_id": "gabriel-poe-epw"
+   }
+  ],
+  "caption": "A debuting team who cost Boogie Smallz the Wrestleverse I main event, slingshot-powerbombing him into the barricade for the count-out.",
+  "unit_kind": "tag-team",
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-10",
+    "last_seen": "2004-10",
+    "source": "Billed on the promotion's own cards."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (dark-carnival-ucwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "dark-carnival-ucwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-assassins-epw",
+  "type": "unit",
+  "name": "The Assassins",
+  "unit_kind": "tag-team",
+  "caption": "Eliminated in Empire Pro Wrestling's inaugural World Tag Team Championship match, Black Dawn (2004).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Orion",
+    "character_id": "orion-epw"
+   },
+   {
+    "name": "Osiris",
+    "character_id": "osiris-epw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Black Dawn (2004)\" (18 March 2004)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-assassins-aewa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-assassins-aewa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "blitz-epw",
+  "type": "unit",
+  "name": "Blitz",
+  "unit_kind": "tag-team",
+  "caption": "Empire Pro Wrestling's first World Tag Team Champions, won at Black Dawn (2004); later won the title a second time in a turmoil match at Russian Roulette (2005) and retained it at Black Dawn 2005.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Max",
+    "character_id": "max-epw"
+   },
+   {
+    "name": "Jecht",
+    "character_id": "jecht-epw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Black Dawn (2004)\" (18 March 2004) through \"Black Dawn 2005\" (17 November 2005)"
+   },
+   {
+    "promotion": "cswa",
+    "source": "the held record; billed as 'former EPW tag standouts' entering the relaunch's own Unified Tag Team Tournament, Round One, January 2013"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (blitz-fob); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "blitz-fob"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (blitz-nticw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "blitz-nticw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "covert-ops-epw",
+  "type": "unit",
+  "name": "Covert Ops",
+  "unit_kind": "tag-team",
+  "caption": "Eliminated in Empire Pro Wrestling's inaugural World Tag Team Championship match, Black Dawn (2004).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Cloak",
+    "character_id": "cloak-epw"
+   },
+   {
+    "name": "Dagger",
+    "character_id": "dagger-epw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Black Dawn (2004)\" (18 March 2004)"
+   }
+  ]
+ },
+ {
+  "id": "the-crimson-calling-epw",
+  "type": "unit",
+  "name": "The Crimson Calling",
+  "unit_kind": "tag-team",
+  "caption": "Empire Pro Wrestling's inaugural World Tag Team Champions, won at Black Dawn (2004).",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Erik Black",
+    "character_id": "erik-black-epw"
+   },
+   {
+    "name": "Ivan Dalkichev",
+    "character_id": "ivan-dalkichev-epw"
+   },
+   {
+    "name": "Nathan Fear",
+    "character_id": "nathan-fear-epw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Black Dawn (2004)\" (18 March 2004) and \"Unleashed 2008\" (9 December 2008)"
+   },
+   {
+    "promotion": "gwa-gateway-2004",
+    "source": "Profiled as a team and its manager in the fed's own forum, 1 October 2004."
+   }
+  ]
+ },
+ {
+  "id": "the-entourage-epw",
+  "type": "unit",
+  "name": "The Entourage",
+  "unit_kind": "tag-team",
+  "caption": "Lost to Blitz in seconds at Black Dawn 2005, then quit Empire Pro Wrestling on-air.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Zoltan",
+    "character_id": "zoltan-epw"
+   },
+   {
+    "name": "August De La Rossi",
+    "character_id": "august-de-la-rossi-epw"
+   },
+   {
+    "name": "Z.!",
+    "character_id": "z-tww-2008"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Black Dawn 2005\" (17 November 2005)"
+   },
+   {
+    "promotion": "tww-2008",
+    "source": "Billed as a tag team on the Barre card (13 September 2008)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-entourage-acw-2010"
+    ],
+    "note": "The name or an alias is shared with an existing record on another wing; nothing in either source links the two, so they are kept apart."
+   }
+  ]
+ },
+ {
+  "id": "chronic-collizion-epw",
+  "type": "unit",
+  "name": "Chronic Collizion",
+  "unit_kind": "tag-team",
+  "caption": "A tag team formed by Erik Black and Ivan Dalkichev, previously billed together as The Crimson Calling, that challenged The Forsaken for the Empire Pro Wrestling World Tag Team Championship at Black Dawn 2008.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Black Dawn 2008\" (21 April 2008)"
+   }
+  ],
+  "members": [
+   {
+    "name": "Erik Black",
+    "character_id": "erik-black-epw"
+   },
+   {
+    "name": "Ivan Dalkichev",
+    "character_id": "ivan-dalkichev-epw"
+   }
+  ]
+ },
+ {
+  "id": "motor-city-maniacs-epw",
+  "type": "unit",
+  "name": "Motor City Maniacs",
+  "unit_kind": "tag-team",
+  "caption": "A veteran tag team, former GXW/NthWA/EWI World Tag Team Champions, defeated in their Empire Pro debut at Wrestleverse II.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Ripper Robertson",
+    "character_id": "ripper-robertson-epw"
+   },
+   {
+    "name": "Max Mayhem",
+    "character_id": "max-mayhem-epw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Wrestleverse II\" (24 January 2007)"
+   }
+  ]
+ },
+ {
+  "id": "saviors-of-wrestling-epw",
+  "type": "unit",
+  "name": "Saviors of Wrestling",
+  "unit_kind": "tag-team",
+  "caption": "A tag pairing of Adam Benjamin and Chandler Maxwell, defeated in a three-way tag match at Wrestleverse II.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "\"Yours Truly\" Adam Benjamin",
+    "character_id": "adam-benjamin-epw"
+   },
+   {
+    "name": "\"First Class\" Chandler Maxwell",
+    "character_id": "chandler-maxwell-epw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Wrestleverse II\" (24 January 2007)"
+   }
+  ]
+ },
+ {
+  "id": "the-rockamambinators-epw",
+  "type": "unit",
+  "name": "The Rockamambinators",
+  "unit_kind": "tag-team",
+  "caption": "A tag team of Ray Rock and Big Johnny Mambo, quickly beaten by Golem and X-Ecutioner at Aggression 13.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Ray Rock",
+    "character_id": "ray-rock-epw"
+   },
+   {
+    "name": "Big Johnny Mambo",
+    "character_id": "big-johnny-mambo-epw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Aggression 13\" (23 October 2004)"
+   }
+  ]
+ },
+ {
+  "id": "men-of-constant-sorrow-epw",
+  "type": "unit",
+  "name": "Men of Constant Sorrow",
+  "unit_kind": "tag-team",
+  "caption": "A tag team defeated by Contradiction at Aggression 44.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Arthur",
+    "character_id": "arthur-epw"
+   },
+   {
+    "name": "Burnett",
+    "character_id": "burnett-epw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "\"Aggression 44\" (19 June 2009)"
+   }
+  ]
+ },
+ {
+  "id": "the-fallen-epw",
+  "type": "unit",
+  "name": "The Fallen",
+  "unit_kind": "tag-team",
+  "caption": "A reconstituted version of Sean Stevens's old stable, fielded by Stalker (Jason Reeves) and Omega after Stevens's own departure to lead Anthology.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Stalker",
+    "character_id": "stalker-epw"
+   },
+   {
+    "name": "Omega",
+    "character_id": "omega-epw"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name with two existing held units. No document read this pass ties either of them to Empire Pro Wrestling; filed distinct on the no-auto-merge default pending contrary evidence.",
+    "with": [
+     "the-fallen-nfw",
+     "the-fallen-uwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "first_seen": "2010-01",
+    "last_seen": "2010-02",
+    "source": "\"Onslaught VII\" (19 January 2010) and \"Aggression 50\" (10 February 2010), a losing challenge for the World Tag Team Championship"
+   }
+  ]
+ },
+ {
+  "id": "heirs-of-wrestling-epw",
+  "type": "unit",
+  "name": "Heirs of Wrestling",
+  "unit_kind": "stable",
+  "caption": "A young trio of wrestlers managed by Alexandra Malone, undefeated across early 2010.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Frank Pierce",
+    "character_id": "frank-pierce-epw"
+   },
+   {
+    "name": "Ryan Gallway",
+    "character_id": "ryan-gallway-epw"
+   },
+   {
+    "name": "Mac Brody",
+    "character_id": "mac-brody-epw"
+   },
+   {
+    "name": "Alexandria Malone",
+    "character_id": "alexandria-malone-prime"
+   },
+   {
+    "name": "Bradley Duncan",
+    "character_id": "bradley-duncan-acw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "first_seen": "2010-01",
+    "last_seen": "2010-04",
+    "source": "\"Onslaught VII\" (19 January 2010), \"Aggression 50\" (10 February 2010) and \"Aggression 51\" (27 April 2010)",
+    "note": "PTCpedia's own Heirs of Wrestling article (/promotions/ptc/archive/ptcpedia-heirs-of-wrestling.html, captured 20 Aug 2010) dates the signing to December 2009 after two dark matches and claims the Tag Team Championship won from Anthology at Black Dawn, with Alexandria Malone managing and Mack Brody making the trio a Freebird team."
+   },
+   {
+    "promotion": "sccw-2005",
+    "first_seen": "2009-04-04",
+    "last_seen": "2010-06-13",
+    "roles": [
+     "wrestler"
+    ],
+    "entrance_music": {
+     "verbatim": "'The Shit' by Danger Mouse and Jemini",
+     "title": "The Shit",
+     "artist": "Danger Mouse and Jemini"
+    },
+    "grade": "primary-source",
+    "source": "SCCW's own backstage database (lot 0159) — its own biography card and the federation's own appearance record: 2 match and 4 segment appearances",
+    "note": "Its own record here also carries: 2 roleplays of its own under this card."
+   },
+   {
+    "promotion": "acw",
+    "first_seen": "2009-06-04",
+    "last_seen": "2010-12-09",
+    "source": "ACW's own show write-ups as split in its backstage database (lot 0159); bio 13804 was added there in 2026 from those write-ups",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (18 shows, every kind of appearance counted). Joined to this record on the fed's own text: Booking 3365, paragraph 756, announces 'THE HEIRS OF WRESTLING'; booking 3367, paragraph 109, has 'the bigger half of the Heirs of Wrestling, Frank Pierce' arriving with a newcomer, Alexandria Malone; booking 3435, paragraph 2138, has Pierce, Gallway and Malone walking to ringside. The trio and its manager are the same people as on the held record and the dates overlap; the held record carries SCCW and Empire Pro tenures, where the Heirs also worked. 29 appearance rows, 4 June 2009 to 9 December 2010."
+   }
+  ],
+  "notes": "PTCpedia's own Heirs of Wrestling article (captured 20 Aug 2010) lists the Squared Circle among the trio's federations. No tsc-may-2002 document names them; the wiki's own claim only, no tenure recorded. SCCW's own biography card and PTCpedia's own Heirs of Wrestling article claim an ACW Tag Team Championship. ACW resolves to All-Star Championship Wrestling (acw), the only ACW-acronym wing on file carrying a registered ACW Tag Team Championship.",
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "A unit compared on its MEMBERS, not its name. this record's EPW unit carries Frank Pierce, Ryan Gallway and Mac Brody with Alexandra Malone managing; this card's own bio names the same four - Frank Pierce, Ryan Gallway, Mack Brody and Alexandria Malone - and tells how they formed. The card's Other Feds field reads \"Current: EPW Others: ACW, tSC, SLW\" and its Other Fed Awards claim the ACW and tSC tag titles; this record's EPW tenure (Jan - Apr 2010) sits exactly where the card says \"Current: EPW\", against this unit's own fed-10 run of 6 appearances, 4 Apr 2009 - 13 Jun 2010. The card's own roster rows (members 3498 Ryan Gallway and 3535) are the same two men this record's unit names."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's database bio 13804 (added there in 2026 from the fed's own show write-ups; no card text exists for it) is this record: Booking 3365, paragraph 756, announces 'THE HEIRS OF WRESTLING'; booking 3367, paragraph 109, has 'the bigger half of the Heirs of Wrestling, Frank Pierce' arriving with a newcomer, Alexandria Malone; booking 3435, paragraph 2138, has Pierce, Gallway and Malone walking to ringside. The trio and its manager are the same people as on the held record and the dates overlap; the held record carries SCCW and Empire Pro tenures, where the Heirs also worked. 29 appearance rows, 4 June 2009 to 9 December 2010."
+   }
+  ]
+ },
+ {
+  "id": "the-animezing-dragons-epw",
+  "type": "unit",
+  "name": "The Animezing Dragons",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Karl \"The Dragon\" Brown",
+    "character_id": "the-dragon-nwl"
+   },
+   {
+    "name": "Otaku",
+    "character_id": "otaku-epw"
+   }
+  ],
+  "caption": "A tag team that held the EPW World Tag Team Championship three separate times across 2011 to 2013.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Wrestleverse IV (3 August 2011), the first of three World Tag Team Championship reigns this reading attests for the pairing."
+   }
+  ]
+ },
+ {
+  "id": "the-colossal-connection-epw",
+  "type": "unit",
+  "name": "The Colossal Connection",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "\"The Sonic Titan\" Ivan Dalkichev",
+    "character_id": "ivan-dalkichev-epw"
+   },
+   {
+    "name": "\"The Butt-Dominator\" Olvir Arsvinnar",
+    "character_id": "olvir-epw"
+   }
+  ],
+  "caption": "A tag team of two of Empire Pro's largest wrestlers, billed together against the Heirs of Wrestling at Unleashed 2011.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Unleashed 2011 (9 February 2011), an EPW World Tag Team Championship challenge against the Heirs of Wrestling."
+   }
+  ]
+ },
+ {
+  "id": "the-wolves-of-the-sea-epw",
+  "type": "unit",
+  "name": "The Wolves of the Sea",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Syd Morgan",
+    "character_id": "syd-morgan-epw"
+   },
+   {
+    "name": "Jameson Murdock",
+    "character_id": "jameson-murdock-epw"
+   }
+  ],
+  "caption": "A tag team defeated by Team V.I.A.G.R.A. in the Unleashed 2013 opener.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Unleashed 2013 (10 May 2013), a loss to Team V.I.A.G.R.A. in the show's opening match."
+   }
+  ]
+ },
+ {
+  "id": "dirk-dickwood-presents-epw",
+  "type": "unit",
+  "name": "Dirk Dickwood Presents",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Cecilworth J. Farthington",
+    "character_id": "cecilworth-j-farthington-iwf"
+   },
+   {
+    "name": "Hank",
+    "character_id": "hank-epw"
+   }
+  ],
+  "caption": "A tag team, managed by Dirk Dickwood, that held the EPW World Tag Team Championship into 2013.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Unleashed 2013 (10 May 2013), defending the EPW World Tag Team Championship against the Animezing Dragons."
+   },
+   {
+    "promotion": "cswa",
+    "source": "the held record; entered the relaunch's own Unified Tag Team Tournament, Round One, January 2013, reaching the semifinal at PRIMETIME in Richmond, March 2013"
+   }
+  ]
+ },
+ {
+  "id": "the-heatseekers-epw",
+  "type": "unit",
+  "name": "The Heatseekers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Curtis Penn",
+    "character_id": "curtis-penn-epw"
+   },
+   {
+    "name": "Tyson Burke",
+    "character_id": "tyson-burke-epw"
+   }
+  ],
+  "caption": "A tag team that challenged for the World Tag Team Championship in the first round of the 2012 King of the Cage: Tag Team Edition tournament.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Aggression 68 (21 September 2012), a first-round King of the Cage: Tag Team Edition title challenge against the Animezing Dragons."
+   }
+  ]
+ },
+ {
+  "id": "scarf-epw",
+  "type": "unit",
+  "name": "South and Central American Renegades of Fire",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Umpiro",
+    "character_id": "umpiro-epw"
+   },
+   {
+    "name": "Big Dave Barista",
+    "character_id": "big-dave-barista-epw"
+   }
+  ],
+  "caption": "A tag team entered in the first round of the 2012 King of the Cage: Tag Team Edition tournament.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Aggression 68 (21 September 2012), a first-round King of the Cage: Tag Team Edition match against Team V.I.A.G.R.A."
+   }
+  ]
+ },
+ {
+  "id": "point-of-view-epw",
+  "type": "unit",
+  "name": "Point of View",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Jason Murray",
+    "character_id": "jason-murray-epw"
+   },
+   {
+    "name": "Eddie Beachy",
+    "character_id": "eddie-beachy-epw"
+   }
+  ],
+  "caption": "An Empire Pro undercard tag team active through 2012 and 2013.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Aggression 66 (17 May 2012) through Aggression 73 (23 July 2013)."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A same-named unit is held elsewhere in the registry; no shared evidence found.",
+    "with": [
+     "point-of-view"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-dreamstealers-epw",
+  "type": "unit",
+  "name": "The Dreamstealers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Bobby Steptoe",
+    "character_id": "bobby-steptoe-epw"
+   },
+   {
+    "name": "\"The Saturday Night Kid\"",
+    "character_id": "saturday-night-kid-epw"
+   }
+  ],
+  "caption": "A tag team that defeated Rich Mahogany's makeshift partnership in the first round of the 2012 King of the Cage: Tag Team Edition tournament.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Aggression 69 (24 September 2012), a first-round King of the Cage: Tag Team Edition match."
+   }
+  ]
+ },
+ {
+  "id": "los-luchas-fresca-epw",
+  "type": "unit",
+  "name": "Los Luchas Fresca",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Fishman Deluxe",
+    "character_id": "fishman-deluxe-epw"
+   },
+   {
+    "name": "Mascara De Muerte IV",
+    "character_id": "mascara-de-muerte-iv-epw"
+   }
+  ],
+  "caption": "A Mexico City lucha libre tag team that faced Team V.I.A.G.R.A. at Aggression 70.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Aggression 70 (28 November 2012)."
+   }
+  ]
+ },
+ {
+  "id": "the-masked-violators-epw",
+  "type": "unit",
+  "name": "The Masked Violators",
+  "unit_kind": "tag-team",
+  "caption": "A recurring masked enhancement tag team, fielded against Empire Pro's own roster on two 2010 and 2011 cards.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Aggression 56 (8 March 2011) and Aggression 59 (10 June 2011); no unmasked identity survives."
+   },
+   {
+    "promotion": "tww-2008",
+    "source": "Billed as a team at the Bangor house show (8 September 2008) and on the Barre card."
+   }
+  ],
+  "members": [
+   {
+    "name": "Masked Violator 1",
+    "character_id": "masked-violator-1-tww-2008"
+   },
+   {
+    "name": "Masked Violator 2",
+    "character_id": "masked-violator-2-tww-2008"
+   }
+  ]
+ },
+ {
+  "id": "the-ragekill-rednecks-epw",
+  "type": "unit",
+  "name": "Teddy Alexander and Sam Turner Jr.",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Teddy Alexander",
+    "character_id": "teddy-alexander"
+   },
+   {
+    "name": "Sam Turner Jr.",
+    "character_id": "sam-turner-jr-epw"
+   }
+  ],
+  "caption": "A pairing that won and lost the World Tag Team Championship within the 2012 King of the Cage: Tag Team Edition tournament, dubbed the \"Ragekill Rednecks\" by Empire Pro's own broadcast team.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "empire-pro-wrestling",
+    "source": "Aggression 71 (10 January 2013) through Aggression 72 (27 February 2013)."
+   }
+  ]
+ }
+]

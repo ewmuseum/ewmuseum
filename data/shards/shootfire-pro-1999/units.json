@@ -1,0 +1,75 @@
+[
+ {
+  "id": "devil-divided-shootfire-pro-1999",
+  "type": "unit",
+  "name": "Devil Divided",
+  "unit_kind": "tag-team",
+  "caption": "David Hagen and Vik Ventressa's tag team, winners over Carnivore and Lazz Sterling at the Orion Arena and in the August 2002 Tag Team Blitzkrieg.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   "david-hagen-shootfire-pro-1999",
+   "vik-ventressa-shootfire-pro-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "shootfire-pro-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-07-23",
+    "last_seen": "2002-08-02",
+    "grade": "primary-source",
+    "source": "/promotions/shootfire-pro-1999/archive/shootfire-conquest-2002-07-23.html; /promotions/shootfire-pro-1999/archive/shootfire-conquest-2002-08-02.html"
+   }
+  ]
+ },
+ {
+  "id": "great-american-youths-shootfire-pro-1999",
+  "type": "unit",
+  "name": "Great American Youths",
+  "aka": [
+   "G.A.Y."
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Vile Vince Viper and Ryan Delaney's tag team, beaten by Devil Divided in the August 2002 Tag Team Blitzkrieg when Delaney pinned himself.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   "vile-vince-viper-spring-classic-2002",
+   "ryan-delaney-mvw"
+  ],
+  "tenures": [
+   {
+    "promotion": "shootfire-pro-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-08-02",
+    "last_seen": "2002-08-02",
+    "grade": "primary-source",
+    "source": "/promotions/shootfire-pro-1999/archive/shootfire-conquest-2002-08-02.html"
+   }
+  ]
+ }
+]

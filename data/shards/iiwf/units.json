@@ -1,0 +1,1534 @@
+[
+  {
+    "id": "cold-spell-iiwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Cold Spell",
+    "members": [
+      {
+        "name": "Icehawk",
+        "character_id": "icehawk-iiwf"
+      },
+      {
+        "name": "Edmund Fitzgerald",
+        "character_id": "edmund-fitzgerald-iiwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1997-02",
+        "last_seen": "1997-07-13",
+        "source": "A debuting tag team signed in early 1997 per the fed's own report (msg_id -c0mkXRN740J, served under this wing); named as Icehawk and Edmund Fitzgerald in the fed's own interview column (msg_id MCFELfCuT78J, served under this wing); won the vacant IIWF World Tag Team Championship at Coronation Clash II, 13 July 1997 (msg_id j-cCjKe8QaYJ, served under this wing)."
+      }
+    ],
+    "caption": "A debuting 1997 tag team, Icehawk and Edmund Fitzgerald, who won the IIWF World Tag Team Championship at Coronation Clash II.",
+    "caption_asof": {
+      "written": "2026-09-06",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0
+      }
+    }
+  },
+  {
+    "id": "genesis-iiwf",
+    "type": "unit",
+    "unit_kind": "stable",
+    "name": "Genesis",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "The Second Annual IIWF Golden Grapple Awards, live from the Meydenbauer Center, Seattle, 22 November 1997 (served under this wing, msg_ids iW-VEdvXCN8J, kXRIYXseKdAJ, iOaKDm3l3TsJ, ApPJGdl9F5sJ)."
+      }
+    ],
+    "caption": "Named winner of Best Feud (against \"the Old IIWF Generation\") and, separately, Best Stable (a contested acceptance that ended in a four-man brawl) at the IIWF's own Second Annual Golden Grapple Awards, 22 November 1997.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (genesis-cwc-championship-1998); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "genesis-cwc-championship-1998"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (genesis-cwo); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "genesis-cwo"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (genesis-newf); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "genesis-newf"
+        ]
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: a same-named entity in another wing (genesis-obw); no shared operator, chronology or storyline evidence in this wing's documents.",
+        "with": [
+          "genesis-obw"
+        ]
+      }
+    ],
+    "membership_unknown": true
+  },
+  {
+    "id": "prophets-of-rage-iiwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Prophets of Rage",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "The Second Annual IIWF Golden Grapple Awards, live from the Meydenbauer Center, Seattle, 22 November 1997 (served under this wing, msg_ids iW-VEdvXCN8J, kXRIYXseKdAJ, iOaKDm3l3TsJ, ApPJGdl9F5sJ)."
+      }
+    ],
+    "caption": "Named Best Tag Team (accepted on their behalf by their two valets) at the IIWF's own Second Annual Golden Grapple Awards, 22 November 1997.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 1,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "prophets-of-rage-iewf-lwc"
+        ],
+        "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against prophets-of-rage-iewf-lwc. Recorded distinct, not merged: the only record this entity has is this award bestowal, which gives a ring name and this wing's own award context and nothing else -- no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. A same-named tag team is already held under a different wing, prophets-of-rage-iewf-lwc (tenures tagged iewf-lwc and fwli, not iiwf) -- a distinct promotion by this registry's own two-axis test, despite the near-identical acronym. Minted separately rather than merged."
+      }
+    ],
+    "membership_unknown": true
+  },
+  {
+    "id": "baddest-thangs-running-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Baddest Thangs Running",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged IIWF in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #21 in the RSPWF Top 200 Tag Teams for 1998 (Gunnar Gaines & Caleb Temple), tagged IIWF.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "membership_unknown": true
+  },
+  {
+    "id": "team-sychosis-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Team Sychosis",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged IIWF in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #38 in the RSPWF Top 200 Tag Teams for 1998 (Joe Petrow & Maurice McArthur), tagged IIWF.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "membership_unknown": true
+  },
+  {
+    "id": "the-machines-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Machines",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged IIWF in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #41 in the RSPWF Top 200 Tag Teams for 1998 (Simon Oneal & Paul Wong), tagged IIWF.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-machines-aewa"
+        ],
+        "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against the-machines-aewa. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200 Tag Teams, which gives a team name, a federation tag, and (where named) its two members' ring names, and nothing else -- no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+      }
+    ],
+    "membership_unknown": true
+  },
+  {
+    "id": "bounty-hunters-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Bounty Hunters",
+    "members": [
+      "brody-thunder-inwi"
+    ],
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged IIWF in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #84 in the RSPWF Top 200 Tag Teams for 1998 (Brody Thunder & J.W. Hardin), tagged IIWF.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    }
+  },
+  {
+    "id": "the-harlequins-rspwf",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Harlequins",
+    "members": [],
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": null,
+        "last_seen": null,
+        "source": "Tagged IIWF in the RSPWF Top 200 Tag Teams for 1998."
+      }
+    ],
+    "caption": "Ranked #85 in the RSPWF Top 200 Tag Teams for 1998 (Harlequin Terror & Harlequin CHaos), tagged IIWF, UWF.",
+    "caption_asof": {
+      "written": "2026-09-13",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "harlequins-eswp-1996",
+          "the-harlequins-uwf-mar96"
+        ],
+        "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against harlequins-eswp-1996, the-harlequins-uwf-mar96. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200 Tag Teams, which gives a team name, a federation tag, and (where named) its two members' ring names, and nothing else -- no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+      }
+    ],
+    "membership_unknown": true
+  },
+  {
+    "id": "steamroller-iiwf",
+    "type": "unit",
+    "name": "Steamroller",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-05-25",
+        "last_seen": "1996-05-25",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-05-25.html",
+        "note": "The IIWF World Tag Team Champions in June 1996, managed by Dave Albanese; they won the Coronation Clash tag final by clubbing Jacques K. Vorkian with the timekeeper's bell and, as champions, are disqualified against the United Nations on 25 May 1996 for hitting Vorkian with a belt. The page names the pairing: \"Taylor and Brassow follow Albanese to the ring, their belts laid across their shoulders\"."
+      }
+    ],
+    "caption": "The IIWF World Tag Team Champions of the fed's first weeks, Taylor and Brassow, managed by Dave Albanese and disqualified against the United Nations on 25 May 1996.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Taylor",
+        "character_id": "taylor-iiwf"
+      },
+      {
+        "name": "Brassow",
+        "character_id": "brassow-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "united-nations-iiwf",
+    "type": "unit",
+    "name": "United Nations",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-05-25",
+        "last_seen": "1996-05-25",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-05-25.html",
+        "note": "Challengers for the World Tag Team Championship, managed by their coach Kangaroo Carlysle; Vorkian's head is still bandaged from the Coronation Clash bell shot, and they win by disqualification on 25 May 1996 with Vorkian's Terminal Illness sleeper hold on Brassow. The page names the pairing: \"The crowd pop as the United Nations double-team Taylor with clotheslines, backdrops and slams.\"."
+      }
+    ],
+    "caption": "Jacques K. Vorkian and Tora Tora Tora, managed by Kangaroo Carlysle, who beat the champions Steamroller by disqualification on 25 May 1996.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Jacques K. Vorkian",
+        "character_id": "jacques-k-vorkian-iiwf"
+      },
+      {
+        "name": "Tora Tora Tora",
+        "character_id": "tora-tora-tora-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "high-plains-drifters-iiwf",
+    "type": "unit",
+    "name": "High Plains Drifters",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-05-25",
+        "last_seen": "1996-06-01",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-05-25.html; promotions/iiwf/archive/iiwf-saturday-night-1996-06-01.html; promotions/iiwf/archive/iiwf-report-1996-06-11.html",
+        "note": "Cowboy-gimmick heels managed by the 'Outlaw' Josey Wales and billed as the best-ranked tag team in the weekly rankings; they lose to Rising Sun Revolution on 25 May 1996, win the steel cage against High Velocity on 1 June and arrive a split-second late to save Altair on 8 June. The page names the pairing: \"Now Pale Rider and Easy Rider, you fellas came out and attacked High Velocity\"."
+      }
+    ],
+    "caption": "Pale Rider and Easy Rider, managed by Josey Wales, who lost to Rising Sun Revolution on 25 May 1996 and beat High Velocity in a steel cage on 1 June.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Pale Rider",
+        "character_id": "pale-rider-iiwf"
+      },
+      {
+        "name": "Easy Rider",
+        "character_id": "easy-rider-iiwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-high-plains-drifters-glcw-2002"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "rising-sun-revolution-iiwf",
+    "type": "unit",
+    "name": "Rising Sun Revolution",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-05-25",
+        "last_seen": "1996-05-25",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-05-25.html",
+        "note": "A face team from Japan, called the Dragon and the Demon; Ryudu is the flyer and Hiroshi the larger, stronger man. They beat the High Plains Drifters on 25 May 1996, rescue the Drifters in the cage of 1 June and are booked for a non-title match against Steamroller on Midweek Mayhem. The page names the pairing: \"Ryudu and Hiroshi have already built up a considerable fan following just in the past two weeks\"."
+      }
+    ],
+    "caption": "Ryudu and Hiroshi, the face tag team from Japan, who beat the High Plains Drifters on 25 May 1996.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Ryudu",
+        "character_id": "ryudu-iiwf"
+      },
+      {
+        "name": "Hiroshi",
+        "character_id": "hiroshi-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "high-velocity-iiwf",
+    "type": "unit",
+    "name": "High Velocity",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-06-01",
+        "last_seen": "1996-06-08",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-06-01.html; promotions/iiwf/archive/iiwf-saturday-night-1996-06-08.html",
+        "note": "The Senator's team, T. Rowe in a mask and J.R. Metro; they lose the steel cage to the High Plains Drifters on 1 June 1996 when Altair's chain is cut, and beat Altair in the Loser Leaves IIWF handicap match on 8 June. The page names the pairing: \"Pale Rider attempts to remove T. Rowe's mask, but he is attacked from behind by J.R. Metro.\"."
+      }
+    ],
+    "caption": "T. Rowe and J.R. Metro, the Senator's team, who lost a steel cage to the High Plains Drifters on 1 June 1996 and put Altair out of the IIWF on 8 June.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "T. Rowe",
+        "character_id": "t-rowe-iiwf"
+      },
+      {
+        "name": "J.R. Metro",
+        "character_id": "j-r-metro-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "stunt-team-usa-iiwf",
+    "type": "unit",
+    "name": "Stunt Team USA",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-06-01",
+        "last_seen": "1996-06-15",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-06-01.html; promotions/iiwf/archive/iiwf-saturday-night-1996-06-15.html",
+        "note": "A Hollywood-stuntman face team with flame-effect entrances and the Fire And Forget finish; they beat the Rotundos on 1 June 1996 and the Alphabet Boys on 15 June, the second time by a soda-in-the-face trick. The page names the pairing: \"Steve \"Airborne\" Forget and Ron \"Danger Freak\" Fire: Stunt Team USA!\"."
+      }
+    ],
+    "caption": "Steve Forget and Ron Fire, the stuntman tag team who beat the Rotundos on 1 June 1996 and the Alphabet Boys on 15 June.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Steve \"Airborne\" Forget",
+        "character_id": "steve-airborne-forget-iiwf"
+      },
+      {
+        "name": "Ron \"Danger Freak\" Fire",
+        "character_id": "ron-danger-freak-fire-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "alphabet-boys-iiwf",
+    "type": "unit",
+    "name": "Alphabet Boys",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-06-15",
+        "last_seen": "1996-06-15",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-06-15.html",
+        "note": "A wild brawling heel pair who headbutt each other and bicker; they already held a Midweek Mayhem win over Stunt Team USA and lost the rematch on 15 June 1996 after Abie went for hot dogs in the crowd. The page names the pairing: \"Abie and Zed: the Alphabet Boys!\"."
+      }
+    ],
+    "caption": "Abie and Zed, the bickering brawlers who lost to Stunt Team USA on 15 June 1996.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Abie",
+        "character_id": "abie-iiwf"
+      },
+      {
+        "name": "Zed",
+        "character_id": "zed-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "rotundos-iiwf",
+    "type": "unit",
+    "name": "Rotundos",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-06-01",
+        "last_seen": "1996-06-08",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-06-01.html; promotions/iiwf/archive/iiwf-saturday-night-1996-06-08.html",
+        "note": "A team of two enormously overweight jobbers who lose to Stunt Team USA on 1 June 1996 and to Dan Kauffman and Joe Latta on 8 June. The page names the pairing: \"The Rotundos are already in the ring. Both are hugely overweight.\"."
+      }
+    ],
+    "caption": "The two overweight jobbers who lost to Stunt Team USA on 1 June 1996 and to Kauffman and Latta on 8 June.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Rotundo I",
+        "character_id": "rotundo-i-iiwf"
+      },
+      {
+        "name": "Rotundo II",
+        "character_id": "rotundo-ii-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "barnacle-brothers-iiwf",
+    "type": "unit",
+    "name": "Barnacle Brothers",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-06-08",
+        "last_seen": "1996-06-08",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-06-08.html",
+        "note": "Two middle-aged Popeye lookalikes who open the 8 June 1996 card and lose to the Returners. The page names the pairing: \"Introducing first, already in the ring and weighing in at a combined weight of 624lbs, the Barnacle Brothers.\"."
+      }
+    ],
+    "caption": "The Popeye-style team who lost the opening match of 8 June 1996 to the Returners.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Barnacle 1",
+        "character_id": "barnacle-1-iiwf"
+      },
+      {
+        "name": "Barnacle 2",
+        "character_id": "barnacle-2-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "the-horsemen-iiwf",
+    "type": "unit",
+    "name": "The Horsemen",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-05-25",
+        "last_seen": "1996-06-15",
+        "grade": "primary-source",
+        "role": "stable",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-05-25.html; promotions/iiwf/archive/iiwf-saturday-night-1996-06-01.html; promotions/iiwf/archive/iiwf-saturday-night-1996-06-08.html; promotions/iiwf/archive/iiwf-saturday-night-1996-06-15.html; promotions/iiwf/archive/iiwf-report-1996-06-11.html",
+        "note": "The IIWF's ruling heel stable, led from the Iron Den by Flare with Miss Victoria Secret at his side; the World Heavyweight Champion the Outlaw belongs to it, Brad Kinder (Bodybag) is the muscle, and Jack Haley, the former Green Giant, is unveiled as the fourth Horseman, Blackjack Haley, in the Report of 11 June 1996. The page names the pairing: \"ladies and gentlemen I give you the fourth Horseman... Blackjack Haley!!\"."
+      }
+    ],
+    "caption": "The IIWF's ruling heel stable of the fed's first weeks: Flare, Brad Kinder and the World Champion the Outlaw, joined by Jack Haley as the fourth Horseman.",
+    "caption_asof": {
+      "written": "2026-10-10",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 4,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "The Outlaw",
+        "character_id": "the-outlaw-iiwf"
+      },
+      {
+        "name": "Flare",
+        "character_id": "flare-iiwf"
+      },
+      {
+        "name": "Brad \"Bodybag\" Kinder",
+        "character_id": "brad-bodybag-kinder-iiwf"
+      },
+      {
+        "name": "Jack Haley",
+        "character_id": "jack-haley-iiwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-horsemen-iewa",
+          "the-horsemen-uwf-fwrestling-2009",
+          "wwwf-1997-horsemen"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "armed-forces-iiwf",
+    "type": "unit",
+    "name": "Armed Forces",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-07-06",
+        "last_seen": "1996-07-06",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-07-06.html",
+        "note": "A military-gimmick heel team managed by Aaron the Caddy, who carries their golf clubs; they debut on 6 July 1996 by beating the United Nations (the Intercontinental Ballistic Missile powerbomb and the AK47 splash) and then beating the Nations and their manager with golf clubs, for which the President says they will be fined. The page names the pairing: \"here are NavCom and DefCon: the Armed Forces!\"."
+      }
+    ],
+    "caption": "NavCom and DefCon, the military-gimmick team managed by Aaron the Caddy, who beat the United Nations and then clubbed them with golf clubs on their debut on 6 July 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "NavCom",
+        "character_id": "navcom-iiwf"
+      },
+      {
+        "name": "DefCon",
+        "character_id": "defcon-iiwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "armed-forces-cswa",
+          "the-armed-forces"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "atomic-destroyers-iiwf",
+    "type": "unit",
+    "name": "Atomic Destroyers",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-07-13",
+        "last_seen": "1996-07-20",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-07-13.html; promotions/iiwf/archive/iiwf-saturday-night-1996-07-20.html",
+        "note": "The Senator's enforcers, who come to ringside with him and the Hangman: they attack the High Plains Drifters on 13 July 1996 as the Hangman hangs Altair and on 20 July break up the Drifters' tournament match against the Alphabet Boys. The page names the pairing: \"knocking Larn and Steroid's heads together\"."
+      }
+    ],
+    "caption": "Larn and Steroid, the Senator's enforcers, who attacked the High Plains Drifters on 13 and 20 July 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Larn",
+        "character_id": "larn-iiwf"
+      },
+      {
+        "name": "Steroid",
+        "character_id": "steroid-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "deja-vu-iiwf",
+    "type": "unit",
+    "name": "Deja Vu",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-07-20",
+        "last_seen": "1996-07-20",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-07-20.html",
+        "note": "A tag team who stand in the ring with Majestic Maurice McArthur as their partner and lose to the Dark Knights in the six-man match of 20 July 1996. The page names the pairing: \"here are Ben Dare and Don Thatt, Deja Vu\"."
+      }
+    ],
+    "caption": "Ben Dare and Don Thatt, who with Majestic Maurice McArthur lost to the Dark Knights on 20 July 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Ben Dare",
+        "character_id": "ben-dare-iiwf"
+      },
+      {
+        "name": "Don Thatt",
+        "character_id": "don-thatt-iiwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "deja-vu-rspwf"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "dark-knights-iiwf",
+    "type": "unit",
+    "name": "Dark Knights",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-07-20",
+        "last_seen": "1996-07-20",
+        "grade": "primary-source",
+        "role": "stable",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-07-20.html",
+        "note": "The newest stable of the fed, headed by the mysterious Sandman, whose voice and eyes interrupted the 13 July card and whose sleepy dust knocked out two men on a Midweek Mayhem; they debut on 20 July 1996 with a quick six-man win and threaten the Family and the Syndicate. The page names the pairing: \"here are the Sandman, Phantom and Brad \"Bodybag\" Kinder: the Dark Knights!\"."
+      }
+    ],
+    "caption": "The Sandman, Phantom and Brad Kinder, the stable that debuted with a six-man win on 20 July 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Sandman",
+        "character_id": "sandman-iiwf"
+      },
+      {
+        "name": "Phantom",
+        "character_id": "phantom-iiwf"
+      },
+      {
+        "name": "Brad \"Bodybag\" Kinder",
+        "character_id": "brad-bodybag-kinder-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "the-family-iiwf",
+    "type": "unit",
+    "name": "The Family",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-07-13",
+        "last_seen": "1996-07-20",
+        "grade": "primary-source",
+        "role": "stable",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-07-13.html; promotions/iiwf/archive/iiwf-saturday-night-1996-07-20.html",
+        "note": "Don Antonio's mob-gimmick organisation, which on 13 July 1996 beats the Rotundos in almost record time with the Dual Eradicator under its new manager Salvatore Fiorello and on 20 July offers to join forces with the American Heroes; the Sandman picks the Don as his first target. The page names the pairing: \"Don Antonio and Vinny Cappicola head down to the ring, led by their manager, Salvatore Fiorello\"."
+      }
+    ],
+    "caption": "Don Antonio, Vinny Cappicola and their manager Salvatore Fiorello, the mob-gimmick group that allied with the American Heroes on 20 July 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Don Antonio",
+        "character_id": "don-antonio-iiwf"
+      },
+      {
+        "name": "Vinny Cappicola",
+        "character_id": "vinny-cappicola-iiwf"
+      },
+      {
+        "name": "Salvatore Fiorello",
+        "character_id": "salvatore-fiorello-iiwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-family-owa-online",
+          "the-family-pwa-pioneer"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "american-heroes-iiwf",
+    "type": "unit",
+    "name": "American Heroes",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-07-06",
+        "last_seen": "1996-07-20",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-07-06.html; promotions/iiwf/archive/iiwf-saturday-night-1996-07-20.html",
+        "note": "The patriotic faces Casey 'Whitebread' James and the Man of Steel, who are tricked into a six-man tag by the Outlaw on 6 July 1996, rescue Tony Starks from Simon Lebec and Billy Sexton on 13 July, ally with the Antonio Family and beat the Rotundos on 20 July. The page names the pairing: \"here are the American Heroes: Casey \"Whitebread\" James and the Man Of Steel!\"."
+      }
+    ],
+    "caption": "Casey James and the Man of Steel, the patriotic team betrayed by the Outlaw on 6 July 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Casey James",
+        "character_id": "casey-blackheart-james-iiwf"
+      },
+      {
+        "name": "Man of Steel",
+        "character_id": "man-of-steel-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "the-syndicate-iiwf",
+    "type": "unit",
+    "name": "The Syndicate",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-07-06",
+        "last_seen": "1996-07-20",
+        "grade": "primary-source",
+        "role": "stable",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-07-06.html; promotions/iiwf/archive/iiwf-saturday-night-1996-07-13.html; promotions/iiwf/archive/iiwf-saturday-night-1996-07-20.html",
+        "note": "Brian Lau's group of Tiger Claw and Joe Latta (with Mistress Sasha), who feud with the Subway Psycho from 6 July 1996: Lau and Sasha move to strip the Psycho of the World title and Latta and Claw attack him; the Psycho beats Latta in the Third Rail Match of 20 July. The page names the pairing: \"Things are going rather well for Brian Lau and his Syndicate at the moment\"."
+      },
+      {
+        "promotion": "emwc",
+        "first_seen": "unknown",
+        "role": "stable",
+        "source": "promotions/emwc/archive/emwc-showtime-x-update-v5-2003-10-15.html, at Rumble In Sin City, and promotions/emwc/archive/emwc-showtime-x-update-v3-2003-09-23.html, discussed by name as an active stable."
+      }
+    ],
+    "caption": "Brian Lau's stable of Tiger Claw and Joe Latta, the Subway Psycho's enemies in July 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Brian Lau",
+        "character_id": "brian-lau-iiwf"
+      },
+      {
+        "name": "Tiger Claw",
+        "character_id": "tiger-claw-iiwf"
+      },
+      {
+        "name": "Joe Latta",
+        "character_id": "joe-latta-iiwf"
+      },
+      {
+        "name": "\"Blackheart\" Casey James",
+        "character_id": "blackheart-casey-james-rspwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "syndicate-apw",
+          "syndicorp-rcw-royal",
+          "the-syndicate-evo-2002",
+          "the-syndicate-gdwa",
+          "the-syndicate-gw",
+          "the-syndicate-icpw-1999",
+          "the-syndicate-tcw-a-quiet-retirement"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name collision only: same-named units exist in other wings (syndicate-apw, syndicorp-rcw-royal, the-syndicate-gdwa); no shared operator, chronology or storyline evidence links any of them.",
+        "with": [
+          "syndicate-apw",
+          "syndicorp-rcw-royal",
+          "the-syndicate-gdwa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guiding-lights-iiwf",
+    "type": "unit",
+    "name": "Guiding Lights",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-07-13",
+        "last_seen": "1996-07-20",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-07-13.html; promotions/iiwf/archive/iiwf-saturday-night-1996-07-20.html",
+        "note": "A tag team managed by Cody Cassell with an undefeated streak into July 1996: they beat Steamroller when Brassow's knee gives out in the Figure Four of Nate Lawson and lose to Stunt Team USA on 20 July. The pages name only Lawson. The page names the pairing: \"THE GUIDING LIGHTS defeated former IIWF Tag Team Champions STEAMROLLER\"."
+      }
+    ],
+    "caption": "Nate Lawson's undefeated team, managed by Cody Cassell, who beat Steamroller on 13 July 1996 and lost to Stunt Team USA a week later.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Nate Lawson",
+        "character_id": "nate-lawson-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "the-posse-iiwf",
+    "type": "unit",
+    "name": "The Posse",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-07-06",
+        "last_seen": "1996-07-20",
+        "grade": "primary-source",
+        "role": "stable",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-07-06.html; promotions/iiwf/archive/iiwf-saturday-night-1996-07-13.html; promotions/iiwf/archive/iiwf-saturday-night-1996-07-20.html",
+        "note": "The stable Josey Wales builds around the Venusian Death Cell, the Crippler, Altair, the High Plains Drifters and, from 6 July 1996, the Outlaw, who double-crosses the Horsemen to join it; at war with the Senator after the Hangman hangs Altair. The page names the pairing: \"TD: It's Josey Wales' Posse!\"."
+      }
+    ],
+    "caption": "Josey Wales' stable of the Venusian Death Cell, the Crippler, Altair, the High Plains Drifters and the Outlaw.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Josey Wales",
+        "character_id": "josey-wales-iiwf"
+      },
+      {
+        "name": "Venusian Death Cell",
+        "character_id": "venusian-death-cell-iiwf"
+      },
+      {
+        "name": "The Crippler",
+        "character_id": "the-crippler-iiwf"
+      },
+      {
+        "name": "Altair",
+        "character_id": "altair-iiwf"
+      },
+      {
+        "name": "Pale Rider",
+        "character_id": "pale-rider-iiwf"
+      },
+      {
+        "name": "Easy Rider",
+        "character_id": "easy-rider-iiwf"
+      },
+      {
+        "name": "The Outlaw",
+        "character_id": "the-outlaw-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "zodiac-connection-iiwf",
+    "type": "unit",
+    "name": "Zodiac Connection",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-10-05",
+        "last_seen": "1996-10-23",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-10-05.html; promotions/iiwf/archive/iiwf-saturday-night-1996-10-19.html; promotions/iiwf/archive/iiwf-midweek-mayhem-1996-10-23.html",
+        "note": "An astrology-gimmick tag team (Scorpio the high flyer, Taurus the big man) whose Zodiac Splash 'rocket launcher' ends their match with the Barnacle Brothers on 5 October 1996; they beat Pain Inc. in the Texas Bullrope Steel Cage Match at Ring Wars II, lose to the Armed Forces on 19 October with the Aces of the Deep at ringside, and ally with the Aces, whom the commentators call Pisces. The page names the pairing: \"here are Taurus and Scorpio, the Zodiac Connection!\"."
+      }
+    ],
+    "caption": "Scorpio and Taurus, the astrology-gimmick team that beat Pain Inc. at Ring Wars II and allied with the Aces of the Deep in October 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Scorpio",
+        "character_id": "scorpio-iiwf"
+      },
+      {
+        "name": "Taurus",
+        "character_id": "taurus-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "aces-of-the-deep-iiwf",
+    "type": "unit",
+    "name": "Aces of the Deep",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-10-12",
+        "last_seen": "1996-10-23",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-free-for-all-1996-10-12.html; promotions/iiwf/archive/iiwf-saturday-night-1996-10-19.html; promotions/iiwf/archive/iiwf-midweek-mayhem-1996-10-23.html",
+        "note": "A sea-gimmick tag team from Depth City, USA (529 pounds combined) who come to the ring to the theme from Jaws and promise to 'flood' opponents; they lose to the Arabian Knights on 12 October 1996, to Domination on 19 October and to Heavy Metal on 23 October, and ally with the Zodiac Connection. The page names the pairing: \"here are Sam \"Shark\" Summers and Peter \"Piranha\" Pouls, the Aces of the Deep!\"."
+      }
+    ],
+    "caption": "Sam Summers and Peter Pouls, the sea-gimmick team beaten by the Arabian Knights, Domination and Heavy Metal in October 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Sam \"Shark\" Summers",
+        "character_id": "sam-shark-summers-iiwf"
+      },
+      {
+        "name": "Peter \"Piranha\" Pouls",
+        "character_id": "peter-piranha-pouls-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "arabian-knights-iiwf",
+    "type": "unit",
+    "name": "Arabian Knights",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-10-05",
+        "last_seen": "1996-10-19",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-10-05.html; promotions/iiwf/archive/iiwf-free-for-all-1996-10-12.html; promotions/iiwf/archive/iiwf-saturday-night-1996-10-19.html",
+        "note": "A tag team from Ar Riyad, Saudi Arabia (595 pounds combined), the Prince and his silent bodyguard Omar, managed by the Grand Vizier; they beat Heavy Metal on 5 October and the Aces of the Deep on 12 October 1996, become number one contenders at Ring Wars II and lose the Manager Leaves Town match to Pain Inc. on 19 October, which sends the Vizier out of the IIWF. The page names the pairing: \"Omar and Prince Abdul Akbar, The Arabian Knights!\"."
+      }
+    ],
+    "caption": "The Prince and Omar, the Saudi tag team managed by the Grand Vizier, who lost their manager in the Manager Leaves Town match of 19 October 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Prince Abdul Akbar",
+        "character_id": "prince-abdul-akbar-iiwf"
+      },
+      {
+        "name": "Omar",
+        "character_id": "omar-iiwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "muslim-massacre-npwa"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "pain-inc-iiwf",
+    "type": "unit",
+    "name": "Pain Inc.",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-10-19",
+        "last_seen": "1996-10-23",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-10-19.html; promotions/iiwf/archive/iiwf-midweek-mayhem-1996-10-23.html",
+        "note": "A chain-mail-masked tag team from Jakarta, Indonesia (585 pounds combined) managed by Mr. Mic; they lose the Texas Bullrope Steel Cage Match to the Zodiac Connection at Ring Wars II, win the Manager Leaves Town match over the Arabian Knights on 19 October 1996 with Heavy Metal's help from under the ring, and are attacked with the Zodiacs by two men in black on 23 October. The page names the pairing: \"They are Hellraiser, Morningstar, Pain Incorporated!!!\"."
+      }
+    ],
+    "caption": "Hellraiser and Morningstar, Mr. Mic's team, who won the Manager Leaves Town match against the Arabian Knights on 19 October 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Hellraiser",
+        "character_id": "hellraiser-iiwf"
+      },
+      {
+        "name": "Morningstar",
+        "character_id": "morningstar-iiwf"
+      }
+    ]
+  },
+  {
+    "id": "heavy-metal-iiwf",
+    "type": "unit",
+    "name": "Heavy Metal",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-10-05",
+        "last_seen": "1996-10-23",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-10-05.html; promotions/iiwf/archive/iiwf-midweek-mayhem-1996-10-23.html",
+        "note": "A pair of huge brothers (660 pounds combined) in the Stone Stable under Robo Stone, who lose to the Arabian Knights on 5 October 1996 when the Atomic Destroyers run in, help Pain Inc. from under the ring on 19 October and beat the Aces of the Deep on 23 October; they form an alliance with Pain Inc. The page names the pairing: \"accompanied by Robo Stone, here are Atlas and Apollo Steele: Heavy Metal!\"."
+      }
+    ],
+    "caption": "Atlas and Apollo Steele, Robo Stone's tag team, who allied with Pain Inc. in October 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Atlas Steele",
+        "character_id": "atlas-steele-iiwf"
+      },
+      {
+        "name": "Apollo Steele",
+        "character_id": "apollo-steele-iiwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "cwfpro-heavy-metal-luscious-larry-and-delicious-doug-stone",
+          "heavy-metal-aewa",
+          "heavy-metal-mwwa",
+          "heavy-metal-owa-online",
+          "heavy-metal-pcw",
+          "heavy-metal-pwa-pioneer",
+          "heavy-metal-sccw-2005"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "domination-iiwf",
+    "type": "unit",
+    "name": "Domination",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-10-19",
+        "last_seen": "1996-10-26",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-saturday-night-1996-10-19.html; promotions/iiwf/archive/iiwf-midweek-mayhem-1996-10-23.html; promotions/iiwf/archive/iiwf-saturday-night-1996-10-26.html",
+        "note": "A tag team of Mr. Psycho and the albino Monster (620 pounds combined) managed by the Mistress, billed as the next step in tag-team action and friends of the Rising Sun Revolution; they beat the Aces of the Deep on their debut of 19 October 1996, rescue Takezo Musashi from McQueen's men in black that night, help the champions against the Armed Forces on 23 October and fight a no-contest with the High Plains Drifters on 26 October. The page names the pairing: \"accompanied to the ring by the Mistress, Mr. Psycho, Monster\"."
+      }
+    ],
+    "caption": "Mr. Psycho and Monster, the team managed by the Mistress, who debuted by beating the Aces of the Deep on 19 October 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 3,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Mr. Psycho",
+        "character_id": "mr-psycho-iiwf"
+      },
+      {
+        "name": "Monster",
+        "character_id": "monster-iiwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "domination-newf",
+          "domination-rspwf",
+          "domination-scw-entity-a"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  },
+  {
+    "id": "partners-in-crime-iiwf",
+    "type": "unit",
+    "name": "Partners in Crime",
+    "tenures": [
+      {
+        "promotion": "iiwf",
+        "first_seen": "1996-10-12",
+        "last_seen": "1996-10-12",
+        "grade": "primary-source",
+        "role": "tag team",
+        "source": "promotions/iiwf/archive/iiwf-free-for-all-1996-10-12.html",
+        "note": "Magus and the escaped convict Prisoner #109 (583 pounds combined), who attack Nuclear John Bomber after a Midweek Mayhem, put the Punster in the hospital with Robski, and lose a handicap match to Archangel at the Free For All of 12 October 1996. The page names the pairing: \"here are the Partners in Crime: Magus and Prisoner #109!\"."
+      }
+    ],
+    "caption": "Magus and Prisoner #109, who lost the Free For All handicap match to Archangel on 12 October 1996.",
+    "caption_asof": {
+      "written": "2026-10-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Magus",
+        "character_id": "magus-iiwf"
+      },
+      {
+        "name": "Prisoner #109",
+        "character_id": "prisoner-109-iiwf"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "partners-in-crime-cwo",
+          "partners-in-crime-gw",
+          "partners-in-crime-rspwf"
+        ],
+        "note": "Exact-name collision with records elsewhere; no document of this fed ties any of them to it. Kept distinct under the no-merge default, open to a merge on evidence."
+      }
+    ]
+  }
+]

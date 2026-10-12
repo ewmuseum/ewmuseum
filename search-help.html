@@ -1,0 +1,108 @@
+<!-- chrome:head:start -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Search syntax &mdash; E-WRESTLING MUSEUM</title>
+<script src="/js/theme.js?v=5"></script>
+<link rel="stylesheet" href="/style.css?v=22">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://ewmuseum.org/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="masthead">
+  <div class="inner">
+    <a class="wordmark" href="/"><svg class="ringmark-lg" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><use href="/ringmark.svg#ewm"/></svg><svg class="ringmark" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect class="m-apron" width="16" height="16" rx="2"/><rect class="m-rope" x="2.5" y="2.5" width="11" height="11"/><path class="m-pad" d="M0 0h4v4H0zM12 0h4v4h-4zM0 12h4v4H0zM12 12h4v4h-4z"/><rect class="m-core" x="6" y="6" width="4" height="4"/><rect class="m-edge" x=".5" y=".5" width="15" height="15" rx="1.5"/></svg><span class="wm-text">THE E-WRESTLING <span class="nw">MUSEUM<span class="dot">.</span></span></span></a>
+    <div class="tagline">a museum of fantasy wrestling, built one collection at a time</div>
+    <nav class="gallery">
+      <a href="/promotions.html">Wings</a>
+      <a href="/characters.html">Characters</a>
+      <a href="/units.html">Units</a>
+      <a href="/relationships.html">Relationships</a>
+      <a href="/shows.html">Shows</a>
+      <a href="/matches.html">Matches</a>
+      <a href="/appearances.html">Appearances</a>
+      <a href="/rps.html">Roleplays</a>
+      <a href="/championships.html">Championships</a>
+      <a href="/reigns.html">Reigns</a>
+      <a href="/awards.html">Awards</a>
+      <a href="/bestowals.html">Bestowals</a>
+      <a href="/halloffame.html">Halls of Fame</a>
+      <a href="/in-memoriam.html">In Memoriam</a>
+      <a href="/essays.html">Essays</a>
+    </nav>
+  </div>
+  <span id="main-content" tabindex="-1"></span>
+</header>
+<!-- chrome:head:end -->
+
+
+<main class="wrap">
+  <p class="crumb"><a href="/">Museum</a> &nbsp;/&nbsp; Search syntax</p>
+
+  <span class="kicker">Search</span>
+  <h1>The query language.</h1>
+  <p class="lede">
+    Every search box on this site speaks it &mdash; the global
+    <a href="/search.html">Search</a>, every listing, every instrument.
+    Terms combine with AND; the counter under the box always reads
+    &ldquo;N of M shown.&rdquo;
+  </p>
+
+  <h2>Operators</h2>
+  <p class="meta">
+    <span class="k">word</span> &nbsp; substring match &mdash; <code>crud</code> finds <a href="/characters/al-crud.html" class="entity-link" data-entity="al-crud">Al Crud</a>.<br>
+    <span class="k">"exact phrase"</span> &nbsp; keeps its spaces &mdash; <code>"steel cage"</code>.<br>
+    <span class="k">field:value</span> &nbsp; match one field &mdash; <code>promotion:uwf</code>, <code>participant:seymour-almasy</code> (on <a href="/matches.html">Matches</a>), <code>stipulation:"steel cage"</code>.<br>
+    <span class="k">field:a|b</span> &nbsp; either value &mdash; <code>promotion:giwf|xuw</code>.<br>
+    <span class="k">-word, -field:value</span> &nbsp; exclude &mdash; <code>-promotion:uwf</code>, <code>-"battle royal"</code>. <code>-field:a|b</code> is neither.<br>
+    <span class="k">field:</span> &nbsp; field present, any value &mdash; <code>gender:</code> is everyone whose record gives one.<br>
+    <span class="k">-field:</span> &nbsp; field absent &mdash; <code>-gender:</code> is everyone whose record never gives one.<br>
+    <span class="k">&gt; &lt; &gt;= &lt;=</span> &nbsp; numeric compare &mdash; <code>reigns:&gt;3</code>, <code>year:&gt;=2003</code>. Dates compare by year: <code>date:&lt;2004</code>.<br>
+    <span class="k">field:2002..2004</span> &nbsp; inclusive range &mdash; same year rule for dates.
+  </p>
+  <p class="muted small" id="search-fields">
+    The global <a href="/search.html">Search</a> takes these fields: <code>promotion</code>, <code>style</code>, <code>medium</code>,
+    <code>language</code>, <code>country</code>, <code>year</code>, <code>date</code>, <code>reigns</code>, <code>opponent</code>,
+    <code>opponents</code>, <code>who</code>, <code>stipulation</code>, <code>gender</code>, <code>kind</code>, <code>name</code>,
+    <code>title</code>, <code>alignment</code>, <code>finisher</code>, <code>hometown</code>. A field that belongs to one list page
+    only works on that page: <code>participant</code> on <a href="/matches.html">Matches</a>.
+  </p>
+  <p class="muted small">
+    The second box on each page is a discovery aid: it lists that page's own
+    field names (typed from its own rows, nothing hand-kept) and inserts a
+    <code>field:</code> stub for you to finish. The &ldquo;Fields this page
+    can search&rdquo; note under the box lists the same names. Your full
+    query lives in the address bar as <code>?q=&hellip;</code> as you type
+    &mdash; copy the URL to share the exact view.
+  </p>
+
+  <h2>Recipes</h2>
+  <p class="meta">
+    <span class="k">Coverage</span> &nbsp; on <a href="/characters.html">Characters</a>: <code>gender:male</code>, <code>gender:female</code>, then <code>-gender:</code> for everyone the record never gives either way.<br>
+    <span class="k">Cross-promotion</span> &nbsp; on <a href="/matches.html">Matches</a>: <code>stipulation:cage promotion:giwf|xuw</code> &mdash; every cage match across two feds.<br>
+    <span class="k">A career, elsewhere</span> &nbsp; on <a href="/appearances.html">Appearances</a>: <code>who:seymour-almasy -promotion:uwf</code> &mdash; everywhere he turned up outside his home fed.<br>
+    <span class="k">A window in time</span> &nbsp; on <a href="/reigns.html">Reigns</a>: <code>year:2002..2004 promotion:uwf</code> &mdash; every UWF reign begun in that stretch.<br>
+    <span class="k">A record</span> &nbsp; on <a href="/characters.html">Characters</a> and <a href="/units.html">Units</a>: <code>wins:&gt;=20</code>, <code>winpct:&gt;=60</code>, <code>matches:10..50</code> &mdash; the record the museum counted from the match results it has parsed, never a record a fed declared; also <code>losses</code>, <code>draws</code> and <code>nc</code> (no contest). <code>winpct</code> is wins out of wins plus losses, given once there are 5 of those. The sort box beside the filter orders the list by most matches, most wins or best win share.<br>
+    <span class="k">A scene</span> &nbsp; on <a href="/promotions.html">Wings</a>: <code>language:pl</code> for the wings a Polish-language community ran, <code>country:DE</code> for the wings run from Germany whatever language they ran in, and <code>-language:</code> for everything held in English &mdash; a wing states its language only when it is not English.
+  </p>
+
+<!-- chrome:footer:start -->
+  <footer role="contentinfo">
+THE E-WRESTLING MUSEUM <span class="rule">/</span> Search syntax <span class="rule">/</span>
+    <a href="/">back to the museum</a><br>
+    Written 2026 &mdash; not backdated. See <a href="/curation.html">Curation</a>.
+    <!-- footernav:start --><nav class="footnav" aria-label="Elsewhere"><a href="/search.html">Search</a> <span class="rule">/</span> <a href="https://forum.ewmuseum.org">The forum</a> <span class="rule">/</span> <a href="https://e-wrestling.org">e-wrestling.org</a></nav><!-- footernav:end -->
+  </footer>
+</main>
+</body>
+</html>
+<!-- chrome:footer:end -->

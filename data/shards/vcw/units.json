@@ -1,0 +1,416 @@
+[
+ {
+  "id": "the-legendary-alliance-vcw",
+  "type": "unit",
+  "name": "The Legendary Alliance",
+  "members": [
+   {
+    "id": "tony-ruiz-vcw"
+   },
+   {
+    "id": "davey-cormier-vcw"
+   },
+   {
+    "id": "christopher-stonebreaker-vcw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "first_seen": "1997-04",
+    "last_seen": "1997-04",
+    "source": "VCW Casino Nights, 15 April 1997.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "A trio who beat Vanity Flare in the main event of the fed's only surviving card, the brawl spilling across the casino's own dancer stage.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "vanity-flare-vcw",
+  "type": "unit",
+  "name": "Vanity Flare",
+  "members": [
+   {
+    "id": "kevin-legend-vcw"
+   },
+   {
+    "id": "victor-vance-vcw"
+   },
+   {
+    "id": "aaron-rhett-vcw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "first_seen": "1997-04",
+    "last_seen": "1997-04",
+    "source": "VCW Casino Nights, 15 April 1997.",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "mlwo-1998",
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "grade": "primary-source",
+    "role": "tag team",
+    "source": "promotions/mlwo-1998/archive/torture-chamber-2-part-2-1997-11-01.html",
+    "note": "The commentators open Torture Chamber 2 by calling \"Fantasy\" Kevin Legend and \"Vegas Vengeance\" Victor Vance two members of Vanity Flare; Vance comes to the ring with his valet Veronica Vance, and the pair double-team Jim Mongol in the elimination tag match. The page names the pairing: \"You've got 2 members of the Vanity Flare tagging up against two men who were basically put together out of necessity\"."
+   }
+  ],
+  "caption": "A trio, valeted by Lovely Leslie Luv and Veronica Vance, beaten by the Legendary Alliance in the main event of the fed's only surviving card.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "unit_kind": "tag-team"
+ },
+ {
+  "id": "kotsc-vcw",
+  "type": "unit",
+  "name": "Knights of the Squared Circle",
+  "unit_kind": "stable",
+  "members": [
+   "sir-valiant-vcw",
+   "jack-mcmad-rspwf",
+   "wacko-vcw"
+  ],
+  "caption": "A stable led by Sir Valiant, whose members backed each other through New Year's Revolution's title matches.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "members": 3
+   }
+  },
+  "notes": "",
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "aom-vcw",
+  "type": "unit",
+  "name": "Angels of Mercy",
+  "unit_kind": "stable",
+  "members": [
+   "billy-the-kid-vcw",
+   "chris-west-vcw",
+   "ric-reno-vcw"
+  ],
+  "caption": "A stable whose membership turned over live on New Year's Revolution when a loser-leaves-the-group match sent Mack Magnum out and Ric Reno in.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "members": 3
+   }
+  },
+  "notes": "",
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "methodmen-vcw",
+  "type": "unit",
+  "name": "MethodMen",
+  "unit_kind": "stable",
+  "members": [
+   "tommy-travis-vcw",
+   "brian-alstin-vcw"
+  ],
+  "caption": "VCW Champion Tommy Travis's own stable, which lost a member to defection before he lost the title itself.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "members": 2
+   }
+  },
+  "notes": "",
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "gow-vcw",
+  "type": "unit",
+  "name": "Gods of War",
+  "unit_kind": "tag-team",
+  "members": [
+   "mars-vcw",
+   "ares-vcw"
+  ],
+  "caption": "A managed tag team who lost the VCW Tag Team Championship to Creature Feature at New Year's Revolution.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "members": 2
+   }
+  },
+  "notes": "",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (gods-of-war-iwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "gods-of-war-iwf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (gods-of-war-pwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "gods-of-war-pwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "creature-feature-vcw",
+  "type": "unit",
+  "name": "Creature Feature",
+  "unit_kind": "tag-team",
+  "members": [
+   "hp-lovecraft-vcw",
+   "fred-creature-feature-vcw"
+  ],
+  "caption": "A masked tag team who won the VCW Tag Team Championship at New Year's Revolution by posing as a mystery opponent who never showed.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "members": 2
+   }
+  },
+  "notes": "",
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "wild-knights-vcw",
+  "type": "unit",
+  "name": "The Wild Knights",
+  "unit_kind": "tag-team",
+  "members": [
+   "amanda-knight-vcw",
+   "fionna-obrien-vcw"
+  ],
+  "caption": "The defending tag team who lost the New Wave Women's Tag Team Championship at New Year's Revolution.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "members": 2
+   }
+  },
+  "notes": "",
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "brotherhood-vcw",
+  "type": "unit",
+  "name": "The Brotherhood",
+  "unit_kind": "stable",
+  "members": [
+   "mack-magnum-vcw",
+   "sam-adams-vcw",
+   "nick-carew-vcw"
+  ],
+  "caption": "A trio, managed by Sam Adams's brother, who won a six-man elimination match at VCW Pro.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "members": 3
+   }
+  },
+  "notes": "",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-brotherhood-nwa-entity-3); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-brotherhood-nwa-entity-3"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (brotherhood-war-1995); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "brotherhood-war-1995"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (brotherhood-wwa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "brotherhood-wwa"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "canadian-elite-vcw",
+  "type": "unit",
+  "name": "The Canadian Elite",
+  "unit_kind": "stable",
+  "members": [
+   "trevor-hextall-mwwa",
+   "bob-jablonski-mwwa",
+   "chris-west-vcw"
+  ],
+  "caption": "A hockey-themed trio defeated by the Brotherhood in a six-man elimination match at VCW Pro.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "members": 3
+   }
+  },
+  "notes": "",
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ },
+ {
+  "id": "wyld-stallions-vcw",
+  "type": "unit",
+  "name": "Wyld Stallions",
+  "unit_kind": "tag-team",
+  "members": [
+   "blaze-vcw",
+   "glory-vcw"
+  ],
+  "caption": "A tag team defeated by the Gods of War at VCW Pro after interference from Creature Feature.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "members": 2
+   }
+  },
+  "notes": "",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (wyld-stallions-fwf-1992); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "wyld-stallions-fwf-1992"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "vcw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Billed on the promotion's own cards."
+   }
+  ]
+ }
+]

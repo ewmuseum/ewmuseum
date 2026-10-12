@@ -1,0 +1,43 @@
+[
+  {
+    "id": "psychotic-youth-cew-central-florida-2000",
+    "type": "unit",
+    "name": "Psychotic Youth",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Vitor Jarmel",
+        "character_id": "vitor-jarmel-cew-central-florida-2000"
+      },
+      {
+        "name": "Chris Vlass",
+        "character_id": "chris-vlass-cew-central-florida-2000"
+      }
+    ],
+    "caption": "A tag team introduced in a home-video-styled vignette on the promotion's opening card, managed by Vanessa Right.",
+    "caption_asof": {
+      "written": "2026-09-21",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 1,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "cew-central-florida-2000",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2000-02-25",
+        "last_seen": "2000-02-25",
+        "source": "promotions/cew-central-florida-2000/rp/cew-central-florida-talkin-jive-2000-02-25.html"
+      }
+    ]
+  }
+]

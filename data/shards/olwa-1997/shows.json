@@ -1,0 +1,62 @@
+[
+ {
+  "id": "olwa97-witch-hunt-1997-11-15",
+  "type": "show",
+  "name": "Witch Hunt",
+  "promotion": "olwa-1997",
+  "date": {
+   "date": "1997-11-15",
+   "precision": "exact",
+   "source": "The recruitment post's own dateline, presenting these as sample matches from that card."
+  },
+  "page": "/promotions/olwa-1997/archive/witch-hunt-1997-11-15.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "bane-olwa-1997",
+    "kind": "match",
+    "capacity": "wrestler"
+   },
+   {
+    "who": "shawn-michaels-olwa-1997",
+    "kind": "match",
+    "capacity": "wrestler"
+   },
+   {
+    "who": "tim-tower-olwa-1997",
+    "kind": "match",
+    "capacity": "wrestler"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "bane-olwa-1997"
+     ],
+     [
+      "shawn-michaels-olwa-1997"
+     ]
+    ],
+    "winner_side": 1,
+    "how": "pinfall"
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "tim-tower-olwa-1997"
+     ],
+     [
+      "shawn-michaels-olwa-1997"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "ladder match, OLWA World Heavyweight Championship",
+    "how": "Michaels retrieved the title belt from atop the ladder"
+   }
+  ],
+  "notes": "Presented as two \"best matches\" samples inside a recruitment post, not a full card. The in-fiction authority figure \"President Beck\" is referenced but not separately structured."
+ }
+]

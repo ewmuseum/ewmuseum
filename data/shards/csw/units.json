@@ -1,0 +1,94 @@
+[
+  {
+    "id": "csw-kennel-killers",
+    "type": "unit",
+    "name": "Kennel Killers",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "csw",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "csw-world-tag-team-title.html's own numbered ledger (promotions/cwfpro/archive/csw-world-tag-team-title.html)",
+        "grade": "primary-source",
+        "note": "csw-world-tag-team-title.html's own \"Longest Reigning Champions\" table names the Kennel Killers as the belt's own LONGEST-reigning champions at 22 days — the only per-reign duration the whole CSW record preserves, for any of its four belts. No individual member of the team is named anywhere in the surviving record, on this ledger or on any bio page."
+      }
+    ],
+    "caption": "The CSW World Tag Team Champions for a record 22 days, the longest reign of any of the promotion's four titles, though no individual member is ever named in the surviving record.",
+    "caption_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "csw-pretty-boys",
+    "type": "unit",
+    "name": "Pretty Boys",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "csw",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "the acquiring CWF-Pro's own served CSW title-history ledgers and wrestler-bio pages (promotions/cwfpro/archive/, accession 0090) — cross-referenced, not re-served",
+        "grade": "primary-source",
+        "note": "Staged, never champions. csw-world-tag-team-title.html's own opening reign records the Raxton Brothers winning the belt \"in a battle royal by eliminating Pretty Boys to become the 1st CSW World Tag Team champions\" — the losing finalists of the CSW's own inaugural tag-title match. The Raxton Brothers' own served bio corroborates them as a standing opponent: \"They did alot of feuding with the UBH and the Pretty Boys.\" No members, no bio page, and no further CSW appearance survive."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Name-only collisions, none joined. (a) the-pretty-boys-ewa-email is a full-name match in an unrelated collection with no shared promotion, roster, operator or date range and no document naming both — a full-name match ALONE is insufficient (v104's identity-join test). (b) A \"Pretty Boys\" also appears TWICE more inside the acquiring fed's own corpus: on cwf-pro-world-tag-team-titles.html's own reign 9, where the Insyders \"defeats Pretty Boys to unify the DBWF World Tag Team Titles with the CWF-Pro Tag Team Titles,\" and in the Icon Miguel Sanchez's own bio, where he tags with Zamza against \"the Pretty Boys\" on a one-off SIW pay-per-view. Both of those are dated to other promotions (DBWF, SIW) years after the CSW's own inaugural battle royal, neither is minted anywhere in the registry, and no document connects any of the three to each other. Recorded, not resolved.",
+        "with": [
+          "the-pretty-boys-ewa-email"
+        ]
+      }
+    ],
+    "caption": "The team the Raxton Brothers threw out last to win the CSW's own first tag-team championship, and their standing opponents through the independent era — never champions themselves, and never named beyond the team.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  },
+  {
+    "id": "csw-tgs-zeke-and-deke",
+    "type": "unit",
+    "name": "TGS",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Zeke"
+      },
+      {
+        "name": "Deke"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "csw",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "the acquiring CWF-Pro's own served CSW title-history ledgers and wrestler-bio pages (promotions/cwfpro/archive/, accession 0090) — cross-referenced, not re-served",
+        "grade": "primary-source",
+        "note": "A CSW-era tag team of the first Ultimate Brother Hood, named with both members in three separate served bios and written out of the group on-screen in a fourth. Denny Battista's own bio lists the CSW's founding cast: \"He started there at the start of the CSW with Mercury, Sanchez, Tank, Prowler, Zamza, TGS (Zeke & Deke), Mr. Ravishing, Heartbreaker, etc...\" The Icon Miguel Sanchez's own bio puts them in the stable's first line-up: \"His 5 members where Jenny Love, Loose Cannon, Zamza, TGS: Zeke/Deke(tag team) Lord of Illusions and Mr. Ravishing.\" Legend's own bio agrees (\"The 1st UBH Run was with Sanchez, TGS(Zeke & Deke), Mr. Ravshing, Zamza & Lord of Illuison\"), and the Insyders' own bio stages their exit: \"Started out as a tag team for the UBH after Sanchez had the TGS beatin out of the gang.\" What \"TGS\" stands for is never expanded anywhere in the held record, and neither member has a bio page or any recorded singles appearance."
+      }
+    ],
+    "caption": "A tag team of the CSW's own first Ultimate Brother Hood, beaten out of the stable on-screen to make room for the Insyders — remembered by the initials, never by what they stood for.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 1
+      }
+    }
+  }
+]

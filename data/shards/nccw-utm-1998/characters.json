@@ -1,0 +1,706 @@
+[
+ {
+  "id": "mad-goat-nccw-utm-1998",
+  "type": "character",
+  "name": "The Mad Goat",
+  "caption": "A masked cruiserweight, accompanied by Mother Earth, who reached the finals of the promotion's own inaugural Heavyweight tournament before losing the vacant World Heavyweight Championship match.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A different, unrelated masked wrestler of the same name is separately recorded elsewhere in this registry, tagged to a different federation with no roster or date overlap; nothing links the two beyond the shared ring name.",
+    "with": [
+     "mad-goat-rspwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-02-23",
+    "role": "wrestler — Heavyweight tournament finalist",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "mother-earth-nccw-utm-1998",
+  "type": "character",
+  "name": "Mother Earth",
+  "caption": "The Mad Goat's own ringside valet, staged in a dress of leaves before a section of fans dressed for the part.",
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "role": "manager — accompanies The Mad Goat to ringside",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "zeus-sinclair-nccw-utm-1998",
+  "type": "character",
+  "name": "Zeus Sinclair",
+  "caption": "A high-energy cruiserweight who beat \"Lucky\" Lambert on the promotion's second card before losing to the Mad Goat and, later, the Crippler.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "max-maxwell-nccw-utm-1998",
+  "type": "character",
+  "name": "\"The Natural Wonder\" Max Maxwell",
+  "caption": "A fan-favorite powerhouse who won the promotion's own Heavyweight tournament to become its first-ever World Heavyweight Champion, and was still champion when the record breaks off.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "role": "wrestler — NCCW World Heavyweight Champion",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-cyber-slam-1998-02-23.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lucky-lambert-nccw-utm-1998",
+  "type": "character",
+  "name": "\"Lucky\" Lambert",
+  "aka": [
+   "\"Hard Luck\" Lambert"
+  ],
+  "caption": "A card-throwing gambler gimmick who lost every documented match, growing visibly darker across the run before turning on Max Maxwell alongside Essex in a failed World title ambush.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "note": "Billed as \"Lucky\" Lambert on the first two cards; re-billed \"Hard Luck\" Lambert by the pay-per-view after a losing streak, then revealed as an Essex ally at the following card.",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hill-billy-braddock-nccw-utm-1998",
+  "type": "character",
+  "name": "\"Hill Billy\" Braddock",
+  "caption": "A 300-pound backwoods brawler who wrestled with a whisky jug at ringside and lost all three of his documented matches.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-02-23",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "huey-armstrong-nccw-utm-1998",
+  "type": "character",
+  "name": "\"Cajun\" Huey Armstrong",
+  "caption": "A former collegiate wrestler who won the promotion's first Television Championship before losing it, along with a Southern Heritage title shot, in the fed's first double-title match.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "role": "wrestler — NCCW Television Champion",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-cyber-slam-1998-02-23.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "essex-nccw-utm-1998",
+  "type": "character",
+  "name": "Essex",
+  "caption": "A caned, British heel who lost the promotion's own first Southern Heritage title match, then allied with \"Lucky\" Lambert in a failed World title ambush.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A different, unrelated wrestler of the same name is separately recorded elsewhere in this registry, tagged to a different federation more than five years later with no roster or date overlap; nothing links the two beyond the shared ring name.",
+    "with": [
+     "essex-rspwf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lady-anne-nccw-utm-1998",
+  "type": "character",
+  "name": "Lady Anne",
+  "caption": "Essex's own ringside valet, entering under a British flag and interfering on his behalf.",
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-02-23",
+    "role": "manager — accompanies Essex to ringside",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "crippler-nccw-utm-1998",
+  "type": "character",
+  "name": "The Crippler",
+  "caption": "The promotion's own first Southern Heritage Champion, who lost the belt in his own pay-per-view double-duty night and later ran in to save Max Maxwell from an ambush.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The name \"Crippler\"/\"The Crippler\" is a common ring gimmick shared with several unrelated wrestlers elsewhere in this registry, none overlapping this promotion's own roster, dates or host; nothing links them beyond the shared name.",
+    "with": [
+     "crippler-iwf1296",
+     "crippler-pwa-pioneer",
+     "crippler-rawf",
+     "csw-crippler",
+     "euwc-the-crippler",
+     "the-crippler-bwf",
+     "the-crippler-cswa"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "role": "wrestler — first NCCW Southern Heritage Champion",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "bobby-durango-nccw-utm-1998",
+  "type": "character",
+  "name": "Bobby \"Bad Apple\" Durango",
+  "caption": "A late signing from New Zealand who won the Southern Heritage and Television Championships within two cards to become the promotion's first double champion, and is credited elsewhere as its second World Champion after the surviving record breaks off.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-23",
+    "last_seen": "1998-03-03",
+    "role": "wrestler — NCCW Southern Heritage and Television Champion",
+    "note": "A fellow Usenet participant's own signature line, dated 4 April 1998, separately credits him as NCCW World Champion; no NCCW-authored document of that title change survives.",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-cyber-slam-1998-02-23.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "enforcer-nccw-utm-1998",
+  "type": "character",
+  "name": "The Enforcer",
+  "caption": "An over-300-pound powerhouse, eliminated first from the promotion's own double-elimination three-way before winning both his pay-per-view and Monday-night rematches outright.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The name \"Enforcer\"/\"The Enforcer\" is a common ring gimmick shared with several unrelated wrestlers elsewhere in this registry, none overlapping this promotion's own roster, dates or host; nothing links them beyond the shared name.",
+    "with": [
+     "enforcer-ihwf",
+     "micheal-lennox-lcw-1997",
+     "the-enforcer-cswa",
+     "the-enforcer-wewf"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-19",
+    "last_seen": "1998-03-03",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-wednesday-night-rage-1998-02-19.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "dominator-nccw-utm-1998",
+  "type": "character",
+  "name": "The Dominator",
+  "caption": "A large, masked wrestler whose unexplained ringside interest in an Enforcer/Essex match went nowhere before he split a double elimination and then won a pay-per-view rematch.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The billed name \"the Dominator\" exactly matches an aka of an unrelated wrestler elsewhere in this registry, tagged to a different federation with no roster or date overlap and no shared masked identity; nothing links them beyond the shared ring name.",
+    "with": [
+     "victor-williams-lcw-mercury"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-19",
+    "last_seen": "1998-02-23",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-wednesday-night-rage-1998-02-19.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "mad-jester-nccw-utm-1998",
+  "type": "character",
+  "name": "The Mad Jester",
+  "caption": "A laughing, bell-capped big man split in a double elimination before losing his pay-per-view rematch with the Dominator and a later match with the Enforcer.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-02-19",
+    "last_seen": "1998-03-03",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-wednesday-night-rage-1998-02-19.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "shocker-nccw-utm-1998",
+  "type": "character",
+  "name": "Shocker",
+  "caption": "A rookie who debuted with a win over the Mad Goat, accompanied by valet Sarah Sapphire.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The bare ring name \"Shocker\" is shared with unrelated wrestlers elsewhere in this registry, none overlapping this promotion's own roster, dates or host; nothing links them beyond the shared name.",
+    "with": [
+     "shocker-4ww",
+     "shocker-fob"
+    ]
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-03-03",
+    "last_seen": "1998-03-03",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-monday-night-rage-1998-03-03.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "sarah-sapphire-nccw-utm-1998",
+  "type": "character",
+  "name": "Sarah Sapphire",
+  "caption": "Shocker's own ringside valet.",
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1998-03-03",
+    "last_seen": "1998-03-03",
+    "role": "manager — accompanies Shocker to ringside",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-monday-night-rage-1998-03-03.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hiro-akura-nccw-utm-1998",
+  "type": "character",
+  "name": "\"The Great\" Hiro Akura",
+  "caption": "A managed cruiserweight who lost his only documented match to Essex.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-03-03",
+    "last_seen": "1998-03-03",
+    "manager": "Mr. Manchi",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-monday-night-rage-1998-03-03.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "mr-manchi-nccw-utm-1998",
+  "type": "character",
+  "name": "Mr. Manchi",
+  "caption": "Hiro Akura's own manager, seen whispering instructions to his wrestler on the way to the ring.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1998-03-03",
+    "last_seen": "1998-03-03",
+    "role": "manager — accompanies Hiro Akura to ringside",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-monday-night-rage-1998-03-03.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "don-weis-nccw-utm-1998",
+  "type": "character",
+  "name": "Don Weis",
+  "caption": "The promotion's own recurring on-air referee across every documented card.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "morgan-penn-nccw-utm-1998",
+  "type": "character",
+  "name": "Morgan Penn",
+  "caption": "The promotion's own lead broadcast announcer across every documented card, in-fiction billed from Augusta, Maine.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "bobby-vaughn-nccw-utm-1998",
+  "type": "character",
+  "name": "Bobby \"Viper\" Vaughn",
+  "aka": [
+   "Bobby Vaugn"
+  ],
+  "caption": "The promotion's own color commentator, in-fiction billed as a five-time former World Heavyweight Champion from Austin, Texas.",
+  "tenures": [
+   {
+    "promotion": "nccw-utm-1998",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "1998-02-15",
+    "last_seen": "1998-03-03",
+    "note": "Billed in-fiction as a five-time former World Heavyweight Champion; no promotion of his own surname or that record survives in the held record.",
+    "source": "promotions/nccw-utm-1998/archive/nccw-utm-first-card-1998-02-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

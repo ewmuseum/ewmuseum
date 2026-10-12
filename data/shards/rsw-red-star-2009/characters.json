@@ -1,0 +1,133 @@
+[
+ {
+  "id": "micky-thunder-rsw-red-star-2009",
+  "type": "character",
+  "name": "Micky Thunder",
+  "caption": "The owner of Red Star Wrestling for six weeks of 2009: named owner by the Bizarre Ministry on 7 April and reported dead in the fed's own news on 21 May.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "rsw-red-star-2009",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2009-04-07",
+    "last_seen": "2009-05-21",
+    "source": "Its news of 7 April 2009 names him the new owner of Red Star Wrestling, chosen by the Bizarre Ministry; its news of 21 May 2009 says he has passed away."
+   }
+  ]
+ },
+ {
+  "id": "alex-coslov-rsw-red-star-2009",
+  "type": "character",
+  "name": "Alex Coslov",
+  "caption": "Met Bone Smasher for the RSW Championship and ownership of the fed in a Scaffold Ladder Match on 7 April 2009, after which the Bizarre Ministry vacated the title and fired him.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "rsw-red-star-2009",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2009-04-07",
+    "last_seen": "2009-04-07",
+    "source": "Its news of 7 April 2009: he faced Bone Smasher for the Red Star Wrestling Championship and 100% ownership in a Scaffold Ladder Match, and was then fired by the new owner."
+   }
+  ]
+ },
+ {
+  "id": "bone-smasher-rsw-red-star-2009",
+  "type": "character",
+  "name": "Bone Smasher",
+  "caption": "The challenger in the Scaffold Ladder Match for the RSW Championship and ownership of the fed, after fifteen shows of build-up.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "rsw-red-star-2009",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2009-04-07",
+    "last_seen": "2009-04-07",
+    "source": "Its news of 7 April 2009: he faced Alex Coslov for the Red Star Wrestling Championship and 100% of the company in a Scaffold Ladder Match after fifteen shows of build-up."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bone-smasher-chz",
+     "bone-smasher-faw"
+    ],
+    "note": "The same name stands on 2 other wing records. Nothing on this wing's pages ties this wrestler to any of them, so the rows stay apart until a source says it is one wrestler."
+   }
+  ]
+ },
+ {
+  "id": "thundercrism-rsw-red-star-2009",
+  "type": "character",
+  "name": "Thundercrism",
+  "caption": "One of the two leaders of the Bizarre Ministry, who named the fed's new owner on 7 April 2009.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "rsw-red-star-2009",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2009-04-07",
+    "last_seen": "2009-04-07",
+    "source": "Its news of 7 April 2009: named as one half of the Bizarre Ministry's leadership, who announced Micky Thunder as the buyer."
+   }
+  ]
+ }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "psycho-stud-newa",
+    "type": "character",
+    "name": "Psycho Stud",
+    "caption": "The fed's own World Heavyweight Champion through the newsletters' own attested run.",
+    "tenures": [ { "promotion": "newa", "roles": ["wrestler"], "first_seen": "1997-02-28", "last_seen": "1997-03-25", "source": "/promotions/newa/archive/newa-mat-wars-1997-02-28.html" } ],
+    "caption_asof": { "written": "2026-09-04", "author": "ai", "evidence": { "tenures": 1 } }
+  },
+  {
+    "id": "shotgun-sammy-cooper-newa",
+    "type": "character",
+    "name": "\"Shotgun\" Sammy Cooper",
+    "caption": "Wins the United States Championship from Mr. Irrestible, 22 March 1997.",
+    "tenures": [ { "promotion": "newa", "roles": ["wrestler"], "first_seen": "1997-03-16", "last_seen": "1997-03-22", "source": "/promotions/newa/archive/newa-mat-wars-1997-03-16.html" } ],
+    "caption_asof": { "written": "2026-09-04", "author": "ai", "evidence": { "tenures": 1 } }
+  },
+  {
+    "id": "mr-irrestible-newa",
+    "type": "character",
+    "name": "Mr. Irrestible",
+    "caption": "Loses the United States Championship to \"Shotgun\" Sammy Cooper, 22 March 1997.",
+    "tenures": [ { "promotion": "newa", "roles": ["wrestler"], "first_seen": "1997-03-16", "last_seen": "1997-03-22", "source": "/promotions/newa/archive/newa-mat-wars-1997-03-16.html" } ],
+    "caption_asof": { "written": "2026-09-04", "author": "ai", "evidence": { "tenures": 1 } }
+  }
+]

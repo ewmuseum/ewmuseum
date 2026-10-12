@@ -1,0 +1,498 @@
+[
+  {
+    "id": "rawf-world-jimi-sinister-2002",
+    "title": "rawf-world",
+    "label": "Jimi Sinister",
+    "holder": [
+      {
+        "id": "jimi-sinister-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-04-27",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/title-histories.html"
+    },
+    "lost": {
+      "date": "2002-07-14",
+      "precision": "exact"
+    },
+    "note": "Won date is the ledger's own entry; predates the served show corpus's own first held card (24 May 2002) — no served show evidences the win itself.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-world-brandy-sangria-2002",
+    "title": "rawf-world",
+    "label": "Brandy Sangria",
+    "holder": [
+      {
+        "id": "brandy-sangria-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-07-14",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/friday-fights-2002-07-14.html"
+    },
+    "lost": {
+      "date": "2002-10-30",
+      "precision": "exact"
+    },
+    "event": "rawf-friday-fights-2002-07-14",
+    "how": "Won a No DQ match against Jimi Sinister with a Shooting Star Press, the champion's second cover of the night after Jimi kicked out of a Heavy Metal Plex.",
+    "end_how": "vacated",
+    "note": "Vacated after the fed's own three-way elimination defense against Dameon and Captain Crush at Birthday Bash (30 Oct 2002) ended in a no-contest, per the fed's own previous-ppvs summary; the served show's own text (rawf-rawf-birthday-bash-2002-10-30.html) leaves the match's own final fall unresolved in what this pass could parse."
+  },
+  {
+    "id": "rawf-world-darksider-2002",
+    "title": "rawf-world",
+    "label": "Darksider",
+    "holder": [
+      {
+        "id": "darksider-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-11-27",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/november-nightmares-2002-11-27.html"
+    },
+    "event": "rawf-november-nightmares-2002-11-27",
+    "how": "Won a Death Cube, Two Out of Three Falls match against Matt Vandal for the title Brandy Sangria's own no-contest defense had left vacant.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "rawf-intercontinental-ice-cold-2002",
+    "title": "rawf-intercontinental",
+    "label": "Ice Cold",
+    "holder": [
+      {
+        "id": "ice-cold-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-03-01",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/title-histories.html"
+    },
+    "lost": {
+      "date": "2002-05-10",
+      "precision": "exact"
+    },
+    "note": "Won date is the ledger's own entry; predates the served show corpus's own first held card (24 May 2002).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-intercontinental-captain-crush-2002a",
+    "title": "rawf-intercontinental",
+    "label": "Captain Crush",
+    "holder": [
+      {
+        "id": "captain-crush-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-05-10",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/title-histories.html"
+    },
+    "lost": {
+      "date": "2002-05-31",
+      "precision": "exact"
+    },
+    "note": "Won date is the ledger's own entry, ten days before the served corpus opens; defended and retained in the held record's first card (rawf-friday-fights-2002-05-24.html, a No DQ fourway also including Dage, Mabus and Infected Youth).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-intercontinental-darksider-2002",
+    "title": "rawf-intercontinental",
+    "label": "Darksider",
+    "holder": [
+      {
+        "id": "darksider-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-05-31",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/friday-fights-2002-05-31.html"
+    },
+    "lost": {
+      "date": "2002-07-19",
+      "precision": "exact"
+    },
+    "event": "rawf-friday-fights-2002-05-31",
+    "how": "Won a title match against Captain Crush with a tombstone piledriver, after a false three-count broke on a Darksider rope-break.",
+    "end_how": "vacated",
+    "note": "The ledger records the title vacated 19 July 2002 without a Darksider defense in what this pass read; the same night's own served show stages Captain Crush and James Outlaw fighting to a double disqualification for the vacant belt, so the vacancy itself predates that match rather than resulting from it — an honest gap, not inferred."
+  },
+  {
+    "id": "rawf-intercontinental-captain-crush-2002b",
+    "title": "rawf-intercontinental",
+    "label": "Captain Crush",
+    "holder": [
+      {
+        "id": "captain-crush-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-07-26",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/friday-fights-2002-07-26.html"
+    },
+    "lost": {
+      "date": "2002-09-25",
+      "precision": "exact"
+    },
+    "event": "rawf-friday-fights-2002-07-26",
+    "how": "Won the vacant title in a steel cage match against James Outlaw, chokeslamming him twenty feet through the ring before escaping to the floor.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-intercontinental-james-outlaw-2002",
+    "title": "rawf-intercontinental",
+    "label": "James 'Outlaw' Richardson",
+    "holder": [
+      {
+        "id": "james-outlaw-richardson-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-09-25",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/wednesday-wargames-2002-09-25.html"
+    },
+    "lost": {
+      "date": "2002-11-27",
+      "precision": "exact"
+    },
+    "event": "rawf-wednesday-wargames-2002-09-25",
+    "how": "Pinned Captain Crush after a masked assailant (revealed at November Nightmares as David Laursen) chokeslammed Crush from behind.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-intercontinental-bone-crusher-2002",
+    "title": "rawf-intercontinental",
+    "label": "Bone Crusher",
+    "holder": [
+      {
+        "id": "bone-crusher-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-11-27",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/november-nightmares-2002-11-27.html"
+    },
+    "lost": {
+      "date": "2002-12-18",
+      "precision": "exact"
+    },
+    "event": "rawf-november-nightmares-2002-11-27",
+    "how": "Won a Last Man Standing match against James Outlaw with Captain Crush's outside assistance.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-intercontinental-spawn-2002",
+    "title": "rawf-intercontinental",
+    "label": "Spawn",
+    "holder": [
+      {
+        "id": "spawn-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-12-18",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/wednesday-wargames-2002-12-18.html"
+    },
+    "event": "rawf-wednesday-wargames-2002-12-18",
+    "how": "Won by Desolation (a lifting powerbomb) against 'The Heartbreaker' John Murphy, in Spawn's own second match in the fed — its own 3-Year Anniversary show.",
+    "end_how": "still-champion-at-record-end",
+    "note": "A tier-1 pass had filed this reign under rawf-world instead — the served show carries no World Title match at all that night. Corrected on this pass; see rawf-world's own titles.json notes."
+  },
+  {
+    "id": "rawf-hardcore-mr-showtime-2002",
+    "title": "rawf-hardcore",
+    "label": "Mr. Showtime",
+    "holder": [
+      {
+        "id": "mr-showtime-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-04-27",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/title-histories.html"
+    },
+    "lost": {
+      "date": "2002-07-19",
+      "precision": "exact"
+    },
+    "note": "Won date is the ledger's own entry, four weeks before the served corpus opens; defended and retained in the held record's first card (rawf-friday-fights-2002-05-24.html, a fourway also including Ice Cold, Styx and Leia Sheridan).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-hardcore-jyd-2002",
+    "title": "rawf-hardcore",
+    "label": "JYD Roman James",
+    "holder": [
+      {
+        "id": "jyd-roman-james-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-07-19",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/friday-fights-2002-07-19.html"
+    },
+    "lost": {
+      "date": "2002-09-25",
+      "precision": "exact"
+    },
+    "event": "rawf-friday-fights-2002-07-19",
+    "how": "Won the title from Mr. Showtime with a Dawgpound onto a steel chair.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-hardcore-jd-awesome-2002",
+    "title": "rawf-hardcore",
+    "label": "J.D. Awesome",
+    "holder": [
+      {
+        "id": "jd-awesome-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-09-25",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/wednesday-wargames-2002-09-25.html"
+    },
+    "lost": {
+      "date": "2002-10-09",
+      "precision": "exact"
+    },
+    "event": "rawf-wednesday-wargames-2002-09-25",
+    "how": "Rang JYD Roman James's own ring bell into his skull before an Awesomely Done off the top rope.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-hardcore-crippler-2002",
+    "title": "rawf-hardcore",
+    "label": "The Crippler",
+    "holder": [
+      {
+        "id": "crippler-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-10-09",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/wednesday-wargames-2002-10-09.html"
+    },
+    "lost": {
+      "date": "2002-11-27",
+      "precision": "exact"
+    },
+    "event": "rawf-wednesday-wargames-2002-10-09",
+    "how": "Won a Death Cube match against J.D. Awesome, pinning by submission-or-knockout rules after a low blow.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-hardcore-david-wilson-2002",
+    "title": "rawf-hardcore",
+    "label": "David Wilson",
+    "holder": [
+      {
+        "id": "david-wilson-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-11-27",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/november-nightmares-2002-11-27.html"
+    },
+    "event": "rawf-november-nightmares-2002-11-27",
+    "how": "Won a falls-count-anywhere brawl against The Crippler, the deciding fall a sledgehammer shot to the back.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "rawf-united-states-captain-crush-2002a",
+    "title": "rawf-united-states",
+    "label": "Captain Crush",
+    "holder": [
+      {
+        "id": "captain-crush-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-01-25",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/retired-titles.html"
+    },
+    "lost": {
+      "date": "2002-02-09",
+      "precision": "exact"
+    },
+    "note": "Won/lost dates are the ledger's own entries, entirely before the held record opens (24 May 2002).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-united-states-muff-2002",
+    "title": "rawf-united-states",
+    "label": "Muff",
+    "holder": [
+      {
+        "name": "Muff",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "2002-02-09",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/retired-titles.html"
+    },
+    "lost": {
+      "date": "2002-03-16",
+      "precision": "exact"
+    },
+    "note": "Won/lost dates are the ledger's own entries, entirely before the held record opens; Muff never appears in any served show's own text this pass read, so the holder stays unminted rather than filled in to complete the chain.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-united-states-andrew-rollins-2002",
+    "title": "rawf-united-states",
+    "label": "Andrew Rollins",
+    "holder": [
+      {
+        "name": "Andrew Rollins",
+        "unminted": true
+      }
+    ],
+    "won": {
+      "date": "2002-03-16",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/retired-titles.html"
+    },
+    "lost": {
+      "date": "2002-04-12",
+      "precision": "exact"
+    },
+    "note": "Won/lost dates are the ledger's own entries, entirely before the held record opens; Andrew Rollins never appears in any served show's own text this pass read, so the holder stays unminted rather than filled in to complete the chain.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-united-states-captain-crush-2002b",
+    "title": "rawf-united-states",
+    "label": "Captain Crush",
+    "holder": [
+      {
+        "id": "captain-crush-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-04-12",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/retired-titles.html"
+    },
+    "lost": {
+      "date": "2002-04-27",
+      "precision": "exact"
+    },
+    "note": "Won/lost dates are the ledger's own entries, entirely before the held record opens.",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-united-states-tommy-payne-2002",
+    "title": "rawf-united-states",
+    "label": "'The Real Deal' Tommy Payne",
+    "holder": [
+      {
+        "id": "tommy-payne-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-04-27",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/retired-titles.html"
+    },
+    "lost": {
+      "date": "2002-07-19",
+      "precision": "exact"
+    },
+    "end_how": "vacated",
+    "note": "Won date is the ledger's own entry, four weeks before the held record opens; defended and retained in both rawf-friday-fights-2002-05-24.html (Jimi Sinister & TRD vs. JYD & Mr. Showtime, tag titles, TRD carrying the US belt into the match) and rawf-friday-fights-2002-05-31.html (US Title vs. Trever Leiss, TRD retains by title-assisted chair shot)."
+  },
+  {
+    "id": "rawf-united-states-tony-rocky-horror-2002",
+    "title": "rawf-united-states",
+    "label": "Tony Rocky Horror",
+    "holder": [
+      {
+        "id": "tony-rocky-horror-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-07-26",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/retired-titles.html"
+    },
+    "lost": {
+      "date": "2002-09-11",
+      "precision": "exact"
+    },
+    "event": "rawf-friday-fights-2002-07-26",
+    "end_how": "vacated",
+    "note": "rawf-wednesday-wargames-2002-09-11.html likewise carries a US Title fourway between J.D."
+  },
+  {
+    "id": "rawf-tag-team-jyd-showtime-2002",
+    "title": "rawf-tag-team",
+    "label": "JYD Roman James & Mr. Showtime",
+    "holder": [
+      {
+        "id": "jyd-roman-james-rawf"
+      },
+      {
+        "id": "mr-showtime-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-05-03",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/retired-titles.html"
+    },
+    "lost": {
+      "date": "2002-07-14",
+      "precision": "exact"
+    },
+    "note": "Won date is the ledger's own entry, three weeks before the held record opens; defended and retained by disqualification in rawf-friday-fights-2002-05-24.html (Darksider interference against challengers Jimi Sinister & Tommy Payne) and again in rawf-friday-fights-2002-06-08.html (Hell in the Cell, defeating Captain Crush & Tommy Payne).",
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "rawf-tag-team-ice-cold-mandy-2002",
+    "title": "rawf-tag-team",
+    "label": "Ice Cold & Mandy",
+    "holder": [
+      {
+        "id": "ice-cold-rawf"
+      },
+      {
+        "id": "mandy-rawf"
+      }
+    ],
+    "won": {
+      "date": "2002-07-14",
+      "precision": "exact",
+      "source": "promotions/rawf/archive/friday-fights-2002-07-14.html"
+    },
+    "lost": {
+      "date": "2002-09-18",
+      "precision": "exact"
+    },
+    "event": "rawf-friday-fights-2002-07-14",
+    "how": "Ice Cold pinned Mr. Showtime after a double-team assist from Mandy, in a card thrown into chaos by a separate backstage angle.",
+    "end_how": "vacated",
+    "note": "An honest gap, not inferred."
+  }
+]

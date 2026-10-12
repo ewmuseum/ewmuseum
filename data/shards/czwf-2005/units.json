@@ -1,0 +1,81 @@
+[
+  {
+    "id": "the-hippies-czwf",
+    "type": "unit",
+    "name": "The Hippies",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "czwf-2005",
+        "role": "CZWF Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004",
+        "last_seen": "2004",
+        "source": "the fed's own served Champions page (promotions/czwf-2005/archive/champions.html), an undated snapshot naming The Hippies as reigning CZWF Tag Team Champions"
+      }
+    ],
+    "caption": "Named the reigning CZWF Tag Team Champions on the fed's own undated Champions page — the belt's own last-attested holders in the held record.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "No member roster survives in the held corpus. The name echoes HippieDude, an individual roster member who wrestled a singles match on Monday Night Adrenaline (11-21) — a plausible but unconfirmed connection, recorded here rather than asserted as membership."
+  },
+  {
+    "id": "the-chain-gang-czwf",
+    "type": "unit",
+    "name": "the Chain Gang",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "czwf-2005",
+        "role": "CZWF X Division Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2004",
+        "last_seen": "2004",
+        "source": "the fed's own served Champions page (promotions/czwf-2005/archive/champions.html), an undated snapshot naming the Chain Gang as reigning CZWF X Division Tag Team Champions"
+      }
+    ],
+    "caption": "Named the reigning CZWF X Division Tag Team Champions on the fed's own undated Champions page — the belt's own last-attested holders in the held record.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "No member roster survives in the held corpus. The name echoes John Cena's own real-world \"Chain Gang\" persona — Cena is the fed's own reigning X-Division Champion per this same Champions page — a plausible but unconfirmed connection, recorded here rather than asserted as membership.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "chain-cwf",
+          "mike-chain"
+        ],
+        "note": "\"Chain\" is a generic nickname/word; no evidence connects this fed's own tag team to either unrelated fed's own character."
+      }
+    ]
+  }
+]

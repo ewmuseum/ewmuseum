@@ -1,0 +1,104 @@
+[
+ {
+  "id": "lcw-evo-championship-r002",
+  "title": "lcw-evo-championship",
+  "label": "Duel",
+  "holder": [
+   {
+    "id": "duel-lcw-evo"
+   }
+  ],
+  "won": {
+   "date": "2001",
+   "precision": "year",
+   "source": "Dawning's own Match 6 video-package recap: \"cut to a shot of the closing moments of the Rook Black/Duel Evo Title match from Impulse 1.3, with Duel choking out the Texan to win the championship.\" Quoted verbatim and not resolved further — the source's own wording (\"Evo Title match\") is the only citation for this reign, kept exactly as written rather than silently normalized."
+  },
+  "lost": {
+   "date": "2002",
+   "precision": "year"
+  },
+  "how": "Choked Rook Black out at \"Impulse 1.3\" (a show this pass never located a separate document for). Lost the title before Dawning; the transition to Doctor David Chambers is undocumented in the surviving record and is left an honest gap rather than guessed.",
+  "end_how": "lost-in-match",
+  "note": "GAP: no document records how or when Chambers won the title from Duel."
+ },
+ {
+  "id": "lcw-evo-championship-r001",
+  "title": "lcw-evo-championship",
+  "label": "Rook Black",
+  "holder": [
+   {
+    "id": "rook-black-lcw-evo"
+   }
+  ],
+  "won": {
+   "date": "2001-10-21",
+   "precision": "exact",
+   "source": "The wing's own founding status box of 28 October 2001 (\"neo Title - Rook Black\"), read alongside its own 21 October 2001 opening post — no title change is recorded between the two."
+  },
+  "event": "lcw-evo-neo-opening-2001-10-21",
+  "lost": {
+   "date": "2001",
+   "precision": "year"
+  },
+  "how": "Still champion on the 13 December 2001 card, defending against Mike Static (result not captured). Lost the title to Duel afterward — see the following reign's own note.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "lcw-evo-championship-r003",
+  "title": "lcw-evo-championship",
+  "label": "Doctor David Chambers",
+  "holder": [
+   {
+    "id": "doctor-david-chambers-lcw-evo"
+   }
+  ],
+  "won": {
+   "date": "2002",
+   "precision": "year",
+   "source": "Already champion by Dawning; no won-date survives (see the prior reign's own GAP note)."
+  },
+  "how": "Retained over Brad Case (No Contest, Impulse 1.9) and Dean Wallace (submission, Dawning, 41:02); named Michael Gabrielle the #1 contender at the close of Impulse 2.1 — still champion when the surviving record ends.",
+  "event": "lcw-evo-dawning",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "lcw-evo-madhouse-r001",
+  "title": "lcw-evo-madhouse-championship",
+  "label": "Duel",
+  "holder": [
+   {
+    "id": "duel-lcw-evo"
+   }
+  ],
+  "won": {
+   "date": "2001-10-21",
+   "precision": "exact",
+   "source": "The wing's own founding status box of 28 October 2001 (\"Hardcore Title - Duel\"), read alongside the split itself (the belt renamed the day neo opened)."
+  },
+  "event": "lcw-evo-neo-opening-2001-10-21",
+  "lost": {
+   "date": "2002",
+   "precision": "year"
+  },
+  "how": "Defended against Gryfon on the wing's own first card (30 October 2001) and against Frank Heimdal on the 13 December 2001 card — both billed-only, no result captured, so retained by default rather than asserted. Lost the belt to Frank Heimdal in a cage match at Dawning (32:14), explicitly billed \"the second Madhouse Champion in Evo history,\" confirming this was the first reign.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "lcw-evo-madhouse-r002",
+  "title": "lcw-evo-madhouse-championship",
+  "label": "Frank Heimdal",
+  "holder": [
+   {
+    "id": "frank-heimdal-lcw-evo"
+   }
+  ],
+  "won": {
+   "date": "2002",
+   "precision": "year",
+   "source": "Dawning, Match 6, cage match, pinfall via a second Cranial Smoke; \"Winner and NEW Madhouse Champion: Frank Heimdal (Match Time: 32:14).\""
+  },
+  "event": "lcw-evo-dawning",
+  "how": "Still champion when the surviving record ends; a title defense against Gryfon (a ladder match) was previewed for the never-aired Impulse 2.2.",
+  "end_how": "still-champion-at-record-end"
+ }
+]

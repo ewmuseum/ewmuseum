@@ -1,0 +1,186 @@
+[
+ {
+  "id": "dwo-1996-havok",
+  "type": "unit",
+  "name": "Havok",
+  "unit_kind": "tag-team",
+  "membership_unknown": false,
+  "tenures": [
+   {
+    "promotion": "dwo-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12",
+    "last_seen": "1996-12",
+    "source": "Wins the DWO World Tag Team Championship from The Merchants of Chaos in a Corona street fight at Holiday Bash (24 Dec 1996).",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Mr. Pink and Guy Stone, who won the DWO World Tag Team Championship from The Merchants of Chaos in a bloody Corona street fight at Holiday Bash.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "note": "Namesake only; no shared operator, era or continuity with any of the other wings' individually-minted characters named Havok.",
+    "with": [
+     "cwfpro-havok",
+     "havok-eiwz",
+     "havok-iwa-icon",
+     "havok-pwf",
+     "havok-wwa"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "dwo-1996-mr-pink",
+    "name": "Mr. Pink"
+   },
+   {
+    "character_id": "dwo-1996-guy-stone",
+    "name": "Guy Stone"
+   }
+  ]
+ },
+ {
+  "id": "dwo-1996-merchants-of-chaos",
+  "type": "unit",
+  "name": "The Merchants of Chaos",
+  "unit_kind": "tag-team",
+  "membership_unknown": false,
+  "tenures": [
+   {
+    "promotion": "dwo-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12",
+    "last_seen": "1996-12",
+    "source": "Loses the DWO World Tag Team Championship to Havok in a Corona street fight at Holiday Bash (24 Dec 1996).",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "The Psychotic Clerk and The Cashier, the DWO World Tag Team Champions dethroned by Havok in a Corona street fight at Holiday Bash.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "character_id": "dwo-1996-the-cashier",
+    "name": "The Cashier"
+   },
+   {
+    "character_id": "dwo-1996-the-psychotic-clerk",
+    "name": "The Psychotic Clerk"
+   }
+  ]
+ },
+ {
+  "id": "dwo-1996-lethal-alliance",
+  "type": "unit",
+  "name": "The Lethal Alliance",
+  "unit_kind": "stable",
+  "membership_unknown": false,
+  "tenures": [
+   {
+    "promotion": "dwo-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-11",
+    "last_seen": "1996-12",
+    "source": "An outside stable, described in-broadcast as having 'more members than an Exodus'; Dark Vanity and Razi Mahmood are its only two members named in the held record.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "An outside stable whose named membership in the surviving record is limited to Dark Vanity and Razi Mahmood, its interference deciding both of the year's World Title matches.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "character_id": "dwo-1996-dark-vanity",
+    "name": "Dark Vanity"
+   },
+   {
+    "character_id": "dwo-1996-razi-mahmood",
+    "name": "\"Lethal Weapon\" Razi Mahmood"
+   }
+  ]
+ },
+ {
+  "id": "dwo-1996-sledge-and-harris",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Sledge and Harris",
+  "members": [
+   {
+    "character_id": "johnny-sledge-kawf",
+    "name": "Johnny Sledge"
+   },
+   {
+    "character_id": "dwo-1996-nevada-harris",
+    "name": "\"Rodeo\" Nevada Harris"
+   }
+  ],
+  "caption": "Teamed for the first time to win the DWO World Tag Team Championship in a ladder match at WrestleKade X, Sledge doing almost all of the work.",
+  "tenures": [
+   {
+    "promotion": "dwo-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-10",
+    "last_seen": "2004-10",
+    "source": "The Deadly Wrestling Organization's own WrestleKade X card, 31 October 2004.",
+    "grade": "primary-source",
+    "note": "Won the DWO World Tag Team Championship from The Riverhawks in a ladder match at WrestleKade X."
+   }
+  ]
+ },
+ {
+  "id": "dwo-1996-the-triad",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "The Triad",
+  "members": [
+   {
+    "character_id": "dwo-1996-jster",
+    "name": "J'ster"
+   },
+   {
+    "character_id": "dwo-1996-joshua-barnes",
+    "name": "Joshua Barnes"
+   }
+  ],
+  "caption": "A stable named on WrestleKade X's own broadcast, its members backing each other up in separate matches on the same card; only J'ster and Joshua Barnes are named as members in the surviving text.",
+  "tenures": [
+   {
+    "promotion": "dwo-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-10",
+    "last_seen": "2004-10",
+    "source": "The Deadly Wrestling Organization's own WrestleKade X card, 31 October 2004.",
+    "grade": "primary-source",
+    "note": "J'ster is called the stable's own \"Most Valuable Player\" while interfering in the Five Pillars match; Joshua Barnes is separately called \"J'ster's Triad partner\" while interfering in the Main Event."
+   }
+  ]
+ }
+]

@@ -1,0 +1,154 @@
+[
+ {
+  "id": "pccw-world-heavyweight-r001",
+  "title": "pccw-world-heavyweight",
+  "label": "Tony Marconi",
+  "holder": [
+   {
+    "id": "tony-marconi-pccw"
+   }
+  ],
+  "won": {
+   "date": "1997-10-16",
+   "precision": "exact",
+   "source": "Won from Shane Douglas at CaliQuake '97, 16 Oct 1997 (promotions/pccw/archive/caliquake-97-1997-10-16-part4.html)."
+  },
+  "lost": null,
+  "how": "Defeated Shane Douglas, who was written out of PCCW in the same segment.",
+  "event": "pccw-caliquake-97-part4",
+  "note": "Still champion at the close of the held record's 1997 holdings (Sunday Night for December 7).",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "pccw-world-television-r001",
+  "title": "pccw-world-television",
+  "label": "Ajax Shiva",
+  "holder": [
+   {
+    "id": "ajax-shiva-pccw"
+   }
+  ],
+  "won": {
+   "date": "1997-10-16",
+   "precision": "exact",
+   "source": "Won a four-way steel cage match at CaliQuake '97, 16 Oct 1997 (promotions/pccw/archive/caliquake-97-1997-10-16-part3.html)."
+  },
+  "lost": {
+   "date": "1997-12-07",
+   "precision": "exact",
+   "source": "Lost to Paul-Dog, 7 Dec 1997 (promotions/pccw/archive/pccw-sunday-night-1997-12-07-part3.html)."
+  },
+  "how": "Defeated Blade Dryden and two others in a four-way steel cage match.",
+  "event": "pccw-caliquake-97-part3",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "pccw-world-television-r002",
+  "title": "pccw-world-television",
+  "label": "Paul-Dog",
+  "holder": [
+   {
+    "id": "paul-dog-pccw"
+   }
+  ],
+  "won": {
+   "date": "1997-12-07",
+   "precision": "exact",
+   "source": "Won from Ajax Shiva, 7 Dec 1997 (promotions/pccw/archive/pccw-sunday-night-1997-12-07-part3.html)."
+  },
+  "lost": null,
+  "how": "Pinned Ajax Shiva after the Aerial Marauder tripped Shiva mid-move, robbing him of a third finisher.",
+  "event": "pccw-sunday-night-dec7-part3",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "pccw-world-tag-team-r001",
+  "title": "pccw-world-tag-team",
+  "label": "Pain & Suffering",
+  "holder": [
+   {
+    "id": "sabre-pccw"
+   },
+   {
+    "id": "sledge-hammer-pccw"
+   }
+  ],
+  "won": {
+   "date": "1997-10-16",
+   "precision": "exact",
+   "source": "Won from New Jack and John Kronus at CaliQuake '97, 16 Oct 1997 (promotions/pccw/archive/caliquake-97-1997-10-16-part3.html)."
+  },
+  "lost": null,
+  "how": "Sledge Hammer pinned Kronus after New Jack abandoned the match; Kronus was legitimately injured on the play.",
+  "event": "pccw-caliquake-97-part3",
+  "note": "Retained against the Yakuza's own Danger Zone Alliance rivals at Jersey Jams -- \"our first title defense ever.\"",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "pccw-world-six-man-tag-r001",
+  "title": "pccw-world-six-man-tag",
+  "label": "JUSTICE (Law, Order & the Machine)",
+  "holder": [
+   {
+    "id": "law-pccw"
+   },
+   {
+    "id": "order-pccw"
+   },
+   {
+    "id": "the-machine-pccw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Already champions entering this wing's own served corpus; how or when they won the title does not survive in the held record."
+  },
+  "lost": null,
+  "how": "",
+  "note": "Held throughout CaliQuake '97 and Jersey Jams; no challenge resolves within the held record.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "pccw-extreme-r001",
+  "title": "pccw-extreme",
+  "label": "The Aerial Marauder",
+  "holder": [
+   {
+    "id": "aerial-marauder-pccw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Already champion entering this wing's own served corpus; how or when he won the title does not survive in the held record."
+  },
+  "lost": null,
+  "how": "Retained against Raven at Jersey Jams, 30 Nov 1997, with a staged assist from World Heavyweight Champion Tony Marconi.",
+  "event": "pccw-jersey-jams-part1",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "pccw-world-light-heavyweight-r001",
+  "title": "pccw-world-light-heavyweight",
+  "label": "El Jobbo Grande",
+  "holder": [
+   {
+    "id": "el-jobbo-grande-pccw"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "At least two separate reigns are attested in this wing's own served corpus (an upset win over Al Snow, wrestling as 'Leif Cassidy,' and a later re-win over Sean Southward shortly before Jersey Jams); the held record does not support dating either precisely, recorded here as one representative reign."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed a 'former' champion again by Jersey Jams, 30 Nov 1997; how he lost the title does not survive."
+  },
+  "how": "",
+  "note": "See this title's own epitaph for the full attested sequence (Syxx -> Al Snow -> El Jobbo Grande -> Sean Southward -> El Jobbo Grande).",
+  "end_how": "lost-in-match"
+ }
+]

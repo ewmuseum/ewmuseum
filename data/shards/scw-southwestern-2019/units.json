@@ -1,0 +1,419 @@
+[
+ {
+  "id": "las-preguntas-scw-southwestern-2019",
+  "type": "unit",
+  "name": "Las Preguntas",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Duda"
+   },
+   {
+    "name": "Marca"
+   }
+  ],
+  "caption": "El Gringo Loco's own Cartel tag team, the SCW Lonestar Tag Team Champions from the federation's own first show until Davey-Boy O'Brien and Keegan took the belts from them at Showdown I.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019-06-18",
+    "last_seen": "2019-12-08",
+    "role": "tag team — SCW Lonestar Tag Team Champions",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own served showdown1.html, billing them at the bell as \"the SCW Lonestar Tag Team Champions... Duda y Marca... LAS PREGUNTAS!\", led to the ring by El Gringo Loco (unminted); and the federation's own Lonestar Tag Team Title History, served as /promotions/scw-southwestern-2019/archive/lonestartagtitlehistory.html, crediting them with the opening reign (won 18 June 2019, lost 8 December 2019).",
+    "note": "Not on the federation's own current roster.html, which reflects a later roster state; recovered entirely from the title history and the Showdown I broadcast. No individual wrestler-application page survives for either Duda or Marca, so neither carries a character_id. Their manager, El Gringo Loco, leader of the in-fiction stable \"the Cartel,\" recurs across nearly every held Rampage broadcast and the Showdown I broadcast but is outside the roster-mint scope for now."
+   }
+  ]
+ },
+ {
+  "id": "the-crusaders-scw-southwestern-2019",
+  "type": "unit",
+  "name": "The Crusaders",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Bishop"
+   },
+   {
+    "name": "Deacon"
+   }
+  ],
+  "caption": "Bishop and Deacon, a silent pair who took their orders from their manager Ezekiel Abraham as the word of God, reached SCW after its signing freeze lifted in December 2019.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "with": [
+     "the-crusaders-pcw"
+    ],
+    "note": "PCW's Crusaders (2002) were \"The Crimson\" Thinh Alexander and \"Night Shard\" Robert Yarney; SCW's own application names Bishop and Deacon, managed by Ezekiel Abraham. Only the team name is shared."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2020",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (tagapp009.html), its own news page of 12 December 2019 (newsrumors.html) and its own Rampage broadcasts of January 2020."
+   }
+  ]
+ },
+ {
+  "id": "american-revival-scw-southwestern-2019",
+  "type": "unit",
+  "name": "American Revival",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Colby Prince"
+   },
+   {
+    "name": "Ryan Paris"
+   }
+  ],
+  "caption": "Colby Prince and Ryan Paris, back from a year of touring the east coast, Europe and Japan, called out SCW for a tag title shot as American Revival.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (tagapp007.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "border-control-scw-southwestern-2019",
+  "type": "unit",
+  "name": "Border Control",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Agent Lincoln"
+   },
+   {
+    "name": "Agent Washington"
+   }
+  ],
+  "caption": "Agents Lincoln and Washington of Washington, DC, finished SCW opponents with the stereo lariats they called \"Welcome to America.\"",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (tagapp008.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "the-masked-brothers-scw-southwestern-2019",
+  "type": "unit",
+  "name": "The Masked Brothers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Masked Maniac"
+   },
+   {
+    "name": "Masked Wingman"
+   }
+  ],
+  "caption": "The Masked Maniac and the Masked Wingman, the Masked Bros, worked their way back up SCW's tag rankings while feuding with Sweaty Bling.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (tagapp005.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "prague-drinking-team-scw-southwestern-2019",
+  "type": "unit",
+  "name": "Prague Drinking Team",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Josef Skala"
+   },
+   {
+    "name": "Jan Bosko"
+   }
+  ],
+  "caption": "Josef Skala and Jan Bosko of Prague, the Prague Drinking Team, fought in SCW's opening four-way for the first Lonestar Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (openertagapp02.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "the-rich-family-scw-southwestern-2019",
+  "type": "unit",
+  "name": "The Rich Family",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Freddie Rich"
+   },
+   {
+    "name": "Todd Rich"
+   },
+   {
+    "name": "Declan Rich"
+   },
+   {
+    "name": "Donny Rich"
+   }
+  ],
+  "caption": "Four Dallas Riches, any two of them under Freebird rules, carried Texas's own wrestling legacy into SCW's tag division as the Rich Family.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (tagapp004.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "sweaty-bling-scw-southwestern-2019",
+  "type": "unit",
+  "name": "Sweaty Bling",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "The Pirate of Bling"
+   },
+   {
+    "name": "Tony Sweat"
+   }
+  ],
+  "caption": "The Pirate of Bling from Blackpool and Tony Sweat from Miami, Sweaty Bling came to Texas vowing to plunder every tag team for gold.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (tagapp002.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "trailer-park-assassinz-scw-southwestern-2019",
+  "type": "unit",
+  "name": "The Trailer Park Assassinz",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Brutalizer"
+   },
+   {
+    "name": "Destruktor"
+   }
+  ],
+  "caption": "Brutalizer and Destruktor of Pine Bluff, Arkansas, billed at a combined 200 pounds, were the Trailer Park Assassinz of SCW's undercard.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (tagapp006.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "nuff-said-scw-southwestern-2019",
+  "type": "unit",
+  "name": "'Nuff Said",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Kamikaze Keith"
+   },
+   {
+    "name": "Suicidal Steve"
+   }
+  ],
+  "caption": "Kamikaze Keith and Suicidal Steve of Niagara Falls, 'Nuff Said, wrestled Greco-Roman on SCW's first Rampage.",
+  "caption_asof": {
+   "written": "2026-09-27",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own Rampage broadcasts, first on 18 June 2019; its tag-team application page (jobbertagapp003.html) survives blank."
+   }
+  ]
+ }
+]

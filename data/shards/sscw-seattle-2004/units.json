@@ -1,0 +1,135 @@
+[
+ {
+  "id": "the-patriots-sscw-seattle-2004",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Patriots",
+  "caption": "A Stars and Stripes Championship Wrestling tag team booked in a dark match on the promotion's debut Saturday Night Survival announcement.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "sscw-seattle-2004",
+    "grade": "primary-source",
+    "first_seen": "2004-06",
+    "last_seen": "2004-06",
+    "source": "the promotion's own Saturday Night Survival card announcement, 23 June 2004"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Three other, unrelated federations each carry their own team of this same name; no operator, roster or story link between any of them and this one has been found.",
+    "with": [
+     "patriots-ewa",
+     "the-patriots-pwe-inc",
+     "the-patriots-tpg"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-musclebombers-sscw-seattle-2004",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Musclebombers",
+  "caption": "A Stars and Stripes Championship Wrestling tag team booked in a dark match on the promotion's debut Saturday Night Survival announcement.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "sscw-seattle-2004",
+    "grade": "primary-source",
+    "first_seen": "2004-06",
+    "last_seen": "2004-06",
+    "source": "the promotion's own Saturday Night Survival card announcement, 23 June 2004"
+   }
+  ]
+ },
+ {
+  "id": "top-notch-sscw-seattle-2004",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Top Notch",
+  "caption": "A tag team of Jarred Mathews and Chadd Mathews, managed by Sarah, who ran in on the debut United States Championship battle royale.",
+  "members": [
+   {
+    "id": "jarred-mathews-sscw-seattle-2004"
+   },
+   {
+    "id": "chadd-mathews-sscw-seattle-2004"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "sscw-seattle-2004",
+    "grade": "primary-source",
+    "first_seen": "2000-04",
+    "last_seen": "2000-05",
+    "source": "the promotion's own 2000 roster bulletins and cards, April-May 2000"
+   }
+  ]
+ },
+ {
+  "id": "el-ultimo-dos-sscw-seattle-2004",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "El Ultimo Dos",
+  "caption": "A tag team of \"El Guapo\" Carlos Gonzalez and Victor Cortez, ranked among the promotion's tag division by early May.",
+  "members": [
+   {
+    "id": "carlos-gonzalez-sscw-seattle-2004"
+   },
+   {
+    "id": "victor-cortez-sscw-seattle-2004"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "sscw-seattle-2004",
+    "grade": "primary-source",
+    "first_seen": "2000-04",
+    "last_seen": "2000-05",
+    "source": "the promotion's own 2000 roster bulletins and cards, April-May 2000"
+   }
+  ]
+ },
+ {
+  "id": "wild-billanos-sscw-seattle-2004",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Wild Billanos",
+  "caption": "A tag team announced as Top Notch's opponent for a card beyond this record's own window.",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "sscw-seattle-2004",
+    "grade": "primary-source",
+    "first_seen": "2000-05",
+    "last_seen": "2000-05",
+    "source": "the promotion's own News and Notes, Issue Five, 3 May 2000 (an upcoming-card announcement)"
+   }
+  ]
+ }
+]

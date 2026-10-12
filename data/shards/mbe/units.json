@@ -1,0 +1,53 @@
+[
+ {
+  "id": "sheffield-wednesday-lot-mbe",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "The Sheffield Wednesday Lot",
+  "members": [
+   {"id": "mac-forrest-mbe"},
+   {"id": "nate-macnally-mbe"},
+   {"id": "juen-lee-mbe"}
+  ],
+  "caption": "A trio of English football hooligans wrestling together in MBE under one banner, devoted to their club before anything else.",
+  "caption_asof": {"written": "2026-09-07", "author": "ai", "evidence": {"tenures": 1, "reigns": 0, "appearances": 1, "rps": 1, "awards": 0, "relationships": 0}},
+  "tenures": [
+   {
+    "promotion": "mbe",
+    "first_seen": "2007-07-20",
+    "last_seen": "2007-07-20",
+    "roles": ["wrestler"],
+    "source": "MBE's own Wrestling Chronicle recap of \"The New Neighbors Have a Hot Tub\" (20 July 2007), served this pass"
+   }
+  ]
+ },
+ {
+  "id": "thrillbillies-mbe",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Thrillbillies",
+  "members": [
+   {"id": "hoss-garrison-mbe"},
+   {"id": "jake-mccody-mbe"}
+  ],
+  "caption": "MBE's own tag team champions through its 2007 relaunch, a pair of South Carolina wrestlers who have never lost the belts.",
+  "caption_asof": {"written": "2026-09-07", "author": "ai", "evidence": {"tenures": 1, "reigns": 1, "appearances": 1, "rps": 1, "awards": 0, "relationships": 0}},
+  "tenures": [
+   {
+    "promotion": "mbe",
+    "first_seen": "2007-07-20",
+    "last_seen": "2007-07-20",
+    "roles": ["wrestler"],
+    "source": "MBE's own Wrestling Chronicle recap of \"The New Neighbors Have a Hot Tub\" (20 July 2007), served this pass"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": ["the-thrillbillies"],
+    "note": "A bare-name collision with a held redneck-duo tag team at a different federation, whose own members are recorded unnamed. No document read this pass connects the two, and the name is a common enough archetype pairing (\"Thrillbillies\") for independent reuse; filed distinct rather than merged."
+   }
+  ]
+ }
+]

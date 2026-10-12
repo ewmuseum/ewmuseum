@@ -1,0 +1,24 @@
+{
+ "_schema_version": 1,
+ "_comment": [
+  "THE COMMUNITY ASK (the Janitor, chat and desk D489, 2026-10-09; hook c216). The museum never asks for itself; when we lose one of our own, it may ask visitors to support the people they leave behind.",
+  "This ONE file holds the current ask. scripts/stamp-community-ask.mjs renders it at every build (npm run stats, inside the gate) into index.html, above the hero, and into the memorial page named by 'memorial', after its placard, and onto no other page.",
+  "TO END AN ASK: set 'active' to false, or set 'ask' to null. TO TIME IT: 'ends' is the last day shown (YYYY-MM-DD, inclusive), or null for no end date; past it the build drops the panel and js/theme.js hides it between builds. 'starts' (YYYY-MM-DD) is the first day shown.",
+  "TO CHANGE IT: edit 'lead' (shown in bold), 'text', 'link' and 'memorial' here, and give it a NEW 'id' (a visitor's dismissal is remembered per id, so a new id shows the new ask to everyone). The link must be a plain https address: no query string, no fragment, no tracking parameters. Name no family member in our own words.",
+  "The next gate (or npm run stats) puts any change on the pages; nothing else needs editing."
+ ],
+ "ask": {
+  "id": "jeff-ward-2026",
+  "active": true,
+  "starts": "2026-10-09",
+  "ends": null,
+  "lead": "A request from the museum.",
+  "text": "We will never ask you to support this site. But when we lose one of our own, we will ask you to support the people they leave behind. Jeff Ward wrote Angelo Deville for most of a decade, and was PTC's Wrestler of the Year for 2005. He died in June, aged 44. His family has a fundraiser; if his work meant something to you, or you just want to support one of our own, please consider giving.",
+  "link": {
+   "url": "https://www.gofundme.com/f/supporting-amanda-and-her-five-boys-after-the-loss-of-jeff",
+   "label": "Give to Jeff's family"
+  },
+  "memorial": "jeffrey-ward",
+  "memorial_label": "Jeff's memorial"
+ }
+}

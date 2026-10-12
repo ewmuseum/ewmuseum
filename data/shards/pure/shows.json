@@ -1,0 +1,3009 @@
+[
+ {
+  "id": "pure-gekito-4-2002-10",
+  "type": "show",
+  "name": "Gekito 4",
+  "promotion": "pure",
+  "collected": false,
+  "date": {
+   "date": "2002-10",
+   "precision": "month",
+   "source": "PURE's own newsdesk announced the card on 13 October 2002 and posted its live results on 18 October 2002; the show itself falls between the two, and the fed never dates it on any held page."
+  },
+  "evidence": [
+   {
+    "source": "/promotions/pure/archive/rumours.html",
+    "note": "The page's own sidebar carries two PURE news headlines for this show — “Gekito#4-Phreak vs. Jason Marah & Vilas Lavagna vs. Vito Wynn” (13 October 2002) and “Gekito 4 Live Results” (18 October 2002). Both linked documents are on the fed's own news page and neither is held; the headlines are all that survives."
+   }
+  ],
+  "notes": "By October 2002 PURE had renamed its show series from Ikusa to Gekito and turned over its roster; this is the only show of that second era the surviving record names, and the latest PURE content held anywhere."
+ },
+ {
+  "id": "pure-ikusa-2-2002-04-28",
+  "type": "show",
+  "name": "Ikusa II",
+  "promotion": "pure",
+  "date": {
+   "date": "2002-04-28",
+   "precision": "exact",
+   "source": "The fed's own show archive: “Matsumoto Stadium, in Nagano, Japan on Sunday the 28th of April”. 28 April 2002 was a Sunday."
+  },
+  "venue": "Matsumoto Stadium",
+  "city": "Nagano, Japan",
+  "evidence": [
+   {
+    "source": "/promotions/pure/archive/ikusa-archive.html",
+    "note": "PURE's own show archive lists this night by venue and date under the Ikusa logo, linking out to a results document on the Primetime newsdesk (viewnews1.cgi id 1021972249, posted 21 May 2002). The linked document is not held."
+   },
+   {
+    "source": "/promotions/pure/archive/news.html",
+    "note": "The fed's own news item of 2 May 2002, “Ikusa II Update”, reports that the telecast of “last week's” Ikusa II was delayed by technical faults and would be shown the following Sunday."
+   }
+  ],
+  "notes": "The fed's own show script survives in Argyle's donated deposit (newsdata board 22, posted 21 May 2002, the same viewnews1.cgi post id already cited). Five matches: a PURE Tag Team Title Tournament with three quarterfinals (Cege Hayabusa & Hiro Saotome vs. Team Okiki; Brian Simon & Steven Windsor vs. Masanobu Ozaki & Shirata Rinjiro; Inphino Blitz & Mang-A-Hero vs. Ali Khadaffi & Carl Kimbell), a tag match pitting owner Alexander Miyagawa & Ebola III against Billy Larkin & Dark Lotus (who are fired on air after losing), and a triple threat crowning PURE's first champion, the PURE Jr. Heavyweight Title (Kensuke Suzahara vs. The HIT vs. The End).",
+  "page": "/promotions/pure/archive/pure-ikusa-2-2002-04-28.html",
+  "collection": "0159",
+  "appearances": [
+   {
+    "who": "alexander-miyagawa",
+    "kind": "match"
+   },
+   {
+    "who": "ebola-iii",
+    "kind": "match"
+   },
+   {
+    "who": "billy-larkin",
+    "kind": "match"
+   },
+   {
+    "who": "dark-lotus-pure",
+    "kind": "match"
+   },
+   {
+    "who": "cege-hayabusa",
+    "kind": "match"
+   },
+   {
+    "who": "hiro-saotome",
+    "kind": "match"
+   },
+   {
+    "who": "sakato-nazaki",
+    "kind": "match"
+   },
+   {
+    "who": "taka-nazaki",
+    "kind": "match"
+   },
+   {
+    "who": "steven-windsor",
+    "kind": "match"
+   },
+   {
+    "who": "shirata-rinjiro",
+    "kind": "match"
+   },
+   {
+    "who": "ali-khadaffi",
+    "kind": "match"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "match"
+   },
+   {
+    "who": "carl-kimbell",
+    "kind": "match"
+   },
+   {
+    "who": "mang-a-hero",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "match"
+   },
+   {
+    "who": "the-hit",
+    "kind": "match"
+   },
+   {
+    "who": "kensuke-suzahara",
+    "kind": "match"
+   },
+   {
+    "who": "team-okiki",
+    "kind": "match"
+   },
+   {
+    "who": "masanobu-ozaki",
+    "kind": "match"
+   },
+   {
+    "who": "brian-simon",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "cege-hayabusa",
+      "hiro-saotome"
+     ],
+     [
+      "team-okiki",
+      "taka-nazaki",
+      "sakato-nazaki"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "PURE Tag Team Title Tournament",
+    "note": "Team Okiki's (Taka Nazaki & Sakato Nazaki) debut and first win, the tournament's first quarterfinal — Hiro Saotome taps to Taka's elevated crab as Sakato adds a top-rope moonsault to the hold."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "brian-simon",
+      "steven-windsor"
+     ],
+     [
+      "masanobu-ozaki",
+      "shirata-rinjiro"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE Tag Team Title Tournament",
+    "note": "Second quarterfinal. Simon and Windsor pin Shirata Rinjiro with a double Brainbuster."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "inphino-blitz",
+      "mang-a-hero"
+     ],
+     [
+      "ali-khadaffi",
+      "carl-kimbell"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE Tag Team Title Tournament",
+    "note": "Third quarterfinal. Mang-A-Hero pins Carl Kimbell with the Arimatage Assault into the Drunken Kool-Aid Mist; Ali Khadaffi and Kimbell keep attacking him after the bell until Jordan X Shabazz (PCW) runs in and the two sides are pulled apart."
+   },
+   {
+    "order": 6,
+    "sides": [
+     [
+      "alexander-miyagawa",
+      "ebola-iii"
+     ],
+     [
+      "billy-larkin",
+      "dark-lotus-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Ebola III pins Billy Larkin with the Terminal Velocity (shooting-star senton). Larkin and Dark Lotus are announced fired immediately after."
+   },
+   {
+    "order": 7,
+    "sides": [
+     [
+      "kensuke-suzahara"
+     ],
+     [
+      "the-hit"
+     ],
+     [
+      "the-end-pure"
+     ]
+    ],
+    "winner_side": 2,
+    "stipulation": "PURE Jr. Heavyweight Title",
+    "note": "Triple threat to crown PURE's first champion. Suzahara and The HIT briefly ally against The End before turning on each other; a masked man (revealed by owner Alexander Miyagawa as Cianan of CCW) pulls Suzahara from ringside, and The End makes The HIT tap to Never Again for the title. Miyagawa presents the belt to The End in the ring."
+   }
+  ]
+ },
+ {
+  "id": "pure-ikusa-2002-04-14",
+  "type": "show",
+  "name": "Ikusa",
+  "promotion": "pure",
+  "date": {
+   "date": "2002-04-14",
+   "precision": "exact",
+   "source": "The fed's own show archive: “Expo '70 Stadium, in Osaka, Japan on Sunday the 14th of April”. 14 April 2002 was a Sunday."
+  },
+  "venue": "Expo '70 Stadium",
+  "city": "Osaka, Japan",
+  "evidence": [
+   {
+    "source": "/promotions/pure/archive/ikusa-archive.html",
+    "note": "PURE's own show archive lists this night by venue and date under the Ikusa logo, linking out to a results document on the Primetime newsdesk (viewnews1.cgi id 1020598939, posted 5 May 2002). The linked document is not held."
+   },
+   {
+    "source": "/promotions/pure/archive/columns.html",
+    "note": "The fed's own columnist calls it “the first Ikusa” and “the debut of PURE”, and reports two things that happened on it: Kensuke Suzahara's heel turn and Ali Khadaffi's street-style attack on Inphino Blitz. The show's name is taken from those references; the archive index itself gives only venue and date."
+   }
+  ],
+  "notes": "PURE's first show. The fed's own show script survives in Argyle's donated deposit (newsdata board 22), posted as a “Classic PURE” rerun on 8 January 2003 — the night's own text never restates the year, but it is the same card the show archive already dated to 14 April 2002. Seven matches, all first-round bouts in the PURE Jr. Heavyweight Title tournament except the opening two undercard bouts and the Miyagawa/Suzahara main event.",
+  "page": "/promotions/pure/archive/pure-ikusa-2002-04-14.html",
+  "collection": "0159",
+  "appearances": [
+   {
+    "who": "masanobu-ozaki",
+    "kind": "match"
+   },
+   {
+    "who": "shirata-rinjiro",
+    "kind": "match"
+   },
+   {
+    "who": "carl-kimbell",
+    "kind": "match"
+   },
+   {
+    "who": "brian-simon",
+    "kind": "match"
+   },
+   {
+    "who": "steven-windsor",
+    "kind": "match"
+   },
+   {
+    "who": "billy-larkin",
+    "kind": "match"
+   },
+   {
+    "who": "ebola-iii",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "match"
+   },
+   {
+    "who": "the-hit",
+    "kind": "match"
+   },
+   {
+    "who": "cege-hayabusa",
+    "kind": "match"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "match"
+   },
+   {
+    "who": "dark-lotus-pure",
+    "kind": "match"
+   },
+   {
+    "who": "hiro-saotome",
+    "kind": "match"
+   },
+   {
+    "who": "jonathan-drachen",
+    "kind": "match"
+   },
+   {
+    "who": "charlie-loc",
+    "kind": "match"
+   },
+   {
+    "who": "alexander-miyagawa",
+    "kind": "match"
+   },
+   {
+    "who": "kensuke-suzahara",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "masanobu-ozaki"
+     ],
+     [
+      "shirata-rinjiro"
+     ]
+    ],
+    "winner_side": 1
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "carl-kimbell"
+     ],
+     [
+      "brian-simon"
+     ],
+     [
+      "steven-windsor"
+     ]
+    ],
+    "winner_side": 2,
+    "note": "Triple threat. Simon and Kimbell repeatedly cut each other's pin attempts off before Windsor reversed a Simon sunset flip for the fall."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "billy-larkin"
+     ],
+     [
+      "ebola-iii"
+     ],
+     [
+      "the-end-pure"
+     ]
+    ],
+    "winner_side": 2,
+    "stipulation": "PURE Jr. Heavyweight Title Tournament"
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "the-hit"
+     ],
+     [
+      "cege-hayabusa"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE Jr. Heavyweight Title Tournament",
+    "note": "The HIT wins with the Four Thirds Pi Times Radius Cubed."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "inphino-blitz"
+     ],
+     [
+      "dark-lotus-pure"
+     ],
+     [
+      "hiro-saotome"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Billed a “four corners match” though only three men are introduced."
+   },
+   {
+    "order": 6,
+    "sides": [
+     [
+      "jonathan-drachen"
+     ],
+     [
+      "charlie-loc"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "PURE Jr. Heavyweight Title Tournament"
+   },
+   {
+    "order": 7,
+    "sides": [
+     [
+      "alexander-miyagawa"
+     ],
+     [
+      "kensuke-suzahara"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "Main event. Suzahara is announced the winner and advances in the Jr. Heavyweight tournament; Miyagawa is shown loaded onto a stretcher afterward."
+   }
+  ]
+ },
+ {
+  "id": "pure-ikusa-3-2002-05",
+  "type": "show",
+  "name": "Ikusa III",
+  "promotion": "pure",
+  "date": {
+   "date": "2002-05-19",
+   "precision": "exact",
+   "source": "The fed's own show script (Argyle's donated deposit, newsdata board 22, posted 6 June 2002): “Komazawa Olympic Stadium, in Tokyo, Japan on Sunday the 19th of May.” 19 May 2002 was a Sunday. The script never names the show — the ordinal (“Ikusa III”) is carried over from the prior bracketing evidence, which places exactly one PURE show between Ikusa II (28 April) and Ikusa IV (4 June)."
+  },
+  "evidence": [
+   {
+    "source": "/promotions/pure/archive/news.html",
+    "note": "Four news items turn on this show: “Kintel To Attend Ikusa III” (13 May 2002), “Post Ikusa III Hirings and Firings” and “PPV Annouced 'Future Destinies'” (both 21 May 2002, the latter announcing the PPV “as annouced on Ikusa III”), and “Jesse Kintel Update” (22 May 2002), reporting the beating Ali Khadaffi gave the Reverend at it."
+   }
+  ],
+  "notes": "The fed's own show script survives in Argyle's donated deposit (newsdata board 22, posted 6 June 2002) and fixes the exact date and venue the prior evidence could only bracket to the month. Three matches are recorded: a fatal four-way for (implicitly) the Jr. Heavyweight ranks, an Asian Title Tournament bout whose own “last eliminated” line implies more entrants than are recorded here, and a tag bout. The Reverend Jesse Kintei beating referenced in the prior evidence (news of 22 May 2002) does not appear on the script as read; it may be a backstage segment outside the script's own action.",
+  "venue": "Komazawa Olympic Stadium",
+  "city": "Tokyo, Japan",
+  "appearances": [
+   {
+    "who": "yuka-hamada",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "match"
+   },
+   {
+    "who": "the-hit",
+    "kind": "match"
+   },
+   {
+    "who": "jordan-x-shabazz",
+    "kind": "match"
+   },
+   {
+    "who": "ali-khadaffi",
+    "kind": "match"
+   },
+   {
+    "who": "bloody-tiger",
+    "kind": "match"
+   },
+   {
+    "who": "mang-a-hero",
+    "kind": "match"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "match"
+   },
+   {
+    "who": "sakato-nazaki",
+    "kind": "match"
+   },
+   {
+    "who": "taka-nazaki",
+    "kind": "match"
+   },
+   {
+    "who": "cianan",
+    "kind": "match"
+   },
+   {
+    "who": "kensuke-suzahara",
+    "kind": "match"
+   },
+   {
+    "who": "carl-kimbell",
+    "kind": "match"
+   },
+   {
+    "who": "steven-windsor",
+    "kind": "match"
+   },
+   {
+    "who": "brian-simon",
+    "kind": "match"
+   },
+   {
+    "who": "alexander-miyagawa",
+    "kind": "match"
+   },
+   {
+    "who": "ebola-iii",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "yuka-hamada"
+     ],
+     [
+      "the-end-pure"
+     ],
+     [
+      "the-hit"
+     ],
+     [
+      "jordan-x-shabazz"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Fatal four-way. Yuka Hamada pins The HIT for the fall after Ali Khadaffi runs in and chairs Jordan X Shabazz behind the referee's back."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "ali-khadaffi"
+     ],
+     [
+      "bloody-tiger"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE Asian Title Tournament",
+    "note": "Hanza Kibagame calls Bloody Tiger “last eliminated,” implying an elimination-style bout with earlier entrants not recorded here; only the final fall (Khadaffi over Tiger) is given."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "mang-a-hero",
+      "inphino-blitz"
+     ],
+     [
+      "sakato-nazaki",
+      "taka-nazaki"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Team Okiki (Sakato & Taka Nazaki) interferes on its own bout but loses; Inphino Blitz pins Sakato Nazaki."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "cianan"
+     ],
+     [
+      "kensuke-suzahara"
+     ],
+     [
+      "carl-kimbell"
+     ]
+    ],
+    "winner_side": 2,
+    "method": "pinfall",
+    "note": "Billed as the revival of a CCW rivalry, Cianan against Kensuke Suzahara, with Masanobu Akazi also carded but fired earlier, leaving a three-way. Carl Kimbell had not appeared for the start; after Cianan powerbombed Suzahara onto the steel steps, Kimbell clotheslined Cianan to the floor, shook the referee awake and made the cover on the “Fallen Star”. Hanza: “Winner of this bout by pinfall....CARL KIMBELL!”"
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "steven-windsor",
+      "brian-simon"
+     ],
+     [
+      "alexander-miyagawa",
+      "ebola-iii"
+     ]
+    ],
+    "winner_side": 1,
+    "method": "submission",
+    "note": "A tournament bout: “now he and Ebola III advance in the tournament”. Alexander Miyagawa, tagged in, put Steven Windsor in the ‘Therapy’ and Windsor “quickly taps out as the ref signals for the bell”."
+   }
+  ],
+  "page": "/promotions/pure/archive/pure-ikusa-3-2002-05-19.html",
+  "collection": "0159"
+ },
+ {
+  "id": "pure-ikusa-4-2002-06-04",
+  "type": "show",
+  "name": "Ikusa IV",
+  "promotion": "pure",
+  "page": "/promotions/pure/archive/ikusa-4-card.html",
+  "collection": "0038",
+  "date": {
+   "date": "2002-06-04",
+   "precision": "exact",
+   "source": "The card's own header gives the day and month — “Sunday the 4th of June” — and no year. 2002 is fixed from both sides: the same page's own sidebar reaches no further than 22 May 2002, and the news post of 17 June 2002 releases six of the men carded here."
+  },
+  "venue": "Yamagata Park Stadium",
+  "city": "Tendo, Japan",
+  "appearances": [
+   {
+    "who": "bloody-tiger",
+    "kind": "match"
+   },
+   {
+    "who": "cege-hayabusa",
+    "kind": "match"
+   },
+   {
+    "who": "black-dragons-pure",
+    "kind": "match"
+   },
+   {
+    "who": "takumi-umeshita",
+    "kind": "match"
+   },
+   {
+    "who": "brian-simon",
+    "kind": "match"
+   },
+   {
+    "who": "ebola-iii",
+    "kind": "match"
+   },
+   {
+    "who": "bushido-pure",
+    "kind": "match"
+   },
+   {
+    "who": "ali-khadaffi",
+    "kind": "match"
+   },
+   {
+    "who": "the-hit",
+    "kind": "match"
+   },
+   {
+    "who": "carl-kimbell",
+    "kind": "match"
+   },
+   {
+    "who": "jordan-x-shabazz",
+    "kind": "match"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "match"
+   },
+   {
+    "who": "mang-a-hero",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "match"
+   },
+   {
+    "who": "yuka-hamada",
+    "kind": "match"
+   },
+   {
+    "who": "cianan",
+    "kind": "match"
+   },
+   {
+    "who": "jeremy-johnson-pcw",
+    "kind": "match"
+   },
+   {
+    "who": "alexander-miyagawa",
+    "kind": "match"
+   },
+   {
+    "who": "nang-yung-ho-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chiang-ho-nam-pure",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "bloody-tiger",
+      "cege-hayabusa"
+     ],
+     [
+      "black-dragons-pure",
+      "nang-yung-ho-pure",
+      "chiang-ho-nam-pure"
+     ]
+    ],
+    "note": "Billed “Bloody Tiger and Cege Hayabusa versus Two Members of the Black Dragons.” The results script names the two: “Nang Yung-ho and Chiang Ho Nam, THE BLACK DRAGONS!!!”, both making their PURE debuts, with Chen Lei-chia and Chan Tin Yeung in their corner. Cege Hayabusa had Chiang Ho Nam covered off the Cege Driller when Chan Tin Yeung broke the fall with a top-rope leg drop and all four Black Dragons came in; Chen Lei-chia gave Hayabusa a stalling snap brainbuster and Chan Tin Yeung a Swanton off the top (“DEATH FROM ABOVE”). The referee ruled it a no contest.",
+    "result": "no-contest"
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "takumi-umeshita"
+     ],
+     [
+      "brian-simon"
+     ]
+    ],
+    "result": "no-contest",
+    "note": "Billed as a shoot-style match. Takumi Umeshita walked out to the ring and attacked Brian Simon before the bell, beating him down with punches and knees, then knocked him out with a roundhouse kick to the jaw and left the ring without wrestling the match. The commentary: “This one’s been thrown out.”"
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "ebola-iii",
+      "bushido-pure"
+     ],
+     [
+      "black-dragons-pure"
+     ]
+    ],
+    "note": "Billed “Ebola III and Bushido versus the Other Two Members of the Black Dragons.” The results script (Argyle's donated deposit, board 22) rules this a no contest after Black Dragons members run in — twice.",
+    "result": "no-contest"
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "ali-khadaffi",
+      "the-hit",
+      "carl-kimbell"
+     ],
+     [
+      "jordan-x-shabazz",
+      "inphino-blitz",
+      "mang-a-hero"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Six Man Tag Match",
+    "note": "The fed's own results script announces the fall: “THE WINNERS OF THIS MATCH, MANG A HERO, JORDAN X SHABAZZ, AND INPHINO BLITZ!!!” Mang-A-Hero pinned Ali Khadaffi after a reverse swinging neckbreaker and a mist to the eyes the commentary calls the Armitage Assault and the Drunken Kool-Aid Mist at once, while Carl Kimbell and Jordan X Shabazz brawled on the outside."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "the-end-pure"
+     ],
+     [
+      "yuka-hamada"
+     ]
+    ],
+    "note": "For the Jnr. Heavyweight Title, The End defending. The results script: Carl Kimbell pulls Yuka Hamada out of the ring during The End's pin attempt, drawing a DQ call — Hanza Kibagame: “Winner by way of DQ, Yuka Hamada,” and The End keeps the Jnr. Heavyweight Title on the DQ.",
+    "winner_side": 1
+   },
+   {
+    "order": 6,
+    "sides": [
+     [
+      "cianan"
+     ],
+     [
+      "jeremy-johnson-pcw",
+      "alexander-miyagawa"
+     ]
+    ],
+    "stipulation": "Handicap Match",
+    "note": "Billed as the main event. The results script: Cianan submits Jeremy Johnson with a Double Underhook Powerbomb to Butterfly Lock; per a pre-match stipulation this returns Cianan to the Asian Title Tournament. Miyagawa, JJ's partner in the billed handicap match, takes no fall himself.",
+    "winner_side": 0
+   }
+  ],
+  "notes": "What the card alone shows is the announced billing, not a result: PURE's own card page lists six matches and no outcomes, and no results document for the night was previously held. Two things in the card disagree with each other and are recorded rather than resolved — the card says “Sunday the 4th of June”, but 4 June 2002 was a Tuesday, and the fed's own show archive dates its two earlier Ikusa cards to Sundays (14 and 28 April 2002). The six-man tag is the only card anywhere in the held record on which The H.I.T. is billed by name. A separate results script for this same night survives in Argyle's donated deposit (newsdata board 22, posted 17 June 2002), naming the same venue and the same (self-contradicting) “Sunday the 4th of June” date and giving outcomes for four of the six billed matches — served as its own document, /promotions/pure/archive/pure-ikusa-4-2002-06-04-results.html (the schema holds one `page` per show, and the originally-held card, collection 0038, is the fed's own pre-show billing rather than its results). The opening tag (Bloody Tiger & Cege Hayabusa vs. two Black Dragons) and the Umeshita/Simon singles are on the results script too but their finishes are not recorded here. The opening tag and the Umeshita/Simon singles both end without a decision: the tag is ruled a no contest when all four Black Dragons come in to break up Cege Hayabusa's own cover, and the singles is thrown out when Takumi Umeshita attacks Brian Simon before the bell and walks out."
+ },
+ {
+  "id": "pure-ikusa-tosu-2003-02-09",
+  "type": "show",
+  "name": "Ikusa",
+  "promotion": "pure",
+  "page": "/promotions/pure/archive/ikusa-tosu-2003-02-09.html",
+  "collection": "0159",
+  "date": {
+   "date": "2003-02-09",
+   "precision": "exact",
+   "source": "PURE's own show archive: “PURE Ikusa from Tosu Stadium in Tosu, Japan on February 9, 2003” (newsdata board 23, posted 19 January 2003). 9 February 2003 was a Sunday, matching the fed's own show-day pattern."
+  },
+  "venue": "Tosu Stadium",
+  "city": "Tosu, Japan",
+  "appearances": [
+   {
+    "who": "chase-herrera-pure",
+    "kind": "match",
+    "note": "Originally billed against Radiant for the PURE Jr. Heavyweight Championship; Isao Asai interrupted before the bell restarted and Chase never resumed the match."
+   },
+   {
+    "who": "radiant-pure",
+    "kind": "match"
+   },
+   {
+    "who": "isao-asai-pure",
+    "kind": "match"
+   },
+   {
+    "who": "hoshi-akagawa-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jason-marah",
+    "kind": "match"
+   },
+   {
+    "who": "kohana-pure",
+    "kind": "match"
+   },
+   {
+    "who": "nu-era-pure",
+    "kind": "match"
+   },
+   {
+    "who": "senji-yuvlav-pure",
+    "kind": "match"
+   },
+   {
+    "who": "s2-suicidal-stevenson-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chen-lei-chia-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chiing-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chiang-ho-nam-pure",
+    "kind": "match"
+   },
+   {
+    "who": "enmity-pure",
+    "kind": "match"
+   },
+   {
+    "who": "sinister-steven-lee-pure",
+    "kind": "match"
+   },
+   {
+    "who": "sushi-crew-pure",
+    "kind": "match"
+   },
+   {
+    "who": "eddie-mandrake-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jesse-ramey-pure",
+    "kind": "match"
+   },
+   {
+    "who": "raizo-tenzan-pure",
+    "kind": "match"
+   },
+   {
+    "who": "shaun-styles-pure",
+    "kind": "angle",
+    "note": "Named in commentary as absent from ringside (“not on the scene”) despite being a Trinity Tag Team co-champion."
+   },
+   {
+    "who": "jamar-wilson",
+    "kind": "angle"
+   },
+   {
+    "who": "mina-de-margo",
+    "kind": "angle"
+   },
+   {
+    "who": "vito-wynn",
+    "kind": "angle"
+   },
+   {
+    "who": "suburban-ninja-clan-pure",
+    "kind": "angle",
+    "note": "An unnamed masked member entered the Ikusa Royale and left without a clean elimination call; no individual member is a registered PURE entity."
+   }
+  ],
+  "notes": "Full show script served on its own page (evidence[] above). A card preview posted 28 July 2002 under a stale subject line naming the Budokan Hall show -- its own body text is this Tosu Stadium card instead -- is served on its own separate page, cross-referenced here rather than merged onto this show's page. Announcer-marked (“Hanza:”) confirms Radiant defeated Isao Asai (in a Moonsault Match substituted in after Isao Asai interrupted Radiant's originally billed defense against Chase Herrera) to retain the PURE Jr. Heavyweight Championship; Jason Marah won the inaugural “Ikusa Royale” battle royal, earning the first shot at the PURE World Heavyweight Championship after Final Destinies; the ten-man tag main event ended with no fall recorded -- Raizo Tenzan turned on his own team (Eddie Mandrake, then also Enmity), allying with the Black Dragons and Sinister Steven Lee in an angle, not a finish.",
+  "evidence": [
+   {
+    "source": "/promotions/pure/archive/ikusa-tosu-2003-02-09.html",
+    "note": "Results script (newsdata board 23, posted 19 January 2003)."
+   },
+   {
+    "source": "/promotions/pure/archive/pure-tamashii-tour-card-2002-07-28.html",
+    "note": "Card preview, posted under a stale subject line naming the Budokan Hall show; its own body previews this Tosu Stadium card instead (newsdata board 21, posted 28 July 2002)."
+   },
+   {
+    "source": "/promotions/pure/archive/ikusa-tosu-card-preview-2003-02-08.html",
+    "note": "The fed's own card preview for this show, posted before it (its page carries the Tosu Stadium card and the plan for the open-invite battle royal)."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "radiant-pure"
+     ],
+     [
+      "isao-asai-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Moonsault Match",
+    "note": "Billed as Radiant's PURE Jr. Heavyweight Championship defense against Chase Herrera; Isao Asai interrupted mid-match and had the bout restarted against himself instead, under Moonsault Match rules (the match ends only when either man lands a moonsault). Radiant hit a Quebrada, called a Moonsault on the broadcast, for the pin; Radiant retains."
+   },
+   {
+    "order": 2,
+    "participants": [
+     "hoshi-akagawa-pure",
+     "jason-marah",
+     "kohana-pure",
+     "nu-era-pure",
+     "senji-yuvlav-pure",
+     "s2-suicidal-stevenson-pure"
+    ],
+    "winner": "jason-marah",
+    "stipulation": "Ikusa Royale — PURE's first, a staggered-entry battle royal; the winner earns the first shot at the newly crowned PURE World Heavyweight Champion after Final Destinies.",
+    "eliminations": [
+     {
+      "who": "hoshi-akagawa-pure",
+      "by": "jason-marah"
+     },
+     {
+      "who": "Johnny Quinn",
+      "by": "jason-marah",
+      "note": "Nu Era entered as three (Johnny Quinn, Josh Quinn, Ric Blade); none has a registered PURE id of their own, only the unit's (name-only members, no character_id)."
+     },
+     {
+      "who": "Ric Blade",
+      "by": "senji-yuvlav-pure"
+     },
+     {
+      "who": "Josh Quinn",
+      "note": "Eliminated himself, diving over the top rope onto interfering Suburban Ninja Clan members on the floor."
+     },
+     {
+      "who": "kohana-pure",
+      "by": "senji-yuvlav-pure",
+      "note": "Both men went over the top together and were counted out together (mutual elimination)."
+     },
+     {
+      "who": "senji-yuvlav-pure",
+      "by": "kohana-pure",
+      "note": "Mutual elimination with Kohana, above."
+     },
+     {
+      "who": "s2-suicidal-stevenson-pure",
+      "by": "jason-marah"
+     }
+    ],
+    "note": "An unnamed masked Suburban Ninja Clan member also entered and left the ring without a clean elimination call on the broadcast; not a registered PURE entity, omitted from participants[] per the unminted-entrant convention."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "chen-lei-chia-pure",
+      "chiing-pure",
+      "chiang-ho-nam-pure",
+      "enmity-pure",
+      "sinister-steven-lee-pure"
+     ],
+     [
+      "sushi-crew-pure",
+      "eddie-mandrake-pure",
+      "jesse-ramey-pure",
+      "raizo-tenzan-pure"
+     ]
+    ],
+    "stipulation": "Ten-man tag team match, one fall",
+    "note": "No fall was recorded. Raizo Tenzan turned on his own team mid-match, attacking Eddie Mandrake and referee Taki Kuonji, then also Enmity once the Black Dragons and Sinister Steven Lee had helped clear the ring; the segment ends on that angle — Raizo Tenzan aligning with the Black Dragons and Sinister Steven Lee — with no bell or decision on the broadcast."
+   }
+  ]
+ },
+ {
+  "id": "pure-final-destinies-2003-03-02",
+  "type": "show",
+  "name": "Final Destinies",
+  "promotion": "pure",
+  "page": "/promotions/pure/archive/final-destinies-2003-03-02.html",
+  "collection": "0159",
+  "date": {
+   "date": "2003-03-02",
+   "precision": "exact",
+   "source": "PURE's own show archive: “PURE Final Destinies Tokyo Dome in Tokyo, Japan on March 2, 2003.” (newsdata board 23, posted 24 February 2003). 2 March 2003 was a Sunday. The Budokan Ikusa script (9 March 2003) independently calls it “PURE's first ever Pay-Per-View,” and the PURE World card preview (board 79) frames its own Hong Kong bouts as continuations of feuds “that went head to head at Final Destinies.”"
+  },
+  "venue": "Tokyo Dome",
+  "city": "Tokyo, Japan",
+  "appearances": [
+   {
+    "who": "jesse-ramey-pure",
+    "kind": "match"
+   },
+   {
+    "who": "eddie-mandrake-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jason-marah",
+    "kind": "match"
+   },
+   {
+    "who": "kohana-pure",
+    "kind": "match"
+   },
+   {
+    "who": "raizo-tenzan-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "unknown-soldiers-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "taji-sakabashi-pure",
+    "kind": "match"
+   },
+   {
+    "who": "sinister-steven-lee-pure",
+    "kind": "angle",
+    "note": "Billed by this show's own section header (‘’Sinister’ Steven Lee vs. Jesse Ramey’) for the PURE World Heavyweight Championship match; the match text that actually follows the header is Jesse Ramey vs. Eddie Mandrake -- Lee is shown only watching ringside, never in the ring. The header and the body disagree; recorded rather than resolved."
+   },
+   {
+    "who": "s2-suicidal-stevenson-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chase-herrera-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jackson-palms-jr-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "bladed-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "furinto-age-pure",
+    "kind": "match"
+   },
+   {
+    "who": "hoshi-akagawa-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "mang-a-hero",
+    "kind": "angle"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "angle"
+   },
+   {
+    "who": "nu-era-pure",
+    "kind": "match"
+   },
+   {
+    "who": "suburban-ninja-clan-pure",
+    "kind": "match"
+   },
+   {
+    "who": "sushi-crew-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "bushido-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "yuka-hamada",
+    "kind": "angle"
+   },
+   {
+    "who": "mina-de-margo",
+    "kind": "angle"
+   },
+   {
+    "who": "radiant-pure",
+    "kind": "match"
+   },
+   {
+    "who": "enmity-pure",
+    "kind": "match"
+   },
+   {
+    "who": "senji-yuvlav-pure",
+    "kind": "match"
+   },
+   {
+    "who": "isao-asai-pure",
+    "kind": "match"
+   },
+   {
+    "who": "hoshi-akagawa-pure",
+    "kind": "match"
+   },
+   {
+    "who": "the-american-males-pure",
+    "kind": "match"
+   }
+  ],
+  "notes": "PURE's own “first and only Pay Per View” (per the Budokan Ikusa script's own retrospective line, 9 March 2003). The largest served document in this deposit (230 KB of body text); all seven of its matches are structured below. Jesse Ramey won the inaugural PURE Heavyweight Championship here and Kohana won the PURE All-Asia Championship here (both independently corroborated by the Budokan Ikusa script's own commentary and post-match interview) -- see match order 7 and 4 below for the matches that produced them.",
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "chase-herrera-pure",
+      "taji-sakabashi-pure"
+     ],
+     [
+      "furinto-age-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Final Destinies' opening bout. Furinto Age's partner, billed ‘Toshiba Mitsubishi’, has no registered PURE entity, so Age's side stands alone. Taji Sakabashi's father Goro (also unminted) interfered with brass knuckles late; Age fought him off, but Chase Herrera pinned Age immediately after with a schoolboy rollup using the ropes for leverage."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "jason-marah"
+     ],
+     [
+      "s2-suicidal-stevenson-pure"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Grudge Match",
+    "note": "The show's own text states the result plainly: “Winner: Suicidal Stevenson by pinfall.”"
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "suburban-ninja-clan-pure"
+     ],
+     [
+      "nu-era-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "#1 contendership to the PURE Trinity Tag Team Titles",
+    "note": "Both sides stand alone: the SNC ninjas wrestle under numbers (#13, #19, #39) plus a trainer, ‘Ninja Dolemite’, none a registered PURE entity; Nu Era's own members (Johnny Quinn, Josh Quinn, Ric Blade/Montana) are name-only on the unit's own roster, with no character_id. #39 pinned Josh Quinn after Ninja Dolemite's interference (a cane shot behind the referee's back)."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "kohana-pure"
+     ],
+     [
+      "senji-yuvlav-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE All-Asia Championship",
+    "note": "Senji Yulav defending; Kohana won by submission (the Swift Kill, an STF) for the new championship."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "radiant-pure"
+     ],
+     [
+      "isao-asai-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE Jr. Heavyweight Championship, Explosion Deathmatch",
+    "note": "Radiant defending; pinned Isao Asai to retain. After the bell, Asai unmasked Radiant with a pair of scissors and wore the mask himself, mocking him in front of a watching, silent El Mesias (ringside as a guest, not a competitor on this match)."
+   },
+   {
+    "order": 6,
+    "sides": [
+     [
+      "eddie-mandrake-pure"
+     ],
+     [
+      "enmity-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "No DQ",
+    "note": "The show's own commentary frames this as a match “to see who will go on to fight Jesse Ramey OR ‘Sinister’ Steven Lee to become the first PURE World Heavyweight Champion.” Eddie Mandrake won with a Hangman's DDT onto a steel chair, leaving Enmity apparently badly hurt."
+   },
+   {
+    "order": 7,
+    "sides": [
+     [
+      "jesse-ramey-pure"
+     ],
+     [
+      "eddie-mandrake-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE World Heavyweight Championship (inaugural)",
+    "note": "This show's own section header reads ‘’Sinister’ Steven Lee vs. Jesse Ramey’, but the match text that follows is Jesse Ramey against Eddie Mandrake throughout, with Lee shown only watching ringside — the header and the body disagree, recorded per #sources-disagree rather than resolved. Ramey won by pinfall (a cradle) to become PURE's first World Heavyweight Champion; Mandrake wrestled twice on this card, losing the title match immediately after his own semifinal win over Enmity, above."
+   },
+   {
+    "order": 8,
+    "sides": [
+     [
+      "hoshi-akagawa-pure"
+     ],
+     [
+      "the-american-males-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Tag Match",
+    "method": "submission",
+    "note": "Billed as “the team of Hoshi Akagawa and Ninja #33” against “DaveSteve and SteveDave, The American Males”. Ninja #33 has no registered PURE entity and The American Males' roster was never recovered, so each side stands on its registered name alone. After Hoshi's Shining Elbow Drop Dave taps the mat “without even being in a submission”; Hanza: “your winners, by... submission? The team of Hoshi Akagawa and Ninja #33!”"
+   }
+  ]
+ },
+ {
+  "id": "pure-ikusa-budokan-2003-03-09",
+  "type": "show",
+  "name": "Ikusa",
+  "promotion": "pure",
+  "page": "/promotions/pure/archive/ikusa-budokan-2003-03-09.html",
+  "collection": "0159",
+  "date": {
+   "date": "2003-03-09",
+   "precision": "exact",
+   "source": "PURE's own show archive: “PURE Ikusa from Budokan Hall in Tokyo, Japan on March 9, 2003(Taped)” (newsdata board 23, posted 14 March 2003). 9 March 2003 was a Sunday. A card preview naming this same date and venue in its own subject line (newsdata board 21, posted 28 July 2002) carries different body content that matches the Tosu Stadium show instead, and is served on that show's own page."
+  },
+  "venue": "Budokan Hall",
+  "city": "Tokyo, Japan",
+  "appearances": [
+   {
+    "who": "chase-herrera-pure",
+    "kind": "match"
+   },
+   {
+    "who": "hoshi-akagawa-pure",
+    "kind": "match"
+   },
+   {
+    "who": "suburban-ninja-clan-pure",
+    "kind": "match"
+   },
+   {
+    "who": "shaun-styles-pure",
+    "kind": "match"
+   },
+   {
+    "who": "sushi-crew-pure",
+    "kind": "match"
+   },
+   {
+    "who": "raizo-tenzan-pure",
+    "kind": "match"
+   },
+   {
+    "who": "kohana-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jason-marah",
+    "kind": "match"
+   },
+   {
+    "who": "jesse-ramey-pure",
+    "kind": "match"
+   },
+   {
+    "who": "radiant-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jamar-wilson",
+    "kind": "angle"
+   },
+   {
+    "who": "mina-de-margo",
+    "kind": "angle"
+   },
+   {
+    "who": "unknown-soldiers-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "isao-asai-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "enmity-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "black-dragons-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "vito-wynn",
+    "kind": "angle"
+   },
+   {
+    "who": "yuka-hamada",
+    "kind": "angle"
+   },
+   {
+    "who": "hwao-kwan-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "itagaki-freeze-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "naoki-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "nu-era-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "justice-inc-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "luis-cesar-sangre-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "peter-perez-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "furinto-age-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "taji-sakabashi-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "bladed-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "chiang-ho-nam-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "derge-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "el-mesias-pure",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "chase-herrera-pure"
+     ],
+     [
+      "hoshi-akagawa-pure"
+     ]
+    ],
+    "winner_side": 0
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "suburban-ninja-clan-pure"
+     ],
+     [
+      "shaun-styles-pure",
+      "sushi-crew-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "For the PURE Trinity Tag Team Titles, Shaun Styles and the Sushi Crew defending; new champions Suburban Ninja Clan (billed “Ninja's 20, 22, and 23” — PURE never named which three, so the unit stands alone in its own side per the honest-absence convention)."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "raizo-tenzan-pure"
+     ],
+     [
+      "kohana-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "For the PURE All-Asia Championship, Kohana defending (having won it at Final Destinies one week earlier). Raizo Tenzan won by pinfall at 10:39, new champion."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "jason-marah"
+     ],
+     [
+      "jesse-ramey-pure"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "For the PURE Heavyweight Championship, Jesse Ramey defending; Ramey retained."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "radiant-pure"
+     ],
+     [
+      "el-mesias-pure"
+     ]
+    ],
+    "result": "draw",
+    "stipulation": "PURE Jr. Heavyweight Championship",
+    "method": "countout",
+    "note": "Radiant's Jr. Heavyweight Title defence against the newcomer El Mesias, scheduled for one fall. Hanza: “the referee has informed me that match is being stopped… due to a DOUBLE COUNT OUT! Therefore, this match is a draw!” Radiant keeps the title and shakes Mesias's hand."
+   }
+  ],
+  "notes": "The complete Ikusa show script from Budokan Hall, 9 March 2003 — all five of its matches are structured below. The fifth, for the PURE Jr. Heavyweight title (Radiant defending against a challenger billed “El Mesias”), ended in a double countout with Radiant retaining; “El Mesias” has no registered PURE entity, so the match's own sides carry only Radiant, per the unminted-entrant convention. Unlisted bout: PURE Jr. Heavyweight Championship Double countout against a challenger billed ‘El Mesias’, who has no registered PURE entity; Radiant retains."
+ },
+ {
+  "id": "pure-world-hong-kong-2003-03-19",
+  "type": "show",
+  "name": "PURE World: Hong Kong, China",
+  "promotion": "pure",
+  "page": "/promotions/pure/archive/pure-world-hong-kong-2003-03-19.html",
+  "collection": "0159",
+  "date": {
+   "date": "2003-03-19",
+   "precision": "exact",
+   "source": "The card preview (newsdata board 79, posted 15 March 2003): “PURE World Event #1 on Tuesday March 19”, live from Siu Sai Wan Stadium, Hong Kong. The results script (board 58, posted 23 March 2003) confirms the same card and venue. 19 March 2003 was in fact a Wednesday, not a Tuesday — the fed's own weekday claim and the calendar disagree, recorded rather than resolved (the same pattern as the held Ikusa IV record's own ‘Sunday the 4th of June’, which also wasn't one)."
+  },
+  "venue": "Siu Sai Wan Stadium",
+  "city": "Hong Kong, China",
+  "appearances": [
+   {
+    "who": "chase-herrera-pure",
+    "kind": "match"
+   },
+   {
+    "who": "julio-dervante-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jason-marah",
+    "kind": "match"
+   },
+   {
+    "who": "s2-suicidal-stevenson-pure",
+    "kind": "match"
+   },
+   {
+    "who": "kohana-pure",
+    "kind": "match"
+   },
+   {
+    "who": "senji-yuvlav-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jesse-ramey-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "jackson-palms-jr-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jamar-wilson",
+    "kind": "angle"
+   },
+   {
+    "who": "suburban-ninja-clan-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "raizo-tenzan-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "hoshi-akagawa-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "isao-asai-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "chiang-ho-nam-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "black-dragons-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "bushido-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "derge-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "enmity-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "hwao-kwan-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "angle"
+   },
+   {
+    "who": "itagaki-freeze-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "justice-inc-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "luis-cesar-sangre-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "mang-a-hero",
+    "kind": "angle"
+   },
+   {
+    "who": "nu-era-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "peter-perez-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "radiant-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "shaun-styles-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "sushi-crew-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "vito-wynn",
+    "kind": "angle"
+   },
+   {
+    "who": "ken-misawa-pure",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "chase-herrera-pure"
+     ],
+     [
+      "julio-dervante-pure"
+     ]
+    ],
+    "winner_side": 1
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "jason-marah",
+      "s2-suicidal-stevenson-pure"
+     ],
+     [
+      "kohana-pure",
+      "senji-yuvlav-pure"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "Billed a rekindling of two Final Destinies feuds. The card preview and results both spell the challenger ‘Senji Yulav’; his registered id carries the spelling ‘Senji Yuvlav’ — the same character, a spelling variant recorded rather than resolved."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "jackson-palms-jr-pure"
+     ],
+     [
+      "ken-misawa-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "MMA Rules, five-minute rounds",
+    "method": "stipulation",
+    "note": "Jackson Palms Jr.'s match against the newest PURE member Ken Misawa under MMA rules, with a five-minute round clock. It goes to the judges: “There was a split decision. Judge One chose Misawa, Judge Two chose Palms, and Finally Judge Three picks PALMS!” “WINNER: Jackson Palms”."
+   }
+  ],
+  "notes": "PURE: World's first event, staged on the tour's own Hong Kong swing. Its results script (evidence[] above) is served on its own page, with its own card preview (board 79, posted 15 March 2003) served and cross-referenced separately rather than merged onto this page. Two further bouts are recorded in prose, not `matches[]`: the main-event gauntlet, PURE World Champion Jesse Ramey against a field of PURE: World wrestlers -- the results script's own text breaks off as the ring introductions begin (\"the main event is about to proceed\"), with no bout text following it at all; and the Battle of the Nations tournament, announced here but not yet contested. Unlisted bout: MMA rules, five-minute rounds Jackson Palms Jr. won by split decision over a challenger billed ‘Ken Misawa’, who has no registered PURE entity.",
+  "evidence": [
+   {
+    "source": "/promotions/pure/archive/pure-world-hong-kong-2003-03-19.html",
+    "note": "Results script (newsdata board 58, posted 23 March 2003)."
+   },
+   {
+    "source": "/promotions/pure/archive/pure-world-hong-kong-card-2003-03-15.html",
+    "note": "Card preview (newsdata board 79, posted 15 March 2003)."
+   }
+  ]
+ },
+ {
+  "id": "pure-ikusa-5-2002-06-16",
+  "type": "show",
+  "name": "Ikusa V",
+  "promotion": "pure",
+  "page": "/promotions/pure/archive/pure-ikusa-5-2002-06-16.html",
+  "collection": "0159",
+  "date": {
+   "date": "2002-06-16",
+   "precision": "exact",
+   "source": "The fed's own show script (Argyle's donated deposit, newsdata board 22, posted 6 July 2002): “Sapporo Dome in Sapporo, Japan on Sunday the 16th of June” — the script's own opening line also names the show “Ikusa V” in the same sentence. 16 June 2002 was a Sunday."
+  },
+  "venue": "Sapporo Dome",
+  "city": "Sapporo, Japan",
+  "appearances": [
+   {
+    "who": "inphino-blitz",
+    "kind": "match"
+   },
+   {
+    "who": "mang-a-hero",
+    "kind": "match"
+   },
+   {
+    "who": "alexander-miyagawa",
+    "kind": "match"
+   },
+   {
+    "who": "ebola-iii",
+    "kind": "match"
+   },
+   {
+    "who": "black-dragons-pure",
+    "kind": "match",
+    "note": "wrestles the four-on-three handicap opener as a unit, and runs in again after the main event to attack the new Tag Team Champions"
+   },
+   {
+    "who": "nang-yung-ho-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chiang-ho-nam-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chen-lei-chia-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chan-tin-yeung-pure",
+    "kind": "match"
+   },
+   {
+    "who": "cege-hayabusa",
+    "kind": "match"
+   },
+   {
+    "who": "bloody-tiger",
+    "kind": "match"
+   },
+   {
+    "who": "bushido-pure",
+    "kind": "match"
+   },
+   {
+    "who": "ali-khadaffi",
+    "kind": "match"
+   },
+   {
+    "who": "yuka-hamada",
+    "kind": "match"
+   },
+   {
+    "who": "charlie-loc",
+    "kind": "match"
+   },
+   {
+    "who": "the-hit",
+    "kind": "match"
+   },
+   {
+    "who": "brian-simon",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "match"
+   },
+   {
+    "who": "cianan",
+    "kind": "match"
+   },
+   {
+    "who": "takumi-umeshita",
+    "kind": "match",
+    "note": "Charlie Loc's tag partner in the Jr. Heavyweight Title six-man; beats down Brian Simon in an extended assault mid-match"
+   },
+   {
+    "who": "carl-kimbell",
+    "kind": "match"
+   },
+   {
+    "who": "jordan-x-shabazz",
+    "kind": "match",
+    "note": "tagged in legally by The End during the Jr. Heavyweight Title six-man tag, wrestling Takumi Umeshita before tagging Simon back in"
+   },
+   {
+    "who": "mina-de-margo",
+    "kind": "angle",
+    "note": "at ringside with Inphino Blitz"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "black-dragons-pure",
+      "nang-yung-ho-pure",
+      "chiang-ho-nam-pure",
+      "chen-lei-chia-pure",
+      "chan-tin-yeung-pure"
+     ],
+     [
+      "cege-hayabusa",
+      "bloody-tiger",
+      "bushido-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Handicap Match",
+    "note": "Four against three, the fed's own opener. Chiang Ho Nam chokeslammed Bloody Tiger and pinned him. Afterwards all four Black Dragons kept on Bloody Tiger and Cege Hayabusa until Ebola III came over the barrier, and two stretchers were brought to ringside."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "ali-khadaffi"
+     ],
+     [
+      "yuka-hamada"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE Asian Title Tournament semi-final",
+    "note": "Ali Khadaffi beat Yuka Hamada with his own finisher, advancing in the Asian Title tournament; the beating carried on past the bell."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "charlie-loc",
+      "the-hit",
+      "takumi-umeshita"
+     ],
+     [
+      "brian-simon",
+      "the-end-pure",
+      "jordan-x-shabazz"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE Jr. Heavyweight Title",
+    "note": "The bout the fed put its own Jr. Heavyweight Title on, with The End defending; the script's own introduction is skipped because “that advertisement ran late and the wrestlers are already in the ring”. A six-man tag, not a two-on-two: Charlie Loc and The HIT started against Brian Simon, tagging in Takumi Umeshita; Simon tagged The End, who diving-tagged in Jordan X Shabazz, who wrestled Umeshita legally before tagging Simon back in. Ali Khadaffi ran in with a chair on Shabazz; Inphino Blitz ran in and took Khadaffi out with a springboard 360 Swanton to the outside; Loc and The HIT then hit The End with a double powerbomb into a blue thunder facecrusher the commentary calls the Double Neurotica, Loc cutting off Blitz's save, and The HIT covered for the three. Hanza Kibagame, with the belt: “Winner…and NEW PURE JUNIOR HEAVYWEIGHT CHAMPION…THE HARDCORE ISOSCELES TRAPEZOID!!!” Backstage The End blames the loss of the belt on Blitz's presence at ringside rather than on Loc, HIT, or Umeshita."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "cianan"
+     ],
+     [
+      "carl-kimbell"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE Asian Title Tournament",
+    "note": "Cianan knocked Carl Kimbell out with the Cianan Slash Kick early, then fought off Alexander Miyagawa, who came out to save the match and locked in the Therapy until Mang-A-Hero ran in; Cianan covered Kimbell for the three with Fade to Black. Miyagawa then booked Cianan against Ali Khadaffi and Jordan X Shabazz for the Asian Title with himself as special guest referee."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "inphino-blitz",
+      "mang-a-hero"
+     ],
+     [
+      "alexander-miyagawa",
+      "ebola-iii"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "PURE Tag Team Title",
+    "note": "Mang-A-Hero pins Alexander Miyagawa with a diving headbutt/leg-hold combination for the fall; Inphino Blitz and Mang-A-Hero are announced as the new PURE Tag Team Champions. The Black Dragons run in immediately afterward."
+   }
+  ],
+  "notes": "The fed's own show script survives in Argyle's donated deposit (newsdata board 22). Five bouts: a four-on-three handicap opener won by the Black Dragons, an Asian Title tournament semi-final, the PURE Jr. Heavyweight Title change, a second Asian Title tournament bout, and the main event that crowned the first PURE Tag Team Champions, ending the tournament the opener of Ikusa II began. The Jr. Heavyweight Title changed hands here: The HIT beat The End, with Charlie Loc as his partner, and was announced by the fed's own ring announcer as the new champion — a reign the fed's own later paperwork does not carry, and the first primary-source corroboration of the PURE Jr. Heavyweight Championship claimed on The H.I.T.'s own PCW bio card. Inphino Blitz wrestles the main event and is also at ringside for the title bout; his own appearance is recorded once. The undercard's own Asian Title tournament bouts are recorded with the tournament named as their stipulation, since no belt was on the line in either."
+ },
+ {
+  "id": "pure-v2-ikusa-1-2002-08",
+  "type": "show",
+  "name": "PURE v2.0 Ikusa 1",
+  "promotion": "pure",
+  "date": {
+   "date": "2002-08",
+   "precision": "month",
+   "source": "Posted 27 Aug 2002 (newsdata board 22, row 9). Its own predecessor, Gekito 1 (board 22 row 7, posted 7 Oct 2002), states on its own 14 Aug 2002 broadcast that PURE was ‘warming up for the big Ikusa from Ikusa Hall’, i.e. still ahead of it — bounding this show to after 14 Aug 2002 and on or before its own 27 Aug 2002 posting. One slot on the fed's own boards is known to have been rewritten in place with its stored date left untouched (board 23 row 3, whose body is the January 2003 Axcess), so a posting date on this site is an upper bound only where the slot was not reused; board 22's own Ikusa rows run in sequence with no sign of reuse, which is what this bound rests on."
+  },
+  "venue": "Ikusa Hall",
+  "city": "Osaka",
+  "page": "/promotions/pure/archive/pure-v2-ikusa-1-2002-08.html",
+  "collection": "0159",
+  "appearances": [
+   {
+    "who": "enmity-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jason-arawn-pure",
+    "kind": "match"
+   },
+   {
+    "who": "deacon-pure",
+    "kind": "match"
+   },
+   {
+    "who": "the-fight-club-pure",
+    "kind": "match"
+   },
+   {
+    "who": "andrew-maclellan-pure",
+    "kind": "match"
+   },
+   {
+    "who": "paul-mcmunson-pure",
+    "kind": "match"
+   },
+   {
+    "who": "michael-hakiashu-pure",
+    "kind": "match"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "match"
+   },
+   {
+    "who": "ali-khadaffi",
+    "kind": "angle"
+   },
+   {
+    "who": "sean-williams-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "jamar-wilson",
+    "kind": "angle"
+   },
+   {
+    "who": "charlie-loc",
+    "kind": "angle"
+   },
+   {
+    "who": "ming-pcw",
+    "kind": "match"
+   },
+   {
+    "who": "rayve-leeuws-pure",
+    "kind": "match"
+   },
+   {
+    "who": "christopher-kanox-pure",
+    "kind": "match"
+   },
+   {
+    "who": "siena-pure",
+    "kind": "match"
+   },
+   {
+    "who": "tim-walden-pcw",
+    "kind": "match"
+   },
+   {
+    "who": "gina-muniz-pure",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "enmity-pure",
+      "jason-arawn-pure",
+      "deacon-pure"
+     ],
+     [
+      "the-fight-club-pure",
+      "andrew-maclellan-pure",
+      "paul-mcmunson-pure",
+      "michael-hakiashu-pure"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "Six-man tag. Paul McMunson, a former bareknuckle boxer, batters Deacon unconscious; the referee stops the bout and Fight Club is awarded the win by technical knockout."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "inphino-blitz"
+     ],
+     [
+      "the-end-pure"
+     ]
+    ],
+    "note": "Main event, billed as a battle for pride and honor. As Blitz sets up a top-rope Swanton, Ali Khadaffi runs in from the crowd — revealed as Jamar Wilson's surprise re-signing — shoving Blitz down, beating both men, and chairing Blitz unconscious; the bell rings to stop the mayhem with no winner declared."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "ming-pcw"
+     ],
+     [
+      "rayve-leeuws-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Cage Match",
+    "method": "stipulation",
+    "note": "A first-round bout of the Ultimate Junior Tournament, changed to a cage match (“Ming vs. the Dark Poet”; the Dark Poet is Rayve Leeuws), won only by climbing out or walking through the door. Ming hit the Dragon Cutter, then “walks over to the door and steps out onto the floor to end the match”; the ring announcer: “The winner of this match...MIIIING!!”"
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "christopher-kanox-pure"
+     ],
+     [
+      "siena-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Pink Slip Match",
+    "method": "pinfall",
+    "note": "Jamar Wilson and Melina Gotabody make the Kanox/Siena bout a “Pink Slip” match. Christopher Kanox, limping on a bad right leg, finishes Siena with a 360 Senton Backsplash and a pin: “THE WINNER: CHRISTOPHER KANOX!” Enmity attacks Kanox afterwards, and Siena is escorted out of the building."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "tim-walden-pcw"
+     ],
+     [
+      "gina-muniz-pure"
+     ]
+    ],
+    "winner_side": 1,
+    "method": "pinfall",
+    "note": "An Ultimate Juniorheavyweight Tourney match. Jamar Wilson tries to make it a “Bra & Panties” match; Sean Williams overrules him over the PURE-Vision screen and it is wrestled as a regular match. Gina Muniz hooks Tim Walden's arms and rolls him over for the three count."
+   }
+  ],
+  "notes": "The relaunch's own first numbered show under a new 'PURE v2.0' banner, posted to the same board (22) that carried the original numbered Ikusa I–V run. Reuses the 'Ikusa' name from 1 at a new venue (Ikusa Hall, Osaka, replacing the original run's rotating stadiums) (a distinct second show brand, sharing the numbering and name of the already-held Ikusa I–V run at a different venue). Owner Sean Williams (sean-williams-pure, a ROSTER-wave id — PURE's own roster card for its president, staged as a wrestler under his own name) opens the show and is drawn into a corporate-control feud with new 20%-owner/network rep Jamar Wilson over 'puroresu' vs. 'sports entertainment'; Charlie Loc (the reigning PURE Jr. Heavyweight champion here, per his limo entrance) and Enmity (the reigning Gekito Cup holder) are both established without wrestling on this card. An undercard bout, Christopher Kanox vs. Siena (later a stipulation 'Pink Slip' match per Jamar and Melina Gotabody's backstage plotting), is billed and staged at length but neither man resolves to a registered id; not structured here."
+ },
+ {
+  "id": "pure-v2-ikusa-2-2002",
+  "type": "show",
+  "name": "PURE v2.0 Ikusa 2",
+  "promotion": "pure",
+  "date": {
+   "date": "2002",
+   "precision": "year",
+   "source": "Posted 10 Sep 2002 (newsdata board 22, row 8), an upper bound only — Gekito 1's own two-month gap between its 14 Aug 2002 broadcast and its 7 Oct 2002 posting shows this deposit's posting dates are not a reliable proxy for broadcast dates, so no tighter bound than 2002 is asserted. Internally, this show's own text promises a rematch 'next week on Ikusa 3', and Ikusa 3's own text recalls 'last week's Ikusa' ladder match — the two shows are one week apart, whichever week that was. The v2.0 Ikusa run reaches a fourth episode in October 2002: PURE's own Axcess replays the PURE Jr. Heavyweight Title change “DJ Nygma vs. Jung Loc (c)” and announces it as PURE v2.0 Ikusa 4. That places this show on or before October 2002 and no closer, so the year grade stands."
+  },
+  "venue": "Ikusa Hall",
+  "city": "Osaka",
+  "page": "/promotions/pure/archive/pure-v2-ikusa-2-2002.html",
+  "collection": "0159",
+  "appearances": [
+   {
+    "who": "sean-williams-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "angle"
+   },
+   {
+    "who": "jamar-wilson",
+    "kind": "angle"
+   },
+   {
+    "who": "ali-khadaffi",
+    "kind": "angle"
+   },
+   {
+    "who": "darkstar-pcw",
+    "kind": "angle"
+   },
+   {
+    "who": "jason-arawn-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "joey-flash",
+    "kind": "angle"
+   },
+   {
+    "who": "mang-a-hero",
+    "kind": "angle"
+   },
+   {
+    "who": "melina-gotabody",
+    "kind": "angle"
+   },
+   {
+    "who": "cianan",
+    "kind": "match"
+   },
+   {
+    "who": "charlie-loc",
+    "kind": "angle"
+   },
+   {
+    "who": "zander-mccain-pure",
+    "kind": "match"
+   },
+   {
+    "who": "tim-walden-pcw",
+    "kind": "match"
+   },
+   {
+    "who": "quick-fix-keith-winston-pure",
+    "kind": "match"
+   },
+   {
+    "who": "darkstar-pcw",
+    "kind": "match"
+   },
+   {
+    "who": "jason-arawn-pure",
+    "kind": "match"
+   },
+   {
+    "who": "enmity-pure",
+    "kind": "match"
+   },
+   {
+    "who": "deacon-pure",
+    "kind": "match"
+   },
+   {
+    "who": "ali-khadaffi",
+    "kind": "match"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "match"
+   },
+   {
+    "who": "charlie-loc",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "zander-mccain-pure"
+     ],
+     [
+      "tim-walden-pcw"
+     ]
+    ],
+    "result": "double-pin",
+    "stipulation": "No DQ",
+    "method": "pinfall",
+    "note": "A first-round match of the Ultimate Junior Heavyweight Tournament, billed Zander McCain against Kyle Lamen; Lamen missed his flight and Tim Walden replaced him. Both men swung chairs into each other's faces at once and fell together; the referee counted “1....2....3!!” and ruled it “a double pin”, so both McCain and Walden advance."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "cianan"
+     ],
+     [
+      "quick-fix-keith-winston-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "William’s Choice",
+    "method": "pinfall",
+    "note": "The ring announcer: “The following match is a William’s Choice! He has opted for this to be a singles match.” Quick Fix Keith Winston's powerbomb is reversed into a hurricanrana and Cianan keeps hold of the legs: “1...2...3!!!” Announcer: “Your winner...CIANANNN!” Siena, fired the week before, then rushes the ring and attacks Winston."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "darkstar-pcw"
+     ],
+     [
+      "jason-arawn-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Ladder Match",
+    "method": "stipulation",
+    "note": "A ladder match in which the wrestlers themselves ring the bell. When both men are hurt, Darkstar “throws the ladder up into the bell, ringing it loudly across the arena”; the referee accepts it. An earlier bell ring was ruled inconclusive (“the match shall continue until there is an indisputable winner”). Hitomi Asami: Darkstar “won the night and remains a guest of PURE in the Ultimate Junior tournament.”"
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "enmity-pure"
+     ],
+     [
+      "deacon-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Gekito Cup",
+    "method": "submission",
+    "note": "For the Gekito Cup, Enmity the champion against the challenger Deacon. Enmity drops Deacon with a Downward Spiral and locks the Crossface; Deacon taps. Ring announcer: “Here is your winner, and STILL Gekito Cup Champion...ENMITY!!!” Enmity refuses to break the hold after the bell."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "ali-khadaffi",
+      "inphino-blitz"
+     ],
+     [
+      "charlie-loc",
+      "the-end-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "method": "pinfall",
+    "note": "Announced as Ali Khadaffi and Inphino Blitz against Jung Loc (Charlie Loc) and The End; the corners reshuffle during the match (Ali stands with Loc, The End with Blitz). After a run-in by Pharaoh from the crowd, Blitz drops Ali with the Shadow Dragon Driver, finishes Loc with the Black Dragon Smasher and pins him: “ONE…TWO…THREE!!!!” Hanza: “WINNNERS….INPHINO BLITZ AND ALI KHADAFFI!!!”"
+   }
+  ],
+  "notes": "Heavy on backstage plotting rather than settled in-ring finishes: Sean Williams (owner) swears The End and Inphino Blitz to a pact against Jamar Wilson ahead of a billed tag main event pitting Ali Khadaffi & Blitz against The End & Jung Loc — the PURE Jr. Heavyweight champion Charlie Loc, whom the fed bills “Jung Loc” on air and names “Jung ‘Charlie’ Loc” on its own Axcess broadcast; he speaks in the show's own cold open and is billed for the main event, and the bout's own finish is not traced here; Darkstar vs. Jason Arawn is billed for later in the show; Joey Flash is granted a Ladder Match against Darkstar 'next week' (paid off on Ikusa v2.0 3, see that show's own Darkstar-vs-Joey-Flash row); Cianan wrestles 'Quick Fix' Keith Winston (Winston unminted) in a stipulation billed as 'William's Choice'. None of these bouts' own finishes are traced here; left open for a later read rather than guessed. Sean Williams again appears only in an authority-figure capacity, not as a competitor, on this show."
+ },
+ {
+  "id": "pure-v2-ikusa-3-2002",
+  "type": "show",
+  "name": "PURE v2.0 Ikusa 3",
+  "promotion": "pure",
+  "date": {
+   "date": "2002",
+   "precision": "year",
+   "source": "Posted 13 Oct 2002 (newsdata board 22, row 4), an upper bound only (see PURE v2.0 Ikusa 2's own date source for why this deposit's posting lag is unreliable as a proxy). Internally fixed one week after PURE v2.0 Ikusa 2 by two cross-references (Ikusa 2 promises this show 'next week'; this show's own text recalls 'last week's Ikusa' ladder match) and preceded by Gekito 3, whose own sign-off says 'catch Ikusa 3 this Monday'. The v2.0 Ikusa run reaches a fourth episode in October 2002: PURE's own Axcess replays the PURE Jr. Heavyweight Title change “DJ Nygma vs. Jung Loc (c)” and announces it as PURE v2.0 Ikusa 4. That places this show on or before October 2002 and no closer, so the year grade stands."
+  },
+  "venue": "Ikusa Hall",
+  "city": "Osaka",
+  "page": "/promotions/pure/archive/pure-v2-ikusa-3-2002.html",
+  "collection": "0159",
+  "appearances": [
+   {
+    "who": "darkstar-pcw",
+    "kind": "match"
+   },
+   {
+    "who": "joey-flash",
+    "kind": "match"
+   },
+   {
+    "who": "gina-muniz-pure",
+    "kind": "match"
+   },
+   {
+    "who": "deacon-pure",
+    "kind": "match"
+   },
+   {
+    "who": "the-hit",
+    "kind": "match"
+   },
+   {
+    "who": "enmity-pure",
+    "kind": "match"
+   },
+   {
+    "who": "pharaoh-pcw",
+    "kind": "match"
+   },
+   {
+    "who": "sean-williams-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "jamar-wilson",
+    "kind": "angle"
+   },
+   {
+    "who": "kensuke-suzahara",
+    "kind": "angle"
+   },
+   {
+    "who": "charlie-loc",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "angle",
+    "note": "speaks in the show's own cold-open voiceover and is confronted backstage by Charlie Loc over a threatening letter"
+   },
+   {
+    "who": "vito-wynn",
+    "kind": "match"
+   },
+   {
+    "who": "agent-x-pure",
+    "kind": "match"
+   },
+   {
+    "who": "aaron-moore-pure",
+    "kind": "match"
+   },
+   {
+    "who": "phreak-pure",
+    "kind": "match"
+   },
+   {
+    "who": "carl-cash-pcw",
+    "kind": "match"
+   },
+   {
+    "who": "jay-cash-pure",
+    "kind": "match"
+   },
+   {
+    "who": "adrian-kaid-pure",
+    "kind": "match"
+   },
+   {
+    "who": "scottywood-ngw",
+    "kind": "match"
+   },
+   {
+    "who": "aj-palmer-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jason-arawn-pure",
+    "kind": "match"
+   },
+   {
+    "who": "el-romantico-pure",
+    "kind": "match"
+   },
+   {
+    "who": "faithful-youth-pure",
+    "kind": "match"
+   },
+   {
+    "who": "s2-suicidal-stevenson-pure",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "darkstar-pcw"
+     ],
+     [
+      "joey-flash"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Ladder Match",
+    "note": "Joey Flash, wrestling on an injured back, holds Darkstar aloft for a stalling suplex off the ladder but collapses under the strain — both men fall, and Darkstar lands on top for the pin."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "gina-muniz-pure"
+     ],
+     [
+      "deacon-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Best of Three Falls",
+    "note": "Gina Muniz wins two falls to one (Gina takes the first with the Falling Angel, Deacon the second with Hell's Spiral, Gina the third off a rollup)."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "the-hit"
+     ],
+     [
+      "enmity-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "The HIT's own PURE v2.0 debut in Ikusa Hall, wrestling masked. Enmity, the reigning Gekito Cup champion, nearly upsets him (both men kick out of their own finishers, Enmity hits a second brainbuster) before The HIT wins at 13:35 with a second Parallel Bases II (a pumphandle driver)."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "pharaoh-pcw"
+     ],
+     [
+      "charlie-loc"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Billed by the fed as “the PURE debuting Pharaoh and Jung Loc — two men from PCW”, Charlie Loc announced from Tokyo via Saigon at 207 lbs representing TokyoPop. Loc was climbing for the Leing Sei when a security guard came down the aisle waving a letter at him; he dropped off the ropes to read it and never saw the Pharaoh's roll-up from behind."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "vito-wynn",
+      "agent-x-pure",
+      "aaron-moore-pure",
+      "phreak-pure"
+     ],
+     [
+      "carl-cash-pcw",
+      "jay-cash-pure",
+      "adrian-kaid-pure",
+      "scottywood-ngw",
+      "aj-palmer-pure"
+     ]
+    ],
+    "stipulation": "Survivor Series Match",
+    "note": "“Survivor Series rules” between ten of PURE's newest stars (the commentators call them “these former N-Dubbers”), two teams of four and five as the ring announcer introduces them. A.J. Palmer and Adrian Kaid are eliminated; then Fight Club members Michael Hakiashu and Paul McMunson, with Andrew Maclellan on the microphone, break in, attack both teams and double-Michinoku-Driver the Phreak. Maclellan announces “YOUR WINNERS BY TKO, THE FIGHT CLUUUB!!”; the card rules no winner among the ten."
+   },
+   {
+    "order": 6,
+    "sides": [
+     [
+      "jason-arawn-pure",
+      "el-romantico-pure"
+     ],
+     [
+      "faithful-youth-pure",
+      "s2-suicidal-stevenson-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "method": "pinfall",
+    "note": "Jason Arawn and “DJ Enygma” (El Romantico, wrestling masked) against The Faithful Youth and Suicidal Stevenson (S2). With S2's rear naked chokehold on Enygma and the referee's arm falling twice, Enygma accidentally punches referee Kaneda Kasuko, fights back with a Whirling Impact DDT and pins S2: “Winners…Jason Arawn and DJ Enygma!!”"
+   }
+  ],
+  "notes": "The Pharaoh (PCW) defeats Jung Loc — Charlie Loc, whom the fed bills “Jung Loc” on air and names “Jung ‘Charlie’ Loc” on its own Axcess broadcast — with a rollup. Loc also speaks in the show's own cold open and confronts The End backstage over a threatening letter, telling him “I win my PURE Junior Hevayweight Title and you want to get back at me”. Backstage, Sean Williams (owner, 80% shareholder) has Jamar Wilson removed from the arena by police over a contract dispute involving newly-signed Joey Flash; Kensuke Suzahara is referenced in a video package (Enmity's mystery opponent build) rather than appearing live."
+ },
+ {
+  "id": "pure-gekito-1-2002-08-14",
+  "type": "show",
+  "name": "Gekito 1",
+  "promotion": "pure",
+  "date": {
+   "date": "2002-08-14",
+   "precision": "exact",
+   "source": "The show's own recap (board 22 row 7, posted 7 Oct 2002): ‘Hello PURE fans, August 14 was a wonderful starting night for PURE, as we warmed ourselves up for the big Ikusa from Ikusa Hall.’ 14 August 2002 was a Wednesday, consistent with an aside on PURE v2.0 Ikusa 1 (board 22 row 9) that Enmity 'looked pretty impressive in Gekito on Wednesday'."
+  },
+  "venue": "Okata Gym",
+  "city": "Osaka",
+  "page": "/promotions/pure/archive/pure-gekito-1-2002-08-14.html",
+  "collection": "0159",
+  "appearances": [
+   {
+    "who": "enmity-pure",
+    "kind": "match"
+   },
+   {
+    "who": "andrew-maclellan-pure",
+    "kind": "match"
+   },
+   {
+    "who": "the-hit",
+    "kind": "angle"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "angle"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "enmity-pure"
+     ],
+     [
+      "andrew-maclellan-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Battle Royal (Gekito Cup)",
+    "note": "The house show's main event and PURE v2.0's very first event, an over-the-top battle royal for the new Gekito Cup; only the final two entrants resolve to registered ids — Enmity outlasts Fight Club's Andrew Maclellan for the win. Post-match, Maclellan attacks Enmity, and Inphino Blitz runs in to help fight him off."
+   }
+  ],
+  "notes": "PURE's first house show under the v2.0 banner, at a small gym (≈650 in attendance) rather than the numbered Ikusa TV tapings' own stadiums. The HIT, The End and Inphino Blitz are billed and present for a post-show autograph signing but are not on the wrestling card itself (kind: angle, not match)."
+ },
+ {
+  "id": "pure-gekito-2-2002",
+  "type": "show",
+  "name": "Gekito 2",
+  "promotion": "pure",
+  "date": {
+   "date": "2002",
+   "precision": "year",
+   "source": "Posted 7 Oct 2002 (newsdata board 22, row 6), an upper bound only (see Gekito 1's own posting-lag caution). Its own text ('This week, Gekito came from...') places it after Gekito 1 (14 Aug 2002) and before PURE v2.0 Ikusa 2, which it names as the next show ahead ('we look forward to Ikusa 2'). The v2.0 Ikusa run reaches a fourth episode in October 2002: PURE's own Axcess replays the PURE Jr. Heavyweight Title change “DJ Nygma vs. Jung Loc (c)” and announces it as PURE v2.0 Ikusa 4. That places this show on or before October 2002 and no closer, so the year grade stands."
+  },
+  "venue": "Mitsurugi Recreational Center",
+  "city": "Akihabara",
+  "page": "/promotions/pure/archive/pure-gekito-2-2002.html",
+  "collection": "0159",
+  "appearances": [
+   {
+    "who": "faithful-youth-pure",
+    "kind": "match"
+   },
+   {
+    "who": "deacon-pure",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "jamar-wilson",
+    "kind": "angle"
+   },
+   {
+    "who": "melina-gotabody",
+    "kind": "angle"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "faithful-youth-pure"
+     ],
+     [
+      "deacon-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Main event. Deacon rallies with a pair of missile dropkicks and goes for a moonsault, but The Faithful Youth catches him in mid-air for a Tombstone Piledriver and the pin."
+   }
+  ],
+  "notes": "An estimated 450 in attendance, described as an all-time high for the venue. Jamar Wilson and Melina Gotabody are referenced/attend for autograph signings and storyline business rather than wrestling."
+ },
+ {
+  "id": "pure-gekito-3-2002",
+  "type": "show",
+  "name": "Gekito 3",
+  "promotion": "pure",
+  "date": {
+   "date": "2002",
+   "precision": "year",
+   "source": "Posted 10 Oct 2002 (newsdata board 22, row 5), an upper bound only (see Gekito 1's own posting-lag caution). Its own sign-off ('DON'T FORGET TO TURN IN FOR IKUSA 3 THIS MONDAY!!') places it shortly before PURE v2.0 Ikusa 3. The v2.0 Ikusa run reaches a fourth episode in October 2002: PURE's own Axcess replays the PURE Jr. Heavyweight Title change “DJ Nygma vs. Jung Loc (c)” and announces it as PURE v2.0 Ikusa 4. That places this show on or before October 2002 and no closer, so the year grade stands."
+  },
+  "venue": "Ya-yoi Gym",
+  "city": "Kawasaki",
+  "page": "/promotions/pure/archive/pure-gekito-3-2002.html",
+  "collection": "0159",
+  "appearances": [
+   {
+    "who": "inphino-blitz",
+    "kind": "match"
+   },
+   {
+    "who": "the-end-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "jamar-wilson",
+    "kind": "angle"
+   },
+   {
+    "who": "sean-williams-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "ali-khadaffi",
+    "kind": "angle"
+   },
+   {
+    "who": "el-lunes-mascara-gw",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "inphino-blitz"
+     ],
+     [
+      "el-lunes-mascara-gw"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Exhibition Match",
+    "method": "submission",
+    "note": "Gekito's main event, “scheduled for ONE FALL”, billed by Blitz as an exhibition match against El Lunes Mascara, who is already in the ring. Blitz slides out of a fireman's carry into the Lullaby Spike and Mascara “immediately taps”; Hanza: “Your winner…INPHINOOOOOO BLITZ!!”"
+   }
+  ],
+  "notes": "Main event: Inphino Blitz defeats Lucha Libre star El Lunes Mascara (unresolved to a registered id) by reversing Mascara's own Crescent Moon Kiss set-up into a Lullaby Spike submission; recorded here only as an appearance for Blitz, not a structured match, since his opponent doesn't resolve to an id. Closing narration sets up Ikusa 3's own management-war angle: 'PURE CEO Sean Williams and Inphino Blitz against PURE VP Jamar Wilson and Ali Khadaffi', PURE's own president staged in-fiction as a wrestler under his real name."
+ },
+ {
+  "id": "pure-v2-pure-axcess-2003-01",
+  "type": "show",
+  "name": "PURE v2.0 PURE Axcess",
+  "promotion": "pure",
+  "date": {
+   "date": "2003-01",
+   "precision": "month",
+   "source": "The document's own body is the re-opened federation's: it closes on PURE's own “PURE 2003 Logo” taking the screen, instates the PURE Trinity Tag Team titles declared on the re-opening, carries the Sushi Crew's own arrival press conference, and stages the re-opened roster — Luis Sangre, Sister Ash, Peter Perez, Chase Herrera and Bad Company. PURE's own news row of 12 January 2003 reviews it as that week's show: “Axcess was a show that had to be seen to believe… did Enmity gain the best over Mang-A-Hero, or did Mang-A prove he still had ‘it’?!” The board's own stored date of 27 August 2002 is the slot's first use rather than this show's: NewsPro rewrites a row in place without changing its stored date, the same mechanism that left the fed's own title-history page (board 78) in three different states all stamped 7 July 2002."
+  },
+  "venue": "PURE Studios",
+  "city": "Tokyo",
+  "page": "/promotions/pure/archive/pure-v2-pure-axcess-2003-01.html",
+  "collection": "0159",
+  "appearances": [
+   {
+    "who": "pharaoh-pcw",
+    "kind": "angle"
+   },
+   {
+    "who": "mang-a-hero",
+    "kind": "match"
+   },
+   {
+    "who": "enmity-pure",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "mang-a-hero"
+     ],
+     [
+      "enmity-pure"
+     ]
+    ],
+    "result": "draw",
+    "stipulation": "One fall, 15 minute time limit",
+    "method": "time-limit",
+    "note": "The show's live main event, staged in a ring outside PURE Studios. The bell for the time limit rings as Enmity has the Xi Vice on Mang-A-Hero and Mang-A taps; Hanza: “THE 15 MINUTE TIME LIMIT…HAS EXPIRED ON THIS MATCH!! THEREFORE THIS MATCH IS A DRAW”. Enmity, feeling robbed, locks the hold on again after the bell."
+   }
+  ],
+  "notes": "A studio newsmagazine/highlights show, not a wrestling taping in its own right, hosted by Jamar Wilson and Hitomi Asami, and the show on which PURE instates its own Trinity Tag Team titles on re-opening — Jamar Wilson, in his own words: “PURE has now instated the brand new PURE Trinity Tag Team titles.” It carries the Sushi Crew's own arrival press conference and stages the re-opened roster. It keeps the fed's own “PURE v2.0” subject line from the board slot it was posted into, four months after the v2.0 Ikusa run it names. Four of its segments are archival replay rather than fresh footage and none is re-recorded here as a new appearance or match, under the anti-double-count rule: Shirata Rinjiro's pin of Masanobu Ozaki, introduced as “PURE's first show” (the already-held pure-ikusa-2002-04-14's own opening match); the Inphino Blitz & Mang-A-Hero PURE Tag Team Title win over Alexander Miyagawa & Ebola III (the title change on pure-ikusa-5-2002-06-16); a segment introduced with “go back to when this belt was first decided”, replaying the Kensuke Suzahara/The HIT/The End PURE Jr. Heavyweight Title three-way on pure-ikusa-2-2002-04-28; and the PURE Jr. Heavyweight Title change “DJ Nygma vs. Jung Loc (c)”, which the broadcast itself announces as having happened on PURE v2.0 Ikusa 4, a show the record does not hold — the bout ends with the mask coming off, “DJ Nygma has just been revealed as none other than EL ROMANTICO!” Its two men are Charlie Loc, whom the fed's own commentary names “a former PCW turned OSWer, Jung ‘Charlie’ Loc”, and El Romantico wrestling masked. This document's own body carried two e-mail addresses read aloud in an on-air fan-mail bit (the fed's own shared mailbox and a fan's submitted address); both are redacted in the served page per the privacy rule (contact detail, narrowest span, logged in a workshop file)."
+ },
+ {
+  "id": "pure-v2-ikusa-4-2002",
+  "type": "show",
+  "name": "PURE v2.0 Ikusa 4",
+  "promotion": "pure",
+  "page": "/promotions/pure/archive/pure-v2-ikusa-4-2002.html",
+  "collection": "0159",
+  "date": {
+   "date": "2002-10-13",
+   "precision": "exact",
+   "source": "PURE's own complete Junior Heavyweight Championship history dates the title change that closes this show (Argyle's donated deposit, newsdata board 57 row 0, subject “Complete History”, the slot the fed's own staff page renders): “#5 - El Romantico — Pinned Jung Loc on Ikusa 4 under the guise of DJ Nygma to become the new PURE Juniorheavyweight champion (10/13/2002)”, closing Jung Loc's own reign on the same day (“7/28/2002 - 10/13/2002”). Three of the fed's own documents bracket the same date from outside: its news of 2 October 2002 still bills the card as ahead (“this push will continue with Ikusa 4, said to be a blockbuster show”), its news of 4 October 2002 reports “Ikusa 4 is ready to go”, and the show's own commentary places it after PCW's Red October of 6 October 2002 (“One man who helped PCW defeat our valiant warriors at Red October, Jung Loc”). The script itself survives inside a composite NewsPro slot (board 22, row 2) stored 10 January 2003 under the subject “Testing”, carrying several shows' fragments spliced together; that stored date belongs to the slot, not to any one fragment, the same NewsPro-reuse mechanism already documented on the Axcess slot."
+  },
+  "venue": "Ikusa Hall",
+  "city": "Osaka",
+  "appearances": [
+   {
+    "who": "disco-dan-pure",
+    "kind": "match",
+    "note": "first eliminated from the Jr.Weight Battle Royal, a double flapjack from Junzo Muto and Damian"
+   },
+   {
+    "who": "the-jewserweight-ilan-levin-pure",
+    "kind": "match",
+    "note": "one of the battle royal's final two, ruled a double pin with DJ Nygma and named co-#1 contender; his own title shot was written out before the title match by a Black Dragons beatdown (per the title match's own commentary)"
+   },
+   {
+    "who": "junzo-the-death-stalker-muto-pure",
+    "kind": "match"
+   },
+   {
+    "who": "agent-x-pure",
+    "kind": "match"
+   },
+   {
+    "who": "orlando-scott-pure",
+    "kind": "match"
+   },
+   {
+    "who": "damian-pure",
+    "kind": "match"
+   },
+   {
+    "who": "el-romantico-pure",
+    "kind": "match",
+    "note": "wrestling masked as DJ Nygma; wins the Jr.Weight Battle Royal jointly with Ilan Levin (double pin, ruled co-#1 contender), then beats Charlie Loc for the PURE Jr. Heavyweight Title and is unmasked in the ring by Loc immediately after"
+   },
+   {
+    "who": "charlie-loc",
+    "kind": "match",
+    "note": "billed “Jung Loc”; loses the PURE Jr. Heavyweight Title to DJ Nygma (el-romantico-pure) and unmasks him"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "disco-dan-pure"
+     ],
+     [
+      "the-jewserweight-ilan-levin-pure"
+     ],
+     [
+      "junzo-the-death-stalker-muto-pure"
+     ],
+     [
+      "agent-x-pure"
+     ],
+     [
+      "orlando-scott-pure"
+     ],
+     [
+      "el-romantico-pure"
+     ],
+     [
+      "damian-pure"
+     ]
+    ],
+    "stipulation": "PURE Jr.Weight Battle Royal",
+    "winners": [
+     "el-romantico-pure",
+     "the-jewserweight-ilan-levin-pure"
+    ],
+    "eliminations": [
+     {
+      "who": "disco-dan-pure",
+      "by": [
+       "junzo-the-death-stalker-muto-pure",
+       "damian-pure"
+      ],
+      "note": "a double flapjack, Junzo Muto making the cover"
+     },
+     {
+      "who": "damian-pure",
+      "by": "the-jewserweight-ilan-levin-pure",
+      "note": "a Samurai Driver"
+     },
+     {
+      "who": "junzo-the-death-stalker-muto-pure",
+      "by": "el-romantico-pure",
+      "note": "billed DJ Nygma; a bridging Fisherman suplex the commentary calls the Credenza"
+     },
+     {
+      "who": "orlando-scott-pure",
+      "by": "agent-x-pure",
+      "note": "a top-rope DDT, reversing Scott's own attempted superplex"
+     },
+     {
+      "who": "agent-x-pure",
+      "by": "el-romantico-pure",
+      "note": "billed DJ Nygma; a victory-roll reversal, bridged for the count"
+     }
+    ],
+    "note": "PURE's own Jr.Weight Battle Royal, billed as deciding the next challenger to Charlie Loc's PURE Jr. Heavyweight Title. The last two standing, DJ Nygma (el-romantico-pure, wrestling masked) and “The Jewserweight” Ilan Levin, pinned each other with simultaneous German suplexes (“1..2..3!!! BUT WHO GOT PINNED!!”); the referee ruled it “the double pin” and named both men co-#1 contenders. The title match's own commentary records that Ilan Levin's own shot was taken away the same night by a Black Dragons beatdown, leaving Loc to defend against DJ Nygma alone."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "charlie-loc"
+     ],
+     [
+      "el-romantico-pure"
+     ]
+    ],
+    "stipulation": "PURE Jr. Heavyweight Title",
+    "winner_side": 1,
+    "note": "Jung Loc (charlie-loc) defending the PURE Jr. Heavyweight Title against DJ Nygma (el-romantico-pure, wrestling masked), the Jr.Weight Battle Royal's own co-winner -- Ilan Levin, the other co-winner, was written out beforehand. A long match (a Roaring Elbow, a Superkick, a Northern Lights Suplex, and two separate chair shots all kicked out of) ends when Nygma reverses a Loc sunset flip into the same bridging Fisherman suplex, the Credenza, he used to eliminate Junzo Muto in the battle royal, for the three count. Jung Loc unmasks him in the ring immediately after: “DJ Nygma has just been revealed as none other than EL ROMANTICO!”"
+   }
+  ],
+  "notes": "PURE's own script for this show survives inside a composite NewsPro slot (newsdata board 22, row 2) that also carries verbatim fragments of four already-held shows (Ikusa I's opener, Ikusa II's Jr. Heavyweight finish, PURE v2.0 Ikusa 1's main event cut short of its own ambush ending, and Gekito 3's press conference and main event) -- none of those four is re-served here (the anti-double-count rule); each was checked word-for-word against its own already-served page. Only two fragments are new: the Jr.Weight Battle Royal and the PURE Jr. Heavyweight Title change it set up, served together as this show's own page in broadcast order (the battle royal's own text puts it before the title match; the physical order inside the composite slot has the title match first, which is the slot's own splice, not the show's). PURE's own later Axcess broadcast (served, January 2003) replays the title-change portion of this same show as archival footage introduced “months ago” -- not re-recorded here, per the anti-double-count rule; see pure-v2-pure-axcess-2003-01's own notes."
+ },
+ {
+  "id": "pure-ikusa-kumamoto-2003-02-02",
+  "type": "show",
+  "name": "Ikusa",
+  "promotion": "pure",
+  "page": "/promotions/pure/archive/ikusa-kumamoto-2003-02-02.html",
+  "collection": "0293",
+  "date": {
+   "date": "2003-02-02",
+   "precision": "exact",
+   "source": "PURE's own results page: “PURE Ikusa from KK Wing in Kumamoto, Japan on February 2, 2003” (2 February 2003 was a Sunday, matching the fed's show-day pattern). The fed's own newswire of 7 February 2003 calls this show Ikusa III and the one of 9 February Ikusa IV."
+  },
+  "venue": "KK Wing",
+  "city": "Kumamoto, Japan",
+  "appearances": [
+   {
+    "who": "hitomi-asami-pure",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "mori-morishigi-pure",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "mang-a-hero",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "hanza-kibagame-pure",
+    "kind": "angle",
+    "capacity": "ring-announcer"
+   },
+   {
+    "who": "taki-kuonji-pure",
+    "kind": "angle",
+    "capacity": "referee"
+   },
+   {
+    "who": "jon-hayabusa-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "shaun-styles-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "sushi-crew-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "jamar-wilson",
+    "kind": "angle"
+   },
+   {
+    "who": "mina-de-margo",
+    "kind": "angle"
+   },
+   {
+    "who": "yuri-quest-takayama",
+    "kind": "angle"
+   },
+   {
+    "who": "inphino-blitz",
+    "kind": "angle"
+   },
+   {
+    "who": "kohana-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "senji-yuvlav-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "hoshi-akagawa-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "radiant-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "isao-asai-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "jesse-ramey-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "sinister-steven-lee-pure",
+    "kind": "angle"
+   },
+   {
+    "who": "peter-perez-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chase-herrera-pure",
+    "kind": "match"
+   },
+   {
+    "who": "hoshi-akagawa-pure",
+    "kind": "match"
+   },
+   {
+    "who": "raizo-tenzan-pure",
+    "kind": "match"
+   },
+   {
+    "who": "senji-yuvlav-pure",
+    "kind": "match"
+   },
+   {
+    "who": "s2-suicidal-stevenson-pure",
+    "kind": "match"
+   },
+   {
+    "who": "black-dragons-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chen-lei-chia-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chiing-pure",
+    "kind": "match"
+   },
+   {
+    "who": "chiang-ho-nam-pure",
+    "kind": "match"
+   },
+   {
+    "who": "enmity-pure",
+    "kind": "match"
+   },
+   {
+    "who": "nu-era-pure",
+    "kind": "match"
+   },
+   {
+    "who": "johnny-quinn-pure",
+    "kind": "match"
+   },
+   {
+    "who": "josh-quinn-pure",
+    "kind": "match"
+   },
+   {
+    "who": "ric-montana-pure",
+    "kind": "match"
+   },
+   {
+    "who": "eddie-mandrake-pure",
+    "kind": "match"
+   },
+   {
+    "who": "sinister-steven-lee-pure",
+    "kind": "match"
+   },
+   {
+    "who": "jesse-ramey-pure",
+    "kind": "match"
+   }
+  ],
+  "notes": "Full results script served on its own page. Chase Herrera beat Peter Perez; Raizo Tenzan knocked out Hoshi Akagawa in a Winner's Choice match; Senji Yulav kept the All-Asia Title from S2; Enmity and the Black Dragons beat Nu Era and Eddie Mandrake; and Jesse Ramey won the first Tokyo Street Fight against \"Sinister\" Steven Lee, who said \"I respect you\". Between the matches Hoshi Akagawa faces a press conference, Kohana appears on a talk show, the PURE security detail is briefed, and Jamar Wilson and Mina de Margo announce the first pay-per-view, Final Destinies, with Inphino Blitz as the first Hall of Fame inductee.",
+  "evidence": [
+   {
+    "source": "/promotions/pure/archive/ikusa-kumamoto-2003-02-02.html",
+    "note": "Full results script served on its own page. Chase Herrera beat Peter Perez; Raizo Tenzan knocked out Hoshi Akagawa in a Winner's Choice match; Senji Yulav kept the All-Asia Title from S2; Enmity and the Black Dragons beat Nu Era and Eddie Mandrake; and Jesse Ramey won the first Tokyo Street Fight against \"Sinister\" Steven Lee, who said \"I respect you\". Between the matches Hoshi Akagawa faces a press conference, Kohana appears on a talk show, the PURE security detail is briefed, and Jamar Wilson and Mina de Margo announce the first pay-per-view, Final Destinies, with Inphino Blitz as the first Hall of Fame inductee."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "peter-perez-pure"
+     ],
+     [
+      "chase-herrera-pure"
+     ]
+    ],
+    "winner_side": 1,
+    "method": "pinfall",
+    "note": "A one-fall singles match with a thirty-minute limit. Chase Herrera beat Peter Perez with a double underhook piledriver."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "hoshi-akagawa-pure"
+     ],
+     [
+      "raizo-tenzan-pure"
+     ]
+    ],
+    "winner_side": 1,
+    "method": "pinfall",
+    "stipulation": "Winner's Choice Match",
+    "note": "A Winner's Choice match: the winner's corner man chooses the stipulation of his own match. Hoshi Akagawa, with Radiant, outmanoeuvred Raizo Tenzan, with Isao Asai, until Tenzan knocked her out with a punch and pinned her."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "senji-yuvlav-pure"
+     ],
+     [
+      "s2-suicidal-stevenson-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "method": "pinfall",
+    "title": "pure-all-asia",
+    "note": "Senji Yulav's first defence of the All-Asia Championship: he beat S2 with a lariat, after which Kohana told him he would be choking on defeat at Final Destinies."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "black-dragons-pure",
+      "chen-lei-chia-pure",
+      "chiing-pure",
+      "chiang-ho-nam-pure",
+      "enmity-pure"
+     ],
+     [
+      "nu-era-pure",
+      "johnny-quinn-pure",
+      "josh-quinn-pure",
+      "ric-montana-pure",
+      "eddie-mandrake-pure"
+     ]
+    ],
+    "winner_side": 0,
+    "method": "submission",
+    "note": "The announcer gives the finish as 16:22 by submission to Enmity and the Black Dragons: Enmity made Johnny Quinn tap out to a crossface, and the Dragons and Enmity then beat Eddie Mandrake down."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "sinister-steven-lee-pure"
+     ],
+     [
+      "jesse-ramey-pure"
+     ]
+    ],
+    "winner_side": 1,
+    "method": "stipulation",
+    "stipulation": "Tokyo Street Fight",
+    "note": "The first Tokyo Street Fight, in which the loser must say \"I respect you\": Jesse Ramey beat Steven Lee with a kendo stick, light tubes, tongs and a burning table, and Lee conceded."
+   }
+  ]
+ }
+]

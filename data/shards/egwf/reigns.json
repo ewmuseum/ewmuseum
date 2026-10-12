@@ -1,0 +1,42 @@
+[
+ {
+  "id": "egwf-rocky-mountain-r001",
+  "title": "egwf-rocky-mountain",
+  "label": "Senator Johnson",
+  "holder": [
+   {
+    "id": "senator-johnson-egwf"
+   }
+  ],
+  "won": {
+   "date": "1997-03-08",
+   "precision": "exact",
+   "source": "EGWF Saturday Night (8 Mar 1997): pinfall win over Ares (the Filibuster)."
+  },
+  "how": "Won from Ares.",
+  "event": "egwf-saturday-night-1997-03-08",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "egwf-rocky-mountain-tag-team-r001",
+  "title": "egwf-rocky-mountain-tag-team",
+  "label": "The Studly's",
+  "holder": [
+   {
+    "name": "Bubba Ray Studly Ehwf",
+    "unminted": true
+   },
+   {
+    "id": "dances-with-studly-egwf"
+   }
+  ],
+  "won": {
+   "date": "1997-03-08",
+   "precision": "exact",
+   "source": "EGWF Saturday Night (8 Mar 1997): pinfall win over the Irish Inmates in a No-DQ match."
+  },
+  "how": "Won from the Irish Inmates.",
+  "event": "egwf-saturday-night-1997-03-08",
+  "end_how": "still-champion-at-record-end"
+ }
+]

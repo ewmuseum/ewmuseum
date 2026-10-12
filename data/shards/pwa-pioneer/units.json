@@ -1,0 +1,231 @@
+[
+  {
+    "id": "moran-clan-pwa-pioneer",
+    "type": "unit",
+    "name": "Moran Clan",
+    "unit_kind": "stable",
+    "caption": "The family stable Sirus Moran leads, per his own bio card — himself, 'Al', Grifter, Fletcher, Samantha, Mack and the Prisoner, \"there have never been any others part of the group.\"",
+    "tenures": [
+      {
+        "promotion": "pwa-pioneer",
+        "first_seen": "1999-10-31",
+        "last_seen": "2002-04-28",
+        "role": "stable",
+        "roles": [
+          "other"
+        ],
+        "grade": "primary-source",
+        "source": "Sirus Moran's own served bio card; the Title History page's own World Title roster note"
+      }
+    ],
+    "members": [
+      {
+        "name": "Sirus Moran",
+        "character_id": "sirus-moran-pwa-pioneer"
+      },
+      {
+        "name": "'Al'",
+        "character_id": "al-pwa-pioneer"
+      },
+      {
+        "name": "Grifter",
+        "character_id": "grifter-pwa-pioneer"
+      },
+      {
+        "name": "Fletcher Moran",
+        "character_id": "fletcher-moran-pwa-pioneer"
+      },
+      {
+        "name": "Samantha Moran",
+        "character_id": "samantha-moran-pwa-pioneer"
+      },
+      {
+        "name": "Mack Moran",
+        "character_id": "mack-moran-pwa-pioneer"
+      },
+      {
+        "name": "the Prisoner",
+        "character_id": "the-prisoner-pwa-pioneer"
+      }
+    ],
+    "notes": "Membership per Sirus Moran's own served bio card, which names it closed: \"There have never been any others part of the group.\" The Title History page's own World Title roster note (\"-Moran Clan -Sirus, Fletcher, Mack and Grifter\") independently corroborates four of the seven.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "brothers-grimm-pwa-pioneer",
+    "type": "unit",
+    "name": "the Brothers Grimm",
+    "unit_kind": "tag-team",
+    "caption": "Sirus Moran and Grifter's own tag team, the PWA Tag Team Title's own most recurring holders across the fed's held record, defending against Rage and Ashe on \"Wednesday Night Chaos.\"",
+    "tenures": [
+      {
+        "promotion": "pwa-pioneer",
+        "first_seen": "1999-06-08",
+        "last_seen": "2002-10-28",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the Title History page's own Tag Team Title ledger; \"Wednesday Night Chaos\""
+      }
+    ],
+    "members": [
+      {
+        "name": "Sirus Moran",
+        "character_id": "sirus-moran-pwa-pioneer"
+      },
+      {
+        "name": "Grifter",
+        "character_id": "grifter-pwa-pioneer"
+      }
+    ],
+    "notes": "Held the PWA Tag Team Title at least ten separate times per the fed's own Tag Team Title ledger; named among the fed's own \"TAG TEAMS OR STABLES\" on the Who's Who Roster.",
+    "caption_asof": {
+      "written": "2026-09-06",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "natural-selection-pwa-pioneer",
+    "type": "unit",
+    "name": "Natural Selection",
+    "unit_kind": "stable",
+    "caption": "The stable Rage and Ashe were billed as members of on \"Wednesday Night Chaos,\" challenging the Brothers Grimm for the PWA Tag Team Title as \"their own team-mates.\"",
+    "tenures": [
+      {
+        "promotion": "pwa-pioneer",
+        "first_seen": "2000-01-05",
+        "last_seen": "2000-01-05",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "\"Wednesday Night Chaos\""
+      }
+    ],
+    "members": [
+      {
+        "name": "Rage",
+        "character_id": "brian-anderson-bew"
+      },
+      {
+        "name": "Ashe",
+        "character_id": "ashe-pwa-pioneer"
+      }
+    ],
+    "notes": "Commentator Brian Rentfro's own pre-match line (\"Rage and Ashe have been forced to face their own team-mates for the tag team titles\") implies a larger roster than the two men who actually wrestled that night; no further member survives in the held corpus.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-family-pwa-pioneer",
+    "type": "unit",
+    "name": "the family",
+    "unit_kind": "stable",
+    "caption": "The villainous stable that debuted on \"Wednesday Night Chaos,\" stringing Rage and Ashe up from the rafters and taking half the PWA Tag Team Title off Sirus Moran seventeen days later in exchange for 'Al'.",
+    "tenures": [
+      {
+        "promotion": "pwa-pioneer",
+        "first_seen": "2000-01-05",
+        "last_seen": "2000-01-22",
+        "role": "villainous stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "\"Wednesday Night Chaos\"; the Title History page's own Tag Team Title ledger"
+      }
+    ],
+    "members": [
+      {
+        "name": "Faith",
+        "character_id": "faith-pwa-pioneer"
+      },
+      {
+        "name": "Blood",
+        "character_id": "blood-pwa-pioneer"
+      }
+    ],
+    "notes": "Faith's own promo bills the group in the first person plural (\"we,\" \"the family\") without naming further members; the Crippler is staged watching approvingly from the ramp but is never claimed as a member on the page itself, so he is held here as an association, not membership.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-band-pwa-pioneer",
+    "type": "unit",
+    "name": "The Band",
+    "unit_kind": "tag-team",
+    "caption": "Heavy Metal, Juggs and the absent Styx, billed on \"Wednesday Night Chaos\" as a trio entering to \"Sad but True\" though only Heavy Metal actually wrestled that night.",
+    "tenures": [
+      {
+        "promotion": "pwa-pioneer",
+        "first_seen": "2000-01-05",
+        "last_seen": "2000-01-05",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "\"Wednesday Night Chaos\""
+      }
+    ],
+    "members": [
+      {
+        "name": "Heavy Metal",
+        "character_id": "heavy-metal-pwa-pioneer"
+      },
+      {
+        "name": "Juggs"
+      },
+      {
+        "name": "Styx"
+      }
+    ],
+    "notes": "Styx was billed as missing, \"dragged along behind a car by a masked man\" two weeks earlier; Juggs walked to ringside with Heavy Metal but never wrestled. Neither has any other recovered individual record in the held corpus.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

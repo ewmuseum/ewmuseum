@@ -1,0 +1,182 @@
+[
+ {
+  "id": "gravedigger-bwc",
+  "type": "character",
+  "name": "Gravedigger",
+  "caption": "The fed's own first BWC World Heavyweight Champion, crowned at the Turkey Day Tourney by beating the Rowdy One in the final.",
+  "tenures": [
+   {
+    "promotion": "bwc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-11-28",
+    "last_seen": "1997-11-28",
+    "source": "/promotions/bwc/archive/bwc-turkey-day-tourney-1997-11-28.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name only with gravedigger-lcw-1997 (a different, unrelated 1997 fed); a generic archetype name, no moniker or roster match.",
+    "with": [
+     "gravedigger-lcw-1997"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-rowdy-one-bwc",
+  "type": "character",
+  "name": "The Rowdy One",
+  "caption": "Tournament finalist at the Turkey Day Tourney, teams with Iron & Steel reviving the self-titled stable \"A.W.I. -- Ass Whoopers Incorporated.\"",
+  "tenures": [
+   {
+    "promotion": "bwc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-11-28",
+    "last_seen": "1997-11-28",
+    "source": "/promotions/bwc/archive/bwc-turkey-day-tourney-1997-11-28.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "armageddon-bwc",
+  "type": "character",
+  "name": "Armageddon",
+  "caption": "The tournament's own pre-show favorite, upset by Missile at the Turkey Day Tourney and again by a debuting Simon MacKnyght ten days later.",
+  "tenures": [
+   {
+    "promotion": "bwc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-11-28",
+    "last_seen": "1997-12-08",
+    "source": "/promotions/bwc/archive/bwc-turkey-day-tourney-1997-11-28.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name only with armageddon-aicw and mike-solomon-obw's own aka (both different, unrelated feds); a generic archetype name, no moniker or roster match.",
+    "with": [
+     "armageddon-aicw",
+     "mike-solomon-obw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "missile-bwc",
+  "type": "character",
+  "name": "Missile",
+  "caption": "Upsets tournament favorite Armageddon at the Turkey Day Tourney.",
+  "tenures": [
+   {
+    "promotion": "bwc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-11-28",
+    "last_seen": "1997-11-28",
+    "source": "/promotions/bwc/archive/bwc-turkey-day-tourney-1997-11-28.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "ryan-vaughn-bwc",
+  "type": "character",
+  "name": "Ryan Vaughn",
+  "caption": "The fed's own on-screen President, whose interference angle decides the Turkey Day Tourney final.",
+  "tenures": [
+   {
+    "promotion": "bwc",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "1997-11-28",
+    "last_seen": "1997-11-28",
+    "source": "/promotions/bwc/archive/bwc-turkey-day-tourney-1997-11-28.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a bare name only with ryan-vaughn-sewf (a different, unrelated fed); no moniker or roster match.",
+    "with": [
+     "ryan-vaughn-sewf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-scotsman-simon-macknyght-bwc",
+  "type": "character",
+  "name": "\"The Scotsman\" Simon MacKnyght",
+  "caption": "Debuts with a 27-second pinfall upset over Armageddon on the fed's own first televised weekly show.",
+  "tenures": [
+   {
+    "promotion": "bwc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-08",
+    "last_seen": "1997-12-08",
+    "source": "/promotions/bwc/archive/bwc-monday-night-blast-off-1997-12-08.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ }
+]

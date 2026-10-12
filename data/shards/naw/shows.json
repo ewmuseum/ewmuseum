@@ -1,0 +1,505 @@
+[
+  {
+    "id": "naw-anarchy-2003-03-27",
+    "type": "show",
+    "name": "Thursday Night Anarchy",
+    "promotion": "naw",
+    "date": {
+      "date": "2003-03-27",
+      "precision": "exact",
+      "source": "The results page’s own heading — “Thursday Night Anarchy Results: 03/27/03 / March 27th, 2003 / Cow Palace, San Francisco, California” — and the fed’s own calendar, “3/27/03 - Thursday Night Anarchy , Cow Palace, San Francisco, California.”"
+    },
+    "page": "/promotions/naw/archive/anarchy-2003-03-27.html",
+    "collection": "0046",
+    "venue": "the Cow Palace",
+    "city": "San Francisco, California",
+    "notes": "The fed’s first show. Its own president opened it by introducing the promotion and picking his home town to do it in. All five matches on the card are structured. TraV's debut/attack is an angle beat inside match 4's own note, not a scored bout of his own, so he appears here with kind:\"angle\" rather than as a match-5 rumble entrant.",
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "weaponary-naw"
+          ],
+          [
+            "johnny-blaze-naw"
+          ]
+        ],
+        "stipulation": "Rising Star Championship",
+        "winner_side": 1,
+        "note": "Johnny Blaze wins by pinfall off the Blaze Bomb, but the fed's own commissioner E-Dogg voids the title on the spot afterward (“the Rising Star title does not go to Weaponary nor Johnny Blaze”) — a match with a winner and no title change. The belt is won for real the following week (see naw-anarchy-2003-04-03)."
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "lightning-naw"
+          ],
+          [
+            "axel-hawk-naw"
+          ]
+        ],
+        "stipulation": "Hardcore Rules Match",
+        "winner_side": 0,
+        "note": "Weapons brawl (singapore cane, chair, iron pipe, a ladder \"Stage Dive\" spot); Lightning finishes with the Thunderbolt on the stage. Cereal attacks the celebrating Lightning from the crowd immediately after, unprompted — an angle beat, not part of the match."
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "the-hitmen-naw",
+            "renegade-naw",
+            "nightmare-naw"
+          ],
+          [
+            "phil-naw",
+            "the-slip-naw"
+          ]
+        ],
+        "winner_side": 0,
+        "note": "No title stipulation anywhere in the header or the call. The likeliest staging of the Tag Team Championship's first reign (see reigns.json), but the show's own results never call it a title match, so no title change is recorded here."
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "cereal-naw"
+          ],
+          [
+            "darkside-naw"
+          ]
+        ],
+        "stipulation": "No DQ Match",
+        "winner_side": 0,
+        "note": "Darkside never shows (shown knocked out backstage). Cereal is ring-announced the winner by no-show, then is immediately jumped by the Hitmen (Renegade & Nightmare) and a debuting TraV, who form a new trio calling themselves the Violators on camera (\"the shirt reads Violators\") — an angle beat, not a title or stable formally minted here."
+      },
+      {
+        "order": 5,
+        "participants": [
+          "mystic-j-naw",
+          "darkside-naw",
+          "cereal-naw",
+          "weaponary-naw",
+          "phil-naw",
+          "ed-2-tite-naw",
+          "rich-extreme-naw",
+          "johnny-blaze-naw",
+          "axel-hawk-naw",
+          "lightning-naw",
+          "satans-wrath-naw",
+          "nightmare-naw",
+          "renegade-naw",
+          "the-slip-naw",
+          "e-dogg-naw"
+        ],
+        "winner": "cereal-naw",
+        "stipulation": "Main Event — Over The Top Rumble Match",
+        "note": "The whole roster enters; the source does not give an elimination order, only the final two (Renegade and Cereal) and the winner. Cereal is explicitly ring-announced \"the winner of the match, and your new NAW number one contender for the Heavyweight title\" — sourcing the #1 contendership independently confirmed by E-Dogg's own recap the following week."
+      }
+    ],
+    "appearances": [
+      {
+        "who": "weaponary-naw",
+        "kind": "match"
+      },
+      {
+        "who": "johnny-blaze-naw",
+        "kind": "match"
+      },
+      {
+        "who": "lightning-naw",
+        "kind": "match"
+      },
+      {
+        "who": "axel-hawk-naw",
+        "kind": "match"
+      },
+      {
+        "who": "renegade-naw",
+        "kind": "match"
+      },
+      {
+        "who": "nightmare-naw",
+        "kind": "match"
+      },
+      {
+        "who": "phil-naw",
+        "kind": "match"
+      },
+      {
+        "who": "the-slip-naw",
+        "kind": "match"
+      },
+      {
+        "who": "cereal-naw",
+        "kind": "match"
+      },
+      {
+        "who": "darkside-naw",
+        "kind": "match"
+      },
+      {
+        "who": "trav-naw",
+        "kind": "angle"
+      },
+      {
+        "who": "mystic-j-naw",
+        "kind": "match"
+      },
+      {
+        "who": "ed-2-tite-naw",
+        "kind": "match"
+      },
+      {
+        "who": "rich-extreme-naw",
+        "kind": "match"
+      },
+      {
+        "who": "satans-wrath-naw",
+        "kind": "match"
+      },
+      {
+        "who": "e-dogg-naw",
+        "kind": "match"
+      },
+      {
+        "who": "patrick-mcdonald-naw",
+        "kind": "angle",
+        "capacity": "ring-announcer"
+      },
+      {
+        "who": "julia-roberts-naw",
+        "kind": "angle",
+        "capacity": "interviewer"
+      },
+      {
+        "who": "teddy-young-naw",
+        "kind": "angle",
+        "capacity": "interviewer"
+      },
+      {
+        "who": "the-hitmen-naw",
+        "kind": "match"
+      }
+    ]
+  },
+  {
+    "id": "naw-anarchy-2003-04-03",
+    "type": "show",
+    "name": "Thursday Night Anarchy",
+    "promotion": "naw",
+    "date": {
+      "date": "2003-04-03",
+      "precision": "exact",
+      "source": "The fed’s own calendar, “4/3/03 - Thursday Night Anarchy , Joe Louis Arena, Detroit, Michigan”, and the results page’s own second line, “April 3rdth, 2003”. SOURCES DISAGREE: that same results page is headed “Results: 03/03/03”; the April reading is the one the record supports twice."
+    },
+    "page": "/promotions/naw/archive/anarchy-2003-04-03.html",
+    "collection": "0046",
+    "venue": "the Joe Louis Arena",
+    "city": "Detroit, Michigan",
+    "notes": "The night the fed crowned its first Rising Star and Xtreme Champions. The copy that survives stops in the middle of the Heavyweight Championship main event, and the title histories page five days later still reads Vacant. All six matches on the card are structured, including the two whose own results are incomplete in the surviving copy (see matches[] notes).",
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "mystic-j-naw"
+          ],
+          [
+            "weaponary-naw"
+          ]
+        ],
+        "stipulation": "Rising Star Championship",
+        "winner_side": 0,
+        "note": "Big boot, pin. Ring-announced: \"your winner, and NEW NAW Rising Star champion... Mystic J!\""
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "darkside-naw"
+          ],
+          [
+            "johnny-blaze-naw"
+          ]
+        ],
+        "result": "no-contest",
+        "note": "Johnny Blaze no-shows; E-Dogg orders a 10-count, then fires him on air. Darkside is awarded the match \"via No Show.\""
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "destiny-naw"
+          ],
+          [
+            "krissi-naw"
+          ]
+        ],
+        "stipulation": "Pacific Lightweight Championship — Cat Fight in a Cell Match",
+        "result": "no-contest",
+        "note": "The match never happens: Destiny couldn't get to Detroit from Minnesota, and Krissi is shown backstage having already been attacked before the bout. The show's own result line reads \"Winner: Match Canceled.\""
+      },
+      {
+        "order": 4,
+        "participants": [
+          "phil-naw",
+          "the-redeemer-naw",
+          "xtra-ordinary-naw"
+        ],
+        "winner": "the-redeemer-naw",
+        "stipulation": "Xtreme Championship — Backstage Brawl Match",
+        "note": "A brawl through backstage areas (fence, wooden table, coffee maker, chair) ending in the Redeemer's \"Last Mistake\" finisher on Xtra Ordinary. Ring-announced: \"New NAW Xtreme champion, the Redeemer.\""
+      },
+      {
+        "order": 5,
+        "sides": [
+          [
+            "the-hitmen-naw",
+            "renegade-naw",
+            "nightmare-naw"
+          ],
+          [
+            "lightning-naw",
+            "satans-wrath-naw"
+          ]
+        ],
+        "stipulation": "Tag Team Championship",
+        "note": "The header explicitly labels this a Tag Team Championship match, unlike the untitled Hitmen tag bout on the fed's first Anarchy — but the surviving copy carries no bell-to-bell text or decision for it at all: the header is followed immediately by a commercial break. No winner is recoverable from this source."
+      },
+      {
+        "order": 6,
+        "sides": [
+          [
+            "trav-naw"
+          ],
+          [
+            "cereal-naw"
+          ]
+        ],
+        "stipulation": "Heavyweight Championship — 2 out of 3 Falls Match (Street Fight, then Cage, then Ladder)",
+        "note": "Billed for the vacant title (\"the winner of this match will be in the history book as the first NAW champ\"). The surviving copy stops mid-way through the first (Street Fight) fall, with Cereal stomping TraV with a chair — no pinfall, no finish, no winner anywhere in the source. The title histories page five days later still reads Vacant."
+      }
+    ],
+    "appearances": [
+      {
+        "who": "mystic-j-naw",
+        "kind": "match"
+      },
+      {
+        "who": "weaponary-naw",
+        "kind": "match"
+      },
+      {
+        "who": "darkside-naw",
+        "kind": "match"
+      },
+      {
+        "who": "johnny-blaze-naw",
+        "kind": "match"
+      },
+      {
+        "who": "destiny-naw",
+        "kind": "match"
+      },
+      {
+        "who": "krissi-naw",
+        "kind": "match"
+      },
+      {
+        "who": "phil-naw",
+        "kind": "match"
+      },
+      {
+        "who": "the-redeemer-naw",
+        "kind": "match"
+      },
+      {
+        "who": "xtra-ordinary-naw",
+        "kind": "match"
+      },
+      {
+        "who": "the-hitmen-naw",
+        "kind": "match"
+      },
+      {
+        "who": "lightning-naw",
+        "kind": "match"
+      },
+      {
+        "who": "satans-wrath-naw",
+        "kind": "match"
+      },
+      {
+        "who": "trav-naw",
+        "kind": "match"
+      },
+      {
+        "who": "cereal-naw",
+        "kind": "match"
+      },
+      {
+        "who": "renegade-naw",
+        "kind": "angle"
+      },
+      {
+        "who": "e-dogg-naw",
+        "kind": "angle"
+      },
+      {
+        "who": "patrick-mcdonald-naw",
+        "kind": "angle",
+        "capacity": "ring-announcer"
+      },
+      {
+        "who": "david-erikson-naw",
+        "kind": "angle",
+        "capacity": "referee"
+      },
+      {
+        "who": "julia-roberts-naw",
+        "kind": "angle",
+        "capacity": "interviewer"
+      },
+      {
+        "who": "jonathyn-thomas-naw",
+        "kind": "angle",
+        "capacity": "interviewer"
+      },
+      {
+        "who": "teddy-young-naw",
+        "kind": "angle",
+        "capacity": "interviewer"
+      },
+      {
+        "who": "renegade-naw",
+        "kind": "match"
+      },
+      {
+        "who": "nightmare-naw",
+        "kind": "match"
+      }
+    ]
+  },
+  {
+    "id": "naw-anarchy-card-2003-04-12",
+    "type": "show",
+    "name": "Saturday Night Anarchy",
+    "promotion": "naw",
+    "date": {
+      "date": "2003-04-12",
+      "precision": "exact",
+      "source": "The card itself: “Thursday Night Anarchy Card / April 12th, 2003 / American Airlines Arena, Miami, Florida.” The fed’s own calendar bills the same date as “Saturday Night Anarchy”, having announced on 6 April that the show was being postponed to Saturday."
+    },
+    "page": "/promotions/naw/archive/anarchy-card-2003-04-12.html",
+    "collection": "0046",
+    "venue": "the American Airlines Arena",
+    "city": "Miami, Florida",
+    "notes": "Held as a card, not a results page. Its own header calls the show Thursday Night Anarchy while the calendar and the news call it Saturday Night Anarchy; the fed had moved the date and not changed the header. It bills a dark match with no named participants, then Rich Extreme vs Satan's Wrath under Hardcore Rules, a three-way among Krissi, Destiny and Lightning, Xtra Ordinary vs TraV, and a main event #1 contendership match for the Heavyweight Championship, the Redeemer vs Chris Daniels — plus the Xtreme Championship, Phil vs the Redeemer, contested for the second time in nine days. The page's own stipulation labels (\"Bra & Panties Match\", \"Cage Match\") sit interleaved with the participant lines in an order this copy doesn't cleanly resolve to a specific pairing beyond the two named above, so none is asserted here for the three-way or the Xtra Ordinary/TraV match. No results page for this date was ever captured.",
+    "appearances": [
+      {
+        "who": "rich-extreme-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      },
+      {
+        "who": "satans-wrath-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      },
+      {
+        "who": "phil-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      },
+      {
+        "who": "the-redeemer-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      },
+      {
+        "who": "krissi-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      },
+      {
+        "who": "destiny-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      },
+      {
+        "who": "lightning-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      },
+      {
+        "who": "xtra-ordinary-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      },
+      {
+        "who": "trav-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      },
+      {
+        "who": "chris-daniels-naw",
+        "kind": "billed",
+        "source": "promotions/naw/archive/anarchy-card-2003-04-12.html"
+      }
+    ]
+  },
+  {
+    "id": "naw-fury-2003-04-20",
+    "type": "show",
+    "name": "PPV: Fury",
+    "promotion": "naw",
+    "date": {
+      "date": "2003-04-20",
+      "precision": "exact",
+      "source": "The card itself: “PPV: Fury Card / April 20th, 2003 / Pepsi Center, Denver, Colorado”, matching the fed’s own calendar entry for the same date."
+    },
+    "page": "/promotions/naw/archive/ppv-fury-card-2003-04-20.html",
+    "collection": "0046",
+    "venue": "the Pepsi Center",
+    "city": "Denver, Colorado",
+    "notes": "Held as a card carrying no matches: “No matches have been announced yet.” Whether the fed’s first pay-per-view ran is not in the surviving record.",
+    "no_appearances_reason": "The card's own text names no wrestler, staff member or angle — only the deadline notice. Nothing to extract."
+  },
+  {
+    "id": "naw-anarchy-2003-04-17",
+    "type": "show",
+    "name": "Thursday Night Anarchy",
+    "promotion": "naw",
+    "date": {
+      "date": "2003-04-17",
+      "precision": "exact",
+      "source": "The fed’s own calendar: “4/17/03 - Thursday Night Anarchy, Staples Center, Los Angeles, California.”"
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/naw/archive/calendar-2003.html",
+        "note": "Booked on the fed’s own calendar with its venue; no card or results page for it was ever captured."
+      }
+    ]
+  },
+  {
+    "id": "naw-anarchy-2003-04-24",
+    "type": "show",
+    "name": "Thursday Night Anarchy",
+    "promotion": "naw",
+    "date": {
+      "date": "2003-04-24",
+      "precision": "exact",
+      "source": "The fed’s own calendar: “4/24/03 - Thursday Night Anarchy, ARCO Arena, Sacramento, California.”"
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/naw/archive/calendar-2003.html",
+        "note": "Booked on the fed’s own calendar with its venue; no card or results page for it was ever captured."
+      }
+    ]
+  }
+]

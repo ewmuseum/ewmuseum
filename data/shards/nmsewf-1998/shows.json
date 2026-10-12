@@ -1,0 +1,53 @@
+[
+ {
+  "id": "nmsewf-tuesday-nights-main-event-1998-03-17",
+  "type": "show",
+  "name": "Tuesday Night's Main Event",
+  "promotion": "nmsewf-1998",
+  "date": {
+   "date": "1998-03-17",
+   "precision": "exact",
+   "source": "The fed's own four-part broadcast posting to rec.sport.pro-wrestling.fantasy, msg_ids jzhHpb6a0yAJ/rWaai9fN98IJ/zfKWyKzNNZgJ/PlxU8we2dtUJ, dated and dateline-set 17 March 1998, Louisiana State Fairgrounds, Baton Rouge, LA."
+  },
+  "collection": "0148",
+  "venue": "Louisiana State Fairgrounds",
+  "city": "Baton Rouge, Louisiana",
+  "notes": "A fourteen-man battle royal crowns the fed's own first attested Heavyweight Champion; the undercard (several further named matches this pass's own commentary references but does not carry play-by-play for) is not individually structured, per the holdings bar and the serve-on-contextual-value rule. Announced card for the following week is read but not this pass's own holdings.",
+  "appearances": [
+   {
+    "who": "zach-zagar-nmsewf",
+    "kind": "match",
+    "source": "/promotions/nmsewf-1998/archive/nmsewf-tuesday-nights-main-event-1998-03-17.html"
+   },
+   {
+    "who": "eric-righteous-nmsewf",
+    "kind": "match",
+    "source": "/promotions/nmsewf-1998/archive/nmsewf-tuesday-nights-main-event-1998-03-17.html"
+   },
+   {
+    "who": "simon-mcquaid-nmsewf",
+    "kind": "match",
+    "source": "/promotions/nmsewf-1998/archive/nmsewf-tuesday-nights-main-event-1998-03-17.html"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "zach-zagar-nmsewf"
+     ],
+     [
+      "eric-righteous-nmsewf"
+     ],
+     [
+      "simon-mcquaid-nmsewf"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Fourteen-man battle royal for the vacant NMSEWF Heavyweight Championship",
+    "note": "Eleven further entrants were eliminated earlier in the match and are not individually structured. McQuaid went out third-from-last; Zagar eliminated Righteous last, at 38:41, to win the title."
+   }
+  ]
+ }
+]

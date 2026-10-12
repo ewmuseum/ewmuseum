@@ -1,0 +1,708 @@
+[
+  {
+    "id": "xcwf-most-extreme-wrestler",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Most Extreme Wrestler",
+    "page": "/awards/xcwf-most-extreme-wrestler.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "freak-xcwf"
+          }
+        ],
+        "vote_detail": "Won as the reigning XCWF Extreme Champion, over nominees \"Sick\" Nick Mondo, Johnny Reno, and Bruce Blade.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "al-magz-xcwf"
+          }
+        ],
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "curt-rock-xcwf"
+          }
+        ],
+        "vote_detail": "Over nominees Al Magz, Destroyer, Mimic, Shannon York, Bruce Blade, and Darkside.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-rookie",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Rookie",
+    "page": "/awards/xcwf-rookie.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "nick-mondo-xcwf"
+          }
+        ],
+        "vote_detail": "The federation's own first-ever Rookie award, for August into September; over nominees Darkside, Bruce Blade, and Koga Kozama.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "evan-darkness-xcwf"
+          }
+        ],
+        "vote_detail": "Fan-voted, over nominees Mike Dupnik, Leslie Dupnik, Tasha Evans, and Destructor.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-stable-award",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Stable Award",
+    "page": "/awards/xcwf-stable-award.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "mark-estep-xcwf"
+          },
+          {
+            "id": "freak-xcwf"
+          },
+          {
+            "id": "out-kast-xcwf"
+          }
+        ],
+        "vote_detail": "Billed to \"the New Era,\" over the Canadian Elite, Total HaVoK, and the (already-vanished) IWO.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-best-feud-angle",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Best Feud/Angle",
+    "page": "/awards/xcwf-best-feud-angle.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "royce-mathers-xcwf"
+          },
+          {
+            "name": "The Monarch of Massacre",
+            "unminted": true
+          }
+        ],
+        "vote_detail": "Over nominees Johnny Reno/Freak (the Extreme Title), Psycho Kid/Royce Mathers (\"fairness and the World Title\"), and the Canadian Elite's own breakup.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "name": "XCWF vs. WWCW",
+            "unminted": true
+          }
+        ],
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "thomas-mason-xcwf"
+          },
+          {
+            "id": "tj-faith-xcwf"
+          }
+        ],
+        "vote_detail": "For their feud \"reborn\" and their match at Total HaVok II; over Duff's own submitted nominee, his feud with Rusty Miller.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-presidents-award",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "President's Award",
+    "page": "/awards/xcwf-presidents-award.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "psycho-kid-xcwf"
+          }
+        ],
+        "vote_detail": "The President's own personal pick, over Al Magz, Phil McCann, and Royce Mathers, all XCWF title holders.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-best-champion",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Best Champion",
+    "page": "/awards/xcwf-best-champion.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "freak-xcwf"
+          }
+        ],
+        "vote_detail": "Over nominees Al Magz and \"Sick\" Nick Mondo.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "al-magz-xcwf"
+          },
+          {
+            "id": "nick-mondo-xcwf"
+          }
+        ],
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "al-magz-xcwf"
+          }
+        ],
+        "vote_detail": "75% of the vote, for his XCWF Championship win in March, over Colby Newsome, Kamikazi, Daddy-O, Destroyer, Shawn Boyd, and Curt Rock.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-best-match",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Best Match Award",
+    "page": "/awards/xcwf-best-match.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "predator-xcwf"
+          },
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "The Four Way Elimination Tag Team Titles Match, won by Predator and Kamikazi as Total HaVoK; over the World Title Triple Threat (Psycho Kid, Aaron Jacobs, Royce Mathers), the United States Title Japanese Torture Match (Al Magz v Sumo), and the Four Way Ladder Match for the Extreme Title at ResurreXtion.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "newsome-brothers-xcwf"
+          },
+          {
+            "id": "mystic-triad-xcwf"
+          }
+        ],
+        "vote_detail": "\"Tag Team Ladder Match- Newsomes vs. Triad: The Summit 2001.\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "name": "The 2002 XCWF Circuit at Total HaVok II",
+            "unminted": true
+          }
+        ],
+        "vote_detail": "\"Some of the XCWF's greatest moments have occurred in the past three months\" — the winning clip package's own framing; over the Four Way Main Event for the World and Intercontinental Championships at THII, Kamikazi v Psycho Kid in the Cell Block 6 match at New Dawn, Shannon York v Menace in the Scaffold match for the Extreme Title at Reality, the Women's Title Triple Threat Strip Tease Match at THII, the 6 Tag Team Turmoil Match at New Dawn, and Curt Rock v Bruce Blade at THII.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-most-dominate-tag-team",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Most Dominate Tag Team",
+    "page": "/awards/xcwf-most-dominate-tag-team.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "predator-xcwf"
+          },
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "Billed as Total HaVoK, the reigning and then-undefeated XCWF Tag Team Champions.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "aztec-xcwf"
+          },
+          {
+            "id": "blizzard-xcwf"
+          }
+        ],
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "kamikazi-xcwf"
+          },
+          {
+            "id": "al-magz-xcwf"
+          }
+        ],
+        "vote_detail": "Billed as \"The Veteration,\" over 80% of the vote, over the Infamous Minds and the pairing of Jason Smith and Donovan Simmons.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-fan-favorite",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Fan Favorite Award",
+    "page": "/awards/xcwf-fan-favorite.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "predator-xcwf"
+          },
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "Announced for Total HaVoK, over Freak, Psycho Kid, and Mark Estep; the trophy itself was seized ringside before the pair could return for it, by Zac Moore and Donovan Simmons.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "al-magz-xcwf"
+          },
+          {
+            "id": "newsome-brothers-xcwf"
+          }
+        ],
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "tj-faith-xcwf"
+          }
+        ],
+        "vote_detail": "Billed on the show as \"our own XCWF Vice President\"; over Kamikazi, Al Magz, Mark Estep, Colby Newsome, Leslie Dupnik, and Shawn Boyd.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-most-valuable-wrestler",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Most Valuable Wrestler",
+    "page": "/awards/xcwf-most-valuable-wrestler.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "mark-estep-xcwf"
+          }
+        ],
+        "vote_detail": "Billed as \"the first Grandslam Champion,\" the XCWF Intercontinental Champion at the time.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "al-magz-xcwf"
+          }
+        ],
+        "vote_detail": "Over nominees Kamikazi, Curt Rock, Mimic, Rusty Miller, Duff, and Daddy-O; the XCWF Champion at the time.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-viewers-choice",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Viewer's Choice",
+    "page": "/awards/xcwf-viewers-choice.html",
+    "bestowals": [
+      {
+        "year": 2001,
+        "recipient": [
+          {
+            "id": "thomas-mason-xcwf"
+          }
+        ],
+        "vote_detail": "No official nominees; the ceremony's own script names write-in support for Mark Estep, Psycho Kid, Unfitt Survivor, and Damien Strife alongside Mason himself, who won.",
+        "source": "promotions/xcwf/archive/x-awards-2001-09-14.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "tj-faith-xcwf"
+          }
+        ],
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "al-magz-xcwf"
+          },
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "A declared tie; no official nominees, though the ceremony's own script names Kamikazi, TJ Faith, Shannon York, Rusty Miller, Zac Moore, Curt Rock, and Colby Newsome alongside Al Magz as the top write-in choices.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-quickest-uprising-star",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Quickest Uprising Star",
+    "page": "/awards/xcwf-quickest-uprising-star.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "colby-newsome-xcwf"
+          }
+        ],
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-most-valuable-roleplayer",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Most Valuable Roleplayer",
+    "page": "/awards/xcwf-most-valuable-roleplayer.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "mystic-triad-xcwf"
+          },
+          {
+            "id": "newsome-brothers-xcwf"
+          }
+        ],
+        "vote_detail": "Billed jointly on the results table as \"Triad/Newsomes.\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-most-disliked-wrestler",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Most Disliked Wrestler",
+    "page": "/awards/xcwf-most-disliked-wrestler.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "mimic-xcwf"
+          }
+        ],
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-most-devastating-finisher",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Most Devastating Finisher",
+    "page": "/awards/xcwf-most-devastating-finisher.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "Billed on the results table for \"Ground Zero.\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "For \"Down in Ruins.\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-best-spot-in-a-match",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Best Spot in a Match",
+    "page": "/awards/xcwf-best-spot-in-a-match.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "newsome-brothers-xcwf"
+          }
+        ],
+        "vote_detail": "Billed on the results table as \"Slingshot Diamond Cutter on Makeshift Table at Summit - The Newsomes.\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "tasha-evans-xcwf"
+          }
+        ],
+        "vote_detail": "For \"baring it all\" after her win at Total HaVok II; over Daddy-O going through six tables at THII, Mimic accidentally chairing Tom Mason at THII, Kamikazi's \"Ground Zero\" on Zoron at New Dawn, Colby Newsome's attempted Senton Bomb on Darkside, Menace and Shannon York falling through the Scaffold at Reality, and Al Magz's title-winning \"A.M. Wake Up\" on Zac Moore at Reality.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-best-entrance-music",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Best Entrance Music",
+    "page": "/awards/xcwf-best-entrance-music.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "\"Praise\" by Sevendust.",
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-best-catchphrase",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Best Catchphrase",
+    "page": "/awards/xcwf-best-catchphrase.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "\"Hell Hath No Fury...\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      },
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "duff-xcwf"
+          }
+        ],
+        "vote_detail": "\"You can't get enough... OF THAT WONDERFUL DUFF!\"; over Al Magz's \"FUGETABOUTIT!\", Kamikazi's \"Hell hath no fury... Like Kamikazi... SCORNED!\", TJ Faith's \"You just need to have a little... FAITH!\", Mimic's \"I am Mimic. Know my name and... FEAR IT!\", and Shawn Boyd's \"If God were a wrestler, he would be Shawn Boyd.\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-best-promo-cut-by-a-wrestler",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Best Promo Cut by a Wrestler",
+    "page": "/awards/xcwf-best-promo-cut-by-a-wrestler.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "kamikazi-xcwf"
+          },
+          {
+            "id": "al-magz-xcwf"
+          }
+        ],
+        "vote_detail": "Billed jointly on the results table: Kamikazi's \"You think you know, but you have no idea...\" and Al Magz's \"Blood, Sweat, and Tears will be Shed.\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-01-20.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-most-hated-wrestler",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Most Hated Wrestler",
+    "page": "/awards/xcwf-most-hated-wrestler.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "thomas-mason-xcwf"
+          }
+        ],
+        "vote_detail": "\"A landslide,\" over 50% of the vote; over nominees Kamikazi, Mark Blaze, Mimic, Zac Moore, Jason Smith, and Daddy-O.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-most-inspirational-wrestler",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Most Inspirational Wrestler",
+    "page": "/awards/xcwf-most-inspirational-wrestler.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "Billed on-air as \"The Human Warplane\"; over Colby Newsome, Destroyer, Mark Estep, Al Magz, Rusty Miller, and Shannon York.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-most-improved-superstar",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Most Improved XCWF Superstar",
+    "page": "/awards/xcwf-most-improved-superstar.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "destroyer-xcwf"
+          }
+        ],
+        "vote_detail": "Billed on-air as \"the current XCWF Extreme Champion\"; over Darkside, Shawn Boyd, Shannon York, Al Magz, and Daddy-O.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-best-theme-music",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Best Theme Music",
+    "page": "/awards/xcwf-best-theme-music.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "name": "\"I Stand Alone\" by Godsmack (the Total HaVok II theme)",
+            "unminted": true
+          }
+        ],
+        "vote_detail": "Billed for \"the best XCWF Theme Music for a show or entrance,\" awarded to the Total HaVok II pay-per-view's own theme song; the XCWF Extreme Champion, Destroyer, objected on-air that his own entrance theme (\"I'm a Cloud\" by Boy Hits Car) should have won instead.",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-best-promo",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "Best Promo",
+    "page": "/awards/xcwf-best-promo.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "kamikazi-xcwf"
+          }
+        ],
+        "vote_detail": "For \"Momentos: Chapter 7 - 4 Ways from Sunday.\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  },
+  {
+    "id": "xcwf-staff-award",
+    "type": "award",
+    "promotion": "xcwf",
+    "name": "XCWF Staff Award",
+    "page": "/awards/xcwf-staff-award.html",
+    "bestowals": [
+      {
+        "year": 2002,
+        "recipient": [
+          {
+            "id": "curt-rock-xcwf"
+          }
+        ],
+        "vote_detail": "Billed on-air for \"his outstanding performances in the past couple of months since he arrived in the XCWF.\"",
+        "source": "promotions/xcwf/archive/x-awards-2002-04-28.html"
+      }
+    ]
+  }
+]

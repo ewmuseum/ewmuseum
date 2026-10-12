@@ -1,0 +1,256 @@
+[
+  {
+    "appearances": [
+      {
+        "kind": "match",
+        "who": "kane-action-extreme-wrestling"
+      },
+      {
+        "kind": "match",
+        "who": "splash-aew"
+      },
+      {
+        "kind": "match",
+        "who": "undertaker-action-extreme-wrestling"
+      },
+      {
+        "kind": "match",
+        "who": "the-perfectionist-aew"
+      },
+      {
+        "kind": "match",
+        "who": "jack-hammer-aew"
+      },
+      {
+        "kind": "match",
+        "who": "x-pac-action-extreme-wrestling"
+      },
+      {
+        "kind": "match",
+        "who": "doomsday-aew"
+      },
+      {
+        "kind": "match",
+        "who": "stone-cold-steve-austin-action-extreme-wrestling"
+      },
+      {
+        "kind": "match",
+        "who": "buff-bagwell-action-extreme-wrestling"
+      },
+      {
+        "kind": "match",
+        "who": "the-demolition-man-aew"
+      },
+      {
+        "kind": "match",
+        "who": "dark-solider-aew"
+      },
+      {
+        "kind": "match",
+        "who": "bossman-aew"
+      },
+      {
+        "capacity": "commentary",
+        "kind": "angle",
+        "who": "prez-ryan-aew"
+      },
+      {
+        "capacity": "commentary",
+        "kind": "angle",
+        "who": "tony-shavoni-aew"
+      },
+      {
+        "capacity": "commentary",
+        "kind": "angle",
+        "who": "vince-mcmahon-action-extreme-wrestling"
+      },
+      {
+        "capacity": "commentary",
+        "kind": "angle",
+        "who": "sting-action-extreme-wrestling"
+      },
+      {
+        "capacity": "ring-announcer",
+        "kind": "angle",
+        "who": "howard-finkel-action-extreme-wrestling"
+      },
+      {
+        "capacity": "referee",
+        "kind": "angle",
+        "who": "nick-patrick-action-extreme-wrestling"
+      },
+      {
+        "who": "stone-cold-steve-austin-doomsday-aew",
+        "kind": "match"
+      },
+      {
+        "who": "undertaker-kane-aew",
+        "kind": "match"
+      }
+    ],
+    "collection": "0073",
+    "date": {
+      "date": "1998-04-30",
+      "precision": "exact",
+      "source": "The results page's own title names the day and month (\"of April 30th\"); no document states the year directly. NOT day-of-week reasoning (CURATION.md's own day-of-week-method caution: brand day is fiction, never contradiction-grade) — the year is read from the fed's own guestbook, whose single earliest-ever entry (27 Apr 1998) opens an unbroken thread of match challenges and roster chatter (the wheelchair-match negotiation, the AEW Top Stable Title program, \"Big Sexy\" Kevin Nash's callouts) that runs through 7 May 1998 and lands on exactly the same storylines the front page's own \"Last Updated= Sunday, May 3rd\" note describes (roster additions, the Saturday Slamfest card, matches folded into the next Thursday Thrashin'). No comparable cluster of matching content exists near any other April 30 within the guestbook's own 1998–2000 span (its next entries jump to March 1999, discussing an unrelated European Title feud)."
+    },
+    "id": "aew-thursday-thrashin-april-30",
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "kane-action-extreme-wrestling"
+          ],
+          [
+            "splash-aew"
+          ]
+        ],
+        "winner_side": 1
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "undertaker-action-extreme-wrestling"
+          ],
+          [
+            "the-perfectionist-aew"
+          ]
+        ],
+        "winner_side": 0
+      },
+      {
+        "order": 3,
+        "sides": [
+          [
+            "jack-hammer-aew"
+          ],
+          [
+            "x-pac-action-extreme-wrestling"
+          ]
+        ],
+        "stipulation": "Barbwire Match",
+        "winner_side": 1
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "stone-cold-steve-austin-doomsday-aew",
+            "doomsday-aew",
+            "stone-cold-steve-austin-action-extreme-wrestling"
+          ],
+          [
+            "undertaker-kane-aew",
+            "undertaker-action-extreme-wrestling",
+            "kane-action-extreme-wrestling"
+          ]
+        ],
+        "winner_side": 1
+      },
+      {
+        "order": 5,
+        "participants": [
+          "doomsday-aew",
+          "stone-cold-steve-austin-action-extreme-wrestling",
+          "x-pac-action-extreme-wrestling",
+          "buff-bagwell-action-extreme-wrestling",
+          "the-demolition-man-aew",
+          "kane-action-extreme-wrestling",
+          "undertaker-action-extreme-wrestling",
+          "splash-aew",
+          "the-perfectionist-aew",
+          "jack-hammer-aew",
+          "dark-solider-aew",
+          "bossman-aew"
+        ],
+        "stipulation": "12-Man Royal Rumble",
+        "winner": "jack-hammer-aew"
+      }
+    ],
+    "name": "Thursday Thrashin' (April 30)",
+    "notes": "A commentary-team-narrated results script; the only full RESULTED show the surviving record preserves (two further cards were announced but never resulted — see aew-saturday-slamfest-upcoming and aew-thursday-thrashin-upcoming, both results-free). Full match-by-match structuring was done for this one show given its small size; the rest of the corpus (roster/titles/stables snapshots) was not similarly structured. The rotating commentary team (Prez Ryan, Tony Shavoni, Vince MacMahon, Sting), ring announcer (Howard Finkel) and referee (Nick Patrick) are billed under real or original names throughout and are captured as angle appearances.",
+    "page": "/promotions/action-extreme-wrestling/archive/thursday-thrashin-april-30-results.html",
+    "promotion": "action-extreme-wrestling",
+    "type": "show"
+  },
+  {
+    "appearances": [
+      {
+        "kind": "billed",
+        "note": "Announced as the challenger to nWo for the AEW Top Stable Title.",
+        "source": "/promotions/action-extreme-wrestling/archive/saturday-slamfest-upcoming.html",
+        "who": "extreme-icons-aew"
+      },
+      {
+        "kind": "billed",
+        "note": "Announced as the defending champion for the AEW Top Stable Title.",
+        "source": "/promotions/action-extreme-wrestling/archive/saturday-slamfest-upcoming.html",
+        "who": "nwo-aew"
+      },
+      {
+        "kind": "billed",
+        "source": "/promotions/action-extreme-wrestling/archive/saturday-slamfest-upcoming.html",
+        "who": "the-demolition-man-aew"
+      },
+      {
+        "kind": "billed",
+        "source": "/promotions/action-extreme-wrestling/archive/saturday-slamfest-upcoming.html",
+        "who": "bossman-aew"
+      }
+    ],
+    "collection": "0073",
+    "date": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "The page carries no date of its own; the front page's own \"Last Updated= Sunday, May 3rd\" note (a text bounded to 1998 — see aew-thursday-thrashin-april-30's own date note) records this card's own matches being removed and folded into the next Thursday Thrashin' announcement, which places this card's own announcement no later than early May 1998, but no firmer date survives."
+    },
+    "id": "aew-saturday-slamfest-upcoming",
+    "name": "Saturday Slamfest (upcoming)",
+    "notes": "An announced, results-free card — the front page's own update note says this card's matches were later removed and folded into the Thursday Thrashin' announcement (aew-thursday-thrashin-upcoming) instead; no result document survives for it under this title. The card's own text bills the challenger as \"E-X-I\", read here as the fed's own \"EXtreme Icons\" stable (attested under that exact abbreviation twice in the guestbook — DoomsDay's \"LOVE E-X-I\" sign-off and X-Pac's \"Sorry E-X-I\" taunt — against this page's own lone, unattested-elsewhere spelling).",
+    "page": "/promotions/action-extreme-wrestling/archive/saturday-slamfest-upcoming.html",
+    "promotion": "action-extreme-wrestling",
+    "type": "show"
+  },
+  {
+    "appearances": [
+      {
+        "kind": "billed",
+        "note": "Announced as the challenger to nWo for the AEW Top Stable Title.",
+        "source": "/promotions/action-extreme-wrestling/archive/thursday-thrashin-upcoming.html",
+        "who": "extreme-icons-aew"
+      },
+      {
+        "kind": "billed",
+        "note": "Announced as the defending champion for the AEW Top Stable Title.",
+        "source": "/promotions/action-extreme-wrestling/archive/thursday-thrashin-upcoming.html",
+        "who": "nwo-aew"
+      },
+      {
+        "kind": "billed",
+        "note": "Wheelchair match, no titles on the line — the same match negotiated in the fed's own guestbook on 30 Apr 1998.",
+        "source": "/promotions/action-extreme-wrestling/archive/thursday-thrashin-upcoming.html",
+        "who": "the-demolition-man-aew"
+      },
+      {
+        "kind": "billed",
+        "note": "Wheelchair match, no titles on the line — the same match negotiated in the fed's own guestbook on 30 Apr 1998.",
+        "source": "/promotions/action-extreme-wrestling/archive/thursday-thrashin-upcoming.html",
+        "who": "bossman-aew"
+      }
+    ],
+    "collection": "0073",
+    "date": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "The page carries no date of its own. It is a later Thursday Thrashin' card than the one already served with results (aew-thursday-thrashin-april-30) — its own wheelchair-match main event is negotiated between the two combatants in the fed's own guestbook on 30 Apr 1998, which bounds this card's own announcement to no earlier than that date."
+    },
+    "id": "aew-thursday-thrashin-upcoming",
+    "name": "Thursday Thrashin' (upcoming)",
+    "notes": "An announced, results-free card — not the same show as the results page served separately as \"Thursday Thrashin' of April 30th\" (aew-thursday-thrashin-april-30), which recaps an earlier date under the same recurring show name; no result document survives for this later card under this title. The card's own text bills the challenger as \"E-X-T\", read here as the same \"EXtreme Icons\" stable billed \"E-X-I\" on the Saturday Slamfest announcement and twice in the guestbook — a one-off spelling variant, consistent with the held record's general spelling instability (\"Dark Soilder\"/\"Dark Solider\", \"Prefectionist\"/\"Perfectionist\"), rather than a second, unrelated entity never billed anywhere else.",
+    "page": "/promotions/action-extreme-wrestling/archive/thursday-thrashin-upcoming.html",
+    "promotion": "action-extreme-wrestling",
+    "type": "show"
+  }
+]

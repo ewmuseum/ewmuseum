@@ -1,0 +1,488 @@
+[
+ {
+  "id": "kamikaze-ninjaz-wmw",
+  "type": "unit",
+  "name": "Kamikaze Ninjaz",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Ninja #1"
+   },
+   {
+    "name": "Ninja #2"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "stable",
+    "source": "lost the WMW Tag Team Championship to Lance Steele & Ryan Scott at High Stakes; the show script never gives either man a personal name, only \"Ninja #1\"/\"Ninja #2\" (promotions/wmw/archive/high-stakes-2003-04-25.html)"
+   }
+  ],
+  "caption": "Lost the WMW Tag Team Championship to Lance Steele & Ryan Scott at High Stakes, its two members never named beyond Ninja #1 and Ninja #2.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-dream-team-wmw",
+  "type": "unit",
+  "name": "The Dream Team",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Noah Hanson",
+    "character_id": "noah-hanson-rspwf"
+   },
+   {
+    "name": "Johnny Blayze",
+    "character_id": "johnny-blayze-wmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2003-04",
+    "last_seen": "2003-06",
+    "role": "tag team — WMW Tag Team Champions",
+    "source": "promotions/wmw/archive/champions-2003-06-13.html; promotions/wmw/archive/blood-factory-2003-05-23.html; promotions/wmw/archive/rankings-2003-06-13.html",
+    "note": "Beat Lance Steele & Ryan Scott for the WMW Tag Team Championship at Blood Factory, Noah Hanson submitting Ryan Scott with Scott's own finisher; ranked the #1 tag team on the fed's own 13 June rankings."
+   }
+  ],
+  "caption": "Beat Lance Steele & Ryan Scott for the WMW Tag Team Championship at Blood Factory.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-dream-team",
+     "the-dream-team-cswa"
+    ],
+    "note": "\"The Dream Team\" is a generic tag-team name; the mint guard flags an exact match against two other registered units. This Dream Team is Noah Hanson & Johnny Blayze, billed only on WMW's own champions page and 13 June 2003 rankings, a different fed and era from either of the other two. Recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "archforce-wmw",
+  "type": "unit",
+  "name": "ArchForce",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Archangel",
+    "character_id": "archangel-wmw"
+   },
+   {
+    "name": "Dess",
+    "character_id": "dess-wmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2003-03",
+    "last_seen": "2003-06",
+    "role": "tag team",
+    "source": "promotions/wmw/archive/ides-of-march-2003-03-28.html; promotions/wmw/archive/rankings-2003-06-13.html",
+    "note": "Dess and Archangel team as ArchForce (\"Who's gonna beat ArchForce? Not even the Champs can take us out!\" — Dess's own April column) after teaming, unnamed, to beat Sub-Beast & Garvin at Ides of March; ranked the #2 tag team on the 13 June rankings."
+   }
+  ],
+  "caption": "Dess and Archangel's own tag team, ranked #2 on WMW's own 13 June tag rankings.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "force"
+    ],
+    "note": "The mint guard flags this as a normalized substring/decorated-aka match. Nothing beyond the bare name connects them — this WMW character is billed only in the fed's own 2003 record, a different fed and era from the unqualified \"Force\" entity. Recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "fear-factor-wmw",
+  "type": "unit",
+  "name": "Fear-Factor",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Fury",
+    "character_id": "fury-wmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2003-06",
+    "last_seen": "2003-06",
+    "role": "tag team",
+    "source": "promotions/wmw/archive/rankings-2003-06-13.html",
+    "note": "Ranked #3 on the fed's own 13 June tag rankings, sharing its name with Fury's own finisher, the Fear-Factor; no document in the held record names a partner."
+   }
+  ],
+  "caption": "A WMW tag team named for Fury's own finisher; the record never names his partner.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "brothers-spartan-wmw",
+  "type": "unit",
+  "name": "The Brothers Spartan",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Maxx Spartan",
+    "character_id": "maxx-spartan-wmw"
+   },
+   {
+    "name": "Dr. Argyle Spartan",
+    "character_id": "dr-argyle-spartan-wmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2003-05",
+    "last_seen": "2003-06",
+    "role": "tag team",
+    "source": "promotions/wmw/archive/blood-factory-2003-05-23.html; promotions/wmw/archive/rankings-2003-06-13.html; promotions/wmw/archive/news-2003-06.html",
+    "note": "Beat Dracore and Flammin' Hot in a Blood Factory dark match, Max (Maxx Spartan) pinning Dracore; ranked #4 on the fed's own 13 June tag rankings."
+   }
+  ],
+  "caption": "Beat Dracore and Flammin' Hot in a Blood Factory dark match.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "pure-evil-wmw",
+  "type": "unit",
+  "name": "Pure Evil",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Matrix",
+    "character_id": "matrix-wmw"
+   },
+   {
+    "name": "The DT",
+    "character_id": "dt-wmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2003-05",
+    "last_seen": "2003-06",
+    "role": "stable",
+    "source": "promotions/wmw/archive/blood-factory-2003-05-23.html; promotions/wmw/archive/rankings-2003-06-13.html",
+    "note": "Formed on camera at Blood Factory's own main event: Matrix turns on Dess after a handshake (\"You want Cyberforce!?...TOO BAD!!\") and The DT runs in from the crowd to hit Dess with the Destruction Driver, the two of them raising hands together as Matrix declares \"a new era... PURE EVIL!!\"; ranked #5 on the fed's own 13 June tag rankings."
+   }
+  ],
+  "caption": "Matrix and The DT's own stable, formed by a post-match beatdown of Dess at Blood Factory.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-black-riders-wmw",
+  "type": "unit",
+  "name": "The Black Riders",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Volcano",
+    "character_id": "volcano-wmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2003-05",
+    "last_seen": "2003-06",
+    "role": "stable",
+    "source": "promotions/wmw/archive/blood-factory-2003-05-23.html; promotions/wmw/archive/rankings-2003-06-13.html",
+    "note": "Revealed at Blood Factory when Volcano, having rallied ringside for The Court moments earlier, turns on Dess and chokeslams him — he is wearing a Black Riders shirt underneath his Court shirt; ranked, inactive, on the fed's own 13 June tag rankings. No document in the held record names another member."
+   }
+  ],
+  "caption": "Volcano's own stable, revealed by a mid-match heel turn on Dess at Blood Factory.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-court-wmw",
+  "type": "unit",
+  "name": "The Court",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Katy Hummer",
+    "character_id": "katy-hummer-wmw"
+   },
+   {
+    "name": "Jordan Hammer",
+    "character_id": "jordan-hammer-wmw"
+   },
+   {
+    "name": "Adam King",
+    "character_id": "adam-king-wmw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2003-03",
+    "last_seen": "2003-05",
+    "role": "stable",
+    "source": "promotions/wmw/archive/ides-of-march-2003-03-28.html; promotions/wmw/archive/high-stakes-2003-04-25.html; promotions/wmw/archive/blood-factory-2003-05-23.html",
+    "note": "Revealed at Ides of March when three security guards blocking Sub-Beast's own corner tear off their shirts, Katy Hummer named as its own leader; Jordan Hammer and Adam King wrestle under its own banner at High Stakes. By High Stakes the commentary also describes a \"strong bond\" tying Dess, Archangel and a newly arrived Volcano to the group, none of whom is recorded here as a member on the strength of that alone; Volcano turns on the group at Blood Factory, revealed as a Black Rider underneath his own Court shirt."
+   }
+  ],
+  "caption": "The heel stable Katy Hummer revealed running WMW from behind the Commissioner's own desk.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cold-blooded-chris-courtade-rspwf",
+     "courtney-charisma-carter-faw"
+    ],
+    "note": "The mint guard flags this as a normalized substring/decorated-aka match. Nothing beyond the bare name connects them — this WMW character is billed only in the fed's own 2003 record, a different fed and era from RSPWF's own \"Cold Blooded\" Chris Courtade and FAW's own Courtney \"Charisma\" Carter (surname coincidence only). Recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "the-new-breed-wmw",
+  "type": "unit",
+  "name": "The New Breed",
+  "unit_kind": "stable",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2003-04",
+    "last_seen": "2003-04",
+    "role": "stable",
+    "grade": "billing",
+    "source": "promotions/wmw/archive/high-stakes-2003-04-25.html",
+    "note": "Billed as an entrant in the High Stakes Hardcore Invitational; the fed's own commentary reports the group simply never showed up to the pay-per-view. No individual member is ever named."
+   }
+  ],
+  "caption": "Billed for the High Stakes Hardcore Invitational; never arrived.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "new-breed-xcwf",
+     "violent-new-breed-giwf"
+    ],
+    "note": "The mint guard flags this as a normalized substring/decorated-aka match. Nothing beyond the bare name connects them — this WMW character is billed only in the fed's own 2003 record, a different fed and era from XCWF's own New Breed and GIWF's own Violent New Breed. Recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "the-evil-pigs-wmw",
+  "type": "unit",
+  "name": "The Evil Pigs",
+  "unit_kind": "stable",
+  "membership_unknown": true,
+  "members": [
+   {
+    "name": "Evil Dead"
+   },
+   {
+    "name": "Pig-Man"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "tag team — beat Global's Partners in Crime and Psycho Bunny at Crossfire II (2005), managed by The Exorcist",
+    "grade": "primary-source",
+    "source": "PTC forum, ew Events, thread \"Global & WMW Present: CROSSFIRE (Results)\", 2005"
+   },
+   {
+    "promotion": "gw",
+    "first_seen": "2005-07-03",
+    "last_seen": "2005-07-03",
+    "source": "Global Wrestling's own backstage database (accession 0159), bio 13661: the fed's own appearance record",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (1 show, every kind of appearance counted). Joined to this record on the evidence recorded in its identity row."
+   }
+  ],
+  "caption": "The Evil Pigs, a WMW tag team managed by The Exorcist, beat Global's Partners in Crime and Psycho Bunny at Crossfire II (2005).",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 0,
+    "reigns": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "Both named members (Evil Dead, Pig-Man) communicate only in animal noises (*groan*/*oink*) in the one surviving segment; neither is independently minted as a character.",
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Wrestling's biography card (accession 0159), bio 13661, is this record: Global's own side: Global 2261 (Crossfire II, 2005-07-03) \"Global vs. WMW Tag Team Dark Match Partners In Crime & Psycho Bunny (Global) vs. The Evil Pigs & The Exorcist (WMW)\". The held record's side: the-evil-pigs-wmw: from PTC ew Events \"Global & WMW Present: CROSSFIRE (Results)\" - \"beat Global's Partners in Crime and Psycho Bunny at Crossfire II (2005)\"."
+   }
+  ]
+ },
+ {
+  "id": "the-black-riders-ii-wmw",
+  "type": "unit",
+  "name": "The Black Riders",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Umbrage",
+    "character_id": "umbrage-wmw"
+   },
+   {
+    "name": "Garvin",
+    "character_id": "garvin-rspwf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wmw",
+    "first_seen": "2005",
+    "last_seen": "2005",
+    "role": "tag team — WMW's own Tag Team Champions, billed \"The Black Riders,\" against Global's Ruckus Inc. at Crossfire II (2005); the title match itself never happens, called off as a no-contest brawl before Umbrage turns on his own partner Garvin",
+    "grade": "primary-source",
+    "source": "PTC forum, ew Events, thread \"Global & WMW Present: CROSSFIRE (Results)\", 2005"
+   }
+  ],
+  "caption": "The Black Riders, Umbrage and Garvin, were WMW's own Tag Team Champions into Crossfire II (2005), where their title defense against Global's Ruckus Inc. broke down into a no-contest brawl and Umbrage turned on Garvin.",
+  "caption_asof": {
+   "written": "2026-09-24",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 0,
+    "reigns": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-black-riders-wmw"
+    ],
+    "note": "Shares its name with the-black-riders-wmw, WMW's own earlier stable revealed at Blood Factory (2003-05), whose only attested member is Volcano. No document connects the two rosters beyond the shared name and promotion; filed distinct under the collision doctrine, since the same recurring WMW stable name across a roster this different (Volcano solo in 2003, Umbrage and Garvin as Tag Champions in 2005) is genuine ambiguity, not a bare coincidence."
+   }
+  ]
+ }
+]

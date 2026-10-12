@@ -1,0 +1,66 @@
+[
+  {
+    "caption": "Outstanding World of Wrestling's own tag team, billed heel with a 1-1 record on the fed's own roster table.",
+    "caption_asof": {
+      "author": "ai",
+      "evidence": {
+        "appearances": 0,
+        "awards": 0,
+        "reigns": 0,
+        "relationships": 0,
+        "rps": 0,
+        "tenures": 1
+      },
+      "written": "2026-08-26"
+    },
+    "id": "studds-oww",
+    "membership_unknown": true,
+    "name": "Studds",
+    "tenures": [
+      {
+        "alignment": "Heel",
+        "first_seen": "?",
+        "grade": "primary-source",
+        "last_seen": "?",
+        "note": "Record shown on the roster table: 1-1.",
+        "promotion": "oww",
+        "role": "tag team",
+        "source": "the fed's own tag team roster table, served at /promotions/oww/archive/roster.html"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team"
+  },
+  {
+    "caption": "Outstanding World of Wrestling's own tag team, billed neutral with a 1-0 record on the fed's own roster table.",
+    "caption_asof": {
+      "author": "ai",
+      "evidence": {
+        "appearances": 0,
+        "awards": 0,
+        "reigns": 0,
+        "relationships": 0,
+        "rps": 0,
+        "tenures": 1
+      },
+      "written": "2026-08-26"
+    },
+    "id": "the-corsairs-oww",
+    "membership_unknown": true,
+    "name": "The Corsairs",
+    "tenures": [
+      {
+        "alignment": "Neutral",
+        "first_seen": "?",
+        "grade": "primary-source",
+        "last_seen": "?",
+        "note": "Record shown on the roster table: 1-0.",
+        "promotion": "oww",
+        "role": "tag team",
+        "source": "the fed's own tag team roster table, served at /promotions/oww/archive/roster.html"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team"
+  }
+]

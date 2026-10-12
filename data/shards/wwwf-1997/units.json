@@ -1,0 +1,242 @@
+[
+ {
+  "id": "wwwf-1997-head-hunters",
+  "type": "unit",
+  "name": "The Head Hunters",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Head Hunter #1",
+    "character_id": "head-hunter-1-wwwf-1997"
+   },
+   {
+    "name": "Head Hunter #2",
+    "character_id": "head-hunter-2-wwwf-1997"
+   }
+  ],
+  "notes": "Won the WrestlePania Tag Team Tournament to become the first WWWF World Tag Team Champions; Head Hunter #1 also won the Saturday ShootOut US Title battle royal. Valeted by Kimberly Page at WrestlePania.",
+  "caption": "The Head Hunters, who won the WrestlePania tag team tournament to become the WWWF's first World Tag Team Champions.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wwwf-1997"
+   }
+  ]
+ },
+ {
+  "id": "wwwf-1997-outsiders",
+  "type": "unit",
+  "name": "The Outsiders",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Scott Hall",
+    "character_id": "scott-hall-wwwf-1997"
+   },
+   {
+    "name": "Kevin Nash",
+    "character_id": "kevin-nash-wwwf-1997"
+   }
+  ],
+  "notes": "Managed by Ted DiBiase; lost the WrestlePania Tag Team Tournament's opening round to the Macho Men by DQ and lost again to the Hart Breakers at Saturday ShootOut, both times on DiBiase's own interference.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with kevin-nash-xwf-uwow (and likely other portrayals of the same real wrestler elsewhere in the registry) -- not a collision to adjudicate: a real wrestler portrayed by two different feds is never merged across promotions, per CURATION.md v96 (the per-promotion portrayal doctrine). The external-figures.json spine is the shared node, never this row.",
+    "with": [
+     "kevin-nash-xwf-uwow"
+    ]
+   }
+  ],
+  "caption": "A tag team billed by WWWF 1997 in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wwwf-1997"
+   }
+  ]
+ },
+ {
+  "id": "wwwf-1997-horsemen",
+  "type": "unit",
+  "name": "The Horsemen",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Chris Benoit",
+    "character_id": "chris-benoit-wwwf-1997"
+   },
+   {
+    "name": "Dean Malenko",
+    "character_id": "dean-malenko-wwwf-1997"
+   }
+  ],
+  "notes": "The Tag Team Tournament pairing of Benoit and Malenko specifically (managed by Alistar Marvelous at WrestlePania); beat the Eliminators, lost to the Head Hunters in the semifinal, and beat the Macho Men at Saturday ShootOut. Ric Flair and Arn Anderson are separately billed on the same cards as Horsemen-affiliated singles wrestlers but never teamed as this unit in the servable corpus.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with the existing unit the-horsemen-iewa (and possibly other same-named units elsewhere in the registry) -- a generic/real tag-team or stable name many unrelated feds independently reuse; not a merge candidate absent primary-source evidence of shared membership or operator, per the no-auto-merge doctrine.",
+    "with": [
+     "the-horsemen-iewa"
+    ]
+   }
+  ],
+  "caption": "A tag team billed by WWWF 1997 in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wwwf-1997"
+   }
+  ]
+ },
+ {
+  "id": "wwwf-1997-macho-men",
+  "type": "unit",
+  "name": "The Macho Men",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Randy Savage",
+    "character_id": "randy-savage-wwwf-1997"
+   },
+   {
+    "name": "Sting",
+    "character_id": "sting-wwwf-1997"
+   }
+  ],
+  "notes": "The WWWF's own ad hoc Tag Team Tournament pairing of Savage and Sting; reached the tournament final on a bye and lost a three-straight-pinfalls Death Match to the Head Hunters, then lost again to the Horsemen at Saturday ShootOut.",
+  "caption": "A tag team billed by WWWF 1997 in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wwwf-1997"
+   }
+  ]
+ },
+ {
+  "id": "wwwf-1997-eliminators",
+  "type": "unit",
+  "name": "The Eliminators",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Saturn",
+    "character_id": "saturn-wwwf-1997"
+   },
+   {
+    "name": "Kronus",
+    "character_id": "kronus-wwwf-1997"
+   }
+  ],
+  "notes": "Managed by Francine at WrestlePania; lost the Tag Team Tournament's opening round to the Horsemen, then beat the Nation of Domination by DQ at Saturday ShootOut.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name/aka collides with the existing unit the-eliminators-ewa-email (and possibly other same-named units elsewhere in the registry) -- a generic/real tag-team or stable name many unrelated feds independently reuse; not a merge candidate absent primary-source evidence of shared membership or operator, per the no-auto-merge doctrine.",
+    "with": [
+     "the-eliminators-ewa-email"
+    ]
+   }
+  ],
+  "caption": "A tag team billed by WWWF 1997 in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wwwf-1997"
+   }
+  ]
+ },
+ {
+  "id": "wwwf-1997-nation-of-domination",
+  "type": "unit",
+  "name": "Nation of Domination",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Crush",
+    "character_id": "crush-wwwf-1997"
+   },
+   {
+    "name": "Savio Vega",
+    "character_id": "savio-vega-wwwf-1997"
+   }
+  ],
+  "notes": "The two-man Tag Team Tournament incarnation of the real Nation of Domination stable, managed by Clarence Mason at WrestlePania (disqualified there for his own top-rope shove); lost to the Eliminators at Saturday ShootOut.",
+  "caption": "A tag team billed by WWWF 1997 in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "wwwf-1997"
+   }
+  ]
+ }
+]

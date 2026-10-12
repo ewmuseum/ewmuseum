@@ -1,0 +1,43 @@
+[
+  {
+    "id": "rusty-ab-talyor-ecew",
+    "type": "character",
+    "name": "Rusty A.B. Talyor",
+    "aka": [
+      "The Legend Rusty A.B. Talyor"
+    ],
+    "tenures": [
+      {
+        "promotion": "ecew",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1997-11",
+        "last_seen": "1997-11",
+        "source": "promotions/ecew/archive/ecew-roster-1997-11-18.html; promotions/ecew/archive/ecew-roster-1997-11-26.html"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "An original ring persona; no primary-source evidence connects this ECEW persona to any similarly-named entry elsewhere in the registry (checked against data/characters.json, no match).",
+        "with": []
+      }
+    ],
+    "notes": "Self-portrayal, v105(a): the handler's own two posts narrate a career of 820 wins/50 losses and 226 titles across 16 e-feds over six years, and separately claim UFO World, UFO US and WEWF Tag titles -- none of them ECEW's own, so none is registered as an ECEW reign. A tag partner (\"Mob Deep\") and a kayfabe manager (\"Suzzie F. Talyor\") are named in the same document but not separately minted this pass, an honest decline given no further appearance evidence for either.",
+    "caption": "ECEW's own claimed six-year, sixteen-fed veteran, his career record self-reported across two roster posts naming his ECEW World Tag Team Championship reign.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

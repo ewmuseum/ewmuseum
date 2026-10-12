@@ -1,0 +1,242 @@
+[
+ {
+  "id": "nubian-warriors-aicw",
+  "type": "unit",
+  "name": "The Nubian Warriors",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "id": "nelson-bukola-aicw"
+   },
+   {
+    "id": "muffasa-bukola-aicw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aicw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1998",
+    "grade": "primary-source",
+    "source": "promotions/aicw/archive/ (the fed's own served show-scripts)"
+   }
+  ],
+  "caption": "The Nubian Warriors, AICW's own first-ever World Tag Team Champions, crowned at Apocalypse '97 before losing the belts to the Perfectly Perfect Duo at Seasons Beatings/Violent Night.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-31"
+  }
+ },
+ {
+  "id": "perfectly-perfect-duo-aicw",
+  "type": "unit",
+  "name": "The Perfectly Perfect Duo",
+  "aka": [
+   "PPD"
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "id": "lance-studd-aicw"
+   },
+   {
+    "id": "max-studd-aicw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aicw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1998",
+    "grade": "primary-source",
+    "source": "promotions/aicw/archive/ (the fed's own served show-scripts)"
+   },
+   {
+    "promotion": "dwo-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-11",
+    "last_seen": "1999-11",
+    "source": "Final Fight (28 November 1999): billed the reigning DWO World Tag Team Champions, retaining the titles against the Natural Born Killers with their own manager's botched interference nearly costing them the match.",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "awp",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-06-10",
+    "last_seen": "2001-06-13",
+    "grade": "primary-source",
+    "source": "The federation's own 2001 cards, roleplays and bulletins, 10 June 2001 to 13 June 2001.",
+    "note": "Lance and Max Studd with their manager \"Sensuous\" Samantha, billed AWP Heavyweight Tag Champions in June 2001 after winning the titles for a second time from the American Renegades."
+   }
+  ],
+  "caption": "The Perfectly Perfect Duo, Lance and Max Studd, who won the AICW World Tag Team Championship from the Nubian Warriors at Seasons Beatings/Violent Night and held it through the whole of the surviving record after.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-31"
+  }
+ },
+ {
+  "id": "asian-assassination-squad-aicw",
+  "type": "unit",
+  "name": "The Asian Assassination Squad",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "id": "blackjack-takahashi-aicw"
+   },
+   {
+    "id": "thripaq-nguyen-aicw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aicw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998",
+    "last_seen": "1998",
+    "grade": "primary-source",
+    "source": "promotions/aicw/archive/survival-of-the-fittest.html"
+   }
+  ],
+  "caption": "The Asian Assassination Squad, Blackjack Takahashi and Thripaq Nguyen, billed as AICW's own North American Tag Team Champions on the fed's own Survival of the Fittest.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-31"
+  }
+ },
+ {
+  "id": "pain-connection-aicw-unit",
+  "type": "unit",
+  "name": "The Pain Connection",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "id": "steve-dunne-aicw"
+   },
+   {
+    "id": "danny-moore-aicw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aicw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1998",
+    "grade": "primary-source",
+    "source": "promotions/aicw/archive/ (the fed's own served show-scripts)"
+   }
+  ],
+  "caption": "The Pain Connection, \"Sadistic\" Steve Dunne and \"The Masochist\" Danny Moore, a recurring AICW tag team tied to the Demonweb stable.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-31"
+  }
+ },
+ {
+  "id": "money-and-power-aicw",
+  "type": "unit",
+  "name": "Money and Power",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "id": "greg-days-aicw"
+   },
+   {
+    "id": "jason-steele-aicw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aicw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "source": "promotions/aicw/archive/monday-night-war-1997-10-06.html; promotions/aicw/archive/apocalypse-97.html"
+   }
+  ],
+  "caption": "Money and Power, Greg Days and Jason Steele, a recurring AICW tag team managed by \"Erotic\" Erin McCoys.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-31"
+  }
+ },
+ {
+  "id": "reign-of-terror-aicw",
+  "type": "unit",
+  "name": "Reign of Terror",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "id": "armageddon-aicw"
+   },
+   {
+    "id": "abomination-aicw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aicw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1998",
+    "grade": "primary-source",
+    "source": "promotions/aicw/archive/ (the fed's own served show-scripts)"
+   }
+  ],
+  "caption": "Reign of Terror, Armageddon and Abomination, a recurring AICW tag team billed at different points as part of \"the Four Souls From Out of Hell.\"",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-31"
+  }
+ },
+ {
+  "id": "asian-assasination-squad-rspwf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Asian Assasination Squad",
+  "members": [],
+  "tenures": [
+   {
+    "promotion": "aicw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": null,
+    "last_seen": null,
+    "source": "Tagged AICW in the RSPWF Top 200 Tag Teams for 1998."
+   }
+  ],
+  "caption": "Ranked #89 in the RSPWF Top 200 Tag Teams for 1998 (Thripaq Nygun & Blackjack Turahashi), tagged AICW.",
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0
+   }
+  },
+  "membership_unknown": true
+ }
+]

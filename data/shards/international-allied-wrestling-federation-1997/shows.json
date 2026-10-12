@@ -1,0 +1,38 @@
+[
+  {
+    "id": "iawf97-heat-wave-1997-08-03",
+    "type": "show",
+    "name": "Heat Wave",
+    "promotion": "international-allied-wrestling-federation-1997",
+    "date": {
+      "date": "1997-08-03",
+      "precision": "exact",
+      "source": "The card's own announced date."
+    },
+    "page": "/promotions/international-allied-wrestling-federation-1997/archive/charter-and-heat-wave-card-1997-07-15.html",
+    "collection": "0148",
+    "venue": "IAWF Arena",
+    "appearances": [
+      {
+        "who": "phoenix-iawf-1997",
+        "kind": "billed",
+        "capacity": "wrestler",
+        "source": "promotions/international-allied-wrestling-federation-1997/archive/charter-and-heat-wave-card-1997-07-15.html"
+      },
+      {
+        "who": "old-el-paso-iawf-1997",
+        "kind": "billed",
+        "capacity": "wrestler",
+        "source": "promotions/international-allied-wrestling-federation-1997/archive/charter-and-heat-wave-card-1997-07-15.html"
+      },
+      {
+        "who": "indigo-iawf-1997",
+        "kind": "billed",
+        "capacity": "wrestler",
+        "source": "promotions/international-allied-wrestling-federation-1997/archive/charter-and-heat-wave-card-1997-07-15.html"
+      }
+    ],
+    "matches": [],
+    "notes": "A card announcement, not a results report -- no outcome is recorded in the surviving record, so no matches[] entries are asserted (billed appearances only, per the billed-appearance convention). Further announced bouts (a Women's International title four-way qualifier, and undercard matches naming James Blonde, Jack \"The Ripper\" Ripley, The Machine, Sapphire, Parker Post, The Hitman, and others) are named in the document but not separately structured."
+  }
+]

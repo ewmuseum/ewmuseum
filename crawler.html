@@ -1,0 +1,127 @@
+
+<!-- chrome:head:start -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EWMuseumBot &mdash; E-WRESTLING MUSEUM</title>
+<script src="/js/theme.js?v=5"></script>
+<link rel="stylesheet" href="/style.css?v=22">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://ewmuseum.org/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="masthead">
+  <div class="inner">
+    <a class="wordmark" href="/"><svg class="ringmark-lg" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><use href="/ringmark.svg#ewm"/></svg><svg class="ringmark" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect class="m-apron" width="16" height="16" rx="2"/><rect class="m-rope" x="2.5" y="2.5" width="11" height="11"/><path class="m-pad" d="M0 0h4v4H0zM12 0h4v4h-4zM0 12h4v4H0zM12 12h4v4h-4z"/><rect class="m-core" x="6" y="6" width="4" height="4"/><rect class="m-edge" x=".5" y=".5" width="15" height="15" rx="1.5"/></svg><span class="wm-text">THE E-WRESTLING <span class="nw">MUSEUM<span class="dot">.</span></span></span></a>
+    <div class="tagline">a museum of fantasy wrestling, built one collection at a time</div>
+    <nav class="gallery">
+      <a href="/promotions.html">Wings</a>
+      <a href="/characters.html">Characters</a>
+      <a href="/units.html">Units</a>
+      <a href="/relationships.html">Relationships</a>
+      <a href="/shows.html">Shows</a>
+      <a href="/matches.html">Matches</a>
+      <a href="/appearances.html">Appearances</a>
+      <a href="/rps.html">Roleplays</a>
+      <a href="/championships.html">Championships</a>
+      <a href="/reigns.html">Reigns</a>
+      <a href="/awards.html">Awards</a>
+      <a href="/bestowals.html">Bestowals</a>
+      <a href="/halloffame.html">Halls of Fame</a>
+      <a href="/in-memoriam.html">In Memoriam</a>
+      <a href="/essays.html">Essays</a>
+    </nav>
+  </div>
+  <span id="main-content" tabindex="-1"></span>
+</header>
+<!-- chrome:head:end -->
+
+<main class="wrap">
+  <span class="kicker">The Crawler</span>
+  <h1>EWMuseumBot</h1>
+  <p class="lede">Found this in your logs? Thanks for looking before blocking.</p>
+
+  <!-- crawler-subdomain-note:start -->
+  <p class="note">This page also answers at
+  <a href="https://crawler.ewmuseum.org/">crawler.ewmuseum.org</a>, the address the
+  user-agents below name.</p>
+  <!-- crawler-subdomain-note:end -->
+
+  <p><strong>What it is.</strong> The preservation crawler of the E-Wrestling
+  Museum, an archive of fantasy wrestling (e-feds, play-by-mail leagues,
+  roleplay federations). Operated by a person, for preservation &mdash; not a
+  search engine, ad harvester, or training-data collector.</p>
+
+  <p><strong>The rules.</strong> Active communities are collected and held,
+  never published. Only closed promotions are exhibited, with private
+  people&#x27;s real names redacted.</p>
+
+  <h2>Where it goes, and why</h2>
+  <p>EWMuseumBot visits the public pages of community sites &mdash; forums,
+  league sites, federation homepages &mdash; for three reasons, and no
+  others:</p>
+  <ol>
+    <li><strong>To preserve.</strong> A closed federation&#x27;s site that is
+    still online today may not be tomorrow. The museum copies it while it
+    can, and holds the copy.</li>
+    <li><strong>To list what&#x27;s coming.</strong> Once a week it looks at a
+    living federation&#x27;s own public pages for upcoming shows. Those pages
+    are never served by the museum; a show is only listed, by date, in
+    <a href="/crawler/upcoming.ics">the museum&#x27;s calendar of upcoming
+    shows</a>, with a link back to the federation&#x27;s own page.</li>
+    <li><strong>To find where the hobby lives.</strong> A census of which
+    communities exist and where, so the museum knows whom to ask and what to
+    save.</li>
+  </ol>
+
+  <p><strong>How it behaves.</strong> Identifies as
+  <code>EWMuseumBot/1.0 (+https://crawler.ewmuseum.org/)</code>, obeys
+  <code>robots.txt</code> (both <code>*</code> and its own name; a group
+  naming EWMuseumBot wins over <code>*</code>), keeps to one stream per
+  host &mdash; one page at a time &mdash; and waits eight to twenty seconds
+  between requests on a forum, longer if your <code>Crawl-delay</code> asks.
+  It never logs in or posts, and it stops at a refusal: a block, a rate
+  limit or a challenge page ends the visit for that site, and nothing is
+  retried around it.</p>
+
+  <p><strong>To block it:</strong></p>
+  <pre>User-agent: EWMuseumBot
+Disallow: /</pre>
+  <p>Checked before every visit; honored immediately, no retry under another
+  name. And if your promotion has history you&#x27;d rather hand over whole
+  someday, the museum prefers records given from your own hands over crawls &mdash; this page will carry
+  the way in when the doors open.</p>
+
+  <h2>The archive-research identity</h2>
+  <p>Collection work against public web archives &mdash; the Wayback Machine
+  and its CDX index, Common Crawl, Arquivo.pt &mdash; and only against
+  them, never against a community site, identifies as:</p>
+  <p><code>ewrestling-museum-collection-analyst/1.0 (+https://crawler.ewmuseum.org/; contact: crawler@ewmuseum.org)</code></p>
+  <p>Serial, rate-limited, backs off on load signals.</p>
+
+  <h2>Questions</h2>
+  <p>Both identities answer to the same person and the same address,
+  <a href="mailto:crawler@ewmuseum.org">crawler@ewmuseum.org</a>. Write if
+  the crawler has bothered you, if you want a page left alone, or if you
+  want to talk.</p>
+
+<!-- chrome:footer:start -->
+  <footer role="contentinfo">
+THE E-WRESTLING MUSEUM <span class="rule">/</span> Crawler <span class="rule">/</span>
+    <a href="/">back to the lobby</a><br>
+    Written 2026 &mdash; not backdated. See <a href="/curation.html">Curation</a>.
+    <!-- footernav:start --><nav class="footnav" aria-label="Elsewhere"><a href="/search.html">Search</a> <span class="rule">/</span> <a href="https://forum.ewmuseum.org">The forum</a> <span class="rule">/</span> <a href="https://e-wrestling.org">e-wrestling.org</a></nav><!-- footernav:end -->
+  </footer>
+</main>
+</body>
+</html>
+<!-- chrome:footer:end -->

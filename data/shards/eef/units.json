@@ -1,0 +1,52 @@
+[
+ {
+  "id": "the-monarchy-eef",
+  "type": "unit",
+  "name": "The Monarchy",
+  "membership_unknown": false,
+  "caption": "Marquis \"The King\" Sia and James \"The Squire\" Bane, with manager Queen Victoria -- the first EEF Tag Team Champions, beating the Italian Stallions in the Grand European final.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "eef"
+   }
+  ],
+  "members": [
+   {
+    "character_id": "marquis-sia-eef",
+    "name": "Marquis \"The King\" Sia"
+   },
+   {
+    "character_id": "james-bane-eef",
+    "name": "James \"The Squire\" Bane"
+   }
+  ]
+ },
+ {
+  "id": "italian-stallions-eef",
+  "type": "unit",
+  "name": "The Italian Stallions",
+  "membership_unknown": true,
+  "caption": "Lost the Grand European's own EEF Tag Team Championship final to The Monarchy.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "eef"
+   }
+  ]
+ }
+]

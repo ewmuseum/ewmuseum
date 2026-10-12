@@ -1,0 +1,139 @@
+[
+ {
+  "id": "ewa-extreme-world-r002",
+  "title": "ewa-extreme-world",
+  "label": "The Model",
+  "holder": [
+   {
+    "id": "the-model-ewa-extreme"
+   }
+  ],
+  "won": {
+   "date": "2008-04-12",
+   "precision": "exact",
+   "source": "the fed's own CAGED card: “The winner of this match, and New EWA World Champion The Model!!!”"
+  },
+  "lost": null,
+  "how": "Beat Commander D in the Hell in a Cell main event of CAGED; retained at Royal Demolitions on 10 May 2008 by taking the belt down from the ladder himself.",
+  "event": "ewa-extreme-caged-2008-04-12",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewa-extreme-world-r001",
+  "title": "ewa-extreme-world",
+  "label": "Commander D",
+  "holder": [
+   {
+    "id": "commander-d-ewa-extreme"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No won date survives; the ring announcer bills him as the reigning EWA World Champion at CAGED, 12 April 2008."
+  },
+  "lost": {
+   "date": "2008-04-12",
+   "precision": "exact"
+  },
+  "how": "Lost the belt to the Model in a Hell in a Cell main event at CAGED.",
+  "note": "The start of this reign is not in the surviving record.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ewa-extreme-tag-team-r001",
+  "title": "ewa-extreme-tag-team",
+  "label": "X-Rated",
+  "holder": [
+   {
+    "id": "x-rated-ewa-extreme"
+   }
+  ],
+  "won": {
+   "date": "2008-04-12",
+   "precision": "exact",
+   "source": "the fed's own CAGED card: “The winners of this match, and new EWA World Tag champions, X-Rated!!!”"
+  },
+  "lost": null,
+  "how": "Won a four-team Hell in a Cell at CAGED for the belts the Chairman of the Board had stripped from the previous champions.",
+  "note": "The stripped champions are not named on the card. The card's own action text never shows the Model or Red Steel wrestling this match by name -- it credits all of X-Rated's offense and the submission fall to Phoenix (unbilled on any of the four teams) over the Extreme Menace, and the ring announcer's credit to X-Rated stands as the fed's declared result regardless (see shows.json's own match note on ewa-extreme-caged-2008-04-12).",
+  "event": "ewa-extreme-caged-2008-04-12",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewa-extreme-television-r001",
+  "title": "ewa-extreme-television",
+  "label": "The Renagade",
+  "holder": [
+   {
+    "id": "the-renagade-ewa-extreme"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No won date survives; the ring announcer bills him with the EWA TV title belt from the first held card, 3 April 2008."
+  },
+  "lost": null,
+  "how": "Defended against King on 3 April 2008 and against Xero on 21 April 2008.",
+  "note": "The start of this reign is not in the surviving record.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewa-extreme-north-american-r001",
+  "title": "ewa-extreme-north-american",
+  "label": "Andy",
+  "holder": [
+   {
+    "id": "andy-ewa-extreme"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No won date survives; the ring announcer bills him with the EWA North American title belt from the first held card, 3 April 2008."
+  },
+  "lost": null,
+  "how": "Defended in a cage against the Renagade at CAGED and against “The Real Deal” Jimmy Steele at Royal Demolitions.",
+  "note": "The start of this reign is not in the surviving record.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewa-extreme-lightweight-r001",
+  "title": "ewa-extreme-lightweight",
+  "label": "The Extreme Menace",
+  "holder": [
+   {
+    "id": "the-extreme-menace-ewa-extreme"
+   }
+  ],
+  "won": {
+   "date": "2008-05-10",
+   "precision": "exact",
+   "source": "the fed's own Royal Demolitions card: “The winner of this match, and new EWA Lightweight champion, The Extreme Menace!!!”"
+  },
+  "lost": null,
+  "how": "Won a four-man Ultimate Ladder match at Royal Demolitions.",
+  "event": "ewa-extreme-royal-demolitions-2008-05-10",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewa-extreme-hardcore-r001",
+  "title": "ewa-extreme-hardcore",
+  "label": "Red Steel",
+  "holder": [
+   {
+    "id": "red-steel-ewa-extreme"
+   }
+  ],
+  "won": {
+   "date": "2008-05-10",
+   "precision": "exact",
+   "source": "the fed's own Royal Demolitions card: “The winner of this match, and new EWA Hardcore champion, Red Steel!!!”"
+  },
+  "lost": null,
+  "how": "Beat the Renagade and the Dark Angel in a Falls Count Anywhere Hardcore Brawl at Royal Demolitions.",
+  "event": "ewa-extreme-royal-demolitions-2008-05-10",
+  "end_how": "still-champion-at-record-end"
+ }
+]

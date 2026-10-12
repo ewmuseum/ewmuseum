@@ -1,0 +1,786 @@
+[
+ {
+  "id": "natural-criminals-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Natural Criminals",
+  "members": [
+   {
+    "name": "Natural Born Killah",
+    "character_id": "natural-born-killah-kawf"
+   },
+   {
+    "name": "\"Deadly Method\" Shawn Foster",
+    "character_id": "shawn-foster-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-05-09",
+    "last_seen": "2004-05-09",
+    "source": "the federation's own comeback broadcast, KAWF Saturday Night Fever, 9 May 2004 (4 parts)"
+   }
+  ],
+  "caption": "Opened the federation's 2004 comeback broadcast with a win over The Business Men.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A different tag team of the same name is recorded elsewhere, on an unrelated federation five years earlier; nothing links the two beyond the shared name.",
+    "with": [
+     "natural-criminals-ewa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "business-men-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Business Men",
+  "members": [
+   {
+    "name": "\"The Disciple\" Seth Baptist",
+    "character_id": "seth-baptist-kawf"
+   },
+   {
+    "name": "\"The Business Man\" Tommy Taylor",
+    "character_id": "tommy-taylor-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-05-09",
+    "last_seen": "2004-05-09",
+    "source": "the federation's own comeback broadcast, KAWF Saturday Night Fever, 9 May 2004 (4 parts)"
+   },
+   {
+    "promotion": "saw-southern-alliance-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-03-24",
+    "last_seen": "2002-04-07",
+    "source": "/promotions/saw-southern-alliance-2002/archive/saw-southern-alliance-2002-war-stories-2002-03-24.html; /promotions/saw-southern-alliance-2002/archive/saw-southern-alliance-2002-war-stories-2002-04-07.html"
+   }
+  ],
+  "caption": "Lost the opening bout of the federation's 2004 comeback broadcast to Natural Criminals.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0
+   }
+  }
+ },
+ {
+  "id": "consortium-kawf",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "Con$ortium",
+  "members": [
+   {
+    "name": "\"Falling Angel\" Adam Caine",
+    "character_id": "adam-caine-kawf"
+   },
+   {
+    "name": "\"The Perfect Creation\" Kyle Sommers",
+    "character_id": "kyle-sommers-kawf"
+   },
+   {
+    "name": "\"Playboy\" Tyler Rose",
+    "character_id": "tyler-rose-kawf"
+   },
+   {
+    "name": "Jarrod Storm",
+    "character_id": "jarrod-storm-kawf"
+   },
+   {
+    "name": "Jasmine",
+    "character_id": "jasmine-kawf"
+   },
+   {
+    "name": "Tender Smith",
+    "character_id": "tender-smith-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-05-26",
+    "last_seen": "2004-12-04",
+    "source": "the federation's own house-show reporter's recap of a house show in Monroe, Louisiana, 26 May 2004 (the group's own debut); SAWF Saturday Night Fever, 4 December 2004 (main event)."
+   }
+  ],
+  "caption": "Won the federation's first broadcast under its SAWF rename in a six-man stable-versus-stable main event over PiPiPi.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0
+   }
+  },
+  "notes": "Debuted at a house show in Monroe, Louisiana, interrupting the card to declare itself the wrestling arm of the Cash Money Brothers. Jarrod Storm and Kyle Sommers also wrestle together as a named tag pairing within the group, the Perfect Storm."
+ },
+ {
+  "id": "pipipi-kawf",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "PiPiPi",
+  "members": [
+   {
+    "name": "\"Fan Frickintastic\" DJ Hawthorne",
+    "character_id": "dj-hawthorne-kawf"
+   },
+   {
+    "name": "Donnie \"The Dragon\" Rakowski",
+    "character_id": "donnie-rakowski-kawf"
+   },
+   {
+    "name": "Maddy Skillz",
+    "character_id": "maddy-skillz-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-12-04",
+    "last_seen": "2005-01-01",
+    "source": "SAWF Saturday Night Fever, 4 December 2004 (main event); kawf-saturday-night-fever-2004-12-18; kawf-saturday-night-fever-2005-01-01."
+   }
+  ],
+  "caption": "Lost the federation's first broadcast under its SAWF rename in a six-man stable-versus-stable main event to Con$ortium; leader DJ Hawthorne went on to earn a Cruiserweight Championship shot two weeks later.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0
+   }
+  }
+ },
+ {
+  "id": "turnbow-brothers-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Turnbow Brothers",
+  "members": [
+   {
+    "name": "\"The Finisher\" Will Turnbow",
+    "character_id": "will-turnbow-kawf"
+   },
+   {
+    "name": "\"Country Club\" Jay Turnbow",
+    "character_id": "jay-turnbow-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-05-12",
+    "last_seen": "2004-05-12",
+    "source": "the federation's own house-show reporter's recap of a house show in Shreveport, Louisiana, 12 May 2004"
+   }
+  ],
+  "caption": "Opened the federation's 2004 comeback season with a win over To GOOD For You at a house show in Shreveport.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "to-good-for-you-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "To GOOD For You",
+  "members": [
+   {
+    "name": "Mike Crayton",
+    "character_id": "mike-crayton-kawf"
+   },
+   {
+    "name": "Taylor Moore",
+    "character_id": "taylor-moore-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-05-12",
+    "last_seen": "2004-05-12",
+    "source": "the federation's own house-show reporter's recap of a house show in Shreveport, Louisiana, 12 May 2004"
+   }
+  ],
+  "caption": "Opened the federation's 2004 comeback season in a loss to the Turnbow Brothers at a house show in Shreveport.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "blackbirds-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Blackbirds",
+  "members": [
+   {
+    "name": "Tony T",
+    "character_id": "tony-t-kawf"
+   },
+   {
+    "name": "JJ Steele",
+    "character_id": "jj-steele-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-06-09",
+    "last_seen": "2004-06-09",
+    "source": "the federation's own house-show reporter's recap of a house show in New Orleans, Louisiana, 9 June 2004"
+   }
+  ],
+  "caption": "Both submitted to Kai Lewis in a handicap match at a house show in New Orleans after Kai bought their place on the card.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "boys-next-door-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Boys Next Door",
+  "members": [
+   {
+    "name": "Sammy Griffin",
+    "character_id": "sammy-griffin-rspwf"
+   },
+   {
+    "name": "Garrett Jax",
+    "character_id": "garrett-jax-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-05-12",
+    "last_seen": "2005-01-02",
+    "source": "the federation's own house-show reporter's recap of a house show in Shreveport, Louisiana, 12 May 2004; kawf-sunday-night-war-stories-2005-01-02."
+   }
+  ],
+  "caption": "A face tag team who beat down a pair of jobbers at ringside on the federation's 2004 comeback season's own opening house show.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "youth-gone-wrong-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Youth Gone Wrong",
+  "members": [
+   {
+    "name": "\"Xtreme Raver\" Trance Extacy",
+    "character_id": "trance-extacy-kawf"
+   },
+   {
+    "name": "\"All the Rage\" Justin Cage",
+    "character_id": "justin-cage-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-06-13",
+    "last_seen": "2004-07-03",
+    "source": "KAWF Update #8, 15 June 2004 (news bulletin); KAWF Update #10, 8 July 2004 (news bulletin)"
+   }
+  ],
+  "caption": "Won the vacant KAWF Tag Team Championship in a four-way elimination match at the federation's own first pay-per-view, then lost it back to the True All Stars three weeks later.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  },
+  "notes": "Managed on-air by Kristen Roberts."
+ },
+ {
+  "id": "true-all-stars-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "True All Stars",
+  "members": [
+   {
+    "name": "Xavier Orion",
+    "character_id": "xavier-orion-kawf"
+   },
+   {
+    "name": "Zodiak",
+    "character_id": "zodiak-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-06-13",
+    "last_seen": "2004-12-18",
+    "source": "KAWF Update #8, 15 June 2004 (news bulletin); KAWF Update #10, 8 July 2004 (news bulletin); KAWF Update #17, 6 December 2004 (news bulletin); kawf-saturday-night-fever-2004-12-18"
+   }
+  ],
+  "caption": "Won the KAWF Tag Team Championship from Youth Gone Wrong on Fever in Birmingham, Alabama, 3 July 2004; lost the title to Perfect Storm at a pay-per-view, Mike Johnson's Bash, 28 November 2004, and broke up after a further non-title loss to the same team, per the federation's own news bulletins, amid an on-air rift between the two members.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "perfect-storm-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Perfect Storm",
+  "members": [
+   {
+    "name": "Jarrod Storm",
+    "character_id": "jarrod-storm-kawf"
+   },
+   {
+    "name": "\"The Perfect Creation\" Kyle Sommers",
+    "character_id": "kyle-sommers-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-05-26",
+    "last_seen": "2005-01-01",
+    "source": "the federation's own house-show reporter's recap of a house show in Monroe, Louisiana, 26 May 2004; KAWF Update #8, 15 June 2004 (news bulletin); KAWF Update #17, 6 December 2004 (news bulletin); kawf-saturday-night-fever-2004-12-18; kawf-saturday-night-fever-2005-01-01."
+   }
+  ],
+  "caption": "A tag pairing of two Con$ortium members; won the KAWF Tag Team Championship from the True All Stars at a pay-per-view, Mike Johnson's Bash, 28 November 2004, and successfully defended it in a non-title rematch three weeks later. Successfully defended the title again against PiPiPi's own DJ Hawthorne and Maddy Skillz on New Year's Day, 1 January 2005.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "blunt-force-trauma-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Blunt Force Trauma",
+  "members": [
+   {
+    "name": "George \"Buzzsaw\" Wesson",
+    "character_id": "george-wesson-kawf"
+   },
+   {
+    "name": "\"To Damn Easy\" Adam Clarkson",
+    "character_id": "adam-clarkson-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-12-15",
+    "last_seen": "2004-12-15",
+    "source": "the federation's own house-show reporter's recap of a house show in Jackson, Mississippi, 15 December 2004"
+   }
+  ],
+  "caption": "Defeated the Turnbow Brothers with a double spike piledriver at a house show in Jackson.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  },
+  "notes": "Managed by \"Gentleman\" Johnny Rifleman, who the federation's own news bulletins report as jailed throughout this run."
+ },
+ {
+  "id": "riverhawks-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "RiverHawks",
+  "members": [
+   {
+    "name": "Tommy Gibson",
+    "character_id": "tommy-gibson-kawf"
+   },
+   {
+    "name": "Mitch Hanson",
+    "character_id": "mitch-hanson-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-12-19",
+    "last_seen": "2004-12-19",
+    "source": "the federation's own broadcast transcript, Sunday Night War Stories, 19 December 2004"
+   },
+   {
+    "promotion": "dwo-1996",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2004-10",
+    "last_seen": "2004-10",
+    "source": "The Deadly Wrestling Organization's own WrestleKade X card, 31 October 2004.",
+    "grade": "primary-source",
+    "note": "Lost the DWO World Tag Team Championship to Sledge and Harris in a ladder match at WrestleKade X, billed together as \"The Riverhawks\" as on their own KAWF record."
+   }
+  ],
+  "caption": "Lost a tag match to the Minute Men after being escorted to the arena by security following a prior incident.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "minute-men-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Minute Men",
+  "members": [
+   {
+    "name": "Joseph \"Good at it\" Lowe",
+    "character_id": "joseph-lowe-kawf"
+   },
+   {
+    "name": "\"Sexy\" Terrance Towers",
+    "character_id": "terrance-towers-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2004-12-19",
+    "last_seen": "2004-12-19",
+    "source": "the federation's own broadcast transcript, Sunday Night War Stories, 19 December 2004"
+   }
+  ],
+  "caption": "Defeated the RiverHawks with a top-rope spiked piledriver.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "mem-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "M.E.M",
+  "members": [
+   {
+    "name": "Kadeem Hasim",
+    "character_id": "kadeem-hasim-kawf"
+   },
+   {
+    "name": "Qabil Hasim",
+    "character_id": "qabil-hasim-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2005-01-02",
+    "last_seen": "2005-01-02",
+    "source": "kawf-sunday-night-war-stories-2005-01-02"
+   }
+  ],
+  "caption": "A tag team managed by Ronnie Jamieson, defeated by Boys Next Door in a special tag match.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  },
+  "notes": "Managed by Ronnie Jamieson, per the federation's own news bulletins."
+ },
+ {
+  "id": "short-bus-gang-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Short Bus Gang",
+  "members": [
+   {
+    "name": "\"Tiny\" Tommy Toosmall's",
+    "character_id": "tiny-tommy-toosmalls-kawf"
+   },
+   {
+    "name": "\"Short\" Steve Delittle",
+    "character_id": "short-steve-delittle-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2005-01-12",
+    "last_seen": "2005-01-12",
+    "source": "kawf-house-show-stone-mountain-2005-01-12"
+   }
+  ],
+  "caption": "A debuting comedy tag team, managed by Mr. Davis, who won the opening bout of the federation's own first house show in Stone Mountain.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "iowa-state-cyclones-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Iowa State Cyclones",
+  "members": [
+   {
+    "name": "Brian Douglas",
+    "character_id": "brian-douglas-kawf"
+   },
+   {
+    "name": "Kael Anderson",
+    "character_id": "kael-anderson-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2005-01-15",
+    "last_seen": "2005-01-15",
+    "source": "kawf-saturday-night-fever-2005-01-15"
+   }
+  ],
+  "caption": "A debuting tag team, self-described as good friends of Kai Lewis, defeated by Tobias Chapel Smith and Scrayper in a double-debut match.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1
+   }
+  }
+ },
+ {
+  "id": "obsolete-army-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Obsolete Army",
+  "members": [
+   {
+    "name": "Michael Keathley",
+    "character_id": "michael-keathley-kawf"
+   },
+   {
+    "name": "Mark McKenna",
+    "character_id": "mark-mckenna-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2006-09-30",
+    "last_seen": "2006-12-30",
+    "source": "kawf-update-8-2006-10-05 and kawf-update-14-2007-01-10",
+    "note": "Won the vacant KAWF Tag Team Championship over Damian Payne & Johnny Pain at 'Welcome Home' (30 September 2006, uncollected show) and defended it over the Def Bi Posse at 'A Cold Day in Paradise' (30 December 2006, uncollected show)."
+   }
+  ],
+  "caption": "Won the vacant KAWF Tag Team Championship at the federation's own 2006 return, and successfully defended it that December.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "notes": "The first champions crowned in the federation's own 2006 second comeback, per the promotion's own news bulletins."
+ },
+ {
+  "id": "def-bi-posse-kawf",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Def B.I. Posse",
+  "members": [
+   {
+    "name": "Ricky J",
+    "character_id": "ricky-j-kawf"
+   },
+   {
+    "name": "JRG",
+    "character_id": "jrg-kawf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "kawf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2006-12-30",
+    "last_seen": "2006-12-30",
+    "source": "kawf-update-14-2007-01-10",
+    "note": "Unsuccessful challenging Obsolete Army for the KAWF Tag Team Championship at 'A Cold Day in Paradise' (30 December 2006, uncollected show)."
+   }
+  ],
+  "caption": "Unsuccessful challenging Obsolete Army for the KAWF Tag Team Championship at the federation's own December 2006 supercard.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  }
+ }
+]

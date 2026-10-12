@@ -1,0 +1,120 @@
+[
+ {
+  "id": "gpw-world-heavyweight-gpw-global-1999",
+  "type": "title",
+  "promotion": "gpw-global-1999",
+  "name": "GPW World Heavyweight Championship",
+  "page": "/titles/gpw-world-heavyweight-gpw-global-1999.html",
+  "epitaph": "Crowned via a two-pool tournament culminating in an enclosed steel-cage final at the promotion's own first pay-per-view, Genesis (24 October 1999); defended at least once every 30 days.",
+  "collection": "0148"
+ },
+ {
+  "id": "gpw-american-heavyweight-gpw-global-1999",
+  "type": "title",
+  "promotion": "gpw-global-1999",
+  "name": "GPW American Heavyweight Championship",
+  "page": "/titles/gpw-american-heavyweight-gpw-global-1999.html",
+  "epitaph": "Contested in a ladder match at Genesis; the notch below the World Heavyweight title.",
+  "collection": "0148"
+ },
+ {
+  "id": "gpw-world-television-gpw-global-1999",
+  "type": "title",
+  "promotion": "gpw-global-1999",
+  "name": "GPW World Television Championship",
+  "page": "/titles/gpw-world-television-gpw-global-1999.html",
+  "epitaph": "Contested in an enclosed-cage match at Genesis; defended weekly on the promotion's own television programs.",
+  "collection": "0148"
+ },
+ {
+  "id": "gpw-brass-knux-heavyweight-gpw-global-1999",
+  "type": "title",
+  "promotion": "gpw-global-1999",
+  "name": "GPW Brass Knux Heavyweight Championship",
+  "page": "/titles/gpw-brass-knux-heavyweight-gpw-global-1999.html",
+  "epitaph": "Contested in a no-disqualification, falls-count-anywhere match at Genesis.",
+  "collection": "0148",
+  "events": [
+   {
+    "type": "retired_by_fed",
+    "date": {
+     "date": "2000-07-23",
+     "precision": "exact"
+    },
+    "note": "The promotion's own on-air ownership dissolved the division at Blazing Glory 2000 after both the reigning champion, Oyabun, and his own scheduled challenger, Barry Gradwell, left the company."
+   }
+  ]
+ },
+ {
+  "id": "gpw-regional-heavyweight-gpw-global-1999",
+  "type": "title",
+  "promotion": "gpw-global-1999",
+  "name": "GPW Regional Heavyweight Championship",
+  "page": "/titles/gpw-regional-heavyweight-gpw-global-1999.html",
+  "epitaph": "The promotion's own proving ground for younger talent, contested best two-of-three falls at Genesis.",
+  "collection": "0148"
+ },
+ {
+  "id": "gpw-world-tag-team-gpw-global-1999",
+  "type": "title",
+  "promotion": "gpw-global-1999",
+  "name": "GPW World Tag Team Championship",
+  "page": "/titles/gpw-world-tag-team-gpw-global-1999.html",
+  "epitaph": "Crowned via a three-pool elimination tournament at Genesis.",
+  "collection": "0148",
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2000-07-23",
+     "precision": "exact"
+    },
+    "title": "gpw-unified-world-tag-team-gpw-global-1999",
+    "note": "Merged with the American Tag Team Championship at Blazing Glory 2000, in the promotion's own first title-for-title unification match, won by The Coast to Coast Connection over the reigning World champions, XtremeCharisma."
+   }
+  ]
+ },
+ {
+  "id": "gpw-american-tag-team-gpw-global-1999",
+  "type": "title",
+  "promotion": "gpw-global-1999",
+  "name": "GPW American Tag Team Championship",
+  "page": "/titles/gpw-american-tag-team-gpw-global-1999.html",
+  "epitaph": "Named vacant in the promotion's own first newsletter (28 October 1999); no holder is recorded anywhere in the held record.",
+  "collection": "0148",
+  "events": [
+   {
+    "type": "unified_into",
+    "date": {
+     "date": "2000-07-23",
+     "precision": "exact"
+    },
+    "title": "gpw-unified-world-tag-team-gpw-global-1999",
+    "note": "Merged with the World Tag Team Championship at Blazing Glory 2000, in the promotion's own first title-for-title unification match, won by the reigning American champions, The Coast to Coast Connection."
+   }
+  ],
+  "epitaph_asof": {
+   "written": "2026-09-19",
+   "author": "ai",
+   "evidence": {
+    "reigns": 4
+   }
+  }
+ },
+ {
+  "id": "gpw-unified-world-tag-team-gpw-global-1999",
+  "type": "title",
+  "promotion": "gpw-global-1999",
+  "name": "GPW Unified World Tag Team Championship",
+  "page": "/titles/gpw-unified-world-tag-team-gpw-global-1999.html",
+  "epitaph": "Created at Blazing Glory 2000 in a title-for-title unification match, merging the promotion's own World and American Tag Team Championships into one lineage; The Coast to Coast Connection defeated the reigning World champions, XtremeCharisma, to become the first Unified champions.",
+  "epitaph_asof": {
+   "written": "2026-09-19",
+   "author": "ai",
+   "evidence": {
+    "reigns": 1
+   }
+  },
+  "collection": "0148"
+ }
+]

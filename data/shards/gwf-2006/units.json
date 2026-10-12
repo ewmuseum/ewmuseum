@@ -1,0 +1,305 @@
+[
+  {
+    "id": "cataclysm",
+    "type": "unit",
+    "name": "Cataclysm",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "SheltonSplash",
+        "character_id": "sheltonsplash"
+      },
+      {
+        "name": "Chris O'Malley",
+        "character_id": "chris-omalley"
+      },
+      {
+        "name": "James Murphy",
+        "character_id": "james-murphy"
+      },
+      {
+        "name": "Don Cicinni",
+        "character_id": "don-cicinni"
+      }
+    ],
+    "caption": "GWF's own championship-collecting faction, built around Chris O'Malley, SheltonSplash and James Murphy, absorbing Don Cicinni after Rise and Fall III.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "notes": "Roster and arc per Chris O'Malley's own held bio card (promotions/gwf-2006/archive/bio-chris-omalley.html): formed by SheltonSplash and James Murphy around O'Malley, later took in Don Cicinni; broke down with Cicinni's departure, SheltonSplash's injury and James Murphy's betrayal. Fielded as a team (with Bryan Daniels and XO Malone allied to it) in the 27 April 2008 War Games (promotions/gwf-2006/archive/show-sns-2008-04-27.html).",
+    "tenures": [
+      {
+        "promotion": "gwf-2006",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "numbered-toast",
+    "type": "unit",
+    "name": "Numbered Toast",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "The Number 4",
+        "character_id": "the-number-4"
+      },
+      {
+        "name": "\"Metal\" Michael Toaster",
+        "character_id": "michael-toaster"
+      }
+    ],
+    "caption": "The Number 4 and Michael Toaster's own tag pairing, GWF Tag Team Champions as of the 27 April 2008 War Games, before the two split acrimoniously.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "notes": "Held the GWF Tag Team Championship during the 27 April 2008 War Games (promotions/gwf-2006/archive/show-sns-2008-04-27.html), where the pair walked out and padlocked their own opponents inside the cage rather than lose the titles cleanly. By 2013's 20113 the belts had changed hands (to Neo-Evolution) off the surviving record.",
+    "tenures": [
+      {
+        "promotion": "gwf-2006",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neo-evolution",
+    "type": "unit",
+    "name": "Neo-Evolution",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Kevin McAuliffe",
+        "character_id": "kevin-mcauliffe"
+      },
+      {
+        "name": "Dave Shadow",
+        "character_id": "dave-shadow"
+      }
+    ],
+    "caption": "Kevin McAuliffe and GWF owner Dave Shadow's own tag pairing, GWF Tag Team Champions by 2013, lost at the closing show.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "notes": "Named per Chris O'Malley's own bio card (Kevin McAuliffe and Dave Shadow feuding with Cataclysm's tag champions in 2007-08). Fought together in the 27 April 2008 War Games on the winning side. Lost the GWF Tag Team Championship to Danny Mainer and Bryan Daniels at 20113 (promotions/gwf-2006/archive/show-20113-final-encounter.html), 20 January 2013 — a separate SND-card-era document names Chris Williams as Kevin McAuliffe's own \"former Neo-Evolution partner\" instead of Dave Shadow (promotions/gwf-2006/archive/show-snd-card-2009-04-04.html); the surviving record does not resolve this discrepancy, recorded honestly rather than silently reconciled.",
+    "tenures": [
+      {
+        "promotion": "gwf-2006",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-movement",
+    "type": "unit",
+    "name": "The Movement",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "XO Malone",
+        "character_id": "xo-malone"
+      },
+      {
+        "name": "Damian DeNiro",
+        "character_id": "damian-deniro"
+      },
+      {
+        "name": "Sinister Minister"
+      }
+    ],
+    "caption": "XO Malone's own faction, fielding Damian DeNiro alongside a masked \"Sinister Minister\" as ringside muscle; won the GWF Tag Team Championship from SheltonSplash and Kevin McAuliffe in an undated match recapped only in flashback.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "notes": "The tag-title win is recounted only as a flashback clip inside SheltonSplash's own 5 April 2009 promo, \"The Living Fairytale\" (promotions/gwf-2006/archive/rp-the-living-fairytale.html) — no date recoverable. \"The Movement\" also interferes, under that name, in the 27 June 2008 Mini FNB main event (promotions/gwf-2006/archive/mini-fnb.html), where its ringside pair is XO and \"Sinister Minster\" (sic) rather than Damian DeNiro — the surviving record shows the group's own membership shifting rather than fixed, recorded as attested rather than reconciled.",
+    "tenures": [
+      {
+        "promotion": "gwf-2006",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-ministry-of-darkbread",
+    "type": "unit",
+    "name": "The Ministry of Darkbread",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "The Underbaker (Mark Madison's early gimmick)",
+        "character_id": "mark-madison"
+      },
+      {
+        "name": "Todd Caroon"
+      },
+      {
+        "name": "Biscotti 2 Hotty"
+      }
+    ],
+    "caption": "Mark Madison's own first GWF stable, recruited around his early \"Underbaker\" gimmick — remembered for going nowhere, save for the notorious promo the fed's own Hall of Shame credits to member Biscotti 2 Hotty.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "notes": "Per the fed's own Hall of Shame induction thread (promotions/gwf-2006/archive/hos-induction-7-28-08.html): managed by a Paul Cooker (unminted — a manager named only in this one retrospective post); Todd Caroon won a battle royal to keep his job in his only match, then never wrestled again.",
+    "tenures": [
+      {
+        "promotion": "gwf-2006",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-food-division",
+    "type": "unit",
+    "name": "The Food Division",
+    "unit_kind": "other",
+    "members": [
+      {
+        "name": "The Roll (Chris O'Malley's early gimmick)",
+        "character_id": "chris-omalley"
+      },
+      {
+        "name": "The Underbaker (Mark Madison's early gimmick)",
+        "character_id": "mark-madison"
+      },
+      {
+        "name": "Bread \"Wheatman\" Tart"
+      },
+      {
+        "name": "King Cookie"
+      },
+      {
+        "name": "Kake"
+      },
+      {
+        "name": "Biscotti 2 Hotty"
+      },
+      {
+        "name": "MaskedNacho"
+      }
+    ],
+    "caption": "A June–July 2006 wave of food-parody gimmicks chasing Toast Hogan's Cruiserweight Championship, never itself including Toast Hogan and banished by SheltonSplash that August.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "notes": "Per the fed's own Hall of Shame induction thread (promotions/gwf-2006/archive/hos-induction-7-28-08.html), the loosely-affiliated origin point of both Chris O'Malley (as \"The Roll\") and Mark Madison (as \"The Underbaker\").",
+    "tenures": [
+      {
+        "promotion": "gwf-2006",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-spirit-squad",
+    "type": "unit",
+    "name": "The GWF Spirit Squad",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Wolfenstein",
+        "character_id": "wolfenstein"
+      },
+      {
+        "name": "Timey1"
+      },
+      {
+        "name": "Tadg30"
+      },
+      {
+        "name": "Azz_Vacuna"
+      },
+      {
+        "name": "Lodis3",
+        "character_id": "lodis3"
+      }
+    ],
+    "caption": "A five-man male cheerleading squad and GWF's own earliest stable, a WWE-clone gimmick from the fed's first weeks in 2006 that folded after one member walked and the rest lost to DX.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "notes": "Per the fed's own Hall of Shame induction thread (promotions/gwf-2006/archive/hos-induction-7-28-08.html): active from the 3rd episode of Friday Night Brawl (5 May 2006); beat GWF jobber Shadowprince and GWF legend John Beanshaw Wrathfield (by countout) before Wolfenstein's own \"Spirit Breaker\" loss to Tadg30 ended the group, the rest then losing to DX (unminted — a one-line mention, no roster or staged match recovered). Wolfenstein alone went on to a GWF Championship reign; Lodis3 to three Hardcore Championship reigns (unminted — named only in this same retrospective).",
+    "tenures": [
+      {
+        "promotion": "gwf-2006",
+        "roles": [
+          "wrestler"
+        ]
+      }
+    ]
+  }
+]

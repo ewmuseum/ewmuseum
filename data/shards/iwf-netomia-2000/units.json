@@ -1,0 +1,77 @@
+[
+ {
+  "id": "the-plague-iwf-netomia-2000",
+  "type": "unit",
+  "name": "The Plague",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "Billed against Canasian Invasion in a no-DQ Texas Tornado match for the Tag-Team Titles at Broken Hearts.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "iwf-netomia-2000",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "grade": "primary-source",
+    "source": "/promotions/iwf-netomia-2000/archive/iwf-netomia-broken-hearts-2001-02-09.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-plague",
+     "the-plague-napw"
+    ],
+    "note": "Shares only the name; no roster, handler or promotion links this character to the other record."
+   }
+  ]
+ },
+ {
+  "id": "canasian-invasion-iwf-netomia-2000",
+  "type": "unit",
+  "name": "Canasian Invasion",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "Billed as the Tag-Team Title holders against The Plague in a no-DQ Texas Tornado match at Broken Hearts.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "iwf-netomia-2000",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "grade": "primary-source",
+    "source": "/promotions/iwf-netomia-2000/archive/iwf-netomia-broken-hearts-2001-02-09.html"
+   }
+  ]
+ }
+]

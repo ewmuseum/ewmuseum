@@ -1,0 +1,75 @@
+[
+  {
+    "id": "southern-uprising-kcw-knoxville-2001",
+    "type": "unit",
+    "name": "Southern Uprising",
+    "unit_kind": "tag-team",
+    "members": [
+      "billy-mcgraw-kcw-knoxville-2001",
+      "karl-clark-kcw-knoxville-2001"
+    ],
+    "tenures": [
+      {
+        "promotion": "kcw-knoxville-2001",
+        "first_seen": "2001-05-05",
+        "last_seen": "2001-05-29",
+        "grade": "primary-source",
+        "source": "The promotion's own house-show cards of 5 May and 29 May 2001."
+      }
+    ],
+    "caption": "Won a tag match over the Monsters of the Midwest on 5 May 2001, then won the Smokey Mountain Tag Team Championship from the champions on 29 May 2001 as last-minute replacement challengers.",
+    "notes": "Managed by Cletus Johnson throughout."
+  },
+  {
+    "id": "monsters-of-the-midwest-kcw-knoxville-2001",
+    "type": "unit",
+    "name": "Monsters of the Midwest",
+    "unit_kind": "tag-team",
+    "members": [
+      "carson-nash-kcw-knoxville-2001",
+      "brett-hunter-kcw-knoxville-2001"
+    ],
+    "tenures": [
+      {
+        "promotion": "kcw-knoxville-2001",
+        "first_seen": "2001-05-05",
+        "last_seen": "2001-05-05",
+        "grade": "primary-source",
+        "source": "The promotion's own house-show card of 5 May 2001."
+      }
+    ],
+    "caption": "Lost a tag match to Southern Uprising on 5 May 2001 after a miscommunication between the two partners.",
+    "notes": "Managed by Jimmy Jack James."
+  },
+  {
+    "id": "girlz-on-film-kcw-knoxville-2001",
+    "type": "unit",
+    "name": "Girlz on Film",
+    "unit_kind": "tag-team",
+    "members": [
+      "mccloud-valentine-kcw-knoxville-2001",
+      "chi-chi-levaughn-kcw-knoxville-2001"
+    ],
+    "tenures": [
+      {
+        "promotion": "kcw-knoxville-2001",
+        "first_seen": "2001-05-05",
+        "last_seen": "2001-05-29",
+        "grade": "primary-source",
+        "source": "The promotion's own house-show cards of 5 May and 29 May 2001."
+      }
+    ],
+    "caption": "Held the Smokey Mountain Tag Team Championship into 29 May 2001, when Southern Uprising took the titles.",
+    "notes": "Named repeatedly as a wider alliance on both cards; only the two title-holding members are confirmed here.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "girlz-on-film-nrg"
+        ],
+        "note": "A same-named tag team is on record in a wholly different promotion five years later, with different members; no document ties the two together, so the records stay apart."
+      }
+    ]
+  }
+]

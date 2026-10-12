@@ -1,0 +1,87 @@
+[
+  {
+    "id": "newa-hub-1997-north-american",
+    "type": "title",
+    "name": "NeWA North American Heavyweight Championship",
+    "promotion": "newa-hub-1997",
+    "page": "/titles/newa-hub-1997-north-american.html",
+    "collection": "0078",
+    "notes": "Source: the hub's own title-history page. Unlike this hub's own flagship World Heavyweight title (held under the wccw wing), this title's own document claims no real-world ancestor lineage -- its first reign (Roddy Piper, 8 Mar 1998) is billed on the page's own terms as \"the first board recognized champion.\" A 1999 unification (footnote on this title's own page) folds two other retired titles -- United States Heavyweight and Canadian Heavyweight, both also named as retired on the hub's own \"Roll Call of Champions\" -- into this one via Adam Fierce's win. Eight reigns are structured, the record ending mid-chain (Agent Mandell, still champion per the hub's own latest-held document, the Rankings page dated 4 March 2000).",
+    "epitaph": "A hub-wide championship of the National eWrestling Alliance, contested by wrestlers drawn from its member territories from March 1998 onward and, per the title's own account, absorbing two retired regional heavyweight lineages (United States and Canadian) into itself in 1999. Eight reigns survive in this collection's own record, Roddy Piper through Agent Mandell, the last still champion as of the hub's own latest surviving document.",
+    "epitaph_asof": {
+      "written": "2026-09-05",
+      "evidence": {
+        "reigns": 8
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "newa-hub-1997-world-tag-team",
+    "type": "title",
+    "name": "NWA/NeWA World Tag Team Championship",
+    "promotion": "newa-hub-1997",
+    "page": "/titles/newa-hub-1997-world-tag-team.html",
+    "collection": "0078",
+    "notes": "Source: the hub's own title-history page. The page's own table opens with a claimed real-world lineage borrowed from the real NWA/WCW World Tag Team Championship (Terry Gordy & Steve Williams, 12 Jul 1992, through Pat Anderson & C.W. Anderson, 14 Sep 1996-\"1997,\" vacated \"due to inactivity\") -- consistent with this hub's own convention, seen on the flagship World Heavyweight title (held under the wccw wing), of claiming a real historical lineage before diverging into the fed's own invented continuity. That claimed real lineage is described here, not structured reign-by-reign; only the fed's own post-divergence reigns (Fear & Adam Riggs, 24 Mar 1998, onward) are structured in reigns.json, the same discipline the wccw wing's own flagship title applies. Eleven reigns are structured, the record ending mid-chain (a fourth reign for \"The Crazy Ones,\" attested only by the hub's own Rankings page, 4 March 2000 -- not itself numbered by the title's own page, whose own table ends at a third, bracketed reign).",
+    "epitaph": "A hub-wide tag-team championship of the National eWrestling Alliance, claiming descent from the real NWA/WCW World Tag Team Championship before diverging into the alliance's own invented continuity from March 1998. Eleven reigns of that continuity survive in this collection's own record -- \"The Crazy Ones\" the title's single most frequent titleholder, across four separate reigns -- the last still held as of the hub's own latest surviving document.",
+    "epitaph_asof": {
+      "written": "2026-09-05",
+      "evidence": {
+        "reigns": 11
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "newa-hub-1997-world-television",
+    "type": "title",
+    "name": "NWA/NeWA World Television Title",
+    "promotion": "newa-hub-1997",
+    "page": "/titles/newa-hub-1997-world-television.html",
+    "collection": "0078",
+    "notes": "Source: the hub's own title-history page. No claimed real-world lineage; the page's own footnote numbering continues directly from the World Heavyweight and World Tag Team pages' own footnotes, confirming the three documents were maintained as one continuous site.",
+    "epitaph": "A hub-wide television championship of the National eWrestling Alliance, defended continuously from April 1998. Nineteen reigns survive in this collection's own record, several lasting only days; the last (Harbeneth Rookens, from February 2000) carries an unresolved later complication in the hub's own record rather than a clean end.",
+    "epitaph_asof": {
+      "written": "2026-09-05",
+      "evidence": {
+        "reigns": 19
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "newa-hub-1997-world-cruiserweight",
+    "type": "title",
+    "name": "NeWA World Cruiserweight Championship",
+    "promotion": "newa-hub-1997",
+    "page": "/titles/newa-hub-1997-world-cruiserweight.html",
+    "collection": "0078",
+    "notes": "Source: the hub's own title-history page. No claimed real-world lineage.",
+    "epitaph": "A hub-wide cruiserweight championship of the National eWrestling Alliance, defended continuously from January 1999. Twelve reigns survive in this collection's own record, changing hands rapidly through late 1999; the last (El Scorcho, from February 2000) carries an unresolved later complication in the hub's own record rather than a clean end.",
+    "epitaph_asof": {
+      "written": "2026-09-05",
+      "evidence": {
+        "reigns": 12
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "newa-hub-1997-world-hardcore",
+    "type": "title",
+    "name": "NeWA World Hardcore Championship",
+    "promotion": "newa-hub-1997",
+    "page": "/titles/newa-hub-1997-world-hardcore.html",
+    "collection": "0078",
+    "notes": "Source: the hub's own title-history page. No claimed real-world lineage. Six reigns are structured; unlike the hub's other four non-flagship titles, no later hub document (the Championship Calendar or the Rankings page) mentions this title again after the title-history page's own last word, so the record ends cleanly with its last attested champion.",
+    "epitaph": "A hub-wide hardcore championship of the National eWrestling Alliance, defended from February 1999. Six reigns survive in this collection's own record; the last, Frag Sinister from October 1999, is this title's own final attested champion -- also the hub's own \"Roll Call of Champions\" naming him current as of November 1999, with no later document naming a successor.",
+    "epitaph_asof": {
+      "written": "2026-09-05",
+      "evidence": {
+        "reigns": 6
+      },
+      "author": "ai"
+    }
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "_comment": "THE LAW BASELINE — see the LAW RATCHET comment in scripts/registry-validate.mjs. Rewritten only by `npm run law:baseline`, a Janitor-or-coordinator act after debt is paid, never routine.",
+  "_written": "2026-09-19",
+  "rules": {
+    "served-page-contact-line": {
+      "scope": "validate",
+      "direction": "max",
+      "count": 8,
+      "law": "CURATION #privacy-redaction / #privacy (v74): a living person's contact detail is redacted in ANY context — a served page may not carry an e-mail address, AIM/ICQ/MSN/Yahoo handle or screen name behind its own label"
+    },
+    "served-page-handler-credit": {
+      "scope": "validate",
+      "direction": "max",
+      "count": 164,
+      "law": "CURATION #privacy (v74, out-of-character structures) + LAW-INDEX 2a: a Handler / Handled by / Written by credit naming a person is out of fiction and redacts — the persona serves, the credit does not"
+    },
+    "live-site-served": {
+      "scope": "validate",
+      "direction": "max",
+      "count": 4,
+      "law": "CURATION #dead-only-rule as amended v75/v98 + GAVELS 2026-08-26 THE LIVING-PRESERVATION CLAUSE: a living promotion IS collected and NEVER served — a wing whose own frontier row is verified-alive may hold no served document"
+    },
+    "epitaph-missing-tier1plus": {
+      "scope": "registry-validate",
+      "direction": "max",
+      "count": 3,
+      "law": "CURATION #promotion-epitaphs + PROCESS 'Frontier -> Tier 0' step 4 (no epitaph owed BELOW tier 1): every wing at tier 1 or above carries a written Epitaph section on its own landing page"
+    },
+    "epitaph-present-total": {
+      "scope": "registry-validate",
+      "direction": "min",
+      "count": 1235,
+      "law": "CURATION #promotion-epitaphs: an epitaph already written is never lost — a regeneration that strips one (wce/whq/wwe-the-efed, 2026-09) drops this count and fails here"
+    },
+    "house-style-missing-tier2plus": {
+      "scope": "registry-validate",
+      "direction": "max",
+      "count": 222,
+      "law": "CURATION #tier-and-storylines + PROCESS 'Tier 1 -> Tier 2' step 4: a tier-2+ federation owes a graded, sourced house_style (community hubs owe none)"
+    },
+    "storylines-missing-tier3": {
+      "scope": "registry-validate",
+      "direction": "max",
+      "count": 82,
+      "law": "CURATION #tier-and-storylines: storylines are tier 3's OUTPUT — a tier-3 wing without a Storylines section has not had the crawl that earned its tier"
+    },
+    "served-text-narration": {
+      "scope": "registry-validate",
+      "direction": "max",
+      "count": 2241,
+      "law": "CURATION #protagonist-test + THE SERVED-TEXT RULE (the Janitor 2026-09-05): no served field carries workshop process narration"
+    },
+    "award-recipient-unminted": {
+      "scope": "registry-validate",
+      "direction": "max",
+      "count": 295,
+      "law": "GAVELS 2026-09-13 rule 10 (AWARD RECIPIENTS ARE MINTED) + LAW-INDEX 2b: every bestowal recipient carries a character/unit id, even when the bestowal is all that is known"
+    },
+    "promotion-source-kind-unknown": {
+      "scope": "registry-validate",
+      "direction": "max",
+      "count": 5,
+      "law": "CURATION #medium-defined discipline, applied to sources[].kind: a source kind is a deliberate, documented addition, never a value invented in the data (the 'attachment' kind, gate 143 run 6)"
+    },
+    "document-source-kind-unknown": {
+      "scope": "validate-documents",
+      "direction": "max",
+      "count": 0,
+      "law": "CURATION #medium-defined discipline applied to sources[].kind: a source kind is a deliberate, documented addition, never a value invented in a lane brief (the 'attachment' kind, gate 143 run 6)"
+    },
+    "document-source-workshop-url": {
+      "scope": "validate-documents",
+      "direction": "max",
+      "count": 0,
+      "law": "GAVELS 2026-09-07 SOURCE LINKS + CURATION #provenance-per-accession-lot: a served document cites its PUBLIC source (Google Groups / Wayback / the original URL) — never a workshop file path, which the provenance renderer turns into a broken internal link (gate 143 run 4)"
+    },
+    "promotion-provenance-notes-missing": {
+      "scope": "registry-validate",
+      "direction": "max",
+      "count": 78,
+      "law": "docs/SCHEMA.md provenance_notes[] ('individually graded founding-fact claims'): every promotion row carries at least one TYPED provenance record. See the PROVENANCE BREACH note below — while the recorded debt is above zero this is ratcheted; the moment the baseline reads 0 the per-row check below becomes a HARD FAILURE on its own"
+    },
+    "provenance-note-total": {
+      "scope": "validate-provenance-notes",
+      "direction": "min",
+      "count": 6419,
+      "law": "THE FIELD-COUNT RATCHET, and the reason it exists: the floor is 6,389 — the number of typed provenance records standing on 1,384 of 1,388 promotion rows at commit fbb3965d87 (chain 139, 2026-09-13), every one of which was gone by e82bf9dbc2 (chain 140, 2026-09-14) with five days of gates reporting '0 entries seen ... OK'. The floor is DELIBERATELY set above today's count: this rule is RED until the records are rebuilt from the pre-drop commit and the per-wing narratives (in the workshop), which is the correct state for a gate to be in while 6,389 authored records are missing"
+    },
+    "provenance-note-untyped": {
+      "scope": "validate-provenance-notes",
+      "direction": "max",
+      "count": 0,
+      "law": "PROVENANCE-NOTES-01 (2026-09-13): a legacy {claim, evidence} note is converted to a typed record, never left in place"
+    },
+    "controlled-value-outside-enum": {
+      "scope": "registry-validate",
+      "direction": "max",
+      "count": 36,
+      "law": "CURATION #medium-defined + the Janitor's 2026-09-10 gavel (medium is the PLATFORM; form is what the canon physically is; authorship is who writes it): a medium/form/play/authorship value outside its documented set is a typo or an undocumented invention, never a silent new vocabulary — the served placard reads it straight out ('Play: Booked')"
+    },
+    "aka-narration": {
+      "scope": "registry-validate",
+      "direction": "max",
+      "count": 5,
+      "law": "SCHEMA aka[] ('a label the fed itself used') + THE SERVED-TEXT RULE: an aka is a LABEL, never a sentence about the label — a parenthetical explanation belongs in provenance_notes"
+    },
+    "source-link-missing-forward": {
+      "scope": "validate-documents",
+      "direction": "max",
+      "count": 1829,
+      "law": "GAVELS 2026-09-07 SOURCE LINKS, a FORWARD rule: every document added from that day on links its public source. A page whose provenance Source line carries no <a href> and whose served_since is 2026-09-08 or later is a breach of the forward rule, not backfill debt"
+    },
+    "source-link-missing-total": {
+      "scope": "validate-documents",
+      "direction": "max",
+      "count": 9057,
+      "law": "the same gavel read as the backfill queue: every served document eventually links its public source (the Janitor's own words: 'ensure every document we add with a public source explicitly links to that source')"
+    },
+    "house-style-present-total": {
+      "scope": "registry-validate",
+      "direction": "min",
+      "count": 344,
+      "law": "the field-count ratchet (coordinator, 2026-09-19): a count that only ever grows may not fall — house styles are written once and never lost to a regeneration"
+    },
+    "source-link-present-total": {
+      "scope": "validate-documents",
+      "direction": "min",
+      "count": 10671,
+      "law": "the field-count ratchet (coordinator, 2026-09-19): a count that only ever grows may not fall — a source link, once written, is never lost to a regeneration"
+    },
+    "documents-rows-total": {
+      "scope": "validate-documents",
+      "direction": "min",
+      "count": 19729,
+      "law": "the field-count ratchet: documents.json rows are only ever added (a withdrawal is a deliberate, ruled act that re-baselines); a drop is a lost provenance record, not a curation decision"
+    },
+    "document-doc-class-outside-v109": {
+      "scope": "validate-documents",
+      "direction": "max",
+      "count": 0,
+      "law": "CURATION #serve-by-document-class v109(a) names ELEVEN classes (card, rp, roster, rules, news, staff, credits, guestbook, board, column, other) plus v111(e)'s machine-translation; `roleplay` is documents.json's own spelling of `rp`. Anything else — index, poll, charter, faq, none — is a class nobody ruled on, and v109(b)-(e) cannot be read off it"
+    }
+  }
+}

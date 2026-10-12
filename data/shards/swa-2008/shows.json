@@ -1,0 +1,59 @@
+[
+  {
+    "id": "swa-2008-unitedstates-2008-12-10",
+    "type": "show",
+    "name": "SWA United States Championship: H2O vs. Elijah Hunter",
+    "promotion": "swa-2008",
+    "date": {
+      "date": "2008-12-10",
+      "precision": "exact",
+      "source": "The broadcast's own posting date."
+    },
+    "page": "/promotions/swa-2008/archive/swa-h2o-vs-hunter-2008-12-10.html",
+    "collection": "0153",
+    "appearances": [
+      {
+        "who": "h2o-swa-2008",
+        "kind": "match"
+      },
+      {
+        "who": "elijah-hunter-swa-2008",
+        "kind": "match"
+      },
+      {
+        "who": "kent-neuman-swa-2008",
+        "kind": "billed",
+        "capacity": "commentary",
+        "source": "Commentary throughout the broadcast."
+      },
+      {
+        "who": "sean-diamond-swa-2008",
+        "kind": "billed",
+        "capacity": "commentary",
+        "source": "Commentary throughout the broadcast."
+      },
+      {
+        "who": "orlando-morales-swa-2008",
+        "kind": "billed",
+        "capacity": "ring-announcer",
+        "source": "Ring introductions throughout the broadcast."
+      }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "elijah-hunter-swa-2008"
+          ],
+          [
+            "h2o-swa-2008"
+          ]
+        ],
+        "winner_side": 1,
+        "note": "H2O won the SWA United States Championship by submission (Attitude Adjustment) after Hunter kicked out of three prior finishing attempts."
+      }
+    ],
+    "notes": "A single full match script; no other matches from this card survive in the held record."
+  }
+]

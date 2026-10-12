@@ -1,0 +1,106 @@
+[
+  {
+    "id": "adw-run-for-the-border-2021",
+    "type": "show",
+    "name": "Run for the Border",
+    "promotion": "adw",
+    "date": {
+      "date": "2021",
+      "precision": "year",
+      "source": "No exact date survives in the document itself; year-precision per the promoter's own recall — see the ADW wing."
+    },
+    "page": "/promotions/adw/archive/run-for-the-border.html",
+    "collection": "0001",
+    "appearances": [
+      { "who": "rory-borealis", "kind": "match" },
+      { "who": "dag-boomer", "kind": "match" },
+      { "who": "el-triton", "kind": "angle" },
+      { "who": "gavin-firebrand", "kind": "angle" },
+      { "who": "ed-johnson", "kind": "angle", "capacity": "authority" },
+      { "who": "el-triton", "kind": "match" },
+      { "who": "gavin-firebrand", "kind": "match" },
+      { "who": "el-professor", "kind": "match" },
+      { "who": "the-void", "kind": "match" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [ [ "rory-borealis" ], [ "dag-boomer" ] ],
+        "winner_side": 0,
+        "note": "Opening match of the Run for the Border PPV; Rory Borealis finished Dag Boomer with the Pasty Plunge for the pin."
+      },
+      {
+        "order": 2,
+        "sides": [ [ "el-triton" ], [ "gavin-firebrand" ] ],
+        "winner_side": 0,
+        "note": "Baja Blast Championship Sponsored by Taco Bell defense; the stakes were the title and El Triton's own kidnapped son, held since the season recap by Gavin Firebrand's deacons. El Triton escaped a sleeper hold, refused Firebrand's demanded pledge of service to God, and won with a top-rope backdrop."
+      },
+      {
+        "order": 3,
+        "sides": [ [ "el-professor" ], [ "the-void" ] ],
+        "winner_side": 0,
+        "stipulation": "Steel Cage",
+        "note": "Rematch of the season recap's own drawn main event, contested for the #1 contendership to the Baja Blast Championship Sponsored by Taco Bell; the cage this time held together until The Void tore a wall loose, and both men fell into the crowd — El Professor landing first to win."
+      }
+    ],
+    "venue": "International House of Pancakes and Convention Center",
+    "city": "Guadalajara, Mexico",
+    "notes": "The record's own aside — \"not counting the South West title match that was simmed\" — confirms a fourth match took place on this card; no participants, result, or further detail survive."
+  },
+  {
+    "id": "adw-season-recap-2021",
+    "type": "show",
+    "name": "Season Recap — crowning a new champion",
+    "promotion": "adw",
+    "date": {
+      "date": "2021",
+      "precision": "year",
+      "source": "No exact date survives in the document itself; year-precision per the promoter's own recall — see the ADW wing."
+    },
+    "page": "/promotions/adw/archive/season-recap.html",
+    "collection": "0001",
+    "appearances": [
+      { "who": "el-triton", "kind": "match" },
+      { "who": "rory-borealis", "kind": "match" },
+      { "who": "el-professor", "kind": "match" },
+      { "who": "the-void", "kind": "match" },
+      { "who": "gail-storm-adw", "kind": "match" },
+      { "who": "ras-trent", "kind": "match" },
+      { "who": "el-professor", "kind": "match" },
+      { "who": "el-triton", "kind": "match" },
+      { "who": "rory-borealis", "kind": "match" },
+      { "who": "the-void", "kind": "angle" },
+      { "who": "el-triton", "kind": "angle" },
+      { "who": "gavin-firebrand", "kind": "angle" },
+      { "who": "rory-borealis", "kind": "match" },
+      { "who": "dag-boomer", "kind": "match" },
+      { "who": "el-professor", "kind": "angle" },
+      { "who": "the-void", "kind": "angle" },
+      { "who": "el-triton", "kind": "match" },
+      { "who": "el-professor", "kind": "match" },
+      { "who": "the-void", "kind": "match" }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [ [ "el-triton", "rory-borealis", "el-professor" ], [ "the-void", "gail-storm-adw", "ras-trent" ] ],
+        "winner_side": 0,
+        "note": "The season-opening 6-way tag match, held to determine three qualifiers for a three-way to crown a new champion after Hot Mask's own sudden exit from the territory; El Professor scored the pin on The Void for his team's win."
+      },
+      {
+        "order": 2,
+        "sides": [ [ "el-professor" ], [ "el-triton" ], [ "rory-borealis" ] ],
+        "winner_side": 1,
+        "note": "Three-way for the vacant Baja Blast Championship Sponsored by Taco Bell; El Professor had just bested both rivals and was seconds from the pinfall when The Void ran in from outside, pulling El Triton over the fallen El Professor for the pin and the title."
+      },
+      {
+        "order": 3,
+        "sides": [ [ "el-professor" ], [ "the-void" ] ],
+        "result": "draw",
+        "stipulation": "Steel Cage",
+        "note": "The season finale's main event, contested for the #1 contendership to the Baja Blast Championship Sponsored by Taco Bell; the cage — built, per the record's own placard, out of 4x4s, chicken fencing and bailing wire — tore apart when an El Professor hurricanrana sent both men through a collapsing wall, and the match was called a draw."
+      }
+    ],
+    "notes": "A multi-episode summary, not a single card — covers the run of weeks between Hot Mask's own sudden exit and the Run for the Border PPV. Also narrates an unresolved Rory Borealis/Dag Boomer match (no winner stated) and El Triton's squash of Gavin Firebrand's four unnamed deacons — both captured above as appearances only, since neither supports a structured `matches[]` entry (the deacons are never individually named; the Rory/Dag bout's own result is never stated here, distinct from their later rematch at Run for the Border)."
+  }
+]

@@ -1,0 +1,150 @@
+[
+ {
+  "id": "rccw-1998-world-heavyweight-r001",
+  "title": "rccw-1998-world-heavyweight",
+  "label": "Clutch",
+  "holder": [
+   {
+    "id": "clutch-rccw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Already billed as World Heavyweight Champion entering the record's only surviving defense; no earlier title-change document survives."
+  },
+  "days": null,
+  "note": "Defended in a Taipei Death Match main event against Maverick, the federation's own Hardcore-billed champion; the bout ends with both men leaving the cage and trading championship belts rather than settling it. No further card survives to say whether the swap was ever recognized.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "rccw-1998-world-hardcore-r002",
+  "title": "rccw-1998-world-hardcore",
+  "label": "Jason Creed",
+  "holder": [
+   {
+    "id": "jason-creed-rccw-1998"
+   }
+  ],
+  "won": {
+   "date": "1998-09-12",
+   "precision": "exact",
+   "source": "The federation's own 12 September 1998 pay-per-view."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No further RCCW-authored document survives; a fellow participant's own repeated title tally, first dated 27 September 1998, credits a different wrestler with the belt by then."
+  },
+  "how": "Won by pinfall (a standing corkscrew leg whip) over Quezzy.",
+  "event": "rccw-1998-last-chance-ppv-1998-09-12",
+  "note": "How or when the title changed hands again is unrecorded.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "rccw-1998-world-hardcore-r001",
+  "title": "rccw-1998-world-hardcore",
+  "label": "Quezzy",
+  "holder": [
+   {
+    "id": "quezzy-rccw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Already billed as World Hardcore Champion entering the record's only surviving defense; no earlier title-change document survives."
+  },
+  "days": null,
+  "lost": {
+   "date": "1998-09-12",
+   "precision": "exact",
+   "source": "The federation's own 12 September 1998 pay-per-view."
+  },
+  "how": "Lost the title to Jason Creed by pinfall (a standing corkscrew leg whip).",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "rccw-1998-world-hardcore-r003",
+  "title": "rccw-1998-world-hardcore",
+  "label": "L-Mo",
+  "holder": [
+   {
+    "id": "l-mo-rccw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "A fellow participant's own repeated cross-federation title-tally sign-off, first dated 27 September 1998 and repeated as late as 22 November 1998, names this wrestler World, Television and Hardcore Champion; no federation-authored document of the title change survives."
+  },
+  "days": null,
+  "end_how": "still-champion-at-record-end",
+  "note": "The federation's own last surviving Hardcore title defense instead has Jason Creed winning the belt from the previous champion; how or when it changed hands again is unrecorded."
+ },
+ {
+  "id": "rccw-1998-world-television-r001",
+  "title": "rccw-1998-world-television",
+  "label": "L-Mo",
+  "holder": [
+   {
+    "id": "l-mo-rccw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Which man entered the record's only surviving Television title defense as champion is not stated in the card's own text; a fellow participant's own repeated title tally, first dated 27 September 1998, names L-Mo as the title's holder."
+  },
+  "days": null,
+  "end_how": "still-champion-at-record-end",
+  "note": "The one surviving defense, against Carnage, ended in a no contest after outside interference; the title did not change hands."
+ },
+ {
+  "id": "rccw-1998-world-cruiserweight-r001",
+  "title": "rccw-1998-world-cruiserweight",
+  "label": "Piston",
+  "holder": [
+   {
+    "id": "piston-rccw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Already billed as champion entering the record's only surviving defense; no earlier title-change document survives."
+  },
+  "days": null,
+  "lost": {
+   "date": "1998-09-12",
+   "precision": "exact",
+   "source": "The federation's own 12 September 1998 pay-per-view."
+  },
+  "how": "Attacked his own challenger, Black Jack Dealer, before the bell and left the promotion with the belt rather than defend it. The card's own text bills this bout for the World Cruiserweight Championship, though Piston's own in-ring words call the belt his \"LightHeavyweight Title.\"",
+  "end_how": "departed"
+ },
+ {
+  "id": "rccw-1998-european-r001",
+  "title": "rccw-1998-european",
+  "label": "Octane",
+  "holder": [
+   {
+    "id": "octane-rccw-1998"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Already billed as champion, wearing the title to the ring; no earlier title-change document survives."
+  },
+  "days": null,
+  "end": {
+   "date": "1998-09-12",
+   "precision": "exact",
+   "source": "The federation's own 12 September 1998 pay-per-view."
+  },
+  "how": "Announced his own retirement in the ring before the first match and left with the belt rather than defend it.",
+  "end_how": "departed"
+ }
+]

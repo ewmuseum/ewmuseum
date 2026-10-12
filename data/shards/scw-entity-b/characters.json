@@ -1,0 +1,216 @@
+[
+ {
+  "id": "dj-scw-entity-b",
+  "type": "character",
+  "name": "DJ",
+  "tenures": [
+   {
+    "promotion": "scw-entity-b",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "other",
+    "source": "promotions/scw-entity-b/archive/the-scw-has-had-its-first-card-and-we-now-have-17-wide-open--1997-06-21.html"
+   }
+  ],
+  "caption": "Won the SCW World Championship in a Triangle Match at the fed's first card and retained it against David Disaster by screwjob at the second.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "dj-derick-jackson",
+     "dj-xwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "david-disaster-scw-entity-b",
+  "type": "character",
+  "name": "David Disaster",
+  "tenures": [
+   {
+    "promotion": "scw-entity-b",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/scw-entity-b/archive/did-you-think-i-was-gone-well-think-again-1997-07-02.html"
+   }
+  ],
+  "caption": "Challenged DJ for the SCW World Championship at the fed's second card and was screwed out of the title by a chair shot while the referee was down.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "sniper-scw-entity-b",
+  "type": "character",
+  "name": "Sniper",
+  "tenures": [
+   {
+    "promotion": "scw-entity-b",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/scw-entity-b/archive/did-you-think-i-was-gone-well-think-again-1997-07-02.html"
+   }
+  ],
+  "caption": "Won a top-contenders match against Vito Rizzotto and was set to challenge DJ for the SCW World Championship; the result, if the match happened, does not survive in the held record.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "sniper",
+     "sniper-cswa",
+     "sniper-faw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "vito-rizzotto-scw-entity-b",
+  "type": "character",
+  "name": "Vito Rizzotto",
+  "tenures": [
+   {
+    "promotion": "scw-entity-b",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/scw-entity-b/archive/did-you-think-i-was-gone-well-think-again-1997-07-02.html"
+   }
+  ],
+  "caption": "Lost a top-contenders match to Sniper and was scheduled to face Hoser next; the result, if the match happened, does not survive in the held record.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hoser-scw-entity-b",
+  "type": "character",
+  "name": "Hoser",
+  "tenures": [
+   {
+    "promotion": "scw-entity-b",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/scw-entity-b/archive/did-you-think-i-was-gone-well-think-again-1997-07-02.html"
+   }
+  ],
+  "caption": "Scheduled to face Vito Rizzotto with a title shot on the line, for a card whose result does not survive in the held record.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "hoser-wwa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "american-ninja-scw-entity-b",
+  "type": "character",
+  "name": "American Ninja",
+  "tenures": [
+   {
+    "promotion": "scw-entity-b",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/scw-entity-b/archive/did-you-think-i-was-gone-well-think-again-1997-07-02.html"
+   }
+  ],
+  "caption": "Scheduled to face David Disaster for a card whose result does not survive in the held record.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

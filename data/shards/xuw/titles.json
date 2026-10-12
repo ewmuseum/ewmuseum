@@ -1,0 +1,194 @@
+[
+  {
+    "id": "xuw-cruiserweight",
+    "type": "title",
+    "name": "Cruiserweight Championship",
+    "promotion": "xuw",
+    "page": "/titles/xuw-cruiserweight.html",
+    "collection": "0003",
+    "notes": "Source: promotions/xuw/archive/vortex6.html (XUW Vortex #6, 31 Jan 2002).",
+    "epitaph": "The shortest-lived name the eight belts carried — five reigns from Hurrisakie's opening hold to CK's, the one that ended it. At XUW Vortex #6, Mister Webster renamed the belt on-air as the XUW Television Championship the moment CK won it from Hodgo, and the same reign continues there under the new name.",
+    "epitaph_asof": {
+      "written": "2026-08-18",
+      "evidence": {
+        "reigns": 5
+      },
+      "author": "ai"
+    },
+    "cadence": "standing",
+    "events": [
+      {
+        "type": "rename",
+        "title": "xuw-television",
+        "date": {
+          "date": "2002-01-31",
+          "precision": "exact"
+        },
+        "note": "Renamed on-air at XUW Vortex #6 the moment CK won it from Hodgo — Mister Webster: “I am changing this belt from the Cruiserweight Title, to the XUW TV TITLE!”"
+      }
+    ]
+  },
+  {
+    "id": "xuw-hardcore",
+    "type": "title",
+    "name": "Hardcore Championship",
+    "promotion": "xuw",
+    "page": "/titles/xuw-hardcore.html",
+    "collection": "0003",
+    "epitaph": "Twelve reigns recorded exact to the day, from the Lurchardor's opening 27-day hold to Raven X's as the source's own last snapshot; DDT is the only two-time holder the ledger names.",
+    "epitaph_asof": {
+      "written": "2026-08-18",
+      "evidence": {
+        "reigns": 22
+      },
+      "author": "ai"
+    },
+    "cadence": "standing"
+  },
+  {
+    "id": "xuw-hermit",
+    "type": "title",
+    "name": "Hermit Championship",
+    "promotion": "xuw",
+    "page": "/titles/xuw-hermit.html",
+    "collection": "0003",
+    "epitaph": "The shortest of the eight belts' own ledgers — three reigns only, Severson's own twice, the second closing the title out for good: the source's own record states plainly that the belt was retired at that reign's own close.",
+    "epitaph_asof": {
+      "written": "2026-08-18",
+      "evidence": {
+        "reigns": 3
+      },
+      "author": "ai"
+    },
+    "cadence": "standing",
+    "events": [
+      {
+        "type": "retired_by_fed",
+        "date": {
+          "date": null,
+          "precision": "unknown"
+        },
+        "note": "The fed's own title-history ledger states the belt retired at the close of Severson's second reign; no exact date for the reign's own close survives."
+      }
+    ]
+  },
+  {
+    "id": "xuw-intercontinental",
+    "type": "title",
+    "name": "Intercontinental Championship",
+    "promotion": "xuw",
+    "page": "/titles/xuw-intercontinental.html",
+    "collection": "0003",
+    "epitaph": "The busiest chain among the eight belts' own founding-era table, its final recorded change putting Numark on top as of the source's own last snapshot; two separate stretches sit vacant on the fed's own record, once for twelve days and once for twenty-four, with no holder named for either.",
+    "epitaph_asof": {
+      "written": "2026-08-18",
+      "evidence": {
+        "reigns": 29
+      },
+      "author": "ai"
+    },
+    "cadence": "standing"
+  },
+  {
+    "id": "xuw-submission",
+    "type": "title",
+    "name": "Submission Championship",
+    "promotion": "xuw",
+    "page": "/titles/xuw-submission.html",
+    "collection": "0003",
+    "epitaph": "LanceStormDBC's own opening 73-day reign is the longest the belt's founding-era table records; Jack “the Ripper” Nobbledy's second reign is its last, champion as of the source's own final September 2002 snapshot.",
+    "epitaph_asof": {
+      "written": "2026-08-18",
+      "evidence": {
+        "reigns": 25
+      },
+      "author": "ai"
+    },
+    "cadence": "standing"
+  },
+  {
+    "id": "xuw-television",
+    "type": "title",
+    "name": "Television Championship",
+    "promotion": "xuw",
+    "page": "/titles/xuw-television.html",
+    "collection": "0003",
+    "epitaph": "Continues the Cruiserweight Championship's own lineage — CK won the Cruiserweight belt from Hodgo at XUW Vortex #6, and Mister Webster announced, on the spot, “I am changing this belt from the Cruiserweight Title, to the XUW TV TITLE!” Thirty-plus changes follow at a breakneck pace before MV Pete's own reign closes the belt out for good — the source's own record calls him the “Final Television Champion” and states plainly that the belt was retired at his reign's own close.",
+    "epitaph_asof": {
+      "written": "2026-08-18",
+      "evidence": {
+        "reigns": 35
+      },
+      "author": "ai"
+    },
+    "cadence": "standing",
+    "events": [
+      {
+        "type": "retired_by_fed",
+        "date": {
+          "date": "2002-12-15",
+          "precision": "exact"
+        },
+        "note": "The fed's own title-history ledger (champions.shtml / champions_retired.htm) names MV Pete the \"Final Television Champion\" and states the belt retired at the close of his reign; a later served show (XUW Road Rage III, Aug 2003) records a further change to Saij, a discrepancy the ledger's own retirement claim doesn't resolve."
+      }
+    ]
+  },
+  {
+    "id": "xuw-world-heavyweight",
+    "type": "title",
+    "name": "World Heavyweight Championship",
+    "promotion": "xuw",
+    "page": "/titles/xuw-world-heavyweight.html",
+    "collection": "0003",
+    "epitaph": "Nine holders across the fed's own surviving run, opening on Lopen's tournament win and last recorded changing hands to Sidhe Nimh at the source's own final September 2002 snapshot. The fed's own two ledger pages carry no prose at all — only a title, a holder, and exact dates, reign after reign.",
+    "epitaph_asof": {
+      "written": "2026-08-18",
+      "evidence": {
+        "reigns": 23
+      },
+      "author": "ai"
+    },
+    "cadence": "standing"
+  },
+  {
+    "id": "xuw-world-tag-team",
+    "type": "title",
+    "name": "World Tag Team Championship",
+    "promotion": "xuw",
+    "page": "/titles/xuw-world-tag-team.html",
+    "collection": "0003",
+    "epitaph": "Dante & Woof Woof's own opening reign gives way to nine further changes of hands, the Boomer Sooners' own second reign the last the source's own snapshot records — the same Boomer Sooners who briefly gave way to an ad hoc, unbranded pairing of Kata & Sheri along the way.",
+    "epitaph_asof": {
+      "written": "2026-08-18",
+      "evidence": {
+        "reigns": 23
+      },
+      "author": "ai"
+    },
+    "cadence": "standing"
+  },
+  {
+    "id": "xuw-xudf-north-american",
+    "type": "title",
+    "promotion": "xuw",
+    "name": "XUDF North American Championship",
+    "page": "/titles/xuw-xudf-north-american.html",
+    "epitaph": "One of the two belts XUW's own developmental territory kept for itself — a North American Championship whose complete lineage survives in the XUDF's own champions ledger, from Doughboy's founding run through the vacancy the last capture leaves standing.",
+    "epitaph_asof": {
+      "written": "2026-08-22",
+      "author": "ai"
+    }
+  },
+  {
+    "id": "xuw-xudf-united-states",
+    "type": "title",
+    "promotion": "xuw",
+    "name": "XUDF U.S. Championship",
+    "page": "/titles/xuw-xudf-united-states.html",
+    "epitaph": "The XUDF's own second singles belt, a U.S. Championship handed across the developmental roster for over a year — its complete lineage survives in the territory's own champions ledger, ending on Nurse Wretched's reign, still open at the final capture.",
+    "epitaph_asof": {
+      "written": "2026-08-22",
+      "author": "ai"
+    }
+  }
+]

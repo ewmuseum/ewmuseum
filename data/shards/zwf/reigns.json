@@ -1,0 +1,267 @@
+[
+  {
+    "id": "zwf-world-r001",
+    "title": "zwf-world",
+    "label": "Brock Lesnar",
+    "holder": [
+      {
+        "id": "brock-lesnar-zwf"
+      }
+    ],
+    "won": {
+      "date": "2002-07-01",
+      "precision": "exact",
+      "source": "The fed's own served World Title page: \"Brock Lesnar def. Jerry Lynn(by default)-July 1st, 2002\" — one entry on its own \"Last 5 title changes\" list."
+    },
+    "how": "Defeated Jerry Lynn by default in a match to fill the vacated title.",
+    "lost": {
+      "date": "2002-07-19",
+      "precision": "exact",
+      "source": "The fed's own served World Title page: \"The Undertaker def. Brock Lesnar-July 19th, 2002\" — one entry on its own \"Last 5 title changes\" list."
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "zwf-world-r002",
+    "title": "zwf-world",
+    "label": "The Undertaker",
+    "holder": [
+      {
+        "id": "the-undertaker-zwf"
+      }
+    ],
+    "won": {
+      "date": "2002-07-19",
+      "precision": "exact",
+      "source": "The fed's own served World Title page: \"The Undertaker def. Brock Lesnar-July 19th, 2002\" — one entry on its own \"Last 5 title changes\" list."
+    },
+    "how": "Defeated Brock Lesnar.",
+    "lost": {
+      "date": "2002-07-21",
+      "precision": "exact",
+      "source": "The fed's own served World Title page: \"Sting def. The Undertaker-July 21st, 2002\" — one entry on its own \"Last 5 title changes\" list."
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "zwf-world-r003",
+    "title": "zwf-world",
+    "label": "Sting",
+    "holder": [
+      {
+        "id": "sting-zwf"
+      }
+    ],
+    "won": {
+      "date": "2002-07-21",
+      "precision": "exact",
+      "source": "The fed's own served World Title page: \"Sting def. The Undertaker-July 21st, 2002\" — one entry on its own \"Last 5 title changes\" list."
+    },
+    "how": "Defeated The Undertaker; the served text gives no further method.",
+    "lost": null,
+    "end": {
+      "date": "2002-07",
+      "precision": "circa",
+      "source": "Inferred: the ledger's own next entry (Jerry Lynn def. Brock Lesnar, 1 August 2002) is explicitly labelled \"a match to fill the vacated title,\" meaning Sting's reign ended without a recorded loss sometime between 21 July and 1 August 2002; no further detail survives."
+    },
+    "end_how": "vacated",
+    "note": "The fed's own served Summerslam broadcast closes on a plausibly related angle: after Undertaker defeats Triple H by pinfall in a steel-cage World Title defense, Sting interferes, Triple H hits a Pedigree, and Sting drapes the World Title over the fallen Undertaker. Summerslam's own served date is not exact enough to confirm this is the same event as this reign's own start, and the cage match's own pinfall goes to Undertaker, not Sting — recorded as a research note, not a structural link."
+  },
+  {
+    "id": "zwf-world-r004",
+    "title": "zwf-world",
+    "label": "Jerry Lynn",
+    "holder": [
+      {
+        "id": "jerry-lynn-zwf"
+      }
+    ],
+    "won": {
+      "date": "2002-08-01",
+      "precision": "exact",
+      "source": "The fed's own served World Title page: \"Jerry Lynn def. Brock Lesnar (match to fill vacated title)-August 1st, 2002\" — one entry on its own \"Last 5 title changes\" list."
+    },
+    "how": "Defeated Brock Lesnar in a match to fill the vacancy left by Sting's own ended reign.",
+    "lost": {
+      "date": "2002-08-12",
+      "precision": "exact",
+      "source": "The fed's own served World Title page: \"The Undertaker def. Jerry Lynn-August 12th, 2002\" — one entry on its own \"Last 5 title changes\" list."
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "zwf-world-r005",
+    "title": "zwf-world",
+    "label": "The Undertaker",
+    "holder": [
+      {
+        "id": "the-undertaker-zwf"
+      }
+    ],
+    "won": {
+      "date": "2002-08-12",
+      "precision": "exact",
+      "source": "The fed's own served World Title page: \"The Undertaker def. Jerry Lynn-August 12th, 2002\" — one entry on its own \"Last 5 title changes\" list."
+    },
+    "how": "Defeated Jerry Lynn.",
+    "lost": null,
+    "end_how": "still-champion-at-record-end",
+    "note": "Confirmed still champion on the fed's own served home page, which names him \"Wrestler Of The Week,\" current World/TV/Hardcore triple-champion, \"Joined ZWF: May, 2002.\""
+  },
+  {
+    "id": "zwf-light-heavyweight-r002",
+    "title": "zwf-light-heavyweight",
+    "label": "Lita",
+    "holder": [
+      {
+        "id": "lita-zwf"
+      }
+    ],
+    "won": {
+      "date": "2002",
+      "precision": "circa",
+      "source": "The fed's own served Summerslam broadcast: \"Here is your winner and NEW Light Heavyweight champion, Lita!\" (promotions/zwf/archive/summerslam.html)"
+    },
+    "event": "zwf-summerslam-2002",
+    "how": "Reversed a Chris Jericho top-rope Lionsault into a rollup for the pin.",
+    "lost": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "zwf-light-heavyweight-r001",
+    "title": "zwf-light-heavyweight",
+    "label": "Chris Jericho",
+    "holder": [
+      {
+        "id": "chris-jericho-zwf"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "the fed's own served Summerslam broadcast bills him champion entering the show; no won date or method survives"
+    },
+    "how": "Unknown — already reigning champion entering ZWF Summerslam.",
+    "lost": {
+      "date": "2002",
+      "precision": "circa",
+      "source": "The fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "zwf-eurocontinental-r001",
+    "title": "zwf-eurocontinental",
+    "label": "Chris Jericho",
+    "holder": [
+      {
+        "id": "chris-jericho-zwf"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "the fed's own served Summerslam broadcast bills him champion entering the show, defending successfully against Booker T; no won date or method survives"
+    },
+    "how": "Unknown — already reigning champion; retained against Booker T by pinfall (countering a near-fall Bookend into a Bulldog, then a Lionsault) at ZWF Summerslam.",
+    "lost": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "zwf-hardcore-r001",
+    "title": "zwf-hardcore",
+    "label": "The Rock",
+    "holder": [
+      {
+        "id": "the-rock-zwf"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "the fed's own served Summerslam broadcast bills him champion entering the show; no won date or method survives"
+    },
+    "how": "Unknown — already reigning champion; retained against Supernova in a weapons brawl (two Rock Bottoms, the second through a table) at ZWF Summerslam.",
+    "lost": null,
+    "note": "The fed's own home page separately credits The Undertaker with a Hardcore reign (\"Titles Held:... Hardcore(1)\"); no document in the held record shows a transition from this reign to that one — a results-free gap, not resolved here.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "zwf-hardcore-r002",
+    "title": "zwf-hardcore",
+    "label": "The Undertaker",
+    "holder": [
+      {
+        "id": "the-undertaker-zwf"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "the fed's own served home page bio blurb (\"Titles Held: World(2), TV(1), Hardcore(1)\") — the fed's own latest snapshot; no won date, method, or defeated former champion recorded"
+    },
+    "how": "Unknown — the fed's own home page bio blurb credits him with a Hardcore Championship reign without narrating how he won it; the transition from The Rock's own Summerslam-documented reign is not attested anywhere in the held record.",
+    "lost": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "zwf-tv-r002",
+    "title": "zwf-tv",
+    "label": "Jeff Hardy",
+    "holder": [
+      {
+        "id": "jeff-hardy-zwf"
+      }
+    ],
+    "won": {
+      "date": "2002",
+      "precision": "circa",
+      "source": "The fed's own served Summerslam broadcast: \"DING! Jeff Hardy is the new TV Champion!\" (promotions/zwf/archive/summerslam.html)"
+    },
+    "event": "zwf-summerslam-2002",
+    "how": "Won a Triple Threat over X-Pac (c) and Zero, putting Zero through a table with the Twist of Fate before pinning X-Pac with the Swanton Bomb.",
+    "lost": null,
+    "note": "The fed's own home page separately credits The Undertaker with a TV reign (\"Titles Held: World(2), TV(1)...\"); no document in the held record shows a transition from this reign to that one — a results-free gap, not resolved here.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "zwf-tv-r001",
+    "title": "zwf-tv",
+    "label": "X-Pac",
+    "holder": [
+      {
+        "id": "x-pac-zwf"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "the fed's own served Summerslam broadcast bills him champion entering the show; no won date or method survives"
+    },
+    "how": "Unknown — already reigning TV Champion entering ZWF Summerslam.",
+    "lost": {
+      "date": "2002",
+      "precision": "circa",
+      "source": "The fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+    },
+    "end_how": "lost-in-match"
+  },
+  {
+    "id": "zwf-tv-r003",
+    "title": "zwf-tv",
+    "label": "The Undertaker",
+    "holder": [
+      {
+        "id": "the-undertaker-zwf"
+      }
+    ],
+    "won": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "the fed's own served home page bio blurb (\"Titles Held: World(2), TV(1), Hardcore(1)\") — the fed's own latest snapshot; no won date, method, or defeated former champion recorded"
+    },
+    "how": "Unknown — the fed's own home page bio blurb credits him with a TV Championship reign without narrating how he won it; the transition from Jeff Hardy's own Summerslam-documented reign is not attested anywhere in the held record.",
+    "lost": null,
+    "end_how": "still-champion-at-record-end"
+  }
+]

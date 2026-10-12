@@ -1,0 +1,112 @@
+[
+  {
+    "id": "wmw-great-lakes",
+    "type": "title",
+    "name": "WMW Great Lakes Championship",
+    "promotion": "wmw",
+    "page": "/titles/wmw-great-lakes.html",
+    "collection": "0046",
+    "epitaph": "The Great Lakes Championship was Wrestling Midwest’s own top belt, named for the region the fed billed itself the best in. Sub-Beast was its first champion, on 28 February 2003; the champions page's own longest-reign line credits Dess with an undated two-month, two-defence reign somewhere before Tami Weber's own turn with the belt, which ended when Dess took it back on 13 June 2003. Two of the four reigns the record names are undated on one side or both.",
+    "epitaph_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "reigns": 4
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "wmw-midwest",
+    "type": "title",
+    "name": "WMW Midwest Championship",
+    "promotion": "wmw",
+    "page": "/titles/wmw-midwest.html",
+    "collection": "0046",
+    "epitaph": "Fury won the Midwest Championship when it was new, on 28 March 2003, lost it to Myst inside a month, and spent weeks earning his way back to a triple threat at High Stakes to take it again on 25 April. The fed’s own champions page tells that story in a paragraph and records one successful defence after it.",
+    "epitaph_asof": {
+      "written": "2026-08-23",
+      "evidence": {
+        "reigns": 3
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "wmw-hardcore",
+    "type": "title",
+    "name": "WMW Hardcore Championship",
+    "promotion": "wmw",
+    "page": "/titles/wmw-hardcore.html",
+    "collection": "0046",
+    "epitaph": "Matrix was already the Hardcore Champion when the surviving record opens, retaining it against Outlaw Biker at Ides of March. He no-showed his own title defense at High Stakes a month later — a 180-minute, multi-man Invitational the fed's own commentary explains it would run start-to-finish rather than on the clock — and Jeff Hardkore won the vacant match by pinning Johnny Blayze through a table. Commissioner Donovan Merlot renamed the belt Ace Superior three weeks later, on 16 May 2003, with Hardkore still champion; the fed's own champions page treats that as a new title's own first reign rather than a continuation.",
+    "epitaph_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "reigns": 2
+      },
+      "author": "ai"
+    },
+    "events": [
+      {
+        "type": "rename",
+        "date": {
+          "date": "2003-05-16",
+          "precision": "exact"
+        },
+        "title": "wmw-ace-superior",
+        "note": "Commissioner Donovan Merlot renamed the belt Ace Superior (also called the Cruiserweight Championship in the same breath) on 16 May 2003, per the fed's own champions page; Benny Tyler's own Blood Factory commentary a week later still has to explain the new name to her broadcast partners, crediting Brad Johnson with wanting something \"unique, different\" for WMW."
+      }
+    ],
+    "notes": "The fed's own champions page opens the renamed title's own ledger at 16 May 2003 and does not credit it with Matrix's or Jeff Hardkore's earlier reigns under the Hardcore name; those are recorded here instead, chained forward to the rename."
+  },
+  {
+    "id": "wmw-ace-superior",
+    "type": "title",
+    "name": "WMW Ace Superior Championship",
+    "promotion": "wmw",
+    "page": "/titles/wmw-ace-superior.html",
+    "collection": "0046",
+    "epitaph": "This belt was created by a decision rather than a match. The fed’s own account is that the first act of a new Commissioner, Donovan Merlot, was to strip Jeff Hardkore of the Hardcore Title and hand him the Cruiserweight Championship — a belt the same page heads Ace Superior Championship. Three names sit in one paragraph for what the record shows as a single reign, beginning 16 May 2003 and unbroken at the last capture. The Hardcore title Hardkore is stripped of here is its own separate registry row (wmw-hardcore), chained forward to this one by an on-air rename rather than by this belt inheriting its history.",
+    "epitaph_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "reigns": 1
+      },
+      "author": "ai"
+    },
+    "notes": "The fed’s own champions page uses three names for this belt in one paragraph — Ace Superior Championship as the heading, and the Hardcore Title and Cruiserweight Championship in the sentence beneath it. All three are recorded as written."
+  },
+  {
+    "id": "wmw-shoot",
+    "type": "title",
+    "name": "WMW Shoot Championship",
+    "promotion": "wmw",
+    "page": "/titles/wmw-shoot.html",
+    "collection": "0046",
+    "epitaph": "The Shoot Championship began with Cy Cowart on 28 February 2003 and ran three weeks. The champions page's own longest-reign line ties Matrix with Jeff Hardkore at four weeks each, though only Hardkore's own reign — two defences, ending 6 June 2003 — can be placed in the lineage; Matrix's own reign of the same length is attested but not dated. Maxx Spartan took the belt from Garvin in a glass plate match in his own first Riot, and was still carrying it a week later when the fed's champions page was last written.",
+    "epitaph_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "reigns": 4
+      },
+      "author": "ai"
+    },
+    "notes": "The champions page’s own longest-reign line reads “Matrix/Jeff Hardkore (4 weeks)”, naming a holder the page records no reign for. Matrix is not given a reign row here; the line is recorded as the fed wrote it."
+  },
+  {
+    "id": "wmw-tag-team",
+    "type": "title",
+    "name": "WMW Tag Team Championship",
+    "promotion": "wmw",
+    "page": "/titles/wmw-tag-team.html",
+    "collection": "0046",
+    "epitaph": "Lance Steele and Ryan Scott were the first Tag Team Champions, from High Stakes on 25 April 2003 until Blood Factory on 23 May. The Dream Team — Noah Hanson and Johnny Blayze — beat them there, and the fed’s own champions page notes that no team had beaten Steele and Scott in a title match before.",
+    "epitaph_asof": {
+      "written": "2026-08-23",
+      "evidence": {
+        "reigns": 2
+      },
+      "author": "ai"
+    }
+  }
+]

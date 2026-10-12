@@ -1,0 +1,342 @@
+[
+  {
+    "id": "the-knights-cyberslam",
+    "type": "unit",
+    "name": "The_knights",
+    "tenures": [
+      {
+        "promotion": "cyberslam",
+        "role": "stable",
+        "first_seen": "2000",
+        "last_seen": "2000",
+        "grade": "primary-source",
+        "source": "Slammer profile cards for Chevalier, Justin_tyme and Rembrandt, all captured mid-2000 (see each character's own tenure source).",
+        "note": "Named as Stable on three separate slammer profile cards (Chevalier, Justin_tyme, Rembrandt); Rembrandt's own card additionally calls him \"one of the founding members of the Knights.\""
+      }
+    ],
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Chevalier",
+        "character_id": "chevalier-cyberslam"
+      },
+      {
+        "name": "Justin_tyme",
+        "character_id": "justin-tyme-cyberslam"
+      },
+      {
+        "name": "Rembrandt",
+        "character_id": "rembrandt-cyberslam"
+      }
+    ],
+    "caption": "A CyberSlam stable carrying Chevalier, Justin_tyme and Rembrandt across the CCW, CSlam and CFL, founded by Rembrandt's own account.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Shares a decorated-aka substring with OWW's Night — a coincidental partial-word match, not a shared identity. CyberSlam's own Knights are a CyberSlam-original stable carrying Chevalier, Justin_tyme and Rembrandt.",
+        "with": [
+          "night-oww"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "big-brother-cyberslam",
+    "type": "unit",
+    "name": "Big_brother",
+    "tenures": [
+      {
+        "promotion": "cyberslam",
+        "role": "stable",
+        "first_seen": "2000",
+        "last_seen": "2000",
+        "grade": "primary-source",
+        "source": "Slammer profile cards for Al_bradd and Dr_douglas, captured 11 July 2000 and 16 May 2000 respectively.",
+        "note": "Named as Stable on both Al_bradd's and Dr_douglas's own profile cards, which also bill each as the other's tag team partner."
+      }
+    ],
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Al_bradd",
+        "character_id": "al-bradd-cyberslam"
+      },
+      {
+        "name": "Dr_douglas",
+        "character_id": "dr-douglas-cyberslam"
+      }
+    ],
+    "caption": "A two-man CBF/CFL stable pairing manager-psychiatrist Doctor Douglas with his own patient and tag partner Al_bradd, worshipped by both under the same name.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "the-new-lead-cyberslam",
+    "type": "unit",
+    "name": "The_new_lead",
+    "tenures": [
+      {
+        "promotion": "cyberslam",
+        "role": "stable",
+        "first_seen": "2000",
+        "last_seen": "2000",
+        "grade": "primary-source",
+        "source": "Slammer profile cards for Hades and Psycohol, captured 8 July 2000 and 23 May 2000 respectively.",
+        "note": "Named as Stable on both Hades's and Psycohol's own profile cards."
+      }
+    ],
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Hades",
+        "character_id": "hades-cyberslam"
+      },
+      {
+        "name": "Psycohol",
+        "character_id": "psycohol-cyberslam"
+      }
+    ],
+    "caption": "A CBF stable carrying Hades and his sworn-enemy-adjacent, feuding CBF colleague Psycohol.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "xtasy-cyberslam",
+    "type": "unit",
+    "name": "Xtasy",
+    "aka": [
+      "X†asy",
+      "X†ASY"
+    ],
+    "tenures": [
+      {
+        "promotion": "cyberslam",
+        "role": "stable",
+        "first_seen": "2000",
+        "last_seen": "2000",
+        "grade": "primary-source",
+        "source": "Slammer profile cards for Luciffer and Renegade, captured 1 June 2000 and 8 July 2000 respectively.",
+        "note": "Luciffer's own card names his Stable \"Xtasy\" and calls him \"the leader of X†ASY\"; Renegade's own card, a different CBF-area fed (ICWA), closes with \"Long live X†asy,\" the same stylized name."
+      }
+    ],
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Luciffer",
+        "character_id": "luciffer-cyberslam"
+      },
+      {
+        "name": "Renegade",
+        "character_id": "renegade-cyberslam"
+      }
+    ],
+    "caption": "A CyberSlam stable — styled X†asy on its own members' cards — carrying self-billed leader Luciffer and his CWO tag partner Renegade into the ICWA.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Shares a spelling variant with an existing registered \"Extasy\" — a coincidental stylized-spelling coincidence (both riff on \"ecstasy\"). CyberSlam's own Xtasy/X†asy is its own CWO/ICWA stable carrying Luciffer and Renegade.",
+        "with": [
+          "extasy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "house-of-pain-cyberslam",
+    "type": "unit",
+    "name": "House_of_pain",
+    "tenures": [
+      {
+        "promotion": "cyberslam",
+        "role": "stable",
+        "first_seen": "2000",
+        "last_seen": "2000",
+        "grade": "primary-source",
+        "source": "Slammer profile cards for Lord (captured 23 May 2000) and Bagelguy (captured 17 May 2000, prose evidence only).",
+        "note": "Lord's own card names his Stable \"House_of_pain\" outright. Bagelguy's own card leaves its structured Stable field \"None\" but his own Introduction line bills him alongside \"the entire House of Pain\" — weaker, prose-only evidence for the second member, flagged as such."
+      }
+    ],
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Lord",
+        "character_id": "lord-cyberslam"
+      },
+      {
+        "name": "Bagelguy",
+        "character_id": "bagelguy-cyberslam"
+      }
+    ],
+    "caption": "A CBF stable billed on Lord's own card and, more loosely, in Bagelguy's own introduction.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "the-rat-pack-cyberslam",
+    "type": "unit",
+    "name": "The Rat Pack",
+    "tenures": [
+      {
+        "promotion": "cyberslam",
+        "role": "tag team",
+        "first_seen": "1999",
+        "last_seen": "1999",
+        "grade": "primary-source",
+        "source": "Named in Alisterfiend's own PreMatch Comments across two logged CWO matches: \"Tag team title shot vs the Rat Pack(arcwing&purplehaze)for trecherous thursday.\" (/promotions/cyberslam/archive/cwo-match-121.html, /promotions/cyberslam/archive/cwo-match-122.html).",
+        "note": "Alisterfiend faced both members as separate 1v1 legs of a CWO tag-title challenge, per the fed's own leg-by-leg match-logging convention; no partner of Alisterfiend's own is named on either leg."
+      }
+    ],
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Arcwing",
+        "character_id": "arcwing-cyberslam"
+      },
+      {
+        "name": "Purple_haze",
+        "character_id": "purple-haze-cyberslam"
+      }
+    ],
+    "caption": "A CWO tag team pairing Arcwing and Purple_haze, named as the champions Alisterfiend challenged leg-by-leg for a tag team title shot at Treacherous Thursday.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Shares a bare name with a registered unit The Rat Pack (the classic Sinatra-crew namesake, a common borrowing). CyberSlam's own Rat Pack is a CWO tag team of Arcwing and Purple_haze with no connection to the other unit on the record.",
+        "with": [
+          "the-rat-pack"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-crew-cyberslam",
+    "type": "unit",
+    "name": "The_Crew",
+    "tenures": [
+      {
+        "promotion": "cyberslam",
+        "role": "tag team — iMWA",
+        "first_seen": "2000",
+        "last_seen": "2000",
+        "grade": "primary-source",
+        "source": "Edge's own Road to CWZ results, day one (/promotions/cyberslam/archive/news-1397-road-to-cwz-results.html).",
+        "note": "\"The_Crew regain the iMWA TAG TEAM TITLES\" from Sickness 2K in a no-holds-barred cage match, Road to CWZ, 29 September 2000; a recurring named rival of iMWA's own World Champions per the newest champion's own interview."
+      }
+    ],
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "caption": "iMWA's own recurring tag team rival of the fed's World Champion of the day, who regained the iMWA Tag Team Championship from Sickness 2K in a cage match at Road to CWZ.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "sickness-2k-cyberslam",
+    "type": "unit",
+    "name": "Sickness 2K",
+    "tenures": [
+      {
+        "promotion": "cyberslam",
+        "role": "tag team — iMWA",
+        "first_seen": "2000",
+        "last_seen": "2000",
+        "grade": "primary-source",
+        "source": "Edge's own Road to CWZ results, day one (/promotions/cyberslam/archive/news-1397-road-to-cwz-results.html).",
+        "note": "Lost the iMWA Tag Team Championship to The_Crew in a no-holds-barred cage match at Road to CWZ, 29 September 2000, and \"in the end split up\" per the same report."
+      }
+    ],
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "caption": "The outgoing iMWA Tag Team Champions, dethroned by The_Crew in a cage match at Road to CWZ and reported split up in its own aftermath.",
+    "caption_asof": {
+      "written": "2026-08-30",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+ {
+  "id": "the-misfits-mecw-main-event-2001",
+  "type": "unit",
+  "name": "The Misfits",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "Won the MECW Tag Team Championship on the broadcast where Johnny Eastland took the Hardcore title; the promotion's own report names neither its members nor its opponents.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mecw-main-event-2001",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag-team",
+    "grade": "primary-source",
+    "first_seen": "2001-05",
+    "last_seen": "2001-05",
+    "source": "/promotions/mecw-main-event-2001/archive/mecw-main-event-2001-new-hardcore-champ-tv-champ-tbd-2001-05-07.html",
+    "note": "Winning the Tag Team Championship is reported without naming opponents or members."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "misfits-gdwa",
+     "the-misfits-uwf-mar96"
+    ],
+    "note": "Shares the name The Misfits with units already recorded on two other wings (a duo at gdwa and a trio at uwf-mar96, which also happens to carry an unrelated Corey Irons record). No shared operator, roster or chronology evidence links this MECW unit to either; recorded distinct under the standing no-merge default for a recurring name."
+   }
+  ]
+ }
+]

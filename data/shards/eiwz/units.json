@@ -1,0 +1,46 @@
+[
+ {
+  "id": "mod-eiwz",
+  "type": "unit",
+  "name": "MoD",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Grim Reaper",
+    "character_id": "grim-reaper-eiwz"
+   },
+   {
+    "name": "Necromancer",
+    "character_id": "necromancer-eiwz"
+   }
+  ],
+  "caption": "A stable led by Grim Reaper that lost a Scaffold Match to Creep and Pain on December 17, 1998.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "The fed's own served Roster page bills Grim Reaper as \"leader of MoD\"; Necromancer's own roster entry names Grim Reaper as his tag team partner without using the group's own name \"MoD,\" so his own membership here is a presumed extension from that pairing rather than a primary-source-explicit one. No further member is named anywhere in the held corpus.",
+  "tenures": [
+   {
+    "promotion": "eiwz",
+    "first_seen": "1998-12-17",
+    "last_seen": "1998-12-17",
+    "role": "stable — lost a Scaffold Match to Creep and Pain",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "the fed's own served December 17, 1998 results (promotions/eiwz/archive/1998-12-17.html)",
+    "note": "The held record stages this unit exactly once."
+   }
+  ]
+ }
+]

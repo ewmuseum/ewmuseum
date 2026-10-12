@@ -1,0 +1,457 @@
+[
+ {
+  "id": "tko-newf",
+  "type": "unit",
+  "name": "TKO",
+  "aka": [
+   "Total Knock Outs"
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)",
+    "first_seen": "1998-09",
+    "last_seen": "1998-10"
+   }
+  ],
+  "caption": "Won the NEWF World Tag Team Titles twice (the belt's own founding reign, and again in a Four Corners Tag Team Match) between June and September 1998; its own individual roster is not named in the held record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-phoenix-newf",
+  "type": "unit",
+  "name": "The Phoenix",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "Lost the Finals of the founding World Tag Team Tournament to TKO at NEWF: The Beginning; its own individual roster is not named in the held record.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-the-phoenix"
+    ],
+    "note": "A name/aka collision, surfaced by the standing mint guard, against an entity minted for a different wing (euwc-the-phoenix). No held document on either side names the other fed or claims a shared performer/character; the name reads as a plausible independent reuse (a common gimmick word, or a generic name more than one fed's own roster landed on). Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "soldiers-of-fortune-newf",
+  "type": "unit",
+  "name": "Soldiers of Fortune",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Chuck Powers",
+    "character_id": "chuck-powers-newf"
+   }
+  ],
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "Won the NEWF World and U.S. Tag Team Titles in the promotion's own founding weeks of July 1998; Chuck Powers is the one member the held record names, crediting him with the Battle Royal win that claimed the U.S. Tag Team Titles.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "disaster-brothers-newf",
+  "type": "unit",
+  "name": "Disaster Brothers",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "Held both the NEWF World and U.S. Tag Team Titles across separate short reigns in 1998; its own individual roster is not named in the held record.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "power-and-glory-newf",
+  "type": "unit",
+  "name": "Power and Glory",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "Held the NEWF World Tag Team Titles for eight days in July 1998, between the Disaster Brothers and a second TKO reign; its own individual roster is not named in the held record.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-roots-of-evil-newf",
+  "type": "unit",
+  "name": "The Roots of Evil",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Deathroach",
+    "character_id": "deathroach-newf"
+   },
+   {
+    "name": "Dirt",
+    "character_id": "dirt-newf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "Deathroach and Dirt held the NEWF World Tag Team Titles from September to October 1998 (beating TKO) and the NEWF U.S. Tag Team Titles from late November, successfully defending the latter against Blood Runs Cold at NEWF: Pandemonium.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "hardcore-pretty-boys-newf",
+  "type": "unit",
+  "name": "Hardcore Pretty Boys",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Alex Star",
+    "character_id": "alex-star-newf"
+   },
+   {
+    "name": "Kommon Sense",
+    "character_id": "kommon-sense-newf"
+   },
+   {
+    "name": "KC \"Loose\" Cannon",
+    "character_id": "kc-loose-cannon-newf"
+   },
+   {
+    "name": "'El Loco Luchador' Joaquin Campos",
+    "character_id": "el-loco-luchador-joaquin-campos-newf"
+   },
+   {
+    "name": "'Cameraman' Corey Johnson",
+    "character_id": "cameraman-corey-johnson-newf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "The fed's own served stable bio page bills Alex Star, Kommon Sense, KC \"Loose\" Cannon, 'El Loco Luchador' Joaquin Campos and 'Cameraman' Corey Johnson as this stable's core; it held both the NEWF World and U.S. Tag Team Titles across 1998, with Alex Star also its NEWF World Champion.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "hardcore-pretty-boys-agw"
+    ],
+    "note": "A name/aka collision, surfaced by the standing mint guard, against an entity minted for a different wing (hardcore-pretty-boys-agw). No held document on either side names the other fed or claims a shared performer/character; the name reads as a plausible independent reuse (a common gimmick word, or a generic name more than one fed's own roster landed on). Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "the-sociopaths-newf",
+  "type": "unit",
+  "name": "The Sociopaths",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Kommon Sense",
+    "character_id": "kommon-sense-newf"
+   },
+   {
+    "name": "KC \"Loose\" Cannon",
+    "character_id": "kc-loose-cannon-newf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "Kommon Sense and KC \"Loose\" Cannon's own tag pairing within the Hardcore Pretty Boys, per the fed's own served stable bio page; held the NEWF U.S. and World Tag Team Titles across 1998, successfully defending the World Tag Team Titles against Conveyors Of Pain at NEWF: Pandemonium.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-sociopaths-agw"
+    ],
+    "note": "A name/aka collision, surfaced by the standing mint guard, against an entity minted for a different wing (the-sociopaths-agw). No held document on either side names the other fed or claims a shared performer/character; the name reads as a plausible independent reuse (a common gimmick word, or a generic name more than one fed's own roster landed on). Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "the-clan-newf",
+  "type": "unit",
+  "name": "The Clan",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "Held the NEWF U.S. Tag Team Titles for three days in August 1998, between the Disaster Brothers and the Hardcore Pretty Boys; its own individual roster is not named in the held record.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-clan-lcw-1997"
+    ],
+    "note": "A name/aka collision, surfaced by the standing mint guard, against an entity minted for a different wing (the-clan-lcw-1997). No held document on either side names the other fed or claims a shared performer/character; the name reads as a plausible independent reuse (a common gimmick word, or a generic name more than one fed's own roster landed on). Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ },
+ {
+  "id": "genx-newf",
+  "type": "unit",
+  "name": "GenX",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Susan",
+    "character_id": "susan-newf"
+   },
+   {
+    "name": "Deathwish",
+    "character_id": "deathwish-newf"
+   },
+   {
+    "name": "Sinister Sean Blake",
+    "character_id": "sinister-sean-blake-newf"
+   },
+   {
+    "name": "Crippler Chris Blake",
+    "character_id": "crippler-chris-blake-newf"
+   },
+   {
+    "name": "Blackheart Paul Vega",
+    "character_id": "blackheart-paul-vega-newf"
+   },
+   {
+    "name": "Heartbreak Kid Drake Savage",
+    "character_id": "heartbreak-kid-drake-savage-newf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "A stable the fed's own Pandemonium recap bills as Susan, Deathwish, \"The Blakes,\" Vega and Savage; Kid Nitro recruited the group into the Inner Circle on-air at Pandemonium, over a video objection from Skull Ganz invoking Smooth Operator's own name.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "blood-runs-cold-newf",
+  "type": "unit",
+  "name": "Blood Runs Cold",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Storm",
+    "character_id": "storm-newf"
+   },
+   {
+    "name": "Genesis",
+    "character_id": "genesis-newf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "Storm and Genesis's own billed pairing challenging for the NEWF U.S. Tag Team Titles at NEWF: Pandemonium, losing to defending champions The Roots of Evil.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "conveyors-of-pain-newf",
+  "type": "unit",
+  "name": "Conveyors Of Pain",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Max Wagner",
+    "character_id": "max-wagner-newf"
+   },
+   {
+    "name": "Dan Sexton",
+    "character_id": "dan-sexton-newf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "newf",
+    "source": "the fed's own served title-history page (promotions/newf/archive/title-histories.html); the fed's own served Pandemonium PPV recap (promotions/newf/archive/pandemonium.html)"
+   }
+  ],
+  "caption": "Max Wagner and Dan Sexton's own billed pairing challenging for the NEWF World Tag Team Titles at NEWF: Pandemonium, losing to defending champions The Sociopaths.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "conveyors-of-pain-agw"
+    ],
+    "note": "A name/aka collision, surfaced by the standing mint guard, against an entity minted for a different wing (conveyors-of-pain-agw). No held document on either side names the other fed or claims a shared performer/character; the name reads as a plausible independent reuse (a common gimmick word, or a generic name more than one fed's own roster landed on). Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+   }
+  ]
+ }
+]

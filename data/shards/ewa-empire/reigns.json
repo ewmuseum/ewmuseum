@@ -1,0 +1,144 @@
+[
+ {
+  "id": "ewa-empire-underground-r001",
+  "title": "ewa-empire-underground",
+  "label": "El Pablo",
+  "holder": [
+   {
+    "id": "el-pablo-ewa-empire"
+   }
+  ],
+  "won": {
+   "date": "2011-05-17",
+   "precision": "exact",
+   "source": "The fed's own news entry 6 (20 May 2011) congratulates El Pablo on winning the Underground title “on Shatter Point”; entry 3 (19 May 2011) posts the results of Shatter Point 5/17/11, the only show the fed staged between its own site opening and that congratulation."
+  },
+  "lost": {
+   "date": "2011-06",
+   "precision": "month"
+  },
+  "how": "Won on Shatter Point; the fed's own news announced it and reminded the roster that 24/7 rules meant it could go at any time.",
+  "event": "ewa-empire-shatter-point-2011-05-17",
+  "end_how": "lost-in-match",
+  "note": "Lost the title to Chris Johnson at Retaliation; Chris Johnson's own Casting Couch segment on Shatter Point 7/5/11 calls his Retaliation win his own, and the belt is his going into that show."
+ },
+ {
+  "id": "ewa-empire-world-heavyweight-r002",
+  "title": "ewa-empire-world-heavyweight",
+  "label": "Justin Marsham",
+  "holder": [
+   {
+    "id": "justin-marsham-ewa-empire"
+   }
+  ],
+  "won": {
+   "date": "2011-06",
+   "precision": "month",
+   "source": "Justin Marsham's own Shatter Point 7/5/11 promo, recounting a Stairway to Death match win over Buzzsaw at Retaliation; the fed's own news of 25 June 2011 reports gold changing hands at Retaliation without naming the belt."
+  },
+  "lost": null,
+  "how": "Won the title from Buzzsaw in a Stairway to Death match at Retaliation, by his own account on Shatter Point 7/5/11.",
+  "event": "ewa-empire-retaliation-2011",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewa-empire-world-heavyweight-r001",
+  "title": "ewa-empire-world-heavyweight",
+  "label": "Buzzsaw",
+  "holder": [
+   {
+    "id": "buzzsaw-ewa-empire"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No won date survives; the fed's own news of 24 May 2011 bills him as the reigning EWA World Champion."
+  },
+  "lost": {
+   "date": "2011-06",
+   "precision": "month"
+  },
+  "how": "Billed as the reigning World Champion in the fed's own news of 24 May 2011, with a major announcement booked for the 6 June show; lost the title to Justin Marsham at Retaliation in a Stairway to Death match, by Marsham's own account on Shatter Point 7/5/11. The fed's own text also credits one successful defense against Tim Timmons somewhere in the reign, with no date or card recovered for it.",
+  "note": "Neither the start nor the end of this reign is in the surviving record; the fed's own news of 25 June 2011 reports that gold changed hands at Retaliation without saying which belts.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ewa-empire-underground-r002",
+  "title": "ewa-empire-underground",
+  "label": "Chris Johnson",
+  "holder": [
+   {
+    "id": "chris-johnson-ewa-empire"
+   }
+  ],
+  "won": {
+   "date": "2011-06",
+   "precision": "month",
+   "source": "Chris Johnson billed as reigning Underground Champion on Shatter Point 7/5/11, celebrating a Retaliation win on his own Casting Couch segment; the fed's own news of 25 June 2011 reports gold changing hands at Retaliation without naming the belt."
+  },
+  "lost": {
+   "date": "2011-07-05",
+   "precision": "exact"
+  },
+  "how": "Won the title at Retaliation. Lost it on Shatter Point 7/5/11 under the belt's own 24/7 rules — pinned by a surprise-entrant Waylon Krews (the Krewsplitter, onto a steel chair) mid-way through an unrelated tag match, while defending champion Chris Johnson was the legal man against El Fuego.",
+  "event": "ewa-empire-retaliation-2011",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ewa-empire-underground-r003",
+  "title": "ewa-empire-underground",
+  "label": "Waylon Krews",
+  "holder": [
+   {
+    "id": "waylon-krews-ewa-empire"
+   }
+  ],
+  "won": {
+   "date": "2011-07-05",
+   "precision": "exact",
+   "source": "Shatter Point 7/5/11: Waylon Krews runs in on the Payne/Johnson vs. El Fuego tag match, hits the Krewsplitter on legal man Chris Johnson onto a steel chair, and the referee counts the pin under the Underground Championship's own 24/7 rules."
+  },
+  "lost": null,
+  "how": "Won the title mid-match on Shatter Point 7/5/11 under the belt's own 24/7 rules, then fled through the crowd with it, Jackson Cage in pursuit.",
+  "event": "ewa-empire-shatter-point-2011-07-05",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewa-empire-tag-team-r001",
+  "title": "ewa-empire-tag-team",
+  "label": "Home Town Heroes",
+  "holder": [
+   {
+    "id": "home-town-heroes-ewa-empire"
+   }
+  ],
+  "won": {
+   "date": "2011-06",
+   "precision": "month",
+   "source": "Home Town Heroes billed and celebrated as EWA's first Tag Team Champions on Shatter Point 7/5/11, crowned in a triple threat at Retaliation over Total Mayhem and the Sons of Ohio/Wreckers pairing."
+  },
+  "lost": null,
+  "how": "Won a triple threat at Retaliation over Total Mayhem and a Sons of Ohio/Wreckers pairing to become the promotion's first Tag Team Champions.",
+  "event": "ewa-empire-retaliation-2011",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ewa-empire-international-r001",
+  "title": "ewa-empire-international",
+  "label": "Buck Evans",
+  "holder": [
+   {
+    "id": "buck-evans-ewa-empire"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed as the reigning International Champion on Shatter Point 7/5/11, retaining against Alexander Slate after Big Nasty's attack left Slate unable to compete; no won date survives."
+  },
+  "lost": null,
+  "how": "Champion by the time of Shatter Point 7/5/11's own broadcast; the belt's own history page was never captured.",
+  "end_how": "still-champion-at-record-end"
+ }
+]

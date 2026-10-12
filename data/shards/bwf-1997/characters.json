@@ -1,0 +1,893 @@
+[
+ {
+  "id": "steve-lauria-bwf",
+  "type": "character",
+  "name": "Steve Lauria",
+  "caption": "Defeats MAFIA member Frank Rizzo by submission (Figure-Four) on Sunday Night Warfare; loses to a debuting Pain Maker on Thursday Thrashings after a returning Gabriel Knight's chair interference.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-30",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "frank-rizzo-bwf",
+  "type": "character",
+  "name": "Frank Rizzo",
+  "caption": "A member of the MAFIA stable, introduced alongside The GodFather; loses to Steve Lauria by submission on Sunday Night Warfare.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "al-marvelous-bwf",
+  "type": "character",
+  "name": "Al Marvelous",
+  "caption": "\"The Marvelous One,\" lured into signing with the MAFIA on-air before turning on The GodFather with a surprise DDT and later beating him for the win.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "the-godfather-bwf",
+  "type": "character",
+  "name": "The GodFather",
+  "caption": "Leader of the MAFIA stable; double-crossed by his own recruit Al Marvelous on Sunday Night Warfare, and still feuding with a rival (\"Kash\") in the fed's own December newsletters.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-12-22",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "godfather-aicw",
+     "the-godfather-ewa-email",
+     "the-godfather-uwf-uwow"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "deathhead-distruct-bwf",
+  "type": "character",
+  "name": "DeathHead Distruct",
+  "caption": "Recruited into the MAFIA alongside Al Marvelous on-air; appears again in the fed's own December newsletter with a Christmas-themed promo.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-12-22",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "superstar-bwf",
+  "type": "character",
+  "name": "SuperStar",
+  "caption": "Billed as \"the BWF's lone cruiserweight\"; his advertised Sunday Night Warfare main event against Disco Stu goes unanswered when Disco Stu fails to appear, and Tommy Starr wrestles in his place.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "cwfpro-superstar",
+     "ray-hagan-sewf",
+     "steve-taylor-wicew",
+     "superstar-iwf",
+     "superstar-nccw-1998"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tommy-starr-bwf",
+  "type": "character",
+  "name": "Tommy Starr",
+  "caption": "\"The only one in the BWF that was present in the old one,\" per the fed's own commentary; answers SuperStar's open challenge and wins with the Starr Jammer, then upsets $$$KASH$$$'s challenger role a week later with a countered chokeslam loss.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-30",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "tommy-starr"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "disco-stu-bwf",
+  "type": "character",
+  "name": "Disco Stu",
+  "caption": "Billed for the Sunday Night Warfare main event but never appears; returns the following week to confront the broadcast in character, and reappears under the XWA rename billed as \"Deranged Stu.\"",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-11-15",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "disco-stu-cswa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kash-bwf",
+  "type": "character",
+  "name": "$$$KASH$$$",
+  "caption": "Upsets Tommy Starr with a chokeslam on Thursday Thrashings; named as The GodFather's rival in the fed's own December newsletter.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-12-22",
+    "source": "/promotions/bwf-1997/archive/bwf-thursday-thrashings-1997-10-30.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "pain-maker-bwf",
+  "type": "character",
+  "name": "Pain Maker",
+  "caption": "Debuts on Thursday Thrashings, defeating Steve Lauria after interference from the returning Gabriel Knight.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-thursday-thrashings-1997-10-30.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "gabriel-knight-bwf",
+  "type": "character",
+  "name": "Gabriel Knight",
+  "caption": "A former BWF SuperStar not brought back for the fed's 2.0 relaunch; returns unannounced from the crowd to cost Steve Lauria his match with a chair shot.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-thursday-thrashings-1997-10-30.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "the-rusher-bwf",
+  "type": "character",
+  "name": "The Rusher",
+  "caption": "Defeats The GodFather with a neckbreaker in the XWA's own first-ever match.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-debut-1997-11-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "gene-hoffman-bwf",
+  "type": "character",
+  "name": "Gene Hoffman",
+  "caption": "Billed \"of BWF Fame\"; loses to Deranged Stu (the former Disco Stu) on the XWA's debut card after his manager and wife left him weeks earlier.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-debut-1997-11-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "aztek-bwf",
+  "type": "character",
+  "name": "AzteK",
+  "caption": "A 7'1\" XWA competitor who wins the debut card's main event over Death with brass knuckles smuggled in by a mystery man; credited elsewhere as a former BWF World Champion and CWO SuperStar with his own fansite on the fed's own host.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-debut-1997-11-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "death-bwf",
+  "type": "character",
+  "name": "Death",
+  "caption": "One half of the tag team Death Row; loses the XWA debut card's main event to AzteK by outside interference.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-debut-1997-11-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "death-costume-ewa",
+     "death-faw",
+     "death-ngw",
+     "death-wewf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "andrew-ranks-bwf",
+  "type": "character",
+  "name": "Andrew Ranks",
+  "caption": "Play-by-play announcer across the BackNet and XWA eras alike.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-11-15",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jerry-iceman-richards-bwf",
+  "type": "character",
+  "name": "Jerry \"Iceman\" Richards",
+  "caption": "A former BWF wrestler turned colour commentator; attacks broadcast partner Lord Williams III on-air on Thursday Thrashings.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-30",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lord-williams-iii-bwf",
+  "type": "character",
+  "name": "Lord Williams III",
+  "caption": "A heel colour commentator introduced as the man who took the previous announcer's job; attacked on-air by broadcast partner Jerry \"Iceman\" Richards.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-30",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "brett-rose-bwf",
+  "type": "character",
+  "name": "Brett Rose",
+  "caption": "A masked colour commentator on the XWA's debut broadcast.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-debut-1997-11-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "jim-burns-bwf",
+  "type": "character",
+  "name": "Jim Burns",
+  "caption": "The XWA's own \"most hated man in announcing,\" debuting on the fed's first XWA broadcast.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-debut-1997-11-15.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "michael-richards-bwf",
+  "type": "character",
+  "name": "Michael Richards",
+  "caption": "Ring announcer for the BackNet-era broadcasts.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-30",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lance-haysmen-bwf",
+  "type": "character",
+  "name": "Lance Haysmen",
+  "caption": "Referee, Sunday Night Warfare.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "bill-freeman-bwf",
+  "type": "character",
+  "name": "Bill Freeman",
+  "caption": "Referee, Sunday Night Warfare.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "james-styles-bwf",
+  "type": "character",
+  "name": "James Styles",
+  "caption": "A former BWF announcer turned referee.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-11-15",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "eric-stevens-bwf",
+  "type": "character",
+  "name": "Eric Stevens",
+  "caption": "Referee, Thursday Thrashings.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "referee"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-10-26",
+    "source": "/promotions/bwf-1997/archive/bwf-thursday-thrashings-1997-10-30.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "president-williams-bwf",
+  "type": "character",
+  "name": "President Williams",
+  "caption": "The BackNet/XWA on-screen president and self-insert operator-president, who appears on every surviving card, books matches on-air, and narrates the fed's own BWF/XWA identity in the December newsletters.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-10-26",
+    "last_seen": "1997-12-22",
+    "source": "/promotions/bwf-1997/archive/bwf-sunday-night-warfare-1997-10-26.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "art-middleton-bwf",
+  "type": "character",
+  "name": "\"Prime Time Player\" Art Middleton",
+  "caption": "A newsletter-format XWA personality who reacts on-camera to clips from the fed's own prior SoundByte.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-02",
+    "last_seen": "1997-12-02",
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-soundbyte-1997-12-02.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "john-charles-bwf",
+  "type": "character",
+  "name": "John Charles",
+  "caption": "Art Middleton's on-screen friend and sounding board in the XWA's own SoundByte newsletter.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-02",
+    "last_seen": "1997-12-02",
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-soundbyte-1997-12-02.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "the-crippler-bwf",
+  "type": "character",
+  "name": "The Crippler",
+  "caption": "Feuds with The GodFather in the fed's own December newsletters, including a billed Death Match against Art Middleton.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-12-22",
+    "last_seen": "1997-12-22",
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-soundbyte-1997-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "crippler-rawf",
+     "euwc-the-crippler",
+     "the-crippler-cswa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "aj-simon-bwf",
+  "type": "character",
+  "name": "AJ Simon",
+  "caption": "Beats AzteK by disqualification on the XWA's 6 December 1997 Saturday Night card when The GodFather runs in while AzteK is trapped in Simon's own submission hold, \"The Simon\".",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": {
+     "date": "1997-12-06",
+     "precision": "exact",
+     "source": "The card's own dateline; recovered from the post's own quoted-printable MIME body (msg_id nwmhq10-ZwcJ, attachment SatNight12697.txt)."
+    },
+    "last_seen": {
+     "date": "1997-12-06",
+     "precision": "exact",
+     "source": "The card's own dateline; recovered from the post's own quoted-printable MIME body (msg_id nwmhq10-ZwcJ, attachment SatNight12697.txt)."
+    },
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-saturday-night-1997-12-06.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "riot-bwf",
+  "type": "character",
+  "name": "Riot",
+  "caption": "Falls to Gene Hoffman's flying leg drop on the XWA's 9 December 1997 Tuesday Warfare card; both were billed as entrants in the coming XWA United States Championship tournament.",
+  "tenures": [
+   {
+    "promotion": "bwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": {
+     "date": "1997-12-09",
+     "precision": "exact",
+     "source": "The card's own dateline; recovered from the post's own quoted-printable MIME body (msg_id xJe-cIplqmYJ, attachment TuesNight12997.txt)."
+    },
+    "last_seen": {
+     "date": "1997-12-09",
+     "precision": "exact",
+     "source": "The card's own dateline; recovered from the post's own quoted-printable MIME body (msg_id xJe-cIplqmYJ, attachment TuesNight12997.txt)."
+    },
+    "source": "/promotions/bwf-1997/archive/bwf-xwa-tuesday-warfare-1997-12-09.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (riot-faw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "riot-faw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (riot-gswa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "riot-gswa"
+    ]
+   }
+  ]
+ }
+]

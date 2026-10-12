@@ -1,0 +1,473 @@
+[
+ {
+  "id": "archangel-chwe",
+  "type": "character",
+  "name": "Archangel",
+  "caption": "A CHWE original, the fed's own King of the Ring Tournament champion.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — King of the Ring Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/roster.html; promotions/chwe/archive/king-of-the-ring.html",
+    "height": "6'5'",
+    "weight": "275 lbs",
+    "hometown": "Vancouver, BC, Canada",
+    "finisher": "The Drop From The Heavens (Diamond Cutter)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A generic angelic-gimmick ring name independently used by several unrelated feds; no corroborating link found to this specific CHWE wrestler.",
+    "with": [
+     "archangel-iwf",
+     "archangel-pwf",
+     "archangel-wmw",
+     "archangel-wwa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bishop-chwe",
+  "type": "character",
+  "name": "Bishop",
+  "caption": "A CHWE original, winner of the first two matches of the fed's own Ladder Tournament.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/roster.html; promotions/chwe/archive/ladder-tournament-match-1.html; promotions/chwe/archive/ladder-tournament-match-2.html",
+    "height": "7'0\"",
+    "weight": "350 lbs",
+    "hometown": "Genova",
+    "finisher": "X-Bomb (Power Bomb)"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A generic ring name independently used by unrelated feds; no corroborating link found to this specific CHWE wrestler.",
+    "with": [
+     "bishop-rspwf",
+     "mark-bishop-gw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "phantom-chwe",
+  "type": "character",
+  "name": "Phantom",
+  "caption": "A CHWE original who won the fed's own Ladder Tournament final to become CHWE Heavyweight Champion.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — CHWE Heavyweight Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/roster.html; promotions/chwe/archive/ladder-tournament-match-5.html",
+    "height": "6'8\"",
+    "weight": "268 lbs",
+    "finisher": "Power Bomb"
+   }
+  ],
+  "notes": "Billed in the Ministry of Darkness alongside The Undertaker and Viscera, per each wrestler's own roster entry.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A generic ring name independently used by unrelated feds; no corroborating link found to this specific CHWE wrestler.",
+    "with": [
+     "phantom-aew",
+     "phantom-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-rock-chwe",
+  "type": "character",
+  "name": "The Rock",
+  "caption": "A CHWE billing of the real wrestler The Rock.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/roster.html; promotions/chwe/archive/champs.html; promotions/chwe/archive/king-of-the-ring.html; promotions/chwe/archive/ladder-tournament-match-1.html",
+    "height": "6'1\"",
+    "weight": "233",
+    "hometown": "Miami",
+    "finisher": "Rock Bottom",
+    "note": "The roster page's own bio card instead lists a conflicting height (6'2\") for the same wrestler; both readings are on record, per the sources-disagree rule."
+   }
+  ],
+  "portrayal_of": "the-rock-real",
+  "portrays": {
+   "figure": "the-rock-real",
+   "grade": "primary-source",
+   "note": "Billed under the real wrestler's own name throughout the fed's own served record."
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Each is an independent fed's own billing of the same real wrestler (The Rock) under his own name — portrayals never merge on name alone, per the portrayals doctrine; no fed-to-fed link found.",
+    "with": [
+     "the-rock-nwwa-1998"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "x-pac-chwe",
+  "type": "character",
+  "name": "X-Pac",
+  "caption": "A CHWE billing of the real wrestler X-Pac, the fed's own Gimmick Match Champion.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — Gimmick Match Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/roster.html; promotions/chwe/archive/champs.html; promotions/chwe/archive/king-of-the-ring.html; promotions/chwe/archive/ladder-tournament-match-2.html",
+    "height": "6'1\"",
+    "weight": "212 lbs",
+    "hometown": "Minnesota",
+    "finisher": "The X-Factor"
+   }
+  ],
+  "portrayal_of": "sean-waltman-real",
+  "portrays": {
+   "figure": "sean-waltman-real",
+   "grade": "primary-source",
+   "note": "Billed under the real wrestler's own name throughout the fed's own served record."
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "An independent fed's own billing of the same real wrestler (X-Pac) under his own name — portrayals never merge on name alone, per the portrayals doctrine; no fed-to-fed link found.",
+    "with": [
+     "x-pac-action-extreme-wrestling"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rob-van-dam-chwe",
+  "type": "character",
+  "name": "Rob Van Dam",
+  "caption": "A CHWE billing of the real wrestler Rob Van Dam.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/roster.html; promotions/chwe/archive/king-of-the-ring.html; promotions/chwe/archive/ladder-tournament-match-3.html; promotions/chwe/archive/ladder-tournament-match-4.html; promotions/chwe/archive/ladder-tournament-match-5.html",
+    "height": "5'7\"",
+    "weight": "225 lbs",
+    "hometown": "Battle Creek, MI",
+    "finisher": "Vamdamator"
+   }
+  ],
+  "portrayal_of": "rob-van-dam-real",
+  "portrays": {
+   "figure": "rob-van-dam-real",
+   "grade": "primary-source",
+   "note": "Billed under the real wrestler's own name throughout the fed's own served record."
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "An independent fed's own billing of the same real wrestler (Rob Van Dam) under his own name — portrayals never merge on name alone, per the portrayals doctrine; no fed-to-fed link found.",
+    "with": [
+     "rob-van-dam-xwf-uwow"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hhh-chwe",
+  "type": "character",
+  "name": "HHH",
+  "aka": [
+   "Triple H"
+  ],
+  "caption": "A CHWE billing of the real wrestler Triple H.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/roster.html; promotions/chwe/archive/king-of-the-ring.html",
+    "hometown": "Greenwich, CT",
+    "finisher": "The Predigree (Pedigree)"
+   }
+  ],
+  "portrayal_of": "triple-h-real",
+  "portrays": {
+   "figure": "triple-h-real",
+   "grade": "primary-source",
+   "note": "Billed \"HHH\" on the fed's own roster card, the same real wrestler as Triple H."
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Each is an independent fed's own billing of the same real wrestler (Triple H) under his own name — portrayals never merge on name alone, per the portrayals doctrine; no fed-to-fed link found.",
+    "with": [
+     "triple-h-nwwa-1998",
+     "triple-h-pwe-inc"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "the-undertaker-chwe",
+  "type": "character",
+  "name": "The Undertaker",
+  "caption": "A CHWE billing of the real wrestler The Undertaker, billed in the Ministry of Darkness.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/roster.html; promotions/chwe/archive/champs.html; promotions/chwe/archive/king-of-the-ring.html",
+    "height": "6'10\"",
+    "weight": "306",
+    "hometown": "Death Valley (kayfabe)",
+    "finisher": "Tombstone Piledriver"
+   }
+  ],
+  "portrayal_of": "the-undertaker-real",
+  "portrays": {
+   "figure": "the-undertaker-real",
+   "grade": "primary-source",
+   "note": "Billed under the real wrestler's own name throughout the fed's own served record."
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A bare mononym (\"Undertaker\") independently used by two further unrelated feds; no corroborating link found.",
+    "with": [
+     "undertaker-action-extreme-wrestling",
+     "undertaker-icw-pweboard"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "viscera-chwe",
+  "type": "character",
+  "name": "Viscera",
+  "caption": "A CHWE billing of the real wrestler Viscera, billed in the Ministry of Darkness.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-28"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "wrestler — World Tag Team Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/roster.html; promotions/chwe/archive/champs.html; promotions/chwe/archive/ranking.html; promotions/chwe/archive/king-of-the-ring.html",
+    "height": "6'4\"",
+    "weight": "468 lbs",
+    "finisher": "Big Splash",
+    "note": "The ranking page's own table lists a conflicting weight (248) for the same wrestler; both readings are on record, per the sources-disagree rule."
+   }
+  ],
+  "portrayal_of": "viscera-real",
+  "portrays": {
+   "figure": "viscera-real",
+   "grade": "primary-source",
+   "note": "Billed under the real wrestler's own name throughout the fed's own served record (as \"Visera\"/\"Viscera\", spelled both ways in the surviving record)."
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "An independent fed's own billing of the same real wrestler (Viscera) under his own name — portrayals never merge on name alone, per the portrayals doctrine; no fed-to-fed link found.",
+    "with": [
+     "viscera-pwe-inc"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "howard-finkel-chwe",
+  "type": "character",
+  "name": "Howard Finkel",
+  "caption": "Guest ring-announced across CHWE's own complete surviving card slate.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-31"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "role": "other — ring announcer",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/round-robin.html; promotions/chwe/archive/ladder-tournament-match-1.html; promotions/chwe/archive/ladder-tournament-match-2.html; promotions/chwe/archive/ladder-tournament-match-3.html; promotions/chwe/archive/ladder-tournament-match-4.html; promotions/chwe/archive/ladder-tournament-match-5.html; promotions/chwe/archive/king-of-the-ring.html",
+    "note": "Ring-announces every held CHWE show, billed under his own real name throughout the surviving record."
+   }
+  ],
+  "portrays": {
+   "figure": "howard-finkel-real",
+   "grade": "primary-source",
+   "note": "CHWE billed the real WWF ring announcer under his own name across its entire surviving card slate, doing his own real job."
+  },
+  "notes": "A PORTRAYAL of a real broadcaster doing his own real job, per the CSWA/FAW real-world-cameo precedent under CURATION.md v96 — not a wrestler, so no portrayal_of.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "primary-source",
+    "note": "Two independent feds' own portrayals of the same real ring announcer (Howard Finkel), each billing him under his own name — portrayals never merge on name alone, per the per-promotion portrayal doctrine; both share the one external-figures row (howard-finkel-real) via the portrays/portrayal_of edge instead.",
+    "with": [
+     "howard-finkel-faw"
+    ]
+   }
+  ],
+  "portrayal_of": "howard-finkel-real",
+  "portrayal_role": "ring-announcer"
+ },
+ {
+  "id": "anderson-chwe",
+  "type": "character",
+  "name": "Anderson",
+  "caption": "One half of CHWE's own commentary team, calling every held show alongside Poulin.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-31"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/round-robin.html; promotions/chwe/archive/ladder-tournament-match-1.html; promotions/chwe/archive/ladder-tournament-match-2.html; promotions/chwe/archive/ladder-tournament-match-3.html; promotions/chwe/archive/ladder-tournament-match-4.html; promotions/chwe/archive/ladder-tournament-match-5.html; promotions/chwe/archive/king-of-the-ring.html",
+    "note": "Broadcast byline (\"Anderson —\") across every held CHWE show, paired with Poulin."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A coincidental bare-surname match against an unrelated fed's own commentator of the same name; no corroborating link found.",
+    "with": [
+     "anderson-uwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "poulin-chwe",
+  "type": "character",
+  "name": "Poulin",
+  "caption": "One half of CHWE's own commentary team, calling every held show alongside Anderson.",
+  "caption_asof": {
+   "author": "ai",
+   "written": "2026-08-31"
+  },
+  "tenures": [
+   {
+    "promotion": "chwe",
+    "first_seen": "1999",
+    "last_seen": "1999",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "source": "promotions/chwe/archive/round-robin.html; promotions/chwe/archive/ladder-tournament-match-1.html; promotions/chwe/archive/ladder-tournament-match-2.html; promotions/chwe/archive/ladder-tournament-match-3.html; promotions/chwe/archive/ladder-tournament-match-4.html; promotions/chwe/archive/ladder-tournament-match-5.html; promotions/chwe/archive/king-of-the-ring.html",
+    "note": "Broadcast byline (\"Poulin —\") across every held CHWE show, paired with Anderson."
+   }
+  ]
+ }
+]

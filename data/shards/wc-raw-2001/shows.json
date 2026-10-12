@@ -1,0 +1,474 @@
+[
+ {
+  "id": "wc-raw-2001-monday-night-havoc-2002-01-14",
+  "type": "show",
+  "name": "Monday Night Havoc",
+  "promotion": "wc-raw-2001",
+  "date": {
+   "date": "2002-01-14",
+   "precision": "exact",
+   "source": "The results' own date line, \"Monday, January 14, 2002\" (the subject line misprints the year)."
+  },
+  "page": "/promotions/wc-raw-2001/archive/monday-night-havoc-monday-january-14-2002-2002-01-14.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "brett-white-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "jeremy-walters-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "stone-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "superdeadly-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "the-bard-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "shawn-borders-xhcw-1998",
+    "kind": "match"
+   },
+   {
+    "who": "war-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "khan-wc-raw-2001",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "brett-white-wc-raw-2001"
+     ],
+     [
+      "jeremy-walters-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 1,
+    "how": "submission"
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "stone-wc-raw-2001"
+     ],
+     [
+      "superdeadly-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "pinfall"
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "the-bard-wc-raw-2001"
+     ],
+     [
+      "shawn-borders-xhcw-1998"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "pinfall",
+    "stipulation": "WC-RAW US Championship"
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "war-wc-raw-2001"
+     ],
+     [
+      "khan-wc-raw-2001"
+     ]
+    ],
+    "result": "no-contest",
+    "stipulation": "WC-RAW World Championship",
+    "note": "Ruled a double knockout."
+   }
+  ]
+ },
+ {
+  "id": "wc-raw-2001-king-of-death-2002-02-24",
+  "type": "show",
+  "name": "King of Death",
+  "promotion": "wc-raw-2001",
+  "date": {
+   "date": "2002-02-24",
+   "precision": "exact",
+   "source": "The results' own date line, \"Sunday, February 24, 2002\"."
+  },
+  "page": "/promotions/wc-raw-2001/archive/king-of-death-february-ppv-sunday-february-24-2002-2002-02-25.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "rage-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "the-bard-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "bel-biggz-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "superdeadly-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "shawn-borders-xhcw-1998",
+    "kind": "match"
+   },
+   {
+    "who": "stone-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "kryptonic-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "cuda-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "jeremy-walters-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "james-loyal-xhcw-1998",
+    "kind": "match"
+   },
+   {
+    "who": "jamal-byers-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "war-wc-raw-2001",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "rage-wc-raw-2001"
+     ],
+     [
+      "the-bard-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "submission",
+    "stipulation": "King of Death tournament"
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "bel-biggz-wc-raw-2001"
+     ],
+     [
+      "superdeadly-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "pinfall",
+    "stipulation": "King of Death tournament"
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "shawn-borders-xhcw-1998"
+     ],
+     [
+      "stone-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "King of Death tournament"
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "kryptonic-wc-raw-2001"
+     ],
+     [
+      "cuda-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "pinfall (Kryptonic Krush)",
+    "stipulation": "King of Death tournament",
+    "note": "CUDA replaced Khan, who did not appear."
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "rage-wc-raw-2001"
+     ],
+     [
+      "bel-biggz-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 1,
+    "how": "pinfall",
+    "stipulation": "King of Death tournament"
+   },
+   {
+    "order": 6,
+    "sides": [
+     [
+      "shawn-borders-xhcw-1998"
+     ],
+     [
+      "kryptonic-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 1,
+    "how": "pinfall",
+    "stipulation": "King of Death tournament"
+   },
+   {
+    "order": 7,
+    "sides": [
+     [
+      "jeremy-walters-wc-raw-2001"
+     ],
+     [
+      "james-loyal-xhcw-1998"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "US Championship"
+   },
+   {
+    "order": 8,
+    "sides": [
+     [
+      "bel-biggz-wc-raw-2001"
+     ],
+     [
+      "kryptonic-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "King of Death tournament final"
+   },
+   {
+    "order": 9,
+    "sides": [
+     [
+      "jamal-byers-wc-raw-2001"
+     ],
+     [
+      "war-wc-raw-2001"
+     ]
+    ],
+    "note": "The champion was carried off in a limousine and no winner was given."
+   }
+  ]
+ },
+ {
+  "id": "wc-raw-2001-monday-night-havoc-2002-04-08",
+  "type": "show",
+  "name": "Monday Night Havoc",
+  "promotion": "wc-raw-2001",
+  "date": {
+   "date": "2002-04-08",
+   "precision": "exact",
+   "source": "The results' own date line, \"Monday, April 8, 2002\"."
+  },
+  "page": "/promotions/wc-raw-2001/archive/monday-night-havoc-monday-april-8-2002-2002-04-09.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "kid-rock-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "joe-brown-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "brett-white-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "jd-cain-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "matthew-dee-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "donnie-dollahs-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "shawn-borders-xhcw-1998",
+    "kind": "match"
+   },
+   {
+    "who": "brian-charisma-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "jonathan-chance-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "reese-hurst-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "jorge-cardera-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "sabbath-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "kryptonic-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "james-loyal-xhcw-1998",
+    "kind": "match"
+   },
+   {
+    "who": "marcus-wilson-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "bel-biggz-wc-raw-2001",
+    "kind": "match"
+   },
+   {
+    "who": "jeremy-walters-wc-raw-2001",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "kid-rock-wc-raw-2001"
+     ],
+     [
+      "joe-brown-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "pinfall"
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "brett-white-wc-raw-2001"
+     ],
+     [
+      "jd-cain-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "pinfall"
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "matthew-dee-wc-raw-2001",
+      "donnie-dollahs-wc-raw-2001"
+     ],
+     [
+      "shawn-borders-xhcw-1998",
+      "brian-charisma-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "pinfall"
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "jonathan-chance-wc-raw-2001"
+     ],
+     [
+      "reese-hurst-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 1,
+    "how": "pinfall",
+    "stipulation": "Number one contender, Clinton J. Boomer Memorial Title"
+   },
+   {
+    "order": 5,
+    "sides": [
+     [
+      "jorge-cardera-wc-raw-2001"
+     ],
+     [
+      "sabbath-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "pinfall",
+    "stipulation": "Clinton J. Boomer Memorial Title"
+   },
+   {
+    "order": 6,
+    "sides": [
+     [
+      "kryptonic-wc-raw-2001"
+     ],
+     [
+      "james-loyal-xhcw-1998"
+     ]
+    ],
+    "result": "draw",
+    "stipulation": "Tri-State Championship"
+   },
+   {
+    "order": 7,
+    "sides": [
+     [
+      "marcus-wilson-wc-raw-2001",
+      "bel-biggz-wc-raw-2001"
+     ],
+     [
+      "jeremy-walters-wc-raw-2001"
+     ]
+    ],
+    "winner_side": 0,
+    "how": "pinfall",
+    "note": "Walters's partner was the promotion's president."
+   }
+  ]
+ }
+]

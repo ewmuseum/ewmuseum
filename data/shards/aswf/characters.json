@@ -1,0 +1,150 @@
+[
+ {
+  "id": "chonan-aswf",
+  "name": "Chonan",
+  "tenures": [
+   {
+    "promotion": "aswf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "note": "Revealed as the VICELORDS' own secret leader after losing the ASWF World Championship to Stinger; later helped X-Factor in a Man in the Box match against Stinger."
+   }
+  ],
+  "caption": "A wrestler billed by ASWF in the surviving 1997 Usenet record (1997).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "x-factor-aswf",
+  "name": "X-Factor",
+  "tenures": [
+   {
+    "promotion": "aswf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "note": "Turned on tag partner Marc Mission to seemingly join the VICELORDS, revealed as a ruse; faced VICELORDS leader Stinger in a Man in the Box match."
+   }
+  ],
+  "caption": "A wrestler billed by ASWF in the surviving 1997 Usenet record (1997).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; no identity join is asserted (bare-name match is insufficient)",
+    "with": [
+     "x-factor-faw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "stinger-aswf",
+  "name": "Stinger",
+  "aka": [
+   "VICELORDS leader Stinger"
+  ],
+  "tenures": [
+   {
+    "promotion": "aswf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "note": "Took the ASWF World Championship from Chonan amid the VICELORDS storyline."
+   }
+  ],
+  "caption": "A wrestler billed by ASWF in the surviving 1997 Usenet record (1997).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dave-hot-stuff-howard-rspwf",
+  "type": "character",
+  "name": "Dave \"Hot Stuff\" Howard",
+  "aka": [
+   "David \"Hot Stuff\" Howard"
+  ],
+  "notes": "Known from one post to rec.sport.pro-wrestling.fantasy (28 July 1999), served at /promotions/rspwf/archive/dave-hot-stuff-howard-please-critique-1999-07-28.html: a swaggering, shirtless newcomer to the ASWF and the UXWA who says he needs no manager",
+  "caption": "A shirtless mid-card newcomer who says he will win the ASWF Cruiserweight title in two weeks, July 1999.",
+  "tenures": [
+   {
+    "promotion": "aswf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-07-28",
+    "last_seen": "1999-07-28",
+    "source": "/promotions/rspwf/archive/dave-hot-stuff-howard-please-critique-1999-07-28.html"
+   },
+   {
+    "promotion": "uxwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-06-08",
+    "last_seen": "1999-06-08",
+    "source": "/promotions/uxwa-1999/archive/uxwa-saturday-night-sacrifice-hour1-1999-06-08.html",
+    "note": "VERIFY-9905: the UXWA's own Saturday Night Sacrifice of 8 June 1999 airs a promo for newly signed David 'Hot Stuff' Howard whose text is the first two-thirds of the 28 July ASWF roleplay word for word (the fed's name swapped); the roleplay's sign-off lists him in the UXWA too."
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dangerous-dave-howard-fwa-pbm-1989",
+     "dangerous-dave-howard-stw-iwf-1997"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ }
+]

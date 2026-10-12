@@ -1,0 +1,51 @@
+[
+ {
+  "id": "fatal-charms-aowf",
+  "type": "unit",
+  "name": "Fatal Charms",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Blade",
+    "character_id": "blade-aowf"
+   },
+   {
+    "name": "The Charm",
+    "character_id": "the-charm-aowf"
+   }
+  ],
+  "caption": "A cross-federation stable spanning the WWFL and ICWL, its two attested members each entering AOWF's own Day 2 Television Championship unification match as their home fed's own reigning champion.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "Billed explicitly on Day 2: Blade \"is a member of the Fatal Charms\"; The Charm is \"another member of the Fatal Charms.\" Nightshade is helped to his feet at the Day 4 finale by Blade (among others), but no served text calls him a Fatal Charms member outright — not asserted here.",
+  "tenures": [
+   {
+    "promotion": "aowf",
+    "first_seen": "1999-11",
+    "last_seen": "1999-11",
+    "note": "Spans the WWFL and ICWL; both attested members entered the Day 2 AOWF Television Championship unification match as their own home fed's reigning champion.",
+    "source": "promotions/aowf/archive/day-2-television-title.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-charm-ngw"
+    ],
+    "note": "Name/decorated-aka collision flagged by the mint guard against 1 unrelated entity. No document on any side names another fed or claims a shared performer. Filed distinct pending evidence, per the collision doctrine."
+   }
+  ]
+ }
+]

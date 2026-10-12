@@ -1,0 +1,112 @@
+[
+ {
+  "id": "nwl-2004-world-heavyweight-r001",
+  "title": "nwl-2004-world-heavyweight",
+  "label": "Maelstrom",
+  "holder": [
+   {
+    "id": "maelstrom-glcw-2002"
+   }
+  ],
+  "won": {
+   "date": "2004-06-20",
+   "precision": "exact",
+   "source": "The fed's own World Heavyweight Championship history page names Combat Episode 8 at the Nassau Coliseum as the match; the date is that of the website news item that the Episode 8 results are up. A roster thread of 25 April 2004 already calls him the first champion, before the final was written; the fed's own history page governs."
+  },
+  "days": null,
+  "how": "Won the title in a match against The Dragon, per a served promo's own recap.",
+  "end_how": "still-champion-at-record-end",
+  "note": "No further World Heavyweight Championship reign is recorded in the held record; the fed's own last dated document (9 August 2004) records the promotion's closure with no title change reported.",
+  "event": "nwl-2004-combat-08"
+ },
+ {
+  "id": "nwl-2004-international-r001",
+  "title": "nwl-2004-international",
+  "label": "Pulsar",
+  "holder": [
+   {
+    "id": "pulsar-nwl"
+   }
+  ],
+  "won": {
+   "date": "2004-03",
+   "precision": "month",
+   "source": "The fed's own International Championship history page names the Gridiron Gauntlet of Combat Episode 4 as the match; the card's line-up post is dated 19 March 2004 and the results page is undated."
+  },
+  "days": null,
+  "how": "Won the first Gridiron Gauntlet, ending in a steel cage against the Distributor of Pain, at Combat Episode 4, per the fed's own title history.",
+  "end_how": "lost-in-match",
+  "note": "Pulsar defended the title on Combat Episode 5 (a count-out win over Krusher) and lost it to The American on Combat Episode 7.",
+  "lost": {
+   "date": "2004-05-28",
+   "precision": "exact",
+   "source": "The fed's own International Championship history page names Combat Episode 7 at the Javits Center; the date is that of the owner's notice that the Episode 7 results are up."
+  },
+  "event": "nwl-2004-combat-04"
+ },
+ {
+  "id": "nwl-2004-television-r001",
+  "title": "nwl-2004-television",
+  "label": "Jarod Poe",
+  "holder": [
+   {
+    "id": "jarod-poe-glcw-2002"
+   }
+  ],
+  "won": {
+   "date": "2004-03",
+   "precision": "month",
+   "source": "The fed's own Television Championship history page names the Rumble in the Jungle of Combat Episode 3 as the match; the card's line-up post is dated 3 March 2004 and the results page is undated."
+  },
+  "days": null,
+  "how": "Won the first Rumble in the Jungle at Combat Episode 3 by eliminating Shamrock Finnegan, the last other man in the ring after The American left it, per the fed's own title history.",
+  "end_how": "lost-in-match",
+  "note": "Poe also defended the title on Combat Episodes 4 to 7 (the Episode 7 three-way is billed with no result held); the Underground line-up of May 2004 billed a title match against the Distributor of Pain, with no result held.",
+  "lost": {
+   "date": "2004-06-20",
+   "precision": "exact",
+   "source": "The fed's own Television Championship history page names Combat Episode 8; the date is that of the website news item that the Episode 8 results are up."
+  },
+  "event": "nwl-2004-combat-03"
+ },
+ {
+  "id": "nwl-2004-television-r002",
+  "title": "nwl-2004-television",
+  "label": "Distributor of Pain",
+  "holder": [
+   {
+    "id": "dop-nwl"
+   }
+  ],
+  "won": {
+   "date": "2004-06-20",
+   "precision": "exact",
+   "source": "The fed's own Television Championship history page names the match as Combat Episode 8 at the Nassau Coliseum; the date is that of the website news item that the results of Episode 8 are up."
+  },
+  "days": null,
+  "event": "nwl-2004-combat-08",
+  "how": "Defeated Jarod Poe for the title at Combat Episode 8, per the fed's own title history.",
+  "end_how": "still-champion-at-record-end",
+  "note": "The held Underground line-up of May 2004 billed a title match between the two men; no later change is recorded and the fed closed on 1 August 2004."
+ },
+ {
+  "id": "nwl-2004-international-r002",
+  "title": "nwl-2004-international",
+  "label": "The American",
+  "holder": [
+   {
+    "id": "the-american-nwl"
+   }
+  ],
+  "won": {
+   "date": "2004-05-28",
+   "precision": "exact",
+   "source": "The fed's own International Championship history page names the match as Combat Episode 7 at the Javits Center; the date is that of the owner's notice that the results of Episode 7 are up."
+  },
+  "days": null,
+  "event": "nwl-2004-combat-07",
+  "how": "Defeated Pulsar for the title at Combat Episode 7 after Lars Magellan and Shamrock Finnegan distracted Pulsar, per the fed's own title history.",
+  "end_how": "still-champion-at-record-end",
+  "note": "The line-up of Combat Episode 9 lists him as champion defending against Pulsar; no result is held."
+ }
+]

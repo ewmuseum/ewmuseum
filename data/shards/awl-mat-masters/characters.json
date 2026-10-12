@@ -1,0 +1,70 @@
+[
+ {
+  "id": "stan-the-equalizer-stone-awl-mat-masters",
+  "type": "character",
+  "name": "Stan \"The Equalizer\" Stone",
+  "caption": "One half of the animated serial&#x27;s own Universal Championship Tournament semifinal, continued across the production&#x27;s November 1997 relaunch as a fully animated story.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awl-mat-masters",
+    "first_seen": "1997-11",
+    "last_seen": "1997-11",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/awl-mat-masters/archive/awl-mat-masters-now-animated-1997-11-15.html"
+   }
+  ]
+ },
+ {
+  "id": "the-count-awl-mat-masters",
+  "type": "character",
+  "name": "The Count",
+  "caption": "Stan &quot;The Equalizer&quot; Stone&#x27;s opponent in the Universal Championship Tournament semifinal continued on the production&#x27;s November 1997 relaunch.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "awl-mat-masters",
+    "first_seen": "1997-11",
+    "last_seen": "1997-11",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/awl-mat-masters/archive/awl-mat-masters-now-animated-1997-11-15.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "the-count-chz"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "irccw-irccwmania-ii-1997-05-20",
+    "type": "show",
+    "name": "IRCCWMania II",
+    "promotion": "irccw",
+    "date": {
+      "date": "1997-05-20",
+      "precision": "exact",
+      "source": "The post's own dateline; a five-part transcript of the fed's own second annual pay-per-view."
+    },
+    "page": "/promotions/irccw/archive/irccw-irccwmania-ii-1997-05-20.html",
+    "collection": "0148",
+    "venue": "CoreStates Center",
+    "city": "Philadelphia, Pennsylvania",
+    "notes": "Real-wrestler-portrayal roster: Stone Cold Steve Austin retains the World Heavyweight Championship over Hollywood Hulk Hogan; Chris Benoit wins the North American Heavyweight Championship from Scott Hall in a steel-cage War Match; Hakushi retains the Cruiserweight Championship in a three-ladder match; Harlem Heat retains the World Tag Team Championship over The Gangstas; Kronus & Saturn (the Eliminators) win the inaugural Continental Tag-Team Championship over Deadly Force (Big Bubba Rogers & Bam Bam Bigelow) in a Philadelphia street fight. No appearances[]/matches[] structuring in this delta: the per-promotion portrayal rule requires each portrayed wrestler to carry a portrayal_of edge into external-figures.json, a shared spine file outside this delta's own shard scope -- the coordinator's fold pass should mint the roster and structure this show's own match ledger."
+  },
+  {
+    "id": "irccw-monday-night-cooked-1997-05-26",
+    "type": "show",
+    "name": "IRCCW Monday Night Cooked, 26 May 1997",
+    "promotion": "irccw",
+    "date": {
+      "date": "1997-05-26",
+      "precision": "exact",
+      "source": "The post's own text (\"Monday Night Cooked -- 5/26/97\"), posted to the newsgroup 27 May 1997."
+    },
+    "page": "/promotions/irccw/archive/irccw-monday-night-cooked-1997-05-27.html",
+    "collection": "0148",
+    "notes": "A weekly broadcast, self-dated by the color commentator's own on-air retrospective to a February 1996 founding; closes on a hardcore tag brawl between the Gangstas and the Eliminators won by the Eliminators. No appearances[]/matches[] structuring in this delta, for the same reason as IRCCWMania II above; deferred."
+  }
+]

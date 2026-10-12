@@ -1,0 +1,712 @@
+[
+ {
+  "id": "army-of-darkness",
+  "type": "unit",
+  "name": "Army of Darkness",
+  "members": [
+   {
+    "name": "DDT",
+    "character_id": "ddt"
+   },
+   {
+    "name": "Raven X",
+    "character_id": "raven-x"
+   },
+   {
+    "name": "Rigor Mortis",
+    "character_id": "rigor-mortis"
+   },
+   {
+    "name": "The Fallen Fae",
+    "character_id": "the-fallen-fae"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2001",
+    "last_seen": "2003",
+    "role": "stable — World Tag Team Champions",
+    "manager": "Kat Nimh"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "DDT, Raven X, Rigor Mortis and The Fallen Fae's own stable, managed by Kat Nimh, World Tag Team Champions for the better part of three months in late 2001 and XUW's own 2002 Stable of the Year before its own narrated demise at the hands of the Skeletons of Society.",
+  "notes": "The 2003 awards ballot names \"the demise of the Army of Darkness at the hands of the Skeletons of Society\" as a nominated Storyline of the Year.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 46,
+    "rps": 0,
+    "awards": 3,
+    "relationships": 1
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "beat-down-authority",
+  "type": "unit",
+  "name": "Beat Down Authority",
+  "aka": [
+   "BDA"
+  ],
+  "members": [
+   {
+    "name": "Sakie",
+    "character_id": "sakie"
+   },
+   {
+    "name": "Supa Thug Esco",
+    "character_id": "supa-thug-esco"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "role": "tag team — World Tag Team Champions"
+   }
+  ],
+  "notes": "Members per promotions/xuw/archive/vortex29.html's own billing (\"The Beat Down Authority (Sakie and Esco)\").",
+  "unit_kind": "tag-team",
+  "caption": "Sakie and Supa Thug Esco's own tag pairing, briefly World Tag Team Champions in late 2002.",
+  "caption_asof": {
+   "author": "ai"
+  }
+ },
+ {
+  "id": "boomer-sooners",
+  "type": "unit",
+  "name": "Boomer Sooners",
+  "members": [
+   {
+    "name": "Fatbadger",
+    "character_id": "fatbadger"
+   },
+   {
+    "name": "Dave Kipfer",
+    "character_id": "dave-kipfer"
+   },
+   {
+    "name": "Rujasu",
+    "character_id": "rujasu"
+   },
+   {
+    "name": "Sheri",
+    "character_id": "sheri"
+   },
+   {
+    "name": "Saij",
+    "character_id": "saij"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2001",
+    "last_seen": "2003",
+    "role": "stable — World Tag Team Champions",
+    "manager": "Jim Ross and The Cockjockey"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "Fatbadger, Dave Kipfer, Rujasu, Sheri and Saij's own stable, managed by Jim Ross and The Cockjockey, three-time World Tag Team Champions and XUW's own 2002 Best Tag Team.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 36,
+    "rps": 0,
+    "awards": 2,
+    "relationships": 2
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dark-alliance",
+  "type": "unit",
+  "name": "Dark Alliance",
+  "members": [
+   {
+    "name": "The Shadow",
+    "character_id": "the-shadow-xuw"
+   },
+   {
+    "name": "Darkseid",
+    "character_id": "darkseid"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "tag team"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "The Shadow and Darkseid's own pairing, World Tag Team Champions from October 2003 to January 2004 and nominated the 2003 ballot's own Tag Team of the Year — possibly the same partnership later renamed the Ultra Violents, though no source confirms it.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 12,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "doggy-style",
+  "type": "unit",
+  "name": "Doggy Style",
+  "members": [
+   {
+    "name": "Blake Wolfson",
+    "character_id": "blake-wolfson-xuw"
+   },
+   {
+    "name": "Woof Woof",
+    "character_id": "woof-woof"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "role": "tag team — World Tag Team Champions"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Blake Wolfson and Woof Woof's own pairing, XUW World Tag Team Champions for seven weeks in early 2002.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 20,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "exodus",
+  "type": "unit",
+  "name": "Exodus",
+  "members": [
+   {
+    "name": "Blitzwing",
+    "character_id": "blitzwing"
+   },
+   {
+    "name": "Sue Wolfe",
+    "character_id": "sue-wolfe"
+   },
+   {
+    "name": "Hodgo",
+    "character_id": "hodgo"
+   },
+   {
+    "name": "Dante",
+    "character_id": "dante-xuw"
+   },
+   {
+    "name": "Mikey",
+    "character_id": "mikey"
+   },
+   {
+    "name": "Derick Jackson",
+    "character_id": "dj-derick-jackson"
+   },
+   {
+    "name": "Heartbreak Kid",
+    "character_id": "heartbreak-kid-xuw"
+   },
+   {
+    "name": "Lopen",
+    "character_id": "lopen"
+   },
+   {
+    "name": "Severson",
+    "character_id": "severson"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "?",
+    "last_seen": "?",
+    "role": "stable"
+   }
+  ],
+  "notes": "A large, rotating stable per show-text (e.g. reborn-2002.html, road-rage-2-2002.html) — different passages name different subsets of this list at different points (\"the three members of Exodus,\" a longer roll-call elsewhere); membership here is provisional, not a single clean roster.",
+  "unit_kind": "stable",
+  "caption": "A large, rotating heel stable spanning much of the early XUW roster.",
+  "caption_asof": {
+   "author": "ai"
+  }
+ },
+ {
+  "id": "gwo",
+  "type": "unit",
+  "name": "GWO",
+  "members": [
+   {
+    "name": "Admiral John",
+    "character_id": "the-grand-wizard"
+   },
+   {
+    "name": "Kore",
+    "character_id": "kore"
+   },
+   {
+    "name": "Woof Woof",
+    "character_id": "woof-woof"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "?",
+    "last_seen": "?",
+    "role": "stable, fronted by The Grand Wizard"
+   }
+  ],
+  "notes": "Membership per repeated show-text groupings (e.g. mayhem47.html: \"AJ and company, with Kore and Woof right behind\" running as a unit under The Grand Wizard) — not cleanly separable from a single roster page, membership here is provisional.",
+  "unit_kind": "stable",
+  "caption": "A heel stable fronted by The Grand Wizard, built around Admiral John, Kore, and Woof Woof.",
+  "caption_asof": {
+   "author": "ai"
+  }
+ },
+ {
+  "id": "hardcore-icons",
+  "type": "unit",
+  "name": "Hardcore Icons",
+  "members": [
+   {
+    "name": "DDT",
+    "character_id": "ddt"
+   },
+   {
+    "name": "Raven X",
+    "character_id": "raven-x"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2001",
+    "last_seen": "2003",
+    "role": "tag team"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "DDT and Raven X's own pairing, World Tag Team Champions from February 2003 and a recurring tag act named twice over in the 2003 awards ballot's own Match and Tag Team of the Year fields.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 30,
+    "rps": 0,
+    "awards": 2,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lunchroom-patrol",
+  "type": "unit",
+  "name": "Lunchroom Patrol",
+  "members": [
+   {
+    "name": "Doughboy",
+    "character_id": "doughboy"
+   },
+   {
+    "name": "Latch Key Kid",
+    "character_id": "latch-key-kid"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "role": "tag team"
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2004-04",
+    "last_seen": "2004-04",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team — first-round entrant in the PTC Tag Team Title Tournament, days after a Reborn title defense",
+    "grade": "primary-source",
+    "source": "PTC forum, PTC's Infinite Gauntlet, \"TTD A3 -v- A4\" (post 45448, topic 4110), 5 Apr 2004"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Doughboy and Latch Key Kid's own pairing, two-time World Tag Team Champions from mid-2003 into 2004, named across four fields in the 2003 awards ballot including Tag Team of the Year and Best Gimmick.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 36,
+    "rps": 0,
+    "awards": 4,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-deadly-combination",
+  "type": "unit",
+  "name": "The Deadly Combination",
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "role": "tag team — two-time World Tag Team Champions"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Two-time World Tag Team Champions in 2002 as MV Pete and Numark, and XUW's own 2002 Best Tag Team, later nominated Moment of the Year in the 2003 ballot for a reunion to face the Ultra Violents.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 23,
+    "rps": 0,
+    "awards": 3,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "MV Pete",
+    "character_id": "mv-pete"
+   },
+   {
+    "name": "Numark",
+    "character_id": "numark"
+   }
+  ]
+ },
+ {
+  "id": "the-flashtastics",
+  "type": "unit",
+  "name": "The Flashtastics",
+  "aka": [
+   "Titans Inc."
+  ],
+  "members": [
+   {
+    "name": "Flash",
+    "character_id": "flash-xuw"
+   },
+   {
+    "name": "Flex",
+    "character_id": "flex"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "?",
+    "last_seen": "?",
+    "role": "tag team"
+   }
+  ],
+  "notes": "Recovered from show-text alone (e.g. mayhem11.html, mayhem15.html, mayhem25.html, x-terminated-2002.html); billed both as \"The Flashtastics\" and, in one vignette, \"Titans Inc.\" alongside ally Samurai Bob.",
+  "unit_kind": "tag-team",
+  "caption": "An early XUW tag team pairing Flash and Flex, allied at points with Samurai Bob.",
+  "caption_asof": {
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-one-and-only-ginyu-force",
+  "type": "unit",
+  "name": "The One and Only Ginyu Force",
+  "members": [
+   {
+    "name": "Dave Kipfer",
+    "character_id": "dave-kipfer"
+   },
+   {
+    "name": "Saij",
+    "character_id": "saij"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "role": "tag team"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Dave Kipfer and Saij's own pairing, a Dragon Ball Z-referencing name for a team the fed's own active-roster snapshot lists as active.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-riot-squad",
+  "type": "unit",
+  "name": "The Riot Squad",
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — World Tag Team Champions"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Held the World Tag Team Championship for ten days in December 2001 as Sidhe Nimh and Hodgo, on the record billed afterward as \"an Angry Couple.\"",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Sidhe Nimh",
+    "character_id": "sidhe-nimh"
+   },
+   {
+    "name": "Hodgo",
+    "character_id": "hodgo"
+   }
+  ]
+ },
+ {
+  "id": "the-royal-legion",
+  "type": "unit",
+  "name": "The Royal Legion",
+  "aka": [
+   "The New Royal Legion"
+  ],
+  "members": [
+   {
+    "name": "Bailey",
+    "character_id": "bailey"
+   },
+   {
+    "name": "Danyon",
+    "character_id": "danyon"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "role": "tag team — World Tag Team Champions"
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2004-08-22",
+    "last_seen": "2004-08-22",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "PTC Survival's own backstage database (accession 0159), bio 19849",
+    "note": "Dated from PTC's own announcement of the Survival event (22 August 2004); the fed's own booking record posts the results on 9 November 2004.",
+    "role": "wrestler — billed from XUW"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Bailey and Danyon's own tag pairing, three-time World Tag Team Champions between 2002 and 2003 — the latter two reigns billed as the New Royal Legion — and twice nominated in the 2003 awards ballot.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 3,
+    "appearances": 49,
+    "rps": 0,
+    "awards": 2,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PTC's own entrant card (Survival, accession 0159, bio 19849) is this record: the served Survival team list and card (PTC news of 8 August 2004): Tag Team Title match 'The New Royal Legion (XUW)'; card Other Feds XUW; the unit (aka 'The New Royal Legion') holds xuw 2002-2003 with members Bailey and Danyon; the served show text (survival-2004.html) names the team 'Comprised of ... Bailey, and ... Danyon' from Xtreme Ultimo Wrestling."
+   }
+  ]
+ },
+ {
+  "id": "the-skeletons-of-society",
+  "type": "unit",
+  "name": "The Skeletons of Society",
+  "members": [
+   {
+    "name": "Joey Vendetti",
+    "character_id": "joey-vendetti"
+   },
+   {
+    "name": "Bubba Bailey",
+    "character_id": "bubba-bailey"
+   },
+   {
+    "name": "Overkill",
+    "character_id": "overkill"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2002",
+    "last_seen": "2003",
+    "role": "stable",
+    "manager": "Gwen"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "Joey Vendetti, Bubba Bailey and Overkill's own stable, managed by Gwen and credited in the 2003 awards ballot with ending the Army of Darkness's own run.",
+  "caption_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-technicians",
+  "type": "unit",
+  "name": "The Technicians",
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2001",
+    "last_seen": "2001",
+    "role": "tag team — World Tag Team Champions"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "World Tag Team Champions twice over in late 2001 as Bionic Carrot and KsC TrunkZ, two-thirds of the Four Horsemen alongside Kata Hajime.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 19,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Bionic Carrot",
+    "character_id": "bionic-carrot"
+   },
+   {
+    "name": "KsC TrunkZ",
+    "character_id": "ksc-trunkz"
+   }
+  ]
+ },
+ {
+  "id": "ultra-violents",
+  "type": "unit",
+  "name": "Ultra Violents",
+  "members": [
+   {
+    "name": "Blake Wolfson",
+    "character_id": "blake-wolfson-xuw"
+   },
+   {
+    "name": "Hodgo",
+    "character_id": "hodgo"
+   },
+   {
+    "name": "The Shadow",
+    "character_id": "the-shadow-xuw"
+   },
+   {
+    "name": "Dave Kipfer",
+    "character_id": "dave-kipfer"
+   },
+   {
+    "name": "Darkseid",
+    "character_id": "darkseid"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "xuw",
+    "first_seen": "2001",
+    "last_seen": "2003",
+    "role": "stable"
+   }
+  ],
+  "unit_kind": "stable",
+  "caption": "A shifting lineup across XUW's run — Blake Wolfson and Hodgo in its earliest recorded pairing, The Shadow and Darkseid by the 2003 awards ballot's own account — and the fed's own dominant heel stable across the 2003 nominee ballot, including a run as XUW Commissioners.",
+  "notes": "Membership is attested to have shifted across XUW's run: the tag win/loss table records Wolfson&Hodgo, Kipfer&Shadow, and Wolfson&Shadow pairings under this name; the 2003 awards ballot separately records \"Shadow returns to partner Darkseid and re-form the Ultra Violents.\" All named members are listed together rather than asserting one fixed lineup.",
+  "caption_asof": {
+   "written": "2026-08-22",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 36,
+    "rps": 0,
+    "awards": 6,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

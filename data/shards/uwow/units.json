@@ -1,0 +1,797 @@
+[
+ {
+  "id": "demolition-uwow",
+  "type": "unit",
+  "name": "Demolition",
+  "unit_kind": "trio",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Ax",
+    "character_id": "ax-uwow"
+   },
+   {
+    "name": "Smash",
+    "character_id": "smash-uwow"
+   },
+   {
+    "name": "Crush",
+    "character_id": "crush-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ax-xwf-uwow",
+     "crush-xwf-uwow",
+     "smash-xwf-uwow",
+     "demolition-uwf-uwow",
+     "demolition-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c). Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "powers-of-pain-uwow",
+  "type": "unit",
+  "name": "Powers of Pain",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Warlord",
+    "character_id": "warlord-uwow"
+   },
+   {
+    "name": "Barbarian",
+    "character_id": "barbarian-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "powers-of-pain-icwc",
+     "powers-of-pain-ngw"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c). Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "doom-uwow",
+  "type": "unit",
+  "name": "Doom",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Ron Simmons",
+    "character_id": "ron-simmons-uwow"
+   },
+   {
+    "name": "Butch Reed",
+    "character_id": "butch-reed-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "doom-agw",
+     "doom-icwc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c). Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "nasty-boys-uwow",
+  "type": "unit",
+  "name": "Nasty Boys",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Brian Knobbs",
+    "character_id": "brian-knobbs-uwow"
+   },
+   {
+    "name": "Jerry Sags",
+    "character_id": "jerry-sags-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "nasty-boys-icwc"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c). Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "quebecers-uwow",
+  "type": "unit",
+  "name": "The Quebecers",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Jacques",
+    "character_id": "jacques-uwow"
+   },
+   {
+    "name": "Pierre",
+    "character_id": "pierre-uwow"
+   }
+  ]
+ },
+ {
+  "id": "samoan-swat-team-uwow",
+  "type": "unit",
+  "name": "Samoan Swat Team",
+  "unit_kind": "stable",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Afa",
+    "character_id": "afa-uwow"
+   },
+   {
+    "name": "Sika",
+    "character_id": "sika-uwow"
+   },
+   {
+    "name": "Samu",
+    "character_id": "samu-uwow"
+   },
+   {
+    "name": "Fatu",
+    "character_id": "fatu-uwow"
+   }
+  ]
+ },
+ {
+  "id": "steiner-brothers-uwow",
+  "type": "unit",
+  "name": "The Steiner Brothers",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Rick Steiner",
+    "character_id": "rick-steiner-uwow"
+   },
+   {
+    "name": "Scott Steiner",
+    "character_id": "scott-steiner-uwow"
+   }
+  ]
+ },
+ {
+  "id": "team-3d-uwow",
+  "type": "unit",
+  "name": "Team 3D",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Brother Ray",
+    "character_id": "brother-ray-uwow"
+   },
+   {
+    "name": "Brother Devon",
+    "character_id": "brother-devon-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brother-devon-xwf-uwow",
+     "brother-ray-xwf-uwow",
+     "runt-xwf-uwow",
+     "team-3d-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c). Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "the-radicals-uwow",
+  "type": "unit",
+  "name": "The Radicals",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Dean Malenko",
+    "character_id": "dean-malenko-uwow"
+   },
+   {
+    "name": "Eddy Guerrero",
+    "character_id": "eddy-guerrero-uwow"
+   }
+  ]
+ },
+ {
+  "id": "the-kongs-uwow",
+  "type": "unit",
+  "name": "The Kongs",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Awesome Kong",
+    "character_id": "awesome-kong-uwow"
+   },
+   {
+    "name": "Aja Kong",
+    "character_id": "aja-kong-uwow"
+   }
+  ]
+ },
+ {
+  "id": "devils-from-japan-uwow",
+  "type": "unit",
+  "name": "The Devils from Japan",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Bull Nakano",
+    "character_id": "bull-nakano-uwow"
+   },
+   {
+    "name": "Dump Matsumoto",
+    "character_id": "dump-matsumoto-uwow"
+   }
+  ]
+ },
+ {
+  "id": "the-outsiders-uwow",
+  "type": "unit",
+  "name": "The Outsiders",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Scott Hall",
+    "character_id": "scott-hall-uwow"
+   },
+   {
+    "name": "Kevin Nash",
+    "character_id": "kevin-nash-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kevin-nash-xwf-uwow",
+     "scott-hall-xwf-uwow",
+     "euwc-the-outsiders",
+     "outsiders-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c). Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "harlem-heat-uwow",
+  "type": "unit",
+  "name": "Harlem Heat",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Booker T",
+    "character_id": "booker-t-uwow"
+   },
+   {
+    "name": "Stevie Ray",
+    "character_id": "stevie-ray-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "stevie-ray-xwf-uwow",
+     "harlem-heat-xwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c). Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "legion-of-doom-uwow",
+  "type": "unit",
+  "name": "The Road Warriors",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Road Warrior Animal",
+    "character_id": "road-warrior-animal-uwow"
+   },
+   {
+    "name": "Road Warrior Hawk",
+    "character_id": "road-warrior-hawk-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "road-warriors-uwf-uwow"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c). Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "j-tex-corporation-uwow",
+  "type": "unit",
+  "name": "J-Tex Corporation",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Masa Chono",
+    "character_id": "masa-chono-uwow"
+   },
+   {
+    "name": "The Great Muta",
+    "character_id": "the-great-muta-uwow"
+   }
+  ]
+ },
+ {
+  "id": "the-firm-uwow",
+  "type": "unit",
+  "name": "The Firm",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Ted DiBiase",
+    "character_id": "ted-dibiase-uwow"
+   },
+   {
+    "name": "Cody Rhodes",
+    "character_id": "cody-rhodes-uwow"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-firm"
+    ],
+    "note": "Flagged by the aka-collision mint guard as an exact name match. A real wrestler's character row is always a per-promotion row, never merged across promotions — CURATION.md v96, restating v78(c). Recorded distinct per the no-auto-merge doctrine; the external-figures.json row is the only shared node."
+   }
+  ]
+ },
+ {
+  "id": "the-radicalz-uwow",
+  "type": "unit",
+  "name": "The Radicalz",
+  "unit_kind": "tag-team",
+  "caption": "A UWOW tag team, per the fed's own served show text.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "uwow",
+    "role": "tag team",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "UWOW's own served show text"
+   }
+  ],
+  "members": [
+   {
+    "name": "Chris Benoit",
+    "character_id": "chris-benoit-uwow"
+   },
+   {
+    "name": "Dean Malenko",
+    "character_id": "dean-malenko-uwow"
+   }
+  ]
+ }
+]

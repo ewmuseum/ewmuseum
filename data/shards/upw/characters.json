@@ -1,0 +1,3372 @@
+[
+ {
+  "id": "big-red-love-machine",
+  "type": "character",
+  "name": "Big Red Love Machine",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "height": "6'2\"",
+    "weight": "255 lbs",
+    "hometown": "Philadelphia, PA",
+    "style": "Technically Skilled Brawler",
+    "finisher": null,
+    "entrance_music": {
+     "title": "Brickhouse",
+     "artist": "the Commodores",
+     "verbatim": "\"Brickhouse\" by the Commodores",
+     "corrected": "\"Brick House\" by the Commodores"
+    },
+    "source": "promotions/upw/archive/bio-big-red-love-machine.html (roster bio card)",
+    "grade": "primary-source",
+    "note": "UPW's own roster bio card lists no named finisher, only a 15-move favorites list headed by a vertical suplex."
+   }
+  ],
+  "caption": "A lover in a red leisure suit and gold chains, Big Red Love Machine wrestled UPW's roster on charm — and warned that few ever wanted to see the mean streak underneath.",
+  "caption_asof": {
+   "written": "2026-08-26",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "steve-cowan-mwe",
+     "the-machine-xcwf"
+    ],
+    "note": "\"Big Red Love Machine\" shares only the common ring-nickname word \"Machine\" with MWE's Steve Cowan (aka \"The Machine\") and XCWF's the-machine-xcwf — different feds, no evidence connecting either to this UPW wrestler; recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "billy-james",
+  "type": "character",
+  "name": "Billy \"The Regulator\" James",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "6'3\"",
+    "weight": "241 lbs",
+    "hometown": "El Paso, Texas",
+    "style": "Basic Match Worker",
+    "entrance_music": {
+     "title": "Blaze of Glory",
+     "artist": "Bon Jovi",
+     "verbatim": "\"Blaze of Glory\" by Bon Jovi",
+     "corrected": "\"Blaze of Glory\" by Bon Jovi"
+    },
+    "source": "promotions/upw/archive/bio-billy-james.html (roster bio card)",
+    "grade": "primary-source",
+    "note": "Billed himself as on a mission to purge wrestling's entertainment trappings and revert it to a straight sporting contest."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "6'4\"",
+    "weight": "251 lbs",
+    "hometown": "El Paso, Texas",
+    "style": "Basic Match Worker",
+    "finisher": "\"The 38 Special\" (inverted DDT)",
+    "entrance_music": {
+     "title": "Wanted Dead or Alive",
+     "artist": "Bon Jovi",
+     "verbatim": "\"Wanted Dead or Alive\" by Bon Jovi"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (jobberapp001.html) and its own Rampage broadcasts (June 2019 to January 2020).",
+    "note": "Merged from the retired scw-southwestern-2019 row on desk ruling D103; SCW bills him \"The 38 Special\" as UPW's own bio card does, El Paso and the EWA backstory carried over, height and weight read two inches and ten pounds on."
+   }
+  ],
+  "caption": "Billy \"The Regulator\" James wrestled UPW on a one-man mission to drag the business back to a straight sporting contest, popular with internet reporters and despised by the crowd he scorned.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-regulator-pwe-inc"
+    ],
+    "note": "\"The Regulator\" is a generic enforcer-type nickname also billed on an unrelated PWE Inc. character — different fed, no evidence connecting the two beyond the shared moniker; recorded distinct per the no-auto-merge rule."
+   },
+   {
+    "assertion": "merged",
+    "grade": "user-attested",
+    "with": [],
+    "note": "One character across UPW and SCW, merged under desk ruling D103 (\"yes, merge them\"), a delegated verdict rather than a bar clearance — no text on either side names the other federation. SCW's own application (jobberapp001.html) is UPW's own bio card nearly word for word: the same billing and moniker, El Paso, \"The 38 Special\", the same EWA backstory. It gives 6'4\", 251 lbs and \"Wanted Dead or Alive\" against UPW's 6'3\", 241 lbs and \"Blaze of Glory\"."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "regulator-gpro98"
+    ],
+    "note": "\"The Regulator\" is also a moniker G-Pro '98's own regulator-gpro98 carried — a different federation, no evidence connecting the two beyond the shared moniker; recorded distinct per the no-auto-merge rule (folded in from the retired SCW record's own identity note, whose row this merge retires)."
+   }
+  ]
+ },
+ {
+  "id": "brandon-franklin",
+  "type": "character",
+  "name": "\"Hardcore Icon\" Brandon Franklin",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW Television Champion (one reign)",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "height": "6'2\"",
+    "weight": "265 lbs",
+    "hometown": "Omaha, NE",
+    "style": "Brawler",
+    "finisher": "Brainbuster (\"Brainwashed\")",
+    "entrance_music": {
+     "title": "Last Resort",
+     "artist": "Papa Roach",
+     "verbatim": "\"Last Resort\" by Papa Roach",
+     "corrected": "\"Last Resort\" by Papa Roach"
+    },
+    "source": "promotions/upw/archive/bio-brandon-franklin.html (roster bio card); promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/television-title-history.html",
+    "grade": "primary-source",
+    "note": "Age given as 37 (b. 12/2/1978) on the card. Survived a controversial time-limit-draw finish against Felix Sandoval on 17 January 2017 before finally winning the Television Championship at Survival on 5 March 2017; lost it in his first defense to Windham Brody on 11 April 2017 with Windham's Dominion allies interfering throughout."
+   }
+  ],
+  "caption": "Omaha's own \"Hardcore Icon,\" Brandon Franklin chased the UPW Television Championship for years before finally winning it at Survival, only to lose it in his very first defense to Windham Brody.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "frank-uwf"
+    ],
+    "note": "\"Franklin\" shares only the substring \"Frank\" with a UWF character bare-billed as \"Frank\" — different fed, no evidence connecting the two beyond the coincidental substring; recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "chase-williams",
+  "type": "character",
+  "name": "\"Conceited Bastard\" Chase Williams",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "6'7\"",
+    "weight": "297 lbs",
+    "hometown": "Beverly Hills, California",
+    "style": "Powerhouse with technical ability",
+    "finisher": "\"Moment of Clarity\" (Supernatural Piledriver)",
+    "entrance_music": {
+     "title": "Personal Jesus",
+     "artist": "Depeche Mode",
+     "verbatim": "\"Personal Jesus\" by Depeche Mode",
+     "corrected": "\"Personal Jesus\" by Depeche Mode"
+    },
+    "source": "promotions/upw/archive/bio-chase-williams.html (roster bio card); promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "Reached UPW's own first World Heavyweight Title match by advancing through the tournament (beating Brandon Franklin, then Antonio De Luca, on the debut Showdown), lost the Fatal Four-Way to Aaron Lewis on 29 December 2016, then attacked Lewis after the bell. Lost UPW's own final served main event to Glenn Chambers on 11 April 2017."
+   }
+  ],
+  "caption": "The self-styled \"Conceited Bastard,\" Chase Williams fought his way into UPW's own first World Heavyweight Title match and spent the rest of the promotion's life insisting he still belonged in it.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "al-crud"
+    ],
+    "note": "\"Conceited Bastard\" shares only the common slang moniker \"Bastard\" with UWF's Al Crud (aka \"The Bastard\") — different fed, no evidence connecting the two beyond the shared word; recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "damian-payne-upw",
+  "type": "character",
+  "name": "\"Sadistic Insanity\" Damian Payne",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "damian-payne-bscw"
+    ],
+    "note": "The RSPWF Top 200's own damian-payne-rspwf is a bare 2004 ranked placing (#116, tagged IGA/ICWF+) with no promotion in common with this UPW-tenured wrestler and no evidence connecting the two beyond a shared name; recorded distinct per the no-auto-merge rule (aka-collision mint guard)."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener",
+    "height": "6'9\"",
+    "weight": "295 lbs",
+    "hometown": "Denver, Colorado (originally Leicestershire, United Kingdom)",
+    "style": "Brawling Powerhouse",
+    "entrance_music": {
+     "title": "It's Goin' Down",
+     "artist": "X-Ecutioners",
+     "verbatim": "\"It's Goin' Down\" by X-Ecutioners",
+     "corrected": "\"It's Goin' Down\" by X-Ecutioners"
+    },
+    "source": "promotions/upw/archive/bio-damian-payne.html (roster bio card); promotions/upw/archive/showdown-2016-12-13.html",
+    "grade": "primary-source",
+    "note": "One of six entrants in the 13 December 2016 ladder match for the vacant UPW Television Championship, won by Felix Sandoval."
+   }
+  ],
+  "caption": "\"Sadistic Insanity\" Damian Payne kept to himself in UPW until crossed, then made good on the \"ChokeBomb Central\" promise stitched across his own ring gear.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "frank-anthony",
+  "type": "character",
+  "name": "Frank Anthony",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "6'6\"",
+    "weight": "290 lbs",
+    "hometown": "Dallas, TX",
+    "style": "Rough and Stiff",
+    "entrance_music": {
+     "title": "Sweet Revenge",
+     "artist": "John Prine",
+     "verbatim": "“Sweet Revenge” by John Prine",
+     "corrected": "\"Sweet Revenge\" by John Prine"
+    },
+    "source": "promotions/upw/archive/bio-frank-anthony.html (roster bio card)",
+    "grade": "primary-source",
+    "note": "Age given as \"38 (estimated)\" on the card."
+   }
+  ],
+  "caption": "Scarred and limping but unrepentant, Frank Anthony wrestled UPW as a bitter veteran out to punish a business he felt had gone soft.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "frank-uwf"
+    ],
+    "note": "Shares only the given name \"Frank\" with a UWF character bare-billed as \"Frank\" — different fed, no evidence connecting the two beyond the shared first name; recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "gemini",
+  "type": "character",
+  "name": "Gemini",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener",
+    "height": "6'3\"",
+    "weight": "244 lbs",
+    "hometown": "Unknown",
+    "style": "Technically Skilled Brawler",
+    "finisher": "Gemini's Thunder (Irish whip into a double axe handle to the chest)",
+    "entrance_music": {
+     "verbatim": "None"
+    },
+    "source": "promotions/upw/archive/bio-gemini.html (roster bio card)",
+    "grade": "primary-source",
+    "note": "A masked wrestler, split black-and-purple down the middle of the mask and trunks; the card's own Wrestler Personality field describes him as quiet, intimidating through silence."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener",
+    "height": "6'3\"",
+    "weight": "244 lbs",
+    "hometown": "Unknown",
+    "style": "Technically skilled brawler",
+    "finisher": "Gemini's Thunder (Irish whip into a double axe handle to the chest)",
+    "entrance_music": {
+     "verbatim": "None"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (jobberapp004.html) and its own Rampage broadcasts (June 2019 to January 2020).",
+    "note": "The application's profile runs his career through TTW (\"thrown out in the 2013 Ultimate Rumble\") and UPW (\"Wrestled in UPW for the final month before its closure\") to SCW, \"until SCW formed in 2018\"."
+   }
+  ],
+  "caption": "A masked, silent presence on UPW's own roster, Gemini let the split black-and-purple mask do the talking.",
+  "caption_asof": {
+   "written": "2026-08-26",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "One character across UPW and SCW. SCW's own application (jobberapp004.html) gives exactly the vitals of UPW's own bio card (6'3\", 244 lbs, masked in split black and purple, Tweener, \"Gemini's Thunder\") and narrates the UPW run from the other side: \"He reappeared in UPW, but at an ill-fated time in its existence as the rebellion and mutiny that had begun backstage killed the league\", and \"Wrestled in UPW for the final month before its closure.\" UPW's own card for 25 April 2017, the one its closure left unplayed, bills him against Damian Payne. The card's history names TTW, UPW and SCW and no other federation."
+   }
+  ]
+ },
+ {
+  "id": "glenn-chambers",
+  "type": "character",
+  "name": "Glenn Chambers",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW North American Title challenger; Ultimate Rumble winner",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "height": "6'4\"",
+    "weight": "251 lbs",
+    "hometown": "Philadelphia, PA",
+    "style": "Technically Skilled Brawler",
+    "finisher": "\"Locked and Loaded\" (sit-down powerbomb)",
+    "entrance_music": {
+     "title": "Wretches and Kings",
+     "artist": "Linkin Park",
+     "verbatim": "\"Wretches and Kings\" by Linkin Park",
+     "corrected": "\"Wretches and Kings\" by Linkin Park"
+    },
+    "source": "promotions/upw/archive/bio-glenn-chambers.html (roster bio card); promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/north-american-title-history.html; promotions/upw/archive/rankings.html",
+    "grade": "primary-source",
+    "note": "Lost the 18 February 2017 North American Title tournament final to Antonio De Luca, then won the Ultimate Rumble at Survival and beat Chase Williams on 11 April 2017 in UPW's own last served main event, earning the World Heavyweight Title shot at Slamfest VI. Ranked UPW's own #1 World Heavyweight contender per the rankings page."
+   }
+  ],
+  "caption": "Glenn Chambers fell just short of the UPW North American Championship, then won the Ultimate Rumble outright and beat Chase Williams to prove the loss no fluke.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "gordon-gaines",
+  "type": "character",
+  "name": "\"Good\" Gordon Gaines",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener",
+    "height": "6'1\"",
+    "weight": "228 lbs",
+    "hometown": "New Hope, Minnesota",
+    "style": "Basic Match Worker",
+    "finisher": "\"The Clean Up\" (Inverted DDT / Slop Drop / Death Drop)",
+    "entrance_music": {
+     "title": "Turn the Page",
+     "artist": "Bob Seger",
+     "verbatim": "\"Turn the Page\" by Bob Seger",
+     "corrected": "\"Turn the Page\" by Bob Seger"
+    },
+    "source": "promotions/upw/archive/bio-gordon-gaines.html (roster bio card)",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener",
+    "height": "6'3\"",
+    "weight": "241 lbs",
+    "hometown": "Eden Prairie, Minnesota",
+    "style": "Basic Match Worker",
+    "finisher": "\"The Clean Up\" (front face spinning DDT)",
+    "entrance_music": {
+     "title": "Blaze of Glory",
+     "artist": "Bon Jovi",
+     "verbatim": "\"Blaze of Glory\" by Bon Jovi"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (jobberapp005.html) and its own Rampage broadcasts (June 2019 to January 2020); billed with Son of Malta for a Lonestar Tag Team title shot on its own 11 February 2020 card."
+   }
+  ],
+  "caption": "\"Good\" Gordon Gaines wrestled UPW eager to be liked by everyone in the building, a trait that put him in difficult spots as often as it won him friends.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [],
+  "notes": "SCW's own application carries this row's billing, moniker, invented finisher name (\"The Clean Up\") and career, UPW signing included, but changes his height, weight, hometown, music, finisher move and personality; the rows stay apart until that is ruled."
+ },
+ {
+  "id": "john-herdick",
+  "type": "character",
+  "name": "John Herdick",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler; special guest referee (17 January 2017 number-one contender's match)",
+    "roles": [
+     "wrestler",
+     "referee"
+    ],
+    "alignment": "Face",
+    "height": "6'0\"",
+    "weight": "215 lbs",
+    "hometown": "Cleveland, OH",
+    "style": "Fast-paced brawler",
+    "finisher": "\"Old School Crush\" (Sit-out Facebuster)",
+    "entrance_music": {
+     "title": "Final Countdown",
+     "artist": "Europe",
+     "verbatim": "\"Final Countdown\" by Europe",
+     "corrected": "\"The Final Countdown\" by Europe"
+    },
+    "source": "promotions/upw/archive/bio-john-herdick.html (roster bio card); promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2017-01-17.html",
+    "grade": "primary-source",
+    "note": "Billed as \"a UPW fan favorite.\" Named special guest referee for the 17 January 2017 Rick Styles vs. Derek Rage number-one contender's match, openly declared beforehand he would never count a fair three for Styles, and was chokeslammed by Rage after Styles's own loss."
+   }
+  ],
+  "caption": "John Herdick wrestled UPW's midcard before landing a bigger role as special guest referee for the Styles-Rage number-one contender's match, and made no secret of whose side he was really on.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 10,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "luscious-jasmine",
+  "type": "character",
+  "name": "Luscious Jasmine",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "height": "6'1\"",
+    "weight": "218 lbs",
+    "hometown": "San Francisco, CA",
+    "style": "Daredevil High Flyer",
+    "finisher": "\"The Ratings Plunge\" (Asai Moonsault)",
+    "entrance_music": {
+     "title": "Karma Chameleon",
+     "artist": "Culture Club",
+     "verbatim": "\"Karma-Chameleon\" by Culture Club",
+     "corrected": "\"Karma Chameleon\" by Culture Club"
+    },
+    "source": "promotions/upw/archive/bio-luscious-jasmine.html (roster bio card)",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "height": "6'1\"",
+    "weight": "218 lbs",
+    "hometown": "San Francisco, CA",
+    "style": "Daredevil High Flyer",
+    "finisher": "\"The Ratings Plunge\" (Asai Moonsault)",
+    "entrance_music": {
+     "title": "Karma Chameleon",
+     "artist": "Culture Club",
+     "verbatim": "\"Karma-Chameleon\" by Culture Club"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (jobberapp002.html) and its own Rampage broadcasts (June 2019 to January 2020).",
+    "note": "The application is his earlier bio card with one sentence added to the profile: \"Then UPW shut down and he was one of the first men called to join SCW's roster\"; its wrestling history reads \"Former staff wrestler for SCWE, EWA, and UPW.\""
+   }
+  ],
+  "caption": "Luscious Jasmine worked UPW's crowd as hard as any opponent, a comedic high-flyer in pink tights and a boa who never missed a chance to play to the fans.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "One character across UPW and SCW. SCW's own application (jobberapp002.html) gives exactly the vitals of UPW's own bio card (6'1\", 218 lbs, San Francisco, Face, \"The Ratings Plunge\", \"Karma-Chameleon\") and the same SCWE backstory, then adds: \"Then UPW shut down and he was one of the first men called to join SCW's roster\", with a wrestling history of \"Former staff wrestler for SCWE, EWA, and UPW\". UPW's own roster and its own bio card carry him, and its own card for 25 April 2017 bills him against Desi Valdez, Jr."
+   }
+  ]
+ },
+ {
+  "id": "michael-wilson",
+  "type": "character",
+  "name": "Michael Wilson",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener",
+    "height": "6'2\"",
+    "weight": "227 lbs",
+    "hometown": "Long Island, NY",
+    "style": "Technically Skilled Brawler",
+    "finisher": "\"GTR\" (Greatness To Reality)",
+    "entrance_music": {
+     "title": "Jungle",
+     "artist": "X Ambassadors",
+     "verbatim": "\"Jungle\" by X Ambassadors",
+     "corrected": "\"Jungle\" by X Ambassadors"
+    },
+    "source": "promotions/upw/archive/bio-michael-wilson.html (roster bio card); promotions/upw/archive/showdown-2016-10-04.html",
+    "grade": "primary-source",
+    "note": "Self-billed \"Purveyor of Truth\" and face of the Heel Nation faction. Lost to Felix Sandoval on 4 October 2016."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener",
+    "height": "6'2\"",
+    "weight": "227 lbs",
+    "hometown": "Long Island, NY",
+    "style": "Technically Skilled Brawler",
+    "finisher": "\"GTR\" (Greatness To Reality)",
+    "entrance_music": {
+     "title": "Jungle",
+     "artist": "X Ambassadors",
+     "verbatim": "\"Jungle\" by X Ambassadors"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app018.html) and its own Rampage broadcasts (June 2019 to January 2020), including the Showdown I supercard (8 December 2019).",
+    "note": "Still the face of the Heel Nation, which its own broadcasts bill in action; his own promos there recount the CWF World Championship he took from Dominick Shore and held for 535 days."
+   }
+  ],
+  "caption": "Michael Wilson, UPW's self-declared \"Purveyor of Truth\" and the face of Heel Nation, was as quick with a receipt on backstage politics as he was with a forearm.",
+  "caption_asof": {
+   "written": "2026-08-26",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "user-attested",
+    "with": [],
+    "note": "One character across UPW and SCW, ruled on the evidence. SCW's own application (app018.html) is UPW's own bio card word for word, the federation's name aside: 6'2\", 227 lbs, Long Island, \"GTR\", \"Jungle\" by X Ambassadors, the Heel Nation. UPW's card narrates his second CWF World Championship, won by ending Dominick Shore's career; SCW's own broadcasts narrate the same run in his own voice (\"I forcefully pounded Dominick Shore into the mat and TOOK that thing ... I forcefully reigned for FIVE HUNDRED and THIRTY FIVE DAYS\") and its commentary bills him a two-time CWF World Heavyweight Champion. Neither federation's text names the other."
+   }
+  ]
+ },
+ {
+  "id": "tex-colorado",
+  "type": "character",
+  "name": "\"The Minnesota Assassin\" Tex Colorado",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener with heel tendencies",
+    "height": "6'4\"",
+    "weight": "278 lbs",
+    "hometown": "Albuquerque, New Mexico",
+    "style": "Basic worker",
+    "finisher": "A cowbell shot to the head (no named hold finisher)",
+    "entrance_music": {
+     "verbatim": "N/A"
+    },
+    "source": "promotions/upw/archive/bio-tex-colorado.html (roster bio card)",
+    "grade": "primary-source",
+    "note": "The card's own listed weaknesses (\"stupidity,\" a short temper, overreaching for the finish) frame him as a heel who reliably beats himself."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2020",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener with heel tendencies",
+    "height": "6'4\"",
+    "weight": "278",
+    "hometown": "Albuquerque, New Mexico",
+    "style": "Basic worker",
+    "finisher": "\"The Fever\" (a shot to the head with a cowbell)",
+    "entrance_music": {
+     "verbatim": "N/A"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (jobberapp006.html) and its own Rampage broadcasts of January 2020.",
+    "note": "Merged from the retired scw-southwestern-2019 row on desk ruling D103; the same cowbell finish as his UPW bio card, renamed \"The Fever\", his age two years on."
+   }
+  ],
+  "caption": "\"The Minnesota Assassin\" Tex Colorado carried a cowbell to the ring and a short temper into it, a heel who reliably found a way to beat himself.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "assassin-rspwf"
+    ],
+    "note": "\"The Minnesota Assassin\" shares only the common ring-nickname word \"Assassin\" with an RSPWF Top 200 character bare-billed as \"Assassin\" — different feds, no evidence connecting the two beyond the shared word; recorded distinct per the no-auto-merge rule."
+   },
+   {
+    "assertion": "merged",
+    "grade": "user-attested",
+    "with": [],
+    "note": "One character across UPW and SCW, merged under desk ruling D103 (\"yes, merge them\"), a delegated verdict rather than a bar clearance — no text on either side names the other federation. SCW's own application (jobberapp006.html) is UPW's own bio card word for word: the same billing and moniker, 6'4\", 278 lbs, Albuquerque, the cowbell finish and the same three weaknesses; his age reads two years on (35 against 33) and the cowbell shot is now named \"The Fever\"."
+   }
+  ]
+ },
+ {
+  "id": "tripp-skylark",
+  "type": "character",
+  "name": "Tripp Skylark",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — former UPW Television Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "5'9\"",
+    "weight": "187 lbs",
+    "hometown": "Pittsburgh, PA",
+    "style": "Technical high flyer",
+    "entrance_music": {
+     "verbatim": "none?"
+    },
+    "source": "promotions/upw/archive/bio-tripp-skylark.html (roster bio card); promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-10-04.html",
+    "grade": "primary-source",
+    "note": "The card's own text frames a personality turn from prankster to violent after a losing streak. One of six entrants in the 13 December 2016 ladder match for the vacant Television Championship, won by Felix Sandoval."
+   }
+  ],
+  "caption": "Once the locker room's own resident clown, Tripp Skylark turned dark after a losing streak, trading practical jokes for a spiked collar and a taste for violence.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "windham-brody",
+  "type": "character",
+  "name": "Windham Brody",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW Television Champion (one reign); formerly GEW Television Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "6'6\"",
+    "weight": "317 lbs",
+    "hometown": "Lucifer, AZ",
+    "style": "Powerhouse",
+    "finisher": "\"The Road To Hell\" (modified lifting reverse STO)",
+    "entrance_music": {
+     "verbatim": "?????"
+    },
+    "source": "promotions/upw/archive/bio-windham-brody.html (roster bio card); promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/television-title-history.html",
+    "grade": "primary-source",
+    "note": "The card's own Character Profile states he won a prior Television Championship in a fed it names as GEW, whose contract transferred to UPW when GEW was bought out — GEW is not a promotion this museum holds, and the claim is transcribed as the card's own kayfabe biography, not corroborated further. Won the UPW Television Championship from Brandon Franklin on 11 April 2017 (UPW's own last served Showdown) with Franklin's Dominion rivals interfering throughout the match."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "height": "6'6\"",
+    "weight": "317 lbs",
+    "hometown": "Lucifer, AZ",
+    "style": "Powerhouse",
+    "finisher": "\"The Road To Hell\" (modified lifting reverse STO)",
+    "entrance_music": {
+     "title": "13",
+     "artist": "Danzig",
+     "verbatim": "\"13\" By Danzig"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app007.html) and its own Rampage broadcasts (June 2019 to January 2020); billed in the six-man gauntlet for its new Television Title on its own 11 February 2020 card (schedule.html).",
+    "note": "The application repeats his earlier bio card nearly word for word, the same GEW backstory and move list, now giving his age as 31, his entrance music as \"13\" by Danzig, and adding \"Former UPW TV Champion\" to his wrestling history."
+   }
+  ],
+  "caption": "A silent, friendless powerhouse billed from \"Lucifer, AZ,\" Windham Brody carried a self-billed former GEW Television Championship into UPW and left with UPW's own, beating Brandon Franklin in his first challenge.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "One character across UPW and SCW. SCW's own application (app007.html) gives exactly the vitals of UPW's own bio card (6'6\", 317 lbs, \"Lucifer, AZ\", Heel, Powerhouse, \"The Road To Hell\", a modified lifting reverse STO) and the same GEW Television Championship backstory, and its wrestling history adds \"Former UPW TV Champion\"; UPW's own Television Title history records him winning that title from Brandon Franklin on 11 April 2017. Identical vitals plus the later federation's own text naming the earlier title reign."
+   }
+  ]
+ },
+ {
+  "id": "aaron-lewis",
+  "type": "character",
+  "name": "Aaron \"All Day\" Lewis",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW World Heavyweight Champion (one reign); formerly TTW World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/world-heavyweight-title-history.html; promotions/upw/archive/rankings.html; promotions/upw/archive/roster.html",
+    "grade": "primary-source",
+    "note": "Referred to on UPW's own broadcast as a former champion of the TTW predecessor league (\"he's been on borrowed time since he was TTW champion\") — TTW is not a promotion this museum holds, so the claim is recorded but not tenured. Advanced through UPW's own World Heavyweight Title tournament (a bye past Rick Styles on 4 October 2016, then a win over Felix Sandoval), won the belt in a Fatal Four-Way on 29 December 2016 to become UPW's own first World Heavyweight Champion of its post-TTW era, and lost it to Derek Rage at Survival on 5 March 2017. No surviving roster bio card."
+   }
+  ],
+  "caption": "Aaron \"All Day\" Lewis, previously a champion in TTW, the league UPW's own title lineage continues from, won UPW's own first post-relaunch World Heavyweight Championship and held it until Derek Rage dethroned him at Survival.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "derek-rage",
+  "type": "character",
+  "name": "Derek Rage",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW World Heavyweight Champion (one reign)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/world-heavyweight-title-history.html; promotions/upw/archive/rankings.html",
+    "grade": "primary-source",
+    "note": "Billed a seven-foot wrestler; finisher \"Hammer of God\" (clawhold slam). Beat Liam Donegal in a World Title tournament advancement match on 13 December 2016 but lost the Fatal Four-Way itself on 29 December 2016; won a corrupted number-one contender's match over Rick Styles on 17 January 2017 (special referee John Herdick openly refused to count fairly for Styles); defeated Aaron Lewis for the World Heavyweight Championship at Survival on 5 March 2017 and held it through UPW's own final served shows. No surviving roster bio card."
+   }
+  ],
+  "caption": "Derek Rage battled through a rigged number-one contender's match to earn his shot at Aaron Lewis, then took the UPW World Heavyweight Championship from him at Survival and held it through the promotion's own final months.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "antonio-de-luca",
+  "type": "character",
+  "name": "\"Legionarius\" Antonio De Luca",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW North American Champion (one reign); member of the Dominion",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/north-american-title-history.html; promotions/upw/archive/rankings.html",
+    "grade": "primary-source",
+    "note": "Lost a World Heavyweight Title tournament semi-main event to Chase Williams on UPW's own debut Showdown; won the vacant North American Championship in a single-night, eight-man tournament final over Glenn Chambers on 18 February 2017 and held it through UPW's own final served shows. Ran with the Dominion stable (Tyson Bishop, Lance Donovan), who interfered in Windham Brody's Television Title win over Brandon Franklin on 11 April 2017."
+   }
+  ],
+  "caption": "\"Legionarius\" Antonio De Luca won a single-night tournament to become UPW North American Champion and led the Dominion stable through the promotion's own final year.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "legion-nfw",
+     "legion-wwa",
+     "legion-napw"
+    ],
+    "note": "\"Legionarius\" is a decorated nickname sharing only the \"Legion\" stem with three unrelated characters bare-billed as \"Legion\" in NFW, WWA, and NAPW — different feds, different eras, no evidence connecting any of them to this UPW wrestler; recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "felix-sandoval",
+  "type": "character",
+  "name": "\"El Patron\" Felix Sandoval",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW Television Champion (one reign)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/television-title-history.html; promotions/upw/archive/rankings.html",
+    "grade": "primary-source",
+    "note": "Finisher \"Clean Cut\" (F-5). Beat Michael Wilson then lost a World Title tournament advancement match to Aaron Lewis on 4 October 2016; won the vacant Television Championship in a six-man ladder match on 13 December 2016; retained it against Brandon Franklin on 17 January 2017 via a time-limit draw ruling that overturned Franklin's own apparent pinfall, then attacked Franklin with the belt afterward; lost the title to Franklin at Survival on 5 March 2017. No surviving roster bio card."
+   }
+  ],
+  "caption": "\"El Patron\" Felix Sandoval won the vacant UPW Television Championship in a ladder match and held onto it through a bell-saved time-limit draw before losing it at Survival.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "dylan-cardinal",
+  "type": "character",
+  "name": "\"The Basilisk\" Dylan Cardinal",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-29.html",
+    "grade": "primary-source",
+    "note": "Finisher \"LD50\" (double-underhook snap DDT). Won a World Heavyweight Title tournament advancement match over Jeff Keenan on 8 November 2016, then lost the Fatal Four-Way to Aaron Lewis on 29 December 2016. No surviving roster bio card."
+   }
+  ],
+  "caption": "\"The Basilisk\" Dylan Cardinal fought through UPW's own World Heavyweight Title tournament only to come up short in the Fatal Four-Way that crowned its first post-relaunch champion.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "liam-donegal",
+  "type": "character",
+  "name": "Liam Donegal",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html",
+    "grade": "primary-source",
+    "note": "Won a World Heavyweight Title tournament advancement match, upending the much larger Derek Rage, on 13 December 2016, then lost the Fatal Four-Way to Aaron Lewis on 29 December 2016. No surviving roster bio card."
+   }
+  ],
+  "caption": "Liam Donegal upset the much larger Derek Rage to reach UPW's own first post-relaunch World Heavyweight Title match, then came up short in the Fatal Four-Way itself.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jeff-keenan-upw",
+  "type": "character",
+  "name": "Jeff Keenan",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jeff-keenan-rspwf"
+    ],
+    "note": "The RSPWF Top 200's own jeff-keenan-rspwf is a bare 2004 ranked placing (#199, tagged IGA/SCW) with no promotion in common with this UPW-tenured wrestler and no evidence connecting the two beyond a shared name; recorded distinct per the no-auto-merge rule (aka-collision mint guard)."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — formerly a UPW World Champion (pre-relaunch)",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Face",
+    "source": "promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2017-01-17.html",
+    "grade": "primary-source",
+    "note": "Billed on UPW's own broadcast as \"a UPW fan favorite\" and \"a former World Champion\" — no reign of his survives in the served title-history ledger, so the prior championship claim is broadcast-attested only. Lost a World Heavyweight Title tournament advancement match to Dylan Cardinal on 8 November 2016; ran down to ringside during Rick Styles's own number-one contender's match against Derek Rage on 17 January 2017 and helped cost Styles the match. No surviving roster bio card."
+   }
+  ],
+  "caption": "A former UPW World Champion, Jeff Keenan lost his own bid to reclaim UPW's vacant World Heavyweight Championship, then made sure Rick Styles didn't get there either.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "rick-styles-upw",
+  "type": "character",
+  "name": "\"Top Dog\" Rick Styles",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rick-styles-wlw-1995"
+    ],
+    "note": "The RSPWF Top 200's own top-dog-rick-styles-rspwf is a bare ranked placing across 1998–2000 (#7, #1, #9; tagged UEW/UWF) with no promotion in common with this UPW-tenured wrestler, well over a decade before UPW's own 2016 founding, and no evidence connecting the two beyond the shared \"Top Dog\" nickname; recorded distinct per the no-auto-merge rule (aka-collision mint guard)."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "source": "promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2017-01-17.html",
+    "grade": "primary-source",
+    "note": "Declared himself entitled to skip UPW's own World Heavyweight Title tournament outright and simply challenge its eventual winner. Ambushed John Herdick with a steel chair on 13 December 2016. Lost a number-one contender's match to Derek Rage on 17 January 2017 after his own hand-picked special referee, John Herdick, turned on him."
+   }
+  ],
+  "caption": "\"Top Dog\" Rick Styles tried to shortcut his way to the UPW World Heavyweight Championship by skipping the tournament outright, then lost the number-one contender's match anyway when his own hand-picked referee turned on him.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 10,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "malcom-shabazz",
+  "type": "character",
+  "name": "Malcom Shabazz",
+  "aka": [
+   "Malcolm Shabazz"
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Heel",
+    "finisher": "Hard Truth (spinning flapjack into the turnbuckle)",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/roster.html; promotions/upw/archive/rankings.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "primary-source",
+    "note": "Billed his own UPW run around claims of racist treatment by the promotion and its fans, backed by a stable of masked \"Hard Truth Soldiers.\" Won a handicap match against the Brothers Grimm on 8 November 2016 to keep his job (with an assist from Liam Donegal counting his own pin using the knocked-out referee's arm), then fought a running program with Donegal that turned violent — a masked assault opening Donegal's manager Adam Lazarus's head, a televised threat against Donegal's wife and infant son. Arrested backstage on 18 February 2017 for a brawl that put UPW VP Thomas Grissom in the hospital, forfeiting a North American Title tournament match to Harrison Daniels III. Billed for an unheld 25 April 2017 card against \"Top Dog\" Rick Styles. \"Malcom\" is roster.html's own spelling; \"Malcolm\" appears at least once in the served show text (The Hype's popsicle-naming bit) and is carried as an aka rather than corrected."
+   }
+  ],
+  "caption": "Malcom Shabazz built his UPW run around a racism storyline against the promotion itself, feuding hardest with Liam Donegal before an arrest for assaulting a UPW vice president cut his push short.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 10,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "percy-monroe",
+  "type": "character",
+  "name": "\"Poetry in Motion\" Percy Monroe",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "The Epic (death valley driver)",
+    "manager": "his wife, Patricia Monroe",
+    "source": "promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/roster.html; promotions/upw/archive/rankings.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "primary-source",
+    "note": "Debuted 17 January 2017 with wife/manager Patricia Monroe at ringside, beating Luscious Jasmine after Patricia yanked the referee off a near-fall. Cost Chad Allen a match against Harrison Daniels III (an old friend of Percy's) by chairing Allen from ringside on 17 January 2017, then lost to John Herdick on 11 April 2017 after a run of bullying the underdog on the mic. Ranked #2 TV Title contender on UPW's own rankings sheet."
+   }
+  ],
+  "caption": "\"Poetry in Motion\" Percy Monroe arrived with his wife Patricia at ringside and spent his short UPW run bullying underdogs before John Herdick beat him.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "patricia-monroe",
+  "type": "character",
+  "name": "Patricia Monroe",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "Manager and wife of Percy Monroe, billed as protective \"by any means necessary.\" Pulled a referee off a near-fall to cost Luscious Jasmine his debut match against Percy (17 January 2017) and brawled ringside with Iris Galiver the same night. Clashed with UPW security backstage over locker-room arrangements until old family friend Harrison Daniels III vouched for the couple."
+   }
+  ],
+  "caption": "Patricia Monroe managed her husband Percy through UPW's own final months, pulling referees and picking fights with rival managers at ringside.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "harrison-daniels-iii",
+  "type": "character",
+  "name": "Harrison Daniels III",
+  "aka": [
+   "HD3"
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "Sense of Entitlement (angle-slam variation)",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/roster.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "primary-source",
+    "note": "Debuted 4 October 2016 defeating Tripp Skylark, self-billed \"UPW's Redeemer.\" Entered a UPW Television Championship ladder match on 13 December 2016. Old friend of Percy Monroe and his wife Patricia, vouching for them backstage on 17 January 2017 the same night he beat Chad Allen (with Percy's own interference doing the real work), then shoved Percy away afterward over the tactic. Received a North American Title tournament bye when Malcom Shabazz was arrested (18 February 2017), losing the resulting semifinal to Antonio De Luca. Lost to Tripp Skylark's new, darker persona on 11 April 2017, UPW's own final episode."
+   }
+  ],
+  "caption": "Harrison Daniels III debuted a self-styled redeemer, spent a season entangled with an old friend's marriage drama, and closed out UPW's own final broadcast on the losing end of Tripp Skylark's heel turn.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "desi-valdez-jr",
+  "type": "character",
+  "name": "Desi Valdez, Jr.",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/roster.html; promotions/upw/archive/rankings.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "billing",
+    "note": "Never appears wrestling in any served show script; known only as a roster listing, a #5-ranked Television Title contender, and a billed opponent (against Luscious Jasmine) on the card previewed for 25 April 2017 — a show the league's own closure two days earlier meant was never held."
+   }
+  ],
+  "caption": "Desi Valdez, Jr. survives only as a roster listing and a ranked contender's name — the card that would have shown him in the ring never aired.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "chad-allen-upw",
+  "type": "character",
+  "name": "\"Jester\" Chad Allen",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jester-chad-allen-rspwf"
+    ],
+    "note": "The registry's own jester-chad-allen-rspwf carries the exact same decorated name from the RSPWF Top 200 (2003-04, tagged IGA in 2004), with no fed tag or other detail this UPW wrestler's own record corroborates; recorded distinct per the no-auto-merge rule."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "The Last Laugh (fireman's-carry death valley driver)",
+    "manager": "Iris Galiver",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/roster.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "primary-source",
+    "note": "Billed a 20-plus-year veteran and \"Wicked Clown\"-styled former champion of nearly every organization he's wrestled; debuted 4 October 2016 beating John Herdick behind manager Iris Galiver's repeated interference. Won a title-shot eliminator over \"Good\" Gordon Gaines (29 December 2016, Galiver interfering again), entered the North American Title tournament (lost to Glenn Chambers, 18 February 2017, reversing Allen's own finisher), and lost the promotion's own last-ever Chad Allen appearance to Caleb Foley (11 April 2017)."
+   }
+  ],
+  "caption": "\"Jester\" Chad Allen leaned on manager Iris Galiver's interference through UPW's own life, from his debut win over John Herdick to a North American Title tournament loss to Glenn Chambers.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "iris-galiver",
+  "type": "character",
+  "name": "Iris Galiver",
+  "aka": [
+   "The Pretty Pretty Princess"
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "Manager/valet of Chad Allen, written as an adult with a child's mind, complete with an imaginary friend (\"Mr. Peabody\") and a recurring \"days of bloodshed\" monologue. Interfered behind the referee's back in nearly every Allen match across UPW's run, most consequentially costing Glenn Chambers a clean finish on 18 February 2017 by repeatedly distracting referee Rob Garcia."
+   }
+  ],
+  "caption": "Iris Galiver managed \"Jester\" Chad Allen through UPW's own run with a mind seemingly stuck in childhood, distracting referees behind their backs match after match.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ricky-courage",
+  "type": "character",
+  "name": "Ricky Courage",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW World Tag Team Champion (as part of Soldiers of the Sun)",
+    "roles": [
+     "wrestler"
+    ],
+    "style": "Technician; amateur background",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/survival-preview-show.html; promotions/upw/archive/world-tag-team-title-history.html",
+    "grade": "primary-source",
+    "note": "Rookie member of Soldiers of the Sun, wrestling to honor a wrestler father he never knew (\"Stevie\" per one on-air reference). Emotional pre-Survival interview framed the Ultimate Rumble and a World Tag Team Title shot as chasing his father's unfinished career. Abandoned mid-match by stablemate Titan Juarez on 29 December 2016 (Juarez's brief defection to the Warriors), reconciled with Juarez on 17 January 2017 after Juarez turned on his new allies. Won UPW's own World Tag Team Championship at Survival (5 March 2017) in a Fatal Four-Way, then was ambushed and laid out with two consecutive \"Stomping Ground\" finishers by the Dominion on 11 April 2017, moments after signing an autograph for a young disabled fan."
+   }
+  ],
+  "caption": "Ricky Courage wrestled to honor the father he never knew, riding Soldiers of the Sun to UPW's own World Tag Team Championship before the Dominion left him broken on the entrance ramp in the promotion's own final broadcast.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "titan-juarez-upw",
+  "type": "character",
+  "name": "Titan Juarez",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW World Tag Team Champion (as part of Soldiers of the Sun)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/world-tag-team-title-history.html",
+    "grade": "primary-source",
+    "note": "Masked member of Soldiers of the Sun who abandoned his own stablemates mid-match against the Warriors on 29 December 2016, briefly aligning with the Warriors before turning on them by chokeslamming both Dominion members during a title match he ran into on 17 January 2017 and rejoining Soldiers of the Sun. Reconciled fully with Ricky Courage and STRIKER Kato by 18 February 2017, when the Dominion's own interference in a Warriors match drew Juarez back to the ring for a save. Co-held UPW's own World Tag Team Championship after Survival."
+   }
+  ],
+  "caption": "Titan Juarez's mid-season defection from Soldiers of the Sun to the Warriors and back was UPW's own longest-running tag-scene storyline, ending in a reconciliation and a World Tag Team Championship.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "striker-kato-upw",
+  "type": "character",
+  "name": "STRIKER Kato",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW World Tag Team Champion (as part of Soldiers of the Sun)",
+    "roles": [
+     "wrestler"
+    ],
+    "style": "Speedy striker",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/world-tag-team-title-history.html",
+    "grade": "primary-source",
+    "note": "Billed as an Osakan striker and founding member of Soldiers of the Sun alongside Ricky Courage and Titan Juarez. Chaired at ringside by the Warriors' Kel Robertson during a title match on 29 December 2016. Co-held UPW's own World Tag Team Championship after Survival (5 March 2017), retaining against the Down South Connection on UPW's own final broadcast."
+   }
+  ],
+  "caption": "STRIKER Kato's speed rounded out Soldiers of the Sun, the trio that carried UPW's own World Tag Team Championship through the promotion's final months.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "deawn-carter-upw",
+  "type": "character",
+  "name": "\"The Angel\" DeAwn Carter",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW World Tag Team Champion (as part of the Warriors)",
+    "roles": [
+     "wrestler"
+    ],
+    "manager": "Sammy Sharifi",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/world-tag-team-title-history.html",
+    "grade": "primary-source",
+    "note": "Half of the Warriors alongside Kel Robertson, managed by Sammy Sharifi. Won UPW's own first World Tag Team Championship from the Hype on the debut show (20 September 2016) in a match Carter and Robertson framed as a stand against the wrestling business's own bigotry. Held the belts until losing them to Soldiers of the Sun, the Dominion, and the O'Malley Brothers in a Survival Fatal Four-Way (5 March 2017)."
+   }
+  ],
+  "caption": "\"The Angel\" DeAwn Carter co-held UPW's own first World Tag Team Championship, framing the Warriors' title reign as a stand against bigotry in the business.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kel-robertson-upw",
+  "type": "character",
+  "name": "\"The Hound\" Kel Robertson",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW World Tag Team Champion (as part of the Warriors)",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "Justice (spike reverse piledriver)",
+    "manager": "Sammy Sharifi",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/world-tag-team-title-history.html",
+    "grade": "primary-source",
+    "note": "Half of the Warriors alongside DeAwn Carter, managed by Sammy Sharifi; self-described as \"part Native American.\" Hit the deciding \"Justice\" piledriver to win the tag titles on UPW's own debut show (20 September 2016). Chaired Soldiers of the Sun's STRIKER Kato at ringside during a title defense (29 December 2016) and abandoned Titan Juarez to a beating rather than help him during a tag match (17 January 2017) shortly before Juarez turned on the Warriors outright."
+   }
+  ],
+  "caption": "\"The Hound\" Kel Robertson's spike piledriver won UPW's own first World Tag Team Championship for the Warriors, a reign he held onto with increasingly ugly ringside tactics.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "cj-messer-upw",
+  "type": "character",
+  "name": "CJ \"Mackie\" Messer",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "wrestler"
+    ],
+    "manager": "Syn",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html",
+    "grade": "primary-source",
+    "note": "Half of the Hype alongside \"Downtown\" Danny Nash, billed an MMA-schooled knockout artist and managed by Syn. Challenged the Warriors for UPW's own vacant, inaugural World Tag Team Championship on the promotion's debut show (20 September 2016), losing two falls to one, then beat the Brothers Grimm's Grimmace with a \"Dominator\" on 4 October 2016."
+   }
+  ],
+  "caption": "CJ \"Mackie\" Messer's Hype fell just short of UPW's own first World Tag Team Championship on the promotion's debut night.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "danny-nash-upw",
+  "type": "character",
+  "name": "\"Downtown\" Danny Nash",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "wrestler"
+    ],
+    "manager": "Syn",
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-12-13.html",
+    "grade": "primary-source",
+    "note": "Half of the Hype alongside CJ \"Mackie\" Messer, billed a flamboyant showman (\"the screenshot king\") and managed by Syn. Lost UPW's own inaugural World Tag Team Championship match on the debut show (20 September 2016). Ambushed with chairs by the Dominion on 13 December 2016 in an angle that scrapped a scheduled Hype/O'Malley Brothers match a third time; security pulled him clear of a piledriver on exposed concrete."
+   }
+  ],
+  "caption": "\"Downtown\" Danny Nash's Hype came up just short of UPW's own first World Tag Team Championship, and later took the worst of the Dominion's own arrival as a stable.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "syn-upw",
+  "type": "character",
+  "name": "Syn",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "syn-faw",
+     "syn-wccw"
+    ],
+    "note": "\"Syn\" is a bare enough ring name that both FAW and WCCW independently field a wrestler under it (syn-faw, syn-wccw); neither shares a fed, era, or any other detail with this UPW manager, and nothing connects the three beyond the shared name; recorded distinct per the no-auto-merge rule."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html",
+    "grade": "primary-source",
+    "note": "Manager of the Hype (CJ Messer and Danny Nash), billed in a Hawaiian shirt with a flask. Ejected from ringside for striking DeAwn Carter during the Hype's own World Tag Team Championship match on UPW's own debut show (20 September 2016)."
+   }
+  ],
+  "caption": "Syn managed the Hype through UPW's own opening stretch, ejected from ringside for a cheap shot in their first title match.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lance-donovan",
+  "type": "character",
+  "name": "\"Adonis\" Lance Donovan",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW North American Champion (as part of the Dominion's own run)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/survival-preview-show.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "primary-source",
+    "note": "Third-generation wrestler billed \"making a name for himself across the indies\"; joined Antonio De Luca and Tyson Bishop in founding stable the Dominion on 4 October 2016, costing Liam Donegal a match that night. Interfered repeatedly through UPW's run on De Luca's and Bishop's behalf, including De Luca's North American Title tournament win (18 February 2017) and Windham Brody's Television Title win over Brandon Franklin (11 April 2017). Quoted Joseph Chamberlain on empire before the Survival Ultimate Rumble, declaring \"the day of the stand-alone wrestlers is gone.\""
+   }
+  ],
+  "caption": "\"Adonis\" Lance Donovan helped found the Dominion, the stable whose interference underwrote both a North American Championship and a Television Championship change during UPW's own final year.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "tyson-bishop-upw",
+  "type": "character",
+  "name": "\"The American Nightmare\" Tyson Bishop",
+  "aka": [
+   "Tyler Bishop"
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — UPW North American Champion (as part of the Dominion's own run)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/survival-preview-show.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "primary-source",
+    "note": "Billed a barrel-chested enforcer who \"punished men in Japan\"; joined Antonio De Luca and Lance Donovan in founding stable the Dominion on 4 October 2016. Combo finisher with Donovan, \"The Stomping Ground\" (gutwrench powerbomb into a diving neckbreaker). Referred to consistently as \"Tyson Bishop\" throughout the corpus except one full episode (13 December 2016), which calls him \"Tyler Bishop\" instead — carried as an aka rather than corrected, per the museum's verbatim-serving rule."
+   }
+  ],
+  "caption": "\"The American Nightmare\" Tyson Bishop's power rounded out the Dominion, the stable behind both a North American and a Television Championship change in UPW's own final year.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "nightmare-naw",
+     "nightmare-rspwf",
+     "tyler-wwa"
+    ],
+    "note": "The registry's own aka-collision guard reads the nickname \"The American Nightmare\" as a normalized substring match against NAW's own nightmare-naw and the RSPWF Top 200's own nightmare-rspwf, and the one-off aka \"Tyler Bishop\" against WWA's own tyler-wwa; none shares a fed, era, or any other detail with this UPW wrestler, and nothing connects them beyond the shared fragments. Recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "marcus-omalley",
+  "type": "character",
+  "name": "Marcus O'Malley",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/world-tag-team-title-history.html; promotions/upw/archive/roster.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "primary-source",
+    "note": "Half of the O'Malley Brothers with Anthony O'Malley, an Irish/Italian-gimmicked tag team whose UPW debut against the Hype was scrapped three separate times by Dominion interference. Handcuffed to a backstage pipe before a six-man tag against the Dominion (29 December 2016), breaking free mid-match to even the numbers; the Dominion piledrove him afterward at ringside. Won UPW's own World Tag Team Championship shot alongside his brother, the Warriors, and Soldiers of the Sun in the Survival Fatal Four-Way (5 March 2017), though the belts went to Soldiers of the Sun."
+   }
+  ],
+  "caption": "Marcus O'Malley spent his UPW run on the wrong end of the Dominion's own interference, from a scrapped debut to a handcuffed ambush, before a Survival title shot came up short.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "anthony-omalley",
+  "type": "character",
+  "name": "Anthony O'Malley",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/world-tag-team-title-history.html; promotions/upw/archive/roster.html; promotions/upw/archive/schedule-2017-04-25.html",
+    "grade": "primary-source",
+    "note": "Half of the O'Malley Brothers with Marcus O'Malley. Their scheduled UPW debut against the Hype was scrapped three times running by Dominion interference; backstage, the brothers ambushed Dominion's Bishop and Donovan and had the upper hand until Antonio De Luca turned the tide (13 December 2016). Made the save for a beaten Titan Juarez during a Warriors/Soldiers of the Sun tag match (18 February 2017). Fell short of UPW's own World Tag Team Championship in the Survival Fatal Four-Way (5 March 2017)."
+   }
+  ],
+  "caption": "Anthony O'Malley's tag run with his brother was defined by a running feud with the Dominion, from three scrapped debuts to a Survival title shot that came up empty.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "kenneth-morlock-upw",
+  "type": "character",
+  "name": "\"King of the South\" Kenneth Morlock",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "kenneth-morlock-ewa"
+    ],
+    "note": "The registry's own kenneth-morlock-ewa (\"The New Legend\" Kenneth Morlock, EWA) shares the exact same name with this UPW wrestler but a different nickname, a different fed, and no evidence connecting the two beyond the shared name; recorded distinct per the no-auto-merge rule."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "Half of the Down South Connection with Matt Allen, debuting 29 December 2016 with a promo trashing UPW's tag division. Won the tag team's own in-ring debut against Michael Turner and Isaac \"Hooch\" Johnson on 17 January 2017 with a chair-assisted double-team. Lost to Soldiers of the Sun on UPW's own final broadcast (11 April 2017)."
+   }
+  ],
+  "caption": "\"King of the South\" Kenneth Morlock's Down South Connection talked a big game about UPW's own tag division and backed it up in their debut win, though it ran out against Soldiers of the Sun on the promotion's final show.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "matt-allen-upw",
+  "type": "character",
+  "name": "\"The Expert\" Matt Allen",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "matt-allen-ewa",
+     "the-expert-matt-allen-rspwf"
+    ],
+    "note": "The registry's own matt-allen-ewa shares the exact same bare name with this UPW wrestler but a different fed and no evidence connecting the two beyond the shared name. The registry's own the-expert-matt-allen-rspwf carries the exact same decorated name from the RSPWF Top 200 (2001, tagged AWP/IGA), neither tag corroborated anywhere in UPW's own held text. Both recorded distinct per the no-auto-merge rule."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Little Rock, Arkansas",
+    "source": "promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "Half of the Down South Connection with Kenneth Morlock, debuting 29 December 2016. Won the team's own in-ring debut against Michael Turner and Isaac \"Hooch\" Johnson on 17 January 2017. Lost to Soldiers of the Sun on UPW's own final broadcast (11 April 2017)."
+   }
+  ],
+  "caption": "\"The Expert\" Matt Allen's Down South Connection won its UPW debut and closed out the promotion's own history on the losing side of a title match.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "lenny-masher",
+  "type": "character",
+  "name": "Lenny Masher",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-12-13.html",
+    "grade": "primary-source",
+    "note": "Half of the Columbus Crushers alongside Doug Trasher, jobbing to Soldiers of the Sun in a special-referee tag match worked by a comically biased Sammy Sharifi (13 December 2016). No other appearance found in the held record."
+   }
+  ],
+  "caption": "Lenny Masher's Columbus Crushers lost the one UPW match the surviving record holds for them, despite a referee stacked in their favor.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "doug-trasher",
+  "type": "character",
+  "name": "Doug Trasher",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-12-13.html",
+    "grade": "primary-source",
+    "note": "Half of the Columbus Crushers alongside Lenny Masher, jobbing to Soldiers of the Sun in a special-referee tag match worked by a comically biased Sammy Sharifi (13 December 2016). No other appearance found in the held record."
+   }
+  ],
+  "caption": "Doug Trasher's Columbus Crushers lost the one UPW match the surviving record holds for them, despite a referee stacked in their favor.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "adam-lazarus-upw",
+  "type": "character",
+  "name": "\"The Phoenix\" Adam Lazarus",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "manager — formerly a UPW World Champion (pre-relaunch, broadcast-attested)",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-02-18.html",
+    "grade": "primary-source",
+    "note": "Masked manager of Liam Donegal, billed a former World Champion and rumored-dead ex-reality-TV star; carries a steel-blue cane and, in one segment, a Louisville Slugger. Masked assailant Malcom Shabazz opened Lazarus's head on an exposed turnbuckle (4 October 2016) as an intimidation angle against Donegal. Ejected from ringside for striking Dylan Cardinal during the Fatal Four-Way that crowned UPW's own first post-relaunch World Champion (29 December 2016). Left ringside during a Donegal match (13 December 2016) to protect Donegal's threatened wife and infant son instead."
+   }
+  ],
+  "caption": "\"The Phoenix\" Adam Lazarus managed Liam Donegal through UPW's own opening year, absorbing the worst of the promotion's ugliest angle to protect his client's family.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "velvet-sims-upw",
+  "type": "character",
+  "name": "Velvet Sims",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "Flamboyant, purple-suited manager of Derek Rage throughout UPW's run, present at ringside for Rage's World Heavyweight Championship win over Aaron Lewis at Survival (per the front page's own title report) and his contract-signing face-off ahead of it (18 February 2017). Billed by \"Too Cool\" Chris Hopper as UPW's own longest-reigning World Champion's own manager going into the Ultimate Rumble."
+   }
+  ],
+  "caption": "Velvet Sims managed Derek Rage to UPW's own World Heavyweight Championship, a fixture at ringside through the promotion's final year.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "velvet-wwa"
+    ],
+    "note": "The registry's own aka-collision guard reads this manager's own first name as a normalized substring match against WWA's own velvet-wwa; different fed, no other detail connecting the two beyond the shared first name. Recorded distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "walt-watts",
+  "type": "character",
+  "name": "Walt Watts",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "Manager of Brandon Franklin, introduced backstage after Franklin's Television Championship time-limit draw with Felix Sandoval (17 January 2017), vowing to force a rematch. Present for Franklin's own Ultimate Rumble number draw ahead of Survival."
+   }
+  ],
+  "caption": "Walt Watts managed Brandon Franklin through the back half of UPW's own run, starting with a vow to avenge a Television Title time-limit draw.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "marco-matters",
+  "type": "character",
+  "name": "\"Marvelous\" Marco Matters",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html",
+    "grade": "primary-source",
+    "note": "New signee billed with an ex-military background, prior wrestling in Japan, and a wealthy New York City lifestyle; introduced via a taped vignette (8 November 2016). Won his in-ring debut over Billy \"The Regulator\" James with \"The Masterpiece\" (13 December 2016). Lost to Jeff Keenan (29 December 2016), then was squashed by Chase Williams as a message to World Champion Aaron Lewis (17 January 2017), Williams continuing the beating past the bell."
+   }
+  ],
+  "caption": "\"Marvelous\" Marco Matters debuted with a big-money gimmick and an early win, before Chase Williams used him as a message to Aaron Lewis.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "isaac-hooch-johnson",
+  "type": "character",
+  "name": "Isaac \"Hooch\" Johnson",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — tag team (Turner & Hooch, with Michael Turner)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/bio-turner-and-hooch.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-12-29.html",
+    "grade": "primary-source",
+    "note": "Half of Turner & Hooch with childhood friend Michael Turner, an undrafted college basketball player turned wrestler; declined recruitment into the Warriors alongside Turner (4 October 2016). Wrestled Derek Rage solo, without his partner, on 29 December 2016, losing to Rage's \"Hammer of God.\""
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2020",
+    "last_seen": "2020",
+    "role": "wrestler — tag team (Turner & Hooch)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (openertagapp04.html) and its own card for 11 February 2020 (schedule.html), which bills the team's SCW debut.",
+    "note": "Billed only: no held SCW broadcast stages the team. The 11 February 2020 card reads \"In a tag team debut, Michael Turner and Isaac \\\"Hooch\\\" Johnson make their entrance into SCW's tag team division with a battle against Thunder & Lightening!\""
+   }
+  ],
+  "caption": "Isaac \"Hooch\" Johnson's Turner & Hooch turned down a spot in the Warriors before Johnson took a solo loss to Derek Rage late in UPW's own run.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "One character across UPW and SCW, as half of Turner & Hooch. One team across UPW and SCW. SCW's own application (openertagapp04.html) is UPW's own bio card word for word, both members' vitals and histories included, and still narrates the UPW signing (\"A little over a year later the UPW called Micheal to come up ... UPW gladly obligated and accepted the two as a tag team\"). SCW's own card for 11 February 2020 books them against Thunder & Lightning in \"a tag team debut\" for \"the journeyman duo\", the same match UPW's own card for 25 April 2017 had booked and never played."
+   }
+  ]
+ },
+ {
+  "id": "michael-turner-upw",
+  "type": "character",
+  "name": "Michael Turner",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [],
+    "note": "A common enough name that the registry's own aka-collision guard is expected to soft-warn against unrelated entities; nothing in this UPW wrestler's own record connects him to any other registered Michael Turner."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "One character across UPW and SCW, as half of Turner & Hooch. One team across UPW and SCW. SCW's own application (openertagapp04.html) is UPW's own bio card word for word, both members' vitals and histories included, and still narrates the UPW signing (\"A little over a year later the UPW called Micheal to come up ... UPW gladly obligated and accepted the two as a tag team\"). SCW's own card for 11 February 2020 books them against Thunder & Lightning in \"a tag team debut\" for \"the journeyman duo\", the same match UPW's own card for 25 April 2017 had booked and never played."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "wrestler — tag team (Turner & Hooch, with Isaac \"Hooch\" Johnson)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/bio-turner-and-hooch.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2017-01-17.html",
+    "grade": "primary-source",
+    "note": "Half of Turner & Hooch with childhood friend Isaac \"Hooch\" Johnson, a former University of Georgia running back; declined recruitment into the Warriors alongside Johnson (4 October 2016). Turner & Hooch lost the Down South Connection's own in-ring debut (17 January 2017), Turner caught in the finish."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2020",
+    "last_seen": "2020",
+    "role": "wrestler — tag team (Turner & Hooch)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "The federation's own tag-team application page (openertagapp04.html) and its own card for 11 February 2020 (schedule.html), which bills the team's SCW debut.",
+    "note": "Billed only: no held SCW broadcast stages the team. The 11 February 2020 card reads \"In a tag team debut, Michael Turner and Isaac \\\"Hooch\\\" Johnson make their entrance into SCW's tag team division with a battle against Thunder & Lightening!\""
+   }
+  ],
+  "caption": "Michael Turner's Turner & Hooch turned down the Warriors' recruitment pitch and later fell to the Down South Connection's own debut.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "derrick-dj-jackson-upw",
+  "type": "character",
+  "name": "Derrick \"DJ\" Jackson",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-12-13.html",
+    "grade": "primary-source",
+    "note": "Glenn Chambers's amateur-wrestling protégé, an eighteen-year-old college student wrestling under a false pretense (an \"unsanctioned exhibition,\" to protect his amateur eligibility) that turned into a real beatdown by Dylan Cardinal, who faked a bandaged arm for the whole match before dropping the act. The referee stopped the match rather than let it continue; Chambers arrived too late for the save. Fan-tweeted well wishes during Jackson's hospitalization are referenced on the following two broadcasts, driving Chambers's own feud with Cardinal for the rest of UPW's run. No further in-ring appearance found."
+   }
+  ],
+  "caption": "Derrick \"DJ\" Jackson's lone UPW appearance was a lured-in beatdown by Dylan Cardinal that hospitalized him and fueled Glenn Chambers's feud with Cardinal for the rest of the promotion's life.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ronnie-d-upw",
+  "type": "character",
+  "name": "\"Playboy\" Ronnie D",
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "note": "Consolidated under the standing rule (see the collision-rule erratum, 2026-08-30): the decorated ring name \"\\\"Playboy\\\" Ronnie D\" is otherwise unique in the registry. UPW's own broadcast text independently names EMWC as one of this wrestler's own prior federations (alongside two others, IIWF and IIeW, neither on file) — UPW's own document naming the exact acronym the RSPWF Top 200 tags this ranked wrestler with in 1998. playboy-ronnie-d-rspwf is retired on that primary-source join; its RSPWF Top 200 bestowals repoint here.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/news-2017-04-12.html; promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "Billed a legendary cross-promotional draw out of fictional feds IIWF, IIeW and EMWC; competed in UPW's own Ultimate Rumble at Survival. Announced 11 April 2017 as the first of five inductees into UPW's own planned 2017 Hall of Fame class, to be formally honored at Slamfest VI — a card the promotion's own closure, twelve days later, meant never aired. Co-host Robert \"The Gorilla\" Smith separately recalled wrestling him \"in NeCW back in the day\" on the same broadcast — a further fed, not one the RSPWF placement itself tags, but consistent with the same well-traveled billing."
+   }
+  ],
+  "caption": "\"Playboy\" Ronnie D was announced as UPW's own first 2017 Hall of Fame inductee days before the promotion closed, the induction itself never held.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 2,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "archibald-smythe",
+  "type": "character",
+  "name": "Archibald Smythe",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "Billed the longest-tenured member of UPW's own developmental territory, the IXWA; drew a number for the Survival Ultimate Rumble, reacting with visible frustration at the number he pulled."
+   }
+  ],
+  "caption": "Archibald Smythe, IXWA's own longest-tenured wrestler, drew an Ultimate Rumble number he clearly didn't want.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ryan-keys-upw",
+  "type": "character",
+  "name": "Ryan Keys",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "IXWA developmental wrestler drawing a number for the Survival Ultimate Rumble; self-billed the promotion's own longest-reigning Light Heavyweight Champion, cutting a megaphone-assisted trash-talk promo aimed at the UPW locker room."
+   }
+  ],
+  "caption": "Ryan Keys talked up his own IXWA Light Heavyweight reign on his way into UPW's own Ultimate Rumble.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "shawn-watson-upw",
+  "type": "character",
+  "name": "\"Showtime\" Shawn Watson",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/survival-preview-show.html",
+    "grade": "billing",
+    "note": "Named by the announce team, alongside Archibald Smythe and Ryan Keys, as one of three IXWA developmental wrestlers entering UPW's own Survival Ultimate Rumble — billed only, with no vignette or dialogue of his own in the surviving text."
+   }
+  ],
+  "caption": "\"Showtime\" Shawn Watson was billed into UPW's own Ultimate Rumble as one of three IXWA call-ups, with no scene of his own in the surviving record.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "chris-hopper-upw",
+  "type": "character",
+  "name": "\"Too Cool\" Chris Hopper",
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "note": "Consolidated under the standing rule (see the collision-rule erratum, 2026-08-30): the decorated ring name \"\\\"Too Cool\\\" Chris Hopper\" is otherwise unique in the registry. UPW's own broadcast text corroborates the join directly — on the Survival preview desk, Hopper tells co-host Robert \"The Gorilla\" Smith \"we were both in those old UEW rumbles of the past,\" and Smith agrees (survival-preview-show.html) — UPW's own document independently naming UEW, the exact acronym the RSPWF Top 200 tags this ranked wrestler with across three of its four editions (1998-2000; NeCW in 1997). The too-cool-chris-hopper-rspwf placeholder is retired on that primary-source join; its RSPWF Top 200 bestowals repoint here. The too-cool-chris-hopper-wwo row (a held WWO bio card) carries the identical rare decorated name with no contrary tag and no competing claimant anywhere in the registry — folded in as this row's own wwo tenure on the strength of that shared uniqueness riding alongside the confirmed UPW/RSPWF join, rather than on independent WWO-side corroboration of its own.",
+    "with": []
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "authority-figure — minority owner; wrestler (retired, broadcast-attested)",
+    "roles": [
+     "authority-figure",
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "Named 13 December 2016 as the UPW minority owner who purchased a promotion called GEW (its library, roster and intellectual property, minus its women's division, folding into UPW — Windham Brody's own prior GEW Television Championship among the assets that followed). Thomas Grissom later credits him with originally signing Rick Styles \"at a considerable amount of money.\" Appeared live at the Survival preview desk alongside the regular announce team, discussing the Ultimate Rumble field and UPW's own move away from TTW's old double-elimination Rumble format; recalled sharing old UEW Rumble experiences with Robert Smith."
+   },
+   {
+    "promotion": "wwo",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'8",
+    "weight": "288",
+    "alignment": "Scrupulous",
+    "hometown": "Paoli, Indiana",
+    "source": "the fed's own bio card (promotions/wwo/archive/bio-card-chris-hopper.html)",
+    "note": "Undated on the card itself; 2003 is the Wayback capture year, a roster-snapshot date, not an attested tenure span."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "roles": [
+     "authority-figure"
+    ],
+    "role": "authority-figure — Commissioner and later Executive Vice President of Talent Relations",
+    "grade": "primary-source",
+    "source": "The federation's own Rampage broadcasts, served as /promotions/scw-southwestern-2019/archive/rampage0007.html (introduced by name and title, seated at the Rampage desk).",
+    "note": "The federation's own rampage0007.html seats him at the Rampage desk beside co-host Robert \"The Gorilla\" Smith, the same co-host name already carried on this row's own UPW tenure. Smith recalls, \"We were one of the top tag teams for the better part of the late nineties,\" which Hopper does not deny (\"Yes it has... Glad to see you be part of this here in Texas\"). The federation's own faq.html separately names a real, out-of-character booking-committee member of the same two-part name; that self-introduction is redacted where faq.html is served, since it names a person out of fiction rather than staging this row's own on-screen persona."
+   }
+  ],
+  "caption": "\"Too Cool\" Chris Hopper bought a rival promotion's assets into UPW as its own minority owner and, on the Survival preview desk, traded old-war-story Rumble memories with Robert Smith.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 4,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "ralph-upw",
+  "type": "character",
+  "name": "Ralph",
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "manager — ringside attendant to Rick Styles; wrestler (one comedy squash)",
+    "roles": [
+     "manager",
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "Pulled from the crowd as a comic prop and \"hired\" as Rick Styles's own corner man (20 September 2016). Urinated on John Herdick's back on Styles's own order (\"Peegate,\" 8 November 2016), for which Herdick beat Ralph almost instantly in a comedy squash (13 December 2016) after Ralph fainted from fear on contact — his own only in-ring appearance. Added his own weight to help Styles cheat a pinfall over Herdick (29 December 2016). Present at Styles's side for the Survival number draw."
+   }
+  ],
+  "caption": "Ralph, plucked from the crowd to be Rick Styles's own corner man, spent his UPW run absorbing the fallout of Styles's own worst schemes — including the one everyone still calls \"Peegate.\"",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "erin-brokovich-upw",
+  "type": "character",
+  "name": "Erin Brokovich",
+  "aka": [
+   "Erin"
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "manager — ringside attendant/valet to Rick Styles",
+    "roles": [
+     "manager"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "Billed a self-described superfan of Rick Styles, introduced by her full name (a parody of the real Erin Brockovich) on UPW's own debut show and thereafter credited only as \"Erin.\" A fixture of Styles's own ringside entourage through the promotion's life, including his own Survival number draw."
+   }
+  ],
+  "caption": "Erin Brokovich's superfan devotion to Rick Styles made her a fixture at his side for the whole of UPW's own run.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "phil-coulter-upw",
+  "type": "character",
+  "name": "Phil Coulter",
+  "aka": [
+   "Paul Coulter"
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "authority-figure — CEO",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "promotions/upw/archive/faq.html; promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-29.html",
+    "grade": "primary-source",
+    "note": "UPW's own CEO, per its FAQ deliberately kept off-camera (\"the most successful figureheads are the ones who don't concern themselves with being on TV\") and named but never shown across every served episode. Called \"Paul Coulter\" once, on UPW's own debut broadcast, against \"Phil Coulter\" everywhere else including the FAQ's own byline — carried as an aka rather than corrected. Robert \"The Gorilla\" Smith's own on-air outburst (\"You tell Coulter and the rest of them to keep me the hell away from him!\", 11 April 2017) addresses him by surname alone, consistent with this identification."
+   }
+  ],
+  "caption": "Phil Coulter ran UPW as its own deliberately camera-shy CEO, named on nearly every broadcast and shown on none of them.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "stan-conlon-upw",
+  "type": "character",
+  "name": "\"The Man\" Stan Conlon",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "commentator — play-by-play",
+    "roles": [
+     "commentator"
+    ],
+    "source": "promotions/upw/archive/faq.html; promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "UPW's own taped-match play-by-play announcer opposite Pepper Jackson, per the FAQ a deliberately dry, old-school caller in the Gordon Solie mold. Called every Showdown match across the promotion's full run, plus the Survival preview show."
+   }
+  ],
+  "caption": "\"The Man\" Stan Conlon's dry, old-school play-by-play called every match UPW ever broadcast.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "pepper-jackson-upw",
+  "type": "character",
+  "name": "Pepper Jackson",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "commentator — color",
+    "roles": [
+     "commentator"
+    ],
+    "source": "promotions/upw/archive/faq.html; promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "UPW's own taped-match color commentator opposite Stan Conlon, per the FAQ a wrestling newcomer brought in for flair and sharp wit rather than technical knowledge. Ran a recurring racially charged commentary bit throughout Malcom Shabazz's matches. Called every Showdown episode across the promotion's full run."
+   }
+  ],
+  "caption": "Pepper Jackson's brash color commentary, deliberately short on technical wrestling knowledge, ran opposite Stan Conlon on every Showdown UPW aired.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "eric-chaney-upw",
+  "type": "character",
+  "name": "Eric Chaney",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "commentator — studio host",
+    "roles": [
+     "commentator"
+    ],
+    "source": "promotions/upw/archive/faq.html; promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "UPW's own studio anchor for Showdown, per the FAQ a veteran announcer in his mid-40s brought in to host segments in the studio around the taped in-ring action. Hosted every Showdown episode and the Survival preview show, including the on-air round table with minority owner Chris Hopper."
+   }
+  ],
+  "caption": "Eric Chaney anchored UPW's own studio desk for the whole of Showdown's run, right through the Survival preview show.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "robert-gorilla-smith-upw",
+  "type": "character",
+  "name": "Robert \"The Gorilla\" Smith",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "commentator — studio co-host; wrestler (retired, broadcast-attested)",
+    "roles": [
+     "commentator",
+     "wrestler"
+    ],
+    "source": "promotions/upw/archive/faq.html; promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "UPW's own Showdown studio co-host opposite Eric Chaney, per the FAQ formerly \"The Gorilla\" of tag team the Crazed Animals. Recalled sharing old UEW Rumble war stories, and wrestling \"Too Cool\" Chris Hopper in NeCW, on the Survival preview desk (see Hopper's own entry). Had an on-air profanity outburst reacting to Rick Styles's attack on Aaron Lewis (11 April 2017), formally apologizing to the audience the following segment."
+   }
+  ],
+  "caption": "Robert \"The Gorilla\" Smith brought a retired tag-team wrestler's own war stories to UPW's studio desk for the whole of the promotion's run.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 9,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dyan-ciccarelli",
+  "type": "character",
+  "name": "Dyan Ciccarelli",
+  "aka": [
+   "Dyan Cicarelli",
+   "Dyan Cicarrelli"
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "bio-explicit",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "interviewer — backstage",
+    "roles": [
+     "other"
+    ],
+    "source": "promotions/upw/archive/faq.html; promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "UPW's own lead backstage interviewer, per the FAQ its own answer to \"looks, body, charisma and brains\" for interview segments; conducted the great majority of UPW's own backstage promos across the full run. Her own name is misspelled at least twice in the served text (\"Cicarelli,\" \"Cicarrelli\") against the dominant \"Ciccarelli\" spelling used in her own dialogue tags."
+   }
+  ],
+  "caption": "Dyan Ciccarelli conducted nearly every backstage interview UPW ever aired.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 5,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "thomas-grissom-upw",
+  "type": "character",
+  "name": "Thomas Grissom",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "authority-figure — VP of Talent Relations / road agent",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "promotions/upw/archive/faq.html; promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "UPW's own VP of Talent Relations, per the FAQ (billed there as \"road agent\") a 25-year road-agent veteran and former wrestler with an estranged son also in the business. Made and enforced on-air rulings throughout UPW's run: confronting Malcom Shabazz over insubordination (8 November 2016), booking an impromptu no-DQ match on the spot (29 December 2016), naming special referees, and setting stipulations for Survival. Hospitalized on 18 February 2017 in a brawl for which Malcom Shabazz was arrested; sucker-punched by Rick Styles trying to intervene in the arson attack on Aaron Lewis (11 April 2017)."
+   }
+  ],
+  "caption": "Thomas Grissom's on-air rulings shaped UPW's own storylines from the promotion's first months to its last, at the physical cost of a hospitalization and a sucker punch along the way.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jesse-williams-upw",
+  "type": "character",
+  "name": "Jesse Williams",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "authority-figure — head trainer",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "promotions/upw/archive/faq.html; promotions/upw/archive/bio-gordon-gaines.html",
+    "grade": "primary-source",
+    "note": "UPW's own head trainer, running the \"Sniper's Shot\" wrestling school in Pittsburgh per the FAQ, with a promised annual graduating class each June. \"Good\" Gordon Gaines's own bio card credits him by name as the trainer who developed Gaines's in-ring persona at an earlier promotion (End Zone Wrestling) before recommending him to UPW."
+   }
+  ],
+  "caption": "Jesse Williams trained UPW's own talent pipeline through his Pittsburgh wrestling school, developing at least one bio-card wrestler's whole in-ring persona before UPW ever signed him.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "steve-blaine-upw",
+  "type": "character",
+  "name": "Steve Blaine",
+  "aka": [
+   "Thomas Blaine"
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "role": "interviewer — backstage / ring announcer for number draws",
+    "roles": [
+     "other"
+    ],
+    "source": "promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html; promotions/upw/archive/survival-preview-show.html",
+    "grade": "primary-source",
+    "note": "UPW's own second interviewer, debuting 18 February 2017 as a contract-signing MC; hosted every Ultimate Rumble number draw on the Survival preview show and interviewed Rick Styles after the arson attack on Aaron Lewis (11 April 2017). Called \"Thomas Blaine\" once by Stan Conlon on the promotion's own final broadcast, against \"Steve\" everywhere else including his own dialogue tags."
+   }
+  ],
+  "caption": "Steve Blaine joined UPW's announce team late in its run and ended up hosting the promotion's biggest number draw and its ugliest post-match interview alike.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "adam-warzowitz",
+  "type": "character",
+  "name": "Adam Warzowitz",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "referee"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-11-08.html",
+    "grade": "primary-source",
+    "note": "Named referee for the Glenn Chambers/Jeff Keenan World Heavyweight Title tournament qualifier (8 November 2016) — one of only two named referees the held record's commentary calls out by name across all nine served UPW broadcasts."
+   }
+  ],
+  "caption": "Adam Warzowitz is one of only two UPW referees the surviving broadcasts ever name.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "alfonso-gomez-upw",
+  "type": "character",
+  "name": "Alfonso Gomez",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2016",
+    "roles": [
+     "referee"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-11-08.html",
+    "grade": "primary-source",
+    "note": "Named referee for the Hype/Dominion tag match (8 November 2016), the Dominion's own in-ring UPW debut — the commentary jokes he \"lost control\" of the match. One of only two named referees the held record's commentary calls out by name across all nine served UPW broadcasts."
+   }
+  ],
+  "caption": "Alfonso Gomez refereed the Dominion's own UPW debut and, per the commentary, lost control of it almost immediately.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "rob-garcia-upw",
+  "type": "character",
+  "name": "Rob Garcia",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "referee"
+    ],
+    "source": "promotions/upw/archive/showdown-2017-02-18.html",
+    "grade": "primary-source",
+    "note": "Named referee for the Glenn Chambers/Chad Allen North American Title tournament first-round match (18 February 2017), repeatedly distracted by manager Iris Galiver."
+   }
+  ],
+  "caption": "Rob Garcia refereed a North American Title tournament match while Iris Galiver worked every angle to distract him.",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "pedro-bell-upw",
+  "type": "character",
+  "name": "Pedro Bell",
+  "aka": [
+   "Pedro Boyd"
+  ],
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "roles": [
+     "referee"
+    ],
+    "source": "promotions/upw/archive/showdown-2017-02-18.html",
+    "grade": "primary-source",
+    "note": "Named referee for the Percy Monroe/Tripp Skylark match (18 February 2017), missing an illegal rope-grab that decided the finish. Called \"Pedro Bell\" ten times in the same segment against a single \"Pedro Boyd\" — carried as an aka rather than corrected."
+   }
+  ],
+  "caption": "Pedro Bell missed the rope-grab that decided a Percy Monroe match, the served text calling him \"Bell\" ten times to one lone \"Boyd.\"",
+  "caption_asof": {
+   "written": "2026-08-30",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "sammy-sharifi-upw",
+  "type": "character",
+  "name": "\"The Djinn\" Sammy Sharifi",
+  "tenures": [
+   {
+    "promotion": "upw",
+    "first_seen": "2016",
+    "last_seen": "2017",
+    "role": "manager; referee (one special appearance)",
+    "roles": [
+     "manager",
+     "referee"
+    ],
+    "source": "promotions/upw/archive/showdown-2016-09-20.html; promotions/upw/archive/showdown-2016-10-04.html; promotions/upw/archive/showdown-2016-11-08.html; promotions/upw/archive/showdown-2016-12-13.html; promotions/upw/archive/showdown-2016-12-29.html; promotions/upw/archive/showdown-2017-01-17.html; promotions/upw/archive/showdown-2017-02-18.html; promotions/upw/archive/showdown-2017-04-11.html",
+    "grade": "primary-source",
+    "note": "Manager of the Warriors, billed comically tiny (\"the size of a twelve year old\"). Worked as special guest referee for a Soldiers of the Sun/Columbus Crushers tag match (13 December 2016), openly favoring the Crushers with fast counts and one-sided warnings — the Soldiers won anyway. Interfered on the Warriors' own behalf during their Tag Title defense against the Dominion (17 January 2017). Called \"The Hound\" once in the debut broadcast's own main event commentary, against \"The Djinn\" everywhere else — an in-document inconsistency, not corrected."
+   }
+  ],
+  "caption": "\"The Djinn\" Sammy Sharifi's tiny frame belied a manager who could turn a special-referee assignment into pure theater for his own team.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "johnny-psychotic-upw",
+  "type": "character",
+  "name": "\"The Human Heart Attack\" Johnny Psychotic",
+  "aka": [
+   "Johnny Psychotic",
+   "The Human Heart Attack"
+  ],
+  "caption": "A loner from Long Island who trusts only Damian Payne and manager Tiberius Nixon, Johnny Psychotic finishes with a top-rope superplex called the PsychoPlex.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "upw",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'2\"",
+    "weight": "263 lbs",
+    "hometown": "Long Island, NY",
+    "alignment": "Tweener",
+    "style": "Risk taker, all-arounder",
+    "finisher": "PsychoPlex (top rope superplex)",
+    "entrance_music": {
+     "title": "Checkmate (Hang 'Em High Remix)",
+     "artist": "Cypress Hill",
+     "verbatim": "\"Checkmate (Hang 'Em High Remix)\" by Cypress Hill"
+    },
+    "manager": "\"Studd Muffin\" Tiberius Nixon",
+    "first_seen": "2018",
+    "last_seen": "2018",
+    "source": "promotions/upw/archive/bio-johnny-psychotic.html (roster bio card); promotions/upw/archive/bio-ambassadors-of-napalm.html; promotions/upw/archive/schedule-2018-10-01.html",
+    "grade": "primary-source",
+    "note": "Billed against Gordon Gaines on the dark card of 1 October 2018. His card lists tag titles in the ICWF, IXWA and RXWA with a former partner, and names Damian Payne and Tiberius Nixon as the only men he trusts."
+   },
+   {
+    "promotion": "scw-southwestern-2019",
+    "first_seen": "2019",
+    "last_seen": "2020",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "alignment": "Tweener",
+    "height": "6'2\"",
+    "weight": "263 lbs",
+    "hometown": "Long Island, NY",
+    "style": "Risk taker, all-arounder",
+    "finisher": "PsychoPlex (top rope superplex)",
+    "entrance_music": {
+     "title": "Checkmate (Hang 'Em High Remix)",
+     "artist": "Cypress Hill",
+     "verbatim": "\"Checkmate (Hang 'Em High Remix)\" by Cypress Hill"
+    },
+    "grade": "primary-source",
+    "source": "The federation's own wrestler application page (app009.html) and its own Rampage broadcasts."
+   }
+  ]
+ },
+ {
+  "id": "jimmy-gibson-upw",
+  "type": "character",
+  "name": "\"Jammin'\" Jimmy Gibson",
+  "aka": [
+   "Jimmy Gibson",
+   "JJG"
+  ],
+  "caption": "A former Second City champion back from a Japanese tour, \"Jammin'\" Jimmy Gibson is an old-school brawler who finishes with a twisting brainbuster called the Hurricane.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "upw",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'0\"",
+    "weight": "235 lbs",
+    "hometown": "Atlanta, GA",
+    "alignment": "Face",
+    "style": "Technical old school brawler",
+    "finisher": "The Hurricane (twisting brainbuster)",
+    "entrance_music": {
+     "title": "Rock You Like a Hurricane",
+     "artist": "the Scorpions",
+     "verbatim": "\"Rock You Like a Hurricane\" by the Scorpions"
+    },
+    "manager": "Princess (not currently used)",
+    "first_seen": "2018",
+    "last_seen": "2018",
+    "source": "promotions/upw/archive/bio-jimmy-gibson.html (roster bio card); promotions/upw/archive/news-2018-09-07.html; promotions/upw/archive/schedule-2018-10-01.html",
+    "grade": "primary-source",
+    "note": "His card has him a former SCW champion who toured Japan after the league closed; a 7 September 2018 Dirtsheet interview has him weighing a return to UPW, and the 1 October 2018 card bills him against Billy James."
+   }
+  ]
+ },
+ {
+  "id": "colm-larsen-upw",
+  "type": "character",
+  "name": "Colm Larsen",
+  "caption": "A quiet 23-year-old Dane with an MMA background, Colm Larsen came to UPW to win championships and not to sell merchandise.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "upw",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "5'6\"",
+    "weight": "170 lbs",
+    "hometown": "Frederiksberg, Denmark",
+    "alignment": "Face",
+    "style": "Technician/MMA",
+    "first_seen": "2018",
+    "last_seen": "2018",
+    "source": "promotions/upw/archive/bio-colm-larsen.html (roster bio card); promotions/upw/archive/schedule-2018-10-01.html",
+    "grade": "primary-source",
+    "note": "A 23-year-old Danish technician with an MMA background; his card names a crossface chickenwing as his finisher. Billed against Windham Brody on the 1 October 2018 card."
+   }
+  ]
+ },
+ {
+  "id": "greg-johnson-upw",
+  "type": "character",
+  "name": "\"Grey Bear\" Greg Johnson",
+  "aka": [
+   "Greg Johnson",
+   "Grey Bear"
+  ],
+  "caption": "A barrel-chested, thumb-in-the-eye brawler from the north side of Chicago, \"Grey Bear\" Greg Johnson is the loose cannon of the Gentrifiers.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "upw",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'4\"",
+    "weight": "260 lbs",
+    "hometown": "Chicago, IL",
+    "alignment": "Heel",
+    "style": "Roughhouse brawler",
+    "finisher": "Polar Bear Plunge (hanging fishermanbuster)",
+    "first_seen": "2018",
+    "last_seen": "2018",
+    "source": "promotions/upw/archive/bio-the-gentrifiers.html (roster bio card); promotions/upw/archive/schedule-2018-10-01.html",
+    "grade": "primary-source",
+    "note": "Half of the Gentrifiers with Pete Olsen; the team's finisher is Urban Renewal, a spiked fishermanbuster."
+   }
+  ]
+ },
+ {
+  "id": "pete-olsen-upw",
+  "type": "character",
+  "name": "\"Grizzly\" Pete Olsen",
+  "aka": [
+   "Pete Olsen",
+   "Grizzly"
+  ],
+  "caption": "A gum-chewing, curly-haired bruiser from Chicago, \"Grizzly\" Pete Olsen is the plan behind the Gentrifiers' loose cannon.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "upw",
+    "roles": [
+     "wrestler"
+    ],
+    "height": "6'5\"",
+    "weight": "263 lbs",
+    "hometown": "Chicago, IL",
+    "alignment": "Heel",
+    "style": "Old-school bruiser",
+    "finisher": "Kodiak Armbar (Fujiwara armbar)",
+    "first_seen": "2018",
+    "last_seen": "2018",
+    "source": "promotions/upw/archive/bio-the-gentrifiers.html (roster bio card); promotions/upw/archive/schedule-2018-10-01.html",
+    "grade": "primary-source",
+    "note": "Half of the Gentrifiers with Greg Johnson; his card calls him the one who aims his partner."
+   }
+  ]
+ },
+ {
+  "id": "tiberius-nixon-upw",
+  "type": "character",
+  "name": "\"Studd Muffin\" Tiberius Nixon",
+  "aka": [
+   "Tiberius Nixon"
+  ],
+  "caption": "A denim-clad middle-aged manager who prefers to be called Nixon, \"Studd Muffin\" Tiberius Nixon walks Damian Payne and Johnny Psychotic to the ring.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "upw",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2018",
+    "last_seen": "2018",
+    "source": "promotions/upw/archive/bio-ambassadors-of-napalm.html (roster bio card); promotions/upw/archive/bio-johnny-psychotic.html",
+    "grade": "primary-source",
+    "note": "Manager of Johnny Psychotic and Damian Payne; his card says he hates the name Tiberius and prefers Nixon."
+   }
+  ]
+ },
+ {
+  "id": "rj-souza-upw",
+  "type": "character",
+  "name": "\"Bad Karma\" RJ Souza",
+  "aka": [
+   "RJ Souza"
+  ],
+  "caption": "Billed by the announcers as a three-time CWF World Champion, \"Bad Karma\" RJ Souza entered the 2017 Ultimate Rumble at number seven and was thrown out by Antonio De Luca.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "upw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "source": "promotions/upw/archive/survival-ultimate-rumble-2017-03-05.html",
+    "grade": "primary-source",
+    "note": "Billed by the announcers as a three-time CWF World Champion; entered the 2017 Ultimate Rumble at number seven and was eliminated by Antonio De Luca."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rj-souza-rspwf"
+    ],
+    "note": "The RSPWF Top 200 of 2004 places an RJ Souza at #192, tagged ECLW; the Rumble bills this wrestler from the CWF and names no ECLW, so nothing joins the two and they are kept apart."
+   }
+  ]
+ },
+ {
+  "id": "ken-curtis-upw",
+  "type": "character",
+  "name": "\"Cowboy\" Ken Curtis",
+  "aka": [
+   "Ken Curtis"
+  ],
+  "caption": "Hailed by the announcers as a returning legend, \"Cowboy\" Ken Curtis entered the 2017 Ultimate Rumble at number twenty-six and lasted until Dylan Cardinal threw him out in seventh place.",
+  "caption_asof": {
+   "written": "2026-10-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "upw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2017",
+    "last_seen": "2017",
+    "source": "promotions/upw/archive/survival-ultimate-rumble-2017-03-05.html",
+    "grade": "primary-source",
+    "note": "Entered the 2017 Ultimate Rumble at number twenty-six to the announcers' surprise as a returning legend, eliminated Malcom Shabazz and Playboy Ronnie D, and finished seventh, thrown out by Dylan Cardinal."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ken-curtis-scra",
+     "ken-curtis-rspwf"
+    ],
+    "note": "The RSPWF polls place a \"Cowboy\" Ken Curtis at #8 in 1998 (tagged SCRA) and #23 in 2000 (tagged LVPWA), and a Ken Curtis among 1998's Top 100 Brawlers; the Rumble calls this wrestler a legend of earlier years but names none of his federations, so nothing joins them and they are kept apart."
+   }
+  ]
+ }
+]

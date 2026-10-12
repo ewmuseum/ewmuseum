@@ -1,0 +1,91 @@
+[
+ {
+  "id": "old-age-outlaws-mcw-mc-1999",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "The Old Age Outlaws",
+  "caption": "A veteran cowboy-gimmick tag team, wrestling with walkers and a motorized scooter, that lost the promotion's own tag title at its January 1999 pay-per-view.",
+  "caption_asof": {
+   "written": "2026-09-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "members": [
+   "jesse-james-mcw-mc-1999",
+   "billy-the-kid-mcw-mc-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "mcw-mentally-challenged-1999",
+    "first_seen": "1999-01-22",
+    "last_seen": "1999-01-22",
+    "source": "the promotion's own \"Rudolph Burgers 2: Kiss The Chef!\" pay-per-view, 22 January 1999"
+   }
+  ]
+ },
+ {
+  "id": "leng-and-moogoo-mcw-mc-1999",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Leng and MooGoo",
+  "caption": "Two members of a three-man stable who won the promotion's own tag title at its January 1999 pay-per-view.",
+  "caption_asof": {
+   "written": "2026-09-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "members": [
+   "leng-decapitator-mcw-mc-1999",
+   "moogoo-mangler-mcw-mc-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "mcw-mentally-challenged-1999",
+    "first_seen": "1999-01-22",
+    "last_seen": "1999-02-20",
+    "source": "the promotion's own \"Rudolph Burgers 2: Kiss The Chef!\" pay-per-view, 22 January 1999"
+   }
+  ]
+ },
+ {
+  "id": "unholy-three-mcw-mc-1999",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "The Unholy Three",
+  "caption": "A three-man stable that entered the ring together in hooded robes at the promotion's own January 1999 pay-per-view.",
+  "caption_asof": {
+   "written": "2026-09-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "members": [
+   "habeeb-torturer-mcw-mc-1999",
+   "leng-decapitator-mcw-mc-1999",
+   "moogoo-mangler-mcw-mc-1999"
+  ],
+  "tenures": [
+   {
+    "promotion": "mcw-mentally-challenged-1999",
+    "first_seen": "1999-01-22",
+    "last_seen": "1999-01-22",
+    "source": "the promotion's own \"Rudolph Burgers 2: Kiss The Chef!\" pay-per-view, 22 January 1999"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-unholy-three-wwa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-unholy-three-wwa"
+    ]
+   }
+  ]
+ }
+]

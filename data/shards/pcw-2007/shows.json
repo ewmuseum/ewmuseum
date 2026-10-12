@@ -1,0 +1,179 @@
+[
+ {
+  "id": "pcw-2007-friday-night-fights-2007-03-03",
+  "type": "show",
+  "name": "Friday Night Fights",
+  "promotion": "pcw-2007",
+  "date": {
+   "date": "2007-03-03",
+   "precision": "exact",
+   "source": "The promotion's own results column, posted 3 March 2007, narrated as watched live by Duke Williams while scouting the fed for a takeover"
+  },
+  "page": "/promotions/pcw-2007/archive/malice-show-1-part-2-the-show-2007-03-03.html",
+  "collection": "0151",
+  "appearances": [
+   {
+    "who": "bad-guy-bag-man-myers-pcw-2007",
+    "kind": "match"
+   },
+   {
+    "who": "burt-perlow-pcw-2007",
+    "kind": "match"
+   },
+   {
+    "who": "stinky-pete-pcw-2007",
+    "kind": "match"
+   },
+   {
+    "who": "steve-larson-pcw-2007",
+    "kind": "match"
+   },
+   {
+    "who": "guy-mcver-pcw-2007",
+    "kind": "match"
+   },
+   {
+    "who": "judy-mcdreemy-pcw-2007",
+    "kind": "match"
+   },
+   {
+    "who": "death-anderson-pcw-2007",
+    "kind": "match"
+   },
+   {
+    "who": "big-elwood-pcw-2007",
+    "kind": "billed",
+    "source": "PCW's own \"Friday Night Fights\" results column: Elwood defends the PCW World Title in the show's own main event, a three-way whose other participants cannot be reliably identified (see show notes)"
+   },
+   {
+    "who": "ed-butkis-pcw-2007",
+    "kind": "billed",
+    "source": "PCW's own \"Friday Night Fights\" results column: Butkis calls the show on commentary"
+   },
+   {
+    "who": "sheik-sandwich-pcw-2007",
+    "kind": "billed",
+    "source": "PCW's own \"Friday Night Fights\" results column: Sandwich calls the show on commentary"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "bad-guy-bag-man-myers-pcw-2007"
+     ],
+     [
+      "burt-perlow-pcw-2007"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "Perlow pinned Myers with an inside cradle after a Supper DDT."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "steve-larson-pcw-2007"
+     ],
+     [
+      "stinky-pete-pcw-2007"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "Stinky Pete forced Larson to tap to a chinlock deathlock."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "judy-mcdreemy-pcw-2007"
+     ],
+     [
+      "guy-mcver-pcw-2007"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "McVer submitted McDreemy with a leglock."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "bad-guy-bag-man-myers-pcw-2007"
+     ],
+     [
+      "death-anderson-pcw-2007"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "The results column's own prose narrates this bout as \"The Hamburgler\" vs. Death Anderson, while the ring announcer's own call names Bad Guy Bag Man Myers as Anderson's opponent -- the source text is internally inconsistent about which heel Anderson faced. Recorded against Myers per the announcer's own ring introduction, the more specific of the two conflicting cues; Anderson won by pinfall."
+   }
+  ],
+  "notes": "The card's own main event -- a three-way PCW World Title defense by Big Elwood against Pedophile Man and Sergeant Peper -- is not structured as a match: the source text's own play-by-play names only Elwood and \"Pedophile Man\" in the recap and, once, an unexplained third name (\"Sudhir Sundasunderam\") in a single passage that does not otherwise appear anywhere in the held record, so the bout's own participants cannot be pinned down reliably. Elwood's own retention is recorded via the reign row instead (see titles.json/reigns.json). Pedophile Man and Sergeant Peper are not minted as characters, since neither appears anywhere else in the held record beyond that one advertisement/recap. The Hamburgler, a masked entrant billed by that name only in this show's own fourth match, is not minted as a separate character from Bad Guy Bag Man Myers given the source text's own inconsistency described in that match's note."
+ },
+ {
+  "id": "pcw-2007-pcw-live-2007-03-22",
+  "type": "show",
+  "name": "PCW Live",
+  "promotion": "pcw-2007",
+  "date": {
+   "date": "2007-03-22",
+   "precision": "exact",
+   "source": "The fed's own results column for its debut broadcast under the PCW name, posted 22 March 2007"
+  },
+  "page": "/promotions/pcw-2007/archive/malice-2-part-1-2007-03-22.html",
+  "collection": "0151",
+  "appearances": [
+   {
+    "who": "duke-williams-cswa",
+    "kind": "angle",
+    "source": "PCW's own \"PCW Live\" results column: Duke Williams and Ed Butkis sign the takeover deal in a backstage cold open before the broadcast"
+   },
+   {
+    "who": "ed-butkis-pcw-2007",
+    "kind": "angle",
+    "source": "PCW's own \"PCW Live\" results column: Butkis signs the takeover deal on-screen and is written out of the broadcast booth for this episode"
+   },
+   {
+    "who": "bob-pike-pcw-2007",
+    "kind": "billed",
+    "source": "PCW's own \"PCW Live\" results column: Pike fills in on commentary"
+   },
+   {
+    "who": "sheik-sandwich-pcw-2007",
+    "kind": "billed",
+    "source": "PCW's own \"PCW Live\" results column: Sandwich calls the show on commentary"
+   },
+   {
+    "who": "death-anderson-pcw-2007",
+    "kind": "match"
+   },
+   {
+    "who": "bad-guy-bag-man-myers-pcw-2007",
+    "kind": "match"
+   },
+   {
+    "who": "guy-mcver-pcw-2007",
+    "kind": "billed",
+    "source": "PCW's own \"PCW Live\" results column: advertised for the show's own next match against Sergeant Pepper, not resolved before the document ends"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "bad-guy-bag-man-myers-pcw-2007"
+     ],
+     [
+      "death-anderson-pcw-2007"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "Myers suffocated Anderson with a plastic bag mid-match; the referee counted Anderson out and awarded Myers the win, but Anderson revived, powerbombed Myers, and the referee reversed the decision. Recorded winner_side reflects the match's own final, on-air result (Death Anderson, by disqualification)."
+   }
+  ],
+  "notes": "Opens with the takeover deal's own on-screen signing (70/30 ownership split, Butkis retaining his job, his brother's, and Big Elwood's). The document ends mid-broadcast, teasing an unresolved Guy McVer vs. Sergeant Pepper match; no continuation survives on the record."
+ }
+]

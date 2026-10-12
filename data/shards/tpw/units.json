@@ -1,0 +1,47 @@
+[
+ {
+  "id": "blitzkrieg-tpw",
+  "type": "unit",
+  "name": "Blitzkrieg",
+  "members": [
+   {
+    "id": "panzer-tpw"
+   },
+   {
+    "id": "wehrmacht-tpw"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "tpw",
+    "first_seen": "1997-08",
+    "last_seen": "1997-08",
+    "source": "TPW's own Chaotic Christenings, 23-24 August 1997.",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Panzer and Wehrmacht, with manager Feldman; won TPW's own Tag Team Championship tournament, its final a Triangle Tag Team Cage Championship match.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "blitzkrieg-wicew"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,905 @@
+[
+ {
+  "id": "uew-1996-ultimate-saturday-1996-06-17",
+  "type": "show",
+  "name": "Ultimate Saturday / Ultimate Sunday",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1996-06-17",
+   "precision": "exact",
+   "source": "The fed's own four-part card posting, msg_ids lGeMmj6CkK0J/cYrgzj7THkMJ/0jA8_1G4MDQJ/AVswYDA590YJ, all dated 17 June 1996."
+  },
+  "page": "/promotions/uew-1996/archive/ultimate-saturday-1996-06-17.html",
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Mint pass, honest tier-2 scope: the show is served and registered, but its ~20-name roster is not structured into appearances/characters, consistent with this same accession's own held-wing convention (e.g. WWO, ACEW) of registering a show without minting its roster the same pass.",
+  "notes": "A four-part card combining a 'Summer Tour' stop billed from Paris, France with a studio-set 'Ultimate Sunday' broadcast; features a battle royal, a tag-title defense, and continuing angles among a large invented roster. Served page is an EXCERPT (cold open, one debut match, and the fed's own news segment); the other three parts remain held, not served, per no-bulk-mirroring. No title change is confirmed in the served text."
+ },
+ {
+  "id": "uew-1996-4th-of-july-bash-1996-07-04",
+  "type": "show",
+  "name": "4th of July Bash",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1996-07-04",
+   "precision": "exact",
+   "source": "The fed's own four-part card posting, msg_ids SKFuGbL-2DsJ/gk6gasibVVcJ/7a4U8yvdTdsJ/7uLGFw6wJbEJ, all dated 4 July 1996."
+  },
+  "page": "/promotions/uew-1996/archive/4th-of-july-bash-1996-07-04.html",
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Mint pass, honest tier-2 scope: the show is served and registered, but its ~20-name roster is not structured into appearances/characters, consistent with this same accession's own held-wing convention (e.g. WWO, ACEW) of registering a show without minting its roster the same pass.",
+  "notes": "A themed multi-title card (battle royal, cage match, war match, endurance match) closing with the fed's own self-reported records and a 26-name ranking list crediting Octane as Ultimate Champion, \"Offensive\" Alex Adams as American Champion and \"Spartan\" Troy Walters as TV Champion at the time of posting; these title lines are not structured into titles.json/reigns.json. Served page combines the opening card-lineup excerpt (Part 1) with the fed's own closing recap/rankings post (Part 4, served complete); Parts 2-3 remain held, not served, per no-bulk-mirroring."
+ },
+ {
+  "id": "uew-1996-ides-of-march-1997-03-15",
+  "type": "show",
+  "name": "Ides of March",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-03-15",
+   "precision": "exact",
+   "source": "The fed's own seven-part pay-per-view posting, msg_ids m506Ihsiq4sJ/YGQD-U95AWQJ/3sqvL-Reru0J/3cNontjuN_4J/EIQIbOggAVoJ/TP5O_irsx5cJ/OVSC6d0vaIQJ, all 15 March 1997."
+  },
+  "page": "/promotions/uew-1996/archive/ides-of-march-1997-03-15.html",
+  "collection": "0148",
+  "venue": "the New Orleans Superdome",
+  "city": "New Orleans",
+  "appearances": [
+   {
+    "who": "rick-styles-wlw-1995",
+    "kind": "match"
+   },
+   {
+    "who": "ivan-kolinski-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "kappu-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "kyle-kamikaze-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "bobby-whitestar-uew-1996",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "kyle-kamikaze-uew-1996"
+     ],
+     [
+      "bobby-whitestar-uew-1996"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Double Ladder Match",
+    "note": "For the UEW Television Championship (Kamikaze, champion) and UEW Internet Championship (Whitestar, champion) at once; the loser's title was retired, not passed on."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "rick-styles-wlw-1995"
+     ],
+     [
+      "ivan-kolinski-uew-1996"
+     ],
+     [
+      "kappu-uew-1996"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Triple Threat Match",
+    "note": "For the UEW Ultimate Championship (Styles, champion); a rotating-interval format decided by coin flips before becoming a three-way after 40 minutes. Kappu was eliminated first by an interval coin flip; Kolinski pinned Styles to win the title."
+   }
+  ],
+  "notes": "The fed's own last pay-per-view under its outgoing president, posted the same day as the relaunch manifesto that installed his successor; also carried an unstructured 20-man Bunkhouse Brawl, a six-man tag match, and a scaffold match for the UEW Ultimate Tag Team Championship (the Southern Posse defending against Havok), none of which are structured into matches[]."
+ },
+ {
+  "id": "uew-1996-sunday-night-heat-1997-04-06",
+  "type": "show",
+  "name": "Sunday Night Heat (4/6/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-04-06",
+   "precision": "exact",
+   "source": "The fed's own weekly posting, msg_ids 7JOG3FNS4uYJ (pt. 1)/-fu9e7-B46YJ (pt. 2)/HPZ27t0RSEsJ (pt. 3), 7 Apr 1997."
+  },
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "havok-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "dwo-1996-guy-stone",
+    "kind": "match"
+   },
+   {
+    "who": "dwo-1996-mr-pink",
+    "kind": "match"
+   },
+   {
+    "who": "deadly-duo-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "grim-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "jeckal-uew-1996",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "havok-uew-1996",
+      "dwo-1996-guy-stone",
+      "dwo-1996-mr-pink"
+     ],
+     [
+      "deadly-duo-uew-1996",
+      "grim-uew-1996",
+      "jeckal-uew-1996"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "For the UEW Ultimate Tag Team Championship (Havok, champions); read directly, msg_id -fu9e7-B46YJ."
+   }
+  ],
+  "notes": "The debut edition of the fed's own new weekly under its incoming president; the card's own main event, a UEW Ultimate Championship rematch between Rick Styles and Ivan Kolinski, was billed for a separate broadcast from Wembley Stadium, London (the fed's own UEW Tour of England) and is not structured. Also carried a non-title singles match (Rick Styles lost to \"Spartan\" Troy Walters by disqualification) and a post-match beatdown angle on Styles and Walters by two unminted attackers, neither structured."
+ },
+ {
+  "id": "uew-1996-saturday-night-special-1997-06-21",
+  "type": "show",
+  "name": "Saturday Night Special",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-06-21",
+   "precision": "exact",
+   "source": "Not itself captured by the newsgroup; reconstructed from the fed's own dated flashback footage replayed inside Summer Dreams '97 (msg_id CZcR_yKeCyUJ, 16 Jul 1997, explicitly headed \"[UEW FLASHBACK]- June 21, 1997- Saturday Night Special\"), per the schema's own fresh-filmed-vs-archival-replay doctrine (replayed footage is evidence for the original show, not the airing one)."
+  },
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "rob-magnum-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "nickedemus-payne-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "rick-styles-wlw-1995",
+    "kind": "angle"
+   },
+   {
+    "who": "nickedemus-payne-uew-1996",
+    "kind": "angle"
+   },
+   {
+    "who": "jay-steele-uew-1996",
+    "kind": "angle",
+    "capacity": "authority"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "rob-magnum-uew-1996"
+     ],
+     [
+      "nickedemus-payne-uew-1996"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "For the UEW Television Championship (Payne, champion); read directly from the Summer Dreams flashback footage, msg_id CZcR_yKeCyUJ."
+   }
+  ],
+  "notes": "Recovered only as flashback footage replayed inside a later broadcast (Summer Dreams '97, 16 Jul 1997), never itself posted to the newsgroup -- the fed's own curated-fraction posting practice, per the accession digest's own reading. The same flashback footage shows UEW president Jay Steele hosting a contract signing between Rick Styles and Professor Payne for their Summer Dreams Ultimate Championship match."
+ },
+ {
+  "id": "uew-1996-summer-dreams-97-1997-07-16",
+  "type": "show",
+  "name": "Summer Dreams '97",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-07-16",
+   "precision": "exact",
+   "source": "The fed's own sixteen-part pay-per-view posting, msg_ids including kKH7TFzHpmIJ/Gc1T05PDjhsJ (pt. 15) and z2Mt9XWsWmYJ (pt. 16), all 16 Jul 1997."
+  },
+  "page": "/promotions/uew-1996/archive/summer-dreams-97-1997-07-16.html",
+  "collection": "0148",
+  "venue": "the SkyDome",
+  "city": "Toronto",
+  "appearances": [
+   {
+    "who": "rick-styles-wlw-1995",
+    "kind": "match"
+   },
+   {
+    "who": "nickedemus-payne-uew-1996",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "rick-styles-wlw-1995"
+     ],
+     [
+      "nickedemus-payne-uew-1996"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "For the UEW Ultimate Championship (Styles, champion), read directly (msg_ids kKH7TFzHpmIJ, Gc1T05PDjhsJ, z2Mt9XWsWmYJ); Payne escaped Styles' own STF finisher to win the title in Payne's home city."
+   }
+  ],
+  "notes": "The card's own other fourteen parts, including an eight-team/16-man Unholy War for the UEW Ultimate Tag Team Championship (won by the reigning Lethal Leaders) and a UEW American Championship match between Ivan Kolinski and Kyle Kamikaze, are not structured into matches[]."
+ },
+ {
+  "id": "uew-1996-rumble-in-the-bronx-1997-10-01",
+  "type": "show",
+  "name": "Rumble in the Bronx '97",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-10-01",
+   "precision": "exact",
+   "source": "The fed's own sixteen-part-plus-intermission pay-per-view posting, msg_ids including 81mDyyyQAD0J (pt. 1) through CYyO5Dr3USEJ (pt. 16), all 1 Oct 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "A UEW-vs-DWO War Games invasion angle anchors this card; the UEW side of that match crosses with several unminted DWO-billed entrants, and minting them under this wing would misattribute a rival federation's own roster (the two feds' own join is unresolved and explicitly left as a lead by this same accession's own enrichment pass). The card's own Ultimate Tag Team Championship finish is a forfeit the fed's own president voids live on-air before a rescheduled rematch later in the same broadcast, which this pass did not trace to a clean result. Read this pass for context only; msg_ids for the War Games introductions (YowuiqIKcAYJ, Yl2FPmWVfcoJ, cH42nGWiwKQJ) and the tag-title angle (RHiOR3_GaYkJ) are on file for a future dedicated pass."
+ },
+ {
+  "id": "uew-1996-holiday-horror-2-1997-12-25",
+  "type": "show",
+  "name": "Holiday Horror 2",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-12-25",
+   "precision": "exact",
+   "source": "The fed's own fifteen-part pay-per-view posting; the finish is read directly from Part 15/final, msg_id HzRR6ZDoz0AJ, 25 Dec 1997."
+  },
+  "page": "/promotions/uew-1996/archive/holiday-horror-2-1997-12-25.html",
+  "collection": "0148",
+  "venue": "the Astrodome",
+  "city": "Houston",
+  "appearances": [
+   {
+    "who": "rick-styles-wlw-1995",
+    "kind": "match"
+   },
+   {
+    "who": "rob-magnum-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "kyle-kamikaze-uew-1996",
+    "kind": "angle"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "rick-styles-wlw-1995"
+     ],
+     [
+      "rob-magnum-uew-1996"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "For the UEW Ultimate Championship (Styles, champion), read directly (msg_id HzRR6ZDoz0AJ). Styles' own New Alliance stablemate Kyle Kamikaze secretly tripped him into Magnum's finisher, an interference the broadcast's own instant replay confirmed and Kamikaze himself later refused to deny -- a heel turn on his own leader played out in the match's immediate aftermath."
+   }
+  ],
+  "notes": "The card's own other fourteen parts, including a UEW American Championship Triple Threat defense (Professor Nickedemus Payne retaining against two unnamed challengers) and a multi-team \"Heaven and Hell\" scaffold match that crowned new UEW Ultimate Tag Team Champions (the Suicidal Stallions) and UEW Television Tag Team Champions (the Explosion) on the same night, are not structured into matches[]."
+ },
+ {
+  "id": "uew-1996-uew-anarchy-1997-03-26",
+  "type": "show",
+  "name": "UEW Anarchy (3/26/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-03-26",
+   "precision": "exact",
+   "source": "msg_id ktjmp9NyETIJ, 26 Mar 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Midweek angle-and-hype show; this pass structured the marquee title-bearing cards of the season (Ides of March, Sunday Night Heat 4/6, the reconstructed Saturday Night Special, Summer Dreams, Holiday Horror 2) and did not independently re-read this edition's own primary text for its own card."
+ },
+ {
+  "id": "uew-1996-uew-anarchy-1997-04-02",
+  "type": "show",
+  "name": "UEW Anarchy (4/2/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-04-02",
+   "precision": "exact",
+   "source": "msg_id xLGlsZD-CBYJ, 7 Apr 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Midweek angle-and-hype show; this pass structured the marquee title-bearing cards of the season (Ides of March, Sunday Night Heat 4/6, the reconstructed Saturday Night Special, Summer Dreams, Holiday Horror 2) and did not independently re-read this edition's own primary text for its own card."
+ },
+ {
+  "id": "uew-1996-uew-anarchy-1997-04-09",
+  "type": "show",
+  "name": "UEW Anarchy (4/9/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-04-09",
+   "precision": "exact",
+   "source": "msg_id _VWxqw962uQJ, 12 Apr 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Midweek angle-and-hype show; this pass structured the marquee title-bearing cards of the season (Ides of March, Sunday Night Heat 4/6, the reconstructed Saturday Night Special, Summer Dreams, Holiday Horror 2) and did not independently re-read this edition's own primary text for its own card."
+ },
+ {
+  "id": "uew-1996-no-action-zone-1997-04-02",
+  "type": "show",
+  "name": "No-Action Zone (week of 04/02/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-04-02",
+   "precision": "exact",
+   "source": "msg_id Xz8g1xZSGJQJ, posted 7 Apr 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Monday magazine/news format -- rankings, injury reports, arrivals/departures, and upcoming-card previews, per the fed's own format for this series; no in-ring matches to structure."
+ },
+ {
+  "id": "uew-1996-no-action-zone-1997-04-09",
+  "type": "show",
+  "name": "No-Action Zone (week of 04/09/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-04-09",
+   "precision": "exact",
+   "source": "msg_id xK4WHGHlbM0J, posted 8 Apr 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Monday magazine/news format -- rankings, injury reports, arrivals/departures, and upcoming-card previews, per the fed's own format for this series; no in-ring matches to structure."
+ },
+ {
+  "id": "uew-1996-no-action-zone-1997-08-04",
+  "type": "show",
+  "name": "No-Action Zone (week of 08/04/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-08-04",
+   "precision": "exact",
+   "source": "msg_id g6yB8Bac2XAJ, posted 6 Aug 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Monday magazine/news format -- rankings, injury reports, arrivals/departures, and upcoming-card previews, per the fed's own format for this series; no in-ring matches to structure."
+ },
+ {
+  "id": "uew-1996-no-action-zone-1997-10-13",
+  "type": "show",
+  "name": "No-Action Zone (week of 10/13/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-10-13",
+   "precision": "exact",
+   "source": "msg_id JJcerQ29l6UJ, posted 15 Oct 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Monday magazine/news format -- rankings, injury reports, arrivals/departures, and upcoming-card previews, per the fed's own format for this series; no in-ring matches to structure."
+ },
+ {
+  "id": "uew-1996-no-action-zone-1997-10-20",
+  "type": "show",
+  "name": "No-Action Zone (week of 10/20/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-10-20",
+   "precision": "exact",
+   "source": "msg_id hDF4ebVjIHAJ, posted 22 Oct 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Monday magazine/news format -- rankings, injury reports, arrivals/departures, and upcoming-card previews, per the fed's own format for this series; no in-ring matches to structure."
+ },
+ {
+  "id": "uew-1996-no-action-zone-1997-10-27",
+  "type": "show",
+  "name": "No-Action Zone (week of 10/27/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-10-27",
+   "precision": "exact",
+   "source": "msg_id 5hXMpOdUsoUJ, posted 30 Oct 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Monday magazine/news format -- rankings, injury reports, arrivals/departures, and upcoming-card previews, per the fed's own format for this series; no in-ring matches to structure."
+ },
+ {
+  "id": "uew-1996-no-action-zone-1997-11-03",
+  "type": "show",
+  "name": "No-Action Zone (week of 11/03/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-11-03",
+   "precision": "exact",
+   "source": "msg_id XQbjeZKNO1YJ, posted 4 Nov 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Monday magazine/news format -- rankings, injury reports, arrivals/departures, and upcoming-card previews, per the fed's own format for this series; no in-ring matches to structure."
+ },
+ {
+  "id": "uew-1996-no-action-zone-1997-11-17",
+  "type": "show",
+  "name": "No-Action Zone (week of 11/17/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-11-17",
+   "precision": "exact",
+   "source": "msg_id nO3R5Pum82wJ, posted 20 Nov 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Monday magazine/news format -- rankings, injury reports, arrivals/departures, and upcoming-card previews, per the fed's own format for this series; no in-ring matches to structure."
+ },
+ {
+  "id": "uew-1996-no-action-zone-1997-12-15",
+  "type": "show",
+  "name": "No-Action Zone (week of 12/15/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-12-15",
+   "precision": "exact",
+   "source": "msg_id daWfEBLN16EJ, posted 14 Dec 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Monday magazine/news format -- rankings, injury reports, arrivals/departures, and upcoming-card previews, per the fed's own format for this series; no in-ring matches to structure."
+ },
+ {
+  "id": "uew-1996-sunday-night-heat-1997-10-12",
+  "type": "show",
+  "name": "Sunday Night Heat (10/12/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-10-12",
+   "precision": "exact",
+   "source": "msg_ids YEQtckE2x3cJ (pt. 1)/VtGwel4VSW0J (pt. 2), posted 12 Oct 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Midweek angle-and-hype show; this pass structured the marquee title-bearing cards of the season (Ides of March, Sunday Night Heat 4/6, the reconstructed Saturday Night Special, Summer Dreams, Holiday Horror 2) and did not independently re-read this edition's own primary text for its own card."
+ },
+ {
+  "id": "uew-1996-sunday-night-heat-1997-10-19",
+  "type": "show",
+  "name": "Sunday Night Heat (10/19/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-10-19",
+   "precision": "exact",
+   "source": "msg_ids 2h1a8Bx-4p0J (pt. 2)/o4SoErAx5UcJ (pt. 3), posted 22 Oct 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Midweek angle-and-hype show; this pass structured the marquee title-bearing cards of the season (Ides of March, Sunday Night Heat 4/6, the reconstructed Saturday Night Special, Summer Dreams, Holiday Horror 2) and did not independently re-read this edition's own primary text for its own card."
+ },
+ {
+  "id": "uew-1996-sunday-night-heat-1997-10-26",
+  "type": "show",
+  "name": "Sunday Night Heat (10/26/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-10-26",
+   "precision": "exact",
+   "source": "msg_ids EGPZh4aLqh8J (pt. 1)/JD9for5enM0J (pt. 2), posted 30 Oct 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Midweek angle-and-hype show; this pass structured the marquee title-bearing cards of the season (Ides of March, Sunday Night Heat 4/6, the reconstructed Saturday Night Special, Summer Dreams, Holiday Horror 2) and did not independently re-read this edition's own primary text for its own card."
+ },
+ {
+  "id": "uew-1996-sunday-night-heat-1997-11-09",
+  "type": "show",
+  "name": "Sunday Night Heat (11/09/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-11-09",
+   "precision": "exact",
+   "source": "msg_ids 9izdqHcVN78J (pt. 2)/N-qJ60JEH30J (pt. 4), posted 13 Nov 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Midweek angle-and-hype show; this pass structured the marquee title-bearing cards of the season (Ides of March, Sunday Night Heat 4/6, the reconstructed Saturday Night Special, Summer Dreams, Holiday Horror 2) and did not independently re-read this edition's own primary text for its own card."
+ },
+ {
+  "id": "uew-1996-sunday-night-heat-1997-11-16",
+  "type": "show",
+  "name": "Sunday Night Heat (11/16/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-11-16",
+   "precision": "exact",
+   "source": "msg_ids GMxuzKkhupoJ (pt. 1)/4gKRPJHwyccJ (pt. 2), posted 20 Nov 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Midweek angle-and-hype show; this pass structured the marquee title-bearing cards of the season (Ides of March, Sunday Night Heat 4/6, the reconstructed Saturday Night Special, Summer Dreams, Holiday Horror 2) and did not independently re-read this edition's own primary text for its own card."
+ },
+ {
+  "id": "uew-1996-sunday-night-heat-1997-12-07",
+  "type": "show",
+  "name": "Sunday Night Heat (12/07/97)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-12-07",
+   "precision": "exact",
+   "source": "msg_ids 9UgL3-Ds6PQJ (pt. 1)/iHuuIJbg9T0J (pt. 2), posted 14 Dec 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Midweek angle-and-hype show; this pass structured the marquee title-bearing cards of the season (Ides of March, Sunday Night Heat 4/6, the reconstructed Saturday Night Special, Summer Dreams, Holiday Horror 2) and did not independently re-read this edition's own primary text for its own card."
+ },
+ {
+  "id": "uew-1996-friday-night-fright-1997-10-31",
+  "type": "show",
+  "name": "Friday Night Fright",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-10-31",
+   "precision": "exact",
+   "source": "msg_ids including 2l_nR7e3zlcJ (pt. 5)/TGKKGetPg0oJ (pt. 6)/KjfTo_TKKskJ (pt. 4), all posted 3 Nov 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Supercard billed with five title matches per the accession digest's own summary ; this pass did not independently re-read its primary text to confirm entrants or outcomes."
+ },
+ {
+  "id": "uew-1996-flashback-show-iii-1997-12-17",
+  "type": "show",
+  "name": "Flashback Show III (pre-Holiday Horror 2)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-12-17",
+   "precision": "exact",
+   "source": "msg_ids including UN7cmfpUALUJ (pt. 1) through -cvc7VZgw64J (pt. 7), all 17 Dec 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Clip/recap show ahead of Holiday Horror 2; the fed's own format for this series replays prior footage rather than staging fresh matches, per the schema's own fresh-filmed-vs-archival-replay doctrine, and this pass did not parse its own specific clip selection to attribute footage back to originating shows."
+ },
+ {
+  "id": "uew-1996-holiday-horror-2-media-day-1997-12-25",
+  "type": "show",
+  "name": "Holiday Horror 2 Media Day",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-12-25",
+   "precision": "exact",
+   "source": "msg_ids hFmx2wU2GVgJ (pt. 1)/iS9GHMRq0mwJ (pt. 2)/tmXnJpJG-gYJ (pt. 3)/UMpo-swCBhAJ (pt. 4), all 25 Dec 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Press-conference show ahead of Holiday Horror 2; no in-ring matches, per the fed's own format for this series."
+ },
+ {
+  "id": "uew-1996-extra-dark-1997-12-25",
+  "type": "show",
+  "name": "Extra Dark (Holiday Horror 2 edition)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1997-12-25",
+   "precision": "exact",
+   "source": "msg_id TsgANNmNMpcJ, 25 Dec 1997."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Dark-match/year-in-review show alongside Holiday Horror 2, carrying the fed's own Christmas broadcast and year-end clip reel (including the outgoing 1996-97 president's own resignation clip, already read for operator-succession evidence by this wing's own enrichment pass); this pass did not independently structure its own dark matches."
+ },
+ {
+  "id": "uew-1996-ides-of-march-1998-03-15",
+  "type": "show",
+  "name": "The Ides of March '98",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1998-03-15",
+   "precision": "exact",
+   "source": "The fed's own fifteen-part pay-per-view posting, msg_ids 6-LK2JqdOeIJ through PduBOHSSRC8J (see the served page's own provenance line for the full list), all 15 March 1998."
+  },
+  "page": "/promotions/uew-1996/archive/ides-of-march-1998-03-15.html",
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Served whole (all fifteen parts survive, staged across three segments billed as Chicago, London and Rome) but not structured into matches/appearances, consistent with this wing's own existing tier-3 treatment of most of its cards; four title changes are captured in this pass's own reigns-append file instead."
+ },
+ {
+  "id": "uew-1996-saturday-night-special-1998-02-07",
+  "type": "show",
+  "name": "Saturday Night Special (2/7/98)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1998-02-07",
+   "precision": "exact",
+   "source": "The fed's own eleven-part card posting, msg_ids including 6gecivcQNxMJ (pt. 1) and ePMQdQU7f40J (pt. 4), all 7 Feb 1998."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Not served; registered for its own title-change evidence (the four-way elimination final of the vacated UEW Television Championship tournament, won by \"Mr. Excitement\" Alex Extreme, msg_id ePMQdQU7f40J)."
+ },
+ {
+  "id": "uew-1996-sunday-night-heat-1998-05-03",
+  "type": "show",
+  "name": "Sunday Night Heat (5/3/98)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1998-05-03",
+   "precision": "exact",
+   "source": "The fed's own nine-part weekly posting, msg_ids including 8x2rg94lrSsJ (pt. 1) and sbHWu97L0AUJ (pt. 8), all 4 May 1998."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Not served; registered for its own title-change evidence (Mannifred Lester dethroning an injured \"Crippler\" Ivan Kolinski for the UEW Ultimate Championship, msg_id sbHWu97L0AUJ, confirmed by the fed's own No-Action Zone recap, msg_id r-s4VuIpxcMJ)."
+ },
+ {
+  "id": "uew-1996-revenge-98-1998-05-24",
+  "type": "show",
+  "name": "REVENGE '98",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1998-05-24",
+   "precision": "circa",
+   "source": "Not itself captured by the newsgroup (an annual, order-only \"home video exclusive\" supercard, per the fed's own sales pitch); reconstructed from the fed's own dated recap, msg_id 4lGs3ys9me0J, headed \"REVENGE '98...HUGE SUCCESS!!! Ultimate E-Wrestling held its annual home video exclusive, REVENGE '98, last Sunday at Caesar's Palace in Las Vegas, Nevada,\" posted 28 May 1998 (\"last Sunday\" reads as 24 May)."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Not directly captured by the newsgroup and not served; registered for its own title-change evidence (Magnus Colby ending Professor Payne's UEW American Championship reign) and for the debut of two new stables (Organized Chaos; a new Widowmakers Inc. led by Magnus Colby) not otherwise structured."
+ },
+ {
+  "id": "uew-1996-flash-flood-1998-05-11",
+  "type": "show",
+  "name": "Flash Flood, Part 1 (debut)",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1998-05-11",
+   "precision": "exact",
+   "source": "The fed's own five-part posting, msg_ids including BWTd4fndPzEJ (pt. 1) and hWlqWqjYxbgJ (pt. 5), 11 May 1998."
+  },
+  "collection": "0148",
+  "appearances": [],
+  "no_appearances_reason": "Not served; registered as the debut of a new recurring weekly (Flash Flood ran alongside, and eventually alongside/instead of, Sunday Night Heat through the rest of this pass's own reading window and into the wing's already-registered 1998-99 leg, per the 1997 accession digest's own forward note)."
+ },
+ {
+  "id": "uew-1996-holiday-horror-3-1999-01-01",
+  "type": "show",
+  "name": "Holiday Horror 3",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1999-01-01",
+   "precision": "circa",
+   "source": "The fed's own multi-part New Year's supercard posting, its own broadcast referring to New Year's decorations; the surviving posts carry only a capture timestamp rather than a confirmed thread date, so the exact day is not fixed."
+  },
+  "page": "/promotions/uew-1996/archive/holiday-horror-3-1999-01-01.html",
+  "collection": "0148",
+  "evidence": [
+   {
+    "source": "The fed's own multi-part New Year's supercard posting, now served in full.",
+    "note": "A three-city supercard (Tokyo, Tampa, Athens) closing with a sale of the promotion on-screen and a change of president."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "participants": [
+     "jonathan-witt-uew-1996",
+     "doc-holliday-rspwf"
+    ],
+    "winner": "doc-holliday-rspwf",
+    "stipulation": "Fifteen-man international battle royal for the newly introduced Cruiserweight Championship",
+    "note": "Introduced the title with a fifteen-man field; only the outgoing and incoming champions are structured here, and the winning elimination came with help from a masked ally at ringside. A further thirteen entrants are not named here."
+   },
+   {
+    "order": 2,
+    "participants": [
+     "midas-touch-johnny-glamour-rspwf",
+     "liam-rogan-uew-1996",
+     "mannifred-lester-uew-1996"
+    ],
+    "winner": "liam-rogan-uew-1996",
+    "stipulation": "Four-way Television Championship match with the rules changing every five minutes (\"Choose Your Poison\")",
+    "note": "The defending champion was blindfolded by his own ally's plan gone wrong and counted out by mistake. A fourth entrant in the match is not named here."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "nevermind-rspwf"
+     ],
+     [
+      "dwo-1996-alex-martinez"
+     ]
+    ],
+    "winner_side": 1,
+    "win_method": "pin",
+    "note": "An impromptu American Championship defense, arranged on-air after the scheduled challenger missed his flight; the champion accepted the fed's own hardcore stipulation from an earlier match as the terms. The referee's final three-count was unusually fast."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "rick-styles-wlw-1995"
+     ],
+     [
+      "chris-tyler-uew-1996"
+     ]
+    ],
+    "winner_side": 1,
+    "win_method": "disqualification",
+    "note": "The Ultimate Championship main event, decided by disqualification after New Alliance interference. The fed's new majority owner overruled the finish on-air rather than let a disqualification change the title, ordered a rematch, and handed the belt back to the defending champion at the show's close."
+   }
+  ],
+  "appearances": [
+   {
+    "who": "jonathan-witt-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "doc-holliday-rspwf",
+    "kind": "match"
+   },
+   {
+    "who": "midas-touch-johnny-glamour-rspwf",
+    "kind": "match"
+   },
+   {
+    "who": "liam-rogan-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "mannifred-lester-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "nevermind-rspwf",
+    "kind": "match"
+   },
+   {
+    "who": "dwo-1996-alex-martinez",
+    "kind": "match"
+   },
+   {
+    "who": "rick-styles-wlw-1995",
+    "kind": "match"
+   },
+   {
+    "who": "chris-tyler-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "magnus-colby-uew-1996",
+    "kind": "angle"
+   },
+   {
+    "who": "jay-steele-uew-1996",
+    "kind": "angle"
+   }
+  ],
+  "no_appearances_reason": "The broadcast also carried a Colby Cup tournament, an Ultimate Death Match, tag team title action, and a lengthy undercard; only the four singles/battle-royal title matches above and the closing ownership angle are named here; the rest of the broadcast's own large supporting card is not.",
+  "notes": "A three-city New Year's supercard (Tokyo, Tampa, Athens) on which all four of the fed's contested singles titles changed hands or were defended and a new Cruiserweight Championship was introduced. The broadcast closed with color commentator Magnus Colby revealing he had bought a controlling stake in the promotion; he fired sitting president Jay Steele and the head of security on-screen and installed a caretaker president through the fed's own next Ides of March pay-per-view."
+ },
+ {
+  "id": "uew-1996-ides-of-march-1999-03-15",
+  "type": "show",
+  "name": "The Ides of March '99",
+  "promotion": "uew-1996",
+  "date": {
+   "date": "1999-03-15",
+   "precision": "circa",
+   "source": "The fed's own multi-part pay-per-view posting; the surviving posts carry only a capture timestamp rather than a confirmed thread date, but the fed's own annual Ides of March pay-per-view fell on 15 March in both 1997 and 1998, and this edition is billed the same way."
+  },
+  "page": "/promotions/uew-1996/archive/ides-of-march-1999-03-15.html",
+  "collection": "0148",
+  "evidence": [
+   {
+    "source": "The fed's own multi-part pay-per-view posting, now served in full.",
+    "note": "A three-city pay-per-view (Mexico City, Tampa, Tokyo) built around a rematch the fed's own new ownership ordered at its prior show."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "shawn-harrison-uew-1996"
+     ],
+     [
+      "nevermind-rspwf"
+     ]
+    ],
+    "winner_side": 1,
+    "win_method": "pin",
+    "note": "American Championship defense; the challenger regained the title by pinfall in 22 minutes and 34 seconds."
+   },
+   {
+    "order": 2,
+    "participants": [
+     "doc-holliday-rspwf",
+     "kyle-kamikaze-uew-1996"
+    ],
+    "winner": "doc-holliday-rspwf",
+    "stipulation": "Three-way Cruiserweight Championship match",
+    "note": "The champion retained after a third challenger's own manager helped turn the finish; that third challenger is not named here. Kyle Kamikaze allowed himself to be counted out early in the match without explanation."
+   },
+   {
+    "order": 3,
+    "participants": [
+     "chris-tyler-uew-1996",
+     "dwo-1996-alex-martinez",
+     "alex-extreme-uew-1996"
+    ],
+    "winner": "chris-tyler-uew-1996",
+    "stipulation": "Three-way Ultimate Championship match",
+    "note": "The defending champion retained on a guest referee's count that the broadcast itself called highly debatable; a post-match brawl drew in wrestlers from three different stables."
+   }
+  ],
+  "appearances": [
+   {
+    "who": "shawn-harrison-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "nevermind-rspwf",
+    "kind": "match"
+   },
+   {
+    "who": "doc-holliday-rspwf",
+    "kind": "match"
+   },
+   {
+    "who": "kyle-kamikaze-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "chris-tyler-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "dwo-1996-alex-martinez",
+    "kind": "match"
+   },
+   {
+    "who": "alex-extreme-uew-1996",
+    "kind": "match"
+   },
+   {
+    "who": "ivan-kolinski-uew-1996",
+    "kind": "billed",
+    "capacity": "referee",
+    "source": "Served as the guest referee for the Ultimate Championship main event."
+   }
+  ],
+  "no_appearances_reason": "The pay-per-view also carried a tag team tournament, a cruiserweight-adjacent tag match, and a lengthy supporting card across its three broadcast cities; only the three singles title matches above are named here; the rest of the broadcast's own large supporting card is not.",
+  "notes": "The fed's own third consecutive Ides of March pay-per-view, broadcasting from Mexico City, Tampa and Tokyo. The Ultimate Championship rematch the fed's new ownership had ordered at its prior show is itself unattested in the surviving record; by this show the challenger from that earlier match has become champion himself, and the prior champion appears only as a guest commentator."
+ }
+]

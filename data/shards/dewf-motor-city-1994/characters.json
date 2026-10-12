@@ -1,0 +1,316 @@
+[
+ {
+  "id": "toad-pedophile-dewf-motor-city-1994",
+  "type": "character",
+  "name": "Toad Pedophile",
+  "caption": "The satire's own ring announcer and host, on-air across nearly every chapter of the [DEWF/WCWF] series -- the closest thing the run has to a viewpoint character, and the only one the text has address the author directly.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 8,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dewf-motor-city-1994",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "commentator"
+    ],
+    "source": "The [DEWF/WCWF] satire series' own served chapters (chapters one through soul-doubt), where this character hosts/announces on-camera throughout.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "tommy-sledge-dewf-motor-city-1994",
+  "type": "character",
+  "name": "Tommy Sledge",
+  "aka": [
+   "Sledge"
+  ],
+  "caption": "A hard-boiled \"Private Wrestling Investigator\" original to the series, narrating chapter seven and a half as a noir pastiche before resurfacing at the climax of Soul Doubt.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 2,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dewf-motor-city-1994",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "other"
+    ],
+    "source": "The [DEWF/WCWF] satire series' own served chapters (chapter seven and a half, soul-doubt) -- a hired investigator, not a wrestler/manager/referee/authority-figure/commentator/mascot; no closer-fitting roles value exists.",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; no identity join is asserted (bare-name match is insufficient)",
+    "with": [
+     "sargent-sledge-hammer",
+     "sledge"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "vincent-b-baats-dewf-motor-city-1994",
+  "type": "character",
+  "name": "Vincent B. Baats",
+  "caption": "The WCWF's own resident \"doctor/lawyer/dry cleaner\" since 1993, murdered by the Soultaker on-air -- his cloning tanks become the wraparound mystery the whole nine-chapter run resolves.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 3,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "dewf-motor-city-1994",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "other"
+    ],
+    "source": "The [DEWF/WCWF] satire series' own served chapters (chapter syxx, chapter seven, soul-doubt) -- billed as the fed's doctor/lawyer/dry cleaner, none of which is a closer-fitting roles value.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "ted-dibiase-dewf-motor-city-1994",
+  "type": "character",
+  "name": "Ted DiBiase",
+  "caption": "Billed as owner, president and promoter of the satire's own revived WCWF -- the anchor role the whole nine-chapter run is staged around.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 9,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Ted DiBiase, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine -- never merged across promotions.",
+    "with": [
+     "ted-dibiase-rswa",
+     "ted-dibiase-sr-uwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "ted-dibiase-sr-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "ted-dibiase-sr-real",
+  "tenures": [
+   {
+    "promotion": "dewf-motor-city-1994",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "The [DEWF/WCWF] satire series' own served chapters (chapters one through soul-doubt), billed throughout as the WCWF's owner/president/promoter.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "hulk-hogan-dewf-motor-city-1994",
+  "type": "character",
+  "name": "Hulk Hogan",
+  "aka": [
+   "\"Hollywood\" Hulk Hogan"
+  ],
+  "caption": "Billed as the WCWF's returning top star and, entering the series, its World Heavyweight Champion -- a title he loses to Shane Douglas via a signed-in-error contract cash-in.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 5,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Hulk Hogan, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine -- never merged across promotions.",
+    "with": [
+     "hollywood-hogan-ewa-email",
+     "hulk-hogan-dreamcard",
+     "hulk-hogan-icwc",
+     "hulk-hogan-nfw",
+     "hulk-hogan-rswa",
+     "hulk-hogan-uwf-uwow",
+     "hulk-hogan-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "hulk-hogan-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "hulk-hogan-real",
+  "tenures": [
+   {
+    "promotion": "dewf-motor-city-1994",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The [DEWF/WCWF] satire series' own served chapters (one, two, four, five, syxx; namechecked in seven).",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "shane-douglas-dewf-motor-city-1994",
+  "type": "character",
+  "name": "Shane Douglas",
+  "aka": [
+   "The Franchise",
+   "\"Jimmy Dean\" Douglas"
+  ],
+  "caption": "Billed as \"The Franchise,\" self-declared refugee of the rival DEWF -- wins the WCWF World Heavyweight Championship from Hulk Hogan via a mid-match contract cash-in, then loses it by no-show forfeit to Nailz.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 0,
+    "rps": 6,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Shane Douglas, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine -- never merged across promotions.",
+    "with": [
+     "shane-douglas-ewa-email",
+     "shane-douglas-nwwa-1998",
+     "shane-douglas-pccw",
+     "shane-douglas-uwf-uwow",
+     "shane-douglas-uwow",
+     "shane-douglas-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "shane-douglas-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "shane-douglas-real",
+  "tenures": [
+   {
+    "promotion": "dewf-motor-city-1994",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The [DEWF/WCWF] satire series' own served chapters (three, four, syxx, seven, seven and a half, soul-doubt).",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "curt-hennig-dewf-motor-city-1994",
+  "type": "character",
+  "name": "Curt Hennig",
+  "aka": [
+   "Mr. Spiffy",
+   "\"Mr. Perfect\""
+  ],
+  "caption": "Signed on a cash-per-appearance deal and rebranded \"Mr. Spiffy\" after a lawyer's cameo forbids the WCWF from using \"Mr. Perfect\" -- co-hosts commentary and manages Nailz through the run.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 4,
+    "awards": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Curt Hennig, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine -- never merged across promotions.",
+    "with": [
+     "curt-hennig-dreamcard",
+     "curt-hennig-ewa-email",
+     "curt-hennig-faw",
+     "curt-hennig-rswa",
+     "curt-hennig-uwf-uwow",
+     "curt-hennig-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "curt-hennig-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "curt-hennig-real",
+  "tenures": [
+   {
+    "promotion": "dewf-motor-city-1994",
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "roles": [
+     "commentator",
+     "manager"
+    ],
+    "source": "The [DEWF/WCWF] satire series' own served chapters (syxx, seven, seven and a half, soul-doubt) -- co-commentates and later manages Nailz.",
+    "grade": "primary-source"
+   }
+  ]
+ }
+]

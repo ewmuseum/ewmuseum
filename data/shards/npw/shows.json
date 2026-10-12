@@ -1,0 +1,35 @@
+[
+  {
+    "id": "npw-oni-american-debut",
+    "type": "show",
+    "name": "Saturday card (Tsunami Oni's American debut)",
+    "promotion": "npw",
+    "collected": false,
+    "date": {
+      "date": "unknown",
+      "precision": "unknown",
+      "source": "The narrative dates it only as \"this Saturday\" relative to the signing, and places the whole episode years before the narrator's own UWF run (which begins in 2001). No calendar date of any kind survives."
+    },
+    "venue": "the small gym NPW used as its headquarters",
+    "city": "Greensboro, South Carolina",
+    "evidence": [
+      {
+        "source": "/promotions/uwf/rp/promo-774.html",
+        "note": "The promoter books the card in front of the new signing — \"Now we got you booked this Saturday in a match. You're taking on Esinem\" — and the flashback then narrates the match itself: Tsunami Oni beat Esinem by pinfall after a kick to the jaw, the referee counting three with Oni's foot on his chest."
+      }
+    ],
+    "appearances": [
+      {
+        "who": "tsunami-oni",
+        "kind": "billed",
+        "source": "/promotions/uwf/rp/promo-774.html"
+      },
+      {
+        "who": "esinem-npw",
+        "kind": "billed",
+        "source": "/promotions/uwf/rp/promo-774.html"
+      }
+    ],
+    "notes": "Uncollected: NPW's own card, results page and record of this show do not survive in any form — the only account of it is another federation's roleplay, told years later in the first person by one of its two participants. The city is recorded exactly as the fiction gives it, \"exotic Greensboro, South Carolina\"; the real Greensboro is in North Carolina, and the corpus is not corrected."
+  }
+]

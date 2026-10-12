@@ -1,0 +1,625 @@
+[
+ {
+  "id": "deuce-jackson-icw-pweboard",
+  "type": "character",
+  "name": "Deuce Jackson",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "The card's own poster explains the order: “Besides Deuce and I, I put them in the order people accepted.”"
+   },
+   {
+    "promotion": "pwe-inc",
+    "first_seen": "2005-05",
+    "last_seen": "2005-08-28",
+    "role": "wrestler — two-time PWE World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "PWE's own front-page news of 1 May 2005, which carries “PWE World Championship: Deuce Jackson (c) d. Mortis via submission” at Annihilation (/promotions/pwe-inc/archive/front-page-news-2005-05-01.html); billed “Former TWO TIME PWE World Champion” against Nicholas Pryde in the Last Man Standing 2005 tournament finals, which he lost (/promotions/pwe-inc/archive/pwe-last-man-standing-2005-2005-08-30.html)"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Second on the list of superstars ICW advertised for its farewell show, behind only the man who made the list.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "darkside-icw-pweboard",
+  "type": "character",
+  "name": "Darkside",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Carded in the fed's own forum as “‘Eye Candy’ Randy Walker Vs. Darkside” (the fed's own forum as the board rendered it on 15 December 2005 (/promotions/pwe-inc/archive/forum-icw-the-last-call-130.html))."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed against “Eye Candy” Randy Walker on ICW's last card; the match thread ran for a single reply.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "darkside-naw"
+    ],
+    "note": "Shares a bare, generic ring name with darkside-naw. Nothing connects them; filed distinct under the collision doctrine."
+   }
+  ]
+ },
+ {
+  "id": "carnage-icw-pweboard",
+  "type": "character",
+  "name": "Carnage",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Carded in the fed's own forum as “Tatewaki Kuno Vs. Carnage” (the fed's own forum as the board rendered it on 15 December 2005 (/promotions/pwe-inc/archive/forum-icw-the-last-call-130.html)). The card's own thread carries the handler's own out-of-character claim of a record under this name — “I believe my final record was 10-1 (as Carnage) I was undefeated as Daniels and Homicide too” — posted by the same member who answered the card announcement two lines above it (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html). It is a self-report about matches that were never captured, not a match record; no reign, match or further character is minted from it."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Three unconnected Carnages sit in this board's own record — this one, the FoB Wrath and Heavyweight contender of 2004 (carnage-fob), and the “Artist Formerly Known as ‘Carnage’” the fed's own October 2005 recap identifies as Trey Deep. Filed distinct; recorded in data/review-queue.json. Also shares the name with carnage (IWF/GIWF).",
+    "with": []
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed against Tatewaki Kuno on the farewell show, one of two names on that card whose own thread the booker opened and nobody answered.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "shane-helms-icw-pweboard",
+  "type": "character",
+  "name": "Shane Helms",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Carded in the fed's own forum as “Hawk Vs. Shane Helms” (the fed's own forum as the board rendered it on 15 December 2005 (/promotions/pwe-inc/archive/forum-icw-the-last-call-130.html))."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed against Hawk on ICW's last card.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "shane-helms-real",
+   "grade": "primary-source",
+   "note": "The farewell card and the show forum both bill this character under the real performer's own name — “Shane Helms” on the card, “Hawk Vs. Shane Helms” in the forum."
+  },
+  "portrayal_of": "shane-helms-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "No other promotion in the registry currently carries a portrayal of this real performer. The distinctness assertion is recorded ahead of one, per the per-promotion portrayal rule: a real wrestler's character row is always a per-promotion row and never merges across promotions, whatever else is minted later.",
+    "with": []
+   }
+  ]
+ },
+ {
+  "id": "hellraiser-icw-pweboard",
+  "type": "character",
+  "name": "Hellraiser",
+  "aka": [
+   "'Raiser"
+  ],
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "The fed's own forum carries a topic titled “Hellraiser Bio”, posted 31 October 2005 (the fed's own forum as the board rendered it on 15 December 2005 (/promotions/pwe-inc/archive/forum-icw-the-last-call-130.html))."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed on the farewell card as “'Raiser”, which drew the only heckle the thread produced — “Don't be afraid to add the extra word” — and posted a bio for himself three weeks later.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "masked-icw-pweboard",
+  "type": "character",
+  "name": "Masked",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Named on the scheduled-superstars list only: the show forum's own topic list, which carries the rest of the booked card, never books this name into a match."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One of the twenty names ICW advertised for its own last night.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "allen-miles-icw-pweboard",
+  "type": "character",
+  "name": "Allen Miles",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "The card's own thread carries the reply “Allen Miles...rotfl”."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Advertised for ICW's farewell show, and the only name on the list a reader laughed at out loud.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "nightcrawler-icw-pweboard",
+  "type": "character",
+  "name": "Nightcrawler",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Carded in the fed's own forum as “Nightcrawler Vs. Neta”, five replies deep (the fed's own forum as the board rendered it on 15 December 2005 (/promotions/pwe-inc/archive/forum-icw-the-last-call-130.html))."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed against Neta on ICW's last card, in one of the five matches whose thread actually filled up.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "demention-x-icw-pweboard",
+  "type": "character",
+  "name": "Demention X",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Named on the scheduled-superstars list only: the show forum's own topic list, which carries the rest of the booked card, never books this name into a match."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One of the twenty names ICW advertised for its own last night.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jonathon-monroe-icw-pweboard",
+  "type": "character",
+  "name": "Jonathon “Happy” Monroe",
+  "aka": [
+   "Happy",
+   "Jonathon Monroe"
+  ],
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Carded in the fed's own forum as “The Undertaker Vs. Jonathon Monroe” (the fed's own forum as the board rendered it on 15 December 2005 (/promotions/pwe-inc/archive/forum-icw-the-last-call-130.html))."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed against the Undertaker on ICW's last card, and joined the board a fortnight before it under a thread titled “Happy Joinning the fun”.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "halie-icw-pweboard",
+  "type": "character",
+  "name": "Halie",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Named on the scheduled-superstars list only: the show forum's own topic list, which carries the rest of the booked card, never books this name into a match."
+   }
+  ],
+  "staged_gender": "female",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One of the twenty names ICW advertised for its own last night.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "undertaker-icw-pweboard",
+  "type": "character",
+  "name": "Undertaker",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Carded in the fed's own forum as “The Undertaker Vs. Jonathon Monroe” (the fed's own forum as the board rendered it on 15 December 2005 (/promotions/pwe-inc/archive/forum-icw-the-last-call-130.html))."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed against Jonathon Monroe on ICW's last card.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "the-undertaker-real",
+   "grade": "primary-source",
+   "note": "The farewell card and the show forum both bill this character under the real performer's own ring name — “Undertaker” on the card, “The Undertaker Vs. Jonathon Monroe” in the forum."
+  },
+  "portrayal_of": "the-undertaker-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-undertaker-chwe",
+     "the-undertaker-czwf-2005",
+     "the-undertaker-ewa-email",
+     "the-undertaker-faw",
+     "the-undertaker-zwf",
+     "undertaker-action-extreme-wrestling",
+     "undertaker-dreamcard",
+     "undertaker-uwf-uwow",
+     "undertaker-uwow",
+     "undertaker-wcotw"
+    ],
+    "note": "Per the per-promotion portrayal rule, restating the real-wrestler portrayal rule — “real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge” — this row is one promotion's own portrayal of a real professional wrestler and is never merged with another promotion's; the external-figures.json row is the only node they share. Recorded distinct at the tier-3 pass of 2026-09-02, which is also when the portrayal edge this row had been missing was added."
+   }
+  ]
+ },
+ {
+  "id": "neta-icw-pweboard",
+  "type": "character",
+  "name": "Neta",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "The fed's own forum carries a topic titled “Neta's ICW Bio — For match writers, mems, etc.”, posted 25 October 2005 (the fed's own forum as the board rendered it on 15 December 2005 (/promotions/pwe-inc/archive/forum-icw-the-last-call-130.html))."
+   },
+   {
+    "promotion": "pwe-inc",
+    "first_seen": "2005-10-10",
+    "last_seen": "2005-10-10",
+    "role": "wrestler — PWE Silver Crown Round Robin",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "PWE's own Underground Network of 10 October 2005, where he loses a PWE Silver Crown Round Robin match to Tom Brandi and is shown re-injuring his knee (/promotions/pwe-inc/archive/underground-network-oct-10-milw-wi-2005-10-09.html)"
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Wrote his own bio for the show's match writers — “For match writers, mems, etc.” — and answered the card announcement with two words: “Ohhh yesss.”",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "randy-orton-icw-pweboard",
+  "type": "character",
+  "name": "Randy Orton",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Named on the scheduled-superstars list only: the show forum's own topic list, which carries the rest of the booked card, never books this name into a match."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "One of the twenty names ICW advertised for its own last night.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "portrays": {
+   "figure": "randy-orton-real",
+   "grade": "primary-source",
+   "note": "The farewell card bills this character under the real performer's own name."
+  },
+  "portrayal_of": "randy-orton-real",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "randy-orton-czwf-2005",
+     "randy-orton-uwf-uwow",
+     "randy-orton-uwow"
+    ],
+    "note": "Per the per-promotion portrayal rule, restating the real-wrestler portrayal rule — “real wrestlers go in, but exclusively in the per-promotion portrayals, never merged across promotions, always linked by the portrayal edge” — this row is one promotion's own portrayal of a real professional wrestler and is never merged with another promotion's; the external-figures.json row is the only node they share. Recorded distinct at the tier-3 pass of 2026-09-02, which is also when the portrayal edge this row had been missing was added."
+   }
+  ]
+ },
+ {
+  "id": "hawk-icw-pweboard",
+  "type": "character",
+  "name": "Hawk",
+  "tenures": [
+   {
+    "promotion": "icw-pweboard",
+    "first_seen": "2005-11-14",
+    "last_seen": "2005-11-14",
+    "role": "wrestler — billed for ICW: The Last Call",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "source": "the show's own scheduled-superstars list, posted 2 October 2005 and edited four days later (/promotions/pwe-inc/archive/icw-tlc-dated-2005-10-02.html)",
+    "note": "Carded in the fed's own forum as “Hawk Vs. Shane Helms” (the fed's own forum as the board rendered it on 15 December 2005 (/promotions/pwe-inc/archive/forum-icw-the-last-call-130.html))."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "trent-hawk-ucw-pweboard",
+     "silverhawk-acw"
+    ],
+    "note": "Billed as “Hawk”, one word, against Trent Hawk of Ultimate Championship Wrestling, who was working the same board the same month; nothing connects them but the surname, and the pair is recorded in data/review-queue.json. Also flagged against silverhawk-acw, an unrelated entity whose own billing contains the word."
+   }
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "caption": "Billed against Shane Helms on ICW's last card, and named last on a list its own poster said was in the order people had accepted.",
+  "caption_asof": {
+   "written": "2026-08-24",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ }
+]

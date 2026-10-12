@@ -1,0 +1,2904 @@
+[
+ {
+  "id": "bill-dundee-rswa",
+  "type": "character",
+  "name": "Bill Dundee",
+  "aka": [
+   "Superstar Billy Dundee"
+  ],
+  "caption": "Staged as the reigning CWA Champion who lost the belt to Eddie Gilbert in a Coal Miner's Glove Match on RSWA's own Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Bill Dundee, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "bill-dundee-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "bill-dundee-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — CWA Champion (lost the belt, 22 Jan 1990)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "eddie-gilbert-rswa",
+  "type": "character",
+  "name": "Eddie Gilbert",
+  "caption": "Won the CWA title from Bill Dundee in a Coal Miner's Glove Match on RSWA's own Memphis card, then was billed to defend it against Jeff Jarrett on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Eddie Gilbert, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "eddie-gilbert-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "eddie-gilbert-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — CWA Champion (won the belt, 22 Jan 1990)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "terry-gordy-rswa",
+  "type": "character",
+  "name": "Terry Gordy",
+  "caption": "Paired with Stan Hansen against his own real-life Freebirds stablemates Michael Hayes and Jimmy Garvin in a Memphis-card mixed-up tag whose own results post declares a winner neither side's own billing names.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Terry Gordy, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "terry-gordy-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "terry-gordy-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "terry-gordy-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "stan-hansen-rswa",
+  "type": "character",
+  "name": "Stan Hansen",
+  "aka": [
+   "Stan Hanson"
+  ],
+  "caption": "Tagged with Terry Gordy against the Freebirds on the Memphis card, then billed opposite the Valiant Brothers for the RSWA World Tag-Team titles on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Stan Hansen, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "stan-hansen-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "stan-hansen-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "michael-hayes-rswa",
+  "type": "character",
+  "name": "Michael Hayes",
+  "caption": "Billed as one half of \"The Freebirds\" against Terry Gordy and Stan Hansen on the Memphis card, in a match whose own declared winners match neither side.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Michael Hayes, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "michael-hayes-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "michael-hayes-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — the Freebirds",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "jimmy-garvin-rswa",
+  "type": "character",
+  "name": "Jimmy Garvin",
+  "caption": "Billed as one half of \"The Freebirds\" against Terry Gordy and Stan Hansen on the Memphis card, in a match whose own declared winners match neither side.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Jimmy Garvin, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "jimmy-garvin-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "jimmy-garvin-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "jimmy-garvin-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — the Freebirds",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "jim-duggan-rswa",
+  "type": "character",
+  "name": "Jim Duggan",
+  "caption": "Teamed with the Bushwackers to beat the Midnight Express and Kevin Sullivan in a barbed-wire cage match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Jim Duggan, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "jim-duggan-uwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "jim-duggan-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "jim-duggan-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "kevin-sullivan-rswa",
+  "type": "character",
+  "name": "Kevin Sullivan",
+  "caption": "Teamed with the Midnight Express and lost to the Bushwackers and Jim Duggan in a barbed-wire cage match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Kevin Sullivan, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "kevin-sullivan-uwf-uwow",
+     "kevin-sullivan-uwow",
+     "kevin-sullivan-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "kevin-sullivan-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "kevin-sullivan-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "ric-flair-rswa",
+  "type": "character",
+  "name": "Ric Flair",
+  "caption": "Lost to Curt Hennig by countout in a World title elimination match on the Memphis card after breaking the Genius's leg with a Figure Four in retaliation for his interference; billed to face Dory Funk Jr. in the same match type on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Ric Flair, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "ric-flair-uwf-uwow",
+     "ric-flair-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "ric-flair-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "ric-flair-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "curt-hennig-rswa",
+  "type": "character",
+  "name": "Curt Hennig",
+  "aka": [
+   "Mr. Perfect",
+   "Curt Henning"
+  ],
+  "caption": "Beat Ric Flair by countout in a World title elimination match on the Memphis card, then was billed to challenge Bruno Sammartino for the RSWA World Heavyweight title on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Curt Hennig, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "curt-hennig-faw",
+     "curt-hennig-uwf-uwow",
+     "curt-hennig-uwow",
+     "euwc-perfect-pugilest"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "curt-hennig-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "curt-hennig-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "the-genius-rswa",
+  "type": "character",
+  "name": "The Genius",
+  "caption": "Interfered in the Flair/Hennig match on the Memphis card and had his own leg broken by an irate Ric Flair's Figure Four in retaliation.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler The Genius, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "the-genius-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "the-genius-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "manager"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "carlos-colon-rswa",
+  "type": "character",
+  "name": "Carlos Colón",
+  "caption": "Beat Hulk Hogan by disqualification on the Memphis card after a Hogan attack, and the results post has him swearing revenge.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Carlos Colón, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "carlos-colon-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "carlos-colon-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "hulk-hogan-rswa",
+  "type": "character",
+  "name": "Hulk Hogan",
+  "caption": "Disqualified against Carlos Colón on the Memphis card after attacking him, then billed alongside Bruiser Brody against Ultimate Warrior and Andre the Giant in a Triple Dome of Terror Cage Match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Hulk Hogan, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "hulk-hogan-icwc",
+     "hulk-hogan-nfw",
+     "hulk-hogan-uwf-uwow",
+     "hulk-hogan-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "hulk-hogan-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "hulk-hogan-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "sid-vicious-rswa",
+  "type": "character",
+  "name": "Sid Vicious",
+  "aka": [
+   "Sid Viscious"
+  ],
+  "caption": "Rode with the Road Warriors, Dick the Bruiser and the Crusher to a win over Demolition, the Skyscrapers and King Kong Bundy in a Wargames cage match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Sid Vicious, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "sid-vicious-icwc",
+     "sid-vicious-uwf-uwow",
+     "sid-vicious-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "sid-vicious-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "sid-vicious-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "dick-the-bruiser-rswa",
+  "type": "character",
+  "name": "Dick the Bruiser",
+  "caption": "Rode with the Road Warriors, Sid Vicious and the Crusher to a win over Demolition, the Skyscrapers and King Kong Bundy in a Wargames cage match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Dick the Bruiser, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "dick-the-bruiser-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "dick-the-bruiser-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "dick-the-bruiser-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "the-crusher-rswa",
+  "type": "character",
+  "name": "The Crusher",
+  "caption": "Rode with the Road Warriors, Sid Vicious and Dick the Bruiser to a win over Demolition, the Skyscrapers and King Kong Bundy in a Wargames cage match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler The Crusher, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "the-crusher-napw",
+     "the-crusher-uwow",
+     "the-crusher-wewf"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "the-crusher-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "the-crusher-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "king-kong-bundy-rswa",
+  "type": "character",
+  "name": "King Kong Bundy",
+  "caption": "Fell with Demolition and the Skyscrapers to the Road Warriors' team in a Wargames cage match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler King Kong Bundy, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "king-kong-bundy-uwf-uwow",
+     "king-kong-bundy-uwow",
+     "king-kong-bundy-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "king-kong-bundy-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "king-kong-bundy-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "dan-spivey-rswa",
+  "type": "character",
+  "name": "Dan Spivey",
+  "caption": "Left injured and hospitalized for a week after the Skyscrapers' Wargames-cage loss on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Dan Spivey, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "dan-spivey-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "dan-spivey-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — the Skyscrapers",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "dusty-rhodes-rswa",
+  "type": "character",
+  "name": "Dusty Rhodes",
+  "caption": "Teamed with Dick Murdoch to beat the Funks in a bloody double bullrope match on the Memphis card, then was billed against Harley Race for the Florida State title on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Dusty Rhodes, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "dusty-rhodes-uwf-uwow",
+     "dusty-rhodes-uwow",
+     "dusty-rhodes-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "dusty-rhodes-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "dusty-rhodes-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "dick-murdoch-rswa",
+  "type": "character",
+  "name": "Dick Murdoch",
+  "caption": "Teamed with Dusty Rhodes to beat the Funks in a bloody double bullrope match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Dick Murdoch, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "dick-murdoch-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "dick-murdoch-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "terry-funk-rswa",
+  "type": "character",
+  "name": "Terry Funk",
+  "caption": "Lost with Dory Funk Jr. to Dusty Rhodes and Dick Murdoch in a bloody double bullrope match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Terry Funk, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "terry-funk-agw",
+     "terry-funk-uwf-uwow",
+     "terry-funk-uwow",
+     "terry-funk-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "terry-funk-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "terry-funk-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "dory-funk-jr-rswa",
+  "type": "character",
+  "name": "Dory Funk Jr.",
+  "caption": "Lost with Terry Funk to Dusty Rhodes and Dick Murdoch in a bloody double bullrope match on the Memphis card, then was billed against Ric Flair in a World title elimination match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Dory Funk Jr., distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "dory-funk-jr-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "dory-funk-jr-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "steve-williams-rswa",
+  "type": "character",
+  "name": "\"Dr. Death\" Steve Williams",
+  "caption": "Beat Ted DiBiase easily on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler \"Dr. Death\" Steve Williams, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "steve-williams-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "steve-williams-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "ted-dibiase-rswa",
+  "type": "character",
+  "name": "Ted DiBiase",
+  "caption": "Lost to Dr. Death Steve Williams easily on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Ted DiBiase, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "ted-dibiase-sr-uwf-uwow",
+     "ted-dibiase-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "ted-dibiase-sr-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "ted-dibiase-sr-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "kerry-von-erich-rswa",
+  "type": "character",
+  "name": "Kerry Von Erich",
+  "caption": "Fought alongside four brothers in the Memphis card's Wargames-cage \"barbeque,\" then was billed to challenge Lex Luger for the US title on the unresulted Tampa card, whose own billing still calls Luger champion after the Memphis card gave the belt to Nikita Koloff.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Kerry Von Erich, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "kerry-von-erich-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "kerry-von-erich-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "kevin-von-erich-rswa",
+  "type": "character",
+  "name": "Kevin Von Erich",
+  "caption": "Burned by the Original Sheik and one of two Von Erich brothers who submitted at the same moment, losing the Memphis card's Wargames-cage \"barbeque\" for his side.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Kevin Von Erich, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "kevin-von-erich-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "kevin-von-erich-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "david-von-erich-rswa",
+  "type": "character",
+  "name": "David Von Erich",
+  "caption": "Staged at the peak of his career on the Memphis card's Wargames-cage \"barbeque,\" one of the fed's own dead wrestlers cast alongside the living per its founding post's own instruction.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler David Von Erich, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "david-von-erich-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "david-von-erich-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "mike-von-erich-rswa",
+  "type": "character",
+  "name": "Mike Von Erich",
+  "caption": "One of two Von Erich brothers who submitted at the same moment, losing the Memphis card's Wargames-cage \"barbeque\" for his side — staged at the peak of his career, one of the fed's own dead wrestlers cast alongside the living.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Mike Von Erich, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "mike-von-erich-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "mike-von-erich-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "chris-von-erich-rswa",
+  "type": "character",
+  "name": "Chris Von Erich",
+  "caption": "Burned by the Original Sheik and reportedly eaten by Abdullah the Butcher in the Memphis card's Wargames-cage \"barbeque.\"",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Chris Von Erich, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "chris-von-erich-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "chris-von-erich-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "ivan-koloff-rswa",
+  "type": "character",
+  "name": "Ivan Koloff",
+  "caption": "Fought in the Memphis card's Wargames-cage \"barbeque\" against the Von Erichs, then seconded his nephew Nikita against Lex Luger with a chain later on the same card, per a second poster's own fuller telling of that match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Ivan Koloff, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "ivan-koloff-icwc",
+     "ivan-koloff-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "ivan-koloff-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "ivan-koloff-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler / second",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "bruiser-brody-rswa",
+  "type": "character",
+  "name": "Bruiser Brody",
+  "caption": "Staged at the peak of his career against the Von Erichs in the Memphis card's Wargames-cage \"barbeque,\" one of the fed's own dead wrestlers cast alongside the living; billed alongside Hulk Hogan against Ultimate Warrior and Andre the Giant on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Bruiser Brody, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "bruiser-brody-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "bruiser-brody-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "kamala-rswa",
+  "type": "character",
+  "name": "Kamala",
+  "caption": "Fought in the Memphis card's Wargames-cage \"barbeque\" against the Von Erichs.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Kamala, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "kamala-uwow",
+     "kamala-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "kamala-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "kamala-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "abdullah-the-butcher-rswa",
+  "type": "character",
+  "name": "Abdullah the Butcher",
+  "caption": "Reportedly snacked on Chris Von Erich's charred flesh in the Memphis card's Wargames-cage \"barbeque\"; billed against the Original Sheik in a no-DQ, no-time-limit match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Abdullah the Butcher, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "abdullah-the-butcher-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "abdullah-the-butcher-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "abdullah-the-butcher-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "the-original-sheik-rswa",
+  "type": "character",
+  "name": "The Original Sheik",
+  "caption": "Burned Chris and Kevin Von Erich in the Memphis card's Wargames-cage \"barbeque\"; billed against his own Memphis-card partner Abdullah the Butcher on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler The Original Sheik, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "the-original-sheik-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "the-original-sheik-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "nikita-koloff-rswa",
+  "type": "character",
+  "name": "Nikita Koloff",
+  "caption": "Pinned Lex Luger with the Russian Sickle on the Memphis card to become the new US Heavyweight Champion.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Nikita Koloff, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "nikita-koloff-icwc",
+     "nikita-koloff-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "nikita-koloff-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "nikita-koloff-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — US Heavyweight Champion (won the belt, 22 Jan 1990)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "lex-luger-rswa",
+  "type": "character",
+  "name": "Lex Luger",
+  "aka": [
+   "Lex Lugar"
+  ],
+  "caption": "Lost the US Heavyweight title to Nikita Koloff on the Memphis card, then was billed defending what the Tampa card's own text still calls \"his\" US title against Kerry Von Erich.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Lex Luger, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "lex-luger-agw",
+     "lex-luger-faw",
+     "lex-luger-icwc",
+     "lex-luger-uwf-uwow",
+     "lex-luger-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "lex-luger-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "lex-luger-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — US Heavyweight Champion (lost the belt, 22 Jan 1990)",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "mike-rotundo-rswa",
+  "type": "character",
+  "name": "Mike Rotundo",
+  "caption": "Ran in against Ivan Koloff during the Koloff/Luger US title match on the Memphis card, per a second poster's own fuller telling of that match.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Mike Rotundo, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "mike-rotundo-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "mike-rotundo-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "mike-rotundo-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "bill-watts-rswa",
+  "type": "character",
+  "name": "\"Cowboy\" Bill Watts",
+  "caption": "Beat Fritz Von Erich quickly in a promoters' grudge match on the Memphis card, with Fritz distracted by worry over his sons.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler \"Cowboy\" Bill Watts, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "bill-watts-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "bill-watts-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "fritz-von-erich-rswa",
+  "type": "character",
+  "name": "Fritz Von Erich",
+  "caption": "Lost quickly to Bill Watts in a promoters' grudge match on the Memphis card, distracted by worry over his sons' own Wargames-cage match earlier on the same card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Fritz Von Erich, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "fritz-von-erich-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "fritz-von-erich-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "bruno-sammartino-rswa",
+  "type": "character",
+  "name": "Bruno Sammartino",
+  "aka": [
+   "Bruno Samartino"
+  ],
+  "caption": "Retained the RSWA World Heavyweight title against Andre the Giant in the Memphis card's own triple main event, then was billed to defend it again against Curt Hennig on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Bruno Sammartino, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "bruno-sammartino-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "bruno-sammartino-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "bruno-sammartino-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — RSWA World Heavyweight Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "andre-the-giant-rswa",
+  "type": "character",
+  "name": "Andre the Giant",
+  "caption": "Challenged Bruno Sammartino for the RSWA World Heavyweight title and lost in the Memphis card's own triple main event; billed against Ultimate Warrior alongside him vs. Hulk Hogan/Bruiser Brody on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Andre the Giant, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "andre-the-giant-uwf-uwow",
+     "andre-the-giant-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "andre-the-giant-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "andre-the-giant-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "verne-gagne-rswa",
+  "type": "character",
+  "name": "Verne Gagne",
+  "caption": "Teamed with his son Greg in a losers-leave-the-RSWA cage match against Nick Bockwinkel and Ray Stevens on the Memphis card, and lost.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Verne Gagne, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "verne-gagne-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "verne-gagne-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "verne-gagne-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "greg-gagne-rswa",
+  "type": "character",
+  "name": "Greg Gagne",
+  "caption": "Teamed with his father Verne in a losers-leave-the-RSWA cage match against Nick Bockwinkel and Ray Stevens on the Memphis card, and lost.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Greg Gagne, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "greg-gagne-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "greg-gagne-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "nick-bockwinkel-rswa",
+  "type": "character",
+  "name": "Nick Bockwinkel",
+  "aka": [
+   "Nick Bockwinkle"
+  ],
+  "caption": "Teamed with Ray Stevens to beat Verne and Greg Gagne in a losers-leave-the-RSWA cage match on the Memphis card, the results post crediting cheating over purity.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Nick Bockwinkel, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "nick-bockwinkel-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "nick-bockwinkel-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "nick-bockwinkel-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "ray-stevens-rswa",
+  "type": "character",
+  "name": "Ray Stevens",
+  "caption": "Teamed with Nick Bockwinkel to beat Verne and Greg Gagne in a losers-leave-the-RSWA cage match on the Memphis card, the results post crediting cheating over purity.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Ray Stevens, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "ray-stevens-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "ray-stevens-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "jerry-lawler-rswa",
+  "type": "character",
+  "name": "Jerry Lawler",
+  "caption": "Teamed with Bam Bam Bigelow to send Tommy Rich and Austin Idol to the hospital in a Thunderdome cage match on the Memphis card, then was billed against Larry Zbyszko in a Memphis Chain Match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Jerry Lawler, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "jerry-lawler-icwc",
+     "jerry-lawler-uwf-uwow",
+     "jerry-lawler-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "jerry-lawler-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "jerry-lawler-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "bam-bam-bigelow-rswa",
+  "type": "character",
+  "name": "Bam Bam Bigelow",
+  "caption": "Teamed with Jerry Lawler to send Tommy Rich and Austin Idol to the hospital in a Thunderdome cage match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Bam Bam Bigelow, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "bam-bam-bigelow-glw",
+     "bam-bam-bigelow-uwf-uwow",
+     "bam-bam-bigelow-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "bam-bam-bigelow-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "bam-bam-bigelow-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "tommy-rich-rswa",
+  "type": "character",
+  "name": "Tommy Rich",
+  "caption": "Sent to the hospital alongside Austin Idol by Jerry Lawler and Bam Bam Bigelow in a Thunderdome cage match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Tommy Rich, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "tommy-rich-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "tommy-rich-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "austin-idol-rswa",
+  "type": "character",
+  "name": "Austin Idol",
+  "caption": "Sent to the hospital alongside Tommy Rich by Jerry Lawler and Bam Bam Bigelow in a Thunderdome cage match on the Memphis card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Austin Idol, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "austin-idol-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "austin-idol-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "The fed's own served cards and results, January 1990.",
+    "grade": "primary-source"
+   }
+  ]
+ },
+ {
+  "id": "billy-graham-rswa",
+  "type": "character",
+  "name": "\"Superstar\" Billy Graham",
+  "caption": "Billed against Wahoo McDaniel in an Indian Strap Match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler \"Superstar\" Billy Graham, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "billy-graham-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "billy-graham-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "billy-graham-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "wahoo-mcdaniel-rswa",
+  "type": "character",
+  "name": "Wahoo McDaniel",
+  "caption": "Billed against \"Superstar\" Billy Graham in an Indian Strap Match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Wahoo McDaniel, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "wahoo-mcdaniel-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "wahoo-mcdaniel-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "jeff-jarrett-rswa",
+  "type": "character",
+  "name": "Jeff Jarrett",
+  "caption": "Billed against Eddie Gilbert for the CWA title on the unresulted Tampa card, with a wager that a Jarrett win means a date with Miss Hyatt.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Jeff Jarrett, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "jeff-jarrett-euwc",
+     "jeff-jarrett-icwc",
+     "jeff-jarrett-pwe-inc",
+     "jeff-jarrett-uwf-uwow",
+     "jeff-jarrett-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "jeff-jarrett-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "jeff-jarrett-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "harley-race-rswa",
+  "type": "character",
+  "name": "Harley Race",
+  "caption": "Billed against Dusty Rhodes for the Florida State title on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Harley Race, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "harley-race-uwf-uwow",
+     "harley-race-uwow",
+     "harley-race-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "harley-race-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "harley-race-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "ken-patera-rswa",
+  "type": "character",
+  "name": "Ken Patera",
+  "caption": "Billed with John Studd against the Road Warriors in a cage match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Ken Patera, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "ken-patera-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "ken-patera-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "john-studd-rswa",
+  "type": "character",
+  "name": "John Studd",
+  "caption": "Billed with Ken Patera against the Road Warriors in a cage match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler John Studd, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "big-john-studd-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "big-john-studd-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "al-perez-rswa",
+  "type": "character",
+  "name": "Al Perez",
+  "caption": "Billed against Tito Santana on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Al Perez, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": []
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "al-perez-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "al-perez-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "tito-santana-rswa",
+  "type": "character",
+  "name": "Tito Santana",
+  "caption": "Billed against Al Perez on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Tito Santana, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "tito-santana-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "tito-santana-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "tito-santana-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "larry-zbyszko-rswa",
+  "type": "character",
+  "name": "Larry Zbyszko",
+  "aka": [
+   "Larry Zbysko"
+  ],
+  "caption": "Billed against Jerry Lawler in a Memphis Chain Match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Larry Zbyszko, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "larry-zbyszko-uwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "larry-zbyszko-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "larry-zbyszko-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "roddy-piper-rswa",
+  "type": "character",
+  "name": "Roddy Piper",
+  "caption": "Billed against Bob Backlund in a title elimination match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Roddy Piper, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "roddy-piper-uwf-uwow",
+     "roddy-piper-wccw"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "roddy-piper-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "roddy-piper-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "bob-backlund-rswa",
+  "type": "character",
+  "name": "Bob Backlund",
+  "caption": "Billed against Roddy Piper in a title elimination match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Bob Backlund, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "bob-backlund-uwow",
+     "bob-backlund-xwf-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "bob-backlund-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "bob-backlund-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ },
+ {
+  "id": "ultimate-warrior-rswa",
+  "type": "character",
+  "name": "Ultimate Warrior",
+  "caption": "Billed alongside Andre the Giant against Hulk Hogan and Bruiser Brody in a Triple Dome of Terror Cage Match on the unresulted Tampa card.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A per-promotion portrayal of the real professional wrestler Ultimate Warrior, distinct from any other promotion's own portrayal of the same real wrestler under the per-promotion portrayal doctrine — never merged across promotions.",
+    "with": [
+     "ultimate-warrior-icwc",
+     "ultimate-warrior-uwf-uwow",
+     "ultimate-warrior-uwow"
+    ]
+   }
+  ],
+  "portrays": [
+   {
+    "figure": "ultimate-warrior-real",
+    "grade": "primary-source"
+   }
+  ],
+  "portrayal_of": "ultimate-warrior-real",
+  "tenures": [
+   {
+    "promotion": "rswa",
+    "first_seen": "1990",
+    "last_seen": "1990",
+    "role": "wrestler — billed appearance only",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Billed on the Tampa card announced within the fed's own 26 January 1990 results post; no results of that card survive.",
+    "grade": "billing"
+   }
+  ]
+ }
+]

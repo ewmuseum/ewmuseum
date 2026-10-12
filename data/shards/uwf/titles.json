@@ -1,0 +1,292 @@
+[
+ {
+  "id": "uwf-contest-of-champions",
+  "type": "title",
+  "name": "Contest of Champions",
+  "promotion": "uwf",
+  "page": "/titles/uwf-contest-of-champions.html",
+  "collection": "0001",
+  "cadence": "annual",
+  "epitaph": "An annual December tournament, run four times on the surviving record: Tsunami Oni won the inaugural in 2002 over runner-up Lacuna Debris, Ruff Ryder the second in 2003 over runner-up Ezra Kazee, Hot Mask the third in January 2005 over runner-up Kenny Mercury, and Clyde the fourth in January 2006 over runner-up Chris Storm.",
+  "epitaph_asof": {
+   "written": "2026-09-30",
+   "evidence": {
+    "reigns": 4
+   },
+   "author": "ai"
+  },
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/77",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "uwf-intercontinental",
+  "type": "title",
+  "name": "Intercontinental Championship",
+  "promotion": "uwf",
+  "page": "/titles/uwf-intercontinental.html",
+  "collection": "0001",
+  "restarted_from": "giwf-intercontinental",
+  "epitaph": "The number-two belt, and the one the North American Championship was twice folded into and pulled back out of — merged 18 January 2004, separated again that August. Its own 2004 Quick Facts credit Joshua Dunn with the longest reign (140 days) and Digital Mortality with the most (three); Seymour Almasy won it once, in a 3-Title/3-Ladder match, and was stripped immediately. Past the fed's own ledger, Richard Hayes renamed it the “Insert-Name-Here Championship” in January 2005, leaving each champion to name the belt and set its rules; Kenny Mercury held it first, then Ruff Ryder and Jamie Shock in the spring, and Clyde from June until James von Doom took it from him in an August unification match with the North American belt, Clyde winning it back in October. Tessa Windsor's own win over Chris Storm at Sins of the Past (2006) is staged in-show as unifying it with the North American belt, though the fed's own site kept tracking both lineages separately afterward.",
+  "epitaph_asof": {
+   "written": "2026-09-30",
+   "evidence": {
+    "reigns": 32
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/78",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "uwf-north-american",
+  "type": "title",
+  "name": "North American Championship",
+  "promotion": "uwf",
+  "page": "/titles/uwf-north-american.html",
+  "collection": "0001",
+  "restarted_from": "giwf-north-american",
+  "epitaph": "Restarted from the GIWF, and blank on the earlier-recovered 2003 title-history page under the note “Title Brought Back From the GIWF Abyss & Restarted by New UWF Owner Al Crud” — a fuller 2004 copy fills it in, and a later rpcommunity.com continuation, captured 2007, carries it a further year past that. Seymour Almasy held it twice inside a single day (won, stripped, won back); James von Doom's own reign is credited 265 days by the source's own count, though its own dates only support 224 — recorded as printed, unreconciled. Merged into the Intercontinental belt in January 2004, pulled back out that August, and unified with it in-show by Tessa Windsor's own win over Chris Storm at Sins of the Past (2006), the fed's own champions overview afterward listing her holding both.",
+  "epitaph_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "reigns": 11
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/79",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "uwf-regal-rumble-championship",
+  "type": "title",
+  "name": "Regal Rumble",
+  "promotion": "uwf",
+  "page": "/titles/uwf-regal-rumble-championship.html",
+  "collection": "0001",
+  "cadence": "annual",
+  "restarted_from": "giwf-regal-rumble",
+  "epitaph": "The GIWF's own annual Rumble, continued under the UWF banner: Shawn Eclipse won it at the Zero Tolerance PPV in January 2002, Kevin Starr at the Coronation PPV in July 2003 over runner-up Misfit, and Tsunami Oni at the Terror in Tokyo PPV in August 2004 over runner-up Jamie Shock.",
+  "epitaph_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "reigns": 3
+   },
+   "author": "ai"
+  },
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/80",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "uwf-shoot-wrestling",
+  "type": "title",
+  "name": "Shoot Wrestling Championship",
+  "promotion": "uwf",
+  "page": "/titles/uwf-shoot-wrestling.html",
+  "collection": "0001",
+  "epitaph": "The THC's own shadow belt, created when hardcore wrestling was banned in December 2001 and the THC itself briefly went dark; ran independently until 16 February 2003, when it was absorbed back into the reunified THC. Seymour Almasy is among its recorded holders.",
+  "epitaph_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "reigns": 14
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "unified_into",
+    "title": "uwf-thc",
+    "date": {
+     "date": "2003-02-16",
+     "precision": "exact"
+    },
+    "note": "Absorbed back into the reunified THC — Jamie Shock's own reign row is marked \"final Shoot Champion; title merged into the THC, 16 Feb 2003\" in the fed's own ledger."
+   }
+  ],
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/81",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "uwf-stable-wars",
+  "type": "title",
+  "name": "Stable Wars",
+  "promotion": "uwf",
+  "page": "/titles/uwf-stable-wars.html",
+  "collection": "0001",
+  "cadence": "annual",
+  "restarted_from": "giwf-stable-wars",
+  "epitaph": "The GIWF's own annual stable tournament, continued under the UWF banner starting with a fourth edition: Generic Faces of Doom in 2002, WACC Mark 4 Stroke 9 in 2003, and Mike Montgomery's own Player's Club at a sixth edition run from Madison Square Garden in 2004.",
+  "epitaph_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "reigns": 3
+   },
+   "author": "ai"
+  },
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/82",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "uwf-television",
+  "type": "title",
+  "name": "Television Championship",
+  "promotion": "uwf",
+  "page": "/titles/uwf-television.html",
+  "collection": "0001",
+  "restarted_from": "giwf-television",
+  "epitaph": "The hot-potato belt of the UWF era, exactly as it had been in the GIWF — the 2004 revision's own Quick Facts credit Shadow Blade with the most reigns (four) and, by its last update, Hot Mask with the longest (79 days). Seymour Almasy held it three times across the run. Several rows carry names the crew would not perform today, marked under the Bum Boozler rule; State Trooper Roger Rogers's own reign ends with him vacating the title and throwing it into a river rather than face Ruff Ryder. After the 2004 revision the belt passed from Silvio Rochelli to James von Doom in the Clash's Television Title Jubilee on 6 March 2005, then to Red Rock, whose reign was the fed's longest to that point, and on through James Mason to Sledge at the Regal Rumble in September.",
+  "epitaph_asof": {
+   "written": "2026-09-30",
+   "evidence": {
+    "reigns": 72
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/83",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ],
+  "events": [
+   {
+    "type": "retired_by_fed",
+    "date": {
+     "date": "2004-01-18",
+     "precision": "exact"
+    },
+    "note": "The belt was put up in a unification match against the World Heavyweight Championship and went dark when its holder won that match and left with the World title instead. The card of that night calls the match on its way to the ring — “One way or the other, the UWF TV Title’s dead after this match” — and the fed's own 2004 title-history revision carries “Title Suspended.” in the holder's place. A battle royal on 25 Apr 2004 brought the belt back."
+   }
+  ]
+ },
+ {
+  "id": "uwf-thc",
+  "type": "title",
+  "name": "THC — (T)he (H)ardcore (C)hampionship",
+  "promotion": "uwf",
+  "page": "/titles/uwf-thc.html",
+  "collection": "0001",
+  "restarted_from": "giwf-thc",
+  "notes": "Source: uwf.org.uk's own title-history page (three versions, May–Oct 2002, predating the 2004-revision ledger this record otherwise draws on) — “Title taken over by the THC championship belt Gurgles salvaged from the GIWF. UWF refuses to sanction title... Gary Clark officially sanctions title during his reign.”",
+  "epitaph": "Spelled out letter by letter, always — the weed-abbreviation gag deliberate. Born at Ground Zero 2001, retired weeks later when hardcore wrestling was banned, then carried back to life by Gurgles on the physical belt he had personally salvaged from the GIWF's own hardcore lineage, re-sanctioned under Gary Clark, and merged with the Shoot Wrestling Championship on 16 February 2003. The Hardcore Isosceles Trapezoid — Sean's own creation alongside Almasy — held it four times, more than anyone else on record; Seymour Almasy held it twice. The 2004 Quick Facts credit Nick Persia with the longest reign, 103 days. After the fed's 2004 title-history revision, Misfit took it from Clyde on 13 February 2005; Clyde had it back by July, lost it to Nick Persia at the Regal Rumble in September, and won it again in the Live and Loud 5 Foundry match, where it was unified with the Insert-Name-Here title.",
+  "epitaph_asof": {
+   "written": "2026-09-30",
+   "evidence": {
+    "reigns": 39
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "events": [
+   {
+    "type": "retired_by_fed",
+    "date": {
+     "date": "2001-12-05",
+     "precision": "exact"
+    },
+    "note": "Hardcore wrestling itself was banned; the belt went dark, with the Shoot Wrestling Championship standing in, per the fed's own 2004 title-history revision."
+   }
+  ],
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/84",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "uwf-world-heavyweight",
+  "type": "title",
+  "name": "World Heavyweight Championship",
+  "promotion": "uwf",
+  "page": "/titles/uwf-world-heavyweight.html",
+  "collection": "0001",
+  "restarted_from": "giwf-world-heavyweight",
+  "epitaph": "The UWF's top belt, restarted at the September 2001 Live and Loud tournament that closed the GIWF and opened the new fed. Its own Quick Facts, as of the 2004 revision, credit Seymour Almasy with the longest reign (138 days) and a three-way tie for most reigns among Danny Jaye, Almasy, and Tsunami Oni; Ruff Ryder's own 0-day reign — champion and ex-champion inside a single SAS — is its shortest. Six Hall of Famers held it before the fed's own last title-history revision; a museum-compiled continuation past that point carries it on through Kenny Mercury and Jamie Shock in 2005 (Shock won it at FANdamonium DOS in May and lost it to Misfit in a three-way at the Regal Rumble in September), then Killer Dude, Misfit, and Clyde, to a final recorded loss at the independently-hosted Sins of the Past, August 2006.",
+  "epitaph_asof": {
+   "written": "2026-09-30",
+   "evidence": {
+    "reigns": 25
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/85",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ]
+ },
+ {
+  "id": "uwf-world-tag-team",
+  "type": "title",
+  "name": "World Tag Team Championship",
+  "promotion": "uwf",
+  "page": "/titles/uwf-world-tag-team.html",
+  "collection": "0001",
+  "restarted_from": "giwf-world-tag-team",
+  "epitaph": "The Local NVA Company are its defining team, five reigns, more than any other; the UWF era's own longest reign belongs to the Resurrection (Digital Mortality & Moraless, 84 days). On 5 March 2003, Lyle “In Style” Wile won the belts partnered with a VR T-Shirt — the first inanimate object to hold a UWF title.",
+  "epitaph_asof": {
+   "written": "2026-08-18",
+   "evidence": {
+    "reigns": 31
+   },
+   "author": "ai"
+  },
+  "cadence": "standing",
+  "links_out": [
+   {
+    "url": "https://uwf.e-wrestling.org/titlehistory/86",
+    "label": "UWF at the e-wrestling.org Museum",
+    "kind": "titlehistory",
+    "checked": "2026-09-27"
+   }
+  ]
+ }
+]

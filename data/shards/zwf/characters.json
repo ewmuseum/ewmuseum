@@ -1,0 +1,905 @@
+[
+ {
+  "id": "brock-lesnar-zwf",
+  "type": "character",
+  "name": "Brock Lesnar",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "wrestler — ZWF World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-07-01",
+    "last_seen": "2002-08-01",
+    "source": "the fed's own served World Title page (promotions/zwf/archive/world-title.html)"
+   }
+  ],
+  "portrayal_of": "brock-lesnar-real",
+  "portrays": {
+   "figure": "brock-lesnar-real",
+   "grade": "primary-source"
+  },
+  "caption": "Won the ZWF World Championship by default over Jerry Lynn on 1 July 2002, the earliest title change the fed's own surviving record shows; lost it to The Undertaker eighteen days later, then dropped a second match to Jerry Lynn that August in the bout that filled the belt's own vacancy after Sting.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brock-lesnar-pwe-inc",
+     "brock-lesnar-uwf-uwow",
+     "brock-lesnar-xwf-uwow"
+    ],
+    "note": "A real-wrestler portrayal of Brock Lesnar, independently staged by three other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "the-undertaker-zwf",
+  "type": "character",
+  "name": "The Undertaker",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "wrestler — ZWF World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-05",
+    "last_seen": "2002-08-12",
+    "source": "the fed's own served home page and World Title page (promotions/zwf/archive/); Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "the-undertaker-real",
+  "portrays": {
+   "figure": "the-undertaker-real",
+   "grade": "primary-source"
+  },
+  "caption": "Held the World Championship twice in the fed's own account — 19 to 21 July, then again from 12 August onward, its current champion as of its latest content, and separately credited by the same home-page bio blurb with TV and Hardcore reigns whose origin the record never narrates — then won a Summerslam steel-cage title defense over Triple H clean with the Last Ride, after which Sting attacked him, Triple H added a Pedigree, and Sting draped the World Title over him, echoing but never confirmed as the separate 21 July record of Sting defeating him for the belt.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-undertaker-chwe",
+     "the-undertaker-czwf-2005",
+     "undertaker-action-extreme-wrestling",
+     "undertaker-icw-pweboard"
+    ],
+    "note": "A real-wrestler portrayal of The Undertaker, independently staged by four other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "jerry-lynn-zwf",
+  "type": "character",
+  "name": "Jerry Lynn",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "wrestler — World Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-07-01",
+    "last_seen": "2002-08-12",
+    "source": "the fed's own served World Title page (promotions/zwf/archive/world-title.html); Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "jerry-lynn-real",
+  "portrays": {
+   "figure": "jerry-lynn-real",
+   "grade": "primary-source"
+  },
+  "caption": "Dropped the World Championship to Brock Lesnar by default on 1 July 2002, won it back from him one month later in the match that filled Sting's own vacated reign, then lost it to The Undertaker eleven days after that; also ran in on the Zack Harris–Bret Hart Summerslam match with a chair and a Cradle Piledriver.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jerry-lynn-glw"
+    ],
+    "note": "A real-wrestler portrayal of Jerry Lynn, independently staged by GLW's own fed. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "sting-zwf",
+  "type": "character",
+  "name": "Sting",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "wrestler — World Champion (fed's own title ledger)",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)",
+    "note": "The World Title page credits him with defeating The Undertaker for the belt on 21 July 2002; the Summerslam broadcast's own closing angle stages him attacking Undertaker after a cage match Undertaker won clean and draping the title over him — not confirmed as the same event."
+   }
+  ],
+  "portrayal_of": "sting-real",
+  "portrays": {
+   "figure": "sting-real",
+   "grade": "primary-source"
+  },
+  "caption": "Credited in the fed's own account with defeating The Undertaker for the World Championship on 21 July 2002; the served Summerslam broadcast instead closes on Sting attacking Undertaker after a steel-cage match Undertaker won clean and draping the World Title over him, and Jerry Lynn is fighting Brock Lesnar for the belt eleven days later — the two accounts never explicitly joined.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sting-agw",
+     "sting-pwe-inc",
+     "sting-dreamcard",
+     "sting-action-extreme-wrestling",
+     "sting-uwf-uwow",
+     "sting-uwow"
+    ],
+    "note": "A real-wrestler portrayal of Sting, independently staged by six other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "triple-h-zwf",
+  "type": "character",
+  "name": "Triple H",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "triple-h-real",
+  "portrays": {
+   "figure": "triple-h-real",
+   "grade": "primary-source"
+  },
+  "caption": "Lost a steel-cage World Championship match to The Undertaker at Summerslam, kicking out of a Chokeslam before falling to the Last Ride; got up afterward to help Sting beat Undertaker down.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "triple-h-agw",
+     "triple-h-iwa-icon",
+     "triple-h-nwwa-1998",
+     "triple-h-pwe-inc",
+     "triple-h-uwf-uwow",
+     "triple-h-uwow"
+    ],
+    "note": "A real-wrestler portrayal of Triple H, independently staged by six other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "chris-jericho-zwf",
+  "type": "character",
+  "name": "Chris Jericho",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "wrestler — Light Heavyweight and Eurocontinental Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "chris-jericho-real",
+  "portrays": {
+   "figure": "chris-jericho-real",
+   "grade": "primary-source"
+  },
+  "caption": "Entered Summerslam a double champion — Light Heavyweight and Eurocontinental — and left with one: Lita reversed his top-rope Lionsault into a rollup for the Light Heavyweight title, while he kept the Eurocontinental championship against Booker T with a Lionsault of his own after countering the Bookend.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 2,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chris-jericho-faw",
+     "chris-jericho-icwc",
+     "chris-jericho-nwwa-1998",
+     "chris-jericho-uwf-uwow",
+     "chris-jericho-uwl",
+     "chris-jericho-uwow"
+    ],
+    "note": "A real-wrestler portrayal of Chris Jericho, independently staged by six other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "chris-benoit-zwf",
+  "type": "character",
+  "name": "Chris Benoit",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "chris-benoit-real",
+  "portrays": {
+   "figure": "chris-benoit-real",
+   "grade": "primary-source"
+  },
+  "caption": "Lost to the original character Moonwolfe at Summerslam via the Top Rope Calimity, then choked him out after the bell until officials pulled him off.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "chris-benoit-faw",
+     "chris-benoit-icwc",
+     "chris-benoit-uwow"
+    ],
+    "note": "A real-wrestler portrayal of Chris Benoit, independently staged by three other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "booker-t-zwf",
+  "type": "character",
+  "name": "Booker T",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "booker-t-real",
+  "portrays": {
+   "figure": "booker-t-real",
+   "grade": "primary-source"
+  },
+  "caption": "Challenged Chris Jericho for the Eurocontinental Championship at Summerslam — entering, per the fed's own text, \"with both Eurpean Title and Intercontinental Title\" — and lost, reversing a near-fall Bookend before Jericho's own Lionsault put him away.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "booker-t-icwc",
+     "booker-t-uwf-uwow",
+     "booker-t-uwow",
+     "booker-t-xwf-uwow"
+    ],
+    "note": "A real-wrestler portrayal of Booker T, independently staged by four other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "x-pac-zwf",
+  "type": "character",
+  "name": "X-Pac",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "wrestler — TV Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "sean-waltman-real",
+  "portrays": {
+   "figure": "sean-waltman-real",
+   "grade": "primary-source"
+  },
+  "caption": "Lost the TV Championship to Jeff Hardy in a Summerslam Triple Threat also involving Zero, pinned by the Swanton Bomb.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "x-pac-action-extreme-wrestling",
+     "x-pac-chwe",
+     "x-pac-faw",
+     "x-pac-icwc"
+    ],
+    "note": "A real-wrestler portrayal of X-Pac, independently staged by four other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "jeff-hardy-zwf",
+  "type": "character",
+  "name": "Jeff Hardy",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "jeff-hardy-real",
+  "portrays": {
+   "figure": "jeff-hardy-real",
+   "grade": "primary-source"
+  },
+  "caption": "Won the TV Championship from X-Pac at Summerslam, breaking up an X-Pac pin on Zero, putting Zero through a table with the Twist of Fate, then pinning X-Pac with the Swanton Bomb.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jeff-hardy-icwc",
+     "jeff-hardy-uwf-uwow",
+     "jeff-hardy-uwow"
+    ],
+    "note": "A real-wrestler portrayal of Jeff Hardy, independently staged by three other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "bret-hart-zwf",
+  "type": "character",
+  "name": "Bret Hart",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "bret-hart-real",
+  "portrays": {
+   "figure": "bret-hart-real",
+   "grade": "primary-source"
+  },
+  "caption": "Fought Zack Harris to a Summerslam double pin after Jerry Lynn's interference — a chair shot and a Cradle Piledriver on the chair — left both men trading a sledgehammer and a chair shot before the referee counted them both down together.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bret-hart-agw",
+     "bret-hart-icwc",
+     "bret-hart-uwow"
+    ],
+    "note": "A real-wrestler portrayal of Bret Hart, independently staged by three other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "the-rock-zwf",
+  "type": "character",
+  "name": "The Rock",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "wrestler — Hardcore Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "the-rock-real",
+  "portrays": {
+   "figure": "the-rock-real",
+   "grade": "primary-source"
+  },
+  "caption": "Defended the Hardcore Championship against Supernova in a Summerslam weapons brawl, retaining with a second Rock Bottom that drove Supernova through a table.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-rock-agw",
+     "the-rock-chwe",
+     "the-rock-faw",
+     "the-rock-nwwa-1998",
+     "the-rock-uwf-uwow",
+     "the-rock-uwow"
+    ],
+    "note": "A real-wrestler portrayal of The Rock, independently staged by six other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ]
+ },
+ {
+  "id": "lita-zwf",
+  "type": "character",
+  "name": "Lita",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "wrestler — Light Heavyweight Champion",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrayal_of": "amy-dumas-real",
+  "portrays": {
+   "figure": "amy-dumas-real",
+   "grade": "primary-source"
+  },
+  "caption": "Won the Light Heavyweight Championship from Chris Jericho at Summerslam, reversing his top-rope Lionsault into a rollup.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jim-ross-zwf",
+  "type": "character",
+  "name": "Jim Ross",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "portrays": {
+   "figure": "jim-ross-real",
+   "grade": "primary-source",
+   "note": "Named and staged directly under his own real name (\"JR\"), calling ZWF's own Summerslam broadcast — the real play-by-play voice doing the real job he was known for."
+  },
+  "caption": "Called the Summerslam broadcast alongside The King, under his own real name.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jim-ross-xuw"
+    ],
+    "note": "XUW's own \"jim-ross-xuw\" is a fed-original wrestling gimmick (\"Pet Coon Goofy\") that borrows the real commentator's name as a joke rather than staging him; it carries no portrays/portrayal_of and is a different class of entity entirely from this row, which is ZWF's own portrayal of the real Jim Ross doing his real job under his own name."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jim-ross-cswa",
+     "jim-ross-uwf-uwow",
+     "jim-ross-uwow"
+    ],
+    "note": "A real-person portrayal of Jim Ross doing his own real job, independently staged by three other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ],
+  "portrayal_of": "jim-ross-real"
+ },
+ {
+  "id": "jerry-lawler-zwf",
+  "type": "character",
+  "name": "Jerry Lawler",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)",
+    "note": "Billed only as \"The King\" throughout the fed's own served broadcast text."
+   }
+  ],
+  "portrays": {
+   "figure": "jerry-lawler-real",
+   "grade": "primary-source",
+   "note": "Billed as \"The King\" — his own well-known real broadcast nickname — calling ZWF's own Summerslam broadcast alongside Jim Ross."
+  },
+  "caption": "Called the Summerslam broadcast as \"The King\" alongside Jim Ross.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "jerry-lawler-icwc",
+     "jerry-lawler-rswa",
+     "jerry-lawler-uwf-uwow",
+     "jerry-lawler-uwow"
+    ],
+    "note": "A real-person portrayal of Jerry Lawler doing his own real job, independently staged by four other feds already on this ledger. Independently staged by other feds already on this ledger — each is its own fed's own separate portrayal, per the portrayals-never-merge-on-name-alone rule; no document claims a shared continuity between any of them."
+   }
+  ],
+  "portrayal_of": "jerry-lawler-real"
+ },
+ {
+  "id": "lillian-garcia-zwf",
+  "type": "character",
+  "name": "Lillian Garcia",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "ring announcer",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)",
+    "note": "Billed only as \"Lillian\" throughout the fed's own served broadcast text."
+   }
+  ],
+  "portrays": {
+   "figure": "lillian-garcia-real",
+   "grade": "presumed",
+   "note": "The served text bills only a first name (\"Lillian\") making the two title-match calls; every other named broadcast figure in this same document is a confirmed real then-current WWF performer or broadcaster billed under their own name, and \"Lillian\" matches the real WWF ring announcer of this exact period. No surname appears on the page itself, so the identification is graded presumed rather than primary-source."
+  },
+  "caption": "Billed only as \"Lillian,\" made the ring calls for the Light Heavyweight and Moonwolfe–Benoit decisions at Summerslam.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "portrayal_of": "lillian-garcia-real",
+  "portrayal_role": "ring-announcer"
+ },
+ {
+  "id": "moonwolfe-zwf",
+  "type": "character",
+  "name": "Moonwolfe",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "caption": "An original character who upended Chris Benoit at Summerslam with the Top Rope Calimity, then helped Jerry Lynn interfere in the Zack Harris–Bret Hart match, pulling the referee before Lynn's own chair shot and Cradle Piledriver.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "zack-harris-zwf",
+  "type": "character",
+  "name": "Zack Harris",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "role": "wrestler — authority figure",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)",
+    "note": "The fed's own served home page navigation runs a standing \"Zack Harris' Office\" section, consistent with an on-screen authority-figure role beyond this one Summerslam match."
+   }
+  ],
+  "caption": "ZWF's own on-screen authority figure — the fed's own site navigation runs a standing \"Zack Harris' Office\" — fought Bret Hart to a Summerslam double pin, with Jerry Lynn's own chair-and-piledriver interference turning the tide his way before both men went down together.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "supernova-zwf",
+  "type": "character",
+  "name": "Supernova",
+  "aka": [
+   "Nova"
+  ],
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)",
+    "note": "Billed \"Supernova\" in the ring introduction and \"Nova\" mid-match by the same served text."
+   }
+  ],
+  "caption": "Billed \"Supernova,\" and mid-match \"Nova,\" by the fed's own served text; lost the Hardcore Championship match to The Rock at Summerslam in a weapons brawl, driven through a table by a second Rock Bottom.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "supernova-ewa",
+     "supernova-mwe"
+    ],
+    "note": "A generic ring name independently used by other feds' own original characters (EWA, MWE); no corroborating evidence links this ZWF wrestler to either — no-auto-merge discipline for a bare shared name."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "nova-team",
+     "nova-pwe-inc",
+     "nova-nwwa"
+    ],
+    "note": "This wrestler's own served mid-match billing, \"Nova\" (carried here as an aka), collides with three other feds' own original characters registered under that bare name; no corroborating evidence links this ZWF wrestler to any of them — no-auto-merge discipline for a bare shared name."
+   }
+  ]
+ },
+ {
+  "id": "zero-zwf",
+  "type": "character",
+  "name": "Zero",
+  "tenures": [
+   {
+    "promotion": "zwf",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "the fed's own served Summerslam broadcast (promotions/zwf/archive/summerslam.html)"
+   }
+  ],
+  "caption": "The third man in Summerslam's TV Championship Triple Threat, broken up mid-pin by Jeff Hardy and put through a table with the Twist of Fate.",
+  "caption_asof": {
+   "written": "2026-08-31",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-zero-euwc",
+     "zero-chz",
+     "zero-cswa",
+     "zero-rspwf"
+    ],
+    "note": "A generic ring name independently used by other feds' own original characters; no corroborating evidence links this ZWF wrestler to any of them — no-auto-merge discipline for a bare shared name."
+   }
+  ]
+ }
+]

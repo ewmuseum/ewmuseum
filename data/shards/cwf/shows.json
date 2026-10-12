@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cwf-redzone-1-reunion-2003-01-27",
+    "type": "show",
+    "name": "Redz()ne-1: The CWF/XWF Re-union Show",
+    "promotion": "cwf",
+    "date": {
+      "date": "2003-01-27",
+      "precision": "exact",
+      "source": "The fed’s own event calendar: “-CWF Redz()ne Reunion Show / Live! on FOX! / January 27th, 2003. 9/8c / At the Allstate Arena in Chicago, IL / * Sold out!” (promotions/cwf/archive/event-calender-2003.html). Its Redz()ne page dates the same results “1/27/02”, a year the rest of the record contradicts."
+    },
+    "page": "/promotions/cwf/archive/redzone-1-reunion-2003-01-27.html",
+    "collection": "0046",
+    "venue": "the Allstate Arena",
+    "city": "Chicago, Illinois",
+    "notes": "The night the promotion restarted for the third time, staged jointly with the XWF and called by that fed's own commentary team. The show's own host says it outright — “Their will be no matches, but just being here should be excitement enough!” — and it plays out as roughly a dozen backstage/in-ring angle segments: a General Manager reveal (Mark Rhodes), a food-fight reunion scene, an EPWA rafters stand-off (Starter, Chain, Mr. X, Hardcore Z, Evil Santa and a sixth, unminted, Phantom), a challenge issued for SeVeN (Kevin Gable vs. M4Dness), a returning-legend cameo run (Ice, Mick, Paco, 'The Natural' Mike Diamond), Xtreme Max's reveal as the former Hellrazor, a Y2K attack on announcer Joey Harrington, brief goodbye cameos (Andrew Wright, Dax turned away at the door, AJ, an unminted ‘X’ distinct from Mr. X), and a Commissioner reveal (two false alarms in Mike Payne and Mad Dawg, then an uninvited Rick Hassan squashed by the real Commissioner, 'Hollywood' Chris Harris) capped by a costumed Kid Gangster impostor chokeslammed by Hellfire X. None of it is a scored bout, so every entity structured here carries kind: \"angle\" rather than a match. A larger ensemble the segments also name — the food-fight cast (Lt. TJ, Sephiroth, Ganjaman, Nemesis, Raider, Wave, Killa, the XWF's own Outlawz, Dark Child, 'Supasta' Allan Shaw, Greg Steiner, The Hunter, Antoine Hagans, Lucifer, Jeff Frank, 'Air Attack' Eric Zaytoun, Lil' X, GM Mark Rhodes' own son Tommy Rhodes), Mad Dawg, Rick Hassan, Y2K, Andrew Wright, Mark Kippler (attacked by Starter in the show's own cold open), Beast, Lord of Darkness and Mick — are left as prose rather than minted: each is a single-document, single-mention name with no wrestled match, no roster listing and no other appearance anywhere in the held record, exactly the thin-entrant case the schema's own battle-royal doctrine reserves for prose rather than a full entity record.",
+    "appearances": [
+      {
+        "who": "hellfire-x-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "starter-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "sean-manning-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "chain-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "mr-x-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "hardcore-z-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "evil-santa-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "kevin-gable-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "m4dness-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "xtreme-max-cwf",
+        "kind": "angle",
+        "subtype": "reveal"
+      },
+      {
+        "who": "ice-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "the-natural-mike-diamond-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "paco-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "mark-rhodes-cwf",
+        "kind": "angle",
+        "capacity": "authority"
+      },
+      {
+        "who": "mike-payne-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "hollywood-chris-harris-cwf",
+        "kind": "angle",
+        "subtype": "debut"
+      },
+      {
+        "who": "kid-gangster-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "aj-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "dax-cwf",
+        "kind": "angle"
+      },
+      {
+        "who": "mary-frank-cwf",
+        "kind": "angle",
+        "capacity": "ring-announcer"
+      },
+      {
+        "who": "john-jameson-cwf",
+        "kind": "angle",
+        "capacity": "commentary"
+      },
+      {
+        "who": "joey-harrington-cwf",
+        "kind": "angle",
+        "capacity": "commentary"
+      }
+    ]
+  },
+  {
+    "id": "cwf-seven-2003-02-01",
+    "type": "show",
+    "name": "SeVeN",
+    "promotion": "cwf",
+    "date": {
+      "date": "2003-02-01",
+      "precision": "exact",
+      "source": "The fed’s own event calendar: “-CWF presents SeVen / Live! on Pay-Per-View / February 1st, 2003. 10/9c / At the Fleet Center in Boston Mass.” (promotions/cwf/archive/event-calender-2003.html); its pay-per-view page lists “SeVeN - 2/1/03 -Results”."
+    },
+    "page": "/promotions/cwf/archive/seven-2003-02-01.html",
+    "collection": "0046",
+    "venue": "the Fleet Center",
+    "city": "Boston, Massachusetts",
+    "matches": [
+      {
+        "order": 1,
+        "sides": [
+          [
+            "sean-manning-cwf"
+          ],
+          [
+            "xtreme-max-cwf"
+          ]
+        ],
+        "stipulation": "Normal Hardcore Rules",
+        "winner_side": 1,
+        "note": "Billed Xtreme Max's CWF debut; he wins with a top-rope “Xtreme aerial” after a trashcan/lead-pipe/chair hardcore brawl. Commentary: “Max did it! He beat Sean Manning by a pin fall! Very nice for you CWF debut!”"
+      },
+      {
+        "order": 2,
+        "sides": [
+          [
+            "m4dness-cwf"
+          ],
+          [
+            "kevin-gable-cwf"
+          ]
+        ],
+        "stipulation": "Normal Rules — billed “First Star versus the Last Star”",
+        "winner_side": 1,
+        "note": "Gable rallies from a Texas cloverleaf with a downward spiral and a top-rope Atomic Elbow for the pin."
+      },
+      {
+        "order": 3,
+        "participants": [
+          "starter-cwf",
+          "mr-x-cwf",
+          "hardcore-z-cwf"
+        ],
+        "winner": "mr-x-cwf",
+        "stipulation": "CWF Anarchy Championship — Anarchy Rules (not a registered title — no champions page survives for it)",
+        "note": "Starter is written out mid-match by an in-story lightning strike (“The lights go out as Starter stands on a Ramp. Fire strikes down and he is gone”) and the bout finishes as a two-way; Mr. X pins Hardcore Z “with his legs on the ropes” and is ring-announced the new CWF Anarchy Champion."
+      },
+      {
+        "order": 4,
+        "sides": [
+          [
+            "the-natural-mike-diamond-cwf"
+          ],
+          [
+            "paco-cwf"
+          ]
+        ],
+        "stipulation": "CWF World Championship — Normal Rules, special guest referee ‘Hollywood’ Chris Harris (not a registered title — no champions page survives for it)",
+        "winner_side": 0,
+        "note": "Diamond survives a chair spot that accidentally clips the referee, then makes Paco tap to the Midas Touch. Immediately after, the returning Kid Gangster attacks Diamond and challenges Hellfire X directly, revealing a signed contract giving him a title shot with full stipulation control — an angle beat, not part of this match."
+      }
+    ],
+    "appearances": [
+      {
+        "who": "sean-manning-cwf",
+        "kind": "match"
+      },
+      {
+        "who": "xtreme-max-cwf",
+        "kind": "match"
+      },
+      {
+        "who": "m4dness-cwf",
+        "kind": "match"
+      },
+      {
+        "who": "kevin-gable-cwf",
+        "kind": "match"
+      },
+      {
+        "who": "starter-cwf",
+        "kind": "match"
+      },
+      {
+        "who": "mr-x-cwf",
+        "kind": "match"
+      },
+      {
+        "who": "hardcore-z-cwf",
+        "kind": "match"
+      },
+      {
+        "who": "the-natural-mike-diamond-cwf",
+        "kind": "match"
+      },
+      {
+        "who": "paco-cwf",
+        "kind": "match"
+      },
+      {
+        "who": "hollywood-chris-harris-cwf",
+        "kind": "angle",
+        "capacity": "referee"
+      },
+      {
+        "who": "kid-gangster-cwf",
+        "kind": "angle",
+        "subtype": "unmasking"
+      },
+      {
+        "who": "mary-frank-cwf",
+        "kind": "angle",
+        "capacity": "ring-announcer"
+      },
+      {
+        "who": "john-jameson-cwf",
+        "kind": "angle",
+        "capacity": "commentary"
+      },
+      {
+        "who": "joey-harrington-cwf",
+        "kind": "angle",
+        "capacity": "commentary"
+      }
+    ],
+    "notes": "All four matches on the card are structured. 'Hollywood' Chris Harris referees match 4 as its own special guest referee, structured here with capacity: \"referee\" rather than as a match entrant. Kid Gangster's post-match return is a mask-reveal angle (kind: \"angle\", subtype: \"unmasking\") staged around a mystery-vignette reveal seeded earlier in the show; his attack on Diamond and the signed-contract reveal are described in match 4's own note rather than structured as a separate bout. Mary Frank (ring announcer) and the commentary team of John Jameson and Joey Harrington are structured across the whole card via capacity rather than per-match. The show script itself carries a mid-document bumper naming a planned 8 March 2003 PPV, \"CWF Bloody Glory\" — see cwf-bloody-glory-2003-03-08, gap-registered, since no card or results for it survive."
+  },
+  {
+    "id": "cwf-redzone-2-2003-02-11",
+    "type": "show",
+    "name": "Redz()ne-2",
+    "promotion": "cwf",
+    "date": {
+      "date": "2003-02-11",
+      "precision": "exact",
+      "source": "SOURCES DISAGREE: the fed’s own event calendar puts Redz()ne-2 at the Kemper Arena on “February 11th, 2003” (promotions/cwf/archive/event-calender-2003.html), while its Redz()ne page heads the same card “Redz()ne-2 Card 3/11/03” (promotions/cwf/archive/redzone-show-page.html). Both readings are recorded; the calendar’s is followed here because it names a venue and a broadcast slot with it."
+    },
+    "page": "/promotions/cwf/archive/redzone-2-card-2003-03-11.html",
+    "collection": "0046",
+    "venue": "the Kemper Arena",
+    "city": "St. Louis, Missouri",
+    "notes": "Held as a card, not a results page — the fed's own results for this show were never captured, so every named participant is structured here as a `billed` appearance rather than a match: the schema's own instrument for a primary source's promise of a bout whose outcome (or occurrence) was never recorded. The card bills a main-event tag match (Hellfire X and Mike Diamond against Kid Gangster and Hardcore Z), the CWF Anarchy Championship defended by Mr. X against Sean Manning in a Dumpster Match, and two quarter-finals of a previously unattested \"Cold Championship Tournament\" (Chain against Starter; Paco against Ice) — see cwf-cold-championship, registered from this card alone, with no result, holder or further round attested anywhere in the held record.",
+    "appearances": [
+      {
+        "who": "hellfire-x-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "Main event tag team match, Normal Rules, with Mike Diamond against Kid Gangster and Hardcore Z."
+      },
+      {
+        "who": "the-natural-mike-diamond-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "Main event tag team match, Normal Rules, with Hellfire X against Kid Gangster and Hardcore Z."
+      },
+      {
+        "who": "kid-gangster-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "Main event tag team match, Normal Rules, with Hardcore Z against Hellfire X and Mike Diamond."
+      },
+      {
+        "who": "hardcore-z-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "Main event tag team match, Normal Rules, with Kid Gangster against Hellfire X and Mike Diamond."
+      },
+      {
+        "who": "chain-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "Cold Championship Tournament quarter-final, Normal Rules, against Starter."
+      },
+      {
+        "who": "starter-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "Cold Championship Tournament quarter-final, Normal Rules, against Chain."
+      },
+      {
+        "who": "mr-x-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "Billed \"(Champ)\" defending the CWF Anarchy Championship against Sean Manning, Dumpster Match, Anarchy Rules."
+      },
+      {
+        "who": "sean-manning-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "CWF Anarchy Championship challenger, Dumpster Match, Anarchy Rules, against champion Mr. X."
+      },
+      {
+        "who": "paco-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "Cold Championship Tournament quarter-final, Normal Rules, against Ice."
+      },
+      {
+        "who": "ice-cwf",
+        "kind": "billed",
+        "source": "the Redz()ne-2 card (promotions/cwf/archive/redzone-2-card-2003-03-11.html)",
+        "note": "Cold Championship Tournament quarter-final, Normal Rules, against Paco."
+      }
+    ]
+  },
+  {
+    "id": "cwf-redzone-3-2003-02-18",
+    "type": "show",
+    "name": "Redz()ne-3",
+    "promotion": "cwf",
+    "date": {
+      "date": "2003-02-18",
+      "precision": "exact",
+      "source": "The fed’s own event calendar: “-CWF Redz()ne-3 / Live! on FOX! / February 18th, 2003. 9/8c / At Madison Square Garden in New York City / *Sold out!”"
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/cwf/archive/event-calender-2003.html",
+        "note": "The fed’s own event calendar bills the show, its venue and its broadcast slot, and marks it sold out; no card or results page for it was ever captured."
+      }
+    ]
+  },
+  {
+    "id": "cwf-bloody-glory-2003-03-08",
+    "type": "show",
+    "name": "CWF Bloody Glory",
+    "promotion": "cwf",
+    "date": {
+      "date": "2003-03-08",
+      "precision": "exact",
+      "source": "A mid-show bumper inside the SeVeN show script itself, between the Anarchy and World Championship matches: \"C W F Bloody Gl o ry / March 8th, 2003\" (promotions/cwf/archive/seven-2003-02-01.html). The fed's own event calendar (captured 7 April 2003) does not carry this show; whether that is because the calendar predates it or because it was never actually held is not attested."
+    },
+    "collected": false,
+    "evidence": [
+      {
+        "source": "promotions/cwf/archive/seven-2003-02-01.html",
+        "note": "The SeVeN show script carries its own ad-bumper naming a next PPV, \"CWF Bloody Glory,\" dated 8 March 2003 — the same bumper style the script uses elsewhere for its Redz()ne plug (\"CWF Redz()ne / Tuesdays @ 9/8c / Only on FOX!\"). No card or results page for it was ever captured, and it appears nowhere on the fed's own event calendar."
+      }
+    ]
+  }
+]

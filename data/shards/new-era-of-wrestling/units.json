@@ -1,0 +1,117 @@
+[
+ {
+  "id": "cameron-cruise-problem-child-ne",
+  "type": "unit",
+  "name": "Cameron Cruise & Problem Child",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Cameron Cruise",
+    "character_id": "cameron-cruise"
+   },
+   {
+    "name": "Problem Child",
+    "character_id": "problem-child-cswa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "new-era-of-wrestling",
+    "source": "WFW:NE's own Destrucity II pay-per-view (posted 23 January 2010), which bills the pair World Tag Team Champions defending against Jack n' Hoff"
+   }
+  ],
+  "caption": "The World Tag Team Champions defending against Jack n' Hoff at Destrucity II, New ERA of Wrestling's last pay-per-view before the Sin City Showdown crossover.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "jack-n-hoff-ne",
+  "type": "unit",
+  "name": "Jack n' Hoff",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "new-era-of-wrestling",
+    "source": "WFW:NE's own Destrucity II pay-per-view (posted 23 January 2010), billing the pun-named team as the World Tag Team Championship's own challengers"
+   }
+  ],
+  "caption": "A pun-named tag team challenging Cameron Cruise and Problem Child for the World Tag Team Championship at Destrucity II; the corpus does not name its own individual members.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "dredd-ne",
+  "type": "unit",
+  "name": "DREDD",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "John Doe",
+    "character_id": "john-doe-ne"
+   },
+   {
+    "name": "Jonathan Marx",
+    "character_id": "jonathan-marx-glcw-2002"
+   },
+   {
+    "name": "Brandon Jacobs",
+    "character_id": "brandon-jacobs-glcw-2002"
+   },
+   {
+    "name": "Carlee Marx",
+    "character_id": "carlee-marx-ne"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "new-era-of-wrestling",
+    "source": "Formed on air by John Doe and Jonathan Marx, who turn on the match referee together and declare themselves dedicated to taking the World Heavyweight Championship from Jean Rabesque, on the 24 August 2004 RAUCOUS; joined from the outset by Marx's own manager Brandon Jacobs, and by Carlee Marx (billed as Jane Doe until her own amnesia lifts) by the 28 December 2004 RAUCOUS, where she wrestles under DREDD's own banner."
+   }
+  ],
+  "caption": "New ERA of Wrestling's anti-Jean-Rabesque stable, formed on air by John Doe and Jonathan Marx after turning on a referee together.",
+  "caption_asof": {
+   "written": "2026-09-25",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "Karla Starr is invited to join and accepts on air (28 September 2004) but never wrestles under the stable's own banner and turns on both Chaos and Jean Rabesque the same night; she is not counted a genuine member here.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a wrestler billed 'Judge Dredd' (after the comic book character) is already held at an unrelated early-1990s wing (summit-of-e-wrestling/ufws); no shared operator, chronology or storyline evidence ties that single wrestler to this wing's own 2004 stable.",
+    "with": [
+     "judge-dredd-summit"
+    ]
+   }
+  ]
+ }
+]

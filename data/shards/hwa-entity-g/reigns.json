@@ -1,0 +1,38 @@
+[
+ {
+  "id": "hwa-g-world-r001",
+  "title": "hwa-g-world",
+  "label": "Stonecold",
+  "holder": [
+   {
+    "id": "stonecold-hwa-g"
+   }
+  ],
+  "won": {
+   "date": "1997-12-30",
+   "precision": "exact",
+   "source": "The battle royal's own announcer call (promotions/hwa-entity-g/archive/hwa-battle-royal-1997-12-30.html)."
+  },
+  "event": "hwa-g-battle-royal-1997-12-30",
+  "note": "The same day's DEATHMANIA script stages a separate title match without acknowledging this reign; the corpus does not reconcile the two claims (see this title's own epitaph).",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "hwa-g-world-r002",
+  "title": "hwa-g-world",
+  "label": "Emortal Soldier",
+  "holder": [
+   {
+    "id": "emortal-soldier-hwa-g"
+   }
+  ],
+  "won": {
+   "date": "1997-12-30",
+   "precision": "exact",
+   "source": "DEATHMANIA's own announcer call (promotions/hwa-entity-g/archive/hwa-deathmania-1997-12-30.html)."
+  },
+  "event": "hwa-g-deathmania-1997-12-30",
+  "end_how": "still-champion-at-record-end",
+  "note": "Styled by the fed's own text as a new/contested title match rather than a defense against Stonecold's own battle-royal win; not reconciled here."
+ }
+]

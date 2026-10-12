@@ -1,0 +1,189 @@
+[
+ {
+  "id": "ewc-1998-judgment-day-1998-06-28",
+  "type": "show",
+  "name": "In Your Face - Judgment Day",
+  "promotion": "ewc-1998",
+  "collection": "0148",
+  "date": {
+   "date": "1998-06-28",
+   "precision": "exact",
+   "source": "The federation's own results bulletin (published 15 October 1998), which dates its debut supercard 28 June 1998 and calls it Show #1, Supercard #1."
+  },
+  "venue": "EWC Palace, Chicago, Illinois",
+  "appearances": [
+   {
+    "who": "jack-vars-ewc98",
+    "kind": "match"
+   },
+   {
+    "who": "andru-edwards-ewc98",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "jack-vars-ewc98"
+     ],
+     [
+      "andru-edwards-ewc98"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Falls count anywhere, Elite Heavyweight Championship tournament final",
+    "note": "Vars won after a ringside associate (not minted) struck Edwards with a chair, per the federation's own results bulletin."
+   }
+  ],
+  "notes": "The federation's own debut supercard, crowning its first Elite Heavyweight and Midwest (later Intercontinental) Champions across two four-man tournaments; not itself among the subject-bracket-tagged posts read, so known only through the federation's own later results bulletin. Only the Elite Heavyweight tournament final is structured here, both sides already minted; the rest of the six-match card (the Midwest tournament and its semi-finals) involved wrestlers not minted and is not structured."
+ },
+ {
+  "id": "ewc-1998-wreckage-1-1998-07-08",
+  "type": "show",
+  "name": "Wednesday Wreckage #1",
+  "promotion": "ewc-1998",
+  "page": "/promotions/ewc-1998/archive/wednesday-wreckage-1-1998-07-08.html",
+  "collection": "0148",
+  "date": {
+   "date": "1998-07-08",
+   "precision": "exact",
+   "source": "The show's own broadcast script, posted in five parts (8 July 1998), self-billed as Show #2."
+  },
+  "venue": "EWC Palace, Chicago, Illinois",
+  "appearances": [
+   {
+    "who": "steve-maddolin-ewc98",
+    "kind": "match"
+   },
+   {
+    "who": "johnny-homicidal-maniac-ewc98",
+    "kind": "match"
+   },
+   {
+    "who": "evan-manchester-ewc98",
+    "kind": "match"
+   },
+   {
+    "who": "justin-paine-ewc98",
+    "kind": "match"
+   },
+   {
+    "who": "marc-stevens-ewc98",
+    "kind": "match"
+   },
+   {
+    "who": "devon-osborne-ewc98",
+    "kind": "match"
+   },
+   {
+    "who": "andru-edwards-ewc98",
+    "kind": "match"
+   },
+   {
+    "who": "jack-vars-ewc98",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "steve-maddolin-ewc98"
+     ],
+     [
+      "johnny-homicidal-maniac-ewc98"
+     ]
+    ],
+    "winner_side": 0
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "evan-manchester-ewc98"
+     ],
+     [
+      "justin-paine-ewc98"
+     ]
+    ],
+    "winner_side": 0
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "marc-stevens-ewc98"
+     ],
+     [
+      "devon-osborne-ewc98"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Won by submission."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "andru-edwards-ewc98"
+     ],
+     [
+      "jack-vars-ewc98"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Boxing match, Elite Heavyweight Championship number-one contendership",
+    "note": "Edwards won the main event after striking Vars with a chair while the referee's back was turned, earning a title shot at the federation's first pay-per-view."
+   }
+  ],
+  "notes": "The federation's own first weekly show, opening with a video recap of the debut supercard before its own new card. A backstage brawl breaking out after the main event closed the broadcast."
+ },
+ {
+  "id": "ewc-1998-tomorrow-never-dies-1998-07-26",
+  "type": "show",
+  "name": "Tomorrow Never Dies",
+  "promotion": "ewc-1998",
+  "collection": "0148",
+  "date": {
+   "date": "1998-07-26",
+   "precision": "exact",
+   "source": "The federation's own results bulletin (published 15 October 1998), which dates its first pay-per-view 26 July 1998 and calls it Show #5, PPV #1."
+  },
+  "appearances": [],
+  "no_appearances_reason": "Not itself among the subject-bracket-tagged posts read this pass; known only through the federation's own later results bulletin, whose nine-match recap names several wrestlers not minted this pass. The Intercontinental and Elite Tag Team title changes are recorded in reigns.json from this same bulletin without structuring the full card.",
+  "notes": "Crowned the federation's first Elite Tag Team Champions and a new Midwest (Intercontinental) Champion; the reigning Elite Heavyweight Champion also retained his title on this card."
+ },
+ {
+  "id": "ewc-1998-summerfest-1998-09-06",
+  "type": "show",
+  "name": "Summerfest I",
+  "promotion": "ewc-1998",
+  "collection": "0148",
+  "date": {
+   "date": "1998-09-06",
+   "precision": "exact",
+   "source": "The federation's own results bulletin (published 15 October 1998), which dates its second pay-per-view 6 September 1998 and calls it Show #9."
+  },
+  "appearances": [],
+  "no_appearances_reason": "Not itself among the subject-bracket-tagged posts read this pass; known only through the federation's own later results bulletin, whose twelve-match recap names several wrestlers not minted this pass. The Elite Heavyweight, Television and Skinnyweight title changes are recorded in reigns.json from this same bulletin without structuring the full card.",
+  "notes": "A four-hour supercard crowning new Elite Heavyweight, Television and (for the first time) Skinnyweight Champions. The bulletin's own title-history table dates the Television and Skinnyweight wins 6 August, a month out of step with its own listing of this show as their site; the show's own date is used in reigns.json."
+ },
+ {
+  "id": "ewc-1998-wreckage-6-1998-09-23",
+  "type": "show",
+  "name": "Wednesday Wreckage #6",
+  "promotion": "ewc-1998",
+  "collection": "0148",
+  "date": {
+   "date": "1998-09-23",
+   "precision": "exact",
+   "source": "The federation's own results bulletin (published 15 October 1998), which dates this weekly show 23 September 1998 and calls it Show #10."
+  },
+  "appearances": [],
+  "no_appearances_reason": "Not itself among the subject-bracket-tagged posts read this pass; known only through the federation's own later results bulletin. The Television Championship's change of hands is recorded in reigns.json from this same bulletin without structuring the full card.",
+  "notes": "The reigning Television Champion handed the title to a fellow wrestler following a no-contest ruling in their title match."
+ }
+]

@@ -1,0 +1,154 @@
+[
+ {
+  "id": "icw-spwa-1997-fjpw-chaos-1",
+  "type": "show",
+  "name": "FJPW Saturday Night CHAOS #1",
+  "promotion": "icw-spwa-1997",
+  "date": {
+   "date": "1997-11-02",
+   "precision": "exact",
+   "source": "Both held parts are dated 2 November 1997."
+  },
+  "page": "/promotions/icw-spwa-1997/archive/fjpw-chaos-1-part-1-1997-11-02.html",
+  "collection": "0148",
+  "notes": "The fed's own first full show, billed at least four parts long; only Part I (the opening interview segment and Match #1) and Part IV (the Match #6 main event) are in the held record. Matches #2-5 are not held and are not structured.",
+  "appearances": [
+   {
+    "who": "icw-spwa-1997-doug-silver",
+    "kind": "angle",
+    "capacity": "interviewer"
+   },
+   {
+    "who": "mike-madland-icew",
+    "kind": "angle"
+   },
+   {
+    "who": "poe-icew",
+    "kind": "angle"
+   },
+   {
+    "who": "icw-spwa-1997-ezon",
+    "kind": "angle"
+   },
+   {
+    "who": "icw-spwa-1997-radon",
+    "kind": "angle"
+   },
+   {
+    "who": "tommy-van-dam-ecwa",
+    "kind": "angle"
+   },
+   {
+    "who": "icw-spwa-1997-hajori-koonasha",
+    "kind": "angle",
+    "capacity": "manager"
+   },
+   {
+    "who": "icw-spwa-1997-stan-neil",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "icw-spwa-1997-max-verbatim",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "icw-spwa-1997-craig-miller",
+    "kind": "angle",
+    "capacity": "ring-announcer"
+   },
+   {
+    "who": "icw-spwa-1997-lions-den",
+    "kind": "match"
+   },
+   {
+    "who": "icw-spwa-1997-igor-taktorov",
+    "kind": "match"
+   },
+   {
+    "who": "icw-spwa-1997-boss-vorhees",
+    "kind": "match"
+   },
+   {
+    "who": "icw-spwa-1997-blaine-idol",
+    "kind": "match"
+   },
+   {
+    "who": "icw-spwa-1997-brian-fields",
+    "kind": "billed",
+    "source": "/promotions/icw-spwa-1997/archive/fjpw-chaos-1-part-1-1997-11-02.html"
+   },
+   {
+    "who": "eric-cooper-ecwa",
+    "kind": "match"
+   },
+   {
+    "who": "icw-spwa-1997-shane-starbuck",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "icw-spwa-1997-lions-den",
+      "icw-spwa-1997-igor-taktorov",
+      "icw-spwa-1997-boss-vorhees"
+     ],
+     [
+      "icw-spwa-1997-blaine-idol"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Billed as a tag match against Blaine Idol and Brian Fields, but Fields never appeared (commentary blames a mid-show medical emergency), leaving Idol to face the Lion's Den alone."
+   },
+   {
+    "order": 6,
+    "sides": [
+     [
+      "eric-cooper-ecwa"
+     ],
+     [
+      "icw-spwa-1997-shane-starbuck"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Steel Cage",
+    "note": "Main event. Starbuck won by schoolboy cradle after Mike Madland and Tommy Van Dam, both guest stars, brawled into the cage; Madland struck Cooper with a china plate before Van Dam knocked Madland off the cage with a flying body press."
+   }
+  ]
+ },
+ {
+  "id": "icw-spwa-1997-fjpw-blood-sweat-and-tears",
+  "type": "show",
+  "name": "FJPW Blood, Sweat, and Tears",
+  "promotion": "icw-spwa-1997",
+  "date": {
+   "date": "1997-11-14",
+   "precision": "exact",
+   "source": "Billed to run 14-17 November 1997; no more specific date is given for the special attraction match below."
+  },
+  "collected": false,
+  "evidence": [
+   {
+    "source": "/promotions/icw-spwa-1997/archive/fjpw-blood-sweat-and-tears-preview-1997-10-26.html",
+    "note": "The fed's own final card preview, 26 October 1997, billing a Mike Madland vs. Tommy Van Dam special attraction match, an E-1 Tournament bracket (unnamed entrants), and an Icon Tag Team title battle royal. No results document for this event survives in the held record."
+   }
+  ],
+  "notes": "The promised E-1 Invitational tournament final and the Icon Tag Team title battle royal are billed in the same preview but name no confirmed entrants beyond seed numbers and are not structured here.",
+  "appearances": [
+   {
+    "who": "mike-madland-icew",
+    "kind": "billed",
+    "source": "/promotions/icw-spwa-1997/archive/fjpw-blood-sweat-and-tears-preview-1997-10-26.html"
+   },
+   {
+    "who": "tommy-van-dam-ecwa",
+    "kind": "billed",
+    "source": "/promotions/icw-spwa-1997/archive/fjpw-blood-sweat-and-tears-preview-1997-10-26.html"
+   }
+  ]
+ }
+]

@@ -1,0 +1,1146 @@
+[
+ {
+  "id": "fallen-mvw",
+  "type": "character",
+  "name": "Fallen",
+  "caption": "Lost his opening-round MVW Heavyweight title tournament match to Plex on the first night of The Ascension.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "source": "the promotion's own February 2001 weekly newsletters and the promotion's own 17 February 2001 Ascension: Night One broadcast"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "fallen-xcwf"
+    ],
+    "note": "Shares a bare ring name with an unrelated wrestler billed by a different promotion in 2002; no document links the two."
+   }
+  ]
+ },
+ {
+  "id": "plex-mvw",
+  "type": "character",
+  "name": "Plex",
+  "caption": "Beat Fallen on the first night of The Ascension, then lost the tournament's second round to Rory Braden.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast and the promotion's own 19 February 2001 Ascension: Night Two broadcast"
+   }
+  ]
+ },
+ {
+  "id": "steven-erickson-mvw",
+  "type": "character",
+  "name": "Steven Erickson",
+  "caption": "Lost his opening-round Ascension tournament match to Rory Braden, then took a controversial tag win over Veyliam Kai and Ezra Martin by tagging himself in ahead of his own partner.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast and the promotion's own 12 March 2001 Ring Wars"
+   }
+  ]
+ },
+ {
+  "id": "rory-braden-mvw",
+  "type": "character",
+  "name": "Rory Braden",
+  "caption": "Beat Steven Erickson and then Plex across the two nights of The Ascension before falling to Owen Neo in the tournament semi-final by small package; returned at Ring Wars to run in with a steel chair and save Neo from a three-on-one beatdown, ending the show in a stare-down between the two men.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast, the promotion's own 19 February 2001 Ascension: Night Two broadcast and the promotion's own 12 March 2001 Ring Wars"
+   }
+  ]
+ },
+ {
+  "id": "m-dub-mvw",
+  "type": "character",
+  "name": "M-Dub",
+  "caption": "Lost his opening-round Ascension tournament match to Owen Neo; later delivered a despondent promo on the promotion's 11 March 2001 Event Center about failure and taking charge of one's own life.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast and the promotion's own 11 March 2001 Event Center"
+   },
+   {
+    "promotion": "dzw-2001",
+    "role": "wrestler",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-08-27",
+    "last_seen": "2001-09-11",
+    "source": "the promotion's own Contact Info roster listing and its 11 September 2001 broadcast; same valet (Nympho Nikki) and physical description (black dreadlocks) as MVW's own M-Dub, in a non-overlapping later window"
+   }
+  ]
+ },
+ {
+  "id": "owen-neo-mvw",
+  "type": "character",
+  "name": "Owen Neo",
+  "caption": "Beat M-Dub, Dick LeBaron and Rory Braden across the Ascension tournament to win the vacant MVW Heavyweight Championship from Rage in the final, then retained it in a non-title brawl at Ring Wars that ended when Rory Braden ran in to save him from a three-on-one beatdown.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast, the promotion's own 19 February 2001 Ascension: Night Two broadcast and the promotion's own 12 March 2001 Ring Wars",
+    "finisher": "450 Splash"
+   }
+  ]
+ },
+ {
+  "id": "dick-lebaron-mvw",
+  "type": "character",
+  "name": "\"Dirty\" Dick LeBaron",
+  "aka": [
+   "Dick LeBaron"
+  ],
+  "caption": "Beat Ezra Martin on the first night of The Ascension, then lost the tournament's second round to Owen Neo; later beat Empire State Champion Donovan Keltrane in a non-title match at Ring Wars.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast, the promotion's own 19 February 2001 Ascension: Night Two broadcast and the promotion's own 12 March 2001 Ring Wars"
+   }
+  ]
+ },
+ {
+  "id": "ezra-martin-mvw",
+  "type": "character",
+  "name": "Ezra Martin",
+  "caption": "Lost his opening-round Ascension tournament match to Dick LeBaron; a heavily pierced, leather-clad newcomer introduced at the promotion's February 2001 press conference.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast and the promotion's own 7 February 2001 press conference"
+   }
+  ]
+ },
+ {
+  "id": "ronnie-black-mvw",
+  "type": "character",
+  "name": "Ronnie Black",
+  "caption": "Lost his opening-round Ascension tournament match to Mitch Gatlin after a graveyard-set vignette on the promotion's own Event Center.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast and the promotion's own 9 February 2001 Event Center"
+   }
+  ]
+ },
+ {
+  "id": "donovan-keltrane-mvw",
+  "type": "character",
+  "name": "\"Dark Heart\" Donovan Keltrane",
+  "aka": [
+   "Donovan Keltrane",
+   "Donovan Keltrain",
+   "\"Darkheart\" Donovan Keltrane",
+   "Keltrane"
+  ],
+  "caption": "Beat Veyliam Kai and then Mitch Gatlin across the two nights of The Ascension before falling to Rage in the tournament semi-final; became the promotion's first Empire State Champion in early March 2001, then lost a non-title match to Dick LeBaron at Ring Wars while keeping the title.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast, the promotion's own 19 February 2001 Ascension: Night Two broadcast and the promotion's own recap on its 8 March 2001 Ringsider and 12 March 2001 Ring Wars"
+   },
+   {
+    "promotion": "iga-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-09-12",
+    "last_seen": "2002-06-23",
+    "source": "the promotion's served cards of September to December 2001; the promotion's served card of 2 January 2002; the promotion's served card of 9 January 2002; the promotion's served card of 23 January 2002; the promotion's served card of 30 January 2002; the promotion's served card of 24 February 2002; the promotion's served card of 7 March 2002; the promotion's served card of 20 March 2002; the promotion's served card of 3 April 2002; the promotion's served card of 10 April 2002; the promotion's served card of 2 May 2002; the promotion's served card of 16 May 2002; the promotion's served card of 23 May 2002; the promotion's served card of 23 June 2002 (Team Challenge Series / Pandemonium)",
+    "hometown": "Marseilles, France"
+   },
+   {
+    "promotion": "shootfire-pro-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-03-27",
+    "last_seen": "2002-06-12",
+    "source": "/promotions/shootfire-pro-1999/archive/shootfire-legacy-2002-03-27.html; /promotions/shootfire-pro-1999/archive/shootfire-icons-2002-06-12.html"
+   }
+  ]
+ },
+ {
+  "id": "veyliam-kai-mvw",
+  "type": "character",
+  "name": "Veyliam Kai",
+  "caption": "Lost his opening-round Ascension tournament match to Donovan Keltrane.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast"
+   }
+  ]
+ },
+ {
+  "id": "rage-mvw",
+  "type": "character",
+  "name": "Rage",
+  "caption": "Beat Reginald Worthington-Smythe and then Snow and Mitch Gatlin across the two nights of The Ascension before losing the tournament final to Owen Neo; fought Stone Harris to a time-limit draw at Ring Wars, then took part in a post-match beatdown of MVW Champion Owen Neo that Rory Braden interrupted.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast, the promotion's own 19 February 2001 Ascension: Night Two broadcast and the promotion's own 12 March 2001 Ring Wars",
+    "finisher": "Absolution"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "rage-uewf",
+     "rage-ewa",
+     "rage-wwa",
+     "rage-giwf",
+     "rage-faw",
+     "rage-uwf-mar96",
+     "brian-anderson-bew",
+     "rage-chz",
+     "rage-rspwf2",
+     "rage-iga-2003",
+     "rage-eswp-1996",
+     "rage-rspwf",
+     "rage-wicew",
+     "rage-xcwf",
+     "rage-wmw",
+     "rage-swa-seltor",
+     "rage-fwa-pbm-1989"
+    ],
+    "note": "Shares a common ring name with wrestlers billed by many other independently-run promotions; no document links this MVW persona to any of them."
+   }
+  ]
+ },
+ {
+  "id": "reginald-worthington-smythe-mvw",
+  "type": "character",
+  "name": "Reginald Worthington-Smythe",
+  "caption": "Lost his opening-round Ascension tournament match to Rage.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast"
+   }
+  ]
+ },
+ {
+  "id": "snow-mvw",
+  "type": "character",
+  "name": "Snow",
+  "caption": "Beat Stone Harris on the first night of The Ascension, then lost the tournament's second round to Rage; won the vacant MVW Television Championship from Ted Bruce and Hawiian Crippler in a three-way at Ring Wars.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast, the promotion's own 19 February 2001 Ascension: Night Two broadcast and the promotion's own 12 March 2001 Ring Wars"
+   }
+  ]
+ },
+ {
+  "id": "stone-harris-mvw",
+  "type": "character",
+  "name": "Stone Harris",
+  "caption": "Lost his opening-round Ascension tournament match to Snow, then fought Rage to a time-limit draw at Ring Wars; later billed on his New Jersey Wrestling Association debut as a wrestler with a prior MVW run, winning three straight cards.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 17 February 2001 Ascension: Night One broadcast and the promotion's own 12 March 2001 Ring Wars"
+   },
+   {
+    "promotion": "njwa-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-10-21",
+    "last_seen": "2001-12-01",
+    "source": "the promotion's own Sample Card (21 October 2001), Theater of War broadcast of 17 November 2001 and Theater of War broadcast of 1 December 2001",
+    "note": "The Sample Card's own commentary names his prior MVW run outright (\"has been seen in several promotions over the past year, including MVW, MPW and GWC\"); won the Sample Card main event, was awarded the voided Theater of War rematch by forfeit, then beat Jim Vickens again on the 1 December card."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "stone-harris-iga-2003"
+    ],
+    "note": "Shares a name with a wrestler billed by an unrelated 2003 promotion; no document links the two."
+   }
+  ]
+ },
+ {
+  "id": "astra-devine-mvw",
+  "type": "character",
+  "name": "Astra Devine",
+  "caption": "Accompanied Owen Neo to the ring through the Ascension tournament's semi-final and final.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "source": "the promotion's own 19 February 2001 Ascension: Night Two broadcast"
+   }
+  ]
+ },
+ {
+  "id": "ted-bruce-mvw",
+  "type": "character",
+  "name": "Ted Bruce",
+  "caption": "Lost the vacant MVW Television Championship three-way to Snow at Ring Wars.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-03",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 12 March 2001 Ring Wars"
+   }
+  ]
+ },
+ {
+  "id": "hawiian-crippler-mvw",
+  "type": "character",
+  "name": "Hawiian Crippler",
+  "caption": "Entered Ring Wars as MVW Television Champion and lost the title to Snow in a three-way also involving Ted Bruce.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-03",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 12 March 2001 Ring Wars"
+   }
+  ]
+ },
+ {
+  "id": "james-branchini-mvw",
+  "type": "character",
+  "name": "\"Ironman\" James Branchini",
+  "caption": "Beat Fang at Ring Wars after being introduced among the promotion's newcomers on its 11 March 2001 Event Center.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-03",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 11 March 2001 Event Center and 12 March 2001 Ring Wars"
+   }
+  ]
+ },
+ {
+  "id": "mr-majesty-mvw",
+  "type": "character",
+  "name": "Mr. Majesty",
+  "caption": "Beat XYZ in a controversial finish at Ring Wars after his own Event Center vignette showed him losing his temper over a fruit basket.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-03",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 11 March 2001 Event Center and 12 March 2001 Ring Wars"
+   }
+  ]
+ },
+ {
+  "id": "xyz-mvw",
+  "type": "character",
+  "name": "XYZ",
+  "caption": "Lost a controversial finish to Mr. Majesty at Ring Wars after arguing with the official.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-03",
+    "source": "the promotion's own February 2001 weekly newsletters and the promotion's own 12 March 2001 Ring Wars"
+   },
+   {
+    "promotion": "shootfire-pro-1999",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-03-27",
+    "last_seen": "2002-08-02",
+    "source": "/promotions/shootfire-pro-1999/archive/shootfire-legacy-2002-03-27.html; /promotions/shootfire-pro-1999/archive/shootfire-icons-2002-06-12.html; /promotions/shootfire-pro-1999/archive/shootfire-conquest-2002-08-02.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "xyz-owa-online"
+    ],
+    "note": "Shares a bare ring name with an unrelated debutant billed by a different promotion; no document links the two."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "xyz-jpa-2000",
+     "xyz-owa-online"
+    ],
+    "note": "Shares its billed name with records held in other promotions; no roster, operator or document ties this billing to any of them."
+   }
+  ]
+ },
+ {
+  "id": "ryan-delaney-mvw",
+  "type": "character",
+  "name": "Ryan Delaney",
+  "caption": "A rookie introduced on the promotion's 11 March 2001 Event Center who says he once idolized XYZ before XYZ changed his style; booked to face XYZ on the promotion's next card.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-03",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 11 March 2001 Event Center and its 8 and 15 March 2001 Ringsider previews"
+   },
+   {
+    "promotion": "shootfire-pro-1999",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-06-12",
+    "last_seen": "2002-08-02",
+    "source": "/promotions/shootfire-pro-1999/archive/shootfire-icons-2002-06-12.html; /promotions/shootfire-pro-1999/archive/shootfire-conquest-2002-07-23.html; /promotions/shootfire-pro-1999/rp/shootfire-off-the-chain-2002-07-23.html; /promotions/shootfire-pro-1999/archive/shootfire-conquest-2002-08-02.html; /promotions/shootfire-pro-1999/rp/shootfire-off-the-chain-2002-08-02.html"
+   },
+   {
+    "promotion": "superslam-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-12-28",
+    "last_seen": "2002-12-28",
+    "source": "Its own served Night One broadcast (28 December 2002), corroborated by the same day's own results update. Lost the pregame six-way."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ryan-delaney-dwf-motr",
+     "ryan-delaney-vwf-vegas-2003",
+     "ryan-delaney-rsll-2003"
+    ],
+    "note": "Shares a name with wrestlers billed by unrelated later promotions; no document links this MVW persona to any of them."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ryan-delaney-30mc-2001",
+     "ryan-delaney-dwf-motr",
+     "ryan-delaney-rsll-2003",
+     "ryan-delaney-vwf-vegas-2003",
+     "ryan-delaney-wlw-worldleague-2003"
+    ],
+    "note": "Shares its billed name with records held in other promotions; no roster, operator or document ties this billing to any of them."
+   }
+  ]
+ },
+ {
+  "id": "jason-patrick-mvw",
+  "type": "character",
+  "name": "Jason Patrick",
+  "aka": [
+   "Mystery Man"
+  ],
+  "caption": "Billed as MVW's \"Mystery Man\" in a non-title loss to Heavyweight Champion Owen Neo at Ring Wars that ended when Rory Braden ran in and put him through a table with a chair.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-03",
+    "last_seen": "2001-03",
+    "source": "the promotion's own 12 March 2001 Ring Wars"
+   }
+  ]
+ },
+ {
+  "id": "patrick-seeker-mvw",
+  "type": "character",
+  "name": "\"Heat\" Patrick Seeker",
+  "aka": [
+   "Patrick Seeker"
+  ],
+  "caption": "A February 2001 signee named on the promotion's weekly newsletters and house-show previews.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-02",
+    "last_seen": "2001-02",
+    "source": "the promotion's own February 2001 weekly newsletters"
+   }
+  ]
+ },
+ {
+  "id": "lord-foul-the-despiser-mvw",
+  "type": "character",
+  "name": "Lord Foul the Despiser",
+  "caption": "Lost to Tony Houston at the promotion's 24 December 1997 Blizzard Blast supercard.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-12",
+    "last_seen": "1997-12",
+    "source": "the promotion's own Blizzard Blast supercard, reposted verbatim in 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "lord-foul-the-despiser-waew"
+    ],
+    "note": "Shares a name drawn from the same fantasy novel villain (also billed from a matching 'Castle Revelstone'-style self-styling) with an unrelated promotion's own wrestler; no document links the two performers."
+   }
+  ]
+ },
+ {
+  "id": "paul-kiljoy-mvw",
+  "type": "character",
+  "name": "\"Legacy\" Paul Kiljoy",
+  "caption": "Beat Scott Alexander on 4 January 1998 to become both the MVW and Northeastern Pro Wrestling Television Champion.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1998-01",
+    "last_seen": "1998-01",
+    "source": "the promotion's own 4 January 1998 Ring Wars, reposted verbatim in 2001",
+    "finisher": "The Birthright"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "legacy-low"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against legacy-low. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200, which gives a ring name and a federation tag and nothing else — no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ },
+ {
+  "id": "scott-alexander-mvw",
+  "type": "character",
+  "name": "\"Stunning\" Scott Alexander",
+  "caption": "Lost the Northeastern Pro Wrestling Television Championship to Paul Kiljoy on 4 January 1998 in a title unification match also carrying the MVW Television Championship.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1998-01",
+    "last_seen": "1998-01",
+    "source": "the promotion's own 4 January 1998 Ring Wars, reposted verbatim in 2001",
+    "hometown": "Basking Ridge, New Jersey"
+   }
+  ]
+ },
+ {
+  "id": "tommy-rifles-mvw",
+  "type": "character",
+  "name": "\"The Ass Kicker\" Tommy Rifles",
+  "caption": "Headlined an 8 March 1998 Ring Wars main event, reposted verbatim in 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1998-03",
+    "last_seen": "1998-03",
+    "source": "the promotion's own 8 March 1998 Ring Wars, reposted verbatim in 2001",
+    "hometown": "Chicago, Illinois"
+   }
+  ]
+ },
+ {
+  "id": "the-professor-mvw",
+  "type": "character",
+  "name": "the Professor",
+  "caption": "Faced Tommy Rifles in an 8 March 1998 Ring Wars main event, reposted verbatim in 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1998-03",
+    "last_seen": "1998-03",
+    "source": "the promotion's own 8 March 1998 Ring Wars, reposted verbatim in 2001"
+   }
+  ]
+ },
+ {
+  "id": "daemon-dragon-dempsey-mvw",
+  "type": "character",
+  "name": "\"Daemon\" Dragon Dempsey",
+  "caption": "Cut a promo aimed at Solitude in a segment appended to the promotion's 8 March 1998 Ring Wars, reposted verbatim in 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1998-03",
+    "last_seen": "1998-03",
+    "source": "the promotion's own 8 March 1998 Ring Wars, reposted verbatim in 2001"
+   }
+  ]
+ },
+ {
+  "id": "solitude-mvw",
+  "type": "character",
+  "name": "Solitude",
+  "caption": "The target of a Daemon Dragon Dempsey promo in a segment appended to the promotion's 8 March 1998 Ring Wars, reposted verbatim in 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1998-03",
+    "last_seen": "1998-03",
+    "source": "the promotion's own 8 March 1998 Ring Wars, reposted verbatim in 2001"
+   }
+  ]
+ },
+ {
+  "id": "rich-williams-mvw",
+  "type": "character",
+  "name": "Rich Williams",
+  "caption": "Play-by-play commentator on the promotion's 2001 broadcasts, calling matches alongside Danny Angel.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-01",
+    "last_seen": "2001-03",
+    "source": "the promotion's own Player's Handbook v2.0 and its 2001 broadcasts"
+   }
+  ]
+ },
+ {
+  "id": "danny-angel-mvw",
+  "type": "character",
+  "name": "Danny Angel",
+  "caption": "Color commentator on the promotion's 2001 broadcasts and, from March 2001, co-host of its weekly Ringsider recap show.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-01",
+    "last_seen": "2001-03",
+    "source": "the promotion's own Player's Handbook v2.0 and its 2001 broadcasts"
+   }
+  ]
+ },
+ {
+  "id": "mitch-montell-mvw",
+  "type": "character",
+  "name": "Mitch Montell",
+  "caption": "Ring announcer on the promotion's 2001 broadcasts.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-01",
+    "last_seen": "2001-03",
+    "source": "the promotion's own Player's Handbook v2.0 and its 2001 broadcasts"
+   }
+  ]
+ },
+ {
+  "id": "boomer-sinclair-mvw",
+  "type": "character",
+  "name": "Boomer Sinclair",
+  "caption": "The promotion's Chief of Security, credited in its Player's Handbook and shown trying to restore order during a 1997 supercard brawl reposted verbatim in 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-12",
+    "last_seen": "2001-01",
+    "source": "the promotion's own Blizzard Blast supercard and its Player's Handbook v2.0"
+   }
+  ]
+ },
+ {
+  "id": "david-ferry-mvw",
+  "type": "character",
+  "name": "David Ferry",
+  "caption": "Ring announcer on the promotion's 1997-1998 broadcasts, reposted verbatim in 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "other"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-12",
+    "last_seen": "1998-03",
+    "source": "the promotion's own 1997-1998 Ring Wars broadcasts, reposted verbatim in 2001"
+   }
+  ]
+ },
+ {
+  "id": "martin-grimmer-mvw",
+  "type": "character",
+  "name": "Martin Grimmer",
+  "caption": "Play-by-play commentator on the promotion's 1997-1998 broadcasts, reposted verbatim in 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-12",
+    "last_seen": "1998-01",
+    "source": "the promotion's own 1997-1998 Ring Wars broadcasts, reposted verbatim in 2001"
+   }
+  ]
+ },
+ {
+  "id": "devon-cannons-mvw",
+  "type": "character",
+  "name": "Devon Cannons",
+  "caption": "Color commentator on the promotion's 1997-1998 broadcasts, reposted verbatim in 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1997-12",
+    "last_seen": "1998-01",
+    "source": "the promotion's own 1997-1998 Ring Wars broadcasts, reposted verbatim in 2001"
+   }
+  ]
+ },
+ {
+  "id": "curtis-keenan-mvw",
+  "type": "character",
+  "name": "\"Cunning\" Curtis Keenan",
+  "caption": "Host of the promotion's weekly Ringsider recap show from March 2001, alongside Danny Angel.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "commentator"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2001-03",
+    "last_seen": "2001-03",
+    "source": "the promotion's own March 2001 Ringsider broadcasts"
+   }
+  ]
+ },
+ {
+  "id": "lucky-man-dylan-dice-mvw-rspwf",
+  "type": "character",
+  "name": "\"Lucky Man\" Dylan Dice",
+  "notes": "Known from one post to rec.sport.pro-wrestling.fantasy (24 November 1998), served at /promotions/rspwf/archive/free-agent-lucky-man-dylan-dice-1998-11-24.html: 'Lucky Man' Dylan Dice, in his closet in his boxer shorts, tells MVW's Tommy Rifles and Fang that he is the new franchise player and throws the camera at the wall.",
+  "caption": "A cigar-smoking closet-dweller who says he is the MVW's new franchise player, November 1998.",
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-11-24",
+    "last_seen": "1998-11-24",
+    "source": "/promotions/rspwf/archive/free-agent-lucky-man-dylan-dice-1998-11-24.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dylan-dice-icew",
+     "dylan-dice-niwf-1998",
+     "lucky-man-dylan-dice-rspwf"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ },
+ {
+  "id": "axel-schmidt-mvw",
+  "type": "character",
+  "name": "Axel Schmidt",
+  "notes": "Known from one post to rec.sport.pro-wrestling.fantasy (3 January 1999), served at /promotions/rspwf/archive/axel-schmidt-a-free-agent-sample-rp-enclosed-1999-01-03.html: a drunk, defiant heel who fires his tutor and arranges his attack before a battle royal",
+  "caption": "A cocky heel just signed to the MVW, January 1999.",
+  "tenures": [
+   {
+    "promotion": "mvw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-01-21",
+    "last_seen": "1999-01-21",
+    "source": "/promotions/mvw/archive/mvw-update-1999-01-21.html",
+    "note": "The MVW Update of 21 January 1999 lists Axel Schmidt in its roster."
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "axel-schmidt-awmc",
+     "axel-schmidt-shootfire-pro-1999"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "double-a-express-uwl",
+    "type": "unit",
+    "name": "Double \"A\" Express",
+    "members": [
+      {
+        "name": "Anaconda",
+        "character_id": "anaconda-uwl"
+      },
+      {
+        "name": "Aftershock",
+        "character_id": "aftershock-uwl"
+      }
+    ],
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "uwl",
+        "role": "tag team \u2014 UWL Tag-Team Champions, retained twice at Summer Blast '99",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-06",
+        "last_seen": "1999-06",
+        "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+      }
+    ],
+    "caption": "Retained the UWL Tag-Team Championship twice in one night at Summer Blast '99, against Shawn Michaels & Triple H and then against Pink & Phoenix.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "The fed's own Summer Blast '99 results page labels the pair's own title \"UWL Tag-Team Title\" for the first defense and \"UWL World Tag-Team Title\" for the second, on the same night, for the same champions, never explaining the difference \u2014 treated here as one belt inconsistently named, on the strength of the wing's own placard claiming six titles total (the count that fits only if the two labels are the same belt). Appearances/reigns evidence counts here read 0 by the registry's own live-count convention \u2014 matches[].sides and reigns.json's own holder[] name the unit's two MEMBERS individually (anaconda-uwl, aftershock-uwl), never the unit id itself, so the unit row's own six-count staleness check has nothing to sum against; the activity is real and is receipted on the members' own rows."
+  },
+  {
+    "id": "the-rwo-uwl",
+    "type": "unit",
+    "name": "the rWo",
+    "members": [
+      {
+        "name": "Hot Fluff",
+        "character_id": "hot-fluff-uwl"
+      },
+      {
+        "name": "Stevie P.",
+        "character_id": "stevie-p-uwl"
+      },
+      {
+        "name": "Liter",
+        "character_id": "liter-uwl"
+      }
+    ],
+    "unit_kind": "stable",
+    "tenures": [
+      {
+        "promotion": "uwl",
+        "role": "stable \u2014 unveiled at Summer Blast '99, turned on its own mouthpiece mid-segment",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-06",
+        "last_seen": "1999-06",
+        "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+      }
+    ],
+    "caption": "A stable whose three members were unveiled at Summer Blast '99 by their own mouthpiece, PEZ, before turning on him mid-segment.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "PEZ presents the group and is beaten down by it in the same segment; the served text calls Hot Fluff, Stevie P./Thudder and Liter \"the three members of the rWo\" outright, which is why he is not listed as a member here."
+  },
+  {
+    "id": "the-clap-uwl",
+    "type": "unit",
+    "name": "THE CLAP",
+    "members": [
+      {
+        "name": "Stevie P.",
+        "character_id": "stevie-p-uwl"
+      },
+      {
+        "name": "Liter",
+        "character_id": "liter-uwl"
+      }
+    ],
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "uwl",
+        "role": "tag team \u2014 introduced at Summer Blast '99 as one half of the rWo's own newest arrivals",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-06",
+        "last_seen": "1999-06",
+        "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+      }
+    ],
+    "caption": "Introduced at Summer Blast '99 as \"the greatest tag team in the UWL,\" one half of the rWo's own newest arrivals.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "The served text introduces \"THE CLAP\" and \"the best damn cruiserweight in the business \u2014 HOT FLUFF\" in the same breath without drawing an explicit boundary; modeled here as the tag pairing of Stevie P./Thudder and Liter, with Hot Fluff read as the separately-billed solo cruiserweight \u2014 an interpretive call, not a document stating the split outright."
+  },
+  {
+    "id": "pink-and-phoenix-uwl",
+    "type": "unit",
+    "name": "Pink & Phoenix",
+    "aka": [
+      "The Bash Brothers"
+    ],
+    "members": [
+      {
+        "name": "Pink",
+        "character_id": "pink-uwl"
+      },
+      {
+        "name": "Phoenix",
+        "character_id": "phoenix-uwl"
+      }
+    ],
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "uwl",
+        "role": "tag team \u2014 challenged for the UWL Tag-Team Championship at Summer Blast '99",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "1999-06",
+        "last_seen": "1999-06",
+        "source": "The fed's own served Summer Blast '99 results page (promotions/uwl/archive/summer-blast-1999.html)"
+      }
+    ],
+    "caption": "Challenged the Double \"A\" Express for the UWL Tag-Team Championship at Summer Blast '99, billed by the fed's own results text as both \"Pink & Phoenix\" and \"The Bash Brothers.\"",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "phoenix-mike-mccarey-shootfire-pro-1999",
+          "phoenix-wwa",
+          "phoenix-xcwf"
+        ],
+        "note": "The aka-collision guard's decorated-aka check flags \"Pink & Phoenix\" as containing the bare \"Phoenix\" ring name several unrelated feds also used independently (the same collision phoenix-uwl's own identity[] note already records for the character row). No document on any side names another fed or claims a shared performer. Filed distinct pending evidence, per the collision doctrine."
+      }
+    ]
+  }
+]

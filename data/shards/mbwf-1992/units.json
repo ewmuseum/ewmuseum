@@ -1,0 +1,167 @@
+[
+ {
+  "id": "tempest-mbwf-1992",
+  "type": "unit",
+  "name": "Tempest",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-02",
+    "last_seen": "1993-03-26",
+    "grade": "primary-source",
+    "role": "tag team: MBWF World Tag Team champions, the first team entered",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html",
+    "note": "The newsletter of 18 March 1993 says they were the first team entered in the men's tag division and automatically became World Champions, and bills them against KickBack at Friday Ferocity #5 and the Slammers for the belts at #6; the first Friday Ferocity re-run ranks them champions."
+   }
+  ],
+  "caption": "The first team entered in the men's tag division, and so its first World Tag Team champions, billed against KickBack at Friday Ferocity #5 on 19 March 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "tempest-acw-2003",
+     "tempest-agw",
+     "tempest-glcw-2002",
+     "tempest-osw",
+     "tempest-ptc"
+    ],
+    "note": "Exact-name collision with unrelated records in other federations; no document ties any of them to this league. Kept distinct under the no-merge default."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true
+ },
+ {
+  "id": "the-slammers-mbwf-1992",
+  "type": "unit",
+  "name": "The Slammers",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-02",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "role": "tag team: MBWF World Tag Team champions by 14 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-status-1993-06-14.html; promotions/mbwf-1992/archive/m-b-w-f-re-run-friday-ferocity-1-1995-06-12.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The first Friday Ferocity (February 1993) has them win its main event over the SkullBenders and ranks them second; the newsletter of 18 March 1993 puts them next in line for a title match at Friday Ferocity #6; the status post of 14 June 1993 names them World Tag Team Champions; Grapple Wars 1 has them lose the belts to Pain Unbound when one partner stops fighting for the other."
+   }
+  ],
+  "caption": "Master 'Bud' Wiser and the Alabamma Slamma, World Tag Team champions by 14 June 1993 until Pain Unbound beat them at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Master 'Bud' Wiser",
+    "character_id": "master-bud-wiser-mbwf-1992"
+   },
+   {
+    "name": "The Alabamma Slamma",
+    "character_id": "the-alabamma-slamma-mbwf-1992"
+   }
+  ]
+ },
+ {
+  "id": "pain-unbound-mbwf-1992",
+  "type": "unit",
+  "name": "Pain Unbound",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-06-18",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "role": "tag team: MBWF World Tag Team champions from 18 June 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-1-1993-06-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "Grapple Wars 1 introduces Fear and Terror as the new team Pain Unbound, from Part Unknown, and has them pin Master 'Bud' Wiser for the World Tag Team titles."
+   }
+  ],
+  "caption": "Fear and Terror, who took the World Tag Team Championship from the Slammers at Grapple Wars on 18 June 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Fear",
+    "character_id": "fear-mbwf-1992"
+   },
+   {
+    "name": "Terror",
+    "character_id": "terror-mbwf-1992"
+   }
+  ]
+ },
+ {
+  "id": "kismet-mbwf-1992",
+  "type": "unit",
+  "name": "Kismet",
+  "tenures": [
+   {
+    "promotion": "mbwf-1992",
+    "first_seen": "1993-03-18",
+    "last_seen": "1993-06-18",
+    "grade": "primary-source",
+    "role": "tag team: the ladies' tag division's only team in March 1993",
+    "source": "promotions/mbwf-1992/archive/m-b-w-f-news-1993-03-18.html; promotions/mbwf-1992/archive/m-b-w-f-grapple-wars-1-part-2-1993-06-18.html",
+    "note": "The newsletter of 18 March 1993 lists Kismet as the only team in the ladies' tag division; Grapple Wars 1 has Kismet beat the Tremendoes by disqualification."
+   }
+  ],
+  "caption": "The sisters Fate and Destiny as a ladies' tag team, the only team in their division in March 1993.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Fate",
+    "character_id": "fate-mbwf-1992"
+   },
+   {
+    "name": "Destiny",
+    "character_id": "destiny-mbwf-1992"
+   }
+  ]
+ }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "gwo-pwf",
+    "type": "unit",
+    "name": "gWo",
+    "unit_kind": "stable",
+    "caption": "A PWF stable (a parody of the real-world nWo) built around Matt Van Dam, billed on the fed's own dedicated bio card.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "Matt Van Dam",
+        "character_id": "matt-van-dam-pwf"
+      },
+      {
+        "name": "Power G",
+        "character_id": "power-g-pwf"
+      },
+      {
+        "name": "Travis Right",
+        "character_id": "travis-right-pwf"
+      },
+      {
+        "name": "The Real McCoy",
+        "character_id": "the-real-mccoy-pwf"
+      },
+      {
+        "name": "Jennifer Van Dam",
+        "character_id": "jennifer-van-dam-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/bio-gwo.html",
+        "grade": "primary-source",
+        "note": "Led by Matt Van Dam; The Real McCoy billed as manager of Power G within the group. At Saturday Night Havoc (24 March 2001), the group — Matt Van Dam, Power G, The Real McCoy, and Jennifer Van Dam — spent the broadcast hunting Rye Hazwaki backstage and through the parking lot after his interference cost MVD his own match against Genecide; the broadcast never resolves the chase."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "gwo"
+        ],
+        "note": "A ring name shared with an unrelated character/unit elsewhere in the registry (gwo); no corroborating link to this PWF entity. Distinct from an unrelated stable of the same generic nWo-parody name elsewhere in the registry."
+      }
+    ]
+  },
+  {
+    "id": "outkasts-pwf",
+    "type": "unit",
+    "name": "OutKasts",
+    "unit_kind": "stable",
+    "caption": "A PWF stable formed at War Games (27 May 2001) when Bloodbath and Havok interfered to help Crusader Chrome and Rye Hazwaki win the World and US Titles, billed on the fed's own dedicated bio card.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "Crusader Chrome",
+        "character_id": "crusader-chrome-pwf"
+      },
+      {
+        "name": "Rye Hazwaki",
+        "character_id": "rye-hazwaki-pwf"
+      },
+      {
+        "name": "Havok",
+        "character_id": "havok-pwf"
+      },
+      {
+        "name": "Bloodbath",
+        "character_id": "bloodbath-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/bio-outkasts.html",
+        "grade": "primary-source",
+        "note": "The World and US Title reigns this formation won are entered as pwf-powersite-world-crusader-chrome-2001 and pwf-powersite-us-rye-hazwaki-2001 in the reign ledger; War Games itself is gap-registered as an uncollected show (pwf-powersite-war-games-2001-05-27)."
+      }
+    ]
+  },
+  {
+    "id": "gods-of-war-pwf",
+    "type": "unit",
+    "name": "Gods of War",
+    "unit_kind": "tag-team",
+    "caption": "A PWF tag team (Alexander & Kull) billed on the fed's own dedicated bio card, previously dominant in an unheld prior fed, the GCW.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "Alexander",
+        "character_id": "alexander-pwf"
+      },
+      {
+        "name": "Kull",
+        "character_id": "kull-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/bio-gods-of-war.html",
+        "grade": "primary-source",
+        "note": "The card's own “Titles Held” field lists a claim to the Tag Team(1) Title — undated; the fed's own dedicated Titles.html page names that title vacant throughout the surviving capture. Their scheduled Saturday Night Havoc debut against the Waveriders (24 March 2001) never started — the Ruff Ryders (Destroyer & Devastator) attacked both teams on the way to the ring."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "gods-of-war-iwf"
+        ],
+        "note": "A ring name shared with an unrelated character/unit elsewhere in the registry (gods-of-war-iwf); no corroborating link to this PWF entity. Distinct from the unrelated IWF unit of the same mythological name."
+      }
+    ]
+  },
+  {
+    "id": "gods-of-gore-pwf",
+    "type": "unit",
+    "name": "Gods of Gore",
+    "aka": [
+      "HardGore"
+    ],
+    "unit_kind": "tag-team",
+    "caption": "A PWF tag team (Big Lou & Mad Mike), self-styled “HardGore,” billed on the fed's own dedicated bio card.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "Big Lou",
+        "character_id": "big-lou-pwf"
+      },
+      {
+        "name": "Mad Mike",
+        "character_id": "mad-mike-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/bio-gods-of-gore.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "lords-of-destruction-pwf",
+    "type": "unit",
+    "name": "Lords of Destruction",
+    "aka": [
+      "LOD"
+    ],
+    "unit_kind": "tag-team",
+    "caption": "A PWF tag team (Carnage & Bloodstorm) managed by Nicolas Kain, billed on the fed's own dedicated bio card.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "Carnage",
+        "character_id": "carnage-pwf"
+      },
+      {
+        "name": "Bloodstorm",
+        "character_id": "bloodstorm-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/bio-lords-of-destruction.html",
+        "grade": "primary-source",
+        "manager": "Nicolas Kain",
+        "note": "The card's own “Titles Held” field lists a claim to the Tag Team(1) Title — undated; the fed's own dedicated Titles.html page names that title vacant throughout the surviving capture. Lost their own Saturday Night Havoc debut to the Ruff Ryders (24 March 2001) — Devastator rolled through Carnage's own End of Days attempt to pin him, having already chokeslammed Bloodstorm."
+      }
+    ]
+  },
+  {
+    "id": "the-russians-pwf",
+    "type": "unit",
+    "name": "The Russians",
+    "unit_kind": "tag-team",
+    "caption": "A PWF tag team (Cossak Joe & Wowbowski) billed on the fed's own dedicated bio card, previously dominant in an unheld prior fed, the MOW Extreme.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "Cossak Joe",
+        "character_id": "cossak-joe-pwf"
+      },
+      {
+        "name": "Wowbowski",
+        "character_id": "wowbowski-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/bio-the-russians.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "gummi-bears-pwf",
+    "type": "unit",
+    "name": "Gummi Bears",
+    "unit_kind": "tag-team",
+    "caption": "A PWF tag team (Cookie Dough & Barry Banoffe), both trained by “The Wock” from RAWrestling, billed on the fed's own dedicated bio card.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "Cookie Dough",
+        "character_id": "cookie-dough-pwf"
+      },
+      {
+        "name": "Barry Banoffe",
+        "character_id": "barry-banoffe-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/bio-gummi-bears.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "pellington-brothers-pwf",
+    "type": "unit",
+    "name": "Pellington Brothers",
+    "unit_kind": "tag-team",
+    "caption": "A PWF tag team (Michael Pellington Jr. & David Pellington), sons of owner Michael Pellington, billed on the fed's own dedicated bio card.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-28"
+    },
+    "members": [
+      {
+        "name": "Michael Pellington Jr.",
+        "character_id": "michael-pellington-jr-pwf"
+      },
+      {
+        "name": "David Pellington",
+        "character_id": "david-pellington-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/bio-pellington-brothers.html",
+        "grade": "primary-source",
+        "note": "Per the card's own history, the owner is said to have a third, unnamed son and one daughter as well."
+      }
+    ]
+  },
+  {
+    "id": "t3-pwf",
+    "type": "unit",
+    "name": "T3",
+    "unit_kind": "tag-team",
+    "caption": "A PWF stable that won a PWF Tag-team #1 contendership at THE PWF REBIRTH, only one member (Ace Cooper) named performing in the ring.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-30"
+    },
+    "members": [
+      {
+        "name": "Ace Cooper",
+        "character_id": "ace-cooper-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/the-pwf-rebirth.html",
+        "grade": "primary-source",
+        "manager": "Big Mama Sledge",
+        "note": "Billed as \"two of the hottest tag-teams in the PWF\" against the Hardcore Machines, but the surviving broadcast text names only Ace Cooper performing in the ring for T3 — the rest of the team's own roster is not recovered in this capture."
+      }
+    ]
+  },
+  {
+    "id": "hardcore-machines-pwf",
+    "type": "unit",
+    "name": "The Hardcore Machines",
+    "unit_kind": "tag-team",
+    "caption": "A PWF tag team (Moon Glorious & Napalm) beaten by T3 in a #1 contendership match at THE PWF REBIRTH.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-30"
+    },
+    "members": [
+      {
+        "name": "Moon Glorious",
+        "character_id": "moon-glorious-pwf"
+      },
+      {
+        "name": "Napalm",
+        "character_id": "napalm-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/the-pwf-rebirth.html",
+        "grade": "primary-source"
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "steve-cowan-mwe",
+          "the-machine-faw",
+          "the-machine-xcwf"
+        ],
+        "note": "A decorated-name collision (\"The Machine\"/\"Hardcore Machines\") with unrelated characters in other unrelated promotions; no corroborating link to this PWF tag team."
+      }
+    ]
+  },
+  {
+    "id": "ruff-ryders-pwf",
+    "type": "unit",
+    "name": "The Ruff Ryders",
+    "unit_kind": "tag-team",
+    "caption": "A PWF tag team (Devastator & Destroyer, \"the Twin Towers\") that beat the Lords of Destruction on its own PWF return, then attacked the debuting Waveriders and Gods of War before their scheduled match could start.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-30"
+    },
+    "members": [
+      {
+        "name": "Devastator",
+        "character_id": "devastator-pwf"
+      },
+      {
+        "name": "Destroyer",
+        "character_id": "destroyer-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/saturday-night-havoc-2001-03-24.html; promotions/pwf-powersite/archive/roster.html; promotions/pwf-powersite/archive/bio-devastator.html",
+        "grade": "primary-source",
+        "note": "Devastator's own bio card gives the team's full history — the \"Twin Towers,\" old-PWF-to-AHW-to-VWA tag team that rebranded as the Ruff Ryders on returning to the new PWF. Named on the fed's own roster page under World Division tag teams."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "ruff-ryder"
+        ],
+        "note": "A near-name collision with an unrelated character billed bare \"Ruff Ryder\" elsewhere in the registry; no corroborating link to this PWF tag team, sourced to Devastator's own bio card and the fed's own roster page."
+      }
+    ]
+  },
+  {
+    "id": "waveriders-pwf",
+    "type": "unit",
+    "name": "Waveriders",
+    "unit_kind": "tag-team",
+    "caption": "A debuting PWF tag team (Riptide & T-Bomb) attacked by the Ruff Ryders before their own first scheduled match against the Gods of War could start.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-30"
+    },
+    "members": [
+      {
+        "name": "Riptide",
+        "character_id": "riptide-pwf"
+      },
+      {
+        "name": "T-Bomb",
+        "character_id": "t-bomb-pwf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "pwf-powersite",
+        "source": "promotions/pwf-powersite/archive/saturday-night-havoc-2001-03-24.html; promotions/pwf-powersite/archive/roster.html",
+        "grade": "primary-source",
+        "note": "Named on the fed's own roster page under World Division tag teams; billed at a combined 410 lbs from Newport Beach, California."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-waveriders-cswa"
+        ],
+        "note": "A shared team name with an unrelated CSWA tag team; no corroborating link to this PWF tag team."
+      }
+    ]
+  }
+]

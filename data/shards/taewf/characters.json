@@ -1,0 +1,190 @@
+[
+ {
+  "id": "kurt-manning-taewf",
+  "type": "character",
+  "name": "\"The Masterpiece\" Kurt Manning",
+  "tenures": [
+   {
+    "promotion": "taewf",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/taewf/archive/match-of-the-year-quigley-vs-manning-from-taewfs-february-fury.html",
+    "notes": "Quigley's challenger and longtime rival at February Fury 1997."
+   }
+  ],
+  "caption": "A wrestler billed by TAEWF in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "trey-porter-taewf",
+  "type": "character",
+  "name": "\"Dreamlover\" Trey Porter",
+  "tenures": [
+   {
+    "promotion": "taewf",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/taewf/archive/match-of-the-century-trey-porter-vs-chris-quigley.html",
+    "notes": "Challenged Quigley for the TAEWF World Heavyweight Championship at the Kauffman Cup, July 1997; ranked #112 on the 1997 RSPWF Top 200."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "dreamlover-trey-porter-emwc"
+    ]
+   }
+  ],
+  "caption": "A wrestler billed by TAEWF in the surviving 1997 Usenet record.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "dean-ferris-taewf",
+  "type": "character",
+  "name": "\"Flashfire\" Dean Ferris",
+  "caption": "Wins the TAEWF United States Championship from \"Rude Dog\" Alex Reed at Summer Blast 1996, formerly the promotion's own World Heavyweight Champion.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "taewf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-08-10",
+    "last_seen": "1996-08-10",
+    "source": "/promotions/taewf/archive/summer-blast-ppv-1996-08-10-pt3.html",
+    "notes": "Billed as a former TAEWF World Heavyweight Champion entering this match; led to the ring by his brother, Joe Ferris."
+   }
+  ]
+ },
+ {
+  "id": "alex-reed-taewf",
+  "type": "character",
+  "name": "\"Rude Dog\" Alex Reed",
+  "caption": "Loses the TAEWF United States Championship to \"Flashfire\" Dean Ferris at Summer Blast 1996.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "taewf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-08-10",
+    "last_seen": "1996-08-10",
+    "source": "/promotions/taewf/archive/summer-blast-ppv-1996-08-10-pt3.html"
+   }
+  ]
+ },
+ {
+  "id": "the-executioner-taewf",
+  "type": "character",
+  "name": "The Executioner",
+  "caption": "Retains the TAEWF World Heavyweight Championship at Summer Blast 1996 in a four-way Texas Tornado match, an earlier holder of the belt than any other reign in the surviving record.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "tenures": [
+   {
+    "promotion": "taewf",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-08-10",
+    "last_seen": "1996-08-10",
+    "source": "/promotions/taewf/archive/summer-blast-ppv-1996-08-10-pt3.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (euwc-the-executioner); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "euwc-the-executioner"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (executioner-icew); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "executioner-icew"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (steve-williams-lcw-1997); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "steve-williams-lcw-1997"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-executioner-cswa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-executioner-cswa"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-executioner-wewf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-executioner-wewf"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-executioner-wewf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-executioner-wewf"
+    ]
+   }
+  ]
+ }
+]

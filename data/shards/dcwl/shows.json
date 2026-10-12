@@ -1,0 +1,88 @@
+[
+ {
+  "id": "dcwl-saturday-night-extreme-1997-06-08",
+  "type": "show",
+  "name": "DCWL Saturday Night Extreme",
+  "promotion": "dcwl",
+  "date": {
+   "date": "1997-06-08",
+   "precision": "exact",
+   "source": "The posts' own subject lines and posting dates (7-8 June 1997)."
+  },
+  "page": "/promotions/dcwl/archive/dcwl-saturday-night-extreme-1997-06-08.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "bon-scott-dcwl",
+    "kind": "match"
+   },
+   {
+    "who": "tazmanian-crippler-dcwl",
+    "kind": "match"
+   },
+   {
+    "who": "maelstrom-dcwl",
+    "kind": "match"
+   },
+   {
+    "who": "destiny-dcwl",
+    "kind": "match"
+   },
+   {
+    "who": "stagg-dcwl",
+    "kind": "match"
+   },
+   {
+    "who": "el-juapo-dcwl",
+    "kind": "match"
+   },
+   {
+    "who": "john-clapp-sr-dcwl",
+    "kind": "match",
+    "capacity": "referee"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "tazmanian-crippler-dcwl"
+     ],
+     [
+      "bon-scott-dcwl"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "An open challenge issued live by the champion; the surviving capture splits the match across this post and its own follow-up (msg_id J8WUZbJ4UpUJ), which the transmission itself marks \"To be Continued.\" Won via pinfall at 31:01; Tazmanian Crippler retains the Television Championship."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "maelstrom-dcwl"
+     ],
+     [
+      "destiny-dcwl"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Billed \"one half of the Elemental Force\" against \"one half of Damnation.\" Won via submission at 19:56."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "stagg-dcwl"
+     ],
+     [
+      "el-juapo-dcwl"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "For the DCWL Unified Heavyweight Championship. Stagg publicly vacates the title and hands it to El Juapo before the bell; a token, pre-arranged pinfall follows at 0:11. An undercard Austin 4:15/Kensuki Kwan match and a post-match faction brawl (\"the Independent Nation\") on the same broadcast are preserved in the served page text but not separately structured here."
+   }
+  ],
+  "notes": "Survives as two consecutive Usenet posts (msg_id tEDUepVyyAMJ, 8 June 1997, and its own follow-up msg_id J8WUZbJ4UpUJ, same date), both served; the second picks the Crippler/Bon Scott open challenge up mid-match where the first breaks off. An earlier Austin 4:15/Kensuki Kwan match and a backstage interview with Bon Scott are preserved in the served text of the first post but are not separately structured into matches[]."
+ }
+]

@@ -1,0 +1,657 @@
+[
+  {
+    "id": "tru-tank-dawgs-wcotw",
+    "type": "unit",
+    "name": "Tru Tank Dawgs",
+    "aka": [
+      "Tru Tank Dogs"
+    ],
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "K-Dogg",
+        "character_id": "k-dogg"
+      },
+      {
+        "name": "Hardcore",
+        "character_id": "hardcore"
+      },
+      {
+        "name": "Wyte Rice",
+        "character_id": "wyte-rice"
+      },
+      {
+        "name": "Saturn",
+        "character_id": "saturn-wcotw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "stable"
+      }
+    ],
+    "notes": "Named team billed intact across two separate Halloween Havoc bouts (an 8-man tag under \"Tru Tank Dawgs\" and the 36-man tag under \"Tru Tank Dogs\"); members are the four wrestlers the fed's own play-by-play shows tagging in and out under this team's banner.",
+    "caption": "A named tag team on the fed's own Halloween Havoc Battle Bowl card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-truth-commission-wcotw",
+    "type": "unit",
+    "name": "The Truth Commission",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Joe Savage",
+        "character_id": "joe-savage"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "stable"
+      }
+    ],
+    "notes": "Shares its name with the real WWF stable (1997-98), but the fed's own text stages only one named active member (Joe Savage), never confirmed as the same lineup — no portrayal asserted for the unit.",
+    "caption": "A named tag team on the fed's own Halloween Havoc Battle Bowl card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "road-warriors-wcotw",
+    "type": "unit",
+    "name": "Road Warriors",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Eric Riley",
+        "character_id": "eric-riley"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "tag team"
+      }
+    ],
+    "notes": "Shares its name with the real tag team, but the fed's own text names only one active member (Eric Riley, who does not correspond to either real Road Warrior) — no portrayal asserted; a second team member is billed but never individually named in the served text.",
+    "caption": "A named tag team on the fed's own Halloween Havoc Battle Bowl card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Shares its bare billed name with road-warriors-uwf-uwow, another promotion's own separate portrayal of the same real figure — per CURATION.md v96, a real wrestler's character row is always a per-promotion row, never merged across promotions; the external-figures record is the only shared node. Distinct, not the same character row.",
+        "with": [
+          "road-warriors-uwf-uwow"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-excaliburs-wcotw",
+    "type": "unit",
+    "name": "The Excaliburs",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Vinnie Vegas",
+        "character_id": "vinnie-vegas-wcotw"
+      },
+      {
+        "name": "Randy Reno",
+        "character_id": "randy-reno"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "tag team — the reigning WCOTW Can-Am Tag Team Champions entering Halloween Havoc"
+      }
+    ],
+    "caption": "The reigning WCOTW Can-Am Tag Team Champions entering Halloween Havoc.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-outsiders-wcotw",
+    "type": "unit",
+    "name": "The Outsiders",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Peacock",
+        "character_id": "peacock"
+      },
+      {
+        "name": "Kevin Nash",
+        "character_id": "kevin-nash-wcotw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "tag team"
+      }
+    ],
+    "notes": "Shares its name with the real WCW team, and one of its two named members (Kevin Nash) is himself a portrayal of a real Outsider — but the other named member (Peacock) does not correspond to the real team's other half (Scott Hall), so no unit-level portrayal is asserted; Kevin Nash's own individual portrayal stands regardless.",
+    "caption": "A named tag team on the fed's own Halloween Havoc Battle Bowl card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Shares its bare billed name with kevin-nash-xwf-uwow, scott-hall-xwf-uwow, euwc-the-outsiders, outsiders-xwf-uwow, the-outsiders-uwow, an unrelated character/unit in another promotion's own registry — no shared evidence beyond the coincidental generic name; distinct per the no-auto-merge rule.",
+        "with": [
+          "kevin-nash-xwf-uwow",
+          "scott-hall-xwf-uwow",
+          "euwc-the-outsiders",
+          "outsiders-xwf-uwow",
+          "the-outsiders-uwow"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "legion-of-doom-wcotw",
+    "type": "unit",
+    "name": "Legion Of Doom",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Hardcore",
+        "character_id": "hardcore"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "tag team — the reigning WCOTW US Tag Team Champions entering Halloween Havoc"
+      }
+    ],
+    "notes": "Shares its name with the real tag team (the WWF rebrand of the Road Warriors), but the fed's own text names only one active member (Hardcore, who does not correspond to either real Legion of Doom member) — no portrayal asserted.",
+    "caption": "The reigning WCOTW US Tag Team Champions entering Halloween Havoc.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "da-goodfellas-wcotw",
+    "type": "unit",
+    "name": "Da Goodfellas",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Taz",
+        "character_id": "taz-wcotw"
+      },
+      {
+        "name": "Da Don",
+        "character_id": "da-don"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "tag team"
+      }
+    ],
+    "caption": "A named tag team on the fed's own Halloween Havoc Battle Bowl card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "brothers-of-the-darkside-wcotw",
+    "type": "unit",
+    "name": "Brothers Of The Darkside",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Undertaker",
+        "character_id": "undertaker-wcotw"
+      },
+      {
+        "name": "Crimson Beast Kane",
+        "character_id": "crimson-beast-kane-wcotw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "tag team"
+      }
+    ],
+    "caption": "A named tag team on the fed's own Halloween Havoc Battle Bowl card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "defective-trip-wcotw",
+    "type": "unit",
+    "name": "Defective Trip",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Gravedigga",
+        "character_id": "gravedigga"
+      },
+      {
+        "name": "Agent-X",
+        "character_id": "agent-x"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "tag team"
+      }
+    ],
+    "caption": "A named tag team on the fed's own Halloween Havoc Battle Bowl card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "us-troopers-wcotw",
+    "type": "unit",
+    "name": "US Troopers",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Navy Seal",
+        "character_id": "navy-seal"
+      },
+      {
+        "name": "Green Beret",
+        "character_id": "green-beret"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "tag team"
+      }
+    ],
+    "caption": "A named tag team on the fed's own Halloween Havoc Battle Bowl card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "mob-gambino-wcotw",
+    "type": "unit",
+    "name": "M.O.B. Gambino",
+    "unit_kind": "stable",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "stable"
+      }
+    ],
+    "notes": "One of three named sub-stables on one side of the Halloween Havoc 36-man tag; the fed's own play-by-play does not attribute individual wrestlers cleanly to this sub-stable versus its two side-partners (Bone Thugs, Tru Tank Dogs), so membership is left unresolved rather than guessed.",
+    "caption": "A named stable in the fed's own Halloween Havoc 36-man tag match; no roster document survives naming individual members.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "bone-thugs-wcotw",
+    "type": "unit",
+    "name": "Bone Thugs",
+    "unit_kind": "stable",
+    "members": [
+      {
+        "name": "Krayzie Bone",
+        "character_id": "krayzie-bone-wcotw"
+      },
+      {
+        "name": "Layzie Bone",
+        "character_id": "layzie-bone-wcotw"
+      },
+      {
+        "name": "Flesh-n-Bone",
+        "character_id": "flesh-n-bone-wcotw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "stable"
+      }
+    ],
+    "notes": "Named sub-stable in the Halloween Havoc 36-man tag; members are the three real Bone Thugs-n-Harmony artists the fed's own play-by-play shows actively wrestling from this side (Krayzie Bone, Flesh-n-Bone, Layzie Bone). Two further real group members (Bizzy Bone, Wish Bone) appear on the fed's own wrestler-ranking roster but are never shown wrestling in the held corpus — not added to this unit's membership on ranking-row evidence alone.",
+    "caption": "A named tag team on the fed's own Halloween Havoc Battle Bowl card.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "darkside-wcotw",
+    "type": "unit",
+    "name": "Darkside",
+    "unit_kind": "stable",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "stable"
+      }
+    ],
+    "notes": "One of three named sub-stables on the other side of the Halloween Havoc 36-man tag; membership left unresolved for the same reason as M.O.B. Gambino. Possibly related to \"Brothers Of The Darkside\" (a separate unit, a different match's own team name) — not merged on name-similarity alone, per the no-auto-merge discipline.",
+    "caption": "A named stable in the fed's own Halloween Havoc 36-man tag match; no roster document survives naming individual members.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "Shares its bare billed name with darkside-icw-pweboard, darkside-naw, darkside-xcwf, an unrelated character/unit in another promotion's own registry — no shared evidence beyond the coincidental generic name; distinct per the no-auto-merge rule.",
+        "with": [
+          "darkside-icw-pweboard",
+          "darkside-naw",
+          "darkside-xcwf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dangerous-alliance-wcotw",
+    "type": "unit",
+    "name": "Dangerous Alliance",
+    "unit_kind": "stable",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "stable"
+      }
+    ],
+    "notes": "Shares its name with the real early-90s WCW stable, but membership in the fed's own 36-man tag is unresolved (see M.O.B. Gambino) and no individual member corresponds to the real Dangerous Alliance's own lineup — no portrayal asserted.",
+    "caption": "A named stable in the fed's own Halloween Havoc 36-man tag match; no roster document survives naming individual members.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "elite-inc-wcotw",
+    "type": "unit",
+    "name": "Elite Inc",
+    "unit_kind": "stable",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served Halloween Havoc results page (promotions/wcotw/archive/halloween-havoc.html), a 1998 Zeus-simulator-generated card",
+        "role": "stable"
+      }
+    ],
+    "notes": "One of three named sub-stables in the Halloween Havoc 36-man tag; membership unresolved for the same reason as M.O.B. Gambino.",
+    "caption": "A named stable in the fed's own Halloween Havoc 36-man tag match; no roster document survives naming individual members.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-outkasts-wcotw",
+    "type": "unit",
+    "name": "The Outkasts",
+    "unit_kind": "tag-team",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)",
+        "role": "tag team — the reigning WCOTW US Tag Team Champions per the fed's own last surviving (~2001) champions snapshot"
+      }
+    ],
+    "notes": "US Tag Team Champions per the fed's own current-champions snapshot; no roster/appearance document survives naming individual members.",
+    "caption": "The reigning WCOTW US Tag Team Champions per the fed's own last surviving (~2001) champions snapshot; no roster document survives naming individual members.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "mo-thugs-wcotw",
+    "type": "unit",
+    "name": "Mo Thugs",
+    "unit_kind": "stable",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)",
+        "role": "stable — the reigning WCOTW Can-Am Tag Team Champions per the fed's own last surviving (~2001) champions snapshot"
+      }
+    ],
+    "notes": "Can-Am Tag Team Champions per the fed's own current-champions snapshot; no roster/appearance document survives naming individual members. Possibly related to the real Mo Thugs Family (a Bone Thugs-n-Harmony-affiliated hip-hop collective) given this fed's other hip-hop-sourced ring names, but not asserted as a portrayal on name alone.",
+    "caption": "The reigning WCOTW Can-Am Tag Team Champions per the fed's own last surviving (~2001) champions snapshot; no roster document survives naming individual members.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "gambino-family-wcotw",
+    "type": "unit",
+    "name": "Gambino Family",
+    "unit_kind": "stable",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "wcotw",
+        "grade": "primary-source",
+        "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)",
+        "role": "stable — the reigning WCOTW Stable Champion per the fed's own last surviving (~2001) champions snapshot"
+      }
+    ],
+    "notes": "Stable Champions per the fed's own current-champions snapshot; no roster/appearance document survives naming individual members. Possibly the same stable as \"M.O.B. Gambino\" (a Halloween Havoc 36-man tag sub-stable) given the shared \"Gambino\" name, but not merged — different documents, no shared individual member confirmed, per the no-auto-merge discipline.",
+    "caption": "The reigning WCOTW Stable Champion per the fed's own last surviving (~2001) champions snapshot; no roster document survives naming individual members.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

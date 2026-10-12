@@ -1,0 +1,491 @@
+[
+ {
+  "caption": "A pair of billed identical twins who won GLW's own inaugural World Tag Team Title tournament.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 11,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "written": "2026-08-31"
+  },
+  "id": "the-headhunters-glw",
+  "membership_unknown": true,
+  "name": "The Headhunters",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "note": "Billed as identical twins (\"Headhunter A\", \"Headhunter B\") on the fed's own results scripts — no individual names survive.",
+    "promotion": "glw",
+    "role": "tag team",
+    "source": "the fed's own tag-team ranking table, served at /promotions/glw/archive/tag-team-ranking.html"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "GLW's own stable, led by \"The Canadian Superstar\" Lance Storm with Dawn Marie as manager.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "written": "2026-08-31"
+  },
+  "id": "the-extremists-glw",
+  "members": [
+   {
+    "character_id": "lance-storm-glw",
+    "name": "Lance Storm"
+   },
+   {
+    "character_id": "jonny-storm-glw",
+    "name": "Jonny Storm"
+   },
+   {
+    "character_id": "rhino-glw",
+    "name": "Rhino"
+   },
+   {
+    "character_id": "ace-darling-glw",
+    "name": "Ace Darling"
+   },
+   {
+    "character_id": "devon-storm-glw",
+    "name": "Devon Storm"
+   },
+   {
+    "character_id": "dawn-marie-glw",
+    "name": "Dawn Marie"
+   }
+  ],
+  "name": "The Extremists",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "promotion": "glw",
+    "role": "stable",
+    "source": "the fed's own stables page, served at /promotions/glw/archive/stables.html"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "caption": "GLW's own stable of three billed Armstrong brothers, one of whom, \"Roaddog\" Jesse James Armstrong, held half of the World Tag Team Titles.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "written": "2026-08-31"
+  },
+  "id": "the-armstrong-family-glw",
+  "members": [
+   {
+    "character_id": "jesse-james-armstrong-glw",
+    "name": "Jesse James Armstrong"
+   },
+   {
+    "character_id": "scott-armstrong-glw",
+    "name": "Scott Armstrong"
+   },
+   {
+    "character_id": "steve-armstrong-glw",
+    "name": "Steve Armstrong"
+   }
+  ],
+  "name": "The Armstrong Family",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "promotion": "glw",
+    "role": "stable",
+    "source": "the fed's own stables page, served at /promotions/glw/archive/stables.html"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "caption": "GLW's own stable, headed by two-time Midwestern Champion Doc Dean alongside Brian Adias and \"The Beast From The East\" Bam Bam Bigelow.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "written": "2026-08-31"
+  },
+  "id": "the-elite-glw",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A shared stable name only — GLW's own surviving record carries no evidence connecting this stable to the unrelated PWE Inc. stable of the same name; the no-auto-merge rule presumes distinct absent a shared receipt.",
+    "with": [
+     "the-elite-pwe-inc"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "doc-dean-glw",
+    "name": "Doc Dean"
+   },
+   {
+    "character_id": "brian-adias-glw",
+    "name": "Brian Adias"
+   },
+   {
+    "character_id": "bam-bam-bigelow-glw",
+    "name": "Bam Bam Bigelow"
+   }
+  ],
+  "name": "The Elite",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "promotion": "glw",
+    "role": "stable",
+    "source": "the fed's own stables page, served at /promotions/glw/archive/stables.html"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "stable"
+ },
+ {
+  "caption": "GLW's own tag team of Gutterboy and Skank, undone when Skank turned on his own partner in a cage match.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-grungers-glw",
+  "members": [
+   {
+    "character_id": "gutterboy-glw",
+    "name": "Gutterboy"
+   },
+   {
+    "character_id": "skank-glw",
+    "name": "Skank"
+   }
+  ],
+  "name": "The Grungers",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "note": "Active from the fed's opening card through the 2/23/01 Slam Masters: Crunch Time cage match, in which Skank cost Gutterboy the match and the team dissolved; Skank re-teamed with Steve Boz afterward as The Superstars of Grunge.",
+    "promotion": "glw",
+    "role": "tag team",
+    "source": "the fed's own dated results cards and its own TAGTEAM.TXT ranking table, served at /promotions/glw/archive/"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A decorated/nickname aka substring match only, surfaced by the near-name sweep — no shared receipt across wings; the no-auto-merge rule presumes distinct.",
+    "with": [
+     "grunge"
+    ]
+   }
+  ]
+ },
+ {
+  "caption": "GLW's own tag team of Mark Pain and Bull Pain, The New Powers of Pain.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-new-powers-of-pain-glw",
+  "members": [
+   {
+    "character_id": "mark-pain-glw",
+    "name": "Mark Pain"
+   },
+   {
+    "character_id": "bull-pain-glw",
+    "name": "Bull Pain"
+   }
+  ],
+  "name": "The New Powers of Pain",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "promotion": "glw",
+    "role": "tag team",
+    "source": "the fed's own dated results cards and its own TAGTEAM.TXT ranking table, served at /promotions/glw/archive/"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A decorated/nickname aka substring match only, surfaced by the near-name sweep — no shared receipt across wings; the no-auto-merge rule presumes distinct.",
+    "with": [
+     "maxwell-powers-pwf",
+     "sir-matthew-powers-pwf",
+     "powers-of-pain-icwc",
+     "powers-of-pain-ngw"
+    ]
+   }
+  ]
+ },
+ {
+  "caption": "GLW's own tag team of Mike Burton and Johnny Ace, The Movement.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 8,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-movement-glw",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A shared team name only — GWF (2006)'s own \"The Movement\" (id the-movement) is XO Malone's own faction from a different, unrelated wing; the no-auto-merge rule presumes distinct absent a shared receipt.",
+    "with": [
+     "the-movement"
+    ]
+   }
+  ],
+  "members": [
+   {
+    "character_id": "mike-burton-glw",
+    "name": "Mike Burton"
+   },
+   {
+    "character_id": "johnny-ace-glw",
+    "name": "Johnny Ace"
+   }
+  ],
+  "name": "The Movement",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "note": "Billed on debut as \"big stars overseas.\"",
+    "promotion": "glw",
+    "role": "tag team",
+    "source": "the fed's own dated results cards and its own TAGTEAM.TXT ranking table, served at /promotions/glw/archive/"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team"
+ },
+ {
+  "caption": "GLW's own tag team of Skank and Steve Boz, formed after Skank turned on his previous partner Gutterboy.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 7,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "the-superstars-of-grunge-glw",
+  "members": [
+   {
+    "character_id": "skank-glw",
+    "name": "Skank"
+   },
+   {
+    "character_id": "steve-boz-glw",
+    "name": "\"Superstar\" Steve Boz"
+   }
+  ],
+  "name": "The Superstars of Grunge",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "note": "Formed 2/23/01 at Slam Masters: Crunch Time, the same show on which Skank turned on his former partner Gutterboy.",
+    "promotion": "glw",
+    "role": "tag team",
+    "source": "the fed's own dated results cards and its own TAGTEAM.TXT ranking table, served at /promotions/glw/archive/"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A decorated/nickname aka substring match only, surfaced by the near-name sweep — no shared receipt across wings; the no-auto-merge rule presumes distinct.",
+    "with": [
+     "cwfpro-superstar",
+     "grunge",
+     "ray-hagan-sewf",
+     "stars-ewa",
+     "steve-taylor-wicew",
+     "superstar-iwf",
+     "superstar-nccw-1998"
+    ]
+   }
+  ]
+ },
+ {
+  "caption": "GLW's own tag team of Air Paris and Rob Carlin, Suicidal Tendencies.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 6,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "id": "suicidal-tendencies-glw",
+  "members": [
+   {
+    "character_id": "air-paris-glw",
+    "name": "Air Paris"
+   },
+   {
+    "character_id": "rob-carlin-glw",
+    "name": "Rob Carlin"
+   }
+  ],
+  "name": "Suicidal Tendencies",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "promotion": "glw",
+    "role": "tag team",
+    "source": "the fed's own dated results cards and its own TAGTEAM.TXT ranking table, served at /promotions/glw/archive/"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A decorated/nickname aka substring match only, surfaced by the near-name sweep — no shared receipt across wings; the no-auto-merge rule presumes distinct.",
+    "with": [
+     "suicidal-faw"
+    ]
+   }
+  ]
+ },
+ {
+  "caption": "GLW's own tag team of Sterling and Jon Ryan.",
+  "caption_asof": {
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "written": "2026-08-31"
+  },
+  "id": "the-perfect-alliance-glw",
+  "members": [
+   {
+    "character_id": "sebastian-p-sterling-glw",
+    "name": "Sebastian P. Sterling"
+   },
+   {
+    "character_id": "jon-ryan-glw",
+    "name": "Jon Ryan"
+   }
+  ],
+  "name": "The Perfect Alliance",
+  "tenures": [
+   {
+    "first_seen": "?",
+    "grade": "primary-source",
+    "last_seen": "2001",
+    "note": "Debuted 3/24/01, the same card on which Jon Ryan himself debuted.",
+    "promotion": "glw",
+    "role": "tag team",
+    "source": "the fed's own dated results cards and its own TAGTEAM.TXT ranking table, served at /promotions/glw/archive/"
+   }
+  ],
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A decorated/nickname aka substring match only, surfaced by the near-name sweep — no shared receipt across wings; the no-auto-merge rule presumes distinct.",
+    "with": [
+     "the-alliance-cswa"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,428 @@
+[
+ {
+  "id": "nick-pumpernickle-ewc",
+  "type": "character",
+  "name": "Nick Pumpernickle",
+  "caption": "The EWC's own ring announcer/authority figure, welcoming the crowd back after the federation's late-1995 closure scare.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "authority-figure",
+     "other"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "grim-weibaq-ewc",
+  "type": "character",
+  "name": "Grim Weibaq",
+  "caption": "Glimpsed signing autographs before the show; billed elsewhere as EWC Heavyweight Champion and a headline star across the federation's own run.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "grim-weibaq-usew"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "corporal-comet-ewc",
+  "type": "character",
+  "name": "Corporal Comet",
+  "caption": "One half of the Cosmic Commandos; won this show's opening tag match over the Gershwin Brothers.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "lieutenant-laser-ewc",
+  "type": "character",
+  "name": "Lieutenant Laser",
+  "caption": "One half of the Cosmic Commandos, tagging with Corporal Comet.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "ivan-gershwin-ewc",
+  "type": "character",
+  "name": "Ivan Gershwin",
+  "caption": "One half of the Gershwin Brothers; lost the show's opening tag match to the Cosmic Commandos.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "greg-gershwin-ewc",
+  "type": "character",
+  "name": "Greg Gershwin",
+  "caption": "One half of the Gershwin Brothers, tagging with Ivan Gershwin.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "scott-wiles-ewc",
+  "type": "character",
+  "name": "Scott Wiles",
+  "caption": "Fought Takao Nogami to a fifteen-minute time-limit draw on his EWC debut.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "takao-nogami-ewc",
+  "type": "character",
+  "name": "Takao Nogami",
+  "caption": "Fought Scott Wiles to a fifteen-minute time-limit draw on his EWC debut, managed by \"The Wrestling Expert\" Ed Carr.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "ed-carr-ewc",
+  "type": "character",
+  "name": "\"The Wrestling Expert\" Ed Carr",
+  "caption": "A self-billed EWF star managing Takao Nogami on a rare EWC appearance, unable to wrestle himself under his EWF contract.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "justin-shimodo-ewc",
+  "type": "character",
+  "name": "Justin Shimodo",
+  "caption": "Billed one third of the Triple Threat stable; defeated the Masked Avenger, managed by Tamara.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "masked-avenger-ewc",
+  "type": "character",
+  "name": "The Masked Avenger",
+  "caption": "Lost to Justin Shimodo on his EWC debut.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "kyo-kushinaga-4ww"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tamara-ewc",
+  "type": "character",
+  "name": "Tamara",
+  "caption": "Manager of the Triple Threat stable (Justin Shimodo, Prof. Dino Crippler and a third member); dominated the card's early undercard.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "joe-ewc",
+  "type": "character",
+  "name": "Joe",
+  "caption": "Billed \"an ordinary Joe\"; lost to Prof. Dino Crippler by referee stoppage and was eliminated from the federation's own tournament.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "prof-dino-crippler-ewc",
+  "type": "character",
+  "name": "Professor Dino Crippler",
+  "caption": "Billed one third of the Triple Threat stable, managed by Tamara; defeated Joe by referee stoppage.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "jack-morandini-ewc",
+  "type": "character",
+  "name": "Jack Morandini",
+  "caption": "Part of the \"Vegas Mob\" with manager Vicki Vegas; won by a screwjob count-out over the Highway Worker.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "highway-worker-ewc",
+  "type": "character",
+  "name": "The Highway Worker",
+  "caption": "Lost to Jack Morandini by a screwjob count-out after his manager was chokeslammed at ringside.",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "vicki-vegas-ewc",
+  "type": "character",
+  "name": "Vicki Vegas",
+  "caption": "Manager of Jack Morandini and the \"Vegas Mob.\"",
+  "tenures": [
+   {
+    "promotion": "ewc",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1996-04-01",
+    "last_seen": "1996-04-01",
+    "source": "promotions/ewc/archive/ewc-first-card-back-1996-04-01.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ }
+]

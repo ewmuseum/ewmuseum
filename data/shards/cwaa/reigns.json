@@ -1,0 +1,260 @@
+[
+ {
+  "id": "cwaa-heavyweight-r001",
+  "title": "cwaa-heavyweight",
+  "label": "\"The Dreamer\" Randy Sheridan",
+  "holder": [
+   {
+    "id": "randy-sheridan-acwf"
+   }
+  ],
+  "won": {
+   "date": "1997-03-16",
+   "precision": "exact",
+   "source": "msg_id P7w98Iha9AkJ, 16-man tournament final"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Defeated Max Robertson in the tournament final.",
+  "event": "cwaa-1997-03-16",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-heavyweight-r002",
+  "title": "cwaa-heavyweight",
+  "label": "\"The Professional\" Max Robertson",
+  "holder": [
+   {
+    "id": "max-robertson-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-04-20",
+   "precision": "exact",
+   "source": "msg_ids 1EBxl-huT2AJ, Uwr1vsP9cpYJ"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Title change on the 20 April card.",
+  "event": "cwaa-1997-04-20",
+  "note": "Vacated by AEWA ruling 22 June 1997 (sJ2Kd6hfi3AJ), not a wrestling loss.",
+  "end_how": "stripped"
+ },
+ {
+  "id": "cwaa-heavyweight-r003",
+  "title": "cwaa-heavyweight",
+  "label": "\"The Masked Man\"",
+  "holder": [
+   {
+    "id": "marc-thomas-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-08-03",
+   "precision": "exact",
+   "source": "msg_ids PtrSfhlHv9sJ, ygFTMLwKNHwJ, 3vunMwgVJsMJ"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Defeated Max Robertson for the vacant title.",
+  "event": "cwaa-1997-08-03",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-heavyweight-r004",
+  "title": "cwaa-heavyweight",
+  "label": "Marc Thomas (unmasked)",
+  "holder": [
+   {
+    "id": "marc-thomas-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-09-07",
+   "precision": "exact",
+   "source": "msg_ids 31QeUwrkUDUJ, 8dJ3gqnyiFQJ, HbdUQASfYBcJ"
+  },
+  "days": null,
+  "lost": null,
+  "how": "The Masked Man is unmasked on-air as Marc Thomas; same reign, identity revealed rather than a title change.",
+  "event": "cwaa-1997-09-07",
+  "note": "Continuity of the prior reign (r003), not a new title change; recorded as its own row because the champion's own billed name changes on record.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-tag-team-r001",
+  "title": "cwaa-tag-team",
+  "label": "Twister (Paul \"Tornado\" Langford & Travis Conley)",
+  "holder": [
+   {
+    "id": "twister-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-04-06",
+   "precision": "exact",
+   "source": "msg_ids P-2TFkr_HY8J, 2pFEZQO3PgEJ, -qERL4WJFmUJ"
+  },
+  "days": null,
+  "lost": null,
+  "how": "8-team single-elimination tournament final.",
+  "event": "cwaa-1997-04-06",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-tag-team-r002",
+  "title": "cwaa-tag-team",
+  "label": "\"Marvelous\" Michael Anderson & \"Pretty Boy\" Byron McNultey",
+  "holder": [
+   {
+    "id": "anderson-mcnultey-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-06-08",
+   "precision": "exact",
+   "source": "msg_ids OvGXeafXFkYJ, 1YyBnKhsGYwJ, KQo6HO7YgfYJ"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Steel cage title change.",
+  "event": "cwaa-1997-06-08",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-tag-team-r003",
+  "title": "cwaa-tag-team",
+  "label": "Twister (Paul \"Tornado\" Langford & Travis Conley)",
+  "holder": [
+   {
+    "id": "twister-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-08-24",
+   "precision": "exact",
+   "source": "msg_id 9fxGlxxWmoUJ (the fed's own August gap-recap): \"the first-ever 2-time CWAA Tag Team champions.\""
+  },
+  "days": null,
+  "lost": null,
+  "how": "Title win narrated only in the fed's own recap, not in a standalone results document.",
+  "event": null,
+  "note": "No `event` link: the win falls inside the three-week capture gap the fed's own recap post repairs; no show document exists for 24 August specifically.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-television-r001",
+  "title": "cwaa-television",
+  "label": "Lt. Daniel \"Lethal\" Lawson",
+  "holder": [
+   {
+    "id": "daniel-lawson-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-04-06",
+   "precision": "exact",
+   "source": "msg_ids P-2TFkr_HY8J, 2pFEZQO3PgEJ, -qERL4WJFmUJ; corroborated by the fed's own April Report (OJW-ffEZRWMJ)"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won a 12-man battle royal to become the first champion.",
+  "event": "cwaa-1997-04-06",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-television-r002",
+  "title": "cwaa-television",
+  "label": "Jak Hammer",
+  "holder": [
+   {
+    "id": "jak-hammer-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-06-29",
+   "precision": "exact",
+   "source": "msg_ids xczxcx6pgQkJ, Fg0Ux70sUMUJ, Gq-NuKNm6lEJ"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Title change on the 29 June card.",
+  "event": "cwaa-1997-06-29",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-television-r003",
+  "title": "cwaa-television",
+  "label": "Joshua Barnes",
+  "holder": [
+   {
+    "id": "joshua-barnes-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-08-10",
+   "precision": "exact",
+   "source": "msg_ids -DxJtrj40agJ, ln7nkyfcxUMJ, U0r6mWKma7oJ, hfQ1tvu5aBYJ"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Title change on the 10 August card.",
+  "event": "cwaa-1997-08-10",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-television-r004",
+  "title": "cwaa-television",
+  "label": "\"The Professional\" Max Robertson",
+  "holder": [
+   {
+    "id": "max-robertson-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-08-17",
+   "precision": "exact",
+   "source": "msg_id 9fxGlxxWmoUJ (the fed's own August gap-recap)"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Title win narrated only in the fed's own recap; the 17 August card's own results document does not survive standalone.",
+  "event": null,
+  "note": "No `event` link: the win falls inside the three-week capture gap; only a lineup announcement (cwaa-lineup-1997-08-17) survives for this date, not a results document.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwaa-six-man-tag-r001",
+  "title": "cwaa-six-man-tag",
+  "label": "Joshua Barnes, Randy Sheradin & Kore Wrench",
+  "holder": [
+   {
+    "id": "joshua-barnes-cwaa"
+   },
+   {
+    "id": "randy-sheridan-acwf"
+   },
+   {
+    "id": "kore-wrench-cwaa"
+   }
+  ],
+  "won": {
+   "date": "1997-08-23",
+   "precision": "exact",
+   "source": "msg_ids ANA6bye0SxwJ, CdFxaX_ELjkJ, HbdUQASfYBcJ"
+  },
+  "days": null,
+  "lost": null,
+  "how": "Defeated Lawson/Sherrick/Robertson in the tournament final at the Supershow.",
+  "event": "cwaa-supershow",
+  "note": null,
+  "end_how": "still-champion-at-record-end"
+ }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "masters-of-destruction-fwa-association",
+    "type": "unit",
+    "name": "Masters of Destruction",
+    "unit_kind": "tag-team",
+    "caption": "FWA&#x27;s own World Tag Team Champions as of early 1997, Psycho Sabu and Master Blaster.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      "psycho-sabu-fwa-association",
+      "master-blaster-fwa-association"
+    ],
+    "tenures": [
+      {
+        "promotion": "fwa-association",
+        "first_seen": "1997-02",
+        "last_seen": "1997-02",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/fwa-association/archive/fwa-looking-for-good-roleplayers-1997-02-17.html"
+      }
+    ]
+  }
+]

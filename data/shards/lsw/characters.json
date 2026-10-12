@@ -1,0 +1,74 @@
+[
+ {
+  "id": "avalon-britton-lsw",
+  "type": "character",
+  "name": "\"Excellence in Ebony\" Avalon Britton",
+  "tenures": [
+   {
+    "promotion": "lsw",
+    "first_seen": "1999-04-14",
+    "last_seen": "1999-04-14",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "/promotions/lsw/archive/lsw-face-off-at-high-noon-2-1999-04-14.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "The promotion's own wrestler who won the National Wrestling Council's World Championship at the promotion's own supercard, aided by a corrupt referee and his own allies' interference.",
+  "caption_asof": {
+   "written": "2026-09-12",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "summer-kendrik-rspwf",
+  "type": "character",
+  "name": "Summer Kendrik",
+  "aka": [
+   "Lord Agileness"
+  ],
+  "notes": "Known from 2 posts to rec.sport.pro-wrestling.fantasy (28 September 1999 and 2 October 1999), served at /promotions/rspwf/archive/free-agent-summer-kendrik-rp-inside-1999-09-28.html and /promotions/rspwf/archive/rp-critique-summer-kendrik-1999-10-02.html: a golden-haired, smirking high flyer, the first LSW challenger for the NWC J-Crown, who then moves from Texas to Detroit for the AWMC",
+  "caption": "A yellow-trunked Texan, 'The Most Agile Man in All the Land', September-October 1999.",
+  "tenures": [
+   {
+    "promotion": "lsw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-09-28",
+    "last_seen": "1999-09-28",
+    "source": "/promotions/rspwf/archive/free-agent-summer-kendrik-rp-inside-1999-09-28.html"
+   },
+   {
+    "promotion": "awmc",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-10-02",
+    "last_seen": "1999-10-02",
+    "source": "/promotions/rspwf/archive/rp-critique-summer-kendrik-1999-10-02.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

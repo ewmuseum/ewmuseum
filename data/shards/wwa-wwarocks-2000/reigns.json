@@ -1,0 +1,166 @@
+[
+ {
+  "id": "wwa-wwarocks-2000-world-heavyweight-r001",
+  "title": "wwa-wwarocks-2000-world-heavyweight",
+  "label": "Bedrock",
+  "holder": [
+   {
+    "id": "bedrock-wwa-wwarocks-2000"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Champion entering One Night Only, August 2001; no won date survives."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Still billed WWA World Champion on the federation's roster of 23 September 2001; no later change survives."
+  },
+  "how": "Retained against Crimestarter Jim and Xavier Stone in a three-way at One Night Only.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "wwa-wwarocks-2000-international-r001",
+  "title": "wwa-wwarocks-2000-international",
+  "label": "Rosco Riggins",
+  "holder": [
+   {
+    "id": "rosco-riggins-wwa-wwarocks-2000"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Champion entering One Night Only, having held the title \"four months? five?\" by his own count; no won date survives."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Still champion on the federation's roster of 23 September 2001; no later change survives."
+  },
+  "how": "Retained in a ladder match at Spring Fling 2001, replayed at One Night Only, and against Rizer by submission on WWA Live, 21 September 2001.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "wwa-wwarocks-2000-natv-r001",
+  "title": "wwa-wwarocks-2000-natv",
+  "label": "William Karnes",
+  "holder": [
+   {
+    "id": "william-karnes-wwa-wwarocks-2000"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Champion entering One Night Only, August 2001; no won date survives."
+  },
+  "days": null,
+  "lost": {
+   "date": "2001-09",
+   "precision": "month",
+   "source": "WWA Live of 21 September 2001 says he lost the title two weeks earlier; that card does not survive."
+  },
+  "how": "Retained against Pablo O'Connor and Josh Ritter at One Night Only.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wwa-wwarocks-2000-natv-r002",
+  "title": "wwa-wwarocks-2000-natv",
+  "label": "Bill Bartlett",
+  "holder": [
+   {
+    "id": "bill-bartlett-wwa-wwarocks-2000"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed the new NATV Champion on WWA Live, 21 September 2001; the change is not among the surviving cards."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Still champion on the federation's roster of 23 September 2001; no later change survives."
+  },
+  "how": "Retained against Jayson Carter on WWA Live, 21 September 2001.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "wwa-wwarocks-2000-tag-team-r002",
+  "title": "wwa-wwarocks-2000-tag-team",
+  "label": "The Frat",
+  "holder": [
+   {
+    "id": "the-frat-cwc-championship-1998"
+   }
+  ],
+  "won": {
+   "date": "2001-08-09",
+   "precision": "exact",
+   "source": "One Night Only, posted 9 August 2001."
+  },
+  "days": 43,
+  "lost": {
+   "date": "2001-09-21",
+   "precision": "exact"
+  },
+  "event": "wwa-wwarocks-2000-one-night-only-2001-08-09",
+  "how": "Beat the Blonde Brigade at One Night Only; lost the titles in a three-way on WWA Live, 21 September 2001.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wwa-wwarocks-2000-tag-team-r003",
+  "title": "wwa-wwarocks-2000-tag-team",
+  "label": "Crimestarter Jim and Xavier Stone",
+  "holder": [
+   {
+    "id": "crimestarter-jim"
+   },
+   {
+    "id": "xavier-stone-wwa-wwarocks-2000"
+   }
+  ],
+  "won": {
+   "date": "2001-09-21",
+   "precision": "exact",
+   "source": "WWA Live, 21 September 2001."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Billed tag team champions in the federation's roleplay packets of 24 and 28 September 2001; no later change survives."
+  },
+  "event": "wwa-wwarocks-2000-live-2001-09-21",
+  "how": "Won a three-way over the Frat and Mark Haley and the Fallen Angel by submission, called by referee Josh Phillips.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "wwa-wwarocks-2000-tag-team-r001",
+  "title": "wwa-wwarocks-2000-tag-team",
+  "label": "The Blonde Brigade",
+  "holder": [
+   {
+    "id": "the-blonde-brigade-wwa-wwarocks-2000"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Champions entering One Night Only, August 2001; no won date survives."
+  },
+  "days": null,
+  "lost": {
+   "date": "2001-08-09",
+   "precision": "exact"
+  },
+  "how": "Lost to the Frat at One Night Only.",
+  "end_how": "lost-in-match"
+ }
+]

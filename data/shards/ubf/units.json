@@ -1,0 +1,45 @@
+[
+  {
+    "id": "jablowme-brothers-ubf",
+    "type": "unit",
+    "name": "The Jablowme Brothers",
+    "unit_kind": "tag-team",
+    "members": [
+      {
+        "name": "Heywood Jablowme",
+        "character_id": "heywood-jablowme-ubf"
+      },
+      {
+        "name": "Sherwood Jablowme",
+        "character_id": "sherwood-jablowme-ubf"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "ubf",
+        "role": "tag team -- Bloodfest Tagteam Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "first_seen": "2000",
+        "last_seen": "2000",
+        "source": "the fed's own served Champions page (promotions/ubf/archive/champions.html); the fed's own served Roster page (promotions/ubf/archive/roster.html) independently corroborates Heywood Jablowme and Sherwood Jablowme as tag-team partners",
+        "note": "The fed's own served Champions page names \"The Jablowme Brothers\" as the reigning Bloodfest Tagteam Champions without naming its two members individually; the fed's own served Roster page separately identifies Heywood Jablowme and Sherwood Jablowme as tag-team partners -- the two documents together identify the pairing. Does not appear on the fed's own served Fridaynight Warfare card."
+      }
+    ],
+    "caption": "The Bloodfest Tagteam Champions, per the fed's own served Champions page -- Heywood and Sherwood Jablowme, identified as tag-team partners on the fed's own served Roster page.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

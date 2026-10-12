@@ -1,0 +1,107 @@
+[
+ {
+  "id": "unstable-elw-east-league-2002",
+  "type": "unit",
+  "name": "Unstable",
+  "unit_kind": "tag-team",
+  "members": [
+   "stevie-power-kay-elw-east-league-2002",
+   "13-elw-east-league-2002"
+  ],
+  "tenures": [
+   {
+    "promotion": "elw-east-league-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "billing",
+    "first_seen": "2002-05-15",
+    "last_seen": "2002-05-15",
+    "source": "/promotions/elw-east-league-2002/archive/elw-wednesday-night-fight-card-2002-05-07.html"
+   }
+  ],
+  "caption": "The tag team of Stevie \"Power\" Kay and 13. Billed against Calgary Stampede on the East League Wrestling lineup for Wednesday Night Fight, 15 May 2002.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "calgary-stampede-elw-east-league-2002",
+  "type": "unit",
+  "name": "Calgary Stampede",
+  "unit_kind": "tag-team",
+  "members": [
+   "tex-roper-elw-east-league-2002",
+   "bull-dancer-elw-east-league-2002"
+  ],
+  "tenures": [
+   {
+    "promotion": "elw-east-league-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-05-07",
+    "last_seen": "2002-05-15",
+    "source": "/promotions/elw-east-league-2002/archive/elw-house-show-results-2002-05-07.html; /promotions/elw-east-league-2002/archive/elw-wednesday-night-fight-card-2002-05-07.html"
+   }
+  ],
+  "caption": "The tag team of Tex Roper and Bull Dancer. Appears on two East League Wrestling cards, from ELW House Show (7 May 2002) to Wednesday Night Fight (15 May 2002).",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "marco-polo-elw-east-league-2002",
+  "type": "unit",
+  "name": "Marco Polo",
+  "unit_kind": "tag-team",
+  "members": [
+   "jonathan-marco-elw-east-league-2002",
+   "yamayoshi-ryu-polo-elw-east-league-2002"
+  ],
+  "tenures": [
+   {
+    "promotion": "elw-east-league-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-05-07",
+    "last_seen": "2002-05-07",
+    "source": "/promotions/elw-east-league-2002/archive/elw-house-show-results-2002-05-07.html"
+   }
+  ],
+  "caption": "The tag team of Jonathan Marco and Yamayoshi \"Ryu\" Polo. Lost to Calgary Stampede on the East League Wrestling card ELW House Show, 7 May 2002.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

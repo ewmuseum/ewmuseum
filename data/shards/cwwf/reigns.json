@@ -1,0 +1,164 @@
+[
+ {
+  "id": "cwwf-world-heavyweight-r001",
+  "title": "cwwf-world-heavyweight",
+  "label": "Havoc",
+  "holder": [
+   {
+    "id": "havoc-cwwf"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Held entering 'Nite of Living Hell' (1 Nov 1996); the show's own opening sequence bills him as reigning champion. No founding-card title tournament survives in the held record."
+  },
+  "how": "Retained against Godzilla at 'Nite of Living Hell', 1 Nov 1996 (pinfall, 11:27).",
+  "note": "The only CWWF World Heavyweight reign this corpus attests.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwwf-television-r002",
+  "title": "cwwf-television",
+  "label": "Sy Kopath",
+  "holder": [
+   {
+    "id": "sy-kopath-cwwf"
+   }
+  ],
+  "won": {
+   "date": "1996-11-01",
+   "precision": "exact",
+   "source": "'Nite of Living Hell' (1 Nov 1996): hangman's match win over Earl of Doom."
+  },
+  "how": "Won from Earl of Doom in a hangman's match at 'Nite of Living Hell'.",
+  "event": "cwwf-nite-of-living-hell-1996-11-01",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwwf-television-r001",
+  "title": "cwwf-television",
+  "label": "Earl of Doom",
+  "holder": [
+   {
+    "id": "earl-of-doom-cwwf"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Held entering 'Nite of Living Hell' (1 Nov 1996); billed there as 'the current Television champion.'"
+  },
+  "lost": {
+   "date": "1996-11-01",
+   "precision": "exact"
+  },
+  "how": "Lost to Sy Kopath in a hangman's match at 'Nite of Living Hell'.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "cwwf-television-tag-team-r002",
+  "title": "cwwf-television-tag-team",
+  "label": "The Balls Brothers",
+  "holder": [
+   {
+    "id": "big-b-bob-cwwf"
+   },
+   {
+    "id": "little-b-joe-cwwf"
+   }
+  ],
+  "won": {
+   "date": "1996-11-01",
+   "precision": "exact",
+   "source": "'Nite of Living Hell' (1 Nov 1996): submission win over More Ice, 3:01."
+  },
+  "how": "Won from More Ice at 'Nite of Living Hell'.",
+  "event": "cwwf-nite-of-living-hell-1996-11-01",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwwf-television-tag-team-r001",
+  "title": "cwwf-television-tag-team",
+  "label": "More Ice",
+  "holder": [
+   {
+    "id": "jc-ice-cwwf"
+   },
+   {
+    "id": "hugh-morris-cwwf"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Held entering 'Nite of Living Hell' (1 Nov 1996); billed there as 'the current champions.'"
+  },
+  "lost": {
+   "date": "1996-11-01",
+   "precision": "exact"
+  },
+  "how": "Lost to the Balls Brothers by submission (3:01) at 'Nite of Living Hell'; the partners turned on each other in the aftermath.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "cwwf-world-tag-team-r001",
+  "title": "cwwf-world-tag-team",
+  "label": "The Crusher",
+  "holder": [
+   {
+    "id": "big-poppa-cwwf"
+   },
+   {
+    "id": "the-pimp-cwwf"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Held entering 'Nite of Living Hell'; no title-win document survives in the held record."
+  },
+  "how": "Retained against MC Masters at 'Nite of Living Hell' (pinfall, 20:31).",
+  "note": "The only CWWF World Tag Team reign this corpus attests.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwwf-hemisphere-heavyweight-r001",
+  "title": "cwwf-hemisphere-heavyweight",
+  "label": "Cawthorne",
+  "holder": [
+   {
+    "id": "cawthorne-cwwf"
+   }
+  ],
+  "won": {
+   "date": "1996-11-01",
+   "precision": "exact",
+   "source": "'Nite of Living Hell' (1 Nov 1996): pinfall win over JC Ice via the Canadian Rainbow bomb."
+  },
+  "how": "Won from JC Ice at 'Nite of Living Hell'.",
+  "event": "cwwf-nite-of-living-hell-1996-11-01",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwwf-hemisphere-heavyweight-r000",
+  "title": "cwwf-hemisphere-heavyweight",
+  "label": "JC Ice",
+  "holder": [
+   {
+    "id": "jc-ice-cwwf"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Held entering 'Nite of Living Hell' (1 Nov 1996); billed there as 'the current Hemisphere Heavyweight Title holder.'"
+  },
+  "lost": {
+   "date": "1996-11-01",
+   "precision": "exact"
+  },
+  "how": "Lost to Cawthorne (pinfall, Canadian Rainbow bomb) at 'Nite of Living Hell', the same night he also lost the Television Tag Team Titles.",
+  "end_how": "lost-in-match"
+ }
+]

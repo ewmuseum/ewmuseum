@@ -1,0 +1,863 @@
+[
+ {
+  "id": "ihel-heavyweight-r002",
+  "title": "ihel-heavyweight",
+  "label": "British_Kid",
+  "holder": [
+   {
+    "id": "british-kid-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-08-16",
+   "precision": "exact",
+   "source": "iHEL's own Monday Massacre results (/promotions/cyberslam/archive/news-1007-ihel-monday-massacre-results.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won a four-way elimination match (slam each opponent once) also involving Big_Daddy, Jay_Biess and Fire_Blade — \"British_Kid comes out on top... Your new Heavyweight Champion...British_Kid!!!\"",
+  "event": "cyberslam-news-1007-ihel-monday-massacre-results",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ihel-heavyweight-r001",
+  "title": "ihel-heavyweight",
+  "label": "Big_Daddy",
+  "holder": [
+   {
+    "id": "big-daddy-ihel-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "days": null,
+  "lost": {
+   "date": "2000-08-16",
+   "precision": "exact",
+   "source": "iHEL's own Monday Massacre results (/promotions/cyberslam/archive/news-1007-ihel-monday-massacre-results.html)."
+  },
+  "how": "Entered a four-way elimination as reigning Heavyweight Champion (marked \"WC\") and lost the belt when British_Kid came out on top.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ihel-tv-r002",
+  "title": "ihel-tv",
+  "label": "Big_Daddy",
+  "holder": [
+   {
+    "id": "big-daddy-ihel-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-08-16",
+   "precision": "exact",
+   "source": "iHEL's own Monday Massacre results (/promotions/cyberslam/archive/news-1007-ihel-monday-massacre-results.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Finished second in the four-way elimination that cost him the Heavyweight belt and won him the TV title in the same match: \"Your new TV Champion ... Big_Daddy!!!\"",
+  "event": "cyberslam-news-1007-ihel-monday-massacre-results",
+  "note": "The same match cost Big_Daddy the Heavyweight title and won him the TV title — see ihel-heavyweight.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ihel-tv-r001",
+  "title": "ihel-tv",
+  "label": "Jay_Biess",
+  "holder": [
+   {
+    "id": "jay-biess-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "days": null,
+  "lost": {
+   "date": "2000-08-16",
+   "precision": "exact",
+   "source": "iHEL's own Monday Massacre results (/promotions/cyberslam/archive/news-1007-ihel-monday-massacre-results.html)."
+  },
+  "how": "Entered the same four-way elimination as reigning TV Champion (marked \"TVC\") and lost the title when Big_Daddy finished second.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "ihel-pitfighter-r001",
+  "title": "ihel-pitfighter",
+  "label": "Drater",
+  "holder": [
+   {
+    "id": "drater-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-08-16",
+   "precision": "exact",
+   "source": "iHEL's own Monday Massacre results (/promotions/cyberslam/archive/news-1007-ihel-monday-massacre-results.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won a four-way \"Jiffy Store Brawl\" (against Mr_T, Dave_Sims and Sundown) staged inside a local convenience store: \"Drater walks out of the store with the Pitfighter title in hand... New Pitfighter champion ... Drater!!!\"",
+  "event": "cyberslam-news-1007-ihel-monday-massacre-results",
+  "note": "No prior holder is named in the surviving text; possibly a newly-created or newly-vacated belt.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "itfa-tv-r002",
+  "title": "itfa-tv",
+  "label": "Vapor",
+  "holder": [
+   {
+    "id": "vapor-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-08-15",
+   "precision": "exact",
+   "source": "iTFA's own Special Tuesday results (/promotions/cyberslam/archive/news-1009-itfa-special-tuesday-results.html)."
+  },
+  "days": null,
+  "lost": {
+   "date": "2000-08-17",
+   "precision": "exact",
+   "source": "iTFA's own Thrilling Thursday card preview (/promotions/cyberslam/archive/news-1013-itfa-thrilling-thursday-card.html)."
+  },
+  "how": "\"Vapor wins to become the NEW TV Champ\" over Arrow(c) and Jaw, 7 wins to Jaw's 3 to Arrow's 2. The very next card's own preview reports the title vacant again — \"With Vapor going after the People's title, the TV title is vacant\" — no in-match loss is described, only the vacancy.",
+  "event": "cyberslam-news-1009-itfa-special-tuesday-results",
+  "end_how": "vacated"
+ },
+ {
+  "id": "itfa-tv-r001",
+  "title": "itfa-tv",
+  "label": "Arrow",
+  "holder": [
+   {
+    "id": "arrow-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "days": null,
+  "lost": {
+   "date": "2000-08-15",
+   "precision": "exact",
+   "source": "iTFA's own Special Tuesday results (/promotions/cyberslam/archive/news-1009-itfa-special-tuesday-results.html)."
+  },
+  "how": "Defended the TV title against Jaw and Vapor in a three-way and lost.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "itfa-tag-r001",
+  "title": "itfa-tag",
+  "label": "Freezer & Pimp_man",
+  "holder": [
+   {
+    "id": "freezer-cyberslam"
+   },
+   {
+    "id": "pimp-man-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-08-15",
+   "precision": "exact",
+   "source": "iTFA's own Special Tuesday results (/promotions/cyberslam/archive/news-1009-itfa-special-tuesday-results.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "\"Freezer/Pimp_man win 5-3 to become the OFFICIAL Tag Champs\" over Eyeless & Kronus_.",
+  "event": "cyberslam-news-1009-itfa-special-tuesday-results",
+  "note": "\"Official\" suggests this may be the title's first sanctioned decision rather than a change of hands; no prior holder is named.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "uiwa-worldclass-tag-r002",
+  "title": "uiwa-worldclass-tag",
+  "label": "Murder Inc. (Sinacle & Marley)",
+  "holder": [
+   {
+    "id": "sinacle-cyberslam"
+   },
+   {
+    "id": "marley-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-08-11",
+   "precision": "exact",
+   "source": "UIWA's own Stormfront From August 11 results (/promotions/cyberslam/archive/news-980-uiwa-stormfront-from-august-11.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won the World-Class Tag Team Championship from High Intelligence (Pennance & Jordanzombie) at Stormfront.",
+  "event": "cyberslam-news-980-uiwa-stormfront-from-august-11",
+  "note": "A later preview (18 August) still bills Murder Inc. as champions defending against Rasputin & SirStyles; that card's own results aren't in the held record.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "uiwa-worldclass-tag-r001",
+  "title": "uiwa-worldclass-tag",
+  "label": "High Intelligence (Pennance & Jordanzombie)",
+  "holder": [
+   {
+    "id": "pennance-cyberslam"
+   },
+   {
+    "id": "jordanzombie-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "days": null,
+  "lost": {
+   "date": "2000-08-11",
+   "precision": "exact",
+   "source": "UIWA's own Stormfront From August 11 results (/promotions/cyberslam/archive/news-980-uiwa-stormfront-from-august-11.html)."
+  },
+  "how": "Billed as \"High Intelligence,\" defended the World-Class Tag Team Championship against Murder Inc. (Sinacle & Marley) at Stormfront under hardcore rules and lost — \"New Tag Team Champs: Murder Inc.\"",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "uiwa-universal-heavyweight-r002",
+  "title": "uiwa-universal-heavyweight",
+  "label": "Sinacle",
+  "holder": [
+   {
+    "id": "sinacle-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-08-11",
+   "precision": "exact",
+   "source": "UIWA's own Stormfront From August 11 results (/promotions/cyberslam/archive/news-980-uiwa-stormfront-from-august-11.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Upset Whipple_jr for the Universal Heavyweight Championship at Stormfront.",
+  "event": "cyberslam-news-980-uiwa-stormfront-from-august-11",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "uiwa-universal-heavyweight-r001",
+  "title": "uiwa-universal-heavyweight",
+  "label": "Whipple_jr",
+  "holder": [
+   {
+    "id": "whipple-jr-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "days": null,
+  "lost": {
+   "date": "2000-08-11",
+   "precision": "exact",
+   "source": "UIWA's own Stormfront From August 11 results (/promotions/cyberslam/archive/news-980-uiwa-stormfront-from-august-11.html)."
+  },
+  "how": "Defended the Universal Heavyweight Championship against Sinacle at Stormfront and lost — \"In a huge upset, Sinacle wins the Universal Title.\"",
+  "event": null,
+  "note": "A later retrospective (2 October, on Whipple Jr's own departure from the UIWA) says he \"held the Universal Heavyweight Championship Belt for 4 consecutive months, and for 4 separate times for a total of 7 months\" — this reign is one of those four, not the whole record.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "iqfwc-us-r002",
+  "title": "iqfwc-us",
+  "label": "Deth",
+  "holder": [
+   {
+    "id": "deth-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2001-01-20",
+   "precision": "exact",
+   "source": "iQFWC's own Thursday Terror results (/promotions/cyberslam/archive/news-2032-thusday-terror-results.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "\"Deth defeats the Mad_hatter 6-2 and becomes the new iQFWC US Champion\" at Thursday Terror.",
+  "event": "cyberslam-news-2032-thusday-terror-results",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iqfwc-us-r001",
+  "title": "iqfwc-us",
+  "label": "Mad_hatter",
+  "holder": [
+   {
+    "id": "mad-hatter-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "days": null,
+  "lost": {
+   "date": "2001-01-20",
+   "precision": "exact",
+   "source": "iQFWC's own Thursday Terror results (/promotions/cyberslam/archive/news-2032-thusday-terror-results.html)."
+  },
+  "how": "Defended the US title against Deth at Thursday Terror and lost.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "iqfwc-blood-and-guts-r001",
+  "title": "iqfwc-blood-and-guts",
+  "label": "Mikey_ripper",
+  "holder": [
+   {
+    "id": "mikey-ripper-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2001-01-20",
+   "precision": "exact",
+   "source": "iQFWC's own Thursday Terror results (/promotions/cyberslam/archive/news-2032-thusday-terror-results.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won a rewrite-judged three-way against Randy (Wendell no-showed) to become \"the new iQFWC Blood and Guts Champion.\"",
+  "event": "cyberslam-news-2032-thusday-terror-results",
+  "note": "No prior holder named; may be a newly-created or newly-vacated belt.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iqfwc-contenders-r001",
+  "title": "iqfwc-contenders",
+  "label": "Hex",
+  "holder": [
+   {
+    "id": "hex-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2001-01-20",
+   "precision": "exact",
+   "source": "iQFWC's own Thursday Terror results (/promotions/cyberslam/archive/news-2032-thusday-terror-results.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won a \"Hell in a Cell...Contenders Final\" against Lordy on points, 15-13, to take home \"the contenders Title.\"",
+  "event": "cyberslam-news-2032-thusday-terror-results",
+  "note": "Framed in the text as a contendership decided inside its own title match, awarded for reaching #1-contender status rather than a conventional championship — kept on the strength of the text's own \"Title\" language.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iqfwc-world-tag-r001",
+  "title": "iqfwc-world-tag",
+  "label": "Last Rites (Cripler & Deth)",
+  "holder": [
+   {
+    "id": "cripler-cyberslam"
+   },
+   {
+    "id": "deth-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "iQFWC's own Thursday Terror results (/promotions/cyberslam/archive/news-2032-thusday-terror-results.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "\"Last Rites won the Titles by defeating the team of Psychotic Tendancies\" at an uncaptured earlier show; successfully defended against Black Magic (Voodoo_death & Voodoo_lord) at Thursday Terror, 20 January 2001 — \"Last Rites ward off the Black Magic and retain the Tag Team Titles.\"",
+  "event": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "imwa-world-r003",
+  "title": "imwa-world",
+  "label": "Mr Arse",
+  "holder": [
+   {
+    "id": "mr-arse-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-09-29",
+   "precision": "exact",
+   "source": "Edge's own Road to CWZ results, day one (/promotions/cyberslam/archive/news-1397-road-to-cwz-results.html)."
+  },
+  "days": null,
+  "lost": {
+   "date": "2000-09-30",
+   "precision": "exact",
+   "source": "Edge's own Road to CWZ results, day two (/promotions/cyberslam/archive/news-1399-road-to-cwz-day-2.html)."
+  },
+  "how": "Won the belt from Amundson on the Friday of Road to CWZ; lost it the very next night when a separate Loser Leaves iMWA match against The_Crow sent him to the CWZ — the title itself was left vacant, \"which now is in my office, who will start the month off as the World Champ?\"",
+  "event": "cyberslam-news-1397-road-to-cwz-results",
+  "note": "No successor is captured in the held record; the reporter's own closing line leaves the vacancy open.",
+  "end_how": "departed"
+ },
+ {
+  "id": "imwa-world-r001",
+  "title": "imwa-world",
+  "label": "Bolt",
+  "holder": [
+   {
+    "id": "bolt-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "iMWA's own interview with its newest champion (/promotions/cyberslam/archive/news-1128-interview-with-imwas-newest-champ.html)."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "iMWA's own interview with its newest champion (/promotions/cyberslam/archive/news-1128-interview-with-imwas-newest-champ.html)."
+  },
+  "how": "Lost the belt to Amundson in a match the interview describes only in retrospect: \"You and Bolt went at it hard. You beat him.\" No exact date or show is captured; the interview itself calls Amundson's reign about a month old (\"in one quick month, look where I'm at now\").",
+  "event": null,
+  "note": "The same interview separately asks whether Bolt will become \"eight time iMWA World Champion by defeating you\" — this is one reign inside a much longer, mostly unrecorded lineage, not his full history.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "imwa-world-r002",
+  "title": "imwa-world",
+  "label": "Amundson",
+  "holder": [
+   {
+    "id": "amundson-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "iMWA's own interview with its newest champion (/promotions/cyberslam/archive/news-1128-interview-with-imwas-newest-champ.html)."
+  },
+  "days": null,
+  "lost": {
+   "date": "2000-09-29",
+   "precision": "exact",
+   "source": "Edge's own Road to CWZ results, day one (/promotions/cyberslam/archive/news-1397-road-to-cwz-results.html)."
+  },
+  "how": "Won from Bolt per the winner's own newly-crowned interview (30 August 2000); lost the belt to Mr Arse on the Friday of the two-night Road to CWZ card.",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "imwa-tag-r002",
+  "title": "imwa-tag",
+  "label": "The_Crew",
+  "holder": [
+   {
+    "id": "the-crew-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-09-29",
+   "precision": "exact",
+   "source": "Edge's own Road to CWZ results, day one (/promotions/cyberslam/archive/news-1397-road-to-cwz-results.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "\"The_Crew regain the iMWA TAG TEAM TITLES\" from Sickness 2K on the Friday of Road to CWZ.",
+  "event": "cyberslam-news-1397-road-to-cwz-results",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "imwa-tag-r001",
+  "title": "imwa-tag",
+  "label": "Sickness 2K",
+  "holder": [
+   {
+    "id": "sickness-2k-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "days": null,
+  "lost": {
+   "date": "2000-09-29",
+   "precision": "exact",
+   "source": "Edge's own Road to CWZ results, day one (/promotions/cyberslam/archive/news-1397-road-to-cwz-results.html)."
+  },
+  "how": "Lost the iMWA Tag Team Titles to The_Crew on the Friday of Road to CWZ after \"what was a regular Tag Title match turned into a no holds bar cage match... Sickness 2K had troubles in the match and in the end split up.\"",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "imwa-holy-scripture-r001",
+  "title": "imwa-holy-scripture",
+  "label": "Damion",
+  "holder": [
+   {
+    "id": "damion-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "2000-09-30",
+   "precision": "exact",
+   "source": "Edge's own Road to CWZ results, day two (/promotions/cyberslam/archive/news-1399-road-to-cwz-day-2.html)."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Won a tournament final (\"winner of match one vs winner of match two\") to become \"the new Holy Scripture Champion\" on the Saturday of Road to CWZ; the final's own other participant isn't named in the surviving text.",
+  "event": "cyberslam-news-1399-road-to-cwz-day-2",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iuiwa-showstoppa-r001",
+  "title": "iuiwa-showstoppa",
+  "label": "Slobberknock",
+  "holder": [
+   {
+    "id": "slobberknock-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Hammerlock News (/promotions/cyberslam/archive/hammerlock-news-152-none.html), undated in the source; Wayback capture 4 March 2000 is an upper bound, not the event's own date."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Hammerlock News (/promotions/cyberslam/archive/hammerlock-news-152-none.html), undated in the source; Wayback capture 4 March 2000 is an upper bound, not the event's own date."
+  },
+  "how": "\"Slobberknock beat Anarky to regain his showstoppa title and it will become vacant due to his promotion\" — the win and the vacancy are reported together in the same undated post.",
+  "event": null,
+  "note": "\"Regain\" implies at least one earlier reign and an intervening loss to Anarky, neither captured in the held record.",
+  "end_how": "vacated"
+ },
+ {
+  "id": "iuiwa-heavyweight-r001",
+  "title": "iuiwa-heavyweight",
+  "label": "Carrion",
+  "holder": [
+   {
+    "id": "carrion-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Hammerlock News (/promotions/cyberslam/archive/hammerlock-news-152-none.html), undated in the source; Wayback capture 4 March 2000 is an upper bound, not the event's own date."
+  },
+  "days": null,
+  "lost": null,
+  "how": "\"Way was beat by Carrion and carrion is now the Heavyweight title holder.\"",
+  "event": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iuwa-underdogg-r001",
+  "title": "iuwa-underdogg",
+  "label": "Tomango",
+  "holder": [
+   {
+    "id": "tomango-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "iUWA's own Shamus Standpoint column naming every current titleholder (/promotions/cyberslam/archive/news-1010-iuwa-the-shamus-standpoint.html), 16 August 2000."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed as the reigning Underdogg Champion in the fed's own column naming every current titleholder.",
+  "event": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iuwa-skullcrusher-r001",
+  "title": "iuwa-skullcrusher",
+  "label": "Sabit",
+  "holder": [
+   {
+    "id": "sabit-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "iUWA's own Shamus Standpoint column naming every current titleholder (/promotions/cyberslam/archive/news-1010-iuwa-the-shamus-standpoint.html), 16 August 2000."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed as the reigning SkullCrusher Champion in the fed's own column, which frames the belt as \"more of a tradition\" than an ordinary championship.",
+  "event": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iuwa-tv-r001",
+  "title": "iuwa-tv",
+  "label": "Zabingu",
+  "holder": [
+   {
+    "id": "zabingu-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "iUWA's own Shamus Standpoint column naming every current titleholder (/promotions/cyberslam/archive/news-1010-iuwa-the-shamus-standpoint.html), 16 August 2000."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed as the reigning Television Champion in the fed's own column naming every current titleholder.",
+  "event": null,
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "iuwa-world-r001",
+  "title": "iuwa-world",
+  "label": "Slammin Stu",
+  "holder": [
+   {
+    "id": "slammin-stu-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "iUWA's own Shamus Standpoint column naming every current titleholder (/promotions/cyberslam/archive/news-1010-iuwa-the-shamus-standpoint.html), 16 August 2000."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed as the reigning World Champion in the fed's own column naming every current titleholder.",
+  "event": null,
+  "note": "A later preview (30 August) frames a World title match between two other slammers, G_Ride and The Rick, without naming a champion — a possible untracked change the surviving record doesn't resolve.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "cwo-us-r001",
+  "title": "cwo-us",
+  "label": "Wholyevil",
+  "holder": [
+   {
+    "id": "wholyevil-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Hammerlock News' own Wholyevil interview (/promotions/cyberslam/archive/hammerlock-news-1301-holy-i-mean-wholyevil-interview.html), undated in the source."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed himself, in his own Hammerlock News interview, as the reigning CWO United States Champion; no opponent, date, or show is given.",
+  "event": null,
+  "note": "The same interview says he \"should have held the People's title, but due to a technicality, it was first held up then awarded to my opponent\" — a near-miss, not a second reign.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ccwe-underdawg-r001",
+  "title": "ccwe-underdawg",
+  "label": "Massacre_sr",
+  "holder": [
+   {
+    "id": "massacre-sr-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "days": null,
+  "lost": {
+   "date": "2001-01-19",
+   "precision": "exact",
+   "source": "CCWe's own Gossip Column (/promotions/cyberslam/archive/news-2030-ccwe-chevalier-leaving-the-ccw-elite.html), 19 January 2001."
+  },
+  "how": "Suspended and \"stripped of the Underdawg Championship\" for violating the CCWe's own jobbing and padding policies; the vacancy turned a scheduled Triple Threat into a Fatal 4 Way (Aragorn, Hardleg, Sapper, Deathwish) whose own result isn't captured in the held record.",
+  "event": null,
+  "end_how": "stripped"
+ },
+ {
+  "id": "igwf-world-r001",
+  "title": "igwf-world",
+  "label": "Dysturbed",
+  "holder": [
+   {
+    "id": "dysturbed-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "The winner's own newly-crowned-champion interview (/promotions/cyberslam/archive/news-1012-interview-with-an-icon.html), 16 August 2000."
+  },
+  "days": null,
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "The winner's own newly-crowned-champion interview (/promotions/cyberslam/archive/news-1012-interview-with-an-icon.html), 16 August 2000."
+  },
+  "how": "Lost the iGWF World Heavyweight Championship to Hak; the interviewer's own framing (\"the literal hell you went through with Dysturbed, and the shocking ending\") and Hak's own answer (\"in the end it was me and TripleXXX that got the last laugh\") are the only account — no date or show beyond the interview's own (16 August 2000).",
+  "event": null,
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "igwf-world-r002",
+  "title": "igwf-world",
+  "label": "Hak",
+  "holder": [
+   {
+    "id": "hak-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "The winner's own newly-crowned-champion interview (/promotions/cyberslam/archive/news-1012-interview-with-an-icon.html), 16 August 2000."
+  },
+  "days": null,
+  "lost": null,
+  "how": "\"Newly crowned\" per the interviewer's own introduction, having beaten Dysturbed with help from stablemate TripleXXX.",
+  "event": "cyberslam-news-1012-interview-with-an-icon",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "crf-world-r001",
+  "title": "crf-world",
+  "label": "Con_victor",
+  "holder": [
+   {
+    "id": "con-victor-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "The CRF's own return-card preview (/promotions/cyberslam/archive/news-2104-crf-the-flock-come-flooding-back.html), 3 February 2001."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed as the reigning CRF World Champion, defending against Juggernaut and Wheelie on the fed's own return card.",
+  "event": null,
+  "note": "Posted as CyberSlam's own shutdown crisis threatened to end the game; the fed's own closing line — \"For any reason, If Snowball should shut down the site before I can do results, The Current champs will remain the Current champs\" — is the held record's reason to trust this as an as-of-record-end snapshot.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "crf-canam-r001",
+  "title": "crf-canam",
+  "label": "Mr Peak",
+  "holder": [
+   {
+    "id": "mr-peak-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "The CRF's own return-card preview (/promotions/cyberslam/archive/news-2104-crf-the-flock-come-flooding-back.html), 3 February 2001."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed as the reigning CRF Can-Am Champion, defending against Hell Spawn and Triple C.",
+  "event": null,
+  "note": "Posted as CyberSlam's own shutdown crisis threatened to end the game; the fed's own closing line — \"For any reason, If Snowball should shut down the site before I can do results, The Current champs will remain the Current champs\" — is the held record's reason to trust this as an as-of-record-end snapshot.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "crf-enforcer-r001",
+  "title": "crf-enforcer",
+  "label": "Manowar",
+  "holder": [
+   {
+    "id": "manowar-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "The CRF's own return-card preview (/promotions/cyberslam/archive/news-2104-crf-the-flock-come-flooding-back.html), 3 February 2001."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed as the reigning CRF Enforcer Champion, a hardcore defense against The Monk, Pagan, Carnage and Batman.",
+  "event": null,
+  "note": "Posted as CyberSlam's own shutdown crisis threatened to end the game; the fed's own closing line — \"For any reason, If Snowball should shut down the site before I can do results, The Current champs will remain the Current champs\" — is the held record's reason to trust this as an as-of-record-end snapshot.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "crf-television-r001",
+  "title": "crf-television",
+  "label": "El Jobre",
+  "holder": [
+   {
+    "id": "el-jobre-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "The CRF's own return-card preview (/promotions/cyberslam/archive/news-2104-crf-the-flock-come-flooding-back.html), 3 February 2001."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed as the reigning CRF Television Champion, defending against The_g_a_m_e and Agent_orange.",
+  "event": null,
+  "note": "Posted as CyberSlam's own shutdown crisis threatened to end the game; the fed's own closing line — \"For any reason, If Snowball should shut down the site before I can do results, The Current champs will remain the Current champs\" — is the held record's reason to trust this as an as-of-record-end snapshot.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "crf-tag-r001",
+  "title": "crf-tag",
+  "label": "Over & Out (Manowar & Mr Peak)",
+  "holder": [
+   {
+    "id": "manowar-cyberslam"
+   },
+   {
+    "id": "mr-peak-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "The CRF's own return-card preview (/promotions/cyberslam/archive/news-2104-crf-the-flock-come-flooding-back.html), 3 February 2001."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed together as \"Over & Out,\" the reigning CRF Tag Team Champions, defending against Myth Inc. (Dogox & Payne Valley) and the CRF Gods (Pestilence & Hell Spawn).",
+  "event": null,
+  "note": "Posted as CyberSlam's own shutdown crisis threatened to end the game; the fed's own closing line — \"For any reason, If Snowball should shut down the site before I can do results, The Current champs will remain the Current champs\" — is the held record's reason to trust this as an as-of-record-end snapshot.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "crf-rapid-fire-r001",
+  "title": "crf-rapid-fire",
+  "label": "Triple C",
+  "holder": [
+   {
+    "id": "triple-c-cyberslam"
+   }
+  ],
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "The CRF's own return-card preview (/promotions/cyberslam/archive/news-2104-crf-the-flock-come-flooding-back.html), 3 February 2001."
+  },
+  "days": null,
+  "lost": null,
+  "how": "Billed as the reigning CRF Rapid Fire Champion, defending against Freebird and Baretta.",
+  "event": null,
+  "note": "Posted as CyberSlam's own shutdown crisis threatened to end the game; the fed's own closing line — \"For any reason, If Snowball should shut down the site before I can do results, The Current champs will remain the Current champs\" — is the held record's reason to trust this as an as-of-record-end snapshot.",
+  "end_how": "still-champion-at-record-end"
+ }
+]

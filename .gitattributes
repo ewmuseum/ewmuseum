@@ -1,0 +1,28 @@
+# Served verbatim artifacts are the ARTIFACT, not our formatting. Their own
+# line-internal whitespace — tabs, space-before-tab, whatever the 1991 poster's
+# own editor left behind — is part of the document and is never "fixed."
+# CLAUDE.md invariant 4 forbids touching a served document's own words; this
+# turns off git's whitespace-error checks for exactly those paths so the
+# pre-commit hook's `git diff --cached --check` cannot demand an edit the law
+# forbids. (Added 2026-09-02 by the Summit of E-Wrestling accession, whose
+# usenet bodies are the first served documents in the collection to carry
+# space-before-tab indentation of their own.)
+promotions/*/archive/*.html -whitespace
+promotions/*/rp/*.html -whitespace
+
+# Their own ASCII rules are the ARTIFACT too. Usenet-era cards rule off their
+# segments with runs of `=`, and a run of seven or more at the start of a line
+# is exactly what `git diff --check` reports as a "leftover conflict marker" —
+# which blocks the pre-commit hook on a document the law forbids editing. The
+# WeWF's own Wrestling Spotlight segments open on `=======  WeWF Wrestling
+# Spotlight ========`. Raising the marker size for served artifacts only turns
+# off that false positive; real conflict markers in source and data files are
+# still caught everywhere else. (Added 2026-09-02 by the WeWF enrichment
+# accession, lot 0144.)
+promotions/*/archive/*.html conflict-marker-size=99
+promotions/*/rp/*.html conflict-marker-size=99
+
+# The living pulse's public calendar (hook c100; the Janitor's D408/D412). RFC 5545 requires CRLF line endings, which
+# `git diff --check` reads as trailing whitespace and which stopped preflight 301. The CR is the format, not our formatting.
+# (Added 2026-10-06 by the coordinator.)
+crawler/*.ics -text whitespace=cr-at-eol

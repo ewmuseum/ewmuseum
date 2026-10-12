@@ -1,0 +1,317 @@
+[
+  {
+    "caption": "AEW's own stable, led by Stone Cold Steve Austin alongside Doomsday and Bossman — feuding with the nWo over the vacant AEW Top Stable Title.",
+    "caption_asof": {
+      "author": "ai",
+      "evidence": {
+        "appearances": 2,
+        "awards": 0,
+        "reigns": 0,
+        "relationships": 1,
+        "rps": 0,
+        "tenures": 1
+      },
+      "written": "2026-08-31"
+    },
+    "id": "extreme-icons-aew",
+    "members": [
+      {
+        "character_id": "stone-cold-steve-austin-action-extreme-wrestling",
+        "name": "Stone Cold Steve Austin"
+      },
+      {
+        "character_id": "doomsday-aew",
+        "name": "Doomsday"
+      },
+      {
+        "character_id": "bossman-aew",
+        "name": "Bossman"
+      }
+    ],
+    "name": "EXtreme Icons",
+    "tenures": [
+      {
+        "first_seen": "?",
+        "grade": "primary-source",
+        "last_seen": "?",
+        "promotion": "action-extreme-wrestling",
+        "role": "stable",
+        "source": "the fed's own stables page, served at /promotions/action-extreme-wrestling/archive/stables.html"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "stable"
+  },
+  {
+    "caption": "AEW's own stable, led by Undertaker and named for the real-world nWo faction it borrows its name from — feuding with the EXtreme Icons over the vacant AEW Top Stable Title.",
+    "caption_asof": {
+      "author": "ai",
+      "evidence": {
+        "appearances": 2,
+        "awards": 0,
+        "reigns": 0,
+        "relationships": 1,
+        "rps": 0,
+        "tenures": 1
+      },
+      "written": "2026-08-31"
+    },
+    "id": "nwo-aew",
+    "members": [
+      {
+        "character_id": "undertaker-action-extreme-wrestling",
+        "name": "Undertaker"
+      },
+      {
+        "character_id": "kane-action-extreme-wrestling",
+        "name": "Kane"
+      },
+      {
+        "character_id": "jack-hammer-aew",
+        "name": "Jack Hammer"
+      },
+      {
+        "character_id": "phantom-aew",
+        "name": "Phantom"
+      },
+      {
+        "character_id": "the-demolition-man-aew",
+        "name": "The Demolition Man"
+      },
+      {
+        "character_id": "buff-bagwell-action-extreme-wrestling",
+        "name": "Buff Bagwell"
+      },
+      {
+        "character_id": "x-pac-action-extreme-wrestling",
+        "name": "X-Pac"
+      }
+    ],
+    "name": "nWo",
+    "tenures": [
+      {
+        "first_seen": "?",
+        "grade": "primary-source",
+        "last_seen": "?",
+        "promotion": "action-extreme-wrestling",
+        "role": "stable",
+        "source": "the fed's own stables page, served at /promotions/action-extreme-wrestling/archive/stables.html"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "stable"
+  },
+  {
+    "caption": "AEW's own tag team, billed on the roster page at a combined weight of 865 pounds.",
+    "caption_asof": {
+      "author": "ai",
+      "evidence": {
+        "appearances": 0,
+        "awards": 0,
+        "reigns": 0,
+        "relationships": 0,
+        "rps": 0,
+        "tenures": 1
+      },
+      "written": "2026-08-31"
+    },
+    "id": "stone-cold-steve-austin-doomsday-aew",
+    "identity": [
+     {
+      "assertion": "distinct",
+      "grade": "presumed",
+      "note": "A tag-team unit's own compound name mechanically substring-matches its two members' bare names/akas and other wings' own unrelated entities sharing one of those two names — this is the aka-collision guard's own decorated-aka gap firing on the team's own component names, not a genuine duplicate-identity question. Both members are this same wing's own already-registered individual characters (stone-cold-steve-austin-action-extreme-wrestling, doomsday-aew); a unit and a character are different entity types with nothing to merge.",
+      "with": [
+       "cwfpro-doomsday",
+       "doomsday-ngw",
+       "doomsday-rspwf",
+       "doomsday-wwa",
+       "steve",
+       "stone-cold-steve-austin-faw",
+       "stone-cold-steve-austin-pwe-inc",
+       "the-steve-rspwf"
+      ]
+     }
+    ],
+    "members": [
+      {
+        "character_id": "stone-cold-steve-austin-action-extreme-wrestling",
+        "name": "Stone Cold Steve Austin"
+      },
+      {
+        "character_id": "doomsday-aew",
+        "name": "Doomsday"
+      }
+    ],
+    "name": "Stone Cold Steve Austin & Doomsday",
+    "tenures": [
+      {
+        "first_seen": "?",
+        "grade": "primary-source",
+        "last_seen": "?",
+        "promotion": "action-extreme-wrestling",
+        "role": "tag team",
+        "source": "the fed's own roster page, served at /promotions/action-extreme-wrestling/archive/roster.html"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team"
+  },
+  {
+    "caption": "AEW's own tag team, billed on the roster page at a combined weight of 725 pounds; the two members' own reign as AEW Tag Team Champions is held on their individual character rows, per the reigns register's own holder convention.",
+    "caption_asof": {
+      "author": "ai",
+      "evidence": {
+        "appearances": 0,
+        "awards": 0,
+        "reigns": 0,
+        "relationships": 0,
+        "rps": 0,
+        "tenures": 1
+      },
+      "written": "2026-08-31"
+    },
+    "id": "undertaker-kane-aew",
+    "identity": [
+     {
+      "assertion": "distinct",
+      "grade": "presumed",
+      "note": "A tag-team unit's own compound name mechanically substring-matches its two members' bare names/akas and other wings' own unrelated portrayals of the same two real wrestlers — this is the aka-collision guard's own decorated-aka gap firing on the team's own component names, not a genuine duplicate-identity question. Both members are this same wing's own already-registered individual characters (undertaker-action-extreme-wrestling, kane-action-extreme-wrestling); a unit and a character are different entity types with nothing to merge.",
+      "with": [
+       "the-undertaker-chwe",
+       "the-undertaker-czwf-2005",
+       "the-undertaker-faw",
+       "the-undertaker-zwf",
+       "undertaker-icw-pweboard",
+       "undertaker-uwf-uwow"
+      ]
+     }
+    ],
+    "members": [
+      {
+        "character_id": "undertaker-action-extreme-wrestling",
+        "name": "Undertaker"
+      },
+      {
+        "character_id": "kane-action-extreme-wrestling",
+        "name": "Kane"
+      }
+    ],
+    "name": "Undertaker & Kane",
+    "tenures": [
+      {
+        "first_seen": "?",
+        "grade": "primary-source",
+        "last_seen": "1998-04-30",
+        "promotion": "action-extreme-wrestling",
+        "role": "tag team",
+        "source": "the fed's own roster page, served at /promotions/action-extreme-wrestling/archive/roster.html"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team"
+  },
+  {
+    "caption": "AEW's own tag team, billed on the roster page at a combined weight of 525 pounds.",
+    "caption_asof": {
+      "author": "ai",
+      "evidence": {
+        "appearances": 0,
+        "awards": 0,
+        "reigns": 0,
+        "relationships": 0,
+        "rps": 0,
+        "tenures": 1
+      },
+      "written": "2026-08-31"
+    },
+    "id": "splash-the-perfectionist-aew",
+    "identity": [
+     {
+      "assertion": "distinct",
+      "grade": "presumed",
+      "note": "A tag-team unit's own compound name mechanically substring-matches its two members' bare names/akas and other wings' own unrelated entities sharing one of those two names — this is the aka-collision guard's own decorated-aka gap firing on the team's own component names, not a genuine duplicate-identity question. Both members are this same wing's own already-registered individual characters (splash-aew, the-perfectionist-aew); a unit and a character are different entity types with nothing to merge.",
+      "with": [
+       "euwc-splash",
+       "perfection-cswa"
+      ]
+     }
+    ],
+    "members": [
+      {
+        "character_id": "splash-aew",
+        "name": "Splash"
+      },
+      {
+        "character_id": "the-perfectionist-aew",
+        "name": "The Perfectionist"
+      }
+    ],
+    "name": "Splash & The Perfectionist",
+    "tenures": [
+      {
+        "first_seen": "?",
+        "grade": "primary-source",
+        "last_seen": "?",
+        "promotion": "action-extreme-wrestling",
+        "role": "tag team",
+        "source": "the fed's own roster page, served at /promotions/action-extreme-wrestling/archive/roster.html"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team"
+  },
+  {
+    "caption": "AEW's own tag team, billed on the roster page at a combined weight of 467 pounds — both members also carried in the nWo stable.",
+    "caption_asof": {
+      "author": "ai",
+      "evidence": {
+        "appearances": 0,
+        "awards": 0,
+        "reigns": 0,
+        "relationships": 0,
+        "rps": 0,
+        "tenures": 1
+      },
+      "written": "2026-08-31"
+    },
+    "id": "x-pac-buff-bagwell-aew",
+    "identity": [
+     {
+      "assertion": "distinct",
+      "grade": "presumed",
+      "note": "A tag-team unit's own compound name mechanically substring-matches its two members' bare names/akas and other wings' own unrelated portrayals of the same two real wrestlers — this is the aka-collision guard's own decorated-aka gap firing on the team's own component names, not a genuine duplicate-identity question. Both members are this same wing's own already-registered individual characters (x-pac-action-extreme-wrestling, buff-bagwell-action-extreme-wrestling); a unit and a character are different entity types with nothing to merge.",
+      "with": [
+       "buff-bagwell-nwwa-1998",
+       "buff-bagwell-uwf-uwow",
+       "sean-waltman-uwf-uwow",
+       "x-pac-chwe",
+       "x-pac-faw"
+      ]
+     }
+    ],
+    "members": [
+      {
+        "character_id": "x-pac-action-extreme-wrestling",
+        "name": "X-Pac"
+      },
+      {
+        "character_id": "buff-bagwell-action-extreme-wrestling",
+        "name": "Buff Bagwell"
+      }
+    ],
+    "name": "X-Pac & Buff Bagwell",
+    "tenures": [
+      {
+        "first_seen": "?",
+        "grade": "primary-source",
+        "last_seen": "?",
+        "promotion": "action-extreme-wrestling",
+        "role": "tag team",
+        "source": "the fed's own roster page, served at /promotions/action-extreme-wrestling/archive/roster.html"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team"
+  }
+]

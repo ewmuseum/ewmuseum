@@ -1,0 +1,105 @@
+[
+ {
+  "id": "mark-blaze-aw-animosity-2002",
+  "type": "character",
+  "name": "Mark Blaze",
+  "tenures": [
+   {
+    "promotion": "aw-animosity-2002",
+    "first_seen": "2002-09-23",
+    "last_seen": "2002-09-23",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — his AW profile lists the Core United States Championship (from 16 July 2002, retired), a CWA and CNA Hall of Fame entry and High Flyer of the Year in CWA",
+    "hometown": "Halifax Nova Scotia, Canada",
+    "height": "6'3",
+    "weight": "245 lbs.",
+    "alignment": "Neutral",
+    "style": "High Flyer",
+    "finisher": "Scowered Acidz (Double Underhook Powerbomb)",
+    "entrance_music": {
+     "verbatim": "'Voices' By Disturbed"
+    },
+    "source": "promotions/aw-animosity-2002/archive/ptc-spotlight-mark-blaze-2002-09-23.html",
+    "note": "Dated from his one AW profile, posted 23 September 2002, the day after PTC's news reported AW's first signings and named him among the superstars willing to renew and enter. The profile's Other Federations line lists CWA, CNA, JEW2, GWA, xCw, $W, XCWF, FI, TWL, NGW and AW."
+   }
+  ],
+  "caption": "An AW superstar of September 2002 whose profile bills him Primetime, the Canadian Cannon and the Franchise, a high flyer from Halifax with a double underhook powerbomb finisher who arrived after ten other federations.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mark-blaze-cwa-continental-2000",
+     "mark-blaze-xcwf"
+    ],
+    "note": "Shares the name Mark Blaze with two records in other wings. The profile's own Other Federations line lists XCWF, CWA and xCw, so the same hand may have written them, but no document held names this AW profile together with either record, and a ring name alone is not identity; the rows stay apart under the no-merge default."
+   }
+  ]
+ },
+ {
+  "id": "aj-storm-aw-animosity-2002",
+  "type": "character",
+  "name": "AJ Storm",
+  "tenures": [
+   {
+    "promotion": "aw-animosity-2002",
+    "first_seen": "2002-11-27",
+    "last_seen": "2002-11-27",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — his AW profile lists PCW, NTICW and NIWC as his other federations and tells his history from an orphanage to the ring",
+    "hometown": "NY/NJ",
+    "height": "6'3",
+    "weight": "220 lbs.",
+    "alignment": "Face",
+    "style": "High Flying Technical",
+    "finisher": "Tsunami Twister (Dragon corkscrew moonsault from top turnbuckle)",
+    "entrance_music": {
+     "verbatim": "Unbelievable - Lisa Lashes"
+    },
+    "source": "promotions/aw-animosity-2002/archive/ptc-spotlight-aj-storm-2002-11-27.html",
+    "note": "Dated from his one AW profile, posted 27 November 2002. The history it tells has him join the PCW on his twentieth birthday and leave it for pastures new; no document held ties it to the PCW record of the same name."
+   }
+  ],
+  "caption": "An AW face of November 2002, a high-flying technical wrestler whose history runs from a New York orphanage to the ring and who finishes with the Tsunami Twister.",
+  "caption_asof": {
+   "written": "2026-10-11",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "aj-storm-pcw"
+    ],
+    "note": "Shares the name AJ Storm with the PCW record. The profile's history has him join the PCW on his twentieth birthday and leave it, and its Other Federations line lists PCW, so the PCW record may be the same character; no document held names the two together, and a name with a federation is not yet proof, so the rows stay apart under the no-merge default."
+   }
+  ]
+ }
+]

@@ -1,0 +1,284 @@
+[
+ {
+  "id": "the-crazy-ones-bcw-newa",
+  "type": "unit",
+  "name": "The Crazy Ones",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Maniac Mike",
+    "character_id": "maniac-mike-bcw-newa"
+   },
+   {
+    "name": "The Link",
+    "character_id": "the-link-bcw-newa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bcw-newa",
+    "first_seen": "1999-05-16",
+    "last_seen": "1999-05-16",
+    "source": "promotions/bcw-newa/archive/gaslaw-gala-1999-05-16.html"
+   }
+  ],
+  "caption": "Billed as the NeWA's own International Tag Team Champions, managed by Douglas Dream.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "notes": "Cut a promo at Gaslaw Gala (16 May 1999) building toward a match against Angels of the Night not otherwise shown or resolved in this holding. Billed as reigning NeWA International Tag Team Champions — a hub-level title, not a BCW title; no title/reign row is minted for it here, out of scope for this wing's own registry."
+ },
+ {
+  "id": "maximum-carnage-bcw-newa",
+  "type": "unit",
+  "name": "Maximum Carnage",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Lord Maximus",
+    "character_id": "lord-maximus-bcw-newa"
+   },
+   {
+    "name": "Mt. Maximus",
+    "character_id": "mt-maximus-bcw-newa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bcw-newa",
+    "first_seen": "1999-05-16",
+    "last_seen": "1999-07-19",
+    "source": "promotions/bcw-newa/archive/gaslaw-gala-1999-05-16.html; promotions/bcw-newa/archive/monday-night-thunder-1999-07-19.html"
+   }
+  ],
+  "caption": "Beat The Untouchables and Team Wolf in a three-way tag match at Gaslaw Gala.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "Billed against The New Age Wrestlers on the fed's own 19 July 1999 advance card; no result survives."
+ },
+ {
+  "id": "the-untouchables-bcw-newa",
+  "type": "unit",
+  "name": "The Untouchables",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Bobby Blaze",
+    "character_id": "bobby-blaze-bcw-newa"
+   },
+   {
+    "name": "The Phantom",
+    "character_id": "the-phantom-bcw-newa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bcw-newa",
+    "first_seen": "unknown",
+    "last_seen": "1999-07-19",
+    "source": "promotions/bcw-newa/archive/gaslaw-gala-1999-05-16.html; promotions/bcw-newa/archive/title-history.html; promotions/bcw-newa/archive/monday-night-thunder-1999-07-19.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-untouchables-aawc"
+    ],
+    "note": "A generic team name; AAWC's own Untouchables carries no shared roster, era, or hub connection to this wing — coincidental collision, not evidence of a link."
+   }
+  ],
+  "caption": "Lost a three-way tag match to Maximum Carnage at Gaslaw Gala, having earlier lost the BCW National Tag Team Championship to Angels of the Night.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "notes": "Billed against Angels of the Night on the fed's own 19 July 1999 advance card; no result survives. The fed's own Title History page separately names Bobby Blaze and The Phantom as the team Angels of the Night beat for the National Tag Team Championship, undated — the same pairing, not otherwise linked to a named unit on that page."
+ },
+ {
+  "id": "team-wolf-bcw-newa",
+  "type": "unit",
+  "name": "Team Wolf",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Tom Stevens",
+    "character_id": "tom-stevens-bcw-newa"
+   },
+   {
+    "name": "Dan Wolf",
+    "character_id": "dan-wolf-bcw-newa"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "bcw-newa",
+    "first_seen": "1999-05-16",
+    "last_seen": "1999-05-16",
+    "source": "promotions/bcw-newa/archive/gaslaw-gala-1999-05-16.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-team-wolf"
+    ],
+    "note": "A generic team name; EUWC's own Team Wolf carries no shared roster, era, or hub connection to this wing — coincidental collision, not evidence of a link."
+   }
+  ],
+  "caption": "Lost a three-way tag match to Maximum Carnage at Gaslaw Gala.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-new-age-wrestlers-bcw-newa",
+  "type": "unit",
+  "name": "The New Age Wrestlers",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "bcw-newa",
+    "first_seen": "1999-07-19",
+    "last_seen": "1999-07-19",
+    "grade": "billing",
+    "source": "promotions/bcw-newa/archive/monday-night-thunder-1999-07-19.html"
+   }
+  ],
+  "caption": "Billed against Maximum Carnage on the fed's own 19 July 1999 advance card.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "notes": "Named only on the fed's own 19 July 1999 advance card; no individual member and no result survive."
+ },
+ {
+  "id": "the-insiders-bcw-newa",
+  "type": "unit",
+  "name": "The Insiders",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "bcw-newa",
+    "first_seen": "1999-07-19",
+    "last_seen": "1999-07-19",
+    "grade": "billing",
+    "source": "promotions/bcw-newa/archive/monday-night-thunder-1999-07-19.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-insiders-ewa-email"
+    ],
+    "note": "A generic team name; the EWA-email wing's own Insiders carries no shared roster, era, or hub connection to this wing — coincidental collision, not evidence of a link."
+   },
+   {
+    "assertion": "presumed-same",
+    "grade": "presumed",
+    "with": [
+     "the-insiders-lcw-1997"
+    ],
+    "note": "LCW is this wing's own already-established sister promotion (primary-source affiliation, John Cole/Beast/Angels of the Night already crossing over) and LCW's own Insiders is likewise a bare, membership-unknown team name with no roster of its own — the same touring-hub-team pattern already governing this wing's Angels of the Night reign, not a merge, not primary-source evidence. Rows deliberately left uncollapsed."
+   }
+  ],
+  "caption": "Billed against The Irish Freedom Fighters on the fed's own 19 July 1999 advance card.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "notes": "Named only on the fed's own 19 July 1999 advance card; no individual member and no result survive."
+ },
+ {
+  "id": "the-irish-freedom-fighters-bcw-newa",
+  "type": "unit",
+  "name": "The Irish Freedom Fighters",
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "bcw-newa",
+    "first_seen": "1999-07-19",
+    "last_seen": "1999-07-19",
+    "grade": "billing",
+    "source": "promotions/bcw-newa/archive/monday-night-thunder-1999-07-19.html"
+   },
+   {
+    "promotion": "lcw-1997"
+   }
+  ],
+  "caption": "Billed against The Insiders on the fed's own 19 July 1999 advance card.",
+  "caption_asof": {
+   "written": "2026-09-02",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "notes": "Named only on the fed's own 19 July 1999 advance card (spelled \"Irish Fredom Fighters\" there, [sic]); no individual member and no result survive."
+ }
+]

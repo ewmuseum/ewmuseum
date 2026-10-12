@@ -1,0 +1,391 @@
+[
+  {
+    "id": "wcotw-world-r001",
+    "title": "wcotw-world",
+    "label": "Buff",
+    "holder": [
+      {
+        "id": "buff-wcotw"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Won at Halloween Havoc, defeating Undertaker; the show's own winner call (\"here is your winner... Buff\") does not carry the explicit \"and NEW Champion\" language sibling title matches on the same card used, but the match is explicitly billed \"for the WCW World Heavyweight Championship\" and Buff is otherwise attested as a past World Champion (see the title's own epitaph)."
+    },
+    "event": "wcotw-halloween-havoc-1998",
+    "days": null,
+    "how": "Defeated Undertaker at Halloween Havoc for the WCW World Heavyweight Championship.",
+    "note": "No document survives naming when or how this reign ended; the fed's own next attested World Champion is Cold Blooded Mike Bauce.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-world-r002",
+    "title": "wcotw-world",
+    "label": "Cold Blooded Mike Bauce",
+    "holder": [
+      {
+        "id": "cold-blooded-mike-bauce-wcotw"
+      }
+    ],
+    "won": {
+      "date": "2001",
+      "precision": "unknown",
+      "source": "No document survives naming when or how he won the title; attested only as the reigning champion on the fed's own last surviving champions snapshot."
+    },
+    "days": null,
+    "how": "Attested only as the reigning champion on the fed's own current-champions snapshot; no winning or losing match survives in the held record.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-us-heavyweight-r001",
+    "title": "wcotw-us-heavyweight",
+    "label": "Cold Blooded Mike Bauce",
+    "holder": [
+      {
+        "id": "cold-blooded-mike-bauce-wcotw"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Already billed \"the WCW US Heavyweight Champion\" entering Halloween Havoc, where he defeated The Canadian Crippler to retain; no document survives naming when or how the reign began."
+    },
+    "days": null,
+    "how": "Retained against The Canadian Crippler at Halloween Havoc.",
+    "note": "No document survives naming when or how this reign ended; the fed's own next attested holder is Mystik.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-us-heavyweight-r002",
+    "title": "wcotw-us-heavyweight",
+    "label": "Mystik",
+    "holder": [
+      {
+        "id": "mystik"
+      }
+    ],
+    "won": {
+      "date": "2001",
+      "precision": "unknown",
+      "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)"
+    },
+    "days": null,
+    "how": "Attested only as the reigning champion on the fed's own current-champions snapshot.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-can-am-heavyweight-r001",
+    "title": "wcotw-can-am-heavyweight",
+    "label": "Krypt",
+    "holder": [
+      {
+        "id": "krypt"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Already billed \"the WCW Can-Am Champion\" entering Halloween Havoc, where he defeated Taz to retain; no document survives naming when or how the reign began."
+    },
+    "days": null,
+    "how": "Retained against Taz at Halloween Havoc; still attested as champion on the fed's own last surviving (~2001) champions snapshot — the single longest-attested reign in the held record.",
+    "end_how": "still-champion-at-record-end",
+    "note": null
+  },
+  {
+    "id": "wcotw-television-r001",
+    "title": "wcotw-television",
+    "label": "Brett Clark",
+    "holder": [
+      {
+        "id": "brett-clark"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Won at Halloween Havoc, defeating defending champion Casper in an Inferno Match (\"and NEW WCW Television Champion Brett Clark\")."
+    },
+    "event": "wcotw-halloween-havoc-1998",
+    "days": null,
+    "how": "Defeated defending champion Casper in an Inferno Match at Halloween Havoc, setting him on fire for the finish.",
+    "note": "No document survives naming when or how this reign ended; the fed's own next attested holder is Krypt.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-television-r002",
+    "title": "wcotw-television",
+    "label": "Krypt",
+    "holder": [
+      {
+        "id": "krypt"
+      }
+    ],
+    "won": {
+      "date": "2001",
+      "precision": "unknown",
+      "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)"
+    },
+    "days": null,
+    "how": "Attested only as the reigning champion on the fed's own current-champions snapshot.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-kotr-r001",
+    "title": "wcotw-kotr",
+    "label": "Mystik",
+    "holder": [
+      {
+        "id": "mystik"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Already billed \"the WCW KOTR Champion\" entering Halloween Havoc, where he defeated Kevin Nash to retain; no document survives naming when or how the reign began."
+    },
+    "days": null,
+    "how": "Retained against Kevin Nash at Halloween Havoc.",
+    "note": "No document survives naming when or how this reign ended; the fed's own next attested holder is Casper.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-kotr-r002",
+    "title": "wcotw-kotr",
+    "label": "Casper",
+    "holder": [
+      {
+        "id": "casper"
+      }
+    ],
+    "won": {
+      "date": "2001",
+      "precision": "unknown",
+      "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)"
+    },
+    "days": null,
+    "how": "Attested only as the reigning champion on the fed's own current-champions snapshot.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-european-r001",
+    "title": "wcotw-european",
+    "label": "Saturn",
+    "holder": [
+      {
+        "id": "saturn-wcotw"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Won at Halloween Havoc, defeating Warrior (\"and NEW WCW European Champion Saturn\"); neither wrestler is explicitly billed champion in the match's own ring introduction, so the outgoing holder isn't independently confirmed, only the title change itself."
+    },
+    "event": "wcotw-halloween-havoc-1998",
+    "days": null,
+    "how": "Defeated Warrior at Halloween Havoc for the WCW European Championship; still attested as champion on the fed's own last surviving (~2001) champions snapshot.",
+    "end_how": "still-champion-at-record-end",
+    "note": null
+  },
+  {
+    "id": "wcotw-international-r001",
+    "title": "wcotw-international",
+    "label": "The Rock",
+    "holder": [
+      {
+        "id": "the-rock-wcotw"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Already billed \"the WCW International Champion\" entering Halloween Havoc, where he defeated Diesel to retain; no document survives naming when or how the reign began."
+    },
+    "days": null,
+    "how": "Retained against Diesel at Halloween Havoc.",
+    "note": "No document survives naming when or how this reign ended; the fed's own next attested holder is Wyte Rice.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-international-r002",
+    "title": "wcotw-international",
+    "label": "Wyte Rice",
+    "holder": [
+      {
+        "id": "wyte-rice"
+      }
+    ],
+    "won": {
+      "date": "2001",
+      "precision": "unknown",
+      "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)"
+    },
+    "days": null,
+    "how": "Attested only as the reigning champion on the fed's own current-champions snapshot.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-cruiserweight-r001",
+    "title": "wcotw-cruiserweight",
+    "label": "K-Dogg",
+    "holder": [
+      {
+        "id": "k-dogg"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Already billed \"the WCW Cruiserweight Champion\" entering Halloween Havoc, where he defeated The Tactitian Darryl Sullivan in an I Quit match to retain; no document survives naming when or how the reign began."
+    },
+    "days": null,
+    "how": "Retained against The Tactitian Darryl Sullivan in an I Quit match at Halloween Havoc; still attested as champion on the fed's own last surviving (~2001) champions snapshot.",
+    "end_how": "still-champion-at-record-end",
+    "note": null
+  },
+  {
+    "id": "wcotw-world-tag-r001",
+    "title": "wcotw-world-tag",
+    "label": "Da Goodfellas",
+    "holder": [
+      {
+        "id": "taz-wcotw"
+      },
+      {
+        "id": "da-don"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Already billed \"the WCW World Tag Team Champions\" entering Halloween Havoc, where they defeated Brothers Of The Darkside to retain; no document survives naming when or how the reign began."
+    },
+    "days": null,
+    "how": "Retained against Brothers Of The Darkside (Undertaker & Crimson Beast Kane) at Halloween Havoc.",
+    "note": "Billed as the named team \"Da Goodfellas\"; the fed's own play-by-play shows the active wrestlers as Taz and Da Don. No document survives naming when or how this reign ended; the fed's own next attested holders are Casper and Hardcore.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-world-tag-r002",
+    "title": "wcotw-world-tag",
+    "label": "Casper & Hardcore",
+    "holder": [
+      {
+        "id": "casper"
+      },
+      {
+        "id": "hardcore"
+      }
+    ],
+    "won": {
+      "date": "2001",
+      "precision": "unknown",
+      "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)"
+    },
+    "days": null,
+    "how": "Attested only as the reigning champions on the fed's own current-champions snapshot.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-us-tag-r001",
+    "title": "wcotw-us-tag",
+    "label": "Legion Of Doom",
+    "holder": [
+      {
+        "id": "legion-of-doom-wcotw"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Already billed \"the WCW US Tag Team Champions\" entering Halloween Havoc, where they defeated The Outsiders to retain; no document survives naming when or how the reign began."
+    },
+    "days": null,
+    "how": "Retained against The Outsiders (Peacock & Kevin Nash) at Halloween Havoc.",
+    "note": "No document survives naming when or how this reign ended; the fed's own next attested holders are The Outkasts.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-us-tag-r002",
+    "title": "wcotw-us-tag",
+    "label": "The Outkasts",
+    "holder": [
+      {
+        "id": "the-outkasts-wcotw"
+      }
+    ],
+    "won": {
+      "date": "2001",
+      "precision": "unknown",
+      "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)"
+    },
+    "days": null,
+    "how": "Attested only as the reigning champions on the fed's own current-champions snapshot; no roster document survives naming individual members.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-can-am-tag-r001",
+    "title": "wcotw-can-am-tag",
+    "label": "The Excaliburs",
+    "holder": [
+      {
+        "id": "the-excaliburs-wcotw"
+      }
+    ],
+    "won": {
+      "date": "1998-10",
+      "precision": "circa",
+      "source": "Already billed \"the WCW Can-Am Tag Team Champions\" entering Halloween Havoc, where they (Vinnie Vegas & Randy Reno) defeated Road Warriors to retain; no document survives naming when or how the reign began."
+    },
+    "days": null,
+    "how": "Retained against Road Warriors at Halloween Havoc.",
+    "note": "No document survives naming when or how this reign ended; the fed's own next attested holders are Mo Thugs.",
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-can-am-tag-r002",
+    "title": "wcotw-can-am-tag",
+    "label": "Mo Thugs",
+    "holder": [
+      {
+        "id": "mo-thugs-wcotw"
+      }
+    ],
+    "won": {
+      "date": "2001",
+      "precision": "unknown",
+      "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)"
+    },
+    "days": null,
+    "how": "Attested only as the reigning champions on the fed's own current-champions snapshot; no roster document survives naming individual members.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  },
+  {
+    "id": "wcotw-stable-r001",
+    "title": "wcotw-stable",
+    "label": "Gambino Family",
+    "holder": [
+      {
+        "id": "gambino-family-wcotw"
+      }
+    ],
+    "won": {
+      "date": "2001",
+      "precision": "unknown",
+      "source": "the fed's own served current-champions snapshot (promotions/wcotw/archive/champions.html), undated but consistent with the fed's own latest attested PPV (SuperClash, 21 October 2001)"
+    },
+    "days": null,
+    "how": "Attested only as the reigning champions on the fed's own current-champions snapshot; no roster document survives naming individual members.",
+    "note": null,
+    "end_how": "still-champion-at-record-end"
+  }
+]

@@ -1,0 +1,53 @@
+[
+ {
+  "id": "brandwrestling-name",
+  "type": "title",
+  "name": "BRAND Name Championship",
+  "promotion": "brandwrestling",
+  "page": "/titles/brandwrestling-name.html",
+  "collection": "0159",
+  "epitaph": "BRAND Wrestling's own top title. Its champs.php page, the only surviving record of its lineage, names SHARC as champion with no history behind the belt \u2014 the title-history pages for all three of the fed's championships pulled from a news database this deposit does not carry.",
+  "epitaph_asof": {
+   "written": "2026-09-25",
+   "author": "ai",
+   "evidence": {
+    "reigns": 1
+   }
+  },
+  "notes": "champs.php, the site's own current-champions page; its own bnc.php title-history page renders nothing beyond a pulled-and-uncaptured news feed."
+ },
+ {
+  "id": "brandwrestling-mountain-dew",
+  "type": "title",
+  "name": "Mountain Dew Championship",
+  "promotion": "brandwrestling",
+  "page": "/titles/brandwrestling-mountain-dew.html",
+  "collection": "0159",
+  "epitaph": "A sponsor-named secondary title. champs.php names Jake Keeton champion, and two served BRAND promos \u2014 Mary-Lynn Mayweather's \"Church Bells Calling\" and Steve Solex's \"Booked or Not\" \u2014 both target him over it, the only in-fiction texture surviving for any of the fed's three belts.",
+  "epitaph_asof": {
+   "written": "2026-09-25",
+   "author": "ai",
+   "evidence": {
+    "reigns": 1
+   }
+  },
+  "notes": "champs.php; its own mdc.php title-history page renders nothing beyond a pulled-and-uncaptured news feed."
+ },
+ {
+  "id": "brandwrestling-texas-heavyweight",
+  "type": "title",
+  "name": "BRAND Texas Heavyweight Championship",
+  "promotion": "brandwrestling",
+  "page": "/titles/brandwrestling-texas-heavyweight.html",
+  "collection": "0159",
+  "epitaph": "BRAND Wrestling's third championship. champs.php lists it VACANT, with no lineage behind it in the surviving record.",
+  "epitaph_asof": {
+   "written": "2026-09-25",
+   "author": "ai",
+   "evidence": {
+    "reigns": 0
+   }
+  },
+  "notes": "champs.php; its own bthwc.php title-history page renders nothing beyond a pulled-and-uncaptured news feed."
+ }
+]

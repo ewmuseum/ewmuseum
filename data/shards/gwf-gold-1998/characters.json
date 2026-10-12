@@ -1,0 +1,71 @@
+[
+  {
+    "id": "brian-gold-gwf-gold-1998",
+    "type": "character",
+    "name": "Brian Gold",
+    "caption": "The founder, owner, and top star of the Gold Wrestling Federation, wrestling under his own name as \"Mister Sexy\" Brian Gold while running the promotion he built.",
+    "caption_asof": {"written": "2026-09-05", "author": "ai", "evidence": {"tenures": 1, "reigns": 0, "appearances": 0, "rps": 0, "awards": 0, "relationships": 0}},
+    "notes": "The federation's own founder and owner wrestled under his own name, billed as \"Mister Sexy\" Brian Gold, while also writing the promotion's flagship weekly show, Tuesday Night Terror, himself.",
+    "tenures": [
+      {
+        "promotion": "gwf-gold-1998",
+        "roles": ["wrestler", "authority-figure"],
+        "first_seen": "1998-06-21",
+        "last_seen": "1998-06-21",
+        "source": "/promotions/gwf-gold-1998/archive/gwf-gold-founding-1998-06-21.html"
+      }
+    ]
+  },
+  {
+    "id": "guy-gilette-gwf-gold-1998",
+    "type": "character",
+    "name": "Guy Gilette",
+    "caption": "A GWF staffer billed as the President's cousin, announcing the fed's Tuesday show and conducting interviews.",
+    "caption_asof": {"written": "2026-09-08", "author": "ai", "evidence": {"tenures": 1, "reigns": 0, "appearances": 0, "rps": 0, "awards": 0, "relationships": 0}},
+    "notes": "Billed in the fed's own founding document as a straight-arrow staffer who rarely takes sides, announcing the Tuesday Night Terror show and conducting interviews.",
+    "tenures": [
+      {
+        "promotion": "gwf-gold-1998",
+        "roles": ["commentator"],
+        "first_seen": "1998-06-21",
+        "last_seen": "1998-06-21",
+        "source": "/promotions/gwf-gold-1998/archive/gwf-gold-founding-1998-06-21.html"
+      }
+    ]
+  },
+  {
+    "id": "greg-tompson-gwf-gold-1998",
+    "type": "character",
+    "name": "Greg Tompson",
+    "caption": "A GWF staffer promoted into an on-air announcing role after a car-accident encounter with the fed's Co-President.",
+    "caption_asof": {"written": "2026-09-08", "author": "ai", "evidence": {"tenures": 1, "reigns": 0, "appearances": 0, "rps": 0, "awards": 0, "relationships": 0}},
+    "notes": "Billed in the fed's own founding document as a high-ranking staffer hired after the Co-President's car struck him, announcing both weekly shows and conducting interviews.",
+    "tenures": [
+      {
+        "promotion": "gwf-gold-1998",
+        "roles": ["commentator", "authority-figure"],
+        "first_seen": "1998-06-21",
+        "last_seen": "1998-06-21",
+        "source": "/promotions/gwf-gold-1998/archive/gwf-gold-founding-1998-06-21.html"
+      }
+    ]
+  },
+  {
+    "id": "victoria-gold-gwf-gold-1998",
+    "type": "character",
+    "name": "Victoria Gold",
+    "aka": ["Queen Victoria"],
+    "caption": "A GWF announcer and interviewer billed as the founder's wife and former on-screen escort.",
+    "caption_asof": {"written": "2026-09-08", "author": "ai", "evidence": {"tenures": 1, "reigns": 0, "appearances": 0, "rps": 0, "awards": 0, "relationships": 0}},
+    "notes": "Billed in the fed's own founding document as Brian Gold's wife and former escort persona \"Queen Victoria,\" now announcing the Saturday Night Sparks show and conducting interviews.",
+    "tenures": [
+      {
+        "promotion": "gwf-gold-1998",
+        "roles": ["commentator"],
+        "first_seen": "1998-06-21",
+        "last_seen": "1998-06-21",
+        "source": "/promotions/gwf-gold-1998/archive/gwf-gold-founding-1998-06-21.html"
+      }
+    ]
+  }
+]

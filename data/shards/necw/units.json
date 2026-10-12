@@ -1,0 +1,40 @@
+[
+ {
+  "id": "stapleton-brothers-necw",
+  "type": "unit",
+  "name": "The Stapleton Brothers",
+  "unit_kind": "tag-team",
+  "members": [
+   "mike-stapleton-necw",
+   "mark-stapleton-necw"
+  ],
+  "caption": "A tag team absorbed whole from a rival federation's own closure, introduced on the destination's television with a tribute package recapping their old promotion's history in full.",
+  "tenures": [
+   {
+    "promotion": "necw",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-11",
+    "last_seen": "1997-11",
+    "source": "promotions/necw/archive/necw-matchat-introducing-1997-11-22.html"
+   },
+   {
+    "promotion": "hwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "source": "cited, not served under this wing (HWL's own tribute package, promotions/necw/archive/necw-matchat-introducing-1997-11-22.html)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 2
+   }
+  }
+ }
+]

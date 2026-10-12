@@ -1,0 +1,91 @@
+[
+ {
+  "id": "liquidators-aewf",
+  "type": "unit",
+  "name": "The Liquidators",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "The Albanian Assassin",
+    "character_id": "albanian-assassin-aewf"
+   },
+   {
+    "name": "The Hungarian Hitman",
+    "character_id": "hungarian-hitman-aewf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aewf-1997a",
+    "first_seen": "2004-11",
+    "source": "/promotions/aewf-1997a/archive/aewf-card-announcement-2004-11-07.html",
+    "note": "Billed against Wild Tendencies on the 7 November 2004 card, the two members having shaken hands after their own prior match the week before."
+   }
+  ],
+  "caption": "A tag team billed against Wild Tendencies on the AEWF's 7 November 2004 card, its own two members having shaken hands after a prior match the week before.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "wild-tendencies-aewf",
+  "type": "unit",
+  "name": "Wild Tendencies",
+  "unit_kind": "tag-team",
+  "membership_unknown": false,
+  "tenures": [
+   {
+    "promotion": "aewf-1997a",
+    "first_seen": "2004-10",
+    "last_seen": "2004-11",
+    "source": "/promotions/aewf-1997a/archive/aewf-touring-main-event-2004-10-31.html; /promotions/aewf-1997a/archive/aewf-card-announcement-2004-11-07.html",
+    "note": "Lost to Man & Superman by disqualification on the 31 October 2004 Touring Main Event after Thog bit \"Superman\" Stefan Kohl's neck; Thog then assaulted the AEWF medical team and was restrained by security. Billed as a team against the Liquidators on the 7 November 2004 card."
+   }
+  ],
+  "caption": "Billed as a team against the Liquidators on the AEWF's 7 November 2004 card; no individual roster survives.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Thog",
+    "character_id": "thog-aewf"
+   },
+   {
+    "name": "The Beast",
+    "character_id": "the-beast-aewf"
+   }
+  ]
+ },
+ {
+  "id": "man-and-superman-aewf",
+  "type": "unit",
+  "name": "Man & Superman",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Hellmouth Kuhnhackel",
+    "character_id": "hellmouth-kuhnhackel-aewf"
+   },
+   {
+    "name": "\"Superman\" Stefan Kohl",
+    "character_id": "stefan-kohl-aewf"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "aewf-1997a",
+    "first_seen": "2004-10",
+    "source": "/promotions/aewf-1997a/archive/aewf-touring-main-event-2004-10-31.html",
+    "note": "Defeated Wild Tendencies by disqualification on the 31 October 2004 Touring Main Event after Thog bit Kohl's neck."
+   }
+  ],
+  "caption": "A tag team that defeated Wild Tendencies by disqualification on the AEWF's 31 October 2004 Touring Main Event.",
+  "caption_asof": {
+   "written": "2026-09-09",
+   "author": "ai"
+  }
+ }
+]

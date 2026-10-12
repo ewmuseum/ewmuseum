@@ -1,0 +1,120 @@
+[
+ {
+  "id": "ff-world-heavyweight-r001",
+  "title": "ff-world-heavyweight",
+  "label": "Takeo Brown",
+  "holder": [
+   {
+    "id": "takeo-brown-ff"
+   }
+  ],
+  "won": {
+   "date": "2003-01-01",
+   "precision": "exact",
+   "source": "The fed's own title history lists him under \"Wednesday 1st January 2003 - Takeo Brown\", the earliest entry on the belt (/promotions/ff/archive/title-history-2003-04.html)."
+  },
+  "days": 0,
+  "lost": {
+   "date": "2003-01-01",
+   "precision": "exact"
+  },
+  "how": "Lost it to Liphe Gonne at a fightSHOW on the same day.",
+  "end_how": "lost-in-match",
+  "event": "ff-fightshow-2003-01-01",
+  "note": "The fed's own title history dates both his reign and Liphe Gonne's to Wednesday 1 January 2003; how he came to hold it first is not in the surviving record."
+ },
+ {
+  "id": "ff-world-heavyweight-r002",
+  "title": "ff-world-heavyweight",
+  "label": "Liphe Gonne",
+  "holder": [
+   {
+    "id": "liphe-gonne-ff"
+   }
+  ],
+  "won": {
+   "date": "2003-01-01",
+   "precision": "exact",
+   "source": "The fed's own Current Champions page: \"Flatlined World Heavyweight Championship Liphe Gonne • Defeated Takeo Brown at fightSHOW, 01 January 2003\" (/promotions/ff/archive/current-champions-2003-02.html)."
+  },
+  "days": 53,
+  "lost": {
+   "date": "2003-02-23",
+   "precision": "exact"
+  },
+  "how": "Lost it to Javier Garcia at Pride & Victory.",
+  "end_how": "lost-in-match",
+  "event": "ff-fightshow-2003-01-01"
+ },
+ {
+  "id": "ff-world-heavyweight-r003",
+  "title": "ff-world-heavyweight",
+  "label": "Javier Garcia",
+  "holder": [
+   {
+    "id": "javier-garcia-ff"
+   }
+  ],
+  "won": {
+   "date": "2003-02-23",
+   "precision": "exact",
+   "source": "The fed's own title history: \"Sunday 23rd February 2003 (Pride & Victory) - Javier Garcia\" (/promotions/ff/archive/title-history-2003-04.html)."
+  },
+  "days": 59,
+  "lost": {
+   "date": "2003-04-23",
+   "precision": "exact"
+  },
+  "how": "Lost it to Frank Minio in the second round of fightSHOW: 015, and stayed on his feet after being knocked out.",
+  "end_how": "lost-in-match",
+  "event": "ff-fightshow-015-2003-04-23"
+ },
+ {
+  "id": "ff-world-heavyweight-r004",
+  "title": "ff-world-heavyweight",
+  "label": "Frank Minio",
+  "holder": [
+   {
+    "id": "frank-minio-ff"
+   }
+  ],
+  "won": {
+   "date": "2003-04-23",
+   "precision": "exact",
+   "source": "The fed's own front-page news of 24 April 2003: \"FLATLINEDfighting would like to congratulate Frank Minio, the new FLATLINED Heavyweight Champion on his victory over Javier Garcia last night on fightSHOW: 015\" (/promotions/ff/archive/front-page-2003-04.html)."
+  },
+  "days": null,
+  "lost": {
+   "date": null,
+   "precision": "unknown"
+  },
+  "how": "Beat Javier Garcia with a right fist thrown to counter a potential winning blow, midway through the second round.",
+  "event": "ff-fightshow-015-2003-04-23",
+  "note": "Champion at the fed's own last word. Garcia had already challenged him for a CLASH in May whose date was never announced.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "ff-world-lightweight-r001",
+  "title": "ff-world-lightweight",
+  "label": "Chester Ramis",
+  "holder": [
+   {
+    "id": "chester-ramis-ff"
+   }
+  ],
+  "won": {
+   "date": "2003-03-26",
+   "precision": "exact",
+   "source": "The fed's own title history, which lists exactly one holder of the belt: \"Wednesday 26th March 2003 (fightSHOW) - Chester Ramis\" (/promotions/ff/archive/title-history-2003-04.html)."
+  },
+  "days": null,
+  "lost": {
+   "date": null,
+   "precision": "unknown"
+  },
+  "how": "The fed's own record does not say how he won it.",
+  "event": null,
+  "note": "Champion at the fed's own last word. The belt was vacant on its own Current Champions page six weeks earlier.",
+  "end_how": "still-champion-at-record-end"
+ }
+]

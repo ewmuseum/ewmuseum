@@ -1,0 +1,99 @@
+[
+ {
+  "id": "political-machine-mwa-millenium",
+  "type": "unit",
+  "name": "Political Machine",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Fred Rennings",
+    "character_id": "fred-rennings-mwa-millenium"
+   },
+   {
+    "name": "Kenner",
+    "character_id": "kenner-mwa-millenium"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwa-millenium-2004",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "source": "the federation's own MWA Turmoil episode cards"
+   }
+  ],
+  "caption": "A tag team billed as an \"EFWO legendary tag-team,\" wrestling twice on the promotion's own April 2006 Turmoil episodes.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "uprising-mwa-millenium",
+  "type": "unit",
+  "name": "Uprising",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Scorpio",
+    "character_id": "scorpio-mwa-millenium"
+   },
+   {
+    "name": "RC Tucker",
+    "character_id": "rc-tucker-mwa-millenium"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwa-millenium-2004",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "source": "the federation's own MWA Turmoil episode card of 11 April 2006"
+   }
+  ],
+  "caption": "A tag team of Scorpio and RC Tucker, billed on the promotion's own 11 April 2006 Turmoil episode.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "outlawz-mwa-millenium",
+  "type": "unit",
+  "name": "Outlawz",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Cody Casey",
+    "character_id": "cody-casey-mwa-millenium"
+   },
+   {
+    "name": "Dustin Williams",
+    "character_id": "dustin-williams-mwa-millenium"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "mwa-millenium-2004",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "source": "the federation's own MWA Turmoil episode card of 14 June 2006 (Episode 50), which names the pairing; the same two wrestlers teamed unnamed on two earlier April 2006 episodes"
+   }
+  ],
+  "caption": "The promotion's own name, by June 2006, for the recurring tag pairing of Cody Casey and Dustin Williams, billed as \"one of MWA's hotter tag teams as of late.\"",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A name shared with an unrelated entity elsewhere in the registry; nothing links the two beyond the name.",
+    "with": [
+     "outlawz-chz"
+    ]
+   }
+  ]
+ }
+]

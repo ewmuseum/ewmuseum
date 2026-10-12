@@ -1,0 +1,281 @@
+[
+ {
+  "id": "naw-1998-homicidal-maniacs",
+  "type": "unit",
+  "name": "The Homicidal Maniacs",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Pain",
+    "character_id": "pain-naw-1998"
+   },
+   {
+    "name": "Pyro",
+    "character_id": "pyro-naw-1998"
+   }
+  ],
+  "notes": "Won the N.A.W. World Tag Team Championship by disqualification the week before Monday Night Distress, then lost it there to the Midnight Strikers.",
+  "caption": "A tag team who won the N.A.W. World Tag Team Championship by disqualification and lost it a week later on Monday Night Distress.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "naw-1998"
+   }
+  ]
+ },
+ {
+  "id": "naw-1998-midnight-strikers",
+  "type": "unit",
+  "name": "The Midnight Strikers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Rude Ray",
+    "character_id": "rude-ray-naw-1998"
+   },
+   {
+    "name": "Steve the Stud",
+    "character_id": "steve-the-stud-naw-1998"
+   }
+  ],
+  "notes": "Won the N.A.W. World Tag Team Championship from the Homicidal Maniacs on Monday Night Distress with a chair-assisted pin.",
+  "caption": "A tag team who won the N.A.W. World Tag Team Championship from the Homicidal Maniacs on Monday Night Distress.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "naw-1998"
+   }
+  ]
+ },
+ {
+  "id": "naw-1998-dallas-connection",
+  "type": "unit",
+  "name": "The Dallas Connection",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "John Harper",
+    "character_id": "john-harper-naw-1998"
+   },
+   {
+    "name": "James Harper",
+    "character_id": "james-harper-naw-1998"
+   }
+  ],
+  "notes": "Beat the Towers of Power on Tuesday Night Tango.",
+  "caption": "A tag team who beat the Towers of Power on Tuesday Night Tango.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "naw-1998"
+   }
+  ]
+ },
+ {
+  "id": "naw-1998-towers-of-power",
+  "type": "unit",
+  "name": "The Towers of Power",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "James Sears",
+    "character_id": "james-sears-naw-1998"
+   },
+   {
+    "name": "John Huntsman",
+    "character_id": "john-huntsman-naw-1998"
+   }
+  ],
+  "notes": "Lost to the Dallas Connection on Tuesday Night Tango.",
+  "caption": "A tag team beaten by the Dallas Connection on Tuesday Night Tango.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "naw-1998"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-towers-of-power-wewf",
+     "towers-of-power-pwa-1992"
+    ],
+    "note": "A team name also carried by unrelated held wings; no shared operator or roster evidence found."
+   }
+  ]
+ },
+ {
+  "id": "naw-1998-new-generation",
+  "type": "unit",
+  "name": "The New Generation",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Jack Vars",
+    "character_id": "jack-vars-naw-1998"
+   },
+   {
+    "name": "Havok",
+    "character_id": "havok-naw-1998"
+   }
+  ],
+  "notes": "Beat the Booger Brothers on Tuesday Night Tango.",
+  "caption": "A tag team who beat the Booger Brothers on Tuesday Night Tango.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "naw-1998"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "new-generation-bawf-1997b"
+    ],
+    "note": "A team name also carried by an unrelated held wing; no shared operator or roster evidence found."
+   }
+  ]
+ },
+ {
+  "id": "naw-1998-booger-brothers",
+  "type": "unit",
+  "name": "The Booger Brothers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Flem",
+    "character_id": "flem-naw-1998"
+   },
+   {
+    "name": "Snot",
+    "character_id": "snot-naw-1998"
+   }
+  ],
+  "notes": "Managed by Q-Tip; lost to the New Generation on Tuesday Night Tango.",
+  "caption": "A tag team, managed by Q-Tip, beaten by the New Generation on Tuesday Night Tango.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "naw-1998"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-booger-brothers-inwi"
+    ],
+    "note": "The held INWI wing (1997) portrays a tag team of the same name and manager; each promotion's own portrayal is held as its own record."
+   }
+  ]
+ },
+ {
+  "id": "naw-1998-bladeliners",
+  "type": "unit",
+  "name": "The Bladeliners",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Jade \"The Blade\"",
+    "character_id": "jade-the-blade-naw-1998"
+   },
+   {
+    "name": "J.W. Storm",
+    "character_id": "j-w-storm-naw-1998"
+   }
+  ],
+  "notes": "Retained N.A.W.'s Tag Team Championship against the Widow Makers on Tuesday Night Tango with Jade's Blade Liner.",
+  "caption": "A tag team who retained N.A.W.'s Tag Team Championship against the Widow Makers on Tuesday Night Tango.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "naw-1998"
+   }
+  ]
+ },
+ {
+  "id": "naw-1998-widow-makers",
+  "type": "unit",
+  "name": "The Widow Makers",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Rorschach Nishimura",
+    "character_id": "rorschach-nishimura-naw-1998"
+   },
+   {
+    "name": "Yoshiaki Nishimura",
+    "character_id": "yoshiaki-nishimura-naw-1998"
+   }
+  ],
+  "notes": "Challenged the Bladeliners for N.A.W.'s Tag Team Championship on Tuesday Night Tango and lost.",
+  "caption": "A tag team who challenged the Bladeliners for N.A.W.'s Tag Team Championship on Tuesday Night Tango and lost.",
+  "caption_asof": {
+   "written": "2026-09-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "appearances": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "naw-1998"
+   }
+  ]
+ }
+]

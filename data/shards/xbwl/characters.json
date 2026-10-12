@@ -1,0 +1,1519 @@
+[
+ {
+  "id": "legacy-xbwl",
+  "type": "character",
+  "name": "Legacy",
+  "caption": "A self-billed \"most hated man in XBWL history,\" a five-time XBWL World Heavyweight Champion known for a finishing move that ended two other wrestlers' careers before Matt Austin's.",
+  "caption_asof": {
+   "written": "2026-09-11",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-10-06",
+    "last_seen": "1999-10-06",
+    "source": "a newsgroup title-change report, 6 October 1999"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (legacy-ccw); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "legacy-ccw"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (legacy-low); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "legacy-low"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (legacy-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "legacy-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "matt-austin-xbwl",
+  "type": "character",
+  "name": "\"Da Mac\" Matt Austin",
+  "caption": "XBWL World Heavyweight Champion until losing the title to Legacy on 6 October 1999, written off through the finishing move that ended two prior careers.",
+  "caption_asof": {
+   "written": "2026-09-11",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-10-06",
+    "last_seen": "1999-10-06",
+    "source": "a newsgroup title-change report, 6 October 1999"
+   },
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "chris-calhoun-xbwl",
+  "type": "character",
+  "name": "Chris Calhoun",
+  "caption": "XBWL North American Champion as of 9 October 1999.",
+  "caption_asof": {
+   "written": "2026-09-11",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-10-09",
+    "last_seen": "1999-10-09",
+    "source": "the wrestler's own newsgroup roleplay post, 9 October 1999"
+   }
+  ]
+ },
+ {
+  "id": "mark-mease-xbwl",
+  "type": "character",
+  "name": "\"Mean\" Mark Mease",
+  "caption": "A self-described former XBWL World, United States and Internet Champion and former XBWL President, still active on the newsgroup as of October 1999.",
+  "caption_asof": {
+   "written": "2026-09-11",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 0,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler",
+     "authority-figure"
+    ],
+    "first_seen": "1999-10-06",
+    "last_seen": "1999-10-06",
+    "source": "a newsgroup reply to the title-change report, 6 October 1999"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (mean-mark-mease-rspwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "mean-mark-mease-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "brandon-thornton-xbwl",
+  "type": "character",
+  "name": "Brandon Thornton",
+  "caption": "XBWL World Heavyweight Champion entering the promotion's 18 November 2001 reopening broadcast, stripped of the title by incoming owner Sandra Lewis before defending it; also billed as a reigning HGW World Heavyweight Champion.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "michael-andrews-xbwl",
+  "type": "character",
+  "name": "Michael Andrews",
+  "caption": "A three-time former XBWL World Heavyweight Champion who returns to defeat Brandon Thornton on the promotion's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   },
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "jack-diamond-xbwl",
+  "type": "character",
+  "name": "\"Sexy Boy\" Jack Diamond",
+  "caption": "A former XBWL World Heavyweight Champion who interferes in the Andrews-Thornton match on the promotion's 18 November 2001 reopening broadcast and attacks Thornton afterward.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   },
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: same-named entities in other wings; no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "jack-diamonds-avw-2001",
+     "jack-diamond-icw-2000-nov1999",
+     "jack-diamond-hiwf",
+     "jack-diamond-rspwf",
+     "jack-diamond-usew"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "johnny-rebel-xbwl",
+  "type": "character",
+  "name": "Johnny Rebel",
+  "caption": "A wrestler with a history against Legacy, seen attacking Robby Smith backstage and interfering in the Andrews-Thornton match on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   },
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing; no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "johnny-rebel-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "timmy-princeton-xbwl",
+  "type": "character",
+  "name": "\"The Undefeated\" Timmy Princeton",
+  "caption": "Self-billed from Pittsburgh, Pennsylvania at 171 pounds, he manages Steve Arezzo and wrestles El Camero on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   },
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler",
+     "manager"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "el-camero-xbwl",
+  "type": "character",
+  "name": "El Camero",
+  "caption": "A masked wrestler billed as part of \"The Mexican Mackdaddies\" with SuperCat and El Dorito, who defeats Timmy Princeton on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "supercat-xbwl",
+  "type": "character",
+  "name": "SuperCat",
+  "caption": "A masked wrestler billed at 192 pounds and 5'11\", who becomes the first XBWL North American Champion of the reopened promotion on 18 November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "el-dorito-xbwl",
+  "type": "character",
+  "name": "El Dorito",
+  "caption": "A masked wrestler who assists El Camero and SuperCat during the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (el-dorito-eaw-fwrestling); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "el-dorito-eaw-fwrestling"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "taylor-threat-xbwl",
+  "type": "character",
+  "name": "Taylor ThreaT",
+  "caption": "A wrestler billed as the favorite entering the XBWL's 18 November 2001 North American Championship match, eliminated first.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "deadly-domination-xbwl",
+  "type": "character",
+  "name": "Deadly Domination",
+  "caption": "A wrestler accompanied by valet Donna the Dominatrix, eliminated from the XBWL's 18 November 2001 North American Championship match.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "tseng-xbwl",
+  "type": "character",
+  "name": "Tseng",
+  "caption": "A wrestler eliminated last from the XBWL's 18 November 2001 North American Championship match, pushed into a flaming table.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "broken-xbwl",
+  "type": "character",
+  "name": "Broken",
+  "caption": "A masked hardcore wrestler billed at 300 pounds who wins a three-way hardcore match on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "felony-xbwl",
+  "type": "character",
+  "name": "\"Master of Disaster\" Felony",
+  "caption": "Wrestles Shawn Ryder and Broken in a hardcore three-way on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "shawn-ryder-xbwl",
+  "type": "character",
+  "name": "\"Tainted Measures\" Shawn Ryder",
+  "caption": "Pinned by Broken in a hardcore three-way on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "robert-the-demolisher-xbwl",
+  "type": "character",
+  "name": "Robert the Demolisher",
+  "caption": "A veteran wrestler defeated by Steve Arezzo on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "rob-jenks-xbwl",
+  "type": "character",
+  "name": "Rob Jenks",
+  "caption": "A wrestler defeated by Jonathan Talon in a chair-assisted beating on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "robby-smith-xbwl",
+  "type": "character",
+  "name": "Robby Smith",
+  "caption": "A wrestler attacked backstage by Johnny Rebel and dragged off by Carnage on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "carnage-xbwl",
+  "type": "character",
+  "name": "Carnage",
+  "caption": "A wrestler who fights Johnny Rebel backstage and interferes to help SuperCat win the North American title on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: same-named entities in other wings; no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "carnage",
+     "carnage-fob",
+     "carnage-swl-1997b",
+     "carnage-rccw-1998",
+     "carnage-ecw-carnage-1999",
+     "carnage-agw",
+     "carnage-ubf",
+     "carnage-newf",
+     "carnage-icw-pweboard",
+     "carnage-pwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "steve-arezzo-xbwl",
+  "type": "character",
+  "name": "\"The Smooth Criminal\" Steve Arezzo",
+  "caption": "Billed from Chicago at 245 pounds, the EWWA Hardcore Champion, who defeats Robert the Demolisher on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "sandra-lewis-xbwl",
+  "type": "character",
+  "name": "Sandra Lewis",
+  "caption": "The new owner of the XBWL, introduced on the promotion's 18 November 2001 reopening broadcast, where she strips Brandon Thornton of the World Heavyweight Championship.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "johnny-macaroni-xbwl",
+  "type": "character",
+  "name": "Johnny Macaroni",
+  "caption": "The outgoing XBWL owner who introduces Sandra Lewis as his successor on the promotion's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing; no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "johnny-macaroni-icw-2000-nov1999"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "donna-the-dominatrix-xbwl",
+  "type": "character",
+  "name": "Donna the Dominatrix",
+  "caption": "Deadly Domination's valet, put through a table by SuperCat during the XBWL's 18 November 2001 reopening main event.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "jonathan-talon-xbwl",
+  "type": "character",
+  "name": "Jonathan Talon",
+  "caption": "A newcomer to the XBWL who wins his debut match by chair assault on the promotion's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing; no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "jonathan-talon-osw-online"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lenny-jackson-xbwl",
+  "type": "character",
+  "name": "Lenny Jackson",
+  "caption": "A wrestler defeated alongside Rob Jenks by Jonathan Talon on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "slezy-d-xbwl",
+  "type": "character",
+  "name": "Slezy D",
+  "caption": "A wrestler who abandons his own match to chase Timmy Princeton through the crowd on the XBWL's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-18",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own four-part reopening broadcast, 18 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "flyguy-raganork-ts-xbwl",
+  "type": "character",
+  "name": "Flyguy Raganork T.S.",
+  "caption": "Billed among the XBWL's home talent as the promotion announces its restart, 17 November 2001, and credited alongside \"TNT\" Nick Stevenson as the trainer of Steve Arezzo and Timmy Princeton on the promotion's 18 November 2001 reopening broadcast.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "the-beast-xbwl",
+  "type": "character",
+  "name": "The Beast",
+  "caption": "Billed among the XBWL's home talent as the promotion announces its restart, 17 November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: same-named entities in other wings; no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "belial-kahn-wwa",
+     "the-beast-wwa",
+     "the-beast-aewf",
+     "the-beast-rspwf",
+     "the-beast-uga",
+     "the-beast-xcwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sean-dudley-xbwl",
+  "type": "character",
+  "name": "Sean Dudley",
+  "caption": "Billed among the XBWL's home talent as the promotion announces its restart, 17 November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing; no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "sean-dudley-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mad-jester-xbwl",
+  "type": "character",
+  "name": "Mad Jester",
+  "caption": "A former XBWL World Heavyweight Champion named among the promotion's legends as it announces its restart, 17 November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "iron-yuppy-xbwl",
+  "type": "character",
+  "name": "Iron Yuppy",
+  "caption": "A former XBWL World Heavyweight Champion named among the promotion's legends as it announces its restart, 17 November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "monster-mac-xbwl",
+  "type": "character",
+  "name": "Monster Mac",
+  "caption": "A former XBWL World Heavyweight Champion named among the promotion's legends as it announces its restart, 17 November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing; no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "monster-mac-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tnt-nick-stevenson-xbwl",
+  "type": "character",
+  "name": "\"TNT\" Nick Stevenson",
+  "caption": "A former XBWL World Heavyweight Champion credited alongside Flyguy as the trainer of Steve Arezzo and Timmy Princeton on the promotion's 18 November 2001 reopening broadcast, also named among its legends in the 17 November 2001 restart notice.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-18",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "awesome-australian-xbwl",
+  "type": "character",
+  "name": "Awesome Australian",
+  "caption": "A former XBWL World Heavyweight Champion named among the promotion's legends as it announces its restart, 17 November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "shane-kollins-xbwl",
+  "type": "character",
+  "name": "\"The Icon\" Shane Kollins",
+  "caption": "A former XBWL World Heavyweight Champion named among the promotion's legends as it announces its restart, 17 November 2001.",
+  "caption_asof": {
+   "written": "2026-09-21",
+   "author": "ai",
+   "evidence": {
+    "wrestlers": 0,
+    "shows": 1,
+    "rps": 0,
+    "awards": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2001-11-17",
+    "last_seen": "2001-11-17",
+    "source": "the promotion's own restart notice, 17 November 2001"
+   }
+  ]
+ },
+ {
+  "id": "derek-dougla-xbwl",
+  "type": "character",
+  "name": "\"DrUnK 24:7\" DereK Dougla$",
+  "notes": "Known from one three-part roleplay posted to rec.sport.pro-wrestling.fantasy on 21 July 2000, titled \"Please Rate This RP For Me\", served at /promotions/rspwf/archive/please-rate-this-rp-for-me-2000-07-21.html. Billed as the XBWL's own drunk, he drinks and smokes through a clip of his win over Rage, shouts at the champion Eddie, hustles pool for money, wakes in a stranger's yard with $5,000 in his pocket and swears he will take the XBWL North American title from Eddie and shut up a second doubter, Danny.",
+  "caption": "The XBWL's self-styled drunk, who hustles pool, wakes in a stranger's yard with $5,000 and swears to take the North American title, July 2000.",
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2000-07-21",
+    "last_seen": "2000-07-21",
+    "source": "/promotions/rspwf/archive/please-rate-this-rp-for-me-2000-07-21.html (a three-part roleplay posted for rating, naming the XBWL as his federation)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "derek-douglas-rspwf",
+     "derek-douglas-rspwf2",
+     "derek-douglas-ewc98",
+     "derek-douglas-gswp-1999",
+     "derek-douglas-kawf",
+     "derek-douglas-rsp-ringside-seat-2002",
+     "derek-douglas-wwfl"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ },
+ {
+  "id": "dangerous-dave-taylor-xbwl",
+  "type": "character",
+  "name": "\"Dangerous\" Dave Taylor",
+  "aka": [
+   "Dave Taylor"
+  ],
+  "notes": "Known from one free-agent sample posted to rec.sport.pro-wrestling.fantasy on 12 December 1998, served at /promotions/rspwf/archive/free-agent-dangerous-dave-taylor-here-s-a-sample-rp-1998-12-12.html: an XBWL wrestler in a red Hummer who throws a beer bottle at a sixteen-year-old toll-booth worker on the Mass Pike, talks to Johnny Diamond outside the Boston Fleet Center about a Hardcore title shot and his feud with FrAsCo, and enters to Busta Rhymes' \"Dangerous\" promising that every man in the pay-per-view battle royal will be \"DaNGeROusLY DeStRoyED\". In June 2000 J.B. Destiny names him as the man the SWA was to be built around and as Shane Martin's trainer.",
+  "caption": "An XBWL brawler in a red Hummer, chasing the Hardcore title and FrAsCo in December 1998.",
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1998-12-12",
+    "last_seen": "1998-12-12",
+    "source": "/promotions/rspwf/archive/free-agent-dangerous-dave-taylor-here-s-a-sample-rp-1998-12-12.html (a free-agent sample of an XBWL card, posted 12 December 1998)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dave-taylor-rspwf",
+     "dave-taylor-new-generation-attitude-2019"
+    ],
+    "note": "Recorded distinct, pending a verdict: dave-taylor-rspwf is a bare-name Mid-Year Top 200 1999 placing with no federation tag, and the 2019 wing's Dave Taylor is a different fed; nothing but the name joins them to this XBWL wrestler (a name alone is not presumed). If a poll tag or card names the XBWL beside the RSPWF placing, the first is a presumed-same candidate."
+   }
+  ]
+ },
+ {
+  "id": "wildman-destruction-rspwf",
+  "type": "character",
+  "name": "Wildman",
+  "aka": [
+   "Wildman of Destruction"
+  ],
+  "notes": "Known from one post to rec.sport.pro-wrestling.fantasy (27 October 1999), served at /promotions/rspwf/archive/a-roleplay-to-critique-from-destruction-xbwl-1999-10-27.html: the little Puerto Rican luchadorish half of Destruction with a stringy black ponytail and an injured knee",
+  "caption": "The small luchador half of the tag team Destruction, October 1999.",
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-10-27",
+    "last_seen": "1999-10-27",
+    "source": "/promotions/rspwf/archive/a-roleplay-to-critique-from-destruction-xbwl-1999-10-27.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "prince-prodigy-xbwl-rspwf",
+  "type": "character",
+  "name": "Prince Prodigy",
+  "notes": "Known from 2 posts to rec.sport.pro-wrestling.fantasy (30 October 1999 and 3 November 1999), served at /promotions/rspwf/archive/rp-critique-looking-for-some-feedback-or-advice-1999-10-30.html and /promotions/rspwf/archive/prince-prodigy-roleplay-1999-11-03.html: a blond, stubbled XBWL rookie who returned to the league and demands a feud with Nick Stevenson",
+  "caption": "A rookie XBWL heel managed by Craven Morehead, October-November 1999.",
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1999-10-30",
+    "last_seen": "1999-11-03",
+    "source": "/promotions/rspwf/archive/rp-critique-looking-for-some-feedback-or-advice-1999-10-30.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "prince-prodigy-icw-2000-nov1999"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ },
+ {
+  "id": "craven-morehead-xbwl-rspwf",
+  "type": "character",
+  "name": "Craven Morehead",
+  "notes": "Known from 2 posts to rec.sport.pro-wrestling.fantasy (30 October 1999 and 3 November 1999), served at /promotions/rspwf/archive/rp-critique-looking-for-some-feedback-or-advice-1999-10-30.html and /promotions/rspwf/archive/prince-prodigy-roleplay-1999-11-03.html: a black-jogging-suit-wearing, sunglassed, ponytailed manager who calls himself the greatest manager the XBWL has had",
+  "caption": "The ponytailed manager of Prince Prodigy, October-November 1999.",
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1999-10-30",
+    "last_seen": "1999-11-03",
+    "source": "/promotions/rspwf/archive/rp-critique-looking-for-some-feedback-or-advice-1999-10-30.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-10-09",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 2,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "outlaw-rspwf",
+  "type": "character",
+  "name": "Outlaw",
+  "notes": "A placing in the RSPWF Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own year-end poll, verbatim — 2000: #69, with no federation named beside the entry. His roleplay of 3 June 1999, written for the XBWL, places him there as G.O.D.'s soldier of war.",
+  "caption": "Came in at #69 in the RSPWF Top 200 for 2000.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "josh-starwind-4ww",
+     "kyo-kushinaga-4ww",
+     "patrick-kidd",
+     "the-outlaw-wwa"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against josh-starwind-4ww, kyo-kushinaga-4ww, patrick-kidd, the-outlaw-wwa. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200, which gives a ring name and a federation tag and nothing else — no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "outlaw-awmc",
+     "outlaw-epw-exevent",
+     "outlaw-gawa-1999",
+     "outlaw-kawf",
+     "reggie-reign-outlaw-cswa"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "outlaw-awmc",
+     "outlaw-epw-exevent",
+     "outlaw-gawa-1999",
+     "outlaw-kawf",
+     "outlaw-uscw-2003-rspwf",
+     "reggie-reign-outlaw-cswa",
+     "outlaw-nls-rspwf"
+    ],
+    "note": "Recorded distinct, not merged: the name matches these held entities, but the page this record rests on (read whole) gives no receipt that ties it to any of them (a different fed, date or description). Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ],
+  "aka": [
+   "Soldier of War"
+  ],
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-06-03",
+    "last_seen": "1999-06-03",
+    "source": "/promotions/rspwf/archive/outlaw-returns-to-aol-rping-feedback-1999-06-03.html (the roleplay its preface says was written for the XBWL; in it he answers the XBWL's Beast and speaks for G.O.D., holders of the XBWL's main title)"
+   }
+  ]
+ },
+ {
+  "id": "belgian-sensation-rspwf",
+  "type": "character",
+  "name": "Belgian Sensation",
+  "caption": "Ranked #39 in the RSPWF Mid-Year Top 200 for 1999.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "notes": "A placing in the RSPWF Mid-Year Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own ranking poll, verbatim — Mid-Year Top 200 1999: #39, with no federation named beside the entry. His XBWL roleplay of 22 July 1999 places him in the XBWL as one half of International Army 2.",
+  "aka": [
+   "IA2"
+  ],
+  "tenures": [
+   {
+    "promotion": "xbwl",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "1999-07-22",
+    "last_seen": "1999-07-22",
+    "source": "/promotions/rspwf/archive/critique-roleplay-xbwl-ia2-home-1999-07-22.html (his own XBWL roleplay; its preface calls the XBWL \"a long time home\" to his tag team International Army 2)"
+   }
+  ]
+ }
+]

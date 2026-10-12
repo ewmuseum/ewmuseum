@@ -1,0 +1,664 @@
+[
+ {
+  "id": "greg-smith-acwf",
+  "type": "character",
+  "name": "\"Iceman\" Greg Smith",
+  "caption": "The ACWF's own World Heavyweight Champion from December 1996, who attacked both men in his first defense and later lost the title amid an on-air blame feud with a UWF wrestler.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1997-09-03",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "randy-sheridan-acwf",
+  "type": "character",
+  "name": "\"Dreamer\" Randy Sheridan",
+  "caption": "A challenger for the ACWF World Heavyweight Title on the fed's own second broadcast, having come up short in a three-way tag title match on its first.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1997-01-05",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   },
+   {
+    "promotion": "cwaa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "source": "Tournament final, 16 Mar 1997 (P7w98Iha9AkJ); Six Man Tag Team title win, 23 Aug 1997 (Supershow).",
+    "grade": "primary-source"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "aka": [
+   "\"The Dreamer\" Randy Sheridan",
+   "Randy Sheradin"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "sheri"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against sheri. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200, which gives a ring name and a federation tag and nothing else — no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ]
+ },
+ {
+  "id": "jeff-lacroix-acwf",
+  "type": "character",
+  "name": "Jeff LaCroix",
+  "caption": "Randy Sheridan's partner in a three-way match for the ACWF's own vacant World Tag Team Titles, won by Deadly Intentions.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "hans-acwf",
+  "type": "character",
+  "name": "Hans",
+  "caption": "One half of the High School Toughies, managed by Krissey, runners-up in the fed's own first Tag Team Title match.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "hans-wewf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "fronze-acwf",
+  "type": "character",
+  "name": "Fronze",
+  "caption": "One half of the High School Toughies, managed by Krissey, runners-up in the fed's own first Tag Team Title match.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "mitsuhara-yoshiaki-acwf",
+  "type": "character",
+  "name": "Mitsuhara Yoshiaki",
+  "caption": "Won by forfeit on the fed's own debut broadcast when his scheduled opponent never answered the call.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "david-graves-acwf",
+  "type": "character",
+  "name": "David Graves",
+  "caption": "\"The Modern Day Goliath,\" who debuted on the ACWF's own first held Prime Time broadcast with a win over Dwight Bolton.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "finisher": "Gravestone (top rope clothesline)",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "dwight-bolton-acwf",
+  "type": "character",
+  "name": "Dwight Bolton",
+  "caption": "David Graves's opponent in the ACWF's surviving debut broadcast.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "joey-valachi-acwf",
+  "type": "character",
+  "name": "\"Cardiac Kid\" Joey Valachi",
+  "caption": "The ACWF Canadian Champion, ranked #131 in the community's own 1996 RSPWF Top 200, who cut an in-character challenge to the roster from his own locker room.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1997-01-05",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   },
+   {
+    "promotion": "aewa",
+    "first_seen": "1997-02-23",
+    "last_seen": "1997-09-21",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "Kickoff '97 as the announced mystery challenger (msg_id 3c3BuZtnKhIJ), a defense into the CWAA against Marc Thomas (msg_id baRfHJJvmkUJ), and a challenge to Fuse on 21 September (msg_id zs9AfSi42sUJ)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "cardiac"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against cardiac. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Top 200, which gives a ring name and a federation tag and nothing else — no dates, no roster, no URL, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Every held-promotion roster the ranked names were checked against came back with zero overlap. Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ],
+  "aka": [
+   "Joey Valachi"
+  ]
+ },
+ {
+  "id": "ricky-reno-acwf",
+  "type": "character",
+  "name": "\"Slick\" Ricky Reno",
+  "caption": "A challenger who defended the ACWF Canadian Title picture against Joey Valachi.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "source": "cited, not served under this wing (a UWF broadcast, msg_id KD1SVuciDocJ)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "kyle-spartan-acwf",
+  "type": "character",
+  "name": "Kyle Spartan",
+  "caption": "A wrestler whose injury status was reported and cleared during the ACWF's own December 1996 broadcast.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "brent-slade-acwf",
+  "type": "character",
+  "name": "Brent Slade",
+  "caption": "A wrestler named on the ACWF's own debut broadcast card.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1997-01-05",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "ian-mantle-acwf",
+  "type": "character",
+  "name": "Ian Mantle",
+  "caption": "A wrestler billed on the ACWF's own debut broadcast who never answered the ten-count, forfeiting to Mitsuhara Yoshiaki.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "the-scholar-acwf",
+  "type": "character",
+  "name": "The Scholar",
+  "caption": "A wrestler billed against Brent Slade on the ACWF's own debut broadcast.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "joey-roy-acwf",
+  "type": "character",
+  "name": "Joey Roy",
+  "caption": "A wrestler managed by Chalmers Corp., billed against World Champion Greg Smith on the ACWF's own debut broadcast.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12-22",
+    "last_seen": "1996-12-22",
+    "source": "promotions/acwf-1997/archive/acwf-prime-time-1996-12-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "vortex-acwf",
+  "type": "character",
+  "name": "Vortex",
+  "caption": "A wrestler named among the ACWF's own returning roster in the surviving 1997 record.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "source": "cited, not served under this wing"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "reggie-martin-acwf",
+  "type": "character",
+  "name": "Reggie Martin",
+  "caption": "A wrestler who returned to the roster for a short, undefeated stint.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "last_seen": "1997",
+    "source": "cited, not served under this wing (a UWF broadcast, msg_id HpT1Z64BvrkJ)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "bobby-nash-acwf",
+  "type": "character",
+  "name": "Bobby Nash",
+  "caption": "One half of Deadly Intentions, the ACWF's own World Tag Team Champions from December 1996.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12",
+    "last_seen": "1997-01",
+    "source": "cited, not served under this wing"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "stevie-ramirez-acwf",
+  "type": "character",
+  "name": "Stevie Ramirez",
+  "caption": "One half of Deadly Intentions, the ACWF's own World Tag Team Champions from December 1996.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1996-12",
+    "last_seen": "1997-01",
+    "source": "cited, not served under this wing"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "rev-michael-samuelson-acwf",
+  "type": "character",
+  "name": "Rev. Micheal Samuelson",
+  "caption": "One half of Hellfire and Damnation, who beat Stevie Ramirez on the ACWF's own debut broadcast.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-05",
+    "last_seen": "1997-01-05",
+    "source": "cited, not served under this wing (a UWF broadcast, msg_id hkS-Dny1iXoJ)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "quincy-cameron-acwf",
+  "type": "character",
+  "name": "Quincy Cameron",
+  "caption": "One half of Hellfire and Damnation.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-05",
+    "last_seen": "1997-01-05",
+    "source": "cited, not served under this wing (a UWF broadcast, msg_id hkS-Dny1iXoJ)"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "james-thompson-acwf",
+  "type": "character",
+  "name": "James Thompson",
+  "caption": "One half of the New Sensations, ACWF World Tag Team Champions from July-August 1997.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-07",
+    "last_seen": "1997-08-23",
+    "source": "cited, not served under this wing"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "alex-peters-acwf",
+  "type": "character",
+  "name": "Alex Peters",
+  "caption": "One half of the New Sensations, ACWF World Tag Team Champions from July-August 1997.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-07",
+    "last_seen": "1997-08-23",
+    "source": "cited, not served under this wing"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "daniel-lawson-acwf",
+  "type": "character",
+  "name": "Lt. Daniel \"Lethal\" Lawson",
+  "caption": "Half of the pairing that won the ACWF World Tag Team Title on 23 August 1997 despite an admittedly illegal pinfall.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-08-23",
+    "last_seen": "1997-08-23",
+    "source": "cited, not served under this wing"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "mark-sherrick-acwf",
+  "type": "character",
+  "name": "Sgt. Mark Sherrick",
+  "caption": "Half of the pairing that won the ACWF World Tag Team Title on 23 August 1997 despite an admittedly illegal pinfall.",
+  "tenures": [
+   {
+    "promotion": "acwf-1997",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-08-23",
+    "last_seen": "1997-08-23",
+    "source": "cited, not served under this wing"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ }
+]

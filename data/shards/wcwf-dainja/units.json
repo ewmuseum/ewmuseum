@@ -1,0 +1,42 @@
+[
+  {
+    "id": "the-blues-brothers-wcwf-dainja",
+    "type": "unit",
+    "name": "the Blues Brothers",
+    "unit_kind": "tag-team",
+    "tenures": [
+      {
+        "promotion": "wcwf-dainja",
+        "first_seen": "1997",
+        "last_seen": "1997",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "role": "American Tag Team Champions, retaining at Kaged II",
+        "source": "promotions/wcwf-dainja/archive/wcwf-kaged-ii-8-31-97-pt-1-5-1997-09-02.html"
+      }
+    ],
+    "caption": "Retained the WCWF American Tag Team Championship in a Four-Way Dance at Kaged II against the Hart-Breakers, the Mega-Powers, and the Extreme Team.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "name": "Elwood"
+      },
+      {
+        "name": "Jake"
+      }
+    ]
+  }
+]

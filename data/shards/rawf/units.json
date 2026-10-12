@@ -1,0 +1,186 @@
+[
+  {
+    "caption": "RAWF's own tag team, pairing Nightstalker and Nighthawk.",
+    "caption_asof": {
+      "author": "ai",
+      "written": "2026-08-27"
+    },
+    "id": "stalker-and-hawk-rawf",
+    "members": [
+      {
+        "character_id": "nightstalker-rawf",
+        "name": "Nightstalker"
+      },
+      {
+        "character_id": "nighthawk-rawf",
+        "name": "Nighthawk"
+      }
+    ],
+    "name": "Stalker & Hawk",
+    "tenures": [
+      {
+        "promotion": "rawf"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team"
+  },
+  {
+    "caption": "RAWF's own Tag Team Champions, winning the belts from JYD Roman James and Mr. Showtime at Friday Fights on 14 July 2002.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    },
+    "id": "ice-cold-and-mandy-rawf",
+    "members": [
+      {
+        "character_id": "ice-cold-rawf",
+        "name": "Ice Cold"
+      },
+      {
+        "character_id": "mandy-rawf",
+        "name": "Mandy"
+      }
+    ],
+    "name": "Ice Cold & Mandy",
+    "tenures": [
+      {
+        "promotion": "rawf"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "amanda-osw"
+        ],
+        "note": "Normalized-substring aka collision flagged by the mint guard against another promotion's own original character; no shared evidence, the real-wrestler portrayal rule's no-auto-merge discipline applies."
+      }
+    ]
+  },
+  {
+    "caption": "RAWF's own Tag Team Champions across the fed's own summer 2002 broadcasts, aligned with the 1-8-7 stable.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    },
+    "id": "jyd-and-showtime-rawf",
+    "members": [
+      {
+        "character_id": "jyd-roman-james-rawf",
+        "name": "JYD Roman James"
+      },
+      {
+        "character_id": "mr-showtime-rawf",
+        "name": "Mr. Showtime"
+      }
+    ],
+    "name": "JYD Roman James & Mr. Showtime",
+    "tenures": [
+      {
+        "promotion": "rawf"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "mr-showtime-dw",
+          "showtime",
+          "showtime-wwa"
+        ],
+        "note": "Normalized-substring aka collision flagged by the mint guard against other promotions' own original characters; no shared evidence, the real-wrestler portrayal rule's no-auto-merge discipline applies."
+      }
+    ]
+  },
+  {
+    "caption": "A recurring RAWF heel stable, its membership shifting across the fed's own run, reformed by Victor Synn at Friday Fights on 24 May 2002.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    },
+    "id": "the-1-8-7-rawf",
+    "members": [
+      {
+        "character_id": "victor-synn-rawf",
+        "name": "Victor Synn"
+      },
+      {
+        "character_id": "jyd-roman-james-rawf",
+        "name": "JYD Roman James"
+      },
+      {
+        "character_id": "trever-leiss-rawf",
+        "name": "Trever Leiss"
+      },
+      {
+        "character_id": "crippler-rawf",
+        "name": "The Crippler"
+      },
+      {
+        "character_id": "untouchable-rawf",
+        "name": "Untouchable"
+      },
+      {
+        "character_id": "kon-artist-rawf",
+        "name": "Kon Artist"
+      },
+      {
+        "character_id": "brandy-sangria-rawf",
+        "name": "'The Divine' Brandy Sangria"
+      }
+    ],
+    "name": "1-8-7",
+    "tenures": [
+      {
+        "promotion": "rawf"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "stable"
+  },
+  {
+    "caption": "A recurring RAWF heel stable staged as the 1-8-7's own summer 2002 rival.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai"
+    },
+    "id": "state-of-emergency-rawf",
+    "members": [
+      {
+        "character_id": "captain-crush-rawf",
+        "name": "Captain Crush"
+      },
+      {
+        "character_id": "ice-cold-rawf",
+        "name": "Ice Cold"
+      },
+      {
+        "character_id": "mabus-rawf",
+        "name": "Mabus"
+      },
+      {
+        "character_id": "tommy-payne-rawf",
+        "name": "'The Real Deal' Tommy Payne"
+      },
+      {
+        "character_id": "infected-youth-rawf",
+        "name": "Infected Youth"
+      }
+    ],
+    "name": "State of Emergency",
+    "tenures": [
+      {
+        "promotion": "rawf"
+      }
+    ],
+    "type": "unit",
+    "unit_kind": "stable"
+  }
+]

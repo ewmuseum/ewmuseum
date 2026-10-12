@@ -1,0 +1,51 @@
+[
+ {
+  "id": "crack-rock-crowd-byw",
+  "type": "unit",
+  "unit_kind": "stable",
+  "name": "Crack Rock Crowd",
+  "caption": "A three-wrestler stable, managed by Krist Blue, billed against Craig Miles, Not Craig Miles and Mike Randalls in this wing's own advertised, never-completed six-man tag.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {"tenures": 1, "reigns": 0, "appearances": 1, "rps": 1, "awards": 0, "relationships": 0}
+  },
+  "members": [
+   {"name": "Midiot", "character_id": "midiot-byw"},
+   {"name": "Toxick", "character_id": "toxick-byw"},
+   {"name": "Felix Red", "character_id": "felix-red-byw"}
+  ],
+  "tenures": [
+   {
+    "promotion": "backyard-wrestling-2005",
+    "first_seen": "2005-04-22",
+    "last_seen": "2005-05-06",
+    "source": "This wing's own card announcement and its own six-man tag promo thread (24 April-6 May 2005)"
+   }
+  ]
+ },
+ {
+  "id": "vampire-hunters-byw",
+  "type": "unit",
+  "unit_kind": "tag-team",
+  "name": "Vampire Hunters",
+  "caption": "A returning tag team, billed by this wing's own card as reuniting for one night against Jonathan Marx and Pitt.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {"tenures": 1, "reigns": 0, "appearances": 1, "rps": 1, "awards": 0, "relationships": 0}
+  },
+  "members": [
+   {"name": "Michael Manson", "character_id": "michael-manson"},
+   {"name": "Alex Wylde", "character_id": "alex-wylde"}
+  ],
+  "tenures": [
+   {
+    "promotion": "backyard-wrestling-2005",
+    "first_seen": "2005-04-22",
+    "last_seen": "2005-05-03",
+    "source": "This wing's own card announcement, billing their match as a \"Return of the VAMPIRE HUNTERS,\" and its own tag-match promo thread (24 April-3 May 2005); the team name and its own \"return\" framing are not otherwise corroborated in the held New Frontier Wrestling wing's own corpus"
+   }
+  ]
+ }
+]

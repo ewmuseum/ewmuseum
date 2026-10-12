@@ -1,0 +1,470 @@
+[
+ {
+  "id": "wca-world-1-hudson",
+  "type": "reign",
+  "title": "wca-world-championship",
+  "holder": [
+   {
+    "id": "big-norma-hudson-wca"
+   }
+  ],
+  "won": {
+   "date": "1996-12-30",
+   "precision": "exact",
+   "source": "Carried in from 30 December 1996 per the fed's own title ledger; retained 6 January over Semiramis and 19 January at Stone Cold over Janet Strong by countout."
+  },
+  "lost": {
+   "date": "1997-02",
+   "precision": "circa",
+   "source": "Champion by Semiramis as of the 22 February Anniversary Bash; the change itself falls in a June-July collector gap and is not in the held record."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-world-2-semiramis",
+  "type": "reign",
+  "title": "wca-world-championship",
+  "holder": [
+   {
+    "id": "semiramis-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-01",
+   "precision": "circa",
+   "source": "Champion by the time of Big Norma Hudson's Stone Cold defense reads settled; confirmed champion by the 22 February Anniversary Bash."
+  },
+  "lost": {
+   "date": "1997-03",
+   "precision": "circa",
+   "source": "Champion by the Mistress of Death as of 20 March; the match is not in the held record."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-world-3-mistress",
+  "type": "reign",
+  "title": "wca-world-championship",
+  "holder": [
+   {
+    "id": "mistress-of-death-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-02",
+   "precision": "circa",
+   "source": "Champion by 20 March 1997 per the fed's own title ledger."
+  },
+  "lost": {
+   "date": "1997-04-10",
+   "precision": "exact",
+   "source": "Lost to Shelly Rage in a steel cage match, 36 seconds, 10 April 1997."
+  },
+  "note": "Later billed as Krista Stevens.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-world-4-rage",
+  "type": "reign",
+  "title": "wca-world-championship",
+  "holder": [
+   {
+    "id": "shelly-rage-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-04-10",
+   "precision": "exact",
+   "source": "Won from the Mistress of Death in a steel cage match in 36 seconds."
+  },
+  "lost": {
+   "date": "1997-05-31",
+   "precision": "exact",
+   "source": "Lost to Femme Fatale via the Perfect Plex, 31 May 1997."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-world-5-fatale",
+  "type": "reign",
+  "title": "wca-world-championship",
+  "holder": [
+   {
+    "id": "femme-fatale-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-05-31",
+   "precision": "exact",
+   "source": "Won from Shelly Rage via the Perfect Plex."
+  },
+  "lost": {
+   "date": "1997-07",
+   "precision": "circa",
+   "source": "Champion by Li'l Cheetah as of 12 July; the change itself falls in the same collector gap as the earlier Hudson-Semiramis change."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-world-6-cheetah",
+  "type": "reign",
+  "title": "wca-world-championship",
+  "holder": [
+   {
+    "id": "lil-cheetah-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-07",
+   "precision": "circa",
+   "source": "Confirmed champion (holding it alongside the Can-Am title) as of 12 July 1997."
+  },
+  "lost": {
+   "date": "1997-08",
+   "precision": "circa",
+   "source": "Champion by Bodacious Janet Muniz as of 13 August."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-world-7-muniz",
+  "type": "reign",
+  "title": "wca-world-championship",
+  "holder": [
+   {
+    "id": "bodacious-janet-muniz-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-08",
+   "precision": "circa",
+   "source": "Confirmed champion as of 13 August 1997 (the Crucible)."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No further title change is recorded; the held record's last document (22 December 1997) does not address the World Championship."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-canam-1-shedevil",
+  "type": "reign",
+  "title": "wca-can-am-championship",
+  "holder": [
+   {
+    "id": "she-devil-wca"
+   }
+  ],
+  "won": {
+   "date": "1996",
+   "precision": "circa",
+   "source": "Carried in from 1996."
+  },
+  "lost": {
+   "date": "1997-03",
+   "precision": "circa",
+   "source": "Lost to Lovely Liz Strohlheim by 15 March 1997."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-canam-2-strohlheim",
+  "type": "reign",
+  "title": "wca-can-am-championship",
+  "holder": [
+   {
+    "id": "lovely-liz-strohlheim-eswp-1996"
+   }
+  ],
+  "won": {
+   "date": "1997-03",
+   "precision": "circa",
+   "source": "Champion by 15 March 1997; retained 22 and 27 March."
+  },
+  "lost": {
+   "date": "1997-04",
+   "precision": "circa",
+   "source": "Champion by Femme Fatale as of early April."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-canam-3-fatale",
+  "type": "reign",
+  "title": "wca-can-am-championship",
+  "holder": [
+   {
+    "id": "femme-fatale-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-04",
+   "precision": "circa",
+   "source": "Champion by early April 1997."
+  },
+  "lost": {
+   "date": "1997-05",
+   "precision": "circa",
+   "source": "Contested between Angel Hunter and Janet Strong through May; the exact change is not in the held record."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-canam-4-cheetah",
+  "type": "reign",
+  "title": "wca-can-am-championship",
+  "holder": [
+   {
+    "id": "lil-cheetah-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-07",
+   "precision": "circa",
+   "source": "Held alongside the World Championship as of 12 July 1997."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No further change recorded in the held record."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tv-1-strong",
+  "type": "reign",
+  "title": "wca-television-championship",
+  "holder": [
+   {
+    "id": "janet-strong-wca"
+   }
+  ],
+  "won": {
+   "date": "1996",
+   "precision": "circa",
+   "source": "Carried in from 1996; retained 4 January over 'Dominatress' Kathy Lynn."
+  },
+  "lost": {
+   "date": "1997-01-18",
+   "precision": "circa",
+   "source": "Lost to Nadia Williams by 18 January 1997."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tv-2-williams",
+  "type": "reign",
+  "title": "wca-television-championship",
+  "holder": [
+   {
+    "id": "nadia-williams-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-01-18",
+   "precision": "circa",
+   "source": "Champion by 18 January 1997."
+  },
+  "lost": {
+   "date": "1997-01-19",
+   "precision": "exact",
+   "source": "Lost to 'Psycho' Vicki V at Stone Cold, 19 January 1997."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tv-3-vickiv",
+  "type": "reign",
+  "title": "wca-television-championship",
+  "holder": [
+   {
+    "id": "psycho-vicki-v-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-01-19",
+   "precision": "exact",
+   "source": "Won at Stone Cold, 19 January 1997."
+  },
+  "lost": {
+   "date": "1997-02-15",
+   "precision": "circa",
+   "source": "Lost to Double J in a Texas Death match by 15 February 1997."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tv-4-doublej",
+  "type": "reign",
+  "title": "wca-television-championship",
+  "holder": [
+   {
+    "id": "double-j-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-02-15",
+   "precision": "circa",
+   "source": "Won a Texas Death match over the Assassin by 15 February 1997."
+  },
+  "lost": {
+   "date": "1997-03",
+   "precision": "circa",
+   "source": "Champion by Freedom/Karen 'Bugs' Huffman as of March."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tv-5-freedom-huffman",
+  "type": "reign",
+  "title": "wca-television-championship",
+  "holder": [
+   {
+    "id": "freedom-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-03",
+   "precision": "circa",
+   "source": "Champion (with Karen 'Bugs' Huffman) as of March 1997."
+  },
+  "lost": {
+   "date": "1997-04",
+   "precision": "circa",
+   "source": "Vacated in April when the holder was contractually required to fight on the Quake II pay-per-view and dropped the belt rather than find a new champion."
+  },
+  "note": "Held jointly with karen-bugs-huffman-wca per the fed's own title report; the two-holder shape is the source's own, not an artifact.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tv-6-hudson",
+  "type": "reign",
+  "title": "wca-television-championship",
+  "holder": [
+   {
+    "id": "big-norma-hudson-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-05-22",
+   "precision": "exact",
+   "source": "Won the final of a four-round Television Title Tournament, 22 May 1997."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No further change recorded in the held record."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tag-1-hod",
+  "type": "reign",
+  "title": "wca-world-tag-team-championship",
+  "holder": [
+   {
+    "name": "hooked-on-destruction-wca",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "1996",
+   "precision": "circa",
+   "source": "Carried in from 1996; retained 2 and 9 January."
+  },
+  "lost": {
+   "date": "1997-02-22",
+   "precision": "exact",
+   "source": "Lost to the Magic Mountain Warriors at the Anniversary Bash, 22 February 1997."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tag-2-mmw",
+  "type": "reign",
+  "title": "wca-world-tag-team-championship",
+  "holder": [
+   {
+    "name": "magic-mountain-warriors-eswp-1996",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "1997-02-22",
+   "precision": "exact",
+   "source": "Won at the Anniversary Bash."
+  },
+  "lost": {
+   "date": "1997-03",
+   "precision": "circa",
+   "source": "Vacated in March when the champions no-showed a title defense."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tag-3-bh",
+  "type": "reign",
+  "title": "wca-world-tag-team-championship",
+  "holder": [
+   {
+    "name": "bounty-hunters-wca",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "1997-04-21",
+   "precision": "exact",
+   "source": "Won a four-team mini-tournament after the belts sat vacant."
+  },
+  "lost": {
+   "date": "1997-06",
+   "precision": "circa",
+   "source": "The title changed hands repeatedly across June-July (Freedom & Shannon Stevens, the Stevens sisters, Hardcore, Innocent Blood, the Dolls per the fed's own reports); the individual matches are not read in full."
+  },
+  "note": "The June-July churn is recorded as a gap: the holders are named by the fed's own reports but the exact order and dates of each change are not independently confirmed.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tt-1-cheetah",
+  "type": "reign",
+  "title": "wca-princess-trophy-and-tiara",
+  "holder": [
+   {
+    "id": "lil-cheetah-wca"
+   }
+  ],
+  "won": {
+   "date": "1996",
+   "precision": "circa",
+   "source": "Carried in from 1996; retained 21 January."
+  },
+  "lost": {
+   "date": "1997-02-22",
+   "precision": "exact",
+   "source": "Lost to Bodacious Janet Muniz at the Anniversary Bash in a Leather Strap/Detroit Street Fight/I-Quit match."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "wca-tt-2-muniz",
+  "type": "reign",
+  "title": "wca-princess-trophy-and-tiara",
+  "holder": [
+   {
+    "id": "bodacious-janet-muniz-wca"
+   }
+  ],
+  "won": {
+   "date": "1997-02-22",
+   "precision": "exact",
+   "source": "Won at the Anniversary Bash in a Leather Strap/Detroit Street Fight/I-Quit match."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No further change recorded in the held record."
+  },
+  "end_how": "lost-in-match"
+ }
+]

@@ -1,0 +1,1338 @@
+[
+ {
+  "id": "rsp-ringside-seat-2002-preshow-2002-03-10",
+  "type": "show",
+  "name": "RSP Sunday TV Pre-show",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-03-10",
+   "precision": "exact",
+   "source": "The broadcast's own subject line dates it 3/10/02, the Sunday before the founding FAQ's own weekly schedule."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-sunday-tv-preshow-2002-03-12.html",
+  "collection": "0148",
+  "venue": "Hec Ed Pavilion",
+  "city": "Seattle, Washington",
+  "notes": "A half-hour lead-in to the promotion's first broadcast, built around backstage comments and an archived clip from a closed promotion's own last show.",
+  "appearances": [
+   {
+    "who": "colin-blackwell-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "dylan-thompson-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "james-wallace-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "capacity": "interviewer",
+    "note": "Interviewed Motor City Madman backstage."
+   },
+   {
+    "who": "motor-city-madman-awp",
+    "kind": "angle",
+    "note": "Boasted about the upcoming battle royal while destroying a room of inflatable dolls named for the roster."
+   },
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "angle",
+    "note": "Shown, in an archived clip from the promotion's own last AWP show, demanding respect from Saul Akiva."
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Shown, in the same archived clip, beating Tommy Rowlands with a steel chair, then cut back live to dare Rowlands to fight him."
+   },
+   {
+    "who": "anderson-michaels-awp",
+    "kind": "angle",
+    "capacity": "ring-announcer",
+    "note": "Introduced at the segment's close to announce the battle royal."
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-first-fight-2002-03-10",
+  "type": "show",
+  "name": "RSP's First Fight",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-03-10",
+   "precision": "exact",
+   "source": "The broadcast's own subject line dates the linked pre-show 3/10/02."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-sunday-tv-first-fight-2002-03-12.html",
+  "collection": "0148",
+  "notes": "The promotion's first-ever match: an eight-man battle royal for a spot in the Western States Heritage Championship match, its winner also earning a bye past the round-robin the promotion held afterward.",
+  "appearances": [
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "match"
+   },
+   {
+    "who": "fabian-cruz-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "mark-hooks-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "the-big-chill-awp",
+    "kind": "match"
+   },
+   {
+    "who": "motor-city-madman-awp",
+    "kind": "match"
+   },
+   {
+    "who": "johnny-spades-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "anderson-michaels-awp",
+    "kind": "angle",
+    "capacity": "ring-announcer"
+   },
+   {
+    "who": "kendra-stone-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Shown at ringside talking with Fabian Cruz during the battle royal."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "tommy-rowlands-awp"
+     ],
+     [
+      "fabian-cruz-rsp-ringside-seat-2002"
+     ],
+     [
+      "mark-hooks-rsp-ringside-seat-2002"
+     ],
+     [
+      "damien-legacy-rsp-ringside-seat-2002"
+     ],
+     [
+      "saul-akiva-rsp-ringside-seat-2002"
+     ],
+     [
+      "the-big-chill-awp"
+     ],
+     [
+      "motor-city-madman-awp"
+     ],
+     [
+      "johnny-spades-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 2,
+    "stipulation": "Eight-man battle royal",
+    "note": "The winner earns a bye directly into the Western States Heritage Championship match.",
+    "eliminations": [
+     {
+      "who": "motor-city-madman-awp",
+      "by": [
+       "mark-hooks-rsp-ringside-seat-2002",
+       "the-big-chill-awp"
+      ],
+      "note": "Eliminated first after Hooks and Chill dropped down holding the ropes as he charged."
+     },
+     {
+      "who": "johnny-spades-rsp-ringside-seat-2002",
+      "by": "saul-akiva-rsp-ringside-seat-2002",
+      "note": "Eliminated together with Fabian Cruz after Akiva dumped both from behind."
+     },
+     {
+      "who": "fabian-cruz-rsp-ringside-seat-2002",
+      "by": "saul-akiva-rsp-ringside-seat-2002",
+      "note": "Eliminated together with Johnny Spades after Akiva dumped both from behind."
+     },
+     {
+      "who": "the-big-chill-awp",
+      "by": "damien-legacy-rsp-ringside-seat-2002",
+      "note": "Eliminated after Damien Legacy tossed him over the top rope."
+     },
+     {
+      "who": "damien-legacy-rsp-ringside-seat-2002",
+      "by": [
+       "mark-hooks-rsp-ringside-seat-2002",
+       "saul-akiva-rsp-ringside-seat-2002"
+      ],
+      "note": "Eliminated by a combined clothesline from Hooks and Akiva."
+     },
+     {
+      "who": "saul-akiva-rsp-ringside-seat-2002",
+      "by": "tommy-rowlands-awp",
+      "note": "Eliminated by a back body drop after his own piledriver attempt was reversed."
+     },
+     {
+      "who": "tommy-rowlands-awp",
+      "by": [
+       "saul-akiva-rsp-ringside-seat-2002",
+       "mark-hooks-rsp-ringside-seat-2002"
+      ],
+      "note": "Eliminated last after Akiva snapped his neck over the rope from outside and Hooks followed with a knee."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-sunday-tv-mar17-2002-03-17",
+  "type": "show",
+  "name": "RSP Sunday TV",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-03-17",
+   "precision": "exact",
+   "source": "The promotion's own prior update named this the date of its next card, matching the round-robin's own opening week."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-sunday-tv-mar23-pt1-2002-03-23.html",
+  "collection": "0148",
+  "notes": "The opening week of the promotion's own round-robin tournament, contested for a shot at the Western States Heritage Championship and the Television Championship.",
+  "appearances": [
+   {
+    "who": "johnny-spades-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "paul-tacks-barker-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "fabian-cruz-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "kendra-stone-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "motor-city-madman-awp",
+    "kind": "match"
+   },
+   {
+    "who": "the-big-chill-awp",
+    "kind": "match"
+   },
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "match"
+   },
+   {
+    "who": "anderson-michaels-awp",
+    "kind": "angle",
+    "capacity": "ring-announcer"
+   },
+   {
+    "who": "colin-blackwell-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "dylan-thompson-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "bryan-infinity-rsp-ringside-seat-2002",
+    "kind": "match",
+    "capacity": "referee",
+    "note": "Called for the bell to end the Spades/Barker match."
+   },
+   {
+    "who": "mark-hooks-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Cut a post-battle-royal promo announcing a vacation, then was booked for the following week against Matt Allen."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "johnny-spades-rsp-ringside-seat-2002"
+     ],
+     [
+      "paul-tacks-barker-rsp-ringside-seat-2002"
+     ]
+    ],
+    "result": "no-contest",
+    "stipulation": "Round-robin",
+    "note": "Referee Bryan Infinity called for the bell after both men brawled with a chair outside the ring."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "damien-legacy-rsp-ringside-seat-2002"
+     ],
+     [
+      "saul-akiva-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Round-robin",
+    "note": "Saul Akiva won with the Dazed and Confused."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "fabian-cruz-rsp-ringside-seat-2002",
+      "kendra-stone-rsp-ringside-seat-2002"
+     ],
+     [
+      "motor-city-madman-awp"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Round-robin",
+    "note": "Fabian Cruz won after Madman's face-first collision with a mirror Cruz brought to ringside."
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "the-big-chill-awp"
+     ],
+     [
+      "tommy-rowlands-awp"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Round-robin",
+    "note": "The Big Chill won after Tommy Rowlands, who attacked before the bell with a chair, was pinned following interference from Damien Legacy."
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-preshow-2002-04-04",
+  "type": "show",
+  "name": "The Pre-Show",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-04-04",
+   "precision": "exact",
+   "source": "The document's own posting date."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-preshow-apr4-2002-04-04.html",
+  "collection": "0148",
+  "notes": "Closed out the promotion's round-robin tournament and set the Western States Heritage Championship's field.",
+  "appearances": [
+   {
+    "who": "paul-tacks-barker-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "motor-city-madman-awp",
+    "kind": "match"
+   },
+   {
+    "who": "fabian-cruz-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "kendra-stone-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "johnny-spades-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "mark-hooks-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "steve-jensen-awp",
+    "kind": "match"
+   },
+   {
+    "who": "steve-greedy-swa-superior-2000",
+    "kind": "match"
+   },
+   {
+    "who": "tonya-sanders-awp",
+    "kind": "angle",
+    "capacity": "interviewer"
+   },
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Attacked Tommy Rowlands backstage with a fire extinguisher."
+   },
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "angle",
+    "note": "Attacked backstage by Damien Legacy."
+   },
+   {
+    "who": "matt-allen-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Ran in during the three-way, powerbombing Mark Hooks through a table."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "paul-tacks-barker-rsp-ringside-seat-2002"
+     ],
+     [
+      "motor-city-madman-awp"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Round-robin",
+    "note": "Motor City Madman won with a double-handed chokeslam."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "fabian-cruz-rsp-ringside-seat-2002",
+      "kendra-stone-rsp-ringside-seat-2002"
+     ],
+     [
+      "johnny-spades-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Round-robin",
+    "note": "Fabian Cruz won after Motor City Madman ran in and accidentally struck Spades with a baseball bat meant for Cruz."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "mark-hooks-rsp-ringside-seat-2002"
+     ],
+     [
+      "steve-jensen-awp"
+     ],
+     [
+      "steve-greedy-swa-superior-2000"
+     ]
+    ],
+    "winner_side": 2,
+    "stipulation": "The loser forfeits a spot in the Western States Heritage Championship match",
+    "note": "Steve Greedy won the fall after a run-in from Matt Allen let him plant Mark Hooks with a superkick and steal the pin."
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-sunday-tv-apr4-2002-04-04",
+  "type": "show",
+  "name": "RSP Sunday TV",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-04-04",
+   "precision": "exact",
+   "source": "The document's own posting date."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-sunday-tv-apr4-pt1-2002-04-04.html",
+  "collection": "0148",
+  "notes": "Settled the round-robin's tied Group B with an overtime period, ending the group's own standings level between its two remaining wrestlers.",
+  "appearances": [
+   {
+    "who": "the-big-chill-awp",
+    "kind": "match"
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "match"
+   },
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "anderson-michaels-awp",
+    "kind": "angle",
+    "capacity": "ring-announcer"
+   },
+   {
+    "who": "colin-blackwell-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "dylan-thompson-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Cut a solo promo before the broadcast, addressing Tommy Rowlands."
+   },
+   {
+    "who": "sean-christopher",
+    "kind": "angle",
+    "note": "Confronted two masked attackers in the ring, revealed as Eric Emerson and Derek Douglas, who put him through a table."
+   },
+   {
+    "who": "eric-emerson",
+    "kind": "match"
+   },
+   {
+    "who": "derek-douglas-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Interfered to save Eric Emerson from a submission hold, then helped put Sean Christopher through a table."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "the-big-chill-awp"
+     ],
+     [
+      "saul-akiva-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Round-robin",
+    "note": "Saul Akiva won."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "tommy-rowlands-awp"
+     ],
+     [
+      "damien-legacy-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Round-robin, ruled to an overtime period after time expired with the match tied",
+    "note": "Tommy Rowlands won an overtime period with a schoolboy roll-up after Damien Legacy's own Legacy Driver landed just after the extended time limit expired; the broadcast ends with the group's own standings tied between Akiva and Rowlands."
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-night-of-champions-2002-05-05",
+  "type": "show",
+  "name": "RSP TV: Night of Champions",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-05-05",
+   "precision": "exact",
+   "source": "The document's own posting date."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-night-of-champions-pt2-2002-05-05.html",
+  "collection": "0148",
+  "notes": "Crowned the promotion's first Television Champion and first Western States Heritage Champion, and introduced Vince Richardson and Sinister to its roster.",
+  "appearances": [
+   {
+    "who": "the-big-chill-awp",
+    "kind": "match"
+   },
+   {
+    "who": "johnny-spades-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "motor-city-madman-awp",
+    "kind": "match"
+   },
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "match"
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "steve-greedy-swa-superior-2000",
+    "kind": "match"
+   },
+   {
+    "who": "fabian-cruz-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "kendra-stone-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "anderson-michaels-awp",
+    "kind": "angle",
+    "capacity": "ring-announcer"
+   },
+   {
+    "who": "colin-blackwell-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "vince-richardson-awp",
+    "kind": "angle",
+    "capacity": "commentary",
+    "note": "Debuted as a color commentator, billed as a former AWMC and AWP broadcaster."
+   },
+   {
+    "who": "sinister-rspwf",
+    "kind": "match",
+    "capacity": "referee",
+    "note": "Debuted as the special guest referee for the Western States Heritage Championship match, then wrestled in it after Steve Greedy attacked him."
+   },
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Took Big Chill's Television Championship belt after a backstage brawl, then interfered in the main event."
+   },
+   {
+    "who": "dylan-thompson-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Introduced Vince Richardson to the broadcast team, then was displaced by him."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "the-big-chill-awp"
+     ],
+     [
+      "johnny-spades-rsp-ringside-seat-2002"
+     ],
+     [
+      "motor-city-madman-awp"
+     ],
+     [
+      "damien-legacy-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Four corners match for the Television Championship",
+    "note": "The Big Chill became the first Television Champion, pinning Motor City Madman after Damien Legacy left the match early and interfered from ringside."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "tommy-rowlands-awp"
+     ],
+     [
+      "saul-akiva-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Sudden death",
+    "note": "Saul Akiva won after interference from Steve Greedy and Fabian Cruz backfired on Tommy Rowlands."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "steve-greedy-swa-superior-2000"
+     ],
+     [
+      "saul-akiva-rsp-ringside-seat-2002"
+     ],
+     [
+      "fabian-cruz-rsp-ringside-seat-2002",
+      "kendra-stone-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Triple threat match for the vacant Western States Heritage Championship, with Sinister as special guest referee",
+    "note": "Saul Akiva became the first Western States Heritage Champion, pinning Fabian Cruz after Damien Legacy struck Cruz with a chair from ringside."
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-total-darkness-2002-05-06",
+  "type": "show",
+  "name": "RSP Total Darkness",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-05-06",
+   "precision": "exact",
+   "source": "The document's own posting date."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-total-darkness-2002-05-06.html",
+  "collection": "0148",
+  "notes": "A review show recapping Night of Champions and previewing the promotion's new weekly Breakdown broadcast.",
+  "appearances": [
+   {
+    "who": "fabian-cruz-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "bilyo-baggins-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "steve-greedy-swa-superior-2000",
+    "kind": "match"
+   },
+   {
+    "who": "tombraider-croft-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "judas-christian-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "jeff-edge-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "colin-blackwell-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "vince-richardson-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "tonya-sanders-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Shown celebrating the Western States Heritage Championship win."
+   },
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "angle",
+    "note": "Confronted Damien Legacy backstage, ending in a brawl."
+   },
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Attacked Tommy Rowlands from behind, continuing their brawl to the back."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "fabian-cruz-rsp-ringside-seat-2002"
+     ],
+     [
+      "bilyo-baggins-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Fabian Cruz won with the Cruz Missile spear."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "steve-greedy-swa-superior-2000"
+     ],
+     [
+      "tombraider-croft-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Steve Greedy won with a DDT after using a chair and a fan's soda can on Croft."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "judas-christian-rsp-ringside-seat-2002"
+     ],
+     [
+      "jeff-edge-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Judas Christian won with a corkscrew dive off the top rope."
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-preshow-2002-06-05",
+  "type": "show",
+  "name": "The Pre-Show",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-06-05",
+   "precision": "exact",
+   "source": "The document's own posting date."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-preshow-jun5-2002-06-05.html",
+  "collection": "0148",
+  "notes": "Introduced the tag team of Darby Sharpe and Justin Simmons, The Dime Notes, ahead of the promotion's own Breakdown broadcast.",
+  "appearances": [
+   {
+    "who": "joe-twink-jones-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "judas-christian-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "tonya-sanders-awp",
+    "kind": "angle",
+    "capacity": "interviewer"
+   },
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "angle",
+    "note": "Interviewed about his upcoming number-one contender's match against Damien Legacy."
+   },
+   {
+    "who": "darby-sharpe-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Introduced signing with the promotion, along with his tag partner Justin Simmons, in a vignette shot in Washington."
+   },
+   {
+    "who": "justin-simmons-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Introduced signing with the promotion, along with his tag partner Darby Sharpe."
+   },
+   {
+    "who": "dime-notes-osw-online",
+    "kind": "angle",
+    "note": "Introduced as new signees, billed the reigning OSW tag team champions."
+   },
+   {
+    "who": "the-big-chill-awp",
+    "kind": "angle",
+    "note": "Cut a promo as reigning Television Champion, calling out Sinister."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "joe-twink-jones-rsp-ringside-seat-2002"
+     ],
+     [
+      "judas-christian-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Joe \"Twink\" Jones won with a surprise inside cradle."
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-breakdown-2002-06-05",
+  "type": "show",
+  "name": "RSP Breakdown",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-06-05",
+   "precision": "exact",
+   "source": "The document's own posting date; the broadcast's own title marks it as the promotion's first Breakdown."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-breakdown-jun5-pt1-2002-06-05.html",
+  "collection": "0148",
+  "notes": "The debut of the promotion's weekly Breakdown broadcast; Sean Christopher is shown siding with Fabian Cruz and Steve Greedy after they jointly attacked champion Saul Akiva.",
+  "appearances": [
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "match"
+   },
+   {
+    "who": "eric-emerson",
+    "kind": "match"
+   },
+   {
+    "who": "sinister-rspwf",
+    "kind": "match"
+   },
+   {
+    "who": "colin-blackwell-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "vince-richardson-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Attacked at ringside by Steve Greedy and Fabian Cruz while cutting a champion's promo, then beaten down further at Sean Christopher's own signal."
+   },
+   {
+    "who": "steve-greedy-swa-superior-2000",
+    "kind": "angle",
+    "note": "Joined Fabian Cruz in attacking Saul Akiva, then named the promotion's own Cruiserweight Champion by Sean Christopher without a match."
+   },
+   {
+    "who": "fabian-cruz-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Joined Steve Greedy in attacking Saul Akiva."
+   },
+   {
+    "who": "sean-christopher",
+    "kind": "angle",
+    "capacity": "authority",
+    "note": "Sided with Cruz and Greedy against Akiva, named Steve Greedy the first Cruiserweight Champion, then revealed as an ally of Eric Emerson and Derek Douglas by turning in the main event."
+   },
+   {
+    "who": "derek-douglas-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Cut a promo alongside Eric Emerson threatening Sinister, then interfered in the main event."
+   },
+   {
+    "who": "tonya-sanders-awp",
+    "kind": "angle",
+    "capacity": "interviewer"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "damien-legacy-rsp-ringside-seat-2002"
+     ],
+     [
+      "tommy-rowlands-awp"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Number-one contender's match for the Television Championship",
+    "note": "Damien Legacy won after Fabian Cruz struck Tommy Rowlands with a chair."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "eric-emerson"
+     ],
+     [
+      "sinister-rspwf"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "Special challenge match, refereed by Sean Christopher",
+    "note": "Eric Emerson won after Sean Christopher, officiating, allowed Derek Douglas to interfere with a chair."
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-breakdown-2002-08-24",
+  "type": "show",
+  "name": "RSP Breakdown",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-08-24",
+   "precision": "exact",
+   "source": "The document's own posting date."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-breakdown-aug24-pt1-2002-08-24.html",
+  "collection": "0148",
+  "notes": "Introduced Chris Page, Tommy Danger and the alliance of Damien Legacy with The Greatest Team Alive and Rolex, calling itself the Trinity.",
+  "appearances": [
+   {
+    "who": "chris-page-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "dime-notes-osw-online",
+    "kind": "match"
+   },
+   {
+    "who": "darby-sharpe-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "justin-simmons-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "tyler-christian-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "joe-twink-jones-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "the-big-chill-awp",
+    "kind": "match"
+   },
+   {
+    "who": "sinister-rspwf",
+    "kind": "match"
+   },
+   {
+    "who": "vance-randhal-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "eric-emerson",
+    "kind": "match"
+   },
+   {
+    "who": "the-totally-rad-connection-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "bobby-michaels-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "tommy-roberts-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "the-greatest-team-alive-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "dax-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "maddox-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "colin-blackwell-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "vince-richardson-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "sean-christopher",
+    "kind": "angle",
+    "capacity": "authority",
+    "note": "Ordered his own masked henchmen to smash Sinister's SUV, then directed their attack on Sinister and Big Chill during the gauntlet."
+   },
+   {
+    "who": "mr-greene-awp",
+    "kind": "angle",
+    "capacity": "manager",
+    "note": "Managed Sinister to the ring for the gauntlet match."
+   },
+   {
+    "who": "tommy-danger-iga-2003",
+    "kind": "angle",
+    "note": "Debuted, billed by way of the IGA, and was introduced as the special guest referee for the promotion's own Dangerous Games pay-per-view."
+   },
+   {
+    "who": "vance-randhal-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Appealed to a hostile Eric Emerson before being run off by Sean Christopher, then entered the gauntlet."
+   },
+   {
+    "who": "chris-page-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Attacked The Greatest Team Alive and Rolex with a chair before their tag match, avenging his own loss to Damien Legacy."
+   },
+   {
+    "who": "rolex-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Accompanied Damien Legacy as his bodyguard, interfering in his match against Chris Page."
+   },
+   {
+    "who": "damien-legacy-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Announced an alliance with The Greatest Team Alive and Rolex, calling it the Trinity, after also attacking Damien Legacy's own rival backstage."
+   },
+   {
+    "who": "dax-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Announced the Trinity alliance alongside Damien Legacy and Maddox."
+   },
+   {
+    "who": "maddox-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Announced the Trinity alliance alongside Damien Legacy and Dax."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "chris-page-rsp-ringside-seat-2002"
+     ],
+     [
+      "damien-legacy-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "Damien Legacy won a shooting star press after interference from The Greatest Team Alive and Rolex."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "dime-notes-osw-online",
+      "darby-sharpe-rsp-ringside-seat-2002",
+      "justin-simmons-rsp-ringside-seat-2002"
+     ],
+     [
+      "tyler-christian-rsp-ringside-seat-2002",
+      "joe-twink-jones-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "RSP Tag Team Championship",
+    "note": "\"God's Gift\" Tyler Christian and Joe \"Twink\" Jones became the first Tag Team Champions after The Greatest Team Alive beat down the Dime Notes before the bell and Tyler pinned Justin Simmons; Jones threw the title down in disgust at the decision."
+   },
+   {
+    "order": 3,
+    "sides": [
+     [
+      "the-big-chill-awp"
+     ],
+     [
+      "sinister-rspwf"
+     ],
+     [
+      "vance-randhal-rsp-ringside-seat-2002"
+     ],
+     [
+      "saul-akiva-rsp-ringside-seat-2002"
+     ],
+     [
+      "eric-emerson"
+     ]
+    ],
+    "winner_side": 1,
+    "stipulation": "Gauntlet match under rumble rules",
+    "note": "Sinister won after Saul Akiva eliminated himself with Sinister still in the ring.",
+    "eliminations": [
+     {
+      "who": "vance-randhal-rsp-ringside-seat-2002",
+      "by": "saul-akiva-rsp-ringside-seat-2002",
+      "note": "Eliminated with a clothesline as Chill and Sinister were about to throw him out themselves."
+     },
+     {
+      "who": "eric-emerson",
+      "note": "Dragged to the back by Derek Douglas mid-match; not seen eliminated on-page."
+     },
+     {
+      "who": "the-big-chill-awp",
+      "by": "saul-akiva-rsp-ringside-seat-2002",
+      "note": "Eliminated after Akiva held the ropes down for him to run into."
+     }
+    ]
+   },
+   {
+    "order": 4,
+    "sides": [
+     [
+      "the-totally-rad-connection-rsp-ringside-seat-2002",
+      "bobby-michaels-rsp-ringside-seat-2002",
+      "tommy-roberts-rsp-ringside-seat-2002"
+     ],
+     [
+      "the-greatest-team-alive-rsp-ringside-seat-2002",
+      "dax-rsp-ringside-seat-2002",
+      "maddox-rsp-ringside-seat-2002"
+     ]
+    ],
+    "note": "Ruled a countout win for the Totally Rad Connection after Dax and Maddox, already beaten down before the bell by Chris Page, fled the ring rather than answer the referee's ten count.",
+    "winner_side": 0
+   }
+  ]
+ },
+ {
+  "id": "rsp-ringside-seat-2002-dangerous-games-2002",
+  "type": "show",
+  "name": "Dangerous Games",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "collected": false,
+  "evidence": [
+   {
+    "source": "newsgroup",
+    "note": "The promotion's own next broadcast recaps this pay-per-view at length: Fabian Cruz won the Western States Heritage Championship from Saul Akiva; Damien Legacy, with The Trinity, took the Television Championship from The Big Chill; Tommy Rowlands attacked The Big Chill with a knife; Sean Christopher was hospitalized after a match against Sinister; a tag team match among the Totally Rad Connection, Tyler Christian and Joe Jones, and The Greatest Team Alive ended in a decision confusing enough that the promotion's own vice president held the Tag Team Championship up."
+   }
+  ],
+  "notes": "Named once, in advance, as the promotion's first pay-per-view; no card or results were themselves posted to the newsgroup. Its outcomes are known only from the next broadcast's own recap."
+ },
+ {
+  "id": "rsp-ringside-seat-2002-total-darkness-2002-09-03",
+  "type": "show",
+  "name": "Total Darkness",
+  "promotion": "rsp-ringside-seat-2002",
+  "date": {
+   "date": "2002-09-03",
+   "precision": "exact",
+   "source": "The document's own posting date."
+  },
+  "page": "/promotions/rsp-ringside-seat-2002/archive/rsp-total-darkness-sep3-pt1-2002-09-03.html",
+  "collection": "0148",
+  "notes": "Recapped the promotion's Dangerous Games pay-per-view and the formation of the Reign of Terror stable.",
+  "appearances": [
+   {
+    "who": "chris-page-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "teddy-bearkowski-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "ashlyn-summers-awp",
+    "kind": "match"
+   },
+   {
+    "who": "trinity-mcphearson-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "sarah-mayson-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "sierra-browne-rsp-ringside-seat-2002",
+    "kind": "match"
+   },
+   {
+    "who": "tonya-sanders-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "rumor-mills-awp",
+    "kind": "angle",
+    "capacity": "commentary"
+   },
+   {
+    "who": "sean-christopher",
+    "kind": "angle",
+    "note": "Shown hospitalized after Dangerous Games, ordering his vice president Desire to end Sinister's career."
+   },
+   {
+    "who": "desire-awp",
+    "kind": "angle",
+    "capacity": "authority",
+    "note": "Visited the hospitalized Sean Christopher and had him sign unspecified papers."
+   },
+   {
+    "who": "the-big-chill-awp",
+    "kind": "angle",
+    "note": "Appeared with Sinister and Mr. Greene as the Reign of Terror, addressing the Sean Christopher/X,Y,Z attack and challenging Damien Legacy over the Television Championship."
+   },
+   {
+    "who": "sinister-rspwf",
+    "kind": "angle",
+    "note": "Appeared with Big Chill and Mr. Greene as the Reign of Terror, and challenged Saul Akiva to a match."
+   },
+   {
+    "who": "mr-greene-awp",
+    "kind": "angle",
+    "capacity": "manager",
+    "note": "Introduced the Reign of Terror and handed the microphone to Big Chill and Sinister."
+   },
+   {
+    "who": "terrence-godly-awp",
+    "kind": "angle",
+    "note": "Attacked before a scheduled match by Tommy Rowlands, who broke his finger."
+   },
+   {
+    "who": "tommy-rowlands-awp",
+    "kind": "angle",
+    "note": "Shown, in a graphic clip, breaking Terrance Godly's finger, then interviewed in prison about stabbing The Big Chill at the pay-per-view."
+   },
+   {
+    "who": "saul-akiva-rsp-ringside-seat-2002",
+    "kind": "angle",
+    "note": "Revealed as the man Tommy Rowlands was speaking to by phone in prison, then cut a solo promo as a former champion."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "chris-page-rsp-ringside-seat-2002"
+     ],
+     [
+      "teddy-bearkowski-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Chris Page won after Damien Legacy's interference on Teddy Bearkowski's behalf backfired."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "ashlyn-summers-awp",
+      "trinity-mcphearson-rsp-ringside-seat-2002"
+     ],
+     [
+      "sarah-mayson-rsp-ringside-seat-2002",
+      "sierra-browne-rsp-ringside-seat-2002"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Ashlyn Summers and Trinity McPhearson won when Trinity pinned Sierra Browne with a top-rope blockbuster."
+   }
+  ]
+ }
+]

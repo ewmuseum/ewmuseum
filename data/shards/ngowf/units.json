@@ -1,0 +1,121 @@
+[
+ {
+  "id": "damage-control-ngowf",
+  "type": "unit",
+  "name": "Damage Control",
+  "members": [
+   "bru-dawg-ngowf",
+   "prime-ngowf"
+  ],
+  "caption": "First NGOWF World Tag Team Champions, awarded the title by forfeit after Little & Large's Mikey Dobson was jumped backstage.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ngowf"
+   }
+  ]
+ },
+ {
+  "id": "little-and-large-ngowf",
+  "type": "unit",
+  "name": "Little & Large",
+  "members": [
+   "mikey-dobson-ngowf",
+   "saint-bruno-ngowf"
+  ],
+  "caption": "World Tag Team Title tournament finalists; the final itself never happened after Mikey Dobson was jumped backstage, and the title was awarded to Damage Control by forfeit.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ngowf"
+   }
+  ]
+ },
+ {
+  "id": "southern-heartbreakers-ngowf",
+  "type": "unit",
+  "name": "The Southern Heartbreakers",
+  "members": [
+   "thomas-broderick-ngowf",
+   "billy-burmeister-ngowf"
+  ],
+  "caption": "World Tag Team Title tournament finalists, and (with Bradley Fine) losers of a six-man elimination tag match to The Axis Powers.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ngowf"
+   }
+  ]
+ },
+ {
+  "id": "axis-powers-ngowf",
+  "type": "unit",
+  "name": "The Axis Powers",
+  "membership_unknown": false,
+  "caption": "Damian Mazura, Francois Lefebvre and NGOWF Television Champion Lucien Champion -- winners of a six-man elimination tag match over the Southern Heartbreakers and Bradley Fine; the third member (Lucien Champion) is minted separately as a Television Title holder.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ngowf"
+   }
+  ],
+  "members": [
+   {
+    "character_id": "damian-mazura-ngowf",
+    "name": "\"The Devil\" Damian Mazura"
+   },
+   {
+    "character_id": "francois-lefebvre-ngowf",
+    "name": "Francois Lefebvre"
+   },
+   {
+    "character_id": "lucien-champion-ngowf",
+    "name": "Lucien Champion"
+   }
+  ]
+ }
+]

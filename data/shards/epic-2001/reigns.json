@@ -1,0 +1,110 @@
+[
+ {
+  "id": "epic-2001-world-heavyweight-r001",
+  "title": "epic-2001-world-heavyweight",
+  "label": "Seth Anson",
+  "holder": [
+   {
+    "id": "seth-anson-pwc-wrestleonline-2003"
+   }
+  ],
+  "won": {
+   "date": "2001-12-03",
+   "precision": "exact",
+   "source": "/promotions/epic-2001/archive/epic-2001-title-history.html: \"Seth Anson / Won Tournament / December 3, 2001\""
+  },
+  "days": 83,
+  "lost": {
+   "date": "2002-02-24",
+   "precision": "exact"
+  },
+  "how": "Won the tournament for the title vacated on 12 November 2001.",
+  "note": "The Ground Zero of 10 December 2001 has him defend it with Enforcer against Ben Archer and High Flyer, and books him against Archer in a street fight for Epic Warfare.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "epic-2001-world-heavyweight-r002",
+  "title": "epic-2001-world-heavyweight",
+  "label": "Ben Archer",
+  "holder": [
+   {
+    "id": "ben-archer-epic-2001"
+   }
+  ],
+  "won": {
+   "date": "2002-02-24",
+   "precision": "exact",
+   "source": "/promotions/epic-2001/archive/epic-2001-title-history.html: \"Ben Archer / Seth Anson / February 24, 2002 / Vengeful Hearts\""
+  },
+  "days": null,
+  "lost": null,
+  "how": "Beat Seth Anson at Vengeful Hearts.",
+  "note": "The champions page of 1 March 2002 lists him World Heavyweight Champion.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "id": "epic-2001-north-american-r001",
+  "title": "epic-2001-north-american",
+  "label": "Jason Winters",
+  "holder": [
+   {
+    "id": "jason-winters"
+   }
+  ],
+  "won": {
+   "date": "2001-11-26",
+   "precision": "exact",
+   "source": "/promotions/epic-2001/archive/epic-2001-title-history.html: \"Jason Winters / The H.I.T. / November 26, 2001\"; his own card (/promotions/epic-2001/archive/epic-2001-jason-winters-biography.html): \"Ground Zero - November 26, 2001\""
+  },
+  "days": 27,
+  "lost": {
+   "date": "2001-12-23",
+   "precision": "exact"
+  },
+  "how": "Beat The H.I.T. for the vacant title on Ground Zero.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "epic-2001-north-american-r002",
+  "title": "epic-2001-north-american",
+  "label": "The H.I.T.",
+  "holder": [
+   {
+    "id": "the-hit"
+   }
+  ],
+  "won": {
+   "date": "2001-12-23",
+   "precision": "exact",
+   "source": "/promotions/epic-2001/archive/epic-2001-title-history.html: \"The H.I.T. / Jason Winters / Decemember 23, 2001 / Epic Warfare VI\"; his own card (/promotions/epic-2001/archive/epic-2001-hardcore-isosceles-trapezoid-biography.html): \"Ground Zero - Decemember 23, 2001 (Reigning Champion)\""
+  },
+  "days": 63,
+  "lost": {
+   "date": "2002-02-24",
+   "precision": "exact"
+  },
+  "how": "Beat Jason Winters at Epic Warfare VI in a Poisoned Pyramid Deathmatch, the stipulation he chose on the Ground Zero of 10 December 2001.",
+  "note": "The title history names the event Epic Warfare VI and his card names it Ground Zero; the match and its stipulation are set on the Ground Zero of 10 December 2001 (/promotions/epic-2001/archive/epic-2001-ground-zero-2001-12-10.html), in A Rash Decision, credited to Sean Williams, and his own PCW biography says he won the title in a Poisoned Pyramid Deathmatch. The Ground Zero of 4 February 2002 bills him the current reigning champion (/promotions/epic-2001/archive/epic-2001-ground-zero-2002-02-04.html).",
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "epic-2001-north-american-r003",
+  "title": "epic-2001-north-american",
+  "label": "Sam Potright",
+  "holder": [
+   {
+    "id": "sam-potright"
+   }
+  ],
+  "won": {
+   "date": "2002-02-24",
+   "precision": "exact",
+   "source": "/promotions/epic-2001/archive/epic-2001-title-history.html: \"Sam Potright / The H.I.T. / February 24, 2001 / Vengeful Hearts\""
+  },
+  "days": null,
+  "lost": null,
+  "how": "Beat The H.I.T. at Vengeful Hearts.",
+  "note": "The title history prints the year 2001; Vengeful Hearts fell on 24 February 2002 by the federation's own 2002 event list. The champions page of 1 March 2002 lists him North American Champion.",
+  "end_how": "still-champion-at-record-end"
+ }
+]

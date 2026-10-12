@@ -1,0 +1,401 @@
+[
+  {
+    "id": "graduates-lcw",
+    "type": "unit",
+    "name": "Graduates",
+    "tenures": [
+      {
+        "promotion": "lcw",
+        "first_seen": "2001",
+        "last_seen": "2001",
+        "role": "tag team — World Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "promotions/lcw/archive/lcw-tempest-card-2001-08-09.html",
+        "note": "Billed defending the World Tag Team Championship against Legion on the Thursday Tempest card of 9 August 2001; the results page was never captured."
+      },
+      {
+        "promotion": "lcw-mercury",
+        "first_seen": "2001",
+        "last_seen": "2002",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)"
+      }
+    ],
+    "unit_kind": "tag-team",
+    "caption": "Held the LCW World Tag Team Championship into a defense against Legion on the Thursday Tempest card of 9 August 2001.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "aka": [
+      "The Graduates"
+    ],
+    "members": [
+      {
+        "name": "Jerry Cane",
+        "character_id": "jerry-cane-lcw-mercury"
+      },
+      {
+        "name": "Scott Tibor",
+        "character_id": "scott-tibor-lcw-mercury"
+      }
+    ]
+  },
+  {
+    "id": "legion-lcw",
+    "type": "unit",
+    "name": "Legion",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "lcw",
+        "first_seen": "2001",
+        "last_seen": "2001",
+        "role": "tag team — challenged for the World Tag Team Championship",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "promotions/lcw/archive/lcw-tempest-card-2001-08-09.html",
+        "note": "Billed challenging Graduates for the World Tag Team Championship on the Thursday Tempest card of 9 August 2001. Aaron Antioch's Late Night Lethal interview separately recalls a storyline in which Legion kidnapped Destiny."
+      },
+      {
+        "promotion": "lcw-mercury",
+        "first_seen": "2001",
+        "last_seen": "2001",
+        "role": "tag team — Mercury Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)",
+        "note": "Myrddin and Barabbas's own Mercury pairing, Mercury Tag Team Champions in the promotion's own first month before losing the belts to Sloan and Matt Godsey."
+      },
+      {
+        "promotion": "lcw-ltd",
+        "first_seen": "2001",
+        "last_seen": "2001",
+        "role": "tag team — LTD New Blood Rising tournament",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "promotions/lcw-ltd/archive/ltd-show-archives.html",
+        "note": "Myrddin and Barabbas's own LTD pairing, reaching the New Blood Rising tournament's own semifinal round (17 November 2001) before Bob Yobbo Jr. beat Myrddin in the final."
+      }
+    ],
+    "unit_kind": "tag-team",
+    "caption": "Challenged for the LCW World Tag Team Championship on the Thursday Tempest card of 9 August 2001, ran a kidnapping angle against Destiny recalled the same year on Late Night Lethal, and reached both LTD's own New Blood Rising semifinal and Mercury's own tag title reign under the same two names.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 3,
+        "reigns": 0,
+        "appearances": 2,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "legion-nfw",
+          "legion-wwa",
+          "legion-napw"
+        ],
+        "note": "Shares the generic stable name Legion with units in three unrelated federations; a shared generic stable/team name across unrelated feds is never a merge on its own."
+      }
+    ]
+  },
+  {
+    "id": "the-trents-lcw",
+    "type": "unit",
+    "name": "The Trents",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "lcw",
+        "first_seen": "2001",
+        "last_seen": "2001",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "promotions/lcw/archive/lcw-tempest-card-2001-08-09.html",
+        "note": "Billed against Frank Heimdal and Dean Wallace on the Thursday Tempest card of 9 August 2001; a fan's own dream-card thread a year later lists \"the Trent Brothers\" as a unit awaiting a match."
+      },
+      {
+        "promotion": "lcw-mercury",
+        "first_seen": "2001",
+        "last_seen": "2002",
+        "role": "tag team — Mercury Tag Team Champions",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "the federation's own served show documents and roleplay board (promotions/lcw-mercury/)",
+        "note": "Josh and Mikel Trent's own Mercury pairing, Mercury Tag Team Champions twice over before both brothers joined Oblivion in the spring of 2002."
+      }
+    ],
+    "unit_kind": "tag-team",
+    "caption": "Opposed Frank Heimdal and Dean Wallace in a tag match on the Thursday Tempest card of 9 August 2001.",
+    "caption_asof": {
+      "written": "2026-09-05",
+      "author": "ai",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-birds-lcw",
+    "type": "unit",
+    "name": "The Birds",
+    "members": [
+      {
+        "name": "Jason Bird"
+      },
+      {
+        "name": "Clyde Bird"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "lcw",
+        "first_seen": "2001",
+        "last_seen": "2001",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "promotions/lcw/archive/lcw-tempest-card-2001-08-09.html; promotions/lcw/archive/lcw-black-talk-2001-12.html",
+        "note": "Billed against Carlos Rodriguez and Bob Yobbo Junior on the Thursday Tempest card of 9 August 2001; a Black Talk commercial the same December names its members outright, \"Jason and Clyde Bird beating each other up... over a bag of Doritos\"."
+      }
+    ],
+    "unit_kind": "tag-team",
+    "caption": "A brother tag team, Jason and Clyde Bird, who opposed Carlos Rodriguez and Bob Yobbo Junior in August 2001 and turned up fighting each other over a bag of Doritos in a Black Talk commercial that December.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "birds-of-prey-wwa"
+        ],
+        "note": "Shares the word Birds with an unrelated WWA unit billed \"Birds of Prey\"; no document names both, and the two units share no members."
+      }
+    ]
+  },
+  {
+    "id": "pawn-shop-lcw",
+    "type": "unit",
+    "name": "Pawn Shop",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "lcw",
+        "first_seen": "2001",
+        "last_seen": "2002",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "promotions/lcw/archive/lcw-superstars-index-2001.html; promotions/lcw/archive/lcw-roleplay-tips.html",
+        "note": "Named on the Superstars menu page's own list of LCW stables; the Roleplay Tips document (January 2002) recalls one of its members' vignettes, a video-store argument over the ending of \"Fight Club\", as one of the fed's most memorable; a fan's own dream-card thread later proposes a Pawn Shop-themed match, \"sans chessmaster\"."
+      }
+    ],
+    "unit_kind": "stable",
+    "caption": "One of LCW's own stables, remembered a year on for a vignette in which two of its members argued over the ending of \"Fight Club\" in a video store.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "total-and-supreme-carnage-lcw",
+    "type": "unit",
+    "name": "Total and Supreme Carnage",
+    "membership_unknown": true,
+    "tenures": [
+      {
+        "promotion": "lcw",
+        "first_seen": "2001",
+        "last_seen": "2001",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "promotions/lcw/archive/lcw-superstars-index-2001.html; promotions/lcw/archive/lcw-shows-index-2001-09.html",
+        "note": "Named on the Superstars menu page's own list of LCW stables; a Friday Fury show title of 23 February 2001, \"TSC — Total and Supreme Champions?\", almost certainly refers to the same stable's own initials."
+      }
+    ],
+    "unit_kind": "stable",
+    "caption": "One of LCW's own stables, referred to by its initials on a Friday Fury show title of February 2001.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "carnage",
+          "carnage-fob",
+          "carnage-icw-pweboard",
+          "carnage-pwf"
+        ],
+        "note": "Shares the word Carnage with unrelated entities in three other federations; no document names any of them together, and a shared generic word inside a longer stable name is never a merge on its own."
+      }
+    ]
+  },
+  {
+    "id": "divine-intervention-lcw",
+    "type": "unit",
+    "name": "Divine Intervention",
+    "members": [
+      {
+        "name": "Aaron Antioch",
+        "character_id": "aaron-antioch-lcw"
+      },
+      {
+        "name": "Angel",
+        "character_id": "michael-gabrielle-lcw-evo"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "lcw",
+        "first_seen": "2000",
+        "last_seen": "2001",
+        "role": "tag team",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "promotions/lcw/archive/lcw-late-night-lethal-2001-05-21.html",
+        "note": "Billed on Late Night Lethal as the \"former tag team\" of the Apostle Aaron Antioch and his cousin, billed there as Angel — the same character later billed in LCW Evo as \"Angel of Death\" Michael Gabrielle. The team split when Angel took time off to marry Danielle."
+      }
+    ],
+    "unit_kind": "tag-team",
+    "caption": "A religious-gimmick cousins' tag team — the Apostle Aaron Antioch and Angel — that split when Angel took time off to marry.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  },
+  {
+    "id": "the-asylum-lcw",
+    "type": "unit",
+    "name": "The Asylum",
+    "members": [
+      {
+        "name": "The Doctor",
+        "character_id": "doctor-david-chambers-lcw-evo"
+      },
+      {
+        "name": "Bear the Bear",
+        "character_id": "bear-the-bear-lcw"
+      },
+      {
+        "name": "Aaron Antioch",
+        "character_id": "aaron-antioch-lcw"
+      },
+      {
+        "name": "Angel",
+        "character_id": "michael-gabrielle-lcw-evo"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "lcw",
+        "first_seen": "2001",
+        "last_seen": "2001",
+        "role": "stable",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "source": "promotions/lcw/archive/lcw-late-night-lethal-2001-05-21.html",
+        "note": "Introduced on Late Night Lethal as \"The Asylum: Lost, The Doctor, and Bear the Bear!\", formed around a hospital-room meeting between Doctor David Chambers and the newly-renamed Aaron Antioch; Angel joined under a new name of his own (billed there only as \"Lunacy\" going forward) once the kidnapping of owner David Beaumont put the stable in charge of the promotion."
+      }
+    ],
+    "unit_kind": "stable",
+    "caption": "A stable built around Doctor David Chambers and a stuffed bear that formed after a hospital-room meeting, gained the newly-renamed Aaron Antioch and Angel, and ended up running the promotion once its members kidnapped the owner.",
+    "caption_asof": {
+      "written": "2026-08-29",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    }
+  }
+]

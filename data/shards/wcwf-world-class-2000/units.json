@@ -1,0 +1,385 @@
+[
+ {
+  "id": "atomic-brothers-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "The Atomic Brothers",
+  "unit_kind": "tag-team",
+  "caption": "Atom and Nuke's own long-running tag team, defeated by True Evil in a Texas Tornado tag match at Total Anarchy 2001 after Atom turned on his own brother earlier the same year.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Atom",
+    "character_id": "atom-wcwf-world-class-2000"
+   },
+   {
+    "name": "Nuke",
+    "character_id": "nuke-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-01-06",
+    "last_seen": "2001-03-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own broadcasts across Saturday Storm, British Brawl and Total Anarchy 2001"
+   }
+  ]
+ },
+ {
+  "id": "true-evil-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "True Evil",
+  "unit_kind": "tag-team",
+  "caption": "Salaok and Quartz's own tag team, briefly the WCWF Tag Team Champions of the World until Shawn and Derek Frost take the belts at British Brawl; billed once as True Fear on Wednesday Evening Confessions.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Salaok",
+    "character_id": "salaok-wcwf-world-class-2000"
+   },
+   {
+    "name": "Quartz",
+    "character_id": "quartz-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-02-11",
+    "last_seen": "2001-03-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own broadcasts across Wednesday Evening Confessions (billed there as True Fear), British Brawl and Total Anarchy 2001"
+   },
+   {
+    "promotion": "gw",
+    "first_seen": "2003-03-31",
+    "last_seen": "2007-11-10",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "tag team",
+    "source": "the fed's own Evolution of 31 March 2003, served at /promotions/gw/archive/evolution-results-2003-03-31.html; the fed's own front page of 7 April 2003, served at /promotions/gw/archive/front-page-2003-04-07.html; Global Wrestling's own backstage database (accession 0159): the fed's own appearance record",
+    "grade": "primary-source"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Wrestling's biography card (accession 0159), bio 10418, is this record: the split credits Salaok and Quartz as True Evil (2114 u14)."
+   }
+  ],
+  "aka": [
+   "True Fear"
+  ]
+ },
+ {
+  "id": "cold-steel-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "Cold Steel",
+  "unit_kind": "tag-team",
+  "caption": "Bobby McCann's tag pairing with Dante Reid, who lost the reinstated United States Tag Team Championship to YB2K1 at Total Anarchy 2001.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Bobby McCann",
+    "character_id": "bobby-mccann-wcwf-world-class-2000"
+   },
+   {
+    "name": "Dante Reid",
+    "character_id": "dante-reid-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-01-31",
+    "last_seen": "2001-03-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own Meltdown and Total Anarchy 2001 broadcasts"
+   }
+  ]
+ },
+ {
+  "id": "knights-of-anarchy-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "Knights of Anarchy",
+  "unit_kind": "stable",
+  "caption": "Raymond Chandler's own faction of knights, its ranks thinning across the promotion's own held run as The Judge and Nathaniel Duke each turned to join the Corporation.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Raymond Chandler",
+    "character_id": "raymond-chandler-wcwf-world-class-2000"
+   },
+   {
+    "name": "Bobby McCann",
+    "character_id": "bobby-mccann-wcwf-world-class-2000"
+   },
+   {
+    "name": "The Judge",
+    "character_id": "the-judge-wcwf-world-class-2000"
+   },
+   {
+    "name": "Jackson Therapy",
+    "character_id": "jackson-therapy-wcwf-world-class-2000"
+   },
+   {
+    "name": "Greg Davies",
+    "character_id": "greg-davies-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-01-06",
+    "last_seen": "2001-03-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own broadcasts across all five of the held 2001 cards"
+   }
+  ]
+ },
+ {
+  "id": "the-corporation-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "The Corporation",
+  "unit_kind": "stable",
+  "caption": "Dick Hart's own faction of turned former Knights, whose team lost a stable-stakes six-man tag match at Total Anarchy 2001.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Dick Hart",
+    "character_id": "dick-hart-wcwf-world-class-2000"
+   },
+   {
+    "name": "Nathaniel Duke",
+    "character_id": "nathaniel-duke-wcwf-world-class-2000"
+   },
+   {
+    "name": "The Judge",
+    "character_id": "the-judge-wcwf-world-class-2000"
+   },
+   {
+    "name": "Jesse Helms",
+    "character_id": "jesse-helms-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-02-11",
+    "last_seen": "2001-03-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own Wednesday Evening Confessions, British Brawl and Total Anarchy 2001 broadcasts"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-corporation-xwf"
+    ],
+    "note": "Shares its name with an existing unit record in an unrelated held wing; kept distinct under the generic-name doctrine (no shared operator, host or roster evidenced)."
+   }
+  ]
+ },
+ {
+  "id": "yb2k1-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "YB2K1",
+  "unit_kind": "tag-team",
+  "caption": "Derek Frost and Shawn's own tag team, winning both the World Tag Team Championship at British Brawl and the reinstated United States Tag Team Championship at Total Anarchy 2001.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Derek Frost",
+    "character_id": "derek-frost-wcwf-world-class-2000"
+   },
+   {
+    "name": "Shawn",
+    "character_id": "shawn-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-03-08",
+    "last_seen": "2001-03-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own British Brawl and Total Anarchy 2001 broadcasts"
+   }
+  ]
+ },
+ {
+  "id": "lsd-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "LSD",
+  "unit_kind": "tag-team",
+  "caption": "Stan and Floyd's own tag team, winning a Total Anarchy 2001 tag match over the Funk Soul Brothers and earning a future World Tag Team title shot.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Stan",
+    "character_id": "stan-lsd-wcwf-world-class-2000"
+   },
+   {
+    "name": "Floyd",
+    "character_id": "floyd-lsd-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-03-31",
+    "last_seen": "2001-03-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own Total Anarchy 2001 broadcast (31 Mar 2001)"
+   }
+  ]
+ },
+ {
+  "id": "funk-soul-brothers-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "The Funk Soul Brothers",
+  "unit_kind": "tag-team",
+  "caption": "Leo and Lamar's own tag team, billed the Gemini Twins, on the losing end of a Total Anarchy 2001 tag match against LSD.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Leo",
+    "character_id": "leo-fsb-wcwf-world-class-2000"
+   },
+   {
+    "name": "Lamar",
+    "character_id": "lamar-fsb-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-03-31",
+    "last_seen": "2001-03-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own Total Anarchy 2001 broadcast (31 Mar 2001)"
+   }
+  ]
+ },
+ {
+  "id": "the-outlaws-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "The Outlaws",
+  "unit_kind": "tag-team",
+  "caption": "Thomas James and Cody Briggs's own tag team, winning a British Brawl number-one-contenders match by disqualification after Atom turned on his own partner Nuke.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Thomas James",
+    "character_id": "thomas-james-wcwf-world-class-2000"
+   },
+   {
+    "name": "Cody Briggs",
+    "character_id": "cody-briggs-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-01-31",
+    "last_seen": "2001-03-08",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own Meltdown and British Brawl broadcasts"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-outlaws-uwf-mar96",
+     "the-outlaws-rspwf"
+    ],
+    "note": "Shares its name with 2 existing unit records in unrelated held wings; kept distinct under the generic-name doctrine (no shared operator, host or roster evidenced)."
+   }
+  ]
+ },
+ {
+  "id": "final-destination-wcwf-world-class-2000",
+  "type": "unit",
+  "name": "Final Destination",
+  "unit_kind": "tag-team",
+  "caption": "Eyval and the Unibomber's own tag pairing, defeated by an ad hoc team of Raziel Lucifer and Jason Myers at Total Anarchy 2001.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai"
+  },
+  "members": [
+   {
+    "name": "Eyval",
+    "character_id": "eyval-wcwf-world-class-2000"
+   },
+   {
+    "name": "Unibomber",
+    "character_id": "unibomber-wcwf-world-class-2000"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "wcwf-world-class-2000",
+    "first_seen": "2001-03-31",
+    "last_seen": "2001-03-31",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the promotion's own Total Anarchy 2001 broadcast (31 Mar 2001)"
+   }
+  ]
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "id": "damage-inc-spring-classic-2002",
+  "type": "unit",
+  "name": "Damage Inc.",
+  "aka": [
+   "Damage Inc"
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "An established tag team booked as the third side of a three-way elimination dream tag match on a card called off before it was held.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "spring-classic-2002",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2002-06-02",
+    "last_seen": "2002-06-02",
+    "source": "Billed for the second night on the event's own lineup of 2 June 2002; the event was called off before it was held.",
+    "grade": "billing"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "damage-inc-fwa-pbm-1989",
+     "damage-iewa",
+     "damage-inc-iwf1296",
+     "damage-incorporated-agw",
+     "damage-incorporated-icw-tacoma-1995",
+     "damage-incorporated-wwo"
+    ],
+    "note": "Shares its billed name with wrestlers held in other promotions; no roster, operator or document ties this supercard billing to any of them."
+   }
+  ]
+ }
+]

@@ -1,0 +1,631 @@
+[
+  {
+    "id": "cade-johnson-nticw",
+    "type": "character",
+    "name": "Cade Johnson",
+    "caption": "NTICW's founding president, hospitalized in critical condition in December 2002 and eased out of ownership by a buyout two months later.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "The fed's own December 2002 rumours page billed him President and reported him hospitalized in critical condition under circumstances the page leaves a mystery, adding that Vice-President Chris Harmon was awaiting trial for attempted vehicular manslaughter against him. The February 2003 news page reports a large sum of money \"offered and laid down on the table in recent weeks\" to Johnson before an unnamed buyer purchased the federation and installed Kyle Crossett as CEO; Johnson does not appear again after this.",
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2002-12",
+        "last_seen": "2003-02-09",
+        "role": "authority-figure — President, later reported to have sold the federation",
+        "roles": [
+          "authority-figure"
+        ],
+        "source": "promotions/nticw/archive/rumours-2002-12.html; promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "chris-harmon-nticw",
+    "type": "character",
+    "name": "Chris Harmon",
+    "caption": "NTICW's vice-president, billed awaiting trial for attempted vehicular manslaughter against the president he was accused of putting in the hospital.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "chris-harmon-ngw"
+        ],
+        "note": "A bare-name collision, surfaced by the standing mint guard, against an authority-figure minted for NGW's own AW/NTW-branded storyline, same 2002 era. No held document on either side names the other fed, or claims a shared performer/character. Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2002-12",
+        "last_seen": "2002-12",
+        "role": "authority-figure — Vice-President; billed awaiting trial for attempted vehicular manslaughter against President Cade Johnson, expected to be removed from his position on Johnson's return to work",
+        "roles": [
+          "authority-figure"
+        ],
+        "source": "promotions/nticw/archive/rumours-2002-12.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "peter-degennaro-nticw",
+    "type": "character",
+    "name": "Peter Degennaro",
+    "caption": "Wrestled a tag match on NTICW's debut Mayhem while running its operations, then vanished without explanation.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2002-12",
+        "last_seen": "2002-12",
+        "role": "authority-figure and wrestler — billed both \"CEO of Operations\" and, one paragraph later on the same page, \"Vice President of Operations\"; the fed's own rumours page reports he wrestled a tag match on the debut Mayhem and then disappeared, not heard from since",
+        "roles": [
+          "authority-figure",
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/rumours-2002-12.html",
+        "grade": "primary-source",
+        "note": "The rumours page's own account of his Mayhem tag match and disappearance is a retrospective claim on an uncollected show, not a card billing — kept here as a tenure note rather than structured onto shows.json's own collected: false Mayhem row, per the gossip-sheet discipline governing a rumours document."
+      }
+    ]
+  },
+  {
+    "id": "kyle-crossett-nticw",
+    "type": "character",
+    "name": "Kyle Crossett",
+    "caption": "Installed as NTICW's CEO by an unnamed buyer in February 2003, and fronted the fed's own relaunch signings.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "Billed a former staffer of \"the legendary indy fed NrCw\" (unaccessioned — see the museum's own frontier), where the news page says he crossed paths with new signee Kris Korbyn: \"These two men have had confrontations previously in their careers, but have also been known to be on a very trusting level.\" Quoted at length on the fed's own news page denying a reporter's suggestion that NTICW was cursed: \"NTICW is anything but cursed... Cursed?! You have to be [censored] kidding me!\"",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "kyle-cross"
+        ],
+        "note": "A decorated-name collision against an unrelated existing \"Kyle Cross\" row, surfaced by the mint guard. No held document on either side connects the two. Filed distinct under the collision doctrine, not merged."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-09",
+        "last_seen": "2003-02-19",
+        "role": "authority-figure — CEO, installed by an unnamed new owner after Cade Johnson's ouster; does not hold ownership himself",
+        "roles": [
+          "authority-figure"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "hedges-nticw",
+    "type": "character",
+    "name": "Hedges",
+    "caption": "Billed the \"all knowing - supreme being,\" a returning veteran and former member of a group called Resurrection signed in NTICW's February 2003 relaunch.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "Resurrection's own promotion, roster and dates are not named anywhere in the corpus — recorded as a former affiliation only, not minted as a unit. Rumored by the fed's own news page to be very close to CEO Crossett, for reasons the page itself says are left unknown.",
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-19",
+        "last_seen": "2003-02-19",
+        "role": "wrestler — billed the \"all knowing - supreme being\"; described as a long-time veteran returning from a long vacation and a former member of a group called Resurrection",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      },
+      {
+        "promotion": "evo-2002",
+        "first_seen": "2003-03-30",
+        "last_seen": "2003-08-20",
+        "source": "eVo's own database (lot 0159), bio 11955",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "note": "Dated from the fed's own record of the cards it appears on (22 shows, every kind of appearance counted). Joined to this record on the card's own evidence: NTICW's own news of 19 February 2003 ('Hedges signed... The all knowing - supreme being') matches this record's caption, and eVo's text puts him in the NTICW group: 3488 of 27 April 2003 ('two men who were recently competing on NTICW Immortals', Hedges against Xero); the card's Other Feds (EWF, NRCW, RDWF, ACW, OWL) and his line in 3484 ('I have been waiting to face that little punk in the ring again since NrCw') agree. Two fed documents cross-narrate.",
+        "hometown": "St. Louis",
+        "height": "6'6",
+        "weight": "305 lbs",
+        "style": "All-Rounder",
+        "finisher": "suicide mission",
+        "entrance_music": {
+          "verbatim": "Walk by pantera"
+        }
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "merged",
+        "grade": "primary-source",
+        "with": [],
+        "note": "The fed's biography card (accession 0159), bio 11955, is this record: NTICW's own news of 19 February 2003 ('Hedges signed ... The all knowing - supreme being') matches this record's caption, and eVo's text puts him in the NTICW group: 3488 of 27 April 2003 ('two men who were recently competing on NTICW Immortals', Hedges against Xero); the card's Other Feds (EWF, NRCW, RDWF, ACW, OWL) and his line in 3484 ('I have been waiting to face that little punk in the ring again since NrCw') agree. Two fed documents cross-narrate."
+      }
+    ]
+  },
+  {
+    "id": "blitz-nticw",
+    "type": "character",
+    "name": "Blitz",
+    "aka": [
+      "the Hardcore Raver"
+    ],
+    "caption": "The \"Hardcore Raver,\" NTICW's own newest signing, who missed a contract meeting after oversleeping and stars in the fed's own Chapter One relaunch story.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 1,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "Chapter One stages him with a blue-star tattoo on his right hand, tribal tattoos winding down his chest and arms, and boxers printed with his own name; he boasts of being \"to be\" something called '420 Savior,' a self-proclaimed status rather than a billed title.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "blitzkrieg-wicew",
+          "blitzwing",
+          "inphino-blitz",
+          "hardcore"
+        ],
+        "note": "\"Blitz\"/\"Hardcore\" are stock decorated names the mint guard flags against four unrelated existing rows across other wings, none dated, rostered, or otherwise connected to NTICW. Filed distinct under the collision doctrine, not individually adjudicated."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-16",
+        "last_seen": "2003-02-19",
+        "role": "wrestler — billed \"the Hardcore Raver\"; signed to NTICW's February 2003 roster and staged missing his own contract meeting in the fed's Chapter One story",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html; promotions/nticw/archive/chapter-one-2003-02-19.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "kris-korbyn-nticw",
+    "type": "character",
+    "name": "Kris Korbyn",
+    "aka": [
+      "Rampage"
+    ],
+    "caption": "A veteran signed in February 2003 known as Rampage, previously a multiple-time champion in the unheld NrCw.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "rampage-newf",
+          "rampage-pwf",
+          "rampage-rspwf"
+        ],
+        "note": "The \"Rampage\" aka collides with three previously-minted, mutually-distinct entities of the same ring name in unrelated wings. None of their own held tenures name NrCw, NTICW, or Kris Korbyn; the existing rampage-newf/rampage-pwf pair are themselves already filed distinct from each other. Filed distinct pending evidence, per the collision doctrine — when in doubt we do not merge."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-16",
+        "last_seen": "2003-02-16",
+        "role": "wrestler — billed a long-time veteran and multiple-time champion of \"the legendary indy fed NrCw\"; the news page frames a shared, ambivalent history with new CEO Crossett",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "kid-extremo-nticw",
+    "type": "character",
+    "name": "Kid Extremo",
+    "caption": "A cruiserweight signed to NTICW in February 2003, billed as having \"more moves\" than the rest of the roster.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-16",
+        "last_seen": "2003-02-16",
+        "role": "wrestler — cruiserweight, billed with a size disadvantage but hard to catch",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "chris-bones-nticw",
+    "type": "character",
+    "name": "Chris Bones",
+    "aka": [
+      "the fallen angel"
+    ],
+    "caption": "\"The fallen angel,\" a former member of a group called Resurrection who returned to wrestling by signing with NTICW in February 2003.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "Billed \"the machine himself\" as well as \"the fallen angel\"; Resurrection's own promotion, roster and dates are not named anywhere in the corpus, recorded as a former affiliation only, not minted as a unit.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "bones-lcw-ltd",
+          "chris-manager-ewa",
+          "christopher-chaos-pwf",
+          "angel-aicw",
+          "angel-nfw",
+          "angel-rspwf",
+          "angel-uwf",
+          "fallen-angel-pwa-pioneer",
+          "fallen-angel-rick-stevens-rspwf",
+          "fallen-angel-rspwf",
+          "fallen-xcwf",
+          "johnny-shines-sewf",
+          "mystique-wwa",
+          "the-fallen-angel-jacob-azrael-rspwf",
+          "the-fallen-nfw",
+          "the-fallen-uwf"
+        ],
+        "note": "\"Chris\"/\"Bones\"/\"the fallen angel\"/\"Angel\"/\"Fallen\" are stock decorated names the mint guard flags against fifteen unrelated existing rows across other wings, none dated, rostered, or otherwise connected to NTICW. Filed distinct under the collision doctrine, not individually adjudicated."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-16",
+        "last_seen": "2003-02-16",
+        "role": "wrestler — billed the outcast of a group called Resurrection, returning to the sport after time away",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "jason-oddysee-nticw",
+    "type": "character",
+    "name": "Jason Oddysee",
+    "caption": "A \"fan favorite\" heavyweight who signed with NTICW in February 2003 hoping its \"troubled past\" was finally behind it.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-16",
+        "last_seen": "2003-02-16",
+        "role": "wrestler — billed a fan favorite and an \"overly skilled\" heavyweight",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "stevie-delore-nticw",
+    "type": "character",
+    "name": "Stevie DeLore",
+    "aka": [
+      "The Rotton"
+    ],
+    "caption": "\"The Rotton,\" a middleweight signed to NTICW on Valentine's Day 2003, in part for CEO Crossett's own admiration of the band Tool.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "stevie-gmwe"
+        ],
+        "note": "A first-name-only collision against GMWE's own unrelated \"Stevie,\" surfaced by the mint guard. No held document on either side connects the two. Filed distinct under the collision doctrine, not merged."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-14",
+        "last_seen": "2003-02-14",
+        "role": "wrestler — middleweight; the fed's own news page bills CEO Crossett's admiration for the band Tool as part of the signing's own appeal",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "grimey-nticw",
+    "type": "character",
+    "name": "Grimey",
+    "caption": "Signed to NTICW in February 2003 with a hygiene-based comedy gimmick, introduced digging through the promotion's own trash cans.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "Quoted by the fed's own news page outside its headquarters, digging through trash cans: \"My garbage damnit!\"",
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-11",
+        "last_seen": "2003-02-11",
+        "role": "wrestler — billed with poor hygiene and a \"back alley drunk\" wardrobe",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      }
+    ]
+  },
+  {
+    "id": "xero-nticw",
+    "type": "character",
+    "name": "Xero",
+    "caption": "One of NTICW's first two February 2003 signings, billed as defining \"hardcore, extreme entertainment.\"",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "xero-bcw-2008",
+          "xero-ewa-extreme",
+          "xero-faw"
+        ],
+        "note": "A stock-name collision against three previously-minted, unrelated Xero rows. xero-faw is the closest in place and era — FAW is itself named on the museum's own frontier as NTICW-adjacent (a FAW board poster self-identified as a former NTICW World Champion, VP and President) — but FAW's own Xero tenure predates NTICW's own December 2002 founding by well over a year (August 2001) and no held document connects the two performers. Filed distinct pending evidence, per the collision doctrine."
+      },
+      {
+        "assertion": "merged",
+        "grade": "primary-source",
+        "with": [],
+        "note": "The fed's biography card (accession 0159), bio 12000, is this record: NTICW's own news of February 2003 names 'an athlete that goes by the name of Xero ... this man defines the meaning of hardcore, extreme entertainment' as a first signing, and eVo's write-up 3486 of 16 April 2003 has 'Indeed it was Xero of NTICW making his first appearance'; the card's finisher 'The nothing', nickname 'Hardcore God' and Seattle hometown fit, and 3490 calls him 'another NTICW wrestler'. Two fed documents cross-narrate."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-10",
+        "last_seen": "2003-02-10",
+        "role": "wrestler — billed as defining hardcore, extreme entertainment; loved by fans since the early start of his career",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      },
+      {
+        "promotion": "evo-2002",
+        "first_seen": "2003-04-16",
+        "last_seen": "2003-06-01",
+        "source": "eVo's own database (lot 0159), bio 12000",
+        "grade": "primary-source",
+        "roles": [
+          "wrestler"
+        ],
+        "note": "Dated from the fed's own record of the cards it appears on (7 shows, every kind of appearance counted). Joined to this record on the card's own evidence: NTICW's own news of February 2003 names 'an athlete that goes by the name of Xero... this man defines the meaning of hardcore, extreme entertainment' as a first signing, and eVo's write-up 3486 of 16 April 2003 has 'Indeed it was Xero of NTICW making his first appearance'; the card's finisher 'The nothing', nickname 'Hardcore God' and Seattle hometown fit, and 3490 calls him 'another NTICW wrestler'. Two fed documents cross-narrate.",
+        "hometown": "Seattle Washington",
+        "height": "6'2",
+        "weight": "280 lbs",
+        "style": "Hardcore, Powerhouse",
+        "finisher": "The nothing",
+        "entrance_music": {
+          "verbatim": "'Back Up' By 12 Stones",
+          "title": "Back Up",
+          "artist": "12 Stones"
+        }
+      }
+    ]
+  },
+  {
+    "id": "troy-trinity-nticw",
+    "type": "character",
+    "name": "Troy Trinity",
+    "aka": [
+      "Soul of Ansai",
+      "the white dragon"
+    ],
+    "caption": "The \"Soul of Ansai,\" a Thai kickboxer signed to NTICW in February 2003 after brief debuts in LIFE and Owl.",
+    "caption_asof": {
+      "written": "2026-08-31",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "notes": "Billed making \"brief debuts\" in two other feds, LIFE and Owl, before signing with NTICW; LIFE is not otherwise attested in the museum's own frontier, and Owl (the OWL frontier row, a PCW-corpus lead, DNS dead) is enriched with this receipt.",
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "brian-davis-gmwe"
+        ],
+        "note": "Shares the exact billed nickname \"The White Dragon\" with brian-davis-gmwe (GMWE's own Brian Davis, one half of the Texas Twosome, itself already filed distinct from euwc-kar-femrite under the same nickname). GMWE and NTICW ran the same February–April 2003 window, but nothing in either record names the other fed or claims a shared performer. Filed distinct under the collision doctrine, not merged."
+      },
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "dragon-faw-2001",
+          "dragon-pcw",
+          "dragon-pwa-pioneer",
+          "euwc-kar-femrite",
+          "jim-dalton-wccw",
+          "mystery-dragon-wmw",
+          "xian-lcw-evo"
+        ],
+        "note": "\"Dragon\"/\"White Dragon\" is a stock decorated nickname the mint guard also flags against seven further, unrelated entities across other wings. None is dated, rostered, or otherwise connected to NTICW; filed distinct under the collision doctrine, not individually adjudicated."
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "nticw",
+        "first_seen": "2003-02-10",
+        "last_seen": "2003-02-10",
+        "role": "wrestler — billed a Thai kickboxing and martial-arts background, \"one of the best\" in the discipline",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "promotions/nticw/archive/news-2003-02.html",
+        "grade": "primary-source"
+      }
+    ]
+  }
+]

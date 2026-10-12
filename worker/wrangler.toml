@@ -1,0 +1,166 @@
+#
+# THE E-WRESTLING MUSEUM — serving Worker configuration.
+#
+# The museum outgrew Cloudflare Pages' 20,000-file deploy ceiling (15,600+ files
+# and hundreds more per accession wave). The served tree moves to an R2 bucket;
+# this Worker becomes the front door, carrying the invite gate, the pretty-URL
+# routing, and the `_headers` policy across unchanged.
+#
+# NOTHING HERE IS ARMED. `routes` is commented out on purpose — deploying this
+# file as written puts the Worker on its workers.dev subdomain only, where the
+# Janitor can test it against the real bucket without a single visitor to
+# ewmuseum.org noticing. Cutover is uncommenting the routes block and
+# redeploying. Rollback is re-commenting it. Both are one line.
+#
+# The full step-by-step lives in docs/OPERATIONS.md, section "R2 MIGRATION".
+#
+# Run from the REPO ROOT, always with -c:
+#   npx wrangler deploy      -c worker/wrangler.toml
+#   npx wrangler secret put  -c worker/wrangler.toml GATE_SECRET
+#   npx wrangler dev         -c worker/wrangler.toml --local
+#
+
+name = "ewmuseum-serve"
+main = "index.mjs"
+
+# Fixed on purpose. The Workers runtime changes behavior by compatibility date;
+# pinning means a redeploy six months from now behaves exactly like the deploy
+# the parity test was run against. Move it deliberately, re-run
+# `node worker/test-parity.mjs`, and only then commit the new date.
+compatibility_date = "2026-08-01"
+
+# OFF since the opening (hook c244; the 10-07 launch note; the Janitor's D454).
+# While the invite gate stood, the workers.dev subdomain was the staging surface
+# and met visitors with the same closed door. With the gate down it would be an
+# unbranded second copy of the open museum, so the Worker answers only on its own
+# domains ([[routes]] below). Preview URLs follow this setting (wrangler 4.44+,
+# no preview_urls key). Re-gating? Set it back to true in the same edit.
+workers_dev = false
+
+# Request logs and metrics in the dashboard. Worth having through a migration.
+[observability]
+enabled = true
+
+# --- the served tree -------------------------------------------------------
+#
+# `bucket_name` is the documented default. If the Janitor creates the bucket
+# under a different name, this is the ONE line to change (and the matching
+# BUCKET constant in scripts/r2-sync.mjs, which reads it from here — see that
+# file's header).
+#
+# `preview_bucket_name` is what `wrangler dev --remote` binds to. Point it at a
+# throwaway bucket to rehearse a sync against real R2 without touching the live
+# tree; local dev (`wrangler dev --local`) ignores it entirely and uses the
+# miniflare simulator under .wrangler/state instead.
+
+[[r2_buckets]]
+binding = "MUSEUM_BUCKET"
+bucket_name = "ewmuseum-site"
+preview_bucket_name = "ewmuseum-site-staging"
+
+# --- the text search (D289, D294; hook c85) ---------------------------------
+#
+# The AI Search instance the Worker's gated GET /api/search asks: search
+# results only, never a generated answer. The instance must exist at deploy
+# time (it does: `museum-search`, built-in storage, public endpoint OFF,
+# created 2026-10-04). Wrangler 4.147 lists AI Search as having no local
+# simulator; without the binding the route answers 502 and nothing else on
+# the site changes.
+
+[[ai_search]]
+binding = "MUSEUM_SEARCH"
+instance_name = "museum-search"
+
+# --- the search's rate limits (hook c85, re-cut 2026-10-07) -----------------
+#
+# Once the invite gate comes down (hook c115), /api/search answers anyone and
+# every backend call costs money. Workers Rate Limiting (GA 2025-09-19): each
+# binding is a counter per key per Cloudflare location, `period` 10 or 60 s.
+# The namespace_id is ours to choose (a positive integer, unique in the
+# account); `wrangler deploy` creates it with the Worker, no dashboard step.
+# The Worker refuses the search (503) if either binding is missing.
+#
+# SEARCH_LIMITER: per client address (IPv6 by its /64). 20 a minute is three
+# times what a fast reader typing, reading and refining does (the box searches
+# on Enter, never per keystroke), and a script hits it within seconds.
+[[ratelimits]]
+name = "SEARCH_LIMITER"
+namespace_id = "1085"
+simple = { limit = 20, period = 60 }
+
+# SEARCH_LIMITER_SITE: everyone at one location together, one shared key; the
+# ceiling a crowd of addresses cannot pass (300 a minute is ~15 people
+# searching flat out at once).
+[[ratelimits]]
+name = "SEARCH_LIMITER_SITE"
+namespace_id = "1086"
+simple = { limit = 300, period = 60 }
+
+# --- the record lookup's rate limits (D448, hook c136) ----------------------
+#
+# GET /api/find-record (worker/find-record.mjs) is a lookup in memory: no backend, no cost per call, so the limits are looser than
+# the search's. The forum's bots call it from one server address, so the per-address limit allows 60 a minute. The Worker answers
+# 503 if either binding is missing. The namespace ids (1087, 1088) are ours to choose, unique in the account; the search's are
+# 1085 and 1086. `wrangler deploy` creates them with the Worker.
+[[ratelimits]]
+name = "FIND_LIMITER"
+namespace_id = "1087"
+simple = { limit = 60, period = 60 }
+
+[[ratelimits]]
+name = "FIND_LIMITER_SITE"
+namespace_id = "1088"
+simple = { limit = 600, period = 60 }
+
+# --- secrets ---------------------------------------------------------------
+#
+# NOT set here, and never committed. Both are the same values the Pages project
+# already carries, copied across so that a gate cookie minted under Pages keeps
+# working after cutover — GATE_SECRET especially: a different secret here means
+# every existing visitor is logged out the moment the route flips.
+#
+#   npx wrangler secret put -c worker/wrangler.toml GATE_SECRET
+#   npx wrangler secret put -c worker/wrangler.toml INVITE_CODES
+#
+# For local dev, put them in worker/.dev.vars instead (gitignored):
+#   GATE_SECRET = "any-string-will-do-locally"
+#   INVITE_CODES = "TEST-CODE"
+#
+# GATE_SECRET   — HMAC key signing the `museum_gate` cookie. Rotating it is the
+#                 "log everyone out right now" lever, exactly as under Pages.
+# INVITE_CODES  — comma-separated, case- and whitespace-insensitive. Editing
+#                 this list is the entire access-control surface; no redeploy.
+
+# --- cutover: the Janitor arms this, not a session -------------------------
+#
+# Uncomment, set the zone, redeploy. From that moment the Worker answers
+# ewmuseum.org instead of Cloudflare Pages, and Pages can be left in place
+# untouched as the rollback (re-comment these four lines, redeploy, and the
+# domain falls back to the Pages project within seconds).
+#
+# Keep BOTH patterns: the bare domain and the wildcard. A single `/*` pattern
+# does not match the apex request on its own in every configuration, and the
+# museum's own front page is the one URL that must never be the one that breaks.
+#
+# ARMED at the Janitor's cutover gavel, 2026-08-26. The build lane drafted
+# these against "ewmuseum.org"; the museum's actual zone is fw-museum.org —
+# corrected at arming. Rollback: re-comment both blocks and redeploy.
+[[routes]]
+pattern = "fw-museum.org/*"
+zone_name = "fw-museum.org"
+
+[[routes]]
+pattern = "www.fw-museum.org/*"
+zone_name = "fw-museum.org"
+
+# THE SECOND DOOR (the Janitor, 2026-08-26): "accessible via either ewmuseum
+# or fw-museum." Both zones route to the same Worker — same bucket, same gate;
+# the museum_gate cookie is domain-scoped, so each door takes the invite code
+# once.
+[[routes]]
+pattern = "ewmuseum.org/*"
+zone_name = "ewmuseum.org"
+
+[[routes]]
+pattern = "www.ewmuseum.org/*"
+zone_name = "ewmuseum.org"

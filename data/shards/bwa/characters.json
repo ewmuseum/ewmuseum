@@ -1,0 +1,599 @@
+[
+ {
+  "id": "bishop-bwa",
+  "type": "character",
+  "name": "Bishop",
+  "caption": "A scarred, hardcore-leaning face out of Chicago who won the BWA's own first Heavyweight Title Tournament the night the promotion debuted.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-25",
+    "alignment": "face",
+    "hometown": "Chicago, Illinois",
+    "finisher": "The Cathedral",
+    "style": "Brawler/daredevil, Technical",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-monday-night-carnage-1997-09-22.html"
+   }
+  ],
+  "notes": "Billed as a former wrestler under BWA's own President in his prior Independent Championship E-Wrestling promotion; also billed in this collection as a second, unreconciled claimant to the IEWF World Heavyweight Title (see iewf-lwc's own title record).",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "bishop-chwe",
+     "bishop-ewa",
+     "bishop-rspwf",
+     "bishop-rwa-rugged",
+     "mark-bishop-gw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "iceman-jon-tickle-bwa",
+  "type": "character",
+  "name": "\"Iceman\" Jon Tickle",
+  "caption": "A masked Australian all-rounder who lost the BWA Heavyweight Title Tournament's opening match to Bishop.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-22",
+    "alignment": "face",
+    "hometown": "Adelaide, Australia",
+    "finisher": "SubZero",
+    "style": "All-round",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-monday-night-carnage-1997-09-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "euwc-jon-tickle"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jonathan-blade-bwa",
+  "type": "character",
+  "name": "Jonathan Blade",
+  "caption": "A young all-rounder who advanced past Tearchaser by disqualification before Bishop eliminated him in the tournament semifinal.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-22",
+    "alignment": "face",
+    "hometown": "Raleigh, North Carolina",
+    "finisher": "Blade Burner",
+    "style": "All-rounder",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-monday-night-carnage-1997-09-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "tearchaser-bwa",
+  "type": "character",
+  "name": "Tearchaser",
+  "caption": "A nineteen-year-old martial artist, half of the tag team A.K.A. with the Goon, eliminated from the BWA's own first title tournament by disqualification.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-25",
+    "alignment": "heel",
+    "hometown": "Boston, Massachusetts",
+    "finisher": "Cross Face Chicken Wing",
+    "style": "Martial Artist",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-monday-night-carnage-1997-09-22.html; promotions/bwa/archive/bwa-raw-footage-1997-09-25.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-goon-bwa",
+  "type": "character",
+  "name": "The Goon",
+  "caption": "A former pro hockey player turned brawler, Tearchaser's partner in A.K.A. and the Lost Boys' first tag opponent on BWA's debut broadcast.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-18",
+    "last_seen": "1997-09-22",
+    "alignment": "heel",
+    "hometown": "Lowell, Massachusetts",
+    "finisher": "Hat-Trick",
+    "style": "Powerhouse/Brawler",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-18.html; promotions/bwa/archive/bwa-monday-night-carnage-1997-09-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "the-goon-acw"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "patty-babes-carter-bwa",
+  "type": "character",
+  "name": "Patty Babes Carter",
+  "caption": "A well-travelled Liverpool technician, managed by Cherry Wonderful-Carter, whose tournament opener with Nomad went to a time-limit draw.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-22",
+    "alignment": "face",
+    "hometown": "Liverpool, England",
+    "finisher": "The Baby Bombshell",
+    "style": "Technician/Aerialist",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-monday-night-carnage-1997-09-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "patty-babes-carter-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "nomad-bwa",
+  "type": "character",
+  "name": "Nomad",
+  "caption": "A masked, mysterious technician who drew a time-limit draw with Patty Babes Carter in the BWA's own first title tournament.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-25",
+    "alignment": "heel",
+    "hometown": "Parts Unknown",
+    "finisher": "Caravan Suplex",
+    "style": "Technical/Mat wrestling",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-monday-night-carnage-1997-09-22.html; promotions/bwa/archive/bwa-raw-footage-1997-09-25.html"
+   }
+  ],
+  "notes": "Billed in the same broadcast as already holding the WAR!Lord Title and the National WAR! Championship, and leading a stable called Ground Zero in WAR! and AWA; those tenures are outside this collection's own held record and are not separately registered.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 4,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "cwfpro-nomad"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ace-malone-bwa",
+  "type": "character",
+  "name": "Ace Malone",
+  "caption": "A self-declared \"Philosopher King\" who won a tights-assisted pinfall over Steve Lawless for a bye to the BWA's own first title final, then lost the title match to Bishop.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-22",
+    "alignment": "tweener",
+    "hometown": "London Hospital for the Criminally Insane",
+    "finisher": "Power of Reason",
+    "style": "Technical/unpredictable",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-monday-night-carnage-1997-09-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "shotgun-steve-lawless-bwa",
+  "type": "character",
+  "name": "\"Shotgun\" Steve Lawless",
+  "caption": "A Toronto brawler who lost his BWA Heavyweight Title Tournament opener to Ace Malone by a pinfall off a handful of tights.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-22",
+    "alignment": "face",
+    "hometown": "Toronto, Canada",
+    "finisher": "Double Barrel Shotgun",
+    "style": "Brawling/All-rounder",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-monday-night-carnage-1997-09-22.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "miles-alexander-bwa",
+  "type": "character",
+  "name": "\"British Bad Boy\" Miles Alexander",
+  "caption": "A cocky London brawler who beat Tik Durpin on BWA's debut broadcast, signed too late to join the promotion's own first title tournament.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-18",
+    "last_seen": "1997-09-25",
+    "alignment": "heel",
+    "hometown": "London, England",
+    "finisher": "The British BadDrop",
+    "style": "Brawler/Power",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-18.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "tik-durpin-bwa",
+  "type": "character",
+  "name": "Tik Durpin",
+  "caption": "A technically-edged wrestler who lost by pinfall to Miles Alexander on BWA's second Raw Footage broadcast.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-18",
+    "last_seen": "1997-09-18",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-18.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "brian-fury-bwa",
+  "type": "character",
+  "name": "\"Snakeyes\" Brian Fury",
+  "caption": "A San Diego high flyer who lost to Nomad's technical mastery on BWA's second Raw Footage broadcast.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-18",
+    "last_seen": "1997-09-18",
+    "alignment": "heel",
+    "hometown": "San Diego, California",
+    "finisher": "The Rattler",
+    "style": "Suicidal High Flyer",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-18.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "haus-bwa",
+  "type": "character",
+  "name": "HAUS",
+  "caption": "A decorated submission wrestler, billed on his BWA debut as a former World and Cruiserweight champion elsewhere, introduced on the wing's post-Carnage broadcast.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-25",
+    "last_seen": "1997-09-25",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-25.html"
+   }
+  ],
+  "notes": "Billed on arrival as a former NWF and GWFA World Tag Champion, RMWF Canadian Champion and GFWA Cruiserweight Champion; those tenures are outside this collection's own held record and are not separately registered.",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ },
+ {
+  "id": "greg-addams-bwa",
+  "type": "character",
+  "name": "Greg Addams",
+  "caption": "The elder of the Lost Boys, arriving from WAR! and the AWA to declare himself and his brother the future BWA National Tag Team Champions.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-25",
+    "alignment": "tweener",
+    "hometown": "Monroe, Michigan",
+    "finisher": "Figure Four Leg Lock",
+    "style": "Technical",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-raw-footage-1997-09-25.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "frank-addams-bwa",
+  "type": "character",
+  "name": "Frank Addams",
+  "caption": "The younger of the Lost Boys, arriving from WAR! and the AWA alongside his brother Greg.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-25",
+    "alignment": "tweener",
+    "hometown": "Monroe, Michigan",
+    "finisher": "Powerslam",
+    "style": "Brawler/Power",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html; promotions/bwa/archive/bwa-raw-footage-1997-09-25.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 3,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "lazarus-bwa",
+  "type": "character",
+  "name": "Lazarus",
+  "caption": "The larger half of the Midnight Destruction, a young London cousin whose BWA contract was terminated before he wrestled.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-11",
+    "alignment": "face",
+    "hometown": "Outskirts of London, England",
+    "finisher": "The Awakening",
+    "style": "Power",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; this entity was minted from its own federation's 1997 documents with no receipt joining it to those — held distinct under the no-auto-merge-and-no-silent-distinctness rule; reopenable on a shared-handler or cross-fed receipt.",
+    "with": [
+     "lazarus",
+     "lazarus-4ww",
+     "lazarus-rspwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "skydevil-bwa",
+  "type": "character",
+  "name": "Skydevil",
+  "caption": "The craftier half of the Midnight Destruction, a young London cousin whose BWA contract was terminated before he wrestled.",
+  "tenures": [
+   {
+    "promotion": "bwa",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-09-11",
+    "last_seen": "1997-09-11",
+    "alignment": "face",
+    "hometown": "Outskirts of London, England",
+    "finisher": "Cloud Dance",
+    "style": "Aerial",
+    "source": "promotions/bwa/archive/bwa-raw-footage-1997-09-11.html"
+   }
+  ],
+  "caption_asof": {
+   "written": "2026-09-04",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  }
+ }
+]

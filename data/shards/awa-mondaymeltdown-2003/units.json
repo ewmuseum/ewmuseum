@@ -1,0 +1,86 @@
+[
+ {
+  "id": "suicide-kings-awa-meltdown",
+  "type": "unit",
+  "name": "Suicide Kings",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Jake Jarvis",
+    "character_id": "jake-jarvis-awa-meltdown"
+   },
+   {
+    "name": "Alan Fiscus",
+    "character_id": "alan-fiscus-awa-meltdown"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "awa-mondaymeltdown-2003",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the federation's own \"Monday Meltdown\" broadcast script of 7 July 2003"
+   }
+  ],
+  "caption": "The tag team of Jake Jarvis and Alan Fiscus, billed as the Suicide Kings on the promotion's own 7 July 2003 broadcast.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A name shared with an unrelated unit elsewhere in the registry; nothing links the two beyond the name.",
+    "with": [
+     "the-suicide-kings"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "extreme-impact-awa-meltdown",
+  "type": "unit",
+  "name": "Extreme Impact",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Adrian Slayer",
+    "character_id": "adrian-slayer-awa-meltdown"
+   },
+   {
+    "name": "the Dominator"
+   },
+   {
+    "name": "the Jam Master"
+   },
+   {
+    "name": "Marshall Gates",
+    "character_id": "marshall-gates-awa-meltdown"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "awa-mondaymeltdown-2003",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "source": "the federation's own \"Monday Meltdown\" broadcast script of 7 July 2003"
+   }
+  ],
+  "caption": "Adrian Slayer's stable, gaining Marshall Gates as a fourth member during the promotion's own 7 July 2003 broadcast; the other two named members do not otherwise appear in the held record.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "A name shared with an unrelated unit elsewhere in the registry; nothing links the two beyond the name.",
+    "with": [
+     "extreme-impact-wwa"
+    ]
+   }
+  ]
+ }
+]

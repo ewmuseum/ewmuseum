@@ -1,0 +1,106 @@
+[
+ {
+  "id": "mr-honeydew-rcw-nz-2004",
+  "type": "character",
+  "name": "Mr. Honeydew",
+  "caption": "A River City Wrestling manager, fifth for manager of the mid-year in the newsgroup's 2002 poll.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "notes": "Known from the newsgroup's 2002 mid-year awards, which placed him fifth for manager of the mid-year with sixteen points, tagged to this promotion.",
+  "tenures": [
+   {
+    "promotion": "rcw-nz-2004",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "/promotions/rcw-nz-2004/archive/rcw-mid-year-awards-2002-07-09.html (the mid-year awards, 9 July 2002)"
+   }
+  ]
+ },
+ {
+  "id": "goku-waru-rcw-nz-2004",
+  "type": "character",
+  "name": "Goku Waru",
+  "caption": "A River City Wrestling manager, third for manager of the mid-year in the newsgroup's 2002 poll.",
+  "caption_asof": {
+   "written": "2026-09-22",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "notes": "Known from the newsgroup's 2002 mid-year awards, which placed him third for manager of the mid-year with twenty-one points, tagged to this promotion. The closure thread also remembers a Goku Van Keel among the promotion's moments.",
+  "tenures": [
+   {
+    "promotion": "rcw-nz-2004",
+    "roles": [
+     "manager"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002",
+    "last_seen": "2002",
+    "source": "/promotions/rcw-nz-2004/archive/rcw-mid-year-awards-2002-07-09.html (the mid-year awards, 9 July 2002)"
+   }
+  ]
+ },
+ {
+  "id": "devon-case-rspwf",
+  "type": "character",
+  "name": "Devon Case",
+  "caption": "Ranked #92 in the RSPWF Mid-Year Top 200 for 1999.",
+  "caption_asof": {
+   "written": "2026-09-14",
+   "author": "ai",
+   "evidence": {
+    "tenures": 0,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 1,
+    "relationships": 0
+   }
+  },
+  "notes": "Known only from the RSPWF Mid-Year Top 200, the rec.sport.pro-wrestling.fantasy newsgroup's own ranking poll. Placings and each poll's own federation tags, verbatim — Mid-Year Top 200 1999: #92. Carries no tenure entry: no federation was named beside any of these entries.",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "devon-case-ilpw-1999",
+     "devon-case-twl-1998"
+    ],
+    "note": "The registry's own decorated-aka guard reads this name as a normalized substring match against devon-case-ilpw-1999, devon-case-twl-1998. Recorded distinct, not merged: the only record this entity has is a placing in the RSPWF Mid-Year Top 200, which gives a ring name and nothing else — no dates, no roster, no URL beyond the poll listing itself, so three of the collision doctrine's own four signals are simply absent and the no-merge default holds. Reopenable the moment either side gains a record the other can be checked against."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "rcw-nz-2004",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2002-03",
+    "last_seen": "2002-05",
+    "source": "/promotions/rcw-nz-2004/archive/rcw-mid-year-awards-2002-07-09.html (the newsgroup's 2002 mid-year awards bill his Caged Rage 2 bout fifth for best match, tagged to this promotion) and /promotions/rcw-nz-2004/archive/rcw-closes-2002-05-06.html (the closure thread names him among the wrestlers the promotion added late)"
+   }
+  ]
+ }
+]

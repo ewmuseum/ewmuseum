@@ -1,0 +1,86 @@
+[
+  {
+    "id": "canadian-carnage-svw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Canadian Carnage",
+    "caption": "The federation's own inaugural Tag Team Champions, managed by Sir John A. MacDonald IV.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 1,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "id": "johnny-canuck-svw"
+      },
+      {
+        "id": "the-mountie-ii-svw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "svw-southernvirtual-1995",
+        "first_seen": "1995-08",
+        "last_seen": "1995-08",
+        "source": "The Tag Team Title Tournament final, 2 August 1995, served on this wing.",
+        "grade": "primary-source",
+        "note": "Won the inaugural SVW Tag Team Championship when their manager, Sir John A. MacDonald IV, pushed challenger Rich Seroch off the top rope, allowing a roll-up with a handful of tights."
+      }
+    ]
+  },
+  {
+    "id": "the-privateers-svw",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Privateers",
+    "caption": "Runners-up for the inaugural SVW Tag Team Championship, pairing the federation's own reigning Heavyweight Champion with \"Amazing\" Rich Seroch.",
+    "caption_asof": {
+      "written": "2026-09-04",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      }
+    },
+    "members": [
+      {
+        "id": "marvel-miguel-conover-svw"
+      },
+      {
+        "id": "rich-seroch-svw"
+      }
+    ],
+    "tenures": [
+      {
+        "promotion": "svw-southernvirtual-1995",
+        "first_seen": "1995-07",
+        "last_seen": "1995-08",
+        "source": "The Tag Team Title Tournament (entered round 1) through its final, 2 August 1995, served on this wing.",
+        "grade": "primary-source",
+        "note": "Lost the Tag Team Title Tournament final to Canadian Carnage after a manager-assisted push from the top rope."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "the-privateers-cswa"
+        ],
+        "note": "Bare generic tag-team name match only against an existing, unrelated CSWA unit; no shared roster, operator, host, or date evidence links the two. Recorded as a collision, not merged."
+      }
+    ]
+  }
+]

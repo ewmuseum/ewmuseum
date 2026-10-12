@@ -1,0 +1,100 @@
+[
+ {
+  "id": "psw-1999-monday-night-revolution-1999-11-04",
+  "type": "show",
+  "name": "Monday Night Revolution",
+  "promotion": "psw-1999",
+  "date": {
+   "date": "1999-11-04",
+   "precision": "exact",
+   "source": "The promotion's own two-part broadcast, posted 4 November 1999."
+  },
+  "page": "/promotions/psw-1999/archive/psw-1999-monday-night-revolution-1999-11-04.html",
+  "collection": "0148",
+  "appearances": [
+   {"who": "frank-steele-psw-1999", "kind": "billed", "capacity": "commentary", "source": "/promotions/psw-1999/archive/psw-1999-monday-night-revolution-1999-11-04.html"},
+   {"who": "jimmy-jacobs-psw-1999", "kind": "billed", "capacity": "commentary", "source": "/promotions/psw-1999/archive/psw-1999-monday-night-revolution-1999-11-04.html"},
+   {"who": "steve-adams-psw-1999", "kind": "billed", "capacity": "ring-announcer", "source": "/promotions/psw-1999/archive/psw-1999-monday-night-revolution-1999-11-04.html"},
+   {"who": "deborah-st-james-psw-1999", "kind": "billed", "capacity": "ring-announcer", "source": "/promotions/psw-1999/archive/psw-1999-monday-night-revolution-1999-11-04.html"},
+   {"who": "mr-carter-psw-1999", "kind": "billed", "capacity": "referee", "source": "/promotions/psw-1999/archive/psw-1999-monday-night-revolution-1999-11-04.html"},
+   {"who": "mr-carter-psw-1999", "kind": "angle"},
+   {"who": "the-great-amusa-psw-1999", "kind": "match"},
+   {"who": "the-great-amusa-psw-1999", "kind": "angle"},
+   {"who": "johnny-moxlow-wwa", "kind": "match"},
+   {"who": "johnny-moxlow-wwa", "kind": "angle"},
+   {"who": "drew-berezuk-psw-1999", "kind": "match"},
+   {"who": "avalanche-psw-1999", "kind": "match"},
+   {"who": "avalanche-psw-1999", "kind": "angle"},
+   {"who": "dave-walker-psw-1999", "kind": "angle"},
+   {"who": "aegis-psw-1999", "kind": "match"},
+   {"who": "scimitar-psw-1999", "kind": "match"},
+   {"who": "halo-psw-1999", "kind": "match"},
+   {"who": "platinum-ro-psw-1999", "kind": "match"},
+   {"who": "ensuer-psw-1999", "kind": "billed", "capacity": "manager", "source": "/promotions/psw-1999/archive/psw-1999-monday-night-revolution-1999-11-04.html"},
+   {"who": "lance-hawkins-psw-1999", "kind": "match"},
+   {"who": "eric-vanglory-psw-1999", "kind": "match"},
+   {"who": "eric-vanglory-psw-1999", "kind": "angle"},
+   {"who": "matt-laye-psw-1999", "kind": "match"},
+   {"who": "allegory-psw-1999", "kind": "match"}
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     ["the-great-amusa-psw-1999"],
+     ["johnny-moxlow-wwa"]
+    ],
+    "winner_side": 0,
+    "note": "A sneak attack before the bell backfired; Amusa recovered to win by pinfall with a top-rope splash, then continued the beating afterward, trapping Moxlow's leg in a steel chair for a top-rope leg drop that left Moxlow stretchered out."
+   },
+   {
+    "order": 2,
+    "sides": [
+     ["drew-berezuk-psw-1999"],
+     ["avalanche-psw-1999"]
+    ],
+    "winner_side": 0,
+    "note": "Berezuk's staggering entrance masked a calculated performance; he finished Avalanche with a powerbomb through a ringside table."
+   },
+   {
+    "order": 3,
+    "sides": [
+     ["aegis-psw-1999", "scimitar-psw-1999"],
+     ["halo-psw-1999", "platinum-ro-psw-1999"]
+    ],
+    "winner_side": 1,
+    "note": "The Ides of Hell worked over Platinum Ro's leg before he no-sold the damage; Halo finished the match with a leg drop on Scimitar."
+   },
+   {
+    "order": 4,
+    "sides": [
+     ["lance-hawkins-psw-1999"],
+     ["eric-vanglory-psw-1999"]
+    ],
+    "winner_side": 0,
+    "stipulation": "Pennsylvania State Heavyweight Championship, referee Mr. Carter",
+    "note": "Hawkins won the vacant title after a series of near-falls on both sides, finishing VanGlory with the Amazing Drop. Afterward Mr. Carter attacked the beaten VanGlory."
+   },
+   {
+    "order": 5,
+    "sides": [
+     ["matt-laye-psw-1999"],
+     ["allegory-psw-1999"]
+    ],
+    "winner_side": 0,
+    "note": "Laye took a low blow and a choke slam near-fall from the larger Allegory before finishing with a 360 splash."
+   },
+   {
+    "order": 6,
+    "sides": [
+     ["halo-psw-1999"],
+     ["platinum-ro-psw-1999"]
+    ],
+    "winner_side": 1,
+    "stipulation": "Prime Time Championship",
+    "note": "Halo unilaterally announced this impromptu title match and shoved his own tag partner into it; Ro tapped him out almost immediately."
+   }
+  ],
+  "note": "A disoriented Avalanche injured a medical assistant once the second match ended, and was shown being taken into police custody backstage; a separate backstage scene of Mr. Carter berating his own staff is not structured here."
+ }
+]

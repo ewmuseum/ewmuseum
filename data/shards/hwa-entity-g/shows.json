@@ -1,0 +1,87 @@
+[
+ {
+  "id": "hwa-g-battle-royal-1997-12-30",
+  "type": "show",
+  "name": "hwa battle royal",
+  "promotion": "hwa-entity-g",
+  "date": {
+   "date": "1997-12-30",
+   "precision": "exact",
+   "source": "The show script's own posting date."
+  },
+  "page": "/promotions/hwa-entity-g/archive/hwa-battle-royal-1997-12-30.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "stonecold-hwa-g",
+    "kind": "match"
+   },
+   {
+    "who": "emortal-soldier-hwa-g",
+    "kind": "match"
+   },
+   {
+    "who": "oakley-hwa-g",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "participants": [
+     "stonecold-hwa-g",
+     "emortal-soldier-hwa-g",
+     "oakley-hwa-g"
+    ],
+    "winner": "stonecold-hwa-g",
+    "stipulation": "Battle Royal (HWA World Championship)",
+    "note": "A 16-man field per the announcer's own roll call; only three of the sixteen named entrants (Stonecold, Emortal Soldier, Oakley) clear this wing's mint bar. The remaining thirteen (Nightwatch, HBK, Maddog, Ryu, Warrior, Sandman, Taz, Ric Rude, A.O.D., Stingray, 8Ball, Chainz, and the persona 'Ronnie') are named in the served text only, per the eliminations-vs-thin-mint doctrine — several read as tributes to real wrestlers of the era under altered or shared ring names. The script's own account of who eliminated whom is internally inconsistent (Oakley is narrated leaving the ring twice) and is not reconciled further here."
+   }
+  ]
+ },
+ {
+  "id": "hwa-g-deathmania-1997-12-30",
+  "type": "show",
+  "name": "HWA DEATHMANIA!!!!!!",
+  "promotion": "hwa-entity-g",
+  "date": {
+   "date": "1997-12-30",
+   "precision": "exact",
+   "source": "The show script's own posting date, the same day as the battle royal above."
+  },
+  "page": "/promotions/hwa-entity-g/archive/hwa-deathmania-1997-12-30.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "emortal-soldier-hwa-g",
+    "kind": "match"
+   },
+   {
+    "who": "oakley-hwa-g",
+    "kind": "match"
+   },
+   {
+    "who": "stonecold-hwa-g",
+    "kind": "angle",
+    "note": "Interferes in the main event (a stunner on Oakley) and is billed for a since-cancelled match against Nightwatch (unminted); does not wrestle a sanctioned match on this card."
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "emortal-soldier-hwa-g"
+     ],
+     [
+      "oakley-hwa-g"
+     ]
+    ],
+    "winner_side": 0,
+    "stipulation": "HWA World Championship",
+    "note": "Billed as 'the first ever HWA ppv'. The announcer credits Stonecold's own interference (a stunner on Oakley) before the finish."
+   }
+  ],
+  "notes": "A second billed match, Stonecold vs. Nightwatch (unminted), never occurred — Nightwatch was narrated as removed from the arena and the match is described as cancelled; no matches[] row is recorded for it."
+ }
+]

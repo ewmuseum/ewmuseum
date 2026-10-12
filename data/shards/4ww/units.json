@@ -1,0 +1,305 @@
+[
+ {
+  "id": "featured-attraction-4ww",
+  "type": "unit",
+  "name": "Featured Attraction",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Jerms",
+    "character_id": "jerms-4ww"
+   },
+   {
+    "name": "Mike Marvelous",
+    "character_id": "mike-marvelous-4ww"
+   },
+   {
+    "name": "Todd Dream",
+    "character_id": "todd-dream-4ww"
+   },
+   {
+    "name": "Sean Summers",
+    "character_id": "sean-summers-4ww"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "4ww",
+    "first_seen": "2003-10",
+    "last_seen": "2004",
+    "role": "East Wind Tag Team Champions",
+    "source": "the fed's own Maelstrom I, Maelstrom II and Maelstrom III cards, and its own 2004 awards ballot, which bills the team \"Featured Attraction (Jerms & Mike Marvelous)\""
+   }
+  ],
+  "caption": "The group that formed at the end of Maelstrom I, when Sean Summers raised Todd Dream's and Mike Marvelous' hands over a beaten Jaime, and that held the East Wind Tag Team Championship into 2004 before losing the Childress charter that protected it.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "future-shock-4ww",
+  "type": "unit",
+  "name": "FutureShock",
+  "aka": [
+   "Future Shock"
+  ],
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "name": "Blaise McClancy",
+    "character_id": "blaise-mcclancy-4ww"
+   },
+   {
+    "name": "Ukyo Kushinaga",
+    "character_id": "ukyo-kushinaga-4ww"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "4ww",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "role": "East Wind Tag Team Champions",
+    "source": "the fed's own Official 4WW Title History thread and its own 2004 awards ballot"
+   },
+   {
+    "promotion": "gcw-gcwonline-2001",
+    "first_seen": "2007-02-10",
+    "last_seen": "2007-02-10",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "The Future Shock",
+    "entrance_music": {
+     "verbatim": "'Don't Stop' by Disturbed"
+    },
+    "grade": "primary-source",
+    "source": "Global Championship Wrestling's own backstage database (accession 0159) — its own biography card and its own appearance record: 1 match and 0 segment appearances over 1 of its cards",
+    "note": "Its whole period in this federation, from the federation's own record: 1 appearances over 1 shows, 2007-02-10 to 2007-02-10. 4 roleplay(s) of its own under this card."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Shares a name with future-shock-napw (NAPW). A generic archetype name the registry expects to recur. Filed as a separate 4WW entity per the no-auto-merge rule; the question is open in data/review-queue.json.",
+    "with": []
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Championship Wrestling's own biography card (accession 0159) is this record: the same character carried by its own hand into a fourth federation's record."
+   }
+  ],
+  "caption": "Blaise McClancy and Ukyo Kushinaga, who won a mini tournament at Maelstrom 4 for the vacated East Wind Tag Team Championships and were still one of only two teams left in the division when the fed polled its own members about scrapping the belts.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "ego-trip-4ww",
+  "type": "unit",
+  "name": "Ego Trip",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Ritoru Joufu",
+    "character_id": "ritoru-joufu-4ww"
+   },
+   {
+    "name": "Todd Dream",
+    "character_id": "todd-dream-4ww"
+   },
+   {
+    "name": "Syxx Figures",
+    "character_id": "syxx-figures-4ww"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "4ww",
+    "first_seen": "2003-09",
+    "last_seen": "2003",
+    "source": "the fed's own StormFront of 14 September 2003"
+   }
+  ],
+  "caption": "The faction Ritoru Joufu rebuilt in the autumn of 2003, and which Todd Dream joined on camera by stripping off a T-shirt in the middle of a tag match to reveal its name underneath.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "knightmare-brigade-4ww",
+  "type": "unit",
+  "name": "The KnightMare Brigade",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Syxx Figures",
+    "character_id": "syxx-figures-4ww"
+   },
+   {
+    "name": "Fey McClancy-Childress",
+    "character_id": "fey-mcclancy-childress-4ww"
+   },
+   {
+    "name": "Impulse",
+    "character_id": "impulse-4ww"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "4ww",
+    "first_seen": "2003-07",
+    "last_seen": "2005",
+    "source": "the fed's own show scripts; Fey names the stable on air at Tempest, 17 July 2003"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "nightmare-napw"
+    ],
+    "note": "\"The KnightMare Brigade\" normalizes against NAPW's own \"The Nightmare\". A stable name against a wrestler's. Recorded so the mint guard's own decorated-aka check does not resurface it."
+   }
+  ],
+  "caption": "Fey McClancy-Childress' own stable, and the reason 4 Winds Wrestling's first champion was jumped from behind on the night he won the belt.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "shadows-ascension-4ww",
+  "type": "unit",
+  "name": "Shadows Ascension",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Tarrant",
+    "character_id": "tarrant-4ww"
+   },
+   {
+    "name": "Patti Anderson",
+    "character_id": "patti-anderson-4ww"
+   },
+   {
+    "name": "Bullet",
+    "character_id": "bullet-4ww"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "4ww",
+    "first_seen": "2004",
+    "last_seen": "2005",
+    "source": "the fed's own 2004 awards ballot"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-shadow-xuw"
+    ],
+    "note": "\"Shadows Ascension\" normalizes against XUW's own \"The Shadow\". A stable name against a wrestler's. Recorded so the mint guard's own decorated-aka check does not resurface it."
+   }
+  ],
+  "caption": "The stable Tarrant formed in 2004, in an angle the fed nominated for its own Angle of the Year alongside the two members its ballot names joining it.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "perfect-pleasure-4ww",
+  "type": "unit",
+  "name": "Perfect Pleasure",
+  "aka": [
+   "Perfect Pleaser"
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "tenures": [
+   {
+    "promotion": "4ww",
+    "first_seen": "2003-12",
+    "last_seen": "2004",
+    "source": "the fed's own Maelstrom II and Maelstrom III cards"
+   }
+  ],
+  "caption": "The tag team Featured Attraction beat to keep the East Wind Tag Team Championship at Maelstrom III.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "firey-passion-4ww",
+  "type": "unit",
+  "name": "Firey Passion",
+  "unit_kind": "stable",
+  "members": [
+   {
+    "name": "Keiko Yoshimoto",
+    "character_id": "keiko-yoshimoto-4ww"
+   },
+   {
+    "name": "Hope Marie Clarkson",
+    "character_id": "hope-marie-clarkson-4ww"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "4ww",
+    "first_seen": "2006",
+    "last_seen": "2006",
+    "role": "tag team — billed as a tag-title contender",
+    "source": "PTC forum, 4WW, thread \"[IC] Ask the Samurai-Rita\", 1 Mar 2006"
+   },
+   {
+    "promotion": "gcw-gcwonline-2001",
+    "first_seen": "2007-02-08",
+    "last_seen": "2007-04-05",
+    "roles": [
+     "wrestler"
+    ],
+    "finisher": "The Peral Harbor",
+    "entrance_music": {
+     "verbatim": "Firestorm by Criss Angel"
+    },
+    "grade": "primary-source",
+    "source": "Global Championship Wrestling's own backstage database (accession 0159) — its own biography card and its own appearance record: 2 match and 1 segment appearances over 3 of its cards",
+    "note": "Its whole period in this federation, from the federation's own record: 3 appearances over 3 shows, 2007-02-08 to 2007-04-05. 4 roleplay(s) of its own under this card."
+   }
+  ],
+  "caption": "Firey Passion, the 4 Winds Wrestling team of Keiko Yoshimoto and Hope Marie Clarkson, held the GCW Tag Team Championship from 14 January 2007 and appeared on 3 GCW cards from 8 February 2007 to 5 April 2007.",
+  "caption_asof": {
+   "written": "2026-09-30",
+   "evidence": {
+    "tenures": 2,
+    "appearances": 0,
+    "reigns": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 1
+   },
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "Global Championship Wrestling's own biography card (accession 0159) is this record: the same character carried by its own hand into a fourth federation's record. Its Other Feds field on that card reads, verbatim: “4 Winds, Divas Unleashed”."
+   }
+  ]
+ }
+]

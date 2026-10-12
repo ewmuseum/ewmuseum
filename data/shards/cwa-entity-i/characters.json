@@ -1,0 +1,32 @@
+[
+ {
+  "id": "owen-masters-cwa-entity-i",
+  "type": "character",
+  "name": "Owen Masters",
+  "aka": [],
+  "tenures": [
+   {
+    "promotion": "cwa-entity-i",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-03",
+    "source": "promotions/cwa-entity-i/rp/cwa-i-owen-masters-application-1997-03-09.html"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "An original applicant persona; no primary-source evidence connects it to any similarly-named registry entry (checked against data/characters.json, no match).",
+    "with": []
+   }
+  ],
+  "notes": "An applicant's own wrestler application, billed \"a younger and tougher version of the great Ric Flair,\" a technical heel out of Hartford, Connecticut. Never confirmed to have wrestled an actual entity-I card in the surviving corpus.",
+  "caption": "An applicant's own Ric-Flair-styled persona submitted to the CWA's open call, with no confirmed match in the surviving record.",
+  "caption_asof": {
+   "written": "2026-09-06",
+   "author": "ai"
+  }
+ }
+]

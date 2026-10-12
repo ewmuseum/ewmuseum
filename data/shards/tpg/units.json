@@ -1,0 +1,100 @@
+[
+    {
+        "id": "chill-factor-tpg",
+        "type": "unit",
+        "name": "Chill Factor",
+        "unit_kind": "trio",
+        "members": [
+            {
+                "name": "Heat",
+                "character_id": "heat-tpg"
+            },
+            {
+                "name": "Ice",
+                "character_id": "ice-tpg"
+            },
+            {
+                "name": "EvE",
+                "character_id": "eve-tpg"
+            }
+        ],
+        "tenures": [
+            {
+                "promotion": "tpg",
+                "first_seen": "2005-10-09",
+                "last_seen": "2005-12-03",
+                "role": "trio",
+                "roles": [
+                    "wrestler"
+                ],
+                "source": "the fed's own TPG Uncensored results of 9 October 2005 (/promotions/pwe-inc/archive/tpg-uncensored-results-2005-10-10.html)",
+                "note": "Billed again as a trio in a mixed tag against Trish Stratus and Christian Benjamin, roleplays closing 25 November 2005 (/promotions/pwe-inc/archive/forum-tpg-aggression-132.html)."
+            }
+        ],
+        "caption": "Two men and a third member the fed never gendered, beaten in the opening six-man of TPG Uncensored on 9 October 2005 and split up into a mixed tag against Trish Stratus and a partner seven weeks later.",
+        "caption_asof": {
+            "written": "2026-09-02",
+            "evidence": {
+                "tenures": 1,
+                "reigns": 0,
+                "appearances": 1,
+                "rps": 0,
+                "awards": 0,
+                "relationships": 0
+            },
+            "author": "ai"
+        }
+    },
+    {
+        "id": "the-patriots-tpg",
+        "type": "unit",
+        "name": "The Patriots",
+        "unit_kind": "tag-team",
+        "members": [
+            {
+                "name": "Joey Legend",
+                "character_id": "joey-legend-tpg"
+            },
+            {
+                "name": "Daniel Justice",
+                "character_id": "daniel-justice-tpg"
+            }
+        ],
+        "tenures": [
+            {
+                "promotion": "tpg",
+                "first_seen": "2005",
+                "last_seen": "2005-04",
+                "role": "tag team — TPG Tag Team Champions",
+                "roles": [
+                    "wrestler"
+                ],
+                "source": "PWE's own front page as the board rendered it on 13 April 2005 (held in the workshop, not served)",
+                "note": "PWE's own front page of 13 April 2005 calls them “the former TPG Tag Team Champions - Joey Legend and Daniel Justice; The Patriots!” in a news line about Mortis and Chaos beating them on another brand."
+            },
+            {
+                "promotion": "pwe-inc",
+                "first_seen": "2005-08-28",
+                "last_seen": "2005-08-28",
+                "role": "tag team — losing finalists in the PWE Undisputed Tag Team Championship tournament",
+                "roles": [
+                    "wrestler"
+                ],
+                "source": "PWE's own Last Man Standing of 28 August 2005 (/promotions/pwe-inc/archive/pwe-last-man-standing-2005-2005-08-30.html)"
+            }
+        ],
+        "caption": "TPG Tag Team Champions who lost the belts before the fed's own news thought to name them, then went up to PWE and lost the Undisputed Tag Team Championship tournament final to the Prodigal Sons.",
+        "caption_asof": {
+            "written": "2026-09-02",
+            "evidence": {
+                "tenures": 2,
+                "reigns": 1,
+                "appearances": 0,
+                "rps": 0,
+                "awards": 0,
+                "relationships": 0
+            },
+            "author": "ai"
+        }
+    }
+]

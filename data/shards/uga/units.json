@@ -1,0 +1,243 @@
+[
+    {
+        "id": "attitude-adjustment-uga",
+        "type": "unit",
+        "name": "Attitude Adjustment",
+        "unit_kind": "tag-team",
+        "members": [
+            {
+                "name": "Ace Fireside",
+                "character_id": "ace-fireside-uga"
+            },
+            {
+                "name": "Rick Frost",
+                "character_id": "rick-frost-uga"
+            }
+        ],
+        "tenures": [
+            {
+                "promotion": "uga",
+                "role": "tag team — reformed for a pay-per-view teaming return at Carnacage 99",
+                "grade": "primary-source",
+                "first_seen": "1999-12-31",
+                "last_seen": "1999-12-31",
+                "source": "the fed's own served Carnacage III recap, part 11 — the closing recap and the Carnacage structure match itself (promotions/uga/archive/carnacage-11.html)"
+            }
+        ],
+        "caption": "Ace Fireside and Rick Frost's reformed tag team, whose pay-per-view teaming return at Carnacage 99 defeated James Ramon and Luke Golden by pinfall.",
+        "caption_asof": {
+            "written": "2026-08-31",
+            "author": "ai",
+            "evidence": {
+                "tenures": 1,
+                "reigns": 0,
+                "appearances": 0,
+                "rps": 0,
+                "awards": 0,
+                "relationships": 0
+            }
+        }
+    },
+    {
+        "id": "fight-club-uga",
+        "type": "unit",
+        "name": "Fight Club",
+        "unit_kind": "other",
+        "membership_unknown": true,
+        "tenures": [
+            {
+                "promotion": "uga",
+                "role": "stable — billed on the fed's own \"Heels\" roster; membership unknown",
+                "grade": "primary-source",
+                "first_seen": "2001",
+                "last_seen": "2001",
+                "source": "the fed's own served UGA Superstar Directory (promotions/uga/archive/superstar-directory.html)"
+            }
+        ],
+        "caption": "Billed on the fed's own UGA Superstar Directory as one of its Heels stables — the only record of it the held record carries.",
+        "caption_asof": {
+            "written": "2026-08-31",
+            "author": "ai",
+            "evidence": {
+                "tenures": 1,
+                "reigns": 0,
+                "appearances": 0,
+                "rps": 0,
+                "awards": 0,
+                "relationships": 0
+            }
+        },
+        "notes": "No membership, size, or founding evidence survives beyond the directory's own bare listing."
+    },
+    {
+        "id": "sex-and-violence-uga",
+        "type": "unit",
+        "name": "Sex and Violence",
+        "unit_kind": "trio",
+        "members": [
+            {
+                "name": "\"The Franchise\" Shane Stud",
+                "character_id": "shane-stud-uga"
+            },
+            {
+                "name": "Disturbed Youth",
+                "character_id": "disturbed-youth-uga"
+            },
+            {
+                "name": "\"Mighty\" Ryan Kelly",
+                "character_id": "mighty-ryan-kelly-uga"
+            }
+        ],
+        "tenures": [
+            {
+                "promotion": "uga",
+                "role": "trio — Shane Stud, Disturbed Youth, Mighty Ryan Kelly",
+                "grade": "primary-source",
+                "first_seen": "1999",
+                "last_seen": "1999-12-31",
+                "source": "the fed's own served Carnacage III recap, part 8 — the WWC World Heavyweight Title match (promotions/uga/archive/carnacage-8.html)"
+            }
+        ],
+        "caption": "A WWC trio of Shane Stud, Disturbed Youth and Mighty Ryan Kelly — the fed's own commentary bills their December 1999 three-way as \"the first ever three way between the Sex and Violence trio.\"",
+        "caption_asof": {
+            "written": "2026-08-31",
+            "author": "ai",
+            "evidence": {
+                "tenures": 1,
+                "reigns": 0,
+                "appearances": 0,
+                "rps": 0,
+                "awards": 0,
+                "relationships": 0
+            }
+        },
+        "notes": "The Superstar Directory's later \"The New Sex & Violence\" (Heels roster) reads as this trio's own successor name once its original three members had moved to the directory's own \"Legends\" list; no membership survives for the successor unit in the held corpus.",
+        "identity": [
+            {
+                "assertion": "distinct",
+                "grade": "presumed",
+                "with": [
+                    "sex-and-violence-chz",
+                    "sex-and-violence-wwa",
+                    "cwfpro-sex-and-violence",
+                    "sex-and-violence-lcw-1997"
+                ],
+                "note": "Exact-name matches against four other feds' own \"Sex and Violence\"-named units, surfaced by the standing aka-collision sweep. No document on any side names another fed or claims a shared performer/handler; \"Sex and Violence\" is a generic, independently-reused stable name. Filed distinct pending evidence — when in doubt we do not merge."
+            }
+        ]
+    },
+    {
+        "id": "the-new-sex-and-violence-uga",
+        "type": "unit",
+        "name": "The New Sex & Violence",
+        "unit_kind": "stable",
+        "membership_unknown": true,
+        "tenures": [
+            {
+                "promotion": "uga",
+                "role": "stable — billed on the fed's own \"Heels\" roster; membership unknown",
+                "grade": "primary-source",
+                "first_seen": "2001",
+                "last_seen": "2001",
+                "source": "the fed's own served UGA Superstar Directory (promotions/uga/archive/superstar-directory.html)"
+            }
+        ],
+        "caption": "Billed on the fed's own UGA Superstar Directory as one of its Heels stables — the only record of it the held record carries.",
+        "caption_asof": {
+            "written": "2026-08-31",
+            "author": "ai",
+            "evidence": {
+                "tenures": 1,
+                "reigns": 0,
+                "appearances": 0,
+                "rps": 0,
+                "awards": 0,
+                "relationships": 0
+            }
+        },
+        "notes": "Reads as the successor name to the original Sex and Violence trio (Shane Stud, Disturbed Youth, Mighty Ryan Kelly), whose three members appear on the same directory's own \"Legends\" (retired/departed) list; no member roster survives for this successor unit in the held corpus."
+    },
+    {
+        "id": "the-super-destroyers-uga",
+        "type": "unit",
+        "name": "The Super Destroyers",
+        "unit_kind": "tag-team",
+        "members": [
+            {
+                "name": "Jago Ripley",
+                "character_id": "jago-ripley-uga"
+            },
+            {
+                "name": "The Beast",
+                "character_id": "the-beast-uga"
+            }
+        ],
+        "tenures": [
+            {
+                "promotion": "uga",
+                "role": "tag team — Jago Ripley and The Beast",
+                "grade": "primary-source",
+                "first_seen": "1999-12-31",
+                "last_seen": "1999-12-31",
+                "source": "the fed's own served Carnacage III recap, part 11 — the closing recap and the Carnacage structure match itself (promotions/uga/archive/carnacage-11.html)"
+            }
+        ],
+        "caption": "Jago Ripley and The Beast's tag team, run in to cost Larry Gionet's International Title match by disqualification before losing to Insanity Incarnate on a mis-communication between the two.",
+        "caption_asof": {
+            "written": "2026-08-31",
+            "author": "ai",
+            "evidence": {
+                "tenures": 1,
+                "reigns": 0,
+                "appearances": 0,
+                "rps": 0,
+                "awards": 0,
+                "relationships": 0
+            }
+        },
+        "identity": [
+            {
+                "assertion": "distinct",
+                "grade": "presumed",
+                "with": [
+                    "destroyer-nwwa",
+                    "destroyer-pwf",
+                    "destroyer-xcwf",
+                    "the-destroyer-cswa"
+                ],
+                "note": "Decorated-name matches against other feds' own \"Destroyer\"-named characters, surfaced by the standing aka-collision sweep. No document on any side names another fed or claims a shared performer; \"Destroyer\" is a generic, independently-reused gimmick word. Filed distinct pending evidence — when in doubt we do not merge."
+            }
+        ]
+    },
+    {
+        "id": "trio-of-terror-uga",
+        "type": "unit",
+        "name": "Trio of Terror",
+        "unit_kind": "trio",
+        "membership_unknown": true,
+        "tenures": [
+            {
+                "promotion": "uga",
+                "role": "stable — an unresolved recruitment storyline at Carnacage 99; membership unknown",
+                "grade": "primary-source",
+                "first_seen": "1999-12-31",
+                "last_seen": "1999-12-31",
+                "source": "the fed's own served Carnacage III recap, part 11 — the closing recap and the Carnacage structure match itself (promotions/uga/archive/carnacage-11.html)"
+            }
+        ],
+        "caption": "A stable Jago Ripley tried to recruit Larry Gionet into at Carnacage 99, on offer of a tag-team spot if he and The Beast could first beat Street Punk and Joe Snow — an unresolved storyline the held record leaves open.",
+        "caption_asof": {
+            "written": "2026-08-31",
+            "author": "ai",
+            "evidence": {
+                "tenures": 1,
+                "reigns": 0,
+                "appearances": 0,
+                "rps": 0,
+                "awards": 0,
+                "relationships": 0
+            }
+        },
+        "notes": "The fed's own recap text is itself ambiguous about current membership: Gionet declines outright, then counter-proposes that Ripley and The Beast could earn a tag-team spot in the group by beating Street Punk and Joe Snow, implying (without stating outright) that Punk and Snow may already hold that spot."
+    }
+]

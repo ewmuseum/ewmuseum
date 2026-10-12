@@ -1,0 +1,53 @@
+[
+ {
+  "id": "mob-squad-icwf-1996",
+  "type": "unit",
+  "name": "The Mob Squad",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "curillo-icwf-1996"
+   },
+   {
+    "character_id": "mercado-icwf-1996"
+   },
+   {
+    "character_id": "collins-icwf-1996"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "icwf-1996",
+    "first_seen": "2002-09",
+    "last_seen": "2002-09",
+    "role": "tag-team",
+    "source": "Won the ICWF Tag Team Championship at the Sixth Birthday Bash."
+   }
+  ],
+  "caption": "Won the ICWF Tag Team Championship at the Sixth Birthday Bash."
+ },
+ {
+  "id": "brother-and-brother-icwf-1996",
+  "type": "unit",
+  "name": "Brother & Brother",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "character_id": "glem-brother-icwf-1996"
+   },
+   {
+    "character_id": "clem-brother-icwf-1996"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "icwf-1996",
+    "first_seen": "2002-09",
+    "last_seen": "2002-09",
+    "role": "tag-team",
+    "source": "Lost the ICWF Tag Team Championship at the Sixth Birthday Bash."
+   }
+  ],
+  "caption": "Lost the ICWF Tag Team Championship at the Sixth Birthday Bash."
+ }
+]

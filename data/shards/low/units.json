@@ -1,0 +1,372 @@
+[
+ {
+  "id": "delta-upsilon-iota",
+  "type": "unit",
+  "name": "Delta Upsilon Iota",
+  "tenures": [
+   {
+    "promotion": "low",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": "Orlando, FL/Winston-Salem, NC",
+    "height": "6'2'/6'8'",
+    "weight": "232/348",
+    "style": "Brawlers",
+    "finisher": "Fratricide (Korver: Back Body Drop/Cobb: Spinning Powerbomb)",
+    "alignment": "Face",
+    "entrance_music": {
+     "verbatim": "'Highway to Hell' by AC-DC",
+     "corrected": "\"Highway to Hell\" by AC/DC"
+    },
+    "source": "the fed's own bio card, served at promotions/low/archive/delta-upsilon-iota-bio-card.html (www.lowonline.net:80/cgi-bin/superstars.cgi?fratboys); its own career-history page, served at promotions/low/archive/delta-upsilon-iota-career-history.html",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "note": "First and last seen are the earliest and latest year the fed's own surviving record actually places this character; the record does not state a debut or a departure. The fed's own record page (cgi-bin/record.cgi?fratboys, captured 2005-01-21) states 5 matches, 4 wins, 1 losses, 0 draws. Its Cluster, Pay Per View and Main Event rows count the same matches its Singles and Tag rows already do, so only the Singles and Tag figures are recorded as format buckets; the fed's own cross-cutting figures read Pay Per View 1 (1-0), Main Event 1 (1-0). The team's own bio card names both members in its kayfabe Real Name field (\"Colby Korver/Hank Cobb\") and its own career-history page gives each man's signature and finishing moves separately.",
+    "record": {
+     "single_w": 0,
+     "single_l": 1,
+     "single_d": 0,
+     "tag_w": 4,
+     "tag_l": 0,
+     "tag_d": 0,
+     "ppv_w": 1,
+     "ppv_l": 0,
+     "ppv_d": 0,
+     "me_w": 1,
+     "me_l": 0
+    }
+   },
+   {
+    "promotion": "prime-2003",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "2008-03-26",
+    "last_seen": "2009-05-24",
+    "grade": "primary-source",
+    "source": "PRIME's own backstage database (lot 0159)"
+   },
+   {
+    "promotion": "awc-2005",
+    "first_seen": "2006-07-25",
+    "last_seen": "2006-10-24",
+    "source": "AWC's own database (lot 0159), bio 12268",
+    "grade": "primary-source",
+    "roles": [
+     "wrestler"
+    ],
+    "note": "Dated from the fed's own record of the cards it appears on (10 shows, every kind of appearance counted). Joined to this record on the card's own evidence: AWC's 3594 (25 July 2006): 'In the ring, at a combined weight of 580 pounds... Colby Korver and Hank Cobb... DELTA UPSILON IOTA!!!'. This record's members are colby-corver and hank-cobb, its identity note names LOW and the LOW Tag Team Championship, and the card's Other Feds reads LOW; the card's 'AWC Chapter: Founded July 2006' dates the AWC run, which precedes this record's PRIME years.",
+    "finisher": "Blutarsky Bomb",
+    "entrance_music": {
+     "verbatim": "'Master of Puppets' by Metallica",
+     "title": "Master of Puppets",
+     "artist": "Metallica"
+    }
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Held LOW's own Tag Team Championship, billed brawlers, finishing with the Fratricide.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "Colby Korver",
+    "character_id": "colby-corver"
+   },
+   {
+    "name": "Hank Cobb",
+    "character_id": "hank-cobb"
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PRIME's own biography card for this team names LOW and claims the LOW Tag Team Championship; its roster is the same two men, Hank Cobb and Colby Korver, and both records carry the entrance Master of Puppets by Metallica."
+   },
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "The fed's biography card (accession 0159), bio 12268, is this record: AWC's 3594 (25 July 2006): 'In the ring, at a combined weight of 580 pounds... Colby Korver and Hank Cobb... DELTA UPSILON IOTA!!!'. This record's members are colby-corver and hank-cobb, its identity note names LOW and the LOW Tag Team Championship, and the card's Other Feds reads LOW; the card's 'AWC Chapter: Founded July 2006' dates the AWC run, which precedes this record's PRIME years."
+   }
+  ],
+  "notes": "PTCpedia names this team's finisher per federation — the Blackball (a flapjack from Cobb into a cutter from Korver) at PRIME and the Blutarski Bomb (a diving powerbomb into a neckbreaker) at AWC and Global — and lists the Fratricide as a SIGNATURE move rather than the finisher, describing it as a sidewalk slam from Cobb with a springboard or turnbuckle leg drop from Korver. LOW's own bio card, which this record holds, calls the Fratricide the finisher and describes it the other way round, as a back body drop from Korver with a spinning powerbomb from Cobb. Both readings stand (#sources-disagree). PTCpedia's own three articles for this team and its two members (/promotions/ptc/archive/ptcpedia-delta-upsilon-iota.html, ptcpedia-colby-korver.html and ptcpedia-hank-cobb.html, all captured 20 Aug 2010) are one filled-in template repeated three times — which is why the census's own cross-index paired them as candidate duplicates; they are a tag team and its two members, not one person, and this record's own merge assertion against PRIME's card already carries the join. As the wiki's own secondary account the three articles agree on LOW, AWC, Global and PRIME as the federations, the LOW Tag Team Championship as the only title, \"Master of Puppets\" by Metallica as the entrance, Digital Mortality (Global) and Jimmy Bonafide (PRIME) as allies and Jason Natas (PRIME) as the rival, and they add three PRIME pay-per-view appearances — Colossus V (with Jimmy Bonafide against Jason Natas and MegaJob), UltraViolence 2008 (against Team V.I.A.G.R.A. and Risk & Reward) and Culture Shock 2008 (as The Dual Halo). None is filed as a structured appearance: the claims are the wiki's own and no held PRIME document answers to them."
+ },
+ {
+  "id": "justice-incorporated",
+  "type": "unit",
+  "name": "Justice Incorporated",
+  "tenures": [
+   {
+    "promotion": "low",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster pages (full roster listing)",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "note": "First and last seen are the earliest and latest year the fed's own surviving record actually places this character; the record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "Named on LOW's own roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-diamonds",
+  "type": "unit",
+  "name": "The Diamonds",
+  "tenures": [
+   {
+    "promotion": "low",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster pages (main roster)"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "Named on LOW's own roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-metallo-zords",
+  "type": "unit",
+  "name": "The Metallo Zords",
+  "aka": [
+   "Metallo Zords",
+   "The Zords"
+  ],
+  "tenures": [
+   {
+    "promotion": "low",
+    "roles": [
+     "wrestler"
+    ],
+    "hometown": ". . . A galaxy far, far away.",
+    "height": "6'3, 6'4",
+    "weight": "240, 245",
+    "style": "Martial Arts / High Flyers",
+    "finisher": "The Massive Metallo Meltdown (Double Swanton Bomb one to head and chest and one to stomach and legs.)",
+    "alignment": "Face",
+    "entrance_music": {
+     "verbatim": "'Pink Power Ranger' by Bickley."
+    },
+    "source": "the fed's own bio card, served at promotions/low/archive/the-metallo-zords-bio-card.html (www.lowonline.net:80/cgi-bin/superstars.cgi?zords); the fed's own roleplay board index (23 posts)",
+    "first_seen": "2003",
+    "last_seen": "2004",
+    "note": "First and last seen are the earliest and latest year the fed's own surviving record actually places this character; the record does not state a debut or a departure. The fed's own record page (cgi-bin/record.cgi?zords, captured 2003-10-21) states 7 matches, 7 wins, 0 losses, 0 draws. Its Cluster, Pay Per View and Main Event rows count the same matches its Singles and Tag rows already do, so only the Singles and Tag figures are recorded as format buckets; the fed's own cross-cutting figures read Pay Per View 1 (1-0). The team's own bio card gives its members outright, in the kayfabe Real Name field: \"Gold Ranger and Silver Ranger\".",
+    "record": {
+     "single_w": 3,
+     "single_l": 0,
+     "single_d": 0,
+     "tag_w": 4,
+     "tag_l": 0,
+     "tag_d": 0,
+     "ppv_w": 1,
+     "ppv_l": 0,
+     "ppv_d": 0
+    }
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "The Gold Ranger and The Silver Ranger under one name, LOW Tag Team Champions from August 2003 until they were beaten up a ladder on the fed's own fiftieth Realm.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 2,
+    "rps": 19,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "members": [
+   {
+    "name": "The Gold Ranger",
+    "character_id": "the-gold-ranger"
+   },
+   {
+    "name": "The Silver Ranger",
+    "character_id": "the-silver-ranger"
+   }
+  ]
+ },
+ {
+  "id": "the-shadow-riders-low",
+  "type": "unit",
+  "name": "The Shadow Riders",
+  "aka": [
+   "Shadow Riders"
+  ],
+  "tenures": [
+   {
+    "promotion": "low",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster pages (full roster listing, main roster)"
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2004-08-22",
+    "last_seen": "2004-08-22",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "PTC Survival's own backstage database (accession 0159), bio 19850",
+    "note": "Dated from PTC's own announcement of the Survival event (22 August 2004); the fed's own booking record posts the results on 9 November 2004.",
+    "role": "wrestler — billed from LOW"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": false,
+  "caption": "Named on LOW's own roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PTC's own entrant card (Survival, accession 0159, bio 19850) is this record: the served Survival team list and card (PTC news of 8 August 2004): Tag Team Title match 'The Shadow Riders (LOW)', the winners (title_changes_won 1); card Other Feds LOW; the unit is LOW's own roster entry (membership unknown). The served show text names its members as 'Superstar' Eric Russo and Jason Kage, both held on low (eric-russo, 2003-2005; jason-kage, 2004-2005)."
+   }
+  ],
+  "members": [
+   {
+    "name": "Eric Russo",
+    "character_id": "eric-russo"
+   },
+   {
+    "name": "Jason Kage",
+    "character_id": "jason-kage"
+   }
+  ]
+ },
+ {
+  "id": "the-westside",
+  "type": "unit",
+  "name": "The Westside",
+  "tenures": [
+   {
+    "promotion": "low",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster pages (full roster listing)",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "note": "First and last seen are the earliest and latest year the fed's own surviving record actually places this character; the record does not state a debut or a departure."
+   }
+  ],
+  "unit_kind": "tag-team",
+  "membership_unknown": true,
+  "caption": "Named on LOW's own roster.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-saikyo-system",
+  "type": "unit",
+  "name": "The Saikyo System",
+  "aka": [
+   "Saikyo System"
+  ],
+  "tenures": [
+   {
+    "promotion": "low",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own served Realm 48 and Wednesday Night Realm 50th Edition, which bill the team and name both members",
+    "first_seen": "2004",
+    "last_seen": "2004",
+    "note": "First and last seen are the earliest and latest year the fed's own surviving record actually places this team; the record does not state a debut or a departure."
+   }
+  ],
+  "members": [
+   {
+    "name": "Raizo Tenzan",
+    "character_id": "raizo-tenzan-pure"
+   },
+   {
+    "name": "Lotus",
+    "character_id": "lotus-low"
+   }
+  ],
+  "unit_kind": "tag-team",
+  "caption": "Raizo Tenzan and Lotus, who took LOW's own Tag Team Championship off the Metallo Zords in a ladder match on the fed's fiftieth Realm.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ }
+]

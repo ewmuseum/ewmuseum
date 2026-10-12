@@ -1,0 +1,14 @@
+{
+  "_schema_version": 1,
+  "_note": "THE ROLEPLAY REGISTER — framework only, per the promoter's own gavel: \"we should at least add the framework for RPs as well.\" Roleplays (individual promos/segments/matches written in character, as opposed to a full show script) are the hobby's primary literature, and the corpora hold thousands of them across the held promotions' digests — PCW alone accounts for 279 targeted RPs plus a general archive of roughly 11,700 posts; OSW's board and the drive's own UWF boards hold more again. None of that has been curated into served artifact pages yet, so this file starts empty rather than claim rows that don't exist. Add a row only once a served page exists for it to point at (`served_url`) — an unserved RP is not yet a museum holding, it's still in the corpus.",
+  "schema": {
+    "id": "slug, unique in the registry namespace",
+    "title": "the RP's own title, or a first-line-derived label if it never had one",
+    "involves": "array of CHARACTER and/or UNIT entity ids who APPEAR/participate in this RP — main character, side character, or a team as a whole, no distinction made in the registry ('whether Eric Cameron is the main character or a side character, it's still worth connecting the RP to the character' — promoter's own words). Never a handler/real name (the privacy rule, CURATION.md). A tag-team/stable RP may list the unit, individual members, or both.",
+    "references": "array of CHARACTER and/or UNIT entity ids merely named/invoked in this RP but NOT present — the trash-talked opponent, the namedropped commissioner. An entity is in involves OR references for a given RP, never both. Both fields are for discovery/linking only — they assert a connection, not a voice; the served document itself is what speaks, in whatever voice it was written in.",
+    "promotion": "a held promotion id",
+    "date": "{ date, precision: exact|month|year|circa|unknown, source? } — same shape as data/shows.json",
+    "served_url": "page this RP is served on, or null if not yet curated onto the site",
+    "source": "corpus receipt — which digest/archive this was mined from"
+  }
+}

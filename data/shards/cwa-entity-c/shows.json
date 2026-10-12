@@ -1,0 +1,46 @@
+[
+ {
+  "id": "cwa-c-exhibition-match-1997-08-25",
+  "type": "show",
+  "name": "Cyber Wrestling Exhibition Match",
+  "promotion": "cwa-entity-c",
+  "date": {
+   "date": "1997-08-25",
+   "precision": "exact",
+   "source": "The post's own subject line and posting date."
+  },
+  "page": "/promotions/cwa-entity-c/rp/cwa-c-exhibition-match-1997-08-25.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "deadpool-cwa-entity-c",
+    "kind": "match"
+   },
+   {
+    "who": "the-shamus-cwa-entity-c",
+    "kind": "match"
+   },
+   {
+    "who": "tim-linch-cwa-entity-c",
+    "kind": "match",
+    "capacity": "referee"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "deadpool-cwa-entity-c"
+     ],
+     [
+      "the-shamus-cwa-entity-c"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "Non-sanctioned exhibition match, no time limit rules stated beyond a twenty-minute limit; won by submission (\"The Dead Lock\")."
+   }
+  ],
+  "notes": "The fed's own recruitment-drive exhibition match, staged to advertise ahead of its announced (never-confirmed) first Pay-Per-View, Cyber Combat. A ring announcer (Ted Fitsgeral), two commentators (Chris Figoro, Anastasia Osborne) and a cameo (The All-Star Wrestler) are named in the served page text but not separately minted."
+ }
+]

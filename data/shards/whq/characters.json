@@ -1,0 +1,211 @@
+[
+  {
+    "id": "john-austin",
+    "type": "character",
+    "name": "John Austin",
+    "tenures": [
+      {
+        "promotion": "whq",
+        "role": "Tim Fitzgerald's character in Wrestling's Highest Quality, where he fedded alongside the future Semi Gair",
+        "source": "Wayback captures of s4.zetaboards.com/MWEntertainment, the fed's own board (workshop-held, 2008-2018 capture window) — a fellow member's own out-of-character tribute: \"fedded as Semi with Tim (as John Austin) in WHQ.\"",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source"
+      },
+      {
+        "promotion": "mwe",
+        "first_seen": "2007",
+        "last_seen": "2008",
+        "role": "An MWE original of the fed's own 2007 first season — the man Sonny Williams faced on MWE's first show — written out of the ring early with a staged career-ending injury and staged once more a year later, out of the ring, in another wrestler's roleplay",
+        "source": "MWE's own served documents. The first show: promotions/mwe/archive/tribulation-2009-05-24.html, where MWE's own owner inducts Sonny Williams into the fed's Hall of Fame as \"the ONLY superstar in MWE history to go from facing John Austin to David Whitman\", over \"the memories from MWE's first show\". The 2007 window and standing: promotions/mwe/rp/faking-it.html, 14 August 2008 — \"I still remember the days of John Austin\" and \"John Austin was a good man...who made Sonny Williams look like hot shit\", against that same document's own \"Approximately one year ago...Sonny Williams was kicking the show off\"; promotions/mwe/rp/setting-the-tone.html, 6 August 2008 — \"you'd be NOTHING without John Austin. Yeah I said it, John Austin is better than Sonny Williams EVER will be\"; promotions/mwe/rp/different-time-same-result.html, 10 January 2009 — \"bring back John Austin or whatever other old MWE orignal\"; promotions/mwe/rp/theres-15-and-a-pack-of-marbs-sitting-next-to-me-while-i.html, 20 November 2009, which invokes the name the same way. The staged appearance: promotions/mwe/rp/memoirs-of-a-superstar.html, 28 September 2008, where the character speaks his own lines and accounts for his own exit — \"A few weeks after i started MWE I had a career ending injury\".",
+        "roles": [
+          "wrestler"
+        ],
+        "grade": "primary-source",
+        "note": "Checked: mwe's own shows shard carries no John Austin anywhere (0 hits), and the two held rows from the original run (mwe-independence-day-2007, mwe-crowning-glory-i) are themselves collected:false and neither is billed as the first show."
+      }
+    ],
+    "caption": "The character Tim Fitzgerald wrestled as — an MWE original of the 2007 first season, and the name he carried in the sibling ring Wrestling's Highest Quality.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "merged",
+        "grade": "primary-source",
+        "note": "GAVEL, 2026-09-02 (\"Agreed on the Austin memorial connection\"): MWE's 2007 John Austin and this row are ONE character, and the name recurrence the whq wing had recorded without resolving (data/promotions.json, whq's own fourth provenance note) is ruled a join rather than a coincidence. The receipt is one author's own two-part roleplay of 14 March 2009, which says it from both sides: in character, promotions/mwe/rp/a-semi-rolls-through.html — \"In WHQ, I worked with a man named John Austin\"; out of character, promotions/mwe/rp/still-just-rolling-through.html — \"fedded as Semi with Tim (as John Austin) in WHQ.\" Same full name on both sides, the same family of federations (WcE, WWA, eWa, SWA, WHQ, MWE), adjoining eras, and the same voice attesting both. No MWE-side character row exists or is owed: MWE never carried one, so the mwe tenure reaches MWE from this row rather than a second row being minted and merged. Distinct from MWE's own separately carded jeff-austin-mwe — re-checked, different given name, different staging.",
+        "with": []
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "fandom": "John Austin"
+  },
+  {
+    "id": "jack-savage-whq",
+    "type": "character",
+    "name": "Jack Savage",
+    "tenures": [
+      {
+        "promotion": "whq",
+        "role": "wrestler and on-screen owner — \"WHQ's Hardcore Icon, the current owner of WHQ\" on MWE's own commentary, and Jesse \"Semi\" Anderson's biggest rival out of that company; MWE's own text also has him hand a WHQ championship over inside an MWE ring and speaks of a \"Jack Savage comeback\" in WHQ",
+        "roles": [
+          "wrestler",
+          "authority-figure"
+        ],
+        "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine) — the ring announcer's own billing: \"And, representing Wrestling's Highest Quality, Jesse 'Semi' Anderson, Jack Savage, Dylan Duncan, and Krauser\" — after which \"the thirteen men begin to walk down the ramp towards the ring.\" Further WHQ receipts inside MWE's own served text: the same document's commentary during the Terror Dome match; promotions/mwe/rp/rolling-down-the-highway-to-hell.html (\"Jack Savage, who is Semi's biggest rival in WHQ, actually came down to the ring in MWE and handed Semi the title\"); promotions/mwe/rp/going-home.html (\"no Jack Savage comeback\" among the things WHQ would not have had).",
+        "grade": "primary-source",
+        "note": "The ownership is an in-fiction billing of a staged character, recorded as such; it asserts nothing about any real operator — the same reading the whq promotion row already carries."
+      },
+      {
+        "promotion": "mwe",
+        "first_seen": "2009-03",
+        "last_seen": "2009-03",
+        "role": "visiting WHQ owner — announced into the ring with the thirteen-man delegation, then walked out during the Terror Dome match with a pair of bolt cutters, cut the three padlocks off the structure's own door, took the X-Television title off the timekeeper's table, lariated Alex Bowen with the belt around his arm to decide the match, and placed the belt on the winner's shoulder before leaving",
+        "roles": [
+          "other"
+        ],
+        "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine) — the ring announcer's own billing: \"And, representing Wrestling's Highest Quality, Jesse 'Semi' Anderson, Jack Savage, Dylan Duncan, and Krauser\" — after which \"the thirteen men begin to walk down the ramp towards the ring.\" His interference is staged in that same document's Terror Dome match; MWE's own commentary calls it there.",
+        "grade": "primary-source",
+        "note": "Dated to the one show this character is staged on; MWE's own record states neither a debut nor a departure, and the show itself is filed at month precision because the fed's own receipts for it disagree."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A bare-name collision, guarded rather than resolved: a \"Jack Savage\" also appears in ACW's own served fan-message board as the last name in a list of champions of a promotion billed DSW (promotions/acw/archive/fan-357-gabriel-malik-walczak.html and its two follow-ups). Nothing joins the two — no shared promotion, date, moniker or text naming both — and the name is a common wrestling archetype, so they are recorded as distinct entities and the ACW occurrences are flagged for the auto-linker's own per-page exclusion list rather than linked to this row.",
+        "with": []
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption": "Wrestling's Highest Quality's Hardcore Icon and, on a rival federation's commentary, its current owner — the man who cut the padlocks off a thirty-foot cage and handed his own rival a championship.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  },
+  {
+    "id": "dylan-duncan-whq",
+    "type": "character",
+    "name": "Dylan Duncan",
+    "tenures": [
+      {
+        "promotion": "whq",
+        "role": "wrestler — announced by name into MWE's ring as one of Wrestling's Highest Quality's own four-man delegation, walking down with the thirteen and standing with them through the tribute segment",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine) — the ring announcer's own billing: \"And, representing Wrestling's Highest Quality, Jesse 'Semi' Anderson, Jack Savage, Dylan Duncan, and Krauser\" — after which \"the thirteen men begin to walk down the ramp towards the ring.\" Also named among WHQ's own in promotions/mwe/rp/going-home.html's roster recital.",
+        "grade": "primary-source"
+      },
+      {
+        "promotion": "mwe",
+        "first_seen": "2009-03",
+        "last_seen": "2009-03",
+        "role": "visiting WHQ representative — announced into the ring with the thirteen-man delegation and standing in it through the segment",
+        "roles": [
+          "other"
+        ],
+        "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine)",
+        "grade": "primary-source",
+        "note": "Dated to the one show this character is staged on; MWE's own record states neither a debut nor a departure, and the show itself is filed at month precision because the fed's own receipts for it disagree."
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption": "A Wrestling's Highest Quality wrestler, called out by name among the four WHQ men who walked into MWE's ring together in March 2009.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    },
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "michael-duncan-tpg"
+        ],
+        "note": "A mint-guard substring hit, silenced as a coincidence rather than merged: the guard's own normalization strips punctuation and case, so the two share the surname Duncan and nothing else — different given names, different promotions, no served text naming both. Recorded so the guard stops re-raising it."
+      }
+    ]
+  },
+  {
+    "id": "krauser-whq",
+    "type": "character",
+    "name": "Krauser",
+    "tenures": [
+      {
+        "promotion": "whq",
+        "role": "wrestler — announced by name into MWE's ring as one of Wrestling's Highest Quality's own four-man delegation, walking down with the thirteen and standing with them through the tribute segment",
+        "roles": [
+          "wrestler"
+        ],
+        "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine) — the ring announcer's own billing: \"And, representing Wrestling's Highest Quality, Jesse 'Semi' Anderson, Jack Savage, Dylan Duncan, and Krauser\" — after which \"the thirteen men begin to walk down the ramp towards the ring.\"",
+        "grade": "primary-source"
+      },
+      {
+        "promotion": "mwe",
+        "first_seen": "2009-03",
+        "last_seen": "2009-03",
+        "role": "visiting WHQ representative — announced into the ring with the thirteen-man delegation and standing in it through the segment",
+        "roles": [
+          "other"
+        ],
+        "source": "MWE's own served memorial show of March 2009, promotions/mwe/archive/tim-fitzgerald-memorial-show-2009.html (the fed's own board, s4.zetaboards.com/MWEntertainment topic 7593862, via the Wayback Machine)",
+        "grade": "primary-source",
+        "note": "Dated to the one show this character is staged on; MWE's own record states neither a debut nor a departure, and the show itself is filed at month precision because the fed's own receipts for it disagree."
+      }
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "note": "A bare-name collision, guarded rather than resolved: OSW's own served card names a Wilhelm \"Von\" Krauser of its Red Army stable (promotions/osw/archive/slam-2003-02-09.html, 2003), and ACW's own served roleplay lists a Krauser among names a character recites (promotions/acw/rp/touched-two.html). Neither is registered; nothing joins any of them to this one — different promotions, different years, no text naming two together — so they are recorded as distinct. The single-word name is barred from cross-promotion auto-linking by the linker's own bare-name rule.",
+        "with": []
+      }
+    ],
+    "staged_gender": "male",
+    "staged_gender_grade": "pronoun-observed",
+    "caption": "A Wrestling's Highest Quality wrestler, called out by name among the four WHQ men who walked into MWE's ring together in March 2009.",
+    "caption_asof": {
+      "written": "2026-09-02",
+      "evidence": {
+        "tenures": 2,
+        "reigns": 0,
+        "appearances": 1,
+        "rps": 0,
+        "awards": 0,
+        "relationships": 0
+      },
+      "author": "ai"
+    }
+  }
+]

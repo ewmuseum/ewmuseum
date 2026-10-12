@@ -1,0 +1,267 @@
+
+<!-- chrome:head:start -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Frontier &mdash; E-WRESTLING MUSEUM</title>
+<script src="/js/theme.js?v=5"></script>
+<link rel="stylesheet" href="/style.css?v=22">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://ewmuseum.org/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="masthead">
+  <div class="inner">
+    <a class="wordmark" href="/"><svg class="ringmark-lg" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><use href="/ringmark.svg#ewm"/></svg><svg class="ringmark" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><rect class="m-apron" width="16" height="16" rx="2"/><rect class="m-rope" x="2.5" y="2.5" width="11" height="11"/><path class="m-pad" d="M0 0h4v4H0zM12 0h4v4h-4zM0 12h4v4H0zM12 12h4v4h-4z"/><rect class="m-core" x="6" y="6" width="4" height="4"/><rect class="m-edge" x=".5" y=".5" width="15" height="15" rx="1.5"/></svg><span class="wm-text">THE E-WRESTLING <span class="nw">MUSEUM<span class="dot">.</span></span></span></a>
+    <div class="tagline">a museum of fantasy wrestling, built one collection at a time</div>
+    <nav class="gallery">
+      <a href="/promotions.html">Wings</a>
+      <a href="/characters.html">Characters</a>
+      <a href="/units.html">Units</a>
+      <a href="/relationships.html">Relationships</a>
+      <a href="/shows.html">Shows</a>
+      <a href="/matches.html">Matches</a>
+      <a href="/appearances.html">Appearances</a>
+      <a href="/rps.html">Roleplays</a>
+      <a href="/championships.html">Championships</a>
+      <a href="/reigns.html">Reigns</a>
+      <a href="/awards.html">Awards</a>
+      <a href="/bestowals.html">Bestowals</a>
+      <a href="/halloffame.html">Halls of Fame</a>
+      <a href="/in-memoriam.html">In Memoriam</a>
+      <a href="/essays.html">Essays</a>
+    </nav>
+  </div>
+  <span id="main-content" tabindex="-1"></span>
+</header>
+<!-- chrome:head:end -->
+
+
+<main class="wrap">
+  <p class="crumb"><a href="/">Museum</a> &nbsp;/&nbsp; <a href="/promotions.html">Wings</a> &nbsp;/&nbsp; Frontier</p>
+
+  <span class="kicker">The Frontier</span>
+  <h1>Named, but not yet held</h1>
+  <p class="lede">This lists the potential wings we know of but have not yet collected or served: some because we only know a name, some because we have limited bandwidth on collection and processing, and some because they're currently active. The list is prioritized in the queue order: memorializing our lost takes priority, followed by the oldest leads most likely to be lost to the sands of time. If you have details on how the list can be improved (wings we don't know about, URLs for ones we only have a name for, etc.) please contact us at frontier[at]ewmuseum.org or through the <a href="https://forum.ewmuseum.org">forum</a>!</p>
+
+  <p>
+    <label class="label-offscreen" for="q">Search by promotion name</label>
+    <input class="filter-input filter-input--search" id="q" type="text" placeholder="Search by promotion name" autocomplete="off" spellcheck="false">
+    <label class="label-offscreen" for="filter">Add a filter</label>
+    <input class="filter-input" id="filter" type="text" list="filter-options" placeholder="Add a filter&hellip;" autocomplete="off" spellcheck="false">
+    <datalist id="filter-options"></datalist>
+  </p>
+  <p class="query-examples"><span class="query-examples-label">Start with</span><button type="button" class="query-chip" data-q="status:unverified">Unverified</button><button type="button" class="query-chip" data-q="kind:hub">Community hubs</button></p>
+  <p id="status" class="muted small" aria-live="polite"></p>
+  <div id="fields-help"></div>
+  <noscript><p class="muted">The frontier list is drawn by script, so it needs JavaScript. The wings the museum does hold are listed in <a href="/promotions/a-z/">the wings A&ndash;Z</a>.</p></noscript>
+  <div id="results"></div>
+
+<script src="/js/query.js?v=7"></script>
+<script src="/js/list.js?v=14"></script>
+<script>
+(function () {
+  "use strict";
+  var input = document.getElementById("q");
+  var filter = document.getElementById("filter");
+  var filterOptions = document.getElementById("filter-options");
+  var container = document.getElementById("results");
+  var status = document.getElementById("status");
+  var fieldsHelp = document.getElementById("fields-help");
+
+  // THE ACTIVE-EFEDS REGISTER REFINEMENT (2026-08-20): the
+  // "verified-alive" status (renamed from living-do-not-touch, 2026-08-25)
+  // stays exactly what it is in the data — this map is presentation
+  // only, so the visible page reads as the founder's own words describe
+  // it: "linking to them helps them," an outward register of active
+  // promotions, not raw curation-machinery vocabulary.
+  function outwardStatus(status) {
+    var m = { "verified-alive": "Active promotion", "verified-dead": "No longer active", "unverified": "Not verified", "mined": "Read into the record", "held": "Held as a wing" };
+    return m[status] || status;
+  }
+
+  Promise.all([
+    MuseumList.fetchJSON("/data/frontier.json"),
+    MuseumList.fetchJSON("/data/frontier-index.json"),
+    MuseumList.fetchJSON("/data/memorials.json")
+  ]).then(function (results) {
+    var rows = results[0];
+    var connByName = {};
+    (results[1] || []).forEach(function (x) { connByName[x.name] = x.connections; });
+    // memorial id -> the person's name, so a memorial-linked row can say
+    // WHOSE memory it stands in (the #2 queue key), not just that it has one.
+    var memById = {};
+    (results[2] || []).forEach(function (m) { memById[m.id] = m.name; });
+    rows = rows || [];
+    // Named, not held — no page exists to link to (except a living row's
+    // own confirmed outbound url, where one is on file); `sub` carries
+    // the outward status (and where the name was first seen) the way a
+    // roster card elsewhere carries a promotion. `fields` is
+    // js/query.js's mechanical flattenFields() over the frontier row's
+    // own record (status, first_seen_in, memorial_linked, ...) — the
+    // real "verified-alive" value stays searchable there even
+    // though the visible label above it reads friendlier.
+    // THE CHROME I18N STEP (THE ECOSYSTEM EXPANSION GAVEL, 2026-09-05,
+    // step 2; the law, v112(d); hook c190) — L98's own open question 6, routed here:
+    // ruling 5 put `language`/`country` on frontier.json and named no
+    // rendering, and step 3's discovery lanes write both from day one. This
+    // register renders plain-text subParts rather than chips, so the two
+    // scene facts say themselves in its own voice. A tag or code with no
+    // entry renders as itself rather than as a guess.
+    var LANGUAGE_LABELS = { "de": "German", "it": "Italian", "pl": "Polish", "ko": "Korean", "fr": "French", "es": "Spanish", "pt": "Portuguese", "pt-BR": "Portuguese (Brazil)", "ja": "Japanese", "nl": "Dutch", "sv": "Swedish", "da": "Danish", "nb": "Norwegian", "fi": "Finnish", "ru": "Russian", "ar": "Arabic", "tr": "Turkish", "cs": "Czech", "hu": "Hungarian", "el": "Greek", "he": "Hebrew", "hi": "Hindi", "id": "Indonesian", "th": "Thai", "vi": "Vietnamese", "zh-Hans": "Chinese (simplified)", "zh-Hant": "Chinese (traditional)" };
+    var COUNTRY_LABELS = { "PL": "Poland", "DE": "Germany", "IT": "Italy", "KR": "South Korea", "FR": "France", "ES": "Spain", "PT": "Portugal", "BR": "Brazil", "JP": "Japan", "NL": "the Netherlands", "SE": "Sweden", "DK": "Denmark", "NO": "Norway", "FI": "Finland", "RU": "Russia", "TR": "Turkey", "CZ": "Czechia", "HU": "Hungary", "GR": "Greece", "IL": "Israel", "IN": "India", "ID": "Indonesia", "TH": "Thailand", "VN": "Vietnam", "MX": "Mexico", "AR": "Argentina", "AT": "Austria", "CH": "Switzerland", "BE": "Belgium", "IE": "Ireland", "ZA": "South Africa", "AU": "Australia", "NZ": "New Zealand", "CA": "Canada", "GB": "the United Kingdom", "US": "the United States" };
+    // THE FRONTIER QUEUE, re-cut 2026-10-08 to the queue the collection
+    // actually runs (the workshop's QUEUE-POLICY.md, revised the same day
+    // on the Janitor's own words: "priority should be based on the earlier
+    // year we observed them" and "there's no real harm in continuing to put
+    // every year at different priority numbers"). The page and the queue
+    // sort on ONE key, so they can never tell a visitor two different
+    // stories about what gets collected next: every row carries a
+    // PRECOMPUTED `queue_year` — its EARLIEST ATTESTED year, from its
+    // founding, the year we first observed it, a year inside its own
+    // provenance string, the wing whose pages name it, or its prose — and
+    // `queue_year_basis`, the field that produced it. Nothing here
+    // recomputes the year: the key is one function in the workshop
+    // (tools/year_key.py, which also bands the Wayback and Common Crawl
+    // legs), and a second implementation in a page would be a second
+    // answer. scripts/fixers/fix-frontier-queue-year.py keeps the two
+    // fields fresh as rows are added and dated.
+    //
+    // The bands, in order:
+    //   0  memorial-linked — the fallen first (the standing care priority)
+    //   1  community hubs — one listing reveals many feds at once
+    //   2  ONE STEP PER YEAR, oldest first: 1988, 1989, ... 2026
+    //   3  nothing on the row dates it at all
+    //   4  still running — listed because this ledger is a list of leads,
+    //      but the dead-only rule means they cannot be collected, so they
+    //      hold no place in a collection queue
+    // Within a band, and within a year step, the rows read A–Z by name.
+    //
+    // Held and mined rows are not on this page at all (the filter below):
+    // the lede promises what the museum has NOT collected, and a row we
+    // already hold is not a lead. That is also why XXXWF — a 1995 Usenet
+    // fed with an eight-year run — used to sit dead last: it is held.
+    function queueBand(r) {
+      if (r.status === "verified-alive") return 4;
+      if (r.memorial_linked) return 0;
+      if (r.kind === "hub") return 1;
+      return typeof r.queue_year === "number" ? 2 : 3;
+    }
+    function queueRank(r) {
+      var band = queueBand(r);
+      return [band, band === 2 ? r.queue_year : 0];
+    }
+    // The basis in the page's own voice — why this row sits where it does.
+    // A value with no entry renders as the year alone rather than as a guess.
+    var BASIS_LABELS = {
+      "founded_year": "the year it was founded",
+      "observed_year": "the year we first saw it running",
+      "first_seen_in": "the dated source that named it",
+      "name": "the year written into its name",
+      "held-wing": "a wing we hold, whose own pages name it",
+      "last_activity": "the last year it was active",
+      "notes": "a year in our own notes"
+    };
+    var listRows = rows.filter(function (r) {
+      return r.status !== "held" && r.status !== "mined";
+    }).map(function (r) {
+      var subParts = [];
+      // THE HUB ADMISSION (2026-08-25): community hubs ride the ledger
+      // alongside promotions, marked first on the row so the two read
+      // apart at a glance — and filter apart: kind:hub / -kind:hub.
+      if (r.kind === "hub") subParts.push("community hub");
+      if (r.language && r.language !== "en") subParts.push("in " + (LANGUAGE_LABELS[r.language] || r.language));
+      if (r.country) subParts.push("community in " + (COUNTRY_LABELS[r.country] || r.country));
+      // Make the queue's own sort keys legible on the row itself, in the
+      // order the ledger ranks by: the fallen first (memorial), then the
+      // oldest material (attestation year), then the most central
+      // (promotion edges). Everything the sort weighs, the reader can see.
+      if (r.memorial_linked) {
+        var who = r.memorial && memById[r.memorial];
+        subParts.push(who ? "in memory of " + who : "memorial-linked");
+      }
+      if (typeof r.queue_year === "number") {
+        var basis = BASIS_LABELS[String(r.queue_year_basis || "").split(":")[0]];
+        subParts.push("queued at " + r.queue_year + (basis ? " \u2014 " + basis : ""));
+      } else {
+        subParts.push("no year on file yet");
+      }
+      if (r.status) subParts.push(outwardStatus(r.status));
+      if (r.status === "verified-alive" && r.last_checked) subParts.push("last checked " + r.last_checked);
+      // PROSE-FIX-01 (2026-09-13; proposal.md #2.10) — this pushes a PLAIN
+      // JS STRING, not HTML: the escape boundary for every subParts entry
+      // (this one and every other push() above/below it, first_seen_in and
+      // community_presence[].hub included) is one layer down, in
+      // js/list.js's defaultRenderRow(), which runs esc() over the WHOLE
+      // joined `sub` string before it ever reaches innerHTML (this page
+      // passes no custom renderRow, so that path is the only one this
+      // page's rows take). Escaping first_seen_in/hub HERE, before the
+      // join, would DOUBLE-ESCAPE them there instead — a live regression
+      // for any value containing "&" or a quote (222 first_seen_in/hub
+      // values on file today have one), not a fix. Verified
+      // against js/list.js:35-38 (esc()) and :201-207 (defaultRenderRow)
+      // before leaving this as plain string-building; see findings.md.
+      if (r.first_seen_in) subParts.push("first seen in " + r.first_seen_in);
+      if (r.observed_year) subParts.push("first attested " + r.observed_year);
+      if (r.founded_year) subParts.push("founded " + r.founded_year);
+      var conn = connByName[r.name];
+      if (conn) subParts.push(conn + " promotion edge" + (conn === 1 ? "" : "s"));
+      if (r.community_presence && r.community_presence.length) {
+        var hubs = [];
+        r.community_presence.forEach(function (cp) {
+          if (cp && cp.hub && hubs.indexOf(cp.hub) === -1) hubs.push(cp.hub);
+        });
+        if (hubs.length) subParts.push("present on " + hubs.join(", "));
+      }
+      // Named but addressless: no page exists to link to. Say so plainly
+      // rather than let a bare row read like a missing-link oversight.
+      var collectable = (r.status === "unverified" || r.status === "verified-dead");
+      if (collectable && !r.url) subParts.push("no address on file");
+      return {
+        label: r.name, sub: subParts.join(" · "), href: r.url || null,
+        search: (r.name + " " + (r.first_seen_in || "") + " " + (r.notes || "")).toLowerCase(),
+        fields: MuseumQuery.flattenFields(r),
+        rank: queueRank(r)
+      };
+    }).sort(function (a, b) {
+      for (var i = 0; i < a.rank.length; i++) {
+        if (a.rank[i] < b.rank[i]) return -1;
+        if (a.rank[i] > b.rank[i]) return 1;
+      }
+      return MuseumList.byName(function (r) { return r.label; })(a, b);
+    });
+
+    MuseumList.wireList({
+      windowSize: 200,
+      input: input,
+      filterInput: filter,
+      filterDatalist: filterOptions,
+      container: container,
+      rows: listRows,
+      status: status,
+      fieldsHelp: fieldsHelp
+    });
+  });
+})();
+</script>
+
+<!-- chrome:footer:start -->
+  <footer role="contentinfo">
+THE E-WRESTLING MUSEUM <span class="rule">/</span> Frontier <span class="rule">/</span>
+    <a href="/promotions.html">back to the wings</a><br>
+    Written 2026 &mdash; not backdated. See <a href="/curation.html">Curation</a>.
+    <!-- footernav:start --><nav class="footnav" aria-label="Elsewhere"><a href="/search.html">Search</a> <span class="rule">/</span> <a href="https://forum.ewmuseum.org">The forum</a> <span class="rule">/</span> <a href="https://e-wrestling.org">e-wrestling.org</a></nav><!-- footernav:end -->
+  </footer>
+</main>
+</body>
+</html>
+<!-- chrome:footer:end -->

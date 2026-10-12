@@ -1,0 +1,108 @@
+[
+ {
+  "id": "sbs-world-1-dubois",
+  "type": "reign",
+  "title": "sbs-world-championship",
+  "holder": [
+   {
+    "id": "rene-dubois-sbs"
+   }
+  ],
+  "won": {
+   "date": "1997",
+   "precision": "circa",
+   "source": "Champion entering the 27 April 1997 Brave New World PPV."
+  },
+  "lost": {
+   "date": "1997-06",
+   "precision": "circa",
+   "source": "Champion by Scorpion as of 9 June 1997; the exact change is not in the held record."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "sbs-world-2-scorpion",
+  "type": "reign",
+  "title": "sbs-world-championship",
+  "holder": [
+   {
+    "id": "scorpion-sbs"
+   }
+  ],
+  "won": {
+   "date": "1997-06",
+   "precision": "circa",
+   "source": "Confirmed champion, retaining by disqualification against Johnny Durante, 9 June 1997."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "No further change recorded before the fed's own closure (gap-registered between August and November 1997)."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "sbs-tv-1-zager",
+  "type": "reign",
+  "title": "sbs-television-championship",
+  "holder": [
+   {
+    "id": "zach-zager-sbs"
+   }
+  ],
+  "won": {
+   "date": "1997",
+   "precision": "circa",
+   "source": "Held entering Brave New World."
+  },
+  "lost": {
+   "date": "1997-04-27",
+   "precision": "exact",
+   "source": "Lost to Spawn by pinfall at Brave New World, 27 April 1997."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "sbs-tv-2-spawn",
+  "type": "reign",
+  "title": "sbs-television-championship",
+  "holder": [
+   {
+    "id": "spawn-sbs"
+   }
+  ],
+  "won": {
+   "date": "1997-04-27",
+   "precision": "exact",
+   "source": "Won by pinfall at Brave New World."
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "Zager is billed as champion again in a time-limit-draw match on the 24 May house show, but the corpus does not record a title change between Spawn's win and that broadcast -- recorded as an open question, not resolved here."
+  },
+  "end_how": "lost-in-match"
+ },
+ {
+  "id": "sbs-tag-1-vr",
+  "type": "reign",
+  "title": "sbs-world-tag-team-championship",
+  "holder": [
+   {
+    "name": "vengeance-and-retribution-sbs",
+    "unminted": true
+   }
+  ],
+  "won": {
+   "date": "1997",
+   "precision": "circa",
+   "source": "Won the titles at Brave New World."
+  },
+  "lost": {
+   "date": "1997",
+   "precision": "circa",
+   "source": "Stripped by President Marshall the following week; a four-corners elimination decided the next challengers, but no new champion is recorded in the held record."
+  },
+  "end_how": "lost-in-match"
+ }
+]

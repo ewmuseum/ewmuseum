@@ -1,0 +1,40 @@
+[
+ {
+  "id": "the-empire-lvw",
+  "type": "unit",
+  "name": "The Empire",
+  "unit_kind": "tag-team",
+  "members": [
+   {
+    "id": "the-captain-lvw"
+   },
+   {
+    "id": "aaron-roddick-lvw"
+   }
+  ],
+  "caption": "A fan-antagonizing tag team of \"The Captain\" and Aaron \"A-Rod\" Roddick who beat Olvir Arsvinnar and \"Knuckles\" Malone by disqualification at LVW's 4:18.",
+  "caption_asof": {
+   "written": "2026-09-07",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "lvw-2005",
+    "first_seen": "2009-03-16",
+    "last_seen": "2009-08-04",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "LVW's own \"The Return,\" \"High Stakes Battle Royal,\" and \"4:18\" show scripts"
+   }
+  ]
+ }
+]

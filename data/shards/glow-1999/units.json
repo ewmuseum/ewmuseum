@@ -1,0 +1,147 @@
+[
+  {
+    "id": "perfectly-perfect-duo-glow-1999",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "The Perfectly Perfect Duo",
+    "caption": "The promotion's own Tag Team Champions, retaining the title against a rival team at the promotion's own second pay-per-view with their manager at ringside.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "glow-1999",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999-06",
+        "last_seen": "1999-07-07",
+        "source": "The promotion's own broadcasts, June and July 1999."
+      }
+    ],
+    "membership_unknown": true,
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "perfectly-perfect-duo-aicw",
+          "perfectly-perfect-duo-fwf"
+        ],
+        "note": "Name collision only, against tag teams of the same name in two unrelated promotions; no shared operator, roster or storyline evidence."
+      }
+    ]
+  },
+  {
+    "id": "dark-justice-glow-1999",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Dark Justice",
+    "caption": "A tag team that opened the promotion's own second pay-per-view with a pinfall win, per its own members' handler's repeated newsgroup credits through the rest of 1999.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "glow-1999",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999-06-26",
+        "last_seen": "1999-12",
+        "source": "The promotion's own second pay-per-view (26 June 1999) and a member's own handler's repeated newsgroup credits through the rest of 1999."
+      }
+    ],
+    "members": [
+      "rick-stevens-glow-1999",
+      "brian-shaffer-glow-1999"
+    ],
+    "identity": [
+      {
+        "assertion": "distinct",
+        "grade": "presumed",
+        "with": [
+          "dark-justice-inwi",
+          "dark-justice-npwa"
+        ],
+        "note": "Name collision only, against tag teams of the same name in two unrelated promotions, one of them closed only weeks before this billing's own first appearance; that promotion's own surviving text does not name its Dark Justice's members, so no shared-member evidence links the two despite the coincidence in timing."
+      }
+    ]
+  },
+  {
+    "id": "gods-justice-glow-1999",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Gods Justice",
+    "caption": "Opened the promotion's own second pay-per-view on the losing end of a pinfall.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "glow-1999",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999-06-26",
+        "last_seen": "1999-06-26",
+        "source": "The promotion's own second pay-per-view, 26 June 1999."
+      }
+    ],
+    "membership_unknown": true
+  },
+  {
+    "id": "sons-of-savagery-glow-1999",
+    "type": "unit",
+    "unit_kind": "tag-team",
+    "name": "Sons of Savagery",
+    "caption": "Challenged unsuccessfully for the promotion's own Tag Team Championship at the promotion's own second pay-per-view.",
+    "caption_asof": {
+      "written": "2026-09-11",
+      "author": "ai",
+      "evidence": {
+        "tenures": 1,
+        "reigns": 0,
+        "appearances": 0,
+        "rps": 0,
+        "awards": 0
+      }
+    },
+    "tenures": [
+      {
+        "promotion": "glow-1999",
+        "roles": [
+          "wrestler"
+        ],
+        "first_seen": "1999-06-26",
+        "last_seen": "1999-06-26",
+        "source": "The promotion's own second pay-per-view, 26 June 1999."
+      }
+    ],
+    "membership_unknown": true
+  }
+]

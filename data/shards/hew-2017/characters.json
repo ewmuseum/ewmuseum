@@ -1,0 +1,165 @@
+[
+ {
+  "id": "mr-smooth-hew-2017",
+  "type": "character",
+  "name": "Mr. Smooth",
+  "caption": "An older authority figure who scouted the abandoned Hardcore City Arena for HEW's own comeback, guarded about admitting a mysterious former star, referred to only as \"HIM,\" back into the promotion.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "hew-2017",
+    "first_seen": "2017-04-08",
+    "last_seen": "2017-04-08",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "HEW's own comeback vignette, \"So, I'm Back Up in the Game\""
+   }
+  ]
+ },
+ {
+  "id": "simon-hew-2017",
+  "type": "character",
+  "name": "Simon",
+  "caption": "Mr. Smooth's own aide in HEW's comeback vignette, present when the promotion's return to the old Hardcore City Arena was first discussed.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "hew-2017",
+    "first_seen": "2017-04-08",
+    "last_seen": "2017-04-08",
+    "roles": [
+     "authority-figure"
+    ],
+    "source": "HEW's own comeback vignette, \"So, I'm Back Up in the Game\""
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (euwc-simon); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "euwc-simon"
+    ]
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (simons-wwa); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "simons-wwa"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "code-name-reaper-hew-2017",
+  "type": "character",
+  "name": "Code Name: Reaper",
+  "caption": "A masked challenger who declared his entry into HEW's own comeback Barbwire Gauntlet, calling out three named entrants by name; no result for the event survives.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 1,
+    "rps": 1,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "hew-2017",
+    "first_seen": "2017-04-09",
+    "last_seen": "2017-04-09",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "HEW's own entrance vignette, \"Into the Fray\""
+   }
+  ]
+ },
+ {
+  "id": "wayne-wilkins-hew-2017",
+  "type": "character",
+  "name": "Wayne",
+  "caption": "A no-nonsense farmer-gimmick brawler from rural Ontario, submitted as a wrestler application to HEW's own comeback.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "hew-2017",
+    "first_seen": "2017-04-15",
+    "last_seen": "2017-04-15",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "HEW's own \"Wayne Wilkins\" wrestler application"
+   }
+  ]
+ },
+ {
+  "id": "kirk-rogers-hew-2017",
+  "type": "character",
+  "name": "Kirk Rogers",
+  "caption": "A failed-standup-comedian-turned-wrestler gimmick, submitted as a wrestler application to HEW's own comeback.",
+  "caption_asof": {
+   "written": "2026-09-08",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "hew-2017",
+    "first_seen": "2017-06-04",
+    "last_seen": "2017-06-15",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "HEW's own \"Kirk Rogers\" wrestler application"
+   }
+  ]
+ }
+]

@@ -1,0 +1,245 @@
+[
+ {
+  "id": "meanstreak-owo",
+  "name": "Meanstreak",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "meanstreak"
+    ],
+    "note": "The registry's only other bare 'Meanstreak' is a 2002 OSW roster entry; different fed, different era, no operator/roster overlap evidenced."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "owo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "note": "Won the OWO World Heavyweight Championship from the Crow (26 Dec 1997), and retained it in a non-title grudge match against 'Iceman' Josh Cagle days later."
+   }
+  ],
+  "caption": "Won the OWO World Heavyweight Championship from the Crow on 26 December 1997 and retained it days later against 'Iceman' Josh Cagle in a non-title grudge match.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  }
+ },
+ {
+  "id": "the-crow-owo",
+  "name": "The Crow",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "crow-aicw",
+     "crow-iwf",
+     "cwfpro-the-crow",
+     "euwc-the-crow",
+     "the-crow-chz",
+     "the-crow-rspwf",
+     "the-crow-rwa-rugged",
+     "the-crow-tpw",
+     "the-crow-usew",
+     "the-crow-wcwf-dainja"
+    ],
+    "note": "A widely-reused period gimmick name across this era's e-feds; no operator/roster overlap evidenced with any of the above."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "owo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "note": "Lost the OWO World Heavyweight Championship to Meanstreak in a First Blood match (26 Dec 1997)."
+   }
+  ],
+  "caption": "A wrestler billed by OWO in the surviving 1997 Usenet record (1997).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "icicle-owo",
+  "name": "Icicle",
+  "tenures": [
+   {
+    "promotion": "owo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "note": "Leader of the ICE stable's surviving members; attacked OWO President the Inquisitor on-air after a dispute over an injured stablemate's own match, then was himself attacked by the Hell's Angels security detail alongside two other former ICE members."
+   }
+  ],
+  "caption": "A wrestler billed by OWO in the surviving 1997 Usenet record (1997).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "the-inquisitor-owo",
+  "name": "The Inquisitor",
+  "aka": [
+   "The OWO President"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "the-inquisitor-tpg"
+    ],
+    "note": "A common authority-figure title; different fed, no operator/roster overlap evidenced."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "owo",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "1997",
+    "note": "OWO's own on-air president; attacked by Icicle during the 28 Dec 1997 broadcast after refusing to book an injured wrestler."
+   }
+  ],
+  "caption": "An authority figure billed by OWO in the surviving 1997 Usenet record (1997).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "terminator-owo",
+  "name": "Terminator",
+  "aka": [
+   "The Terminator"
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "terminator-cswa"
+    ],
+    "note": "A common gimmick name; different fed, no operator/roster overlap evidenced."
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "owo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "note": "Won by submission over Virus (28 Dec 1997); defeated a returning Blizzard in seven seconds and then beat Raven for the OWO Xtreme Heavyweight Title by countout, a finish that does not change the title (30 Dec 1997)."
+   }
+  ],
+  "caption": "A wrestler billed by OWO in the surviving 1997 Usenet record (1997).",
+  "caption_asof": {
+   "written": "2026-09-04",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   },
+   "author": "ai"
+  }
+ },
+ {
+  "id": "raven-owo",
+  "name": "Raven",
+  "portrayal_of": "raven-real",
+  "portrays": [
+   {
+    "figure": "raven-real",
+    "grade": "primary-source"
+   }
+  ],
+  "tenures": [
+   {
+    "promotion": "owo",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997",
+    "note": "Billed OWO Xtreme Heavyweight Champion and member of the Darkside's Domain stable; retained the title against Terminator by countout (30 Dec 1997)."
+   }
+  ],
+  "caption": "Billed OWO Xtreme Heavyweight Champion and a member of the Darkside's Domain stable, retaining the title against Terminator by countout on 30 December 1997.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 1,
+    "appearances": 2,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "The same billing exists in other wings; no identity join is asserted (bare-name match is insufficient)",
+    "with": [
+     "euwc-raven",
+     "raven-ewa-email",
+     "raven-faw",
+     "raven-icwc",
+     "raven-iwa-icon",
+     "raven-pccw",
+     "raven-uwf-uwow",
+     "raven-uwow",
+     "raven-xwf",
+     "raven-xwf-uwow"
+    ]
+   }
+  ]
+ }
+]

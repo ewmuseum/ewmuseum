@@ -1,0 +1,1088 @@
+[
+ {
+  "id": "magus-icw-tacoma-1995",
+  "type": "character",
+  "name": "Magus",
+  "caption": "ICW's own World Heavyweight Champion, successfully defending against the Royal Rumble winner in the show's main event.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "ICW World Heavyweight Champion, entering and retaining against the Royal Rumble winner."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "magus-iewf-lwc"
+    ],
+    "note": "Bare-name collision only with a 1997 IEWF/LWC Royal Rumble entrant; no shared operator, host or roster fact found, and the identity-join test bars a join on a bare name alone."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "mwc-1996-magus"
+    ],
+    "note": "Bare-name collision only with a 1996 MWC Heavyweight Title challenger, itself already graded distinct from magus-iewf-lwc on the same reasoning; no corroborating axis links either to this ICW champion."
+   }
+  ]
+ },
+ {
+  "id": "todd-newkirk-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Nature Boy\" Todd Newkirk",
+  "caption": "Won the ICW Royal Rumble from the #2 draw, then challenged Magus for the World Heavyweight Championship the same night and came up short.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Drew the #2 entry in the 30-man Royal Rumble, outlasted the field (eliminating a distracted, interfering Mark Bagwell along the way) to win it, then challenged Magus for the World Heavyweight Championship and lost."
+   }
+  ]
+ },
+ {
+  "id": "chris-scott-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"ShotGun\" Chris Scott",
+  "caption": "ICW's own Light-Heavyweight/Cruiserweight champion, defending against Curt Crane in a match whose result does not survive.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Defending ICW Light-Heavyweight Champion (billed as the Cruiserweight belt in the broadcast's own commentary) against Curt Crane; the surviving text breaks off mid-match with no result recorded."
+   }
+  ]
+ },
+ {
+  "id": "peter-bell-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Total Package\" Peter Bell",
+  "caption": "ICW's North American Champion by the end of the show, having entered defending its immediate predecessor, the vacated International Championship.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Reigning ICW International/North American Champion, retained by disqualification against Brian Anthony in the match that renamed the vacated International belt as the North American Championship."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "peter-bell-mlw"
+    ],
+    "note": "Bare-name collision only with a different fed's (MLW, 1997) on-screen president billed \"The Titan\"; different nickname, different role (authority figure, not wrestler), no shared axis beyond the bare name."
+   }
+  ]
+ },
+ {
+  "id": "brian-anthony-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"The Shocker\" Brian Anthony",
+  "caption": "A Phoenix Squad wrestler who challenged for the ICW's own North American Championship (billed pre-match as the International title) and lost by disqualification.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Phoenix Squad member managed by Fara Phoenix; challenged Peter Bell for the International/North American Championship and lost by disqualification."
+   }
+  ]
+ },
+ {
+  "id": "mark-bagwell-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Bad Boy\" Mark Bagwell",
+  "caption": "Billed as the ICW's own first-ever World Champion, wrestling his announced retirement match on this card before taking an on-air announcing job with the fed.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Billed as the first-ever ICW World Champion and a two-time International Champion, wrestling his announced last match in the ICW; lost to Akira Hashimoto by disqualification (brass knuckles) and later signed on as an ICW announcer; interfered in the Royal Rumble against Todd Newkirk and was eliminated for his trouble."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bad-boy-mark-bagwell-rspwf"
+    ],
+    "note": "Exact ring-name match to an RSPWF Top 200 entry whose only recorded tenure is an unrelated 1997 NPWA-NANET run; no operator, host, title or roster fact links the two beyond the identical ring name, so the identity-join test does not support a join."
+   }
+  ]
+ },
+ {
+  "id": "akira-hashimoto-icw-tacoma-1995",
+  "type": "character",
+  "name": "Akira Hashimoto",
+  "caption": "A former WIWF World Champion billed in for a one-off grudge match, won by disqualification over the retiring \"Bad Boy\" Mark Bagwell.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Billed as a former WIWF World Champion; defeated \"Bad Boy\" Mark Bagwell by disqualification after Bagwell was caught using brass knuckles."
+   }
+  ]
+ },
+ {
+  "id": "alex-reed-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Rudedog\" Alex Reed",
+  "caption": "A former ICW International Champion whose declared time-limit draw with Bret Young turned into a post-bell cheap-shot pin.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Billed as a former ICW International Champion; his time-limit draw with \"The Fantasy\" Bret Young was voided when he powerslammed Young from the top rope after the bell and pinned him, an ending the broadcast calls a cheap shot rather than an official result."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "alex-reed-taewf"
+    ],
+    "note": "Close nickname/spelling variant (\"Rude Dog\" vs. \"Rudedog\") of a 1996 TAEWF wrestler who lost the TAEWF United States Championship; different federation, different year, no other shared axis, so the identity-join test does not support a join."
+   }
+  ]
+ },
+ {
+  "id": "bret-young-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"The Fantasy\" Bret Young",
+  "caption": "A fan-favorite former ICW champion, on the losing end of a post-bell cheap shot after wrestling Alex Reed to a time-limit draw.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Billed as a former ICW champion; wrestled Alex Reed to a time-limit draw, then was pinned after the bell when Reed powerslammed him from the top rope."
+   }
+  ]
+ },
+ {
+  "id": "mustafa-rauf-icw-tacoma-1995",
+  "type": "character",
+  "name": "Mustafa Rauf",
+  "caption": "One half of the Ghetto Assassins tag team, on the losing end of the show's opening match.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "One half of the Ghetto Assassins, alongside Method Man; lost the opening tag match to the Executioners."
+   }
+  ]
+ },
+ {
+  "id": "method-man-icw-tacoma-1995",
+  "type": "character",
+  "name": "Method Man",
+  "caption": "One half of the Ghetto Assassins tag team, on the losing end of the show's opening match.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "One half of the Ghetto Assassins, alongside Mustafa Rauf; lost the opening tag match to the Executioners."
+   }
+  ]
+ },
+ {
+  "id": "nord-the-barbarian-icw-tacoma-1995",
+  "type": "character",
+  "name": "Nord the Barbarian",
+  "caption": "One half of the Executioners tag team, winning the show's opening match over the Ghetto Assassins.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "One half of the Executioners, alongside Condor the Conqueror; defeated the Ghetto Assassins in the show's opening match."
+   }
+  ]
+ },
+ {
+  "id": "condor-the-conqueror-icw-tacoma-1995",
+  "type": "character",
+  "name": "Condor the Conqueror",
+  "caption": "One half of the Executioners tag team, winning the show's opening match over the Ghetto Assassins.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "One half of the Executioners, alongside Nord the Barbarian; defeated the Ghetto Assassins in the show's opening match."
+   }
+  ]
+ },
+ {
+  "id": "chris-harrison-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Hercules\" Chris Harrison",
+  "caption": "Billed against the Tropper on the line-up (no surviving broadcast segment for that match); entered the Royal Rumble as the third man.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Billed against the Tropper on the announced line-up, though no broadcast segment for that match survives; appears instead as the third entrant in the Royal Rumble."
+   }
+  ]
+ },
+ {
+  "id": "the-tropper-icw-tacoma-1995",
+  "type": "character",
+  "name": "The Tropper",
+  "caption": "Billed against \"Hercules\" Chris Harrison on the undercard in a match whose result does not survive.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Billed against \"Hercules\" Chris Harrison on the undercard; no result for this match survives in the recovered text."
+   }
+  ]
+ },
+ {
+  "id": "bing-lambert-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Snowman\" Bing Lambert",
+  "caption": "Lost the show's opening singles bout to \"Awesome\" Jon Amgar.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Opened the show against \"Awesome\" Jon Amgar and lost."
+   }
+  ]
+ },
+ {
+  "id": "jon-amgar-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Awesome\" Jon Amgar",
+  "caption": "Opened the show with a win over \"Snowman\" Bing Lambert.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Billed from York Factory, Manitoba, Canada; defeated \"Snowman\" Bing Lambert to open the show."
+   }
+  ]
+ },
+ {
+  "id": "shawn-riser-icw-tacoma-1995",
+  "type": "character",
+  "name": "Shawn Riser",
+  "caption": "A Steel Cage Triangle competitor, on the losing end against Dark Vanity.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Competed in the Steel Cage Triangle special challenge match against J'ster and Dark Vanity; lost."
+   }
+  ]
+ },
+ {
+  "id": "glenn-hudson-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Bullywug\" Glenn Hudson",
+  "caption": "Drew the #1 entry in the ICW's own 30-man Royal Rumble.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Billed from Melbourne, Australia; drew the #1 entry in the Royal Rumble."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "bullywug-glenn-hudson-rspwf"
+    ],
+    "note": "Exact ring-name match to an RSPWF Top 200 entry tagged to several other federations (GIWF, LRPW, XWC, AEWA, LWC, GPWA) across 1997-98, none of them this one; a recurring handler's character used across many simultaneous e-feds is plausible but no operator, host or roster fact directly ties the Top 200 entry's placements to this specific ICW Rumble appearance."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "glenn-hudson-aewa"
+    ],
+    "note": "Same exact-name reasoning as the RSPWF Top 200 entry above; AEWA is one of the tags already carried on that entry, not a separately corroborated link to this ICW appearance."
+   }
+  ]
+ },
+ {
+  "id": "alex-porteaux-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"The Ace\" Alex Porteaux",
+  "caption": "One half of Damage Incorporated, on the losing end of the ICW's own inaugural World Tag Team Championship tournament final.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "One half of Damage Incorporated, alongside \"Mad Dog\" Eddy Ramos, managed by Jeandra; lost the ICW World Tag Team Championship tournament final to Boxoffice Bound after Zulu Nation interference."
+   }
+  ]
+ },
+ {
+  "id": "eddy-ramos-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Mad Dog\" Eddy Ramos",
+  "caption": "One half of Damage Incorporated, on the losing end of the ICW's own inaugural World Tag Team Championship tournament final.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "One half of Damage Incorporated, alongside \"The Ace\" Alex Porteaux, managed by Jeandra; lost the ICW World Tag Team Championship tournament final to Boxoffice Bound after Zulu Nation interference."
+   }
+  ]
+ },
+ {
+  "id": "ron-tenille-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Romeo\" Ron Tenille",
+  "caption": "One half of Boxoffice Bound, crowned inaugural ICW World Tag Team Champion after Zulu Nation's interference turned the tournament final.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "One half of Boxoffice Bound, alongside Don Juan Herrera; won the ICW World Tag Team Championship tournament final over Damage Incorporated after Zulu Nation interference, pinning Eddy Ramos."
+   }
+  ]
+ },
+ {
+  "id": "don-juan-herrera-icw-tacoma-1995",
+  "type": "character",
+  "name": "Don Juan Herrera",
+  "caption": "One half of Boxoffice Bound, crowned inaugural ICW World Tag Team Champion after Zulu Nation's interference turned the tournament final.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "One half of Boxoffice Bound, alongside \"Romeo\" Ron Tenille; won the ICW World Tag Team Championship tournament final over Damage Incorporated after Zulu Nation interference."
+   }
+  ]
+ },
+ {
+  "id": "jeandra-icw-tacoma-1995",
+  "type": "character",
+  "name": "Jeandra",
+  "caption": "Damage Incorporated's manager, held back outside the ring during the interference that cost her team the tag title.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Managed Damage Incorporated to the ring; held back on the outside during the Zulu Nation interference that decided the match."
+   }
+  ]
+ },
+ {
+  "id": "megadeath-icw-tacoma-1995",
+  "type": "character",
+  "name": "Megadeath",
+  "caption": "A Zulu Nation member whose interference decided the ICW World Tag Team Championship tournament final.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "A Zulu Nation member who ran in during the tag title match and chair-shotted both Alex Porteaux and Eddy Ramos, then rolled Ramos in for the deciding pin."
+   }
+  ]
+ },
+ {
+  "id": "lasana-damani-icw-tacoma-1995",
+  "type": "character",
+  "name": "Lasana Damani",
+  "caption": "A Zulu Nation member whose interference decided the ICW World Tag Team Championship tournament final.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "A Zulu Nation member who ran in alongside Megadeath during the tag title match and chair-shotted both Alex Porteaux and Eddy Ramos."
+   }
+  ]
+ },
+ {
+  "id": "president-clark-icw-tacoma-1995",
+  "type": "character",
+  "name": "President Clark",
+  "caption": "ICW's on-screen president, presenting the fed's own \"Wrestler of the Year\" award on air.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "authority-figure"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "ICW's on-screen president; presented Curt Crane with the fed's 1996 \"Wrestler of the Year\" trophy on air."
+   }
+  ]
+ },
+ {
+  "id": "bucky-malone-icw-tacoma-1995",
+  "type": "character",
+  "name": "Bucky Malone",
+  "caption": "ICW's own backstage interviewer, conducting the show's two produced interview segments.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "other"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Backstage interviewer; conducted the on-air \"Wrestler of the Year\" interview with Curt Crane and a pre-match interview with Brian Anthony's camp."
+   }
+  ]
+ },
+ {
+  "id": "mike-whalden-icw-tacoma-1995",
+  "type": "character",
+  "name": "Mike Whalden",
+  "caption": "Named once as the show's backstage interviewer; most plausibly the same \"MW\" who calls play-by-play throughout the broadcast.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "commentator"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Named once on-air as the interviewer standing by with Brian Anthony's camp; \"MW\" carries the play-by-play call throughout the broadcast, most plausibly the same person."
+   }
+  ]
+ },
+ {
+  "id": "fara-phoenix-icw-tacoma-1995",
+  "type": "character",
+  "name": "Fara Phoenix",
+  "caption": "Manager of the Phoenix Squad, the stable built around Curt Crane and Brian Anthony.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "manager"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Manager of the Phoenix Squad (Curt Crane and Brian Anthony); at ringside for Crane's interview and Anthony's title match."
+   }
+  ]
+ },
+ {
+  "id": "brian-knight-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Iceman\" Brian Knight",
+  "caption": "A billed former NCW/FWLI/FoPEW World Champion who appeared at ringside ahead of the Royal Rumble, framed as Todd Newkirk's biggest rival.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-01-17",
+    "last_seen": "1997-01-17",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-season-beatings-1997-01-17-lineup.html",
+    "note": "Billed as a former NCW/FWLI/FoPEW World Champion; made a surprise appearance in the crowd ahead of the Royal Rumble and was shown unimpressed by Todd Newkirk's win, with commentary framing him as Newkirk's biggest rival. No match of his own survives on this card."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "brian-anthony-nccw-1998"
+    ],
+    "note": "Not asserted; listed only to record that the wing's own Brian Anthony (a different character, \"The Shocker\") carries a separate bare-name RSPWF Top 200 collision of its own -- see that character's own record."
+   }
+  ]
+ },
+ {
+  "id": "playboy-ronnie-d-icw-tacoma-1995",
+  "type": "character",
+  "name": "\"Playboy\" Ronnie D",
+  "caption": "Debuted on ICW's own post-hiatus tapings with a self-billed \"ICON\" interview speech.",
+  "caption_asof": {
+   "written": "2026-09-05",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "icw-tacoma-1995",
+    "roles": [
+     "wrestler"
+    ],
+    "first_seen": "1997-11",
+    "last_seen": "1997-11",
+    "grade": "primary-source",
+    "source": "/promotions/icw-tacoma-1995/archive/icw-icon-speech-1997-11-01.html",
+    "note": "Debuted on ICW's own tapings at the \"ICW Coliseum\" with an interview segment, delivering a self-billed \"ICON\" speech."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "playboy-ronnie-d-vfwf"
+    ],
+    "note": "Bare-nickname collision only; different federation, no other shared axis found."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "ronnie-d-upw"
+    ],
+    "note": "Bare-nickname collision only; different federation, no other shared axis found."
+   }
+  ]
+ }
+]

@@ -1,0 +1,152 @@
+[
+ {
+  "id": "the-knights-ehwa-entity-a",
+  "type": "unit",
+  "name": "The Knights",
+  "unit_kind": "tag-team",
+  "members": [
+   "darknight-ehwa-entity-a",
+   "midnight-ehwa-entity-a"
+  ],
+  "caption": "World Tag Team Champions who retained by disqualification over the Doggpound at the federation's 4 March 1997 card.",
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ehwa-entity-a",
+    "first_seen": "1997-03-04",
+    "last_seen": "1997-03-04",
+    "source": "The federation's own 4 March 1997 card."
+   }
+  ]
+ },
+ {
+  "id": "doggpound-ehwa-entity-a",
+  "type": "unit",
+  "name": "The Doggpound",
+  "unit_kind": "tag-team",
+  "members": [
+   "doggystyle-ehwa-entity-a",
+   "kurupt-ehwa-entity-a"
+  ],
+  "caption": "Challenged unsuccessfully for the World Tag Team Championship at the federation's 4 March 1997 card.",
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ehwa-entity-a",
+    "first_seen": "1997-03-04",
+    "last_seen": "1997-03-04",
+    "source": "The federation's own 4 March 1997 card."
+   }
+  ]
+ },
+ {
+  "id": "powers-of-destruction-ehwa-entity-a",
+  "type": "unit",
+  "name": "The Powers of Destruction",
+  "unit_kind": "tag-team",
+  "members": [
+   "pain-ehwa-entity-a",
+   "agony-ehwa-entity-a"
+  ],
+  "caption": "The federation founder's own tag team with Pain, challenging unsuccessfully for the World Tag Team Championship at the federation's 12 March 1997 card.",
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ehwa-entity-a",
+    "first_seen": "1997-02-25",
+    "last_seen": "1997-03-12",
+    "source": "The federation's own 25 February and 12 March 1997 cards."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-order-of-destruction-vfwf); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-order-of-destruction-vfwf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "eclipse-cataclysm-ehwa-entity-a",
+  "type": "unit",
+  "name": "Eclipse & Cataclysm",
+  "unit_kind": "tag-team",
+  "members": [
+   "eclipse-ehwa-entity-a",
+   "cataclysm-ehwa-entity-a"
+  ],
+  "caption": "World Tag Team Champions by the federation's 12 March 1997 card, retaining on a restart with their allies' interference.",
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ehwa-entity-a",
+    "first_seen": "1997-03-12",
+    "last_seen": "1997-03-12",
+    "source": "The federation's own 12 March 1997 card."
+   }
+  ]
+ },
+ {
+  "id": "warlords-ehwa-entity-a",
+  "type": "unit",
+  "name": "The Warlords",
+  "unit_kind": "stable",
+  "members": [
+   "warlord-chaos-ehwa-entity-a",
+   "warlord-vengence-ehwa-entity-a"
+  ],
+  "caption": "A tag pairing that fell in a three-way tag elimination tournament match at the federation's 12 March 1997 card, the same night Chaos lost the Extreme Internet Championship.",
+  "caption_asof": {
+   "written": "2026-09-13",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1
+   }
+  },
+  "tenures": [
+   {
+    "promotion": "ehwa-entity-a",
+    "first_seen": "1997-03-12",
+    "last_seen": "1997-03-12",
+    "source": "The federation's own 12 March 1997 card."
+   }
+  ],
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "note": "Name collision only: a same-named entity in another wing (the-warlords-scw-entity-a); no shared operator, chronology or storyline evidence in this wing's documents.",
+    "with": [
+     "the-warlords-scw-entity-a"
+    ]
+   }
+  ]
+ }
+]

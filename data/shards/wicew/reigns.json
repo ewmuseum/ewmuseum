@@ -1,0 +1,312 @@
+[
+ {
+  "holder": [
+   {
+    "id": "max-a-million-wicew"
+   }
+  ],
+  "how": "Won a 30-man over-the-top-rope battle royal, in 33:13, to become the fed's own first WICeW World Heavyweight Champion.",
+  "id": "wicew-world-max-a-million-1998",
+  "label": "Max A. Million",
+  "title": "wicew-world",
+  "won": {
+   "date": "1998-10-04",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/results-1998-10-04.html"
+  },
+  "event": "wicew-results-1998-10-04",
+  "note": "First-ever holder of this title. How and when he lost the title to the next attested holder, \"Superstar\" Steve Taylor (8 November 1998), does not survive in this capture.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "steve-taylor-wicew"
+   }
+  ],
+  "how": "Won the title in Las Vegas, NV.",
+  "id": "wicew-world-superstar-steve-taylor",
+  "label": "\"Superstar\" Steve Taylor",
+  "title": "wicew-world",
+  "won": {
+   "date": "1998-11-08",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/world-title-history.html"
+  },
+  "event": "wicew-results-1998-11-08",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "volcano-wicew"
+   }
+  ],
+  "how": "Defeated the champion, Sean \"Iceman\" Stevens, in a time of 19:45, to become new champion.",
+  "id": "wicew-european-volcano-1998",
+  "label": "Volcano",
+  "title": "wicew-european",
+  "won": {
+   "date": "1998-11-08",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/results-1998-11-08.html"
+  },
+  "event": "wicew-results-1998-11-08",
+  "note": "The fed's own first-ever European Title match was billed for an unheld Thursday Night House Show following the 4 October 1998 card, between Arch Angel and \"Superstar\" Steve Taylor (both now minted; see characters.json) -- not itself captured in this holding, and its own winner is not recorded. Sean \"Iceman\" Stevens is independently minted (sean-iceman-stevens-wicew) and billed as champion here, but his own path to the title between that Thursday match and this 8 November defense is unrecorded -- he is NOT asserted to be the title's first champion. How and when Volcano lost the title to the next attested holder, Kyle Barrows (circa 10 December 1998), does not survive in this capture.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "kyle-barrows-wicew"
+   }
+  ],
+  "how": "Held as of the fed's own 10 December 1998 championship snapshot.",
+  "id": "wicew-european-kyle-barrows",
+  "label": "Kyle Barrows",
+  "title": "wicew-european",
+  "won": {
+   "date": "1998-12-10",
+   "precision": "circa",
+   "source": "promotions/wicew/archive/champions.html"
+  },
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "blizzard-wicew"
+   }
+  ],
+  "how": "Defeated DaLinkwent by pinfall, in a time of 23:48, to become new champion.",
+  "id": "wicew-internet-blizzard",
+  "label": "Blizzard",
+  "title": "wicew-internet",
+  "won": {
+   "date": "1998-12-07",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/results-1998-12-07.html"
+  },
+  "event": "wicew-results-1998-12-07",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "dalinkwent-wicew"
+   }
+  ],
+  "how": "Held as of Black November (8 November 1998), where he retained the title by pinfall against Jupiter.",
+  "id": "wicew-internet-dalinkwent-1998",
+  "label": "DaLinkwent",
+  "title": "wicew-internet",
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "promotions/wicew/archive/results-1998-11-08.html"
+  },
+  "lost": {
+   "date": "1998-12-07",
+   "precision": "exact"
+  },
+  "note": "How and when he won the title does not survive in this capture.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "holder": [
+   {
+    "id": "berserk-wicew"
+   }
+  ],
+  "how": "Defeated \"Mad Man\" Max Marshall in a Texas Death Cage Match, in a time of 13:49, to become new champion.",
+  "id": "wicew-extreme-berserk-1998",
+  "label": "Berserk",
+  "title": "wicew-extreme",
+  "won": {
+   "date": "1998-11-08",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/results-1998-11-08.html"
+  },
+  "lost": {
+   "date": "1998-12-05",
+   "precision": "exact"
+  },
+  "event": "wicew-results-1998-11-08",
+  "note": "\"Mad Man\" Max Marshall is independently minted (max-marshall-wicew); his own prior reign as this title's holder is referenced only in prose here, with no dated ledger or won-source surviving for it in this capture.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "holder": [
+   {
+    "id": "down-south-hustla-wicew"
+   }
+  ],
+  "how": "Defeated Berserk in a Texas Death Cage Match, in a time of 12:43, to become new champion.",
+  "id": "wicew-extreme-down-south-hustla",
+  "label": "Down South Hustla",
+  "title": "wicew-extreme",
+  "won": {
+   "date": "1998-12-05",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/results-1998-12-05.html"
+  },
+  "event": "wicew-results-1998-12-05",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "red-dogg-wicew"
+   }
+  ],
+  "how": "Defeated Gangsta New Jack in a time of 12:43 to become new champion.",
+  "id": "wicew-television-red-dogg",
+  "label": "Red Dogg",
+  "title": "wicew-television",
+  "won": {
+   "date": "1998-12-05",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/results-1998-12-05.html"
+  },
+  "event": "wicew-results-1998-12-05",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "gangsta-new-jack-wicew"
+   }
+  ],
+  "how": "Won a 10-man over-the-top-rope battle royal to become the fed's own first WICeW Cruiserweight Champion.",
+  "id": "wicew-cruiserweight-gangsta-new-jack-1998",
+  "label": "Gangsta New Jack",
+  "title": "wicew-cruiserweight",
+  "won": {
+   "date": "1998-10-04",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/results-1998-10-04.html"
+  },
+  "event": "wicew-results-1998-10-04",
+  "note": "First-ever holder of this title. How and when he lost the title to the next attested holder, Blizzard (circa 10 December 1998), does not survive in this capture.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "blizzard-wicew"
+   }
+  ],
+  "how": "Held as of the fed's own 10 December 1998 championship snapshot.",
+  "id": "wicew-cruiserweight-blizzard",
+  "label": "Blizzard",
+  "title": "wicew-cruiserweight",
+  "won": {
+   "date": "1998-12-10",
+   "precision": "circa",
+   "source": "promotions/wicew/archive/champions.html"
+  },
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "original-gangstaz-wicew"
+   }
+  ],
+  "how": "Held as of the fed's own 10 December 1998 championship snapshot.",
+  "id": "wicew-world-tag-team-original-gangstaz",
+  "label": "Original Gangstaz",
+  "title": "wicew-world-tag-team",
+  "won": {
+   "date": "1998-12-10",
+   "precision": "circa",
+   "source": "promotions/wicew/archive/champions.html; promotions/wicew/archive/results-1998-12-10.html"
+  },
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "luther-wicew"
+   },
+   {
+    "id": "lucifer-wicew"
+   }
+  ],
+  "how": "Already held entering the fed's own first pay-per-view, 4 October 1998; retained against the Agents of War (Blitzkrieg & Blizzard) via disqualification that same night -- a title does not change hands on a DQ or countout, per the broadcast's own explanation.",
+  "id": "wicew-world-tag-team-demon-knights",
+  "label": "Demon Knights",
+  "title": "wicew-world-tag-team",
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "promotions/wicew/archive/results-1998-10-04.html"
+  },
+  "lost": {
+   "date": "unknown",
+   "precision": "unknown"
+  },
+  "note": "First-attested holders of this title, already champions when this capture's own record opens (their own winning of the belt predates the fed's first pay-per-view and is not recorded). How and when they lost the title to the next attested holder, Original Gangstaz (circa 10 December 1998), does not survive in this capture -- their own final appearance on file (8 November 1998) is a North American Tag Team Title loss in a loser-leaves-WICeW match, not a World Tag Team Title change.",
+  "end_how": "lost-in-match"
+ },
+ {
+  "holder": [
+   {
+    "id": "hickerson-brothers-wicew"
+   }
+  ],
+  "how": "Defeated the Killers (Scorpion & Thunder-Bolt) in a time of 17:28 to become new champions.",
+  "id": "wicew-north-american-tag-team-hickerson-brothers",
+  "label": "Hickerson Brothers",
+  "title": "wicew-north-american-tag-team",
+  "won": {
+   "date": "1998-10-04",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/results-1998-10-04.html"
+  },
+  "event": "wicew-results-1998-10-04",
+  "lost": {
+   "date": "1998-12-12",
+   "precision": "exact"
+  },
+  "end_how": "stripped",
+  "note": "Stripped by WICeW President Gregory Joseph at the top of the 12 December 1998 Saturday Showdown; the title was to be filled at the promotion's next pay-per-view (promotions/wicew/archive/results-1998-12-12.html)."
+ },
+ {
+  "holder": [
+   {
+    "id": "masta-gangsta-wicew"
+   }
+  ],
+  "how": "Named new WICeW United States Heavyweight Champion as the runner-up (final entrant eliminated) of the same night's 30-man World Heavyweight Title battle royal, per a stipulation announced during the broadcast.",
+  "id": "wicew-united-states-masta-gangsta-1998",
+  "label": "Masta Gangsta",
+  "title": "wicew-united-states",
+  "won": {
+   "date": "1998-10-04",
+   "precision": "exact",
+   "source": "promotions/wicew/archive/results-1998-10-04.html"
+  },
+  "event": "wicew-results-1998-10-04",
+  "note": "First-attested holder of this title; its own relationship to TRU's undated reign (bio-card evidence only) is not recoverable from this capture.",
+  "end_how": "still-champion-at-record-end"
+ },
+ {
+  "holder": [
+   {
+    "id": "tru-wicew"
+   }
+  ],
+  "how": "Billed by the fed's own bio card as a WICeW United States Heavyweight titleholder; no dedicated ledger or dated result survives.",
+  "id": "wicew-united-states-tru",
+  "label": "TRU",
+  "title": "wicew-united-states",
+  "won": {
+   "date": "unknown",
+   "precision": "unknown",
+   "source": "promotions/wicew/archive/bio-card-tru.html"
+  },
+  "note": "Also billed successfully defending this title against Sabre on 8 November 1998 (promotions/wicew/archive/results-1998-11-08.html) -- primary-source corroboration that he held the belt by that date, beyond the bio card alone. How and when he won it from the title's first-attested holder, Masta Gangsta (4 October 1998), is not recorded.",
+  "end_how": "still-champion-at-record-end"
+ }
+]

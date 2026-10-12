@@ -1,0 +1,517 @@
+[
+ {
+  "id": "c-r-xwf",
+  "type": "character",
+  "name": "C.R.",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "role": "wrestler — XWF World Heavyweight Champion",
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html; Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source",
+    "note": "Named on his own fed's roster page and billed champion on Primetime Central's own supercard; his finisher there is the Rigido Stunner and the commentary calls his 360-degree strike the Hurricane Heart Punch."
+   }
+  ],
+  "caption": "Carried the XWF World Heavyweight Championship into Primetime Central's own New Era supercard, was beaten down by six men across one no-disqualification match, and was still champion when it ended.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "limp-bizkit-xwf",
+  "type": "character",
+  "name": "Limp Bizkit",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html; Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source",
+    "note": "The ring name is the name of a real band; the external-figures link the lane flagged as a shared-file question is now on the row itself (limp-bizkit-band)."
+   }
+  ],
+  "portrays": {
+   "figure": "limp-bizkit-band",
+   "grade": "presumed",
+   "note": "The ring name is the band's name outright. Nothing in the XWF's own record comments on the borrowing, so the link is the museum's own reading of a name, held loosely — and it is a `portrays` and nothing more: a band is not a professional wrestler, so the promotion-level aka rule's portrayal facet does not attach."
+  },
+  "caption": "Challenged for the XWF World Heavyweight Championship at New Era with the tag champions at ringside and a table already set up in the ring, and lost anyway.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "dvd-xwf",
+  "type": "character",
+  "name": "DVD",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html; Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "One of two XWF men Primetime Central invited into its own fifteen-man Global Title match, and one of the Corporation's three who ran in on the XWF title match earlier the same night.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed"
+ },
+ {
+  "id": "raven-xwf",
+  "type": "character",
+  "name": "Raven",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html; Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Half of the Monte Brisas Outlaws, and one of the three men who dragged C.R. out of the wreckage of a table at New Era to hold him up for a splash.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "draven-dwo",
+     "derek-draven-gw"
+    ],
+    "note": "A common ring name. Registered separately from the Draven-named characters already on file (draven-dwo, derek-draven-gw); no evidence connects them."
+   },
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "euwc-raven",
+     "raven-faw",
+     "raven-icwc",
+     "raven-uwf-uwow",
+     "raven-uwow",
+     "raven-xwf-uwow"
+    ],
+    "note": "The exact bare name \"Raven\" this hobby's most reused gimmick name, carried by an EUWC original character (euwc-raven) and by five other feds' own portrayals of the real wrestler Raven (raven-faw, raven-icwc, raven-uwf-uwow, raven-uwow, raven-xwf-uwow, none of which carry a portrayal_of edge on this row — this XWF character is not asserted to be a portrayal of anyone). Reciprocal guard: each of those rows already lists raven-xwf in its own identity[]; this closes the gap on this side. Per the per-promotion portrayal rule and the real-wrestler portrayal rule, a real wrestler's portrayal is always a per-promotion row, never merged across promotions, and the external-figures row is the only node any of them may share; nothing held connects this XWF character to any of them beyond the shared name."
+   }
+  ]
+ },
+ {
+  "id": "dj-xwf",
+  "type": "character",
+  "name": "DJ",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html; Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Half of the Monte Brisas Outlaws, and the man who bent a steel chair over C.R.'s head at New Era and then went looking for a stunner.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "dj-derick-jackson"
+    ],
+    "note": "Shares a two-letter ring name with dj-derick-jackson, an XUW character billed the same way; nothing connects the two records and no merge is asserted."
+   }
+  ]
+ },
+ {
+  "id": "asesino-xwf",
+  "type": "character",
+  "name": "Asesino",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source",
+    "note": "Both of Primetime Central's own New Era pages bill him Asesino. He is not on his own fed's surviving roster page, and no English form of the name is billed anywhere in the record."
+   }
+  ],
+  "caption": "The number one contender to the XWF World Heavyweight Championship, who carried the champion across his shoulders through a table at New Era and told him to worry about whether he would still have the belt in the morning.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  },
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "asesino-ngw"
+    ],
+    "note": "Bare-name collision against asesino-ngw (Spanish for \"assassin,\" a name this hobby reused independently). asesino-ngw's own row already carries the reciprocal guard against this one; this closes the gap on this side. No shared-handler or era-overlap evidence found — treated as distinct per the no-auto-merge rule."
+   }
+  ]
+ },
+ {
+  "id": "la-envidia-mata-xwf",
+  "type": "character",
+  "name": "La Envidia Mata",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html; Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source",
+    "note": "Primetime Central's own Superstars page spells the name La Envita Mato; the fed's own roster page spells it La Envidia Mata, which is what this record follows."
+   }
+  ],
+  "caption": "Billed the God of Wrestling, one of the Corporation's three, and one of four XWF men Primetime Central put into its own Steel Mill match.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  },
+  "aka": [
+   "La Envita Mato"
+  ],
+  "staged_gender": "male",
+  "staged_gender_grade": "pronoun-observed",
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "la-envidia-mata-4ww"
+    ],
+    "note": "A character of the same name AND the same distinctive moniker, The God of Wrestling, is registered in 4WW from a 2004 roster card (la-envidia-mata-4ww). Name plus moniker is stronger evidence than a name alone and is still not enough to merge on; the two are held apart and the question is filed for a verdict."
+   }
+  ]
+ },
+ {
+  "id": "koji-sasuke-xwf",
+  "type": "character",
+  "name": "Koji Sasuke",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Sent into Primetime Central's own Steel Mill match, a lit steel mill reopened for one night, as one of XWF's four entrants.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "p-r-xwf",
+  "type": "character",
+  "name": "P.R.",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "One of XWF's four entrants in Primetime Central's own Steel Mill match at New Era.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "jomary-xwf",
+  "type": "character",
+  "name": "Jomary",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Entered Primetime Central's own fifteen-man Global Title match at New Era alongside DVD, and was named from the announce desk as the second of XWF's two.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "canadian-crippler-xwf",
+  "type": "character",
+  "name": "Canadian Crippler",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html; Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Half of the Canadian Connection, and the man Mark Blaze had locked in a sharpshooter at New Era until his partner came in to break it.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "rey-xwf",
+  "type": "character",
+  "name": "Rey",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Half of the Canadian Connection, and the partner who came in to break the sharpshooter at New Era.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "chivo-xwf",
+  "type": "character",
+  "name": "Chivo",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html; Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   },
+   {
+    "promotion": "ptc",
+    "first_seen": "2004-08-22",
+    "last_seen": "2004-08-22",
+    "roles": [
+     "wrestler"
+    ],
+    "grade": "primary-source",
+    "source": "PTC Survival's own backstage database (accession 0159), bio 19804",
+    "note": "Dated from PTC's own announcement of the Survival event (22 August 2004); the fed's own booking record posts the results on 9 November 2004.",
+    "role": "wrestler — billed from UPWA"
+   }
+  ],
+  "caption": "One of the Rodriguez Brothers, entered in the tag cluster at New Era and singled out from the announce desk as one of the two XWF men Callisto Bane was watching.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "merged",
+    "grade": "primary-source",
+    "with": [],
+    "note": "PTC's own entrant card (Survival, accession 0159, bio 19804) is this record: the served Survival team list and card (PTC news of 8 August 2004): Team UPWA lists 'Chivo Rodriguez' beside 'Nicky Jam Rodriquez'; card Other Feds UPWA. The held records already join this pair: the-rodriguez-brothers-xwf (Chivo + Chezino, PTC New Era 2003) carries a ptc tenure of Apr 2004 billed 'Nicky Jam and Chivo' (PTC forum post 45454), and nicky-jam-upwa's own text names UPWA and 'the Rodriguez Brothers alongside Chivo (chivo-xwf)'; the card's own text spells the pair 'Chivo Rodriguez' and 'Nicky Jam Rodriquez', and the record takes 'Chivo Rodriguez' as an alias."
+   }
+  ],
+  "aka": [
+   "Chivo Rodriguez"
+  ]
+ },
+ {
+  "id": "chezino-xwf",
+  "type": "character",
+  "name": "Chezino",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "Primetime Central's own New Era supercard of 20 April 2003, served at /promotions/ptc/archive/new-era-2003-results.html and /promotions/ptc/archive/new-era-2003-superstars.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "The other Rodriguez Brother, named on Primetime Central's own tag-cluster listing and nowhere on his own fed's surviving roster page.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "canadian-perfect-xwf",
+  "type": "character",
+  "name": "Canadian Perfect",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "An XWF Superstar on the fed's own roster page, with nothing else held under the name.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "el-locon-xwf",
+  "type": "character",
+  "name": "El Locon",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "One of the twelve names the fed's own roster page carried, and the only trace of him anywhere.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ },
+ {
+  "id": "pyro-xwf",
+  "type": "character",
+  "name": "Pyro",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Carried on the fed's own roster page among the XWF Superstars; no match, promo or result of his was ever captured.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "pyro",
+     "pyro-cswa",
+     "pyro-faw",
+     "pyro-ngw",
+     "pyro-wia",
+     "pyro-wwa"
+    ],
+    "note": "A short archetype ring name six other promotions on file independently used (pyro, pyro-cswa, pyro-faw, pyro-ngw, pyro-wia, pyro-wwa) — each of those rows already lists pyro-xwf in its own identity[]; this closes the gap on this side. No evidence connects any of them."
+   }
+  ]
+ },
+ {
+  "id": "the-yure-xwf",
+  "type": "character",
+  "name": "The Yure",
+  "tenures": [
+   {
+    "promotion": "xwf",
+    "first_seen": "2003",
+    "last_seen": "2003",
+    "roles": [
+     "wrestler"
+    ],
+    "source": "the fed's own roster page, served at /promotions/xwf/archive/roster.html",
+    "grade": "primary-source"
+   }
+  ],
+  "caption": "Listed last but one on the fed's own roster page, in a corpus that kept no results at all.",
+  "caption_asof": {
+   "written": "2026-08-23",
+   "author": "ai"
+  }
+ }
+]

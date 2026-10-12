@@ -1,0 +1,36 @@
+[
+  {
+    "id": "wfw-apr-2001-tuesday-night-titans",
+    "type": "show",
+    "name": "Tuesday Night Titans",
+    "promotion": "wfw-apr-2001",
+    "date": { "date": "2001-04-17", "precision": "exact" },
+    "page": "/promotions/wfw-apr-2001/archive/wfw-tuesday-night-titans-2001-04-17.html",
+    "collection": "0148",
+    "venue": "Pengrowth Saddledome",
+    "city": "Calgary, Alberta, Canada",
+    "appearances": [
+      { "who": "art-rousseaux-wfw-apr-2001", "kind": "angle", "capacity": "authority", "note": "Opened the broadcast welcoming the crowd to the promotion's own debut." },
+      { "who": "trent-edgerin-wfw-apr-2001", "kind": "angle", "capacity": "ring-announcer" },
+      { "who": "shane-donnely-wfw-apr-2001", "kind": "angle", "capacity": "commentary" },
+      { "who": "clint-cote-wfw-apr-2001", "kind": "angle", "capacity": "commentary" },
+      { "who": "rabid-rob-wfw-apr-2001", "kind": "match" },
+      { "who": "bandit-bill-wfw-apr-2001", "kind": "match" },
+      { "who": "justun-stopable-rspwf", "kind": "angle", "note": "A taped vow, filmed at his own home, to seize the promotion's still-vacant top title." },
+      { "who": "captain-canuck-wfw-apr-2001", "kind": "angle", "note": "A clip in the broadcast's own opening highlight package." },
+      { "who": "max-damage-wfw-apr-2001", "kind": "angle", "note": "A clip in the broadcast's own opening highlight package." },
+      { "who": "k-oh-wfw-apr-2001", "kind": "angle", "note": "A clip in the broadcast's own opening highlight package." },
+      { "who": "ice-wfw-apr-2001", "kind": "angle", "note": "A clip in the broadcast's own opening highlight package." },
+      { "who": "liz-wfw-apr-2001", "kind": "angle", "note": "A clip in the broadcast's own opening highlight package, alongside Max Damage." },
+      { "who": "ms-cold-shoulder-wfw-apr-2001", "kind": "angle", "note": "A clip in the broadcast's own opening highlight package, alongside Ice." }
+    ],
+    "matches": [
+      {
+        "order": 1,
+        "sides": [["rabid-rob-wfw-apr-2001"], ["bandit-bill-wfw-apr-2001"]],
+        "result": "no-contest",
+        "note": "Billed as the promotion's own first-ever match; ended when both men used a steel chair, and the referee ruled a double disqualification."
+      }
+    ]
+  }
+]

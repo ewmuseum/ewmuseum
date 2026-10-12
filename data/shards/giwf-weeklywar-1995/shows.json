@@ -1,0 +1,309 @@
+[
+ {
+  "id": "giwf-weeklywar-1995-ww-1995-10-26",
+  "type": "show",
+  "name": "GIWF Weekly War",
+  "promotion": "giwf-weeklywar-1995",
+  "date": {
+   "date": "1995-10-26",
+   "precision": "exact",
+   "source": "The show's own banner and posting date (26 October 1995)."
+  },
+  "page": "/promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-ww-1995-10-26.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "lonestar-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "desert-storm-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "gregg-matthews-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "sal-defazio-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "cyclone-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "hurricane-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "chaos-giwf-weeklywar-1995",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "desert-storm-giwf-weeklywar-1995"
+     ],
+     [
+      "lonestar-giwf-weeklywar-1995"
+     ]
+    ],
+    "winner_side": 1,
+    "note": "Non-title round-robin bout for a future World Title shot; Lonestar (already World Heavyweight Champion at this point in the record) wins by pinfall (Superplex)."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "gregg-matthews-giwf-weeklywar-1995",
+      "sal-defazio-giwf-weeklywar-1995"
+     ],
+     [
+      "cyclone-giwf-weeklywar-1995",
+      "hurricane-giwf-weeklywar-1995"
+     ]
+    ],
+    "note": "For the GIWF World Tag-Team Championship. Ends in a time-limit draw; Pressure Point retains under the title-changes-on-pinfall-or-submission-only rule."
+   }
+  ],
+  "notes": "The earliest surviving full show script in the held record, also carrying a Light-Heavyweight tournament bout (Chaos over Mr. Burns) not separately structured here."
+ },
+ {
+  "id": "giwf-weeklywar-1995-tdt-1995-11-23",
+  "type": "show",
+  "name": "GIWF Turkey Day Titles",
+  "promotion": "giwf-weeklywar-1995",
+  "date": {
+   "date": "1995-11-23",
+   "precision": "exact",
+   "source": "The show's own banner: 'TURKEY DAY TITLES PPV, November 23, 1995, Live from The Omni, in Atlanta, Georgia.'"
+  },
+  "page": "/promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-tdt-1995-11-23.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "jacob-mcdonahey-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "chaos-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "coach-chris-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "steve-latini-giwf-weeklywar-1995",
+    "kind": "match"
+   }
+  ],
+  "matches": [],
+  "notes": "GIWF's own first PPV, crowning the inaugural United States, Light-Heavyweight and Women's Champions. The served text (part 1 of 6 recovered in this corpus) opens the card; the individual tournament and Rumble pairings that produced each title change are not separately structured into matches[] -- the title results themselves are registered in reigns.json, sourced to the fed's own later 23 January 1996 title-lineage citation."
+ },
+ {
+  "id": "giwf-weeklywar-1995-ww-1995-12-07",
+  "type": "show",
+  "name": "GIWF Weekly War (Juarez, Mexico)",
+  "promotion": "giwf-weeklywar-1995",
+  "date": {
+   "date": "1995-12-07",
+   "precision": "exact",
+   "source": "The show's own banner: 'WEEKLY WAR, December 7, 1995, Live from the Municipal Gym in Juarez, Mexico.'"
+  },
+  "page": "/promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-ww-1995-12-07.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "sal-defazio-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "lonestar-giwf-weeklywar-1995",
+    "kind": "match"
+   }
+  ],
+  "matches": [],
+  "notes": "GIWF's own first card outside the United States, opening with a recap montage of Turkey Day Titles. This is also the show a later Weekly War's own on-air retrospective (5 March 1996) names as the site of Sal DeFazio's own World Title win over Lonestar (see reigns.json giwf-weeklywar-1995-world-heavyweight-r001/r002); the bout itself is not directly narrated in the portion of this show's own text in the held record."
+ },
+ {
+  "id": "giwf-weeklywar-1995-aprilshowers-1996-04-30",
+  "type": "show",
+  "name": "GIWF April Showers Showdown",
+  "promotion": "giwf-weeklywar-1995",
+  "date": {
+   "date": "1996-04-30",
+   "precision": "exact",
+   "source": "The fed's own served 12 October 1996 rankings snapshot dates the title change '4-30-96'; the show's own posted transcript (11 May 1996) opens 'LIVE from Soldier Field in Chicago, Illinois... APRIL SHOWERS SHOWDOWN!'"
+  },
+  "page": "/promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-aprilshowers-1996-04-30.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "steve-latini-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "jacob-mcdonahey-giwf-weeklywar-1995",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "steve-latini-giwf-weeklywar-1995"
+     ],
+     [
+      "jacob-mcdonahey-giwf-weeklywar-1995"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "For the GIWF United States Championship, a steel-cage escape match; Latini escapes the cage ahead of McDonahey to win the title."
+   }
+  ],
+  "notes": "Posted in six parts; this wing serves part 1 (the card's own opening) in full. The World and World Tag-Team title matches also billed for this card are not separately structured into matches[]."
+ },
+ {
+  "id": "giwf-weeklywar-1995-wrestlewrath-1996-09-30",
+  "type": "show",
+  "name": "GIWF Wrestle Wrath",
+  "promotion": "giwf-weeklywar-1995",
+  "date": {
+   "date": "1996-09-30",
+   "precision": "exact",
+   "source": "The show's own banner: 'WRESTLE WRATH PPV, September 30, 1996, Live, from the D.C. Armory, in Washington, DC.'"
+  },
+  "page": "/promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-wrestlewrath-1996-09-30.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "desert-storm-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "blobber-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "the-narcissist-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "lt-liberty-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "major-hawk-hunter-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "gregg-matthews-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "sal-defazio-giwf-weeklywar-1995",
+    "kind": "match"
+   }
+  ],
+  "matches": [
+   {
+    "order": 1,
+    "sides": [
+     [
+      "desert-storm-giwf-weeklywar-1995"
+     ],
+     [
+      "blobber-giwf-weeklywar-1995"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "For the GIWF World Heavyweight Championship, a ladder match. Desert Storm wins the title, per the fed's own 12 October 1996 rankings citation."
+   },
+   {
+    "order": 2,
+    "sides": [
+     [
+      "the-narcissist-giwf-weeklywar-1995",
+      "lt-liberty-giwf-weeklywar-1995",
+      "major-hawk-hunter-giwf-weeklywar-1995"
+     ],
+     [
+      "gregg-matthews-giwf-weeklywar-1995",
+      "sal-defazio-giwf-weeklywar-1995"
+     ]
+    ],
+    "winner_side": 0,
+    "note": "For the GIWF World Tag-Team Championship. Jingoist defeats the defending champions Pressure Point, per the fed's own 12 October 1996 rankings citation."
+   }
+  ],
+  "notes": "Posted in eight parts; this wing serves part 1 (the card's own opening) in full. Both title matches structured here are sourced to the fed's own later rankings citation rather than a directly-read blow-by-blow of the finish, since the served part does not itself reach these bouts."
+ },
+ {
+  "id": "giwf-weeklywar-1995-goldrush2-1996-12-08",
+  "type": "show",
+  "name": "GIWF Gold Rush II",
+  "promotion": "giwf-weeklywar-1995",
+  "date": {
+   "date": "1996-12-08",
+   "precision": "exact",
+   "source": "The show's own banner: 'Global Internet Wrestling Federation, GOLD RUSH II PPV, December 8, 1996, Live, from The Sulivan Sports Arena, in Anchorage, Alaska.'"
+  },
+  "page": "/promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-goldrush2-1996-12-08.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "mean-man-mama-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "david-stevens-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "steve-latini-giwf-weeklywar-1995",
+    "kind": "match"
+   }
+  ],
+  "matches": [],
+  "notes": "Posted in seven-plus parts; this wing serves part 1 (the card's own opening) in full. The card's own text (read across the held record) confirms two title retentions -- Mean Man-Mama (Women's) and David \"Death Sentence\" Stevens (Light-Heavyweight) -- registered in reigns.json; a third angle, a United States title presentation to challenger Tyler Smythe interrupted by champion Steve Latini's own surprise return, is not confidently resolved to a clean result from the surviving transmission and is left unasserted, visible on the served page itself."
+ },
+ {
+  "id": "giwf-weeklywar-1995-warofworlds-1996-02-24",
+  "type": "show",
+  "name": "GIWF War of the Worlds",
+  "promotion": "giwf-weeklywar-1995",
+  "date": {
+   "date": "1996-02-24",
+   "precision": "exact",
+   "source": "The show's own banner: 'Global Internet Wrestling Federation, WAR OF THE WORLDS PPV, February 24, 1996, Live, from Madison Square Gardens!'"
+  },
+  "page": "/promotions/giwf-weeklywar-1995/archive/giwf-weeklywar-1995-warofworlds-1996-02-24.html",
+  "collection": "0148",
+  "appearances": [
+   {
+    "who": "theseus-devlin-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "jacob-mcdonahey-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "chaos-giwf-weeklywar-1995",
+    "kind": "match"
+   },
+   {
+    "who": "sal-defazio-giwf-weeklywar-1995",
+    "kind": "angle"
+   }
+  ],
+  "matches": [],
+  "notes": "This wing's own previously flagged gap (provenance_notes: 'War of the Worlds... no dated post carrying its own full transcript survives') is filled by a 9-post transcript recovered outside this wing's own original C90-AL01 corpus partition (msg_ids 8XbcLOp_AMcJ through AjZ1gNp62uYJ, all dated 25 February 1996, one author). This wing serves part 1 (the card's own opening, a hospital-charity vignette and the tag-team elimination opener) in full. Read across the whole surviving transcript rather than part 1 alone: the World Heavyweight Championship main event (Theseus Devlin defending against United States Champion Jacob McDonahey, with former champion Sal DeFazio watching ringside and challenging for a rematch afterward) ends with Devlin '[retaining] his GIWF World Title' -- confirming his reign (giwf-weeklywar-1995-world-heavyweight-r003) continued past this date, corroborating rather than changing the existing reigns record. The Light-Heavyweight title match (Chaos defending against a challenger not otherwise registered in this wing) is ruled a no-contest after third-party interference, with the announcer's own call confirming Chaos 'STILL your Light Heavyweight Champion' -- likewise corroborating the existing reign (giwf-weeklywar-1995-light-heavyweight-r001) without a title change. The card's several other announced matches (a six-team elimination gauntlet, a tag match, a six-on-six brawl, a women's tag match) are read but not separately structured, per the no-bulk-mirroring rule; none reaches a confidently resolved result on this transmission alone."
+ }
+]

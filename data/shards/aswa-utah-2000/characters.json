@@ -1,0 +1,44 @@
+[
+ {
+  "id": "gene-oakland-aswa-utah-2000",
+  "type": "character",
+  "name": "Gene Oakland",
+  "tenures": [
+   {
+    "promotion": "aswa-utah-2000",
+    "roles": [
+     "authority-figure"
+    ],
+    "grade": "primary-source",
+    "first_seen": "2000-12-14",
+    "last_seen": "2001-04-28",
+    "role": "authority figure: president and owner of the ASWA and chief executive of its parent, All Star Wrestling, who announced the Midwest Wrestling Express at a press conference in Milwaukee",
+    "source": "promotions/aswa-utah-2000/archive/asw-news-page-2001-04-28.html; promotions/aswa-utah-2000/archive/aswa-utah-faq-and-application-2000-12-14.html",
+    "note": "April 2001: \"Oakland, the owner of All Star Wrestling Inc. has announced that the next phase of ASW's development will be the creation of a federation in the Midwest\"; \"Oakland held a press conference earlier today in Milwaukee, Wisconsin\". The ASWA's handbook of December 2000 (promotions/aswa-utah-2000/archive/aswa-utah-faq-and-application-2000-12-14.html) names him President and Owner and the chief executive of All Star Wrestling."
+   }
+  ],
+  "caption": "President and owner of the All Star Wrestling Alliance and chief executive of its parent company, All Star Wrestling, a former wrestler whose career a mistimed powerbomb ended; in April 2001 he announced a second federation, the Midwest Wrestling Express, at a press conference in Milwaukee.",
+  "caption_asof": {
+   "written": "2026-10-10",
+   "author": "ai",
+   "evidence": {
+    "tenures": 1,
+    "reigns": 0,
+    "appearances": 0,
+    "rps": 0,
+    "awards": 0,
+    "relationships": 0
+   }
+  },
+  "identity": [
+   {
+    "assertion": "distinct",
+    "grade": "presumed",
+    "with": [
+     "gene-oakland-apw"
+    ],
+    "note": "Shares the name of the APW announcer of 1997 (newsgroup pages); this is the ASWA's owner and the chief executive of All Star Wrestling, 2000 to 2001. No document ties the two."
+   }
+  ]
+ }
+]
